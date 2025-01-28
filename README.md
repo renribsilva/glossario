@@ -1,1 +1,1 @@
-* GLOSSÁRIO DO RE
+* GLOSSÁRIO
