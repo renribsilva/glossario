@@ -1,0 +1,2 @@
+– vírgula nas strings
+— ponto e vírgula nas strings
