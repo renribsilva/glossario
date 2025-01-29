@@ -19,7 +19,7 @@ export default function conjData(inputData: Record<string, string[]>[]): Record<
 
       if (!outputData[term]) {
         outputData[term] = { 
-          original: values[0],
+          original: nw(values[0]),
           conj: { plain_text: {} } 
         };
       }

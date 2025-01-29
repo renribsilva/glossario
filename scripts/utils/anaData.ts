@@ -21,12 +21,12 @@ export default function anaData(inputData: string[]): Record<string, AnalogEntry
     if (values[6] !== "") {
       const normOriginal = ni(values[6]);
       const original = nw(values[6]);
-      const subgroup0 = values[0];
-      const subgroup1 = values[1];
-      const subgroup2 = values[2];
-      const subgroup3 = values[3];
-      const subgroup4 = values[4];
-      const num_ref = values[5];
+      const subgroup0 = nw(values[0]);
+      const subgroup1 = nw(values[1]);
+      const subgroup2 = nw(values[2]);
+      const subgroup3 = nw(values[3]);
+      const subgroup4 = nw(values[4]);
+      const num_ref = nw(values[5]);
 
       // Aqui, apenas aplicamos nw e depois split, map e filter sem adicionar um array extra
       const sub = nw(values[7]).split("$").map((item) => item.trim()).filter((item) => item !== "");

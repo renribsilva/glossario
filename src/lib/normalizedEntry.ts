@@ -1,9 +1,8 @@
 export function ni(input: string): string {
-  
   if (input == null) {
     return "";
   }
-  
+
   const normalizedInput = input.normalize("NFD");
 
   if (typeof normalizedInput !== "string") {
@@ -17,20 +16,22 @@ export function ni(input: string): string {
     }
     return "";
   });
-
-  return cleaned
-    .toLowerCase() 
+  
+  const result = cleaned
+    .toLowerCase()
     .replace(/--+/g, "-")
     .trim()
-    .replace(/#/g,",")
-    .replace(/\*/g,":")
-    .replace(/@/g,";") 
+    .replace(/#/g, ",")
+    .replace(/\*/g, ":")
+    .replace(/@/g, ";")
     .replace(/"\s*"/g, "\"")
+    .replace(/[.;:]+$/, "")
     .normalize("NFC");
+
+  return result.replace(/[.;:]$/, "");
 }
 
-export const nw = (word: string ): string => {
-  
+export const nw = (word: string): string => {
   if (word == null) {
     return "";
   }
@@ -40,20 +41,21 @@ export const nw = (word: string ): string => {
     return "";
   }
 
-  return word      
+  return word
     .trim()
-    .replace(/#/g,",")
-    .replace(/\*/g,":") 
-    .replace(/@/g,";")
-    .replace(/"\s*"/g, "\"")     
+    .replace(/#/g, ",")
+    .replace(/\*/g, ":")
+    .replace(/@/g, ";")
+    .replace(/"\s*"/g, "\"")
+    .replace(/[.;:]$/, "")
     .normalize("NFC");
 };
 
+// Exemplos de uso
 // console.log(ni("pôr"));      
 // console.log(ni("ç"));        
-// console.log(ni("àç"));      
-// console.log(ni("começar"));  
-// console.log(ni("café"));     
+// console.log(ni("àç."));      
+// console.log(ni("começar;"));  
+// console.log(ni("café."));     
 // console.log(ni("ação"));     
-// console.log(ni("co-habitar"));     
-
+// console.log(ni("co-habitar;"));  

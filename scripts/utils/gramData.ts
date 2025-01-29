@@ -19,7 +19,7 @@ export default function defData(inputData: string[]): Record<string, {
 
       if (!outputData[term]) {
         outputData[term] = { 
-          original: values[0],
+          original: nw(values[0]),
           gram: { plain_text: {} } 
         };
       }

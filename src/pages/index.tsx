@@ -3,12 +3,13 @@ import styles from "../styles/index.module.css";
 import Glossario from "../json/glossary.json";
 import { ni } from "../lib/normalizedEntry";
 
-interface GlosaValues {
-  exp: string | undefined;
-  conj: string | undefined;
-  gram: string | undefined;
-  def: string | undefined;
-  dif: string | undefined;
+interface GlosaData {
+  original?: string;
+  exp?: string;
+  conj?: string;
+  gram?: string;
+  def?: string;
+  dif?: string;
 }
 
 interface GlosaEntry {
@@ -16,146 +17,171 @@ interface GlosaEntry {
 }
 
 export default function HomePage() {
-  const [inputValue, setInputValue] = useState<string>("");
+
+  const [inputValue, setInputValue] = useState<string | undefined>(undefined);
   const [showDefinition, setShowDefinition] = useState<boolean>(false);
   const [glosaEntries, setGlosaEntries] = useState<GlosaEntry[]>([]);
-  const [glosaValues, setGlosaValues] = useState<GlosaValues>({
-    exp: undefined,
-    conj: undefined,
-    gram: undefined,
-    def: undefined,
-    dif: undefined,
-  });
+  const [glosaData, setGlosaData] = useState<GlosaData>({});
 
   function getGlosaEntries() {
-    if (!inputValue.trim()) {
+    if (!inputValue) {
       setGlosaEntries([]);
-      setGlosaValues({
-        exp: undefined,
-        conj: undefined,
-        gram: undefined,
-        def: undefined,
-        dif: undefined,
-      });
       return;
     }
 
     const entries: GlosaEntry[] = [];
-    let glosaValues = {
-      exp: undefined,
-      conj: undefined,
-      gram: undefined,
-      def: undefined,
-      dif: undefined,
-    };
+
+    const regex = new RegExp(`(^|\\s)${inputValue}($|\\s)`, "i");
 
     for (const [chave, valor] of Object.entries(Glossario)) {
-      // Verifica se a chave contém o inputValue
-      if (ni(chave).includes(ni(inputValue))) {
-        entries.push({
-          original: valor.original,
-        });
-      }
-
-      if (ni(inputValue).endsWith(ni(chave))) {
-        glosaValues = {
-          exp: valor.exp?.plain_text?.[1] || undefined,
-          conj: valor.conj?.plain_text?.[1] || undefined,
-          gram: valor.gram?.plain_text?.[1] || undefined,
-          def: valor.def?.plain_text?.[1] || undefined,
-          dif: valor.dif?.plain_text?.[1] || undefined,
-        };
+      if (regex.test(ni(chave))) {
+        entries.push({ original: valor.original });
       }
     }
 
     setGlosaEntries(entries);
-    setGlosaValues(glosaValues);
   }
+
+  function getGlosaData(input: string) {
+    
+    const valor = Glossario[input];
+  
+    if (valor) {
+      const formatObject = (entrie?: { plain_text: { [key: string]: string } }) => 
+        entrie
+          ? Object.values(entrie.plain_text)
+              .map((value, index) => `${index + 1}. ${value}`)
+              .join("; ")
+          : undefined;
+
+      const data: GlosaData = {
+        original: valor.original || undefined,
+        exp: formatObject(valor.exp),
+        conj: formatObject(valor.conj),
+        gram: formatObject(valor.gram),
+        def: formatObject(valor.def),
+        dif: formatObject(valor.dif),
+      };
+      setGlosaData(data);
+    }
+  }
+
+  const handleInputChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
+    const fullText = e.target.value;
+    const words = ni(fullText)
+    .replace(/[!"#$%&'()*+,.ºª/:;¨´<=>?´@[\\\]^_`{|}~]+/g, "")
+    .split(/\s+/);
+    const validWords = words.filter(word => word.trim() !== "");
+    setInputValue(validWords[validWords.length - 1]);
+  };
+
+  const handleKeyDown = (e: React.KeyboardEvent<HTMLTextAreaElement>) => {
+    const fullText = e.currentTarget.value;
+    if (fullText.endsWith(" ") || fullText.endsWith(".") || e.key === "Enter") {
+      const words = ni(fullText)
+      .replace(/[!"#$%&'()*+,.ºª/:;¨´<=>?´@[\\\]^_`{|}~]+/g, "")
+      .split(/\s+/);
+      const validWords = words.filter(word => word.trim() !== "");
+    setInputValue(validWords[validWords.length - 1]);
+    }
+  };
+
+  const handleShowDefinition = (input: string) => {
+    setShowDefinition(true);
+    getGlosaData(ni(input));
+  };
 
   useEffect(() => {
     getGlosaEntries();
   }, [inputValue]);
 
-  const handleShowDefinition = () => {
-    setShowDefinition(true);
-  };
+  console.log(inputValue);
 
   return (
-    <div>
-      <div className={styles.input_container}>
-        <textarea
-          className={styles.input}
-          onChange={(e) => {
-            const fullText = e.target.value.trim();
-            if (fullText === "") {
-              setInputValue("");
-              setGlosaEntries([]);
-              setGlosaValues({
-                exp: undefined,
-                conj: undefined,
-                gram: undefined,
-                def: undefined,
-                dif: undefined,
-              });
-              return;
-            }
-            const words = fullText.split(/\s+/);
-            const lastWord = words[words.length - 1] || "";
-            setInputValue(lastWord);
-          }}
-          placeholder="Digite o texto..."
-        />
-      </div>
-      <div>
-        <h2>Glossário</h2>
-        {/* Renderizando as entradas de glossário */}
-        <div>
-          {glosaEntries.length > 0 ? (
-            glosaEntries.map((entry, index) => (
-              <div key={index}>
-                <button
-                  onClick={handleShowDefinition}
-                  style={{ cursor: "pointer" }}
-                  className={styles.button}
-                >
-                  {entry.original}
-                </button>
-              </div>
-            ))
-          ) : (
-            <p>Nenhuma entrada encontrada.</p>
-          )}
+    <div className={styles.home}>
+      <div className={styles.home_left}>
+        <div className={styles.textarea_container}>
+          <textarea
+            className={styles.textarea}
+            onChange={handleInputChange}
+            onKeyDown={handleKeyDown}
+            placeholder="Digite o texto..."
+          />
         </div>
-        <div>
-          {showDefinition && (
-            <>
-              {glosaValues.exp && (
-                <div>
-                  <strong>Exp:</strong> {glosaValues.exp}
+        <div className={styles.dynamic_content}>
+          <div className={styles.glossario_container}>
+            {
+            inputValue === undefined
+            && glosaEntries.length === 0 
+            && (
+              <p>Digite o texto para ver glosas relacionadas a cada palavra digitada</p>
+            )}
+            {(inputValue !== undefined && inputValue.length > 0) && glosaEntries.length === 0 && (
+              <>
+                <p>Nenhuma glosa que contém:</p>
+                <span><strong>{inputValue}</strong></span>
+              </>
+            )}
+            {glosaEntries.length > 0 && (
+              glosaEntries.map((entry, index) => {
+                // Limita o texto a um certo número de caracteres (por exemplo, 15)
+                const maxLength = 25;
+                const truncatedText = entry.original.length > maxLength
+                  ? entry.original.slice(0, maxLength) + "..."
+                  : entry.original;
+
+                return (
+                  <div key={index}>
+                    <button
+                      onClick={() => handleShowDefinition(entry.original)}
+                      style={{ cursor: "pointer" }}
+                      className={styles.button}
+                      title={entry.original} // Exibe o texto completo ao passar o mouse
+                    >
+                      {truncatedText}
+                    </button>
+                  </div>
+                );
+              })
+            )}
+          </div>
+          <div className={styles.definitions_container}>
+            {showDefinition && (
+              <>
+                <div className={styles.definitions_title}>
+                  <span>Glosa de </span>
+                  <span><strong>&quot;{glosaData.original}&quot;</strong></span>
                 </div>
-              )}
-              {glosaValues.conj && (
                 <div>
-                  <strong>Conj:</strong> {glosaValues.conj}
+                  {glosaData.exp && (
+                    <div>
+                      <strong>Exp:</strong> {glosaData.exp}
+                    </div>
+                  )}
+                  {glosaData.conj && (
+                    <div>
+                      <strong>Conj:</strong> {glosaData.conj}
+                    </div>
+                  )}
+                  {glosaData.gram && (
+                    <div>
+                      <strong>Gram:</strong> {glosaData.gram}
+                    </div>
+                  )}
+                  {glosaData.def && (
+                    <div>
+                      <strong>Def:</strong> {glosaData.def}
+                    </div>
+                  )}
+                  {glosaData.dif && (
+                    <div>
+                      <strong>Dif:</strong> {glosaData.dif}
+                    </div>
+                  )}
                 </div>
-              )}
-              {glosaValues.gram && (
-                <div>
-                  <strong>Gram:</strong> {glosaValues.gram}
-                </div>
-              )}
-              {glosaValues.def && (
-                <div>
-                  <strong>Def:</strong> {glosaValues.def}
-                </div>
-              )}
-              {glosaValues.dif && (
-                <div>
-                  <strong>Dif:</strong> {glosaValues.dif}
-                </div>
-              )}
-            </>
-          )}
+              </>
+            )}
+          </div>
         </div>
       </div>
     </div>

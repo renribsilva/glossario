@@ -1,21 +1,85 @@
-/**********************************************/
-/*******************INPUT**********************/
-/**********************************************/
+/*********************************************/
+/*******************HOME**********************/
+/*********************************************/
 
-.input_container {
-  /* background-color: aquamarine; */
-  padding: 5px;
+.home_left {
+  display: flex;
+  flex-direction: column;
+  gap: 5px
 }
 
-.input {
+/*************************************************/
+/*******************TEXTAREA**********************/
+/*************************************************/
+
+.textarea {
   background-color: var(--color-button-light);
-  border-radius: 0.2rem;
   border: none;
-  padding: 15px;
   font-size: 18px;
-  height: 200px;
-  width: 1000px;
+  min-height: 200px;
   font-family: "Ubuntu";
   font-weight: 300;
-  font-size: 14px;  
+  font-size: 14px;
+  max-width: 50%;
+  min-width: 50%;
+  padding: 15px;
+  box-sizing: border-box;
+}
+
+@media (max-width: 800px) {
+  .textarea {
+    max-width: 100%;
+    min-width: 100%;
+  }
+}
+
+/****************************************************/
+/*******************DEFINITIONS**********************/
+/****************************************************/
+
+.dynamic_content {
+  /* background-color: aquamarine; */
+  display: flex;
+  gap: 5px;
+  max-width: 50%;
+  flex-wrap: wrap;
+}
+
+.dynamic_content > div {
+  flex: 1;
+}
+
+/*GLOSSÁRIO CONTAINER*/
+
+.glossario_container {
+  min-height: 200px;
+  max-height: 500px;
+  min-width: 200px;
+  overflow-y: auto;
+  background: var(--color-button-light);
+  padding: 15px;
+}
+
+.glossario_container p {
+  margin: 0;
+}
+
+.button {
+  border: none;
+  height: 20px;
+  font-size: 14px;
+  font-family: "Ubuntu";
+  font-weight: 300;
+}
+
+/*DEFINITIONS CONTAINER*/
+
+.definitions_container {
+  background-color:var(--color-button-light);
+  padding: 15px;
+  min-width: 200px;
+}
+
+.definitions_title {
+  margin-bottom: 20px;
 }
