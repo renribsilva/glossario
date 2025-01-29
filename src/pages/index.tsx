@@ -27,10 +27,6 @@ export default function HomePage() {
     dif: undefined,
   });
 
-  function getGlosaData() {
-    
-  }
-
   function getGlosaEntries() {
     if (!inputValue.trim()) {
       setGlosaEntries([]);
