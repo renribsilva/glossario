@@ -1,0 +1,21 @@
+/**********************************************/
+/*******************INPUT**********************/
+/**********************************************/
+
+.input_container {
+  /* background-color: aquamarine; */
+  padding: 5px;
+}
+
+.input {
+  background-color: var(--color-button-light);
+  border-radius: 0.2rem;
+  border: none;
+  padding: 15px;
+  font-size: 18px;
+  height: 200px;
+  width: 1000px;
+  font-family: "Ubuntu";
+  font-weight: 300;
+  font-size: 14px;  
+}

@@ -1,11 +1,16 @@
 import { ni, nw } from "../../src/lib/normalizedEntry";
 
-export default function conjData(inputData: string[]): Record<string, { plain_text: string | Record<number, string> }> {
-  const outputData: Record<string, { plain_text: string | Record<number, string> }> = {};
+export default function conjData(inputData: Record<string, string[]>[]): Record<string, { 
+  conj: { plain_text: Record<number, string> }
+  original: string
+}> {
+  const outputData: Record<string, { 
+    conj: { plain_text: Record<number, string> }
+    original: string
+  }> = {};
 
   for (const entry of inputData) {
-
-    const key = Object.keys(entry)[0];
+    const key = Object.keys(entry)[0]; 
     const values = entry[key];
 
     if (values[0] !== "") {
@@ -13,15 +18,14 @@ export default function conjData(inputData: string[]): Record<string, { plain_te
       const conjValue = nw(String(values[1]));
 
       if (!outputData[term]) {
-        outputData[term] = { plain_text: {} };
+        outputData[term] = { 
+          original: values[0],
+          conj: { plain_text: {} } 
+        };
       }
 
-      if (typeof outputData[term].plain_text === "string") {
-        outputData[term].plain_text = { 1: outputData[term].plain_text as string };
-      }
-
-      const nextIndex = Object.keys(outputData[term].plain_text).length + 1;
-      outputData[term].plain_text[nextIndex] = conjValue;
+      const nextIndex = Object.keys(outputData[term].conj.plain_text).length + 1;
+      outputData[term].conj.plain_text[nextIndex] = conjValue;
     }
   }
 

@@ -26,11 +26,11 @@ type GlossaryEntry = {
 };
 
 const srcDir = path.join(process.cwd(), "src");
-const expPath = path.join(srcDir, "json", "exp.json");
-const conjPath = path.join(srcDir, "json", "conj.json");
-const defPath = path.join(srcDir, "json", "def.json");
-const gramPath = path.join(srcDir, "json", "gram.json");
-const difPath = path.join(srcDir, "json", "dif.json"); // Novo arquivo para dif.json
+const expPath = path.join(srcDir, "json", "glossaryJson", "exp.json");
+const conjPath = path.join(srcDir, "json", "glossaryJson", "conj.json");
+const defPath = path.join(srcDir, "json", "glossaryJson", "def.json");
+const gramPath = path.join(srcDir, "json", "glossaryJson", "gram.json");
+const difPath = path.join(srcDir, "json", "glossaryJson", "dif.json"); 
 const glossaryPath = path.join(srcDir, "json", "glossary.json");
 
 function createGlossary() {
@@ -94,11 +94,11 @@ function createGlossary() {
             // Processa os dados de conj
             for (const term in conjDataProcessed) {
               if (glossary[term]) {
-                glossary[term].conj = conjDataProcessed[term];
+                glossary[term].conj = conjDataProcessed[term].conj;
               } else {
                 glossary[term] = {
-                  original: term,
-                  conj: conjDataProcessed[term],
+                  original: conjDataProcessed[term].original,
+                  conj: conjDataProcessed[term].conj,
                 };
               }
             }
@@ -109,7 +109,7 @@ function createGlossary() {
                 glossary[term].def = defDataProcessed[term].def;
               } else {
                 glossary[term] = {
-                  original: term,
+                  original: defDataProcessed[term].original,
                   def: defDataProcessed[term].def,
                 };
               }
@@ -121,7 +121,7 @@ function createGlossary() {
                 glossary[term].gram = gramDataProcessed[term].gram;
               } else {
                 glossary[term] = {
-                  original: term,
+                  original: gramDataProcessed[term].original,
                   gram: gramDataProcessed[term].gram,
                 };
               }
@@ -133,7 +133,7 @@ function createGlossary() {
                 glossary[term].dif = difDataProcessed[term].dif;
               } else {
                 glossary[term] = {
-                  original: term,
+                  original: difDataProcessed[term].original,
                   dif: difDataProcessed[term].dif,
                 };
               }

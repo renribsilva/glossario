@@ -1,7 +1,13 @@
 import { ni, nw } from "../../src/lib/normalizedEntry"; // Ajuste conforme necessário
 
-export default function defData(inputData: string[]): Record<string, { dif: { plain_text: string | Record<number, string> } }> {
-  const outputData: Record<string, { dif: { plain_text: string | Record<number, string> } }> = {};
+export default function defData(inputData: string[]): Record<string, { 
+  original: string,
+  dif: { plain_text: string | Record<number, string> } 
+}> {
+  const outputData: Record<string, { 
+    original: string,
+    dif: { plain_text: string | Record<number, string> } 
+  }> = {};
 
   for (const entry of inputData) {
     const key = Object.keys(entry)[0];
@@ -12,7 +18,10 @@ export default function defData(inputData: string[]): Record<string, { dif: { pl
       const defValue = nw(String(values[1]));
 
       if (!outputData[term]) {
-        outputData[term] = { dif: { plain_text: {} } };
+        outputData[term] = { 
+          original: values[0],
+          dif: { plain_text: {} } 
+        };
       }
 
       if (typeof outputData[term].dif.plain_text === "string") {

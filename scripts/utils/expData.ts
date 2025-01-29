@@ -23,7 +23,7 @@ export default function expData(inputData: string[]): Record<string, { exp: { pl
 
       outputData[term] = {
         original: values[0],
-        exp: {
+        exp: { 
           plain_text: plainTextObject,
         },
       };

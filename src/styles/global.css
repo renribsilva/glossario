@@ -1,0 +1,43 @@
+:root, html, body {
+  --color-fill-light: rgb(255, 255, 255);
+  --color-text-base-light: rgb(61, 61, 61);
+  --color-mod-light: rgba(230, 230, 230);
+  --color-tense-light: rgb(242, 242, 242);
+  --color-button-light:rgb(242, 242, 242);
+  
+  --color-fill-dark: rgb(45, 45, 45);
+  --color-text-base-dark: rgb(240, 240, 240);
+  --color-mod-dark: rgba(60, 60, 60);
+  --color-tense-dark: rgba(55, 55, 55);
+  --color-button-dark:rgb(61, 61, 61);
+}
+
+[data-theme="dark"] {
+  --background: var(--color-fill-dark);
+  --foreground: var(--color-text-base-dark);
+  --largeshadow: rgba(0, 0, 0, 1) 0px 0px 3px;
+  --modbox:var(--color-mod-dark);
+  --tensebox:var(--color-tense-dark);
+  --button: var(--color-button-dark)
+}
+
+[data-theme="light"] {
+  --background: var(--color-fill-light);
+  --foreground: var(--color-text-base-light);
+  --largeshadow: rgba(0, 0, 0, 0.2) 0px 0px 3px;
+  --modbox:var(--color-mod-light);
+  --tensebox:var(--color-tense-light);
+  --button: var(--color-button-light)
+}
+
+* {
+  background-color: var(--background); 
+  color: var(--foreground);
+}
+
+body {
+  margin: 0px;
+  padding: 5px;
+  font-family: "Ubuntu";
+  font-weight: 300;
+}

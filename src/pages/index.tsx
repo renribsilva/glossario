@@ -1,70 +1,167 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
+import styles from "../styles/index.module.css";
+import Glossario from "../json/glossary.json";
+import { ni } from "../lib/normalizedEntry";
 
-interface DefinicaoEntry {
-  word: string;
-  xml: string;
+interface GlosaValues {
+  exp: string | undefined;
+  conj: string | undefined;
+  gram: string | undefined;
+  def: string | undefined;
+  dif: string | undefined;
 }
 
-const parseXmlDefinition = (xmlString: string): string => {
-  const parser = new DOMParser();
-  const xmlDoc = parser.parseFromString(xmlString, "text/xml");
+interface GlosaEntry {
+  original: string;
+}
 
-  // Extrair a definição
-  const definition = xmlDoc.querySelector("def")?.textContent || "Definição não encontrada.";
+export default function HomePage() {
+  const [inputValue, setInputValue] = useState<string>("");
+  const [showDefinition, setShowDefinition] = useState<boolean>(false);
+  const [glosaEntries, setGlosaEntries] = useState<GlosaEntry[]>([]);
+  const [glosaValues, setGlosaValues] = useState<GlosaValues>({
+    exp: undefined,
+    conj: undefined,
+    gram: undefined,
+    def: undefined,
+    dif: undefined,
+  });
 
-  // Extrair a etimologia (se existir)
-  const etymology = xmlDoc.querySelector("etym")?.textContent || "";
+  function getGlosaData() {
+    
+  }
 
-  // Retornar a definição formatada
-  return `${definition} ${etymology ? `\n(Etimologia: ${etymology})` : ""}`;
-};
-
-export default function Home() {
-  const [palavra, setPalavra] = useState("");
-  const [definicao, setDefinicao] = useState<string | null>(null);
-  const [error, setError] = useState<string | null>(null);
-
-  const buscarDefinicao = async () => {
-    try {
-      const response = await fetch(`/api/getWord?palavra=${palavra}`);
-      if (!response.ok) {
-        throw new Error("Palavra não encontrada");
-      }
-
-      const data: DefinicaoEntry[] = await response.json();
-      if (data.length > 0) {
-        // Extrair e formatar a definição do XML
-        const definicaoFormatada = parseXmlDefinition(data[0].xml);
-        setDefinicao(definicaoFormatada);
-      } else {
-        setDefinicao("Nenhuma definição encontrada.");
-      }
-      setError(null);
-    } catch (err) {
-      setError(`${err}: Erro ao buscar a definição da palavra`);
-      setDefinicao(null);
+  function getGlosaEntries() {
+    if (!inputValue.trim()) {
+      setGlosaEntries([]);
+      setGlosaValues({
+        exp: undefined,
+        conj: undefined,
+        gram: undefined,
+        def: undefined,
+        dif: undefined,
+      });
+      return;
     }
+
+    const entries: GlosaEntry[] = [];
+    let glosaValues = {
+      exp: undefined,
+      conj: undefined,
+      gram: undefined,
+      def: undefined,
+      dif: undefined,
+    };
+
+    for (const [chave, valor] of Object.entries(Glossario)) {
+      // Verifica se a chave contém o inputValue
+      if (ni(chave).includes(ni(inputValue))) {
+        entries.push({
+          original: valor.original,
+        });
+      }
+
+      if (ni(inputValue).endsWith(ni(chave))) {
+        glosaValues = {
+          exp: valor.exp?.plain_text?.[1] || undefined,
+          conj: valor.conj?.plain_text?.[1] || undefined,
+          gram: valor.gram?.plain_text?.[1] || undefined,
+          def: valor.def?.plain_text?.[1] || undefined,
+          dif: valor.dif?.plain_text?.[1] || undefined,
+        };
+      }
+    }
+
+    setGlosaEntries(entries);
+    setGlosaValues(glosaValues);
+  }
+
+  useEffect(() => {
+    getGlosaEntries();
+  }, [inputValue]);
+
+  const handleShowDefinition = () => {
+    setShowDefinition(true);
   };
 
   return (
     <div>
-      <h1>Buscar Definição de Palavra</h1>
-      <input
-        type="text"
-        value={palavra}
-        onChange={(e) => setPalavra(e.target.value)}
-        placeholder="Digite uma palavra"
-      />
-      <button onClick={buscarDefinicao}>Buscar</button>
-
-      {error && <p style={{ color: "red" }}>{error}</p>}
-
-      {definicao && (
+      <div className={styles.input_container}>
+        <textarea
+          className={styles.input}
+          onChange={(e) => {
+            const fullText = e.target.value.trim();
+            if (fullText === "") {
+              setInputValue("");
+              setGlosaEntries([]);
+              setGlosaValues({
+                exp: undefined,
+                conj: undefined,
+                gram: undefined,
+                def: undefined,
+                dif: undefined,
+              });
+              return;
+            }
+            const words = fullText.split(/\s+/);
+            const lastWord = words[words.length - 1] || "";
+            setInputValue(lastWord);
+          }}
+          placeholder="Digite o texto..."
+        />
+      </div>
+      <div>
+        <h2>Glossário</h2>
+        {/* Renderizando as entradas de glossário */}
         <div>
-          <h2>Definição de {palavra}:</h2>
-          <pre>{definicao}</pre> {/* Usamos <pre> para manter a formatação */}
+          {glosaEntries.length > 0 ? (
+            glosaEntries.map((entry, index) => (
+              <div key={index}>
+                <button
+                  onClick={handleShowDefinition}
+                  style={{ cursor: "pointer" }}
+                  className={styles.button}
+                >
+                  {entry.original}
+                </button>
+              </div>
+            ))
+          ) : (
+            <p>Nenhuma entrada encontrada.</p>
+          )}
         </div>
-      )}
+        <div>
+          {showDefinition && (
+            <>
+              {glosaValues.exp && (
+                <div>
+                  <strong>Exp:</strong> {glosaValues.exp}
+                </div>
+              )}
+              {glosaValues.conj && (
+                <div>
+                  <strong>Conj:</strong> {glosaValues.conj}
+                </div>
+              )}
+              {glosaValues.gram && (
+                <div>
+                  <strong>Gram:</strong> {glosaValues.gram}
+                </div>
+              )}
+              {glosaValues.def && (
+                <div>
+                  <strong>Def:</strong> {glosaValues.def}
+                </div>
+              )}
+              {glosaValues.dif && (
+                <div>
+                  <strong>Dif:</strong> {glosaValues.dif}
+                </div>
+              )}
+            </>
+          )}
+        </div>
+      </div>
     </div>
   );
 }

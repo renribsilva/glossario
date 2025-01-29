@@ -3,7 +3,7 @@ import path from "path";
 import anaData from "./utils/anaData";
 
 const srcDir = path.join(process.cwd(), "src");
-const anaPath = path.join(srcDir, "json", "ana.json");
+const anaPath = path.join(srcDir, "json", "analogJson", "ana.json");
 const analogPath = path.join(srcDir, "json", "analog.json");
 
 function createAnalog() {
