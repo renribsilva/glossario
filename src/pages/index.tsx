@@ -280,81 +280,89 @@ export default function HomePage() {
       <div className={styles.home_rigth}>
         <div className={styles.synonim_container} />
         <div className={styles.analog_container}>
-          <div className={styles.analog_header}>
-            <div className={styles.analog_header_1}><strong>Grupos</strong></div>
-            <div className={styles.analog_header_2}><strong>Campo analógico</strong></div>
-            <div className={styles.analog_header_3}>
-              {["sub", "verb", "adj", "adv", "phr"].map((list) => {
-                return (
-                  <button
-                    key={list}
-                    className={`${styles.analog_button} ${
-                      activeList === list ? styles.active : styles.inactive
-                    }`}
-                    onClick={() => handleListClick(list)}
-                  >
-                    {list}
-                  </button>
-                );
-              })}
+          <div>
+            <div className={styles.analog_header}>
+              <div className={styles.analog_header_1}><strong>Grupos</strong></div>
+              <div className={styles.analog_header_2}><strong>Campo analógico</strong></div>
+            </div>
+            <div className={styles.analog_groups}>
+              <div>
+                {analogKeyData 
+                && analogKeyData.length > 0 
+                && analogKeyData.map((item: string, index: number) => (
+                  <>
+                    <button 
+                      key={index} 
+                      className={styles.button}
+                      onClick={() => handleAnalogClick(item)}
+                      title={item}
+                    ><strong>{item}</strong>
+                    </button>
+                  </>
+                ))}
+                <p>(clique para ver as palavras do campo analógico)</p>
+              </div>
+              <div>
+                {analogData && showAnalogDef && analogData.group && (
+                  <div>
+                    {analogData.group.sub0}{" "}
+                    {analogData.group.sub1}{" "}
+                    {analogData.group.sub2}{" "}
+                    {analogData.group.sub3}{" "}
+                    {analogData.group.sub4}
+                  </div>
+                )}
+              </div>
             </div>
           </div>
-          <div className={styles.analog_groups}>
-            <div>
-              {analogKeyData 
-              && analogKeyData.length > 0 
-              && analogKeyData.map((item: string, index: number) => (
-                <>
-                  <button 
-                    key={index} 
-                    className={styles.button}
-                    onClick={() => handleAnalogClick(item)}
-                    title={item}
-                  ><strong>{item}</strong>
-                  </button>
-                </>
-              ))}
-              <p>(clique para ver as palavras do campo analógico)</p>
+          <div>
+            <div className={styles.analog_header}>
+              <div className={styles.analog_header_3}>
+                {["sub", "verb", "adj", "adv", "phr"].map((list) => {
+                  return (
+                    <button
+                      key={list}
+                      className={`${styles.analog_button} ${
+                        activeList === list ? styles.active : styles.inactive
+                      }`}
+                      onClick={() => handleListClick(list)}
+                    >
+                      {list}
+                    </button>
+                  );
+                })}
+              </div>
             </div>
-            <div>
-              {analogData && showAnalogDef && analogData.group && (
+            <div className={styles.analog_groups}>
+              <div>
                 <div>
-                  {analogData.group.sub0}{" "}
-                  {analogData.group.sub1}{" "}
-                  {analogData.group.sub2}{" "}
-                  {analogData.group.sub3}{" "}
-                  {analogData.group.sub4}
+                  {activeList === "sub" 
+                  && analogData 
+                  && analogData.sub.map((item: string, index: number) => (
+                    <div key={index}>{item}</div>
+                  ))}
                 </div>
-              )}
-            </div>
-            <div>
-              <div>
-                {activeList === "sub" 
-                && analogData 
-                && analogData.sub.map((item: string, index: number) => (
-                  <div key={index}>{item}</div>
-                ))}
-              </div>
-              <div>
-                {activeList === "verb" 
-                && analogData 
-                && analogData.verb.map((item: string, index: number) => (
-                  <div key={index}>{item}</div>
-                ))}
-              </div>
-              <div>
-                {activeList === "adj" 
-                && analogData 
-                && analogData.adj.map((item: string, index: number) => (
-                  <div key={index}>{item}</div>
-                ))}
-              </div>
-              <div>
-                {activeList === "adv" 
-                && analogData 
-                && analogData.adv.map((item: string, index: number) => (
-                  <div key={index}>{item}</div>
-                ))}
+                <div>
+                  {activeList === "verb" 
+                  && analogData 
+                  && analogData.verb.map((item: string, index: number) => (
+                    <div key={index}>{item}</div>
+                  ))}
+                </div>
+                <div>
+                  {activeList === "adj" 
+                  && analogData 
+                  && analogData.adj.map((item: string, index: number) => (
+                    <div key={index}>{item}</div>
+                  ))}
+                </div>
+                <div>
+                  {activeList === "adv" 
+                  && analogData 
+                  && analogData.adv.map((item: string, index: number) => (
+                    <div key={index}>{item}</div>
+                  ))}
+                </div>
               </div>
             </div>
           </div>

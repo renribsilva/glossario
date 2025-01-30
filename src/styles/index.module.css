@@ -8,6 +8,12 @@
   gap: 5px
 }
 
+@media (max-width: 700px) {
+  .home {
+    flex-direction: column;
+  }
+}
+
 .home > div {
   /* background-color: aquamarine; */
   flex: 1;
@@ -136,10 +142,16 @@
   background-color: var(--color-button-light);
   height: 340px;
   display: flex;
-  flex-direction: column;
   gap: 5px;
   padding: 10px;
   box-sizing: border-box;
+}
+
+@media (max-width: 800px) {
+  .analog_container {
+    flex-direction: column;
+    height: max-content;
+  }
 }
 
 .analog_header {
@@ -167,6 +179,9 @@
   flex: 3;
   display: flex;
   justify-content: space-between;
+  padding-left: 5px;
+  padding-right: 5px;
+  gap: 5px;
 }
 
 .analog_button {
@@ -210,6 +225,7 @@
   flex: 3;
   background-color: aquamarine;
   overflow: auto;
+  min-width: 225px;
 }
 
 
