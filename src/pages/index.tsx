@@ -301,7 +301,7 @@ export default function HomePage() {
                   </>
                 ))}
                 {analogKeyData === null && (
-                  <p>Aqui são listados os grupos analógicos</p>
+                  <p>Aqui são listados os grupos analógicos para cada palavra digitada</p>
                 )}
                 {analogKeyData !== null && (
                   <p>(clique para ver as palavras do campo analógico)</p>
