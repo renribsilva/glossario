@@ -26,7 +26,8 @@
 .home_left {
   display: flex;
   flex-direction: column;
-  gap: 5px
+  gap: 5px;
+  flex:1
 }
 
 /*TEXTAREA*/
@@ -47,7 +48,11 @@
   box-sizing: border-box;
 }
 
-/*DEFINITIONS*/
+/*GLOSSÁRIO CONTAINER*/
+
+.glossario_title {
+  background: var(--color-button-light);
+}
 
 .dynamic_content {
   /* background-color: aquamarine; */
@@ -55,28 +60,38 @@
   flex-wrap: wrap;
 }
 
-.dynamic_content > div {
-  flex: 1;
-}
-
-/*GLOSSÁRIO CONTAINER*/
-
-.glossario_container {
-  min-height: 340px;
-  max-height: 340px;
-  min-width: 200px;
-  overflow: auto;
-  background: var(--color-button-light);
+.glossario_title {
+  /* background-color:blueviolet; */
+  height: 45px;
+  display: flex;
+  align-items: center;
   padding: 10px;
   box-sizing: border-box;
-  overflow: auto;
 }
 
-.glossario_container > div > div {
+.glossario_content {
+  background: var(--color-button-light);
   display: flex;
 }
 
-.glossario_container p {
+/*EXPRESSIONS CONTAINER*/
+
+.expressions_container {
+  /* background-color: antiquewhite; */
+  min-height: 30px;
+  max-height: 300px;
+  min-width: 150px;
+  overflow: auto;
+  padding: 10px;
+  box-sizing: border-box;
+  flex:1
+}
+
+.expressions_container > div > div {
+  display: flex;
+}
+
+.expressions_container p {
   margin: 0;
 }
 
@@ -97,15 +112,16 @@
 
 .definitions_container {
   background-color:var(--color-button-light);
+  flex:1.4
 }
 
 .definitions_panel {
   background-color:var(--color-button-dark);
   padding: 10px;
   box-sizing: border-box;
-  min-height: 330px;
-  max-height: 330px;
-  min-width: 200px;
+  min-height: 295px;
+  max-height: 295px;
+  min-width: 150px;
   overflow: auto;
   margin: 5px;
 }
@@ -126,21 +142,31 @@
   /* background-color: aquamarine; */
   display: flex;
   flex-direction: column;
-  gap: 5px
+  gap: 5px;
+  flex:1.1
 }
 
-/*SYNONIM CONTAINER*/
+/*SYNONYM CONTAINER*/
 
-.synonim_container {
+.synonym_container {
   height: 250px;
   background-color: var(--color-button-light);
+}
+
+.synonym_title {
+  background-color: aquamarine;
+  display: flex;
+  align-items: center;
+  height: 45px;
+  padding: 10px;
+  box-sizing: border-box;
 }
 
 /*ANALOG CONTAINER*/
 
 .analog_container {
   background-color: var(--color-button-light);
-  height: 340px;
+  height: 350px;
   display: flex;
   gap: 5px;
   padding: 10px;
@@ -175,10 +201,11 @@
 
 .analog_header_1{
   /* background-color: aquamarine; */
-  flex: 1.5;
+  flex: 2;
   height: 30px;
   display: flex;
   align-items: center;
+  min-width: 120px;
 }
 
 .analog_header_2{
@@ -186,6 +213,7 @@
   flex: 2;
   display: flex;
   align-items: center;
+  min-width: 120px;
 }
 
 .analog_header_3{
@@ -195,48 +223,144 @@
   gap: 5px;
 }
 
+@media (max-width: 800px) {
+  .analog_header_3 {
+    margin-top: 10px;
+  }
+}
+
 .analog_button {
-  background-color: var(--color-button-dark) !important;
+  /* background-color: var(--color-button-dark) !important; */
   border: 0px !important;
   height: 30px !important;
   cursor: pointer !important;
   border-radius: 5px !important;
   width: 45px !important;
+  font-family: "Ubuntu";
 }
 
 .analog_button.active {
-  background-color: var();
-  color: var();
+  /* background-color: var(--color-mod-dark) !important; */
+  font-weight: 450 !important;
+  text-decoration-line:underline;
 }
 
 .analog_button.inactive {
-  background-color: var();
-  color: var();
+  /* background-color: var(--color-button-dark) !important; */
+  font-weight: 450 !important;
 }
 
 .analog_groups {
   display: flex;
   gap: 5px;
-  height: 285px;
+  height: 300px;
 }
 
-.analog_groups :nth-child(1){
-  flex: 1.5;
-  /* background-color: aquamarine; */
-  overflow: auto;
-}
-
-.analog_groups :nth-child(2){
+.analog_groups_1 {
   flex: 2;
   /* background-color: aquamarine; */
   overflow: auto;
+  min-width: 120px;
+  height: 300px;
 }
 
-.analog_groups :nth-child(3){
+.analog_groups_2 {
+  flex: 2;
+  background-color: var(--color-button-dark);
+  overflow: auto;
+  min-width: 120px;
+  height: 300px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.analog_groups_2 p {
+  margin: 0;
+}
+
+.analog_groups_3 {
   flex: 3;
-  /* background-color: aquamarine; */
+  background-color:var(--color-button-dark);
   overflow: auto;
   min-width: 225px;
+  height: 300px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+/*SYNONYM CONTAINER*/
+
+.synonym_container {
+  /* background-color: aquamarine; */
+  /* display: flex; */
+  gap: 5px;
+}
+
+.synonym_header {
+  /* background-color: antiquewhite; */
+  display: flex;
+  gap: 5px;
+  height: 45px;
+  align-items: center;
+  padding: 10px;
+  padding-bottom: 0;
+  box-sizing: border-box;
+}
+
+.synonym_header_1{
+  /* background-color: aquamarine; */
+  flex: 2;
+}
+
+.synonym_header_2{
+  /* background-color: aquamarine; */
+  flex: 2;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.synonym_header_3{
+  /* background-color: aquamarine; */
+  flex: 4;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.synonym_groups {
+  display: flex;
+  padding: 10px;
+  padding-top: 0;
+  box-sizing: border-box;
+  gap: 5px;
+  height: 210px;
+}
+
+.synonym_groups_1 {
+  /* background-color:aquamarine; */
+  flex:2;
+  padding-top: 10px;
+  box-sizing: border-box;
+  overflow: auto;
+}
+
+.synonym_groups_2 {
+  background-color:var(--color-button-dark);
+  flex:2;
+  padding: 10px;
+  box-sizing: border-box;
+  overflow: auto;
+}
+
+.synonym_groups_2 p {
+  margin: 0;
+}
+
+.synonym_groups_3 {
+  background-color:var(--color-button-dark);
+  flex:4;
+  padding: 10px;
+  box-sizing: border-box;
+  overflow: auto;
 }
 
 

@@ -1,133 +1,27 @@
 import React, { useEffect, useState } from "react";
 import styles from "../styles/index.module.css";
-import Glossario from "../json/glossary.json";
-import Analógico from "../json/analog.json";
 import { ni } from "../lib/normalizedEntry";
-
-interface GlosaData {
-  original?: string;
-  exp?: string;
-  conj?: string;
-  gram?: string;
-  def?: string;
-  dif?: string;
-}
-
-interface AnalogData {
-  original: string;
-  num_ref: string;
-  group: {
-      sub0: string;
-      sub1: string;
-      sub2: string;
-      sub3: string;
-      sub4: string;
-  };
-  sub: string[];
-  adj: string[];
-  verb: string[];
-  adv: string[];
-  phrase: string[];
-}
-
-interface GlosaEntry {
-  original: string;
-}
+import { AnalogData, GlosaData, GlosaEntry, SinData } from "../types";
+import { getGlosaData, getGlosaEntries } from "../lib/getGlosaData";
+import { getAnalogData, getAnalogKeyData } from "../lib/getAnalogData";
+import { getSynonymsKeysData } from "../lib/getSynonymData";
 
 export default function HomePage() {
 
   const [inputValue, setInputValue] = useState<string | undefined>(undefined);
   const [showGlosaDef, setShowGlosaDef] = useState<boolean>(false);
   const [showAnalogDef, setShowAnalogDef] = useState<boolean>(false);
+  const [showSin, setShowSin] = useState<boolean>(false);
   const [glosaEntries, setGlosaEntries] = useState<GlosaEntry[]>([]);
   const [glosaData, setGlosaData] = useState<GlosaData>({});
+  const [synonymKeyData, setSynonymKeyData] = useState<SinData[]>([]);
   const [analogKeyData, setAnalogKeyData] = useState<string[] | null>(null);
   const [analogData, setAnalogData] = useState<AnalogData>(null);
   const [activeList, setActiveButton] = useState<string | null>(null);
+  const [synonymData, setSynonymData] = useState<SinData>({ plain_text: "", entries: [] });
 
-  function getGlosaEntries() {
-    if (!inputValue) {
-      setGlosaEntries([]);
-      return;
-    }
-
-    const entries: GlosaEntry[] = [];
-
-    const regex = new RegExp(`(^|\\s)${inputValue}($|\\s)`, "i");
-
-    for (const [chave, valor] of Object.entries(Glossario)) {
-      if (regex.test(ni(chave))) {
-        entries.push({ original: valor.original });
-      }
-    }
-
-    setGlosaEntries(entries);
-  }
-
-  function getGlosaData(input: string) {
-    
-    const valor = Glossario[input];
-  
-    if (valor) {
-      const formatObject = (entrie?: { plain_text: { [key: string]: string } }) => 
-        entrie
-          ? Object.values(entrie.plain_text)
-              .map((value, index) => `${index + 1}. ${value}`)
-              .join("; ")
-          : undefined;
-
-      const data: GlosaData = {
-        original: valor.original || undefined,
-        exp: formatObject(valor.exp),
-        conj: formatObject(valor.conj),
-        gram: formatObject(valor.gram),
-        def: formatObject(valor.def),
-        dif: formatObject(valor.dif),
-      };
-      setGlosaData(data);
-    }
-  }
-
-  function getAnalogKeyData(searchTerm: string) {
-
-    const normalizedSearchTerm = ni(searchTerm);
-    const results: string[] = [];
-
-    for (const [, data] of Object.entries(Analógico)) {
-
-        if (
-            data.sub?.some(word => ni(word) === normalizedSearchTerm) ||
-            data.adj?.some(word => ni(word) === normalizedSearchTerm) ||
-            data.verb?.some(word => ni(word) === normalizedSearchTerm) ||
-            data.adv?.some(word => ni(word) === normalizedSearchTerm) ||
-            data.phrase?.some(word => ni(word) === normalizedSearchTerm)
-        ) {
-            results.push(data.original);
-        }
-    }
-    setAnalogKeyData(results.length > 0 ? results : null);
-  }
-
-  function getAnalogData(searchTerm: string) {
-
-    setAnalogData(null);
-  
-    const normalizedSearchTerm = ni(searchTerm);
-  
-    for (const [normOriginal, data] of Object.entries(Analógico)) {
-      if (
-        data.sub?.some(word => ni(word) === normalizedSearchTerm) ||
-        data.adj?.some(word => ni(word) === normalizedSearchTerm) ||
-        data.verb?.some(word => ni(word) === normalizedSearchTerm) ||
-        data.adv?.some(word => ni(word) === normalizedSearchTerm) ||
-        data.phrase?.some(word => ni(word) === normalizedSearchTerm)
-      ) {
-        const result = { normOriginal, ...data };
-        setAnalogData(result);
-        return;
-      }
-    }
-  }
+  const keys = ["exp", "conj", "gram", "def", "dif"];
+  const categories = ["sub", "verb", "adj", "adv"];
 
   const handleInputChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
     const fullText = e.target.value;
@@ -150,31 +44,77 @@ export default function HomePage() {
   };
 
   const handleAnalogClick = (input: string) => {
-    getAnalogData(ni(input));
+    setAnalogData(null);
+    const analogData = getAnalogData(ni(input));
+    setAnalogData(analogData);
     setActiveButton("sub");
     setShowAnalogDef(true);
   };
 
-  const handleShowGlosaDef = (input: string) => {
-    setShowGlosaDef(true);
-    getGlosaData(ni(input));
+  const handleSynonymClick = (input: string) => {
+    const inputArray = input.split(",").map((item) => item.trim());
+    const filteredData = synonymKeyData.filter((entry) => {
+      return JSON.stringify(entry.entries) === JSON.stringify(inputArray);
+    });  
+    if (filteredData.length > 0) {
+      setSynonymData({
+        plain_text: filteredData[0].plain_text,
+        entries: filteredData[0].entries
+      });
+    } else {
+      setSynonymData({ plain_text: "", entries: [] });
+    }
   };
 
-  const handleListClick = (list: string) => {
+  const handleShowGlosaDef = (input: string) => {
+    setShowGlosaDef(true);
+    const data = getGlosaData(ni(input));
+    if (data) {
+      setGlosaData(data);
+    }
+  };
+
+  const handleNavbarClick = (list: string) => {
     setActiveButton(list);
   };
 
   useEffect(() => {
-    getGlosaEntries();
-    getAnalogKeyData(ni(inputValue));
+    if (!inputValue) {
+      setGlosaEntries([]);
+      setSynonymKeyData([]);
+      setShowSin(false);
+      setSynonymData({ plain_text: "", entries: [] });
+      setShowAnalogDef(false);
+      setShowGlosaDef(false);
+      setActiveButton(null);
+      return;
+    }
+  
+    const entries = getGlosaEntries(inputValue);
+    setGlosaEntries(entries);
+  
+    const analog = getAnalogKeyData(ni(inputValue));
+    setAnalogKeyData(analog);
+  
+    const synonymKeyData = getSynonymsKeysData(ni(inputValue));
+    setSynonymKeyData(synonymKeyData);
+  
     setShowAnalogDef(false);
     setShowGlosaDef(false);
     setActiveButton(null);
+  
+    if (inputValue === "") {
+      setShowSin(false);
+    } else {
+      setShowSin(true);
+    }
+  
+    setSynonymData({ plain_text: "", entries: [] });
   }, [inputValue]);
 
   return (
-    <div className={styles.home}>
-      <div className={styles.home_left}>
+    <section className={styles.home}>
+      <section className={styles.home_left}>
         <div className={styles.textarea_container}>
           <textarea
             className={styles.textarea}
@@ -183,110 +123,141 @@ export default function HomePage() {
             placeholder="Digite o texto..."
           />
         </div>
-        <div className={styles.dynamic_content}>
-          <div className={styles.glossario_container}>
-            <div>
-              {
-              inputValue === undefined
-              && glosaEntries.length === 0 
-              && (
-                <p>Digite o texto para ver expressões relacionadas a cada palavra digitada</p>
-              )}
-              {(inputValue !== undefined && inputValue.length > 0) && glosaEntries.length === 0 && (
-                <>
-                  <p>Nenhuma glosa que contém:</p>
-                  <span><strong>{inputValue}</strong></span>
-                </>
-              )}
-            </div>
-            <div>
-              {glosaEntries.length > 0 && (
-                glosaEntries.map((entry, index) => {
-                  // Limita o texto a um certo número de caracteres (por exemplo, 15)
-                  const maxLength = 100;
-                  const truncatedText = entry.original.length > maxLength
-                    ? entry.original.slice(0, maxLength) + "..."
-                    : entry.original;
-
-                  return (
-                    <div key={index}>
-                      <button
-                        onClick={() => handleShowGlosaDef(entry.original)}
-                        style={{ cursor: "pointer" }}
-                        className={styles.button}
-                        title={entry.original} // Exibe o texto completo ao passar o mouse
-                      >
-                        <strong>{truncatedText}</strong>
-                      </button>
-                    </div>
-                  );
-                })
-              )}
-            </div>
+        <div>
+          <div className={styles.glossario_title}>
+            <strong>Lista de expressões e conjunções</strong>
           </div>
-          <div className={styles.definitions_container}>
-            <div className={styles.definitions_panel}>
-              {
-              !showGlosaDef 
-              && glosaEntries.length !== 0 
-              && (
-                <p>Clique em algum item ao lado para ver a sua glosa</p>
-              )}
-              {
-              !showGlosaDef 
-              && glosaEntries.length === 0 
-              && (
-                <p>Neste campo são exibidas as glosas de cada expressão arrolada ao lado</p>
-              )}
-              {showGlosaDef && (
-                <>
-                  <div className={styles.definitions_title}>
-                    <span>Glosa de </span>
-                    <span><strong>&quot;{glosaData.original}&quot;</strong></span>
-                  </div>
-                  <div>
-                    {glosaData.exp && (
-                      <div>
-                        <strong>Exp:</strong> {glosaData.exp}
+          <div className={styles.glossario_content}>
+            <div className={styles.expressions_container}>
+              <div>
+                {
+                inputValue === undefined
+                && glosaEntries.length === 0 
+                && (
+                  <p>Digite o texto para ver expressões relacionadas a cada palavra digitada</p>
+                )}
+                {(inputValue !== undefined && inputValue.length > 0) && glosaEntries.length === 0 && (
+                  <>
+                    <p>Nenhuma glosa que contém:</p>
+                    <span><strong>{inputValue}</strong></span>
+                  </>
+                )}
+              </div>
+              <div>
+                {glosaEntries.length > 0 && (
+                  glosaEntries.map((entry, index) => {
+                    const maxLength = 100;
+                    const truncatedText = entry.original.length > maxLength
+                      ? entry.original.slice(0, maxLength) + "..."
+                      : entry.original;
+
+                    return (
+                      <div key={index}>
+                        <button
+                          onClick={() => handleShowGlosaDef(entry.original)}
+                          style={{ cursor: "pointer" }}
+                          className={styles.button}
+                          title={entry.original}
+                        >
+                          {truncatedText}
+                        </button>
                       </div>
-                    )}
-                    {glosaData.conj && (
-                      <div>
-                        <strong>Conj:</strong> {glosaData.conj}
-                      </div>
-                    )}
-                    {glosaData.gram && (
-                      <div>
-                        <strong>Gram:</strong> {glosaData.gram}
-                      </div>
-                    )}
-                    {glosaData.def && (
-                      <div>
-                        <strong>Def:</strong> {glosaData.def}
-                      </div>
-                    )}
-                    {glosaData.dif && (
-                      <div>
-                        <strong>Dif:</strong> {glosaData.dif}
-                      </div>
-                    )}
-                  </div>
-                </>
-              )}
+                    );
+                  })
+                )}
+              </div>
+            </div>
+            <div className={styles.definitions_container}>
+              <div className={styles.definitions_panel}>
+                {
+                !showGlosaDef 
+                && glosaEntries.length !== 0 
+                && (
+                  <p>Clique em algum item para ver a sua glosa</p>
+                )}
+                {showGlosaDef && (
+                  <>
+                    <div className={styles.definitions_title}>
+                      <span>Glosa de </span>
+                      <span><strong>&quot;{glosaData.original}&quot;</strong></span>
+                    </div>
+                    <div>
+                      {keys.map((key) => 
+                        glosaData[key] && (
+                          <div key={key}>
+                            <strong>{key.charAt(0).toUpperCase() 
+                            + key.slice(1)}:</strong> {glosaData[key]}
+                          </div>
+                        )
+                      )}
+                    </div>
+                  </>
+                )}
+              </div>
             </div>
           </div>
         </div>
-      </div>
-      <div className={styles.home_rigth}>
-        <div className={styles.synonim_container} />
+      </section>
+      <section className={styles.home_rigth}>
+        <div className={styles.synonym_container}>
+          <div className={styles.synonym_container_1}>
+            <div className={styles.synonym_header}>
+              <div className={styles.synonym_header_1}><strong>Grupos</strong></div>
+              <div className={styles.synonym_header_2}><strong>Sinônimos</strong></div>
+              <div className={styles.synonym_header_3}><strong>Texto</strong></div>
+            </div>
+            <div className={styles.synonym_groups}>
+              <div className={styles.synonym_groups_1}>
+                {showSin && synonymKeyData.length === 0 && (
+                  <p>Não há sinônimos para a palavra: &quot;{inputValue}&quot;</p>
+                )}
+                {!showSin && synonymKeyData.length === 0 && (
+                  <p>Aqui são listadas grupos de sinônimos da última palavra digitada</p>
+                )}   
+                {synonymKeyData && synonymKeyData.map((item, index) => {
+                  const entriesString = item.entries.join(", ");
+                  return (
+                    <div key={index}>
+                      <button 
+                        key={index}
+                        className={styles.button}
+                        onClick={() => handleSynonymClick(entriesString)}
+                        title={entriesString}
+                      >{entriesString}
+                      </button>
+                    </div>
+                  );
+                })}
+              </div>
+              <div className={styles.synonym_groups_2}>
+                {synonymKeyData.length > 0
+                && synonymData.entries.length === 0 && (
+                  <p>Clique em algum item para ver seus sinônimos</p>
+                )}
+                {synonymData
+                && showSin
+                && Array.from(synonymData.entries).map((item, index) => (
+                  <div key={index}>{item}</div>
+                ))}
+              </div>
+              <div className={styles.synonym_groups_3}>
+                {synonymData
+                && showSin
+                && (
+                  <div>{synonymData.plain_text}</div>
+                )}
+              </div>
+            </div>
+          </div>
+        </div>
         <div className={styles.analog_container}>
           <div className={styles.analog_container_1}>
             <div className={styles.analog_header}>
-              <div className={styles.analog_header_1}><strong>Grupos</strong></div>
+              <div className={styles.analog_header_1}><strong>Grupos analógicos</strong></div>
               <div className={styles.analog_header_2}><strong>Campo analógico</strong></div>
             </div>
             <div className={styles.analog_groups}>
-              <div>
+              <div className={styles.analog_groups_1}>
                 {analogKeyData 
                 && analogKeyData.length > 0 
                 && analogKeyData.map((item: string, index: number) => (
@@ -296,18 +267,18 @@ export default function HomePage() {
                       className={styles.button}
                       onClick={() => handleAnalogClick(item)}
                       title={item}
-                    ><strong>{item}</strong>
+                    >{item}
                     </button>
                   </>
                 ))}
                 {analogKeyData === null && (
                   <p>Aqui são listados os grupos analógicos para cada palavra digitada</p>
                 )}
-                {analogKeyData !== null && (
-                  <p>(clique para ver as palavras do campo analógico)</p>
-                )}
               </div>
-              <div>
+              <div className={styles.analog_groups_2}>
+                {analogKeyData !== null && !showAnalogDef && (
+                  <p>Clique em algum item para ver o seu campo analógico</p>
+                )}
                 {analogData && showAnalogDef && analogData.group && (
                   <>
                     <strong>{analogData.original}: </strong>
@@ -333,7 +304,7 @@ export default function HomePage() {
                       className={`${styles.analog_button} ${
                         activeList === list ? styles.active : styles.inactive
                       }`}
-                      onClick={() => handleListClick(list)}
+                      onClick={() => handleNavbarClick(list)}
                     >
                       {list}
                     </button>
@@ -342,40 +313,21 @@ export default function HomePage() {
               </div>
             </div>
             <div className={styles.analog_groups}>
-              <div>
-                <div>
-                  {activeList === "sub" 
-                  && analogData 
-                  && analogData.sub.map((item: string, index: number) => (
-                    <div key={index}>{item}</div>
-                  ))}
-                </div>
-                <div>
-                  {activeList === "verb" 
-                  && analogData 
-                  && analogData.verb.map((item: string, index: number) => (
-                    <div key={index}>{item}</div>
-                  ))}
-                </div>
-                <div>
-                  {activeList === "adj" 
-                  && analogData 
-                  && analogData.adj.map((item: string, index: number) => (
-                    <div key={index}>{item}</div>
-                  ))}
-                </div>
-                <div>
-                  {activeList === "adv" 
-                  && analogData 
-                  && analogData.adv.map((item: string, index: number) => (
-                    <div key={index}>{item}</div>
-                  ))}
-                </div>
-              </div>
+            <div className={styles.analog_groups_3}>
+              {categories.map((category) =>
+                activeList === category && analogData[category] && (
+                  <div key={category}>
+                    {analogData[category].map((item, index) => (
+                      <div key={index}>{item}</div>
+                    ))}
+                  </div>
+                )
+              )}
+            </div>
             </div>
           </div>
         </div>
-      </div>
-    </div>
+      </section>
+    </section>
   );
 }
