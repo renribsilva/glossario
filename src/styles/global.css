@@ -9,7 +9,7 @@
   --color-text-base-dark: rgb(240, 240, 240);
   --color-mod-dark: rgba(60, 60, 60);
   --color-tense-dark: rgba(55, 55, 55);
-  --color-button-dark:rgb(61, 61, 61);
+  --color-button-dark:rgba(61, 61, 61, 0.2);
 }
 
 [data-theme="dark"] {

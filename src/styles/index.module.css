@@ -2,46 +2,50 @@
 /*******************HOME**********************/
 /*********************************************/
 
+.home {
+  /* background-color: brown; */
+  display: flex;
+  gap: 5px
+}
+
+.home > div {
+  /* background-color: aquamarine; */
+  flex: 1;
+}
+
+/***************************************************/
+/********************HOME LEFT**********************/
+/***************************************************/
+
 .home_left {
   display: flex;
   flex-direction: column;
   gap: 5px
 }
 
-/*************************************************/
-/*******************TEXTAREA**********************/
-/*************************************************/
+/*TEXTAREA*/
 
 .textarea {
   background-color: var(--color-button-light);
   border: none;
-  font-size: 18px;
-  min-height: 200px;
+  font-size: 16px;
+  min-height: 250px;
+  max-height: 250px;
   font-family: "Ubuntu";
   font-weight: 300;
   font-size: 14px;
-  max-width: 50%;
-  min-width: 50%;
-  padding: 15px;
+  min-width: 100%;
+  max-width: 400px;
+  padding: 10px;
+  margin: 0;
   box-sizing: border-box;
 }
 
-@media (max-width: 800px) {
-  .textarea {
-    max-width: 100%;
-    min-width: 100%;
-  }
-}
-
-/****************************************************/
-/*******************DEFINITIONS**********************/
-/****************************************************/
+/*DEFINITIONS*/
 
 .dynamic_content {
   /* background-color: aquamarine; */
   display: flex;
-  gap: 5px;
-  max-width: 50%;
   flex-wrap: wrap;
 }
 
@@ -52,12 +56,18 @@
 /*GLOSSÁRIO CONTAINER*/
 
 .glossario_container {
-  min-height: 200px;
-  max-height: 500px;
+  min-height: 340px;
+  max-height: 340px;
   min-width: 200px;
-  overflow-y: auto;
+  overflow: auto;
   background: var(--color-button-light);
-  padding: 15px;
+  padding: 10px;
+  box-sizing: border-box;
+  overflow: auto;
+}
+
+.glossario_container > div > div {
+  display: flex;
 }
 
 .glossario_container p {
@@ -70,16 +80,127 @@
   font-size: 14px;
   font-family: "Ubuntu";
   font-weight: 300;
+  cursor: pointer;
+  padding: 0;
+  min-width: 95%;
+  text-align: left;
+  overflow: hidden;
 }
 
 /*DEFINITIONS CONTAINER*/
 
 .definitions_container {
   background-color:var(--color-button-light);
-  padding: 15px;
+}
+
+.definitions_panel {
+  background-color:var(--color-button-dark);
+  padding: 10px;
+  box-sizing: border-box;
+  min-height: 330px;
+  max-height: 330px;
   min-width: 200px;
+  overflow: auto;
+  margin: 5px;
+}
+
+.definitions_panel p {
+  margin: 0;
 }
 
 .definitions_title {
   margin-bottom: 20px;
 }
+
+/****************************************************/
+/********************HOME RIGTH**********************/
+/****************************************************/
+
+.home_rigth {
+  /* background-color: aquamarine; */
+  display: flex;
+  flex-direction: column;
+  gap: 5px
+}
+
+/*SYNONIM CONTAINER*/
+
+.synonim_container {
+  height: 250px;
+  background-color: var(--color-button-light);
+}
+
+/*ANALOG CONTAINER*/
+
+.analog_container {
+  background-color: var(--color-button-light);
+  height: 340px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.analog_header {
+  display: flex;
+  gap: 5px;
+}
+
+.analog_header :nth-child(1){
+  background-color: aquamarine;
+  flex: 1.5;
+  height: 30px;
+}
+
+.analog_header :nth-child(2){
+  background-color: aquamarine;
+  flex: 2;
+}
+
+.analog_header :nth-child(3){
+  background-color: aquamarine;
+  flex: 3;
+}
+
+.analog_groups {
+  display: flex;
+  gap: 5px;
+  height: 285px;
+}
+
+.analog_groups :nth-child(1){
+  flex: 1.5;
+  background-color: aquamarine;
+  overflow: auto;
+}
+
+.analog_groups :nth-child(2){
+  flex: 2;
+  background-color: aquamarine;
+  overflow: auto;
+}
+
+.analog_groups :nth-child(3){
+  flex: 3;
+  background-color: aquamarine;
+  overflow: auto;
+}
+
+.analog_navbar_container {
+  /* display: flex;
+  justify-content: space-between;
+  gap: 5px; */
+}
+
+.analog_button {
+  background-color: var(--color-button-dark);
+  border: 0px;
+  height: 30px;
+  cursor: pointer;
+  border-radius: 5px;
+  width: 50px;
+}
+
+
+
