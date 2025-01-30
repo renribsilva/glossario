@@ -147,6 +147,18 @@
   box-sizing: border-box;
 }
 
+.analog_container_1 {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.analog_container_2 {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
 @media (max-width: 800px) {
   .analog_container {
     flex-direction: column;

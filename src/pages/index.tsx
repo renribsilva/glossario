@@ -280,7 +280,7 @@ export default function HomePage() {
       <div className={styles.home_rigth}>
         <div className={styles.synonim_container} />
         <div className={styles.analog_container}>
-          <div>
+          <div className={styles.analog_container_1}>
             <div className={styles.analog_header}>
               <div className={styles.analog_header_1}><strong>Grupos</strong></div>
               <div className={styles.analog_header_2}><strong>Campo analógico</strong></div>
@@ -315,7 +315,7 @@ export default function HomePage() {
               </div>
             </div>
           </div>
-          <div>
+          <div className={styles.analog_container_2}>
             <div className={styles.analog_header}>
               <div className={styles.analog_header_3}>
                 {["sub", "verb", "adj", "adv", "phr"].map((list) => {
