@@ -37,12 +37,13 @@ interface GlosaEntry {
 export default function HomePage() {
 
   const [inputValue, setInputValue] = useState<string | undefined>(undefined);
-  const [showDefinition, setShowDefinition] = useState<boolean>(false);
+  const [showGlosaDef, setShowGlosaDef] = useState<boolean>(false);
+  const [showAnalogDef, setShowAnalogDef] = useState<boolean>(false);
   const [glosaEntries, setGlosaEntries] = useState<GlosaEntry[]>([]);
   const [glosaData, setGlosaData] = useState<GlosaData>({});
   const [analogKeyData, setAnalogKeyData] = useState<string[] | null>(null);
   const [analogData, setAnalogData] = useState<AnalogData>(null);
-  const [activeList, setActiveButton] = useState<string | null>("sub");
+  const [activeList, setActiveButton] = useState<string | null>(null);
 
   function getGlosaEntries() {
     if (!inputValue) {
@@ -150,10 +151,12 @@ export default function HomePage() {
 
   const handleAnalogClick = (input: string) => {
     getAnalogData(ni(input));
+    setActiveButton("sub");
+    setShowAnalogDef(true);
   };
 
-  const handleShowDefinition = (input: string) => {
-    setShowDefinition(true);
+  const handleShowGlosaDef = (input: string) => {
+    setShowGlosaDef(true);
     getGlosaData(ni(input));
   };
 
@@ -164,10 +167,10 @@ export default function HomePage() {
   useEffect(() => {
     getGlosaEntries();
     getAnalogKeyData(ni(inputValue));
-    setShowDefinition(false);
+    setShowAnalogDef(false);
+    setShowGlosaDef(false);
+    setActiveButton(null);
   }, [inputValue]);
-
-  console.log(activeList);
 
   return (
     <div className={styles.home}>
@@ -208,7 +211,7 @@ export default function HomePage() {
                   return (
                     <div key={index}>
                       <button
-                        onClick={() => handleShowDefinition(entry.original)}
+                        onClick={() => handleShowGlosaDef(entry.original)}
                         style={{ cursor: "pointer" }}
                         className={styles.button}
                         title={entry.original} // Exibe o texto completo ao passar o mouse
@@ -224,18 +227,18 @@ export default function HomePage() {
           <div className={styles.definitions_container}>
             <div className={styles.definitions_panel}>
               {
-              !showDefinition 
+              !showGlosaDef 
               && glosaEntries.length !== 0 
               && (
                 <p>Clique em algum item ao lado para ver a sua glosa</p>
               )}
               {
-              !showDefinition 
+              !showGlosaDef 
               && glosaEntries.length === 0 
               && (
                 <p>Neste campo são exibidas as glosas de cada expressão arrolada ao lado</p>
               )}
-              {showDefinition && (
+              {showGlosaDef && (
                 <>
                   <div className={styles.definitions_title}>
                     <span>Glosa de </span>
@@ -278,20 +281,22 @@ export default function HomePage() {
         <div className={styles.synonim_container} />
         <div className={styles.analog_container}>
           <div className={styles.analog_header}>
-            <div><strong>Grupos</strong></div>
-            <div><strong>Sub</strong></div>
-            <div className={styles.analog_navbar_container}>
-              {["sub", "verb", "adj", "adv", "phr"].map((list) => (
-                <button
-                  key={list}
-                  className={`${styles.analog_button}${
-                    activeList === list ? styles.active : styles.inactive
-                  }`}
-                  onClick={() => handleListClick(list)}
-                >
-                  {list}
-                </button>
-              ))}
+            <div className={styles.analog_header_1}><strong>Grupos</strong></div>
+            <div className={styles.analog_header_2}><strong>Campo analógico</strong></div>
+            <div className={styles.analog_header_3}>
+              {["sub", "verb", "adj", "adv", "phr"].map((list) => {
+                return (
+                  <button
+                    key={list}
+                    className={`${styles.analog_button} ${
+                      activeList === list ? styles.active : styles.inactive
+                    }`}
+                    onClick={() => handleListClick(list)}
+                  >
+                    {list}
+                  </button>
+                );
+              })}
             </div>
           </div>
           <div className={styles.analog_groups}>
@@ -299,17 +304,20 @@ export default function HomePage() {
               {analogKeyData 
               && analogKeyData.length > 0 
               && analogKeyData.map((item: string, index: number) => (
-                <button 
-                  key={index} 
-                  className={styles.button}
-                  onClick={() => handleAnalogClick(item)}
-                  title={item}
-                ><strong>{item}</strong>
-                </button>
+                <>
+                  <button 
+                    key={index} 
+                    className={styles.button}
+                    onClick={() => handleAnalogClick(item)}
+                    title={item}
+                  ><strong>{item}</strong>
+                  </button>
+                </>
               ))}
+              <p>(clique para ver as palavras do campo analógico)</p>
             </div>
             <div>
-              {analogData && !showDefinition && analogData.group && (
+              {analogData && showAnalogDef && analogData.group && (
                 <div>
                   {analogData.group.sub0}{" "}
                   {analogData.group.sub1}{" "}
@@ -321,25 +329,30 @@ export default function HomePage() {
             </div>
             <div>
               <div>
-                {!analogData && (
-                  <p>teste</p>
-                )}
-                {analogData && showDefinition && analogData.sub.map((item: string, index: number) => (
+                {activeList === "sub" 
+                && analogData 
+                && analogData.sub.map((item: string, index: number) => (
                   <div key={index}>{item}</div>
                 ))}
               </div>
               <div>
-                {analogData && showDefinition && analogData.verb.map((item: string, index: number) => (
+                {activeList === "verb" 
+                && analogData 
+                && analogData.verb.map((item: string, index: number) => (
                   <div key={index}>{item}</div>
                 ))}
               </div>
               <div>
-                {analogData && analogData.adj.map((item: string, index: number) => (
+                {activeList === "adj" 
+                && analogData 
+                && analogData.adj.map((item: string, index: number) => (
                   <div key={index}>{item}</div>
                 ))}
               </div>
               <div>
-                {analogData && analogData.adv.map((item: string, index: number) => (
+                {activeList === "adv" 
+                && analogData 
+                && analogData.adv.map((item: string, index: number) => (
                   <div key={index}>{item}</div>
                 ))}
               </div>

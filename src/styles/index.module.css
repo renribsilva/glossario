@@ -147,20 +147,45 @@
   gap: 5px;
 }
 
-.analog_header :nth-child(1){
+.analog_header_1{
   background-color: aquamarine;
   flex: 1.5;
   height: 30px;
+  display: flex;
+  align-items: center;
 }
 
-.analog_header :nth-child(2){
+.analog_header_2{
   background-color: aquamarine;
   flex: 2;
+  display: flex;
+  align-items: center;
 }
 
-.analog_header :nth-child(3){
+.analog_header_3{
   background-color: aquamarine;
   flex: 3;
+  display: flex;
+  justify-content: space-between;
+}
+
+.analog_button {
+  background-color: var(--color-button-dark) !important;
+  border: 0px !important;
+  height: 30px !important;
+  cursor: pointer !important;
+  border-radius: 5px !important;
+  width: 45px !important;
+}
+
+.analog_button.active {
+  background-color: var();
+  color: var();
+}
+
+.analog_button.inactive {
+  background-color: var();
+  color: var();
 }
 
 .analog_groups {
@@ -185,21 +210,6 @@
   flex: 3;
   background-color: aquamarine;
   overflow: auto;
-}
-
-.analog_navbar_container {
-  /* display: flex;
-  justify-content: space-between;
-  gap: 5px; */
-}
-
-.analog_button {
-  background-color: var(--color-button-dark);
-  border: 0px;
-  height: 30px;
-  cursor: pointer;
-  border-radius: 5px;
-  width: 50px;
 }
 
 
