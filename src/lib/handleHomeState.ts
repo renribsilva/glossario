@@ -22,6 +22,7 @@ export function handleHomeState() {
 
   const keys = ["exp", "conj", "gram", "def", "dif"];
   const categories = ["sub", "verb", "adj", "adv"];
+  const classes = ["sub", "verb", "adj", "adv", "phr"];
 
   const handleInputChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
     const fullText = e.target.value;
@@ -115,6 +116,7 @@ export function handleHomeState() {
   return {
     keys,
     categories,
+    classes,
     inputValue,
     showGlosaDef,
     showAnalogDef,

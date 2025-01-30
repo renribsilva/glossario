@@ -7,6 +7,7 @@ export default function HomePage() {
   const {
     keys,
     categories,
+    classes,
     inputValue,
     showGlosaDef,
     showAnalogDef,
@@ -25,6 +26,8 @@ export default function HomePage() {
     handleShowGlosaDef,
     handleNavbarClick
   } = handleHomeState();
+
+  console.log(analogData);
 
   return (
     <section className={styles.home}>
@@ -211,7 +214,7 @@ export default function HomePage() {
           <div className={styles.analog_container_2}>
             <div className={styles.analog_header}>
               <div className={styles.analog_header_3}>
-                {["sub", "verb", "adj", "adv", "phr"].map((list) => {
+                {classes.map((list) => {
                   return (
                     <button
                       key={list}
