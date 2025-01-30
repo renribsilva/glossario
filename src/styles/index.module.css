@@ -151,12 +151,14 @@
   display: flex;
   flex-direction: column;
   gap: 5px;
+  width: 100%;
 }
 
 .analog_container_2 {
   display: flex;
   flex-direction: column;
   gap: 5px;
+  width: 100%;
 }
 
 @media (max-width: 800px) {
@@ -191,8 +193,6 @@
   flex: 3;
   display: flex;
   justify-content: space-between;
-  padding-left: 5px;
-  padding-right: 5px;
   gap: 5px;
 }
 
@@ -223,19 +223,19 @@
 
 .analog_groups :nth-child(1){
   flex: 1.5;
-  background-color: aquamarine;
+  /* background-color: aquamarine; */
   overflow: auto;
 }
 
 .analog_groups :nth-child(2){
   flex: 2;
-  background-color: aquamarine;
+  /* background-color: aquamarine; */
   overflow: auto;
 }
 
 .analog_groups :nth-child(3){
   flex: 3;
-  background-color: aquamarine;
+  /* background-color: aquamarine; */
   overflow: auto;
   min-width: 225px;
 }
