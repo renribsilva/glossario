@@ -126,7 +126,7 @@ export default function HomePage() {
                   <p>Não há sinônimos para a palavra: &quot;{inputValue}&quot;</p>
                 )}
                 {!showSin && synonymKeyData.length === 0 && (
-                  <p>Aqui são listadas grupos de sinônimos da última palavra digitada</p>
+                  <p>Aqui são listados os grupos de sinônimos da última palavra digitada</p>
                 )}   
                 {synonymKeyData && synonymKeyData.map((item, index) => {
                   const entriesString = item.entries.join(", ");
