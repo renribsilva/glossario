@@ -174,7 +174,7 @@
 }
 
 .analog_header_1{
-  background-color: aquamarine;
+  /* background-color: aquamarine; */
   flex: 1.5;
   height: 30px;
   display: flex;
@@ -182,17 +182,16 @@
 }
 
 .analog_header_2{
-  background-color: aquamarine;
+  /* background-color: aquamarine; */
   flex: 2;
   display: flex;
   align-items: center;
 }
 
 .analog_header_3{
-  background-color: aquamarine;
+  /* background-color: aquamarine; */
   flex: 3;
   display: flex;
-  justify-content: space-between;
   gap: 5px;
 }
 
