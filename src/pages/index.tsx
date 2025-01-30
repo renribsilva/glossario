@@ -300,17 +300,25 @@ export default function HomePage() {
                     </button>
                   </>
                 ))}
-                <p>(clique para ver as palavras do campo analógico)</p>
+                {analogKeyData === null && (
+                  <p>Aqui são listados os grupos analógicos</p>
+                )}
+                {analogKeyData !== null && (
+                  <p>(clique para ver as palavras do campo analógico)</p>
+                )}
               </div>
               <div>
                 {analogData && showAnalogDef && analogData.group && (
-                  <div>
-                    {analogData.group.sub0}{" "}
-                    {analogData.group.sub1}{" "}
-                    {analogData.group.sub2}{" "}
-                    {analogData.group.sub3}{" "}
-                    {analogData.group.sub4}
-                  </div>
+                  <>
+                    <strong>{analogData.original}: </strong>
+                    <span>
+                      {analogData.group.sub0}{" "}
+                      {analogData.group.sub1}{" "}
+                      {analogData.group.sub2}{" "}
+                      {analogData.group.sub3}{" "}
+                      {analogData.group.sub4}
+                    </span>
+                  </>
                 )}
               </div>
             </div>
