@@ -45,37 +45,40 @@
 
 /*GLOSSÁRIO CONTAINER*/
 
+.glossario_container {
+  background-color: var(--background);
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
 .glossario_title {
-  background: var(--background);
-  height: 45px;
+  background-color: aquamarine;
+  height: 30px;
   display: flex;
   align-items: center;
-  padding: 10px;
-  box-sizing: border-box;
+  padding: 5px;
 }
 
 .glossario_content {
   background: var(--background);
   display: flex;
+  gap: 5px;
 }
 
 /*EXPRESSIONS CONTAINER*/
 
 .expressions_container {
-  /* background-color: antiquewhite; */
-  height: 300px;
+  background-color:aquamarine;
+  height: 275px;
   overflow: auto;
-  padding: 10px;
-  box-sizing: border-box;
   flex:1;
+  padding: 5px;
 }
 
 .expressions_container > div > div {
   display: flex;
-}
-
-.expressions_container p {
-  margin: 0;
 }
 
 .button {
@@ -86,8 +89,8 @@
   font-family: "Ubuntu";
   font-weight: 300;
   cursor: pointer;
-  padding: 0;
   text-align: left;
+  padding: 0;
   display: block;
   overflow: hidden;
   white-space: nowrap; 
@@ -98,28 +101,15 @@
 
 .definitions_container {
   background-color:var(--background);
-  flex:1.4
+  flex:1.4;
 }
 
 .definitions_panel {
   background-color:var(--panels);
-  padding: 10px;
-  box-sizing: border-box;
-  min-height: 295px;
-  max-height: 295px;
-  min-width: 150px;
+  min-width: 310px;
+  height: 285px;
   overflow: auto;
-  margin: 5px;
 }
-
-.definitions_panel p {
-  margin: 0;
-}
-
-.definitions_title {
-  margin-bottom: 20px;
-}
-
 /****************************************************/
 /********************HOME RIGTH**********************/
 /****************************************************/
@@ -136,25 +126,23 @@
 
 .analog_container {
   background-color: var(--background);
-  height: 350px;
   display: flex;
   gap: 5px;
-  padding: 10px;
-  box-sizing: border-box;
+  padding: 5px;
 }
 
 .analog_container_1 {
   display: flex;
   flex-direction: column;
-  gap: 5px;
   width: 100%;
+  gap: 5px;
 }
 
 .analog_container_2 {
   display: flex;
   flex-direction: column;
-  gap: 5px;
   width: 100%;
+  gap: 5px;
 }
 
 @media (max-width: 700px) {
@@ -166,31 +154,34 @@
 
 .analog_header {
   display: flex;
-  gap: 5px;
+  height: 40;
 }
 
 .analog_header_1{
-  /* background-color: aquamarine; */
+  background-color: aquamarine;
   flex: 2;
-  height: 30px;
   display: flex;
   align-items: center;
-  min-width: 120px;
+  padding: 5px;
+  height: 30px;
 }
 
 .analog_header_2{
-  /* background-color: aquamarine; */
+  background-color: aquamarine;
   flex: 2;
   display: flex;
   align-items: center;
-  min-width: 120px;
+  padding: 5px;
+  height: 30px;
 }
 
 .analog_header_3{
-  /* background-color: aquamarine; */
-  flex: 3;
+  background-color: aquamarine;
+  flex: 4;
   display: flex;
-  gap: 5px;
+  align-items: center;
+  padding: 5px;
+  height: 30px;
 }
 
 @media (max-width: 700px) {
@@ -202,7 +193,7 @@
 .analog_navbar {
   background-color: var(--background);
   border: 0px;
-  height: 30px;
+  height: 20px;
   cursor: pointer !important;
   width: 45px !important;
   font-family: "Ubuntu";
@@ -217,104 +208,129 @@
 .analog_groups {
   display: flex;
   gap: 5px;
-  height: 300px;
+  height: 285px;
 }
 
 .analog_groups_1 {
+  background-color: aquamarine;
   flex: 2;
-  /* background-color: aquamarine; */
+  padding: 5px;
   overflow: auto;
-  min-width: 120px;
-  height: 300px;
+  max-width: 150px;
+}
+
+.analog_groups_1 > div > button {
+  max-width: 100%;
+  overflow: hidden;
+  white-space: nowrap; 
+  text-overflow: ellipsis;
 }
 
 .analog_groups_2 {
-  flex: 2;
   background-color: var(--panels);
+  flex: 2;
+  padding: 5px;
   overflow: auto;
-  min-width: 120px;
-  height: 300px;
-  padding: 10px;
-  box-sizing: border-box;
 }
 
 .analog_groups_2 p {
   margin: 0;
 }
 
+.analog_groups_2 > div {
+  max-width: 100%;
+  overflow: hidden;
+  white-space: nowrap; 
+  text-overflow: ellipsis;
+}
+
 .analog_groups_3 {
-  flex: 3;
   background-color:var(--panels);
+  flex:4;
+  padding: 5px;
   overflow: auto;
-  min-width: 225px;
-  height: 300px;
-  padding: 10px;
-  box-sizing: border-box;
 }
 
 /*SYNONYM CONTAINER*/
 
 .synonym_container {
-  height: 250px;
   background-color: var(--background);
+  display: flex;
+  gap: 5px;
+  padding: 5px;
+}
+
+.synonym_container_1 {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
   gap: 5px;
 }
 
-.synonym_title {
-  background-color: aquamarine;
+.synonym_container_2 {
   display: flex;
-  align-items: center;
-  height: 45px;
-  padding: 10px;
-  box-sizing: border-box;
+  flex-direction: column;
+  width: 100%;
+  gap: 5px;
+}
+
+@media (max-width: 700px) {
+  .synonym_container {
+    flex-direction: column;
+    height: max-content;
+  }
 }
 
 .synonym_header {
-  /* background-color: antiquewhite; */
   display: flex;
-  gap: 5px;
-  height: 45px;
-  align-items: center;
-  padding: 10px;
-  padding-bottom: 0;
-  box-sizing: border-box;
+  height: 40px;
 }
 
 .synonym_header_1{
-  /* background-color: aquamarine; */
+  background-color: aquamarine;
   flex: 2;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  height: 30px;
 }
 
 .synonym_header_2{
-  /* background-color: aquamarine; */
+  background-color: aquamarine;
   flex: 2;
-  padding: 10px;
-  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  height: 30px;
 }
 
 .synonym_header_3{
-  /* background-color: aquamarine; */
+  background-color: aquamarine;
   flex: 4;
-  padding: 10px;
-  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  height: 30px;
+}
+
+@media (max-width: 700px) {
+  .synonym_header_3 {
+    margin-top: 10px;
+  }
 }
 
 .synonym_groups {
   display: flex;
-  padding: 10px;
-  padding-top: 0;
-  box-sizing: border-box;
   gap: 5px;
-  height: 210px;
+  height: 195px;
 }
 
 .synonym_groups_1 {
-  /* background-color:aquamarine; */
+  background-color:aquamarine;
   flex:2;
-  padding-top: 10px;
-  box-sizing: border-box;
-  max-width: 150px;
+  padding: 5px;
   overflow: auto;
+  max-width: 150px;
 }
 
 .synonym_groups_1 > div > button {
@@ -324,16 +340,15 @@
   text-overflow: ellipsis;
 }
 
-.synonym_groups_1 p {
-  margin: 0;
-}
-
 .synonym_groups_2 {
   background-color:var(--panels);
   flex:2;
-  padding: 10px;
-  box-sizing: border-box;
+  padding: 5px;
   overflow: auto;
+}
+
+.synonym_groups_2 p {
+  margin: 0;
 }
 
 .synonym_groups_2 > div {
@@ -343,15 +358,10 @@
   text-overflow: ellipsis;
 }
 
-.synonym_groups_2 p {
-  margin: 0;
-}
-
 .synonym_groups_3 {
   background-color:var(--panels);
   flex:4;
-  padding: 10px;
-  box-sizing: border-box;
+  padding: 5px;
   overflow: auto;
 }
 

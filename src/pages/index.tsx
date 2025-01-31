@@ -115,7 +115,6 @@ export default function HomePage() {
             <div className={styles.synonym_header}>
               <div className={styles.synonym_header_1}><strong>Grupos</strong></div>
               <div className={styles.synonym_header_2}><strong>Sinônimos</strong></div>
-              <div className={styles.synonym_header_3}><strong>Texto</strong></div>
             </div>
             <div className={styles.synonym_groups}>
               <div className={styles.synonym_groups_1}>
@@ -148,6 +147,13 @@ export default function HomePage() {
                   <div key={index}>{item}</div>
                 ))}
               </div>
+            </div>
+          </div>
+          <div className={styles.synonym_container_2}>
+            <div className={styles.synonym_header}>
+              <div className={styles.synonym_header_3}><strong>Texto</strong></div>
+            </div>
+            <div className={styles.synonym_groups}>
               <div className={styles.synonym_groups_3}>
                 {hasInput && synonymData && (
                   <div>{synonymData.plain_text}</div>
@@ -222,17 +228,17 @@ export default function HomePage() {
               </div>
             </div>
             <div className={styles.analog_groups}>
-            <div className={styles.analog_groups_3}>
-              {categories.map((category) =>
-                activeList === category && analogData !== null && analogData[category] && (
-                  <div key={category}>
-                    {hasInput && analogData[category].map((item, index) => (
-                      <div key={index}>{item}</div>
-                    ))}
-                  </div>
-                )
-              )}
-            </div>
+              <div className={styles.analog_groups_3}>
+                {categories.map((category) =>
+                  activeList === category && analogData !== null && analogData[category] && (
+                    <div key={category}>
+                      {hasInput && analogData[category].map((item, index) => (
+                        <div key={index}>{item}</div>
+                      ))}
+                    </div>
+                  )
+                )}
+              </div>
             </div>
           </div>
         </div>
