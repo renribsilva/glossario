@@ -7,7 +7,7 @@ const anaPath = path.join(srcDir, "json", "analogJson", "ana.json");
 const analogPath = path.join(srcDir, "json", "analog.json");
 
 function createAnalog() {
-  // Lendo o arquivo ana.json
+  
   fs.readFile(anaPath, "utf8", (err, expDataRaw) => {
     if (err) {
       console.error("Erro ao ler o arquivo ana.json:", err);
@@ -15,13 +15,10 @@ function createAnalog() {
     }
 
     try {
-      // Parsing o conteúdo do arquivo
-      const anaDataParsed = JSON.parse(expDataRaw);
       
-      // Processando os dados com a função anaData
+      const anaDataParsed = JSON.parse(expDataRaw);
       const expDataProcessed = anaData(anaDataParsed);
 
-      // Salvando os dados processados no arquivo analog.json
       fs.writeFile(analogPath, JSON.stringify(expDataProcessed, null, 2), (err) => {
         if (err) {
           console.error("Erro ao salvar o arquivo analog.json:", err);

@@ -52,9 +52,8 @@ function createGlossary() {
       }
 
       const conjDataParsed = JSON.parse(conjDataRaw);
-      const conjDataProcessed = conjData(conjDataParsed); // Usando conjData
-
-      // Lê o arquivo def.json
+      const conjDataProcessed = conjData(conjDataParsed); 
+      
       fs.readFile(defPath, "utf8", (err, defDataRaw) => {
         if (err) {
           console.error("Erro ao ler o arquivo def.json:", err);
@@ -82,7 +81,7 @@ function createGlossary() {
             }
 
             const difDataParsed = JSON.parse(difDataRaw);
-            const difDataProcessed = difData(difDataParsed); // Usando difData
+            const difDataProcessed = difData(difDataParsed);
 
             const glossary: Record<string, GlossaryEntry> = {};
 
@@ -139,7 +138,6 @@ function createGlossary() {
               }
             }
 
-            // Ordena as chaves do glossário em ordem alfabética
             const orderedGlossary: Record<string, GlossaryEntry> = {};
             Object.keys(glossary)
               .sort()
