@@ -4,15 +4,21 @@ import Analógico from "../json/analog.json";
 function ru (input: string) {
   const result = input
   .replace("(-se)", "")
+  .replace(/\(.*?\)/g, "")
   .trim();
   return result;
 }
 
-// function ss (word: string, search: string): boolean {
-//   return (
-//     word.includes(` ${search}`) ||
-//     word.includes(`${search} `)
-//   );
+// function ss(word: string, search: string): boolean {
+//   if (search.length > 3) {
+//     return (
+//       word.includes(` ${search} `) || 
+//       word.startsWith(`${search} `) || 
+//       word.endsWith(` ${search}`)
+//     );
+//   } else if (search.length <= 3) {
+//     return false;
+//   }
 // }
 
 export function getAnalogKeyData(searchTerm: string) {
@@ -29,7 +35,7 @@ export function getAnalogKeyData(searchTerm: string) {
       // data.verb?.some(word => ss(ru(ni(word)), normSearchTerm)) ||
       data.adv?.some(word => ru(ni(word)) === normSearchTerm) ||
       // data.adv?.some(word => ss(ru(ni(word)), normSearchTerm)) ||
-      // data.phrase?.some(word => ss(ru(ni(word)), normSearchTerm)) ||
+      // data.phr?.some(word => ss(ru(ni(word)), normSearchTerm)) ||
       data.phr?.some(word => ru(ni(word)) === normSearchTerm) 
     ) {
       results.push(data.original);
@@ -45,6 +51,6 @@ export const getAnalogData = (searchTerm: string) => {
     if (ni(data.original) === normSearchTerm) {
       return data;
     }
-  }  
+  }
   return null;
 };
