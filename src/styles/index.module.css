@@ -175,7 +175,7 @@
   width: 100%;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 700px) {
   .analog_container {
     flex-direction: column;
     height: max-content;
@@ -211,7 +211,7 @@
   gap: 5px;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 700px) {
   .analog_header_3 {
     margin-top: 10px;
   }
