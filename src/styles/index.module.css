@@ -54,7 +54,7 @@
 }
 
 .glossario_title {
-  background-color: aquamarine;
+  /* background-color: aquamarine; */
   height: 30px;
   display: flex;
   align-items: center;
@@ -67,10 +67,14 @@
   gap: 5px;
 }
 
+.glossario_content p {
+  margin: 0;
+}
+
 /*EXPRESSIONS CONTAINER*/
 
 .expressions_container {
-  background-color:aquamarine;
+  /* background-color:aquamarine; */
   height: 275px;
   overflow: auto;
   flex:1;
@@ -107,9 +111,15 @@
 .definitions_panel {
   background-color:var(--panels);
   min-width: 310px;
-  height: 285px;
+  height: 275px;
   overflow: auto;
+  padding: 5px;
 }
+
+.definitions_panel p {
+  margin: 0;
+}
+
 /****************************************************/
 /********************HOME RIGTH**********************/
 /****************************************************/
@@ -158,7 +168,7 @@
 }
 
 .analog_header_1{
-  background-color: aquamarine;
+  /* background-color: aquamarine; */
   flex: 2;
   display: flex;
   align-items: center;
@@ -167,7 +177,7 @@
 }
 
 .analog_header_2{
-  background-color: aquamarine;
+  /* background-color: aquamarine; */
   flex: 2;
   display: flex;
   align-items: center;
@@ -176,7 +186,7 @@
 }
 
 .analog_header_3{
-  background-color: aquamarine;
+  /* background-color: aquamarine; */
   flex: 4;
   display: flex;
   align-items: center;
@@ -212,11 +222,15 @@
 }
 
 .analog_groups_1 {
-  background-color: aquamarine;
+  /* background-color: aquamarine; */
   flex: 2;
   padding: 5px;
   overflow: auto;
   max-width: 150px;
+}
+
+.analog_groups_1 p {
+  margin: 0;
 }
 
 .analog_groups_1 > div > button {
@@ -287,7 +301,7 @@
 }
 
 .synonym_header_1{
-  background-color: aquamarine;
+  /* background-color: aquamarine; */
   flex: 2;
   display: flex;
   align-items: center;
@@ -296,7 +310,7 @@
 }
 
 .synonym_header_2{
-  background-color: aquamarine;
+  /* background-color: aquamarine; */
   flex: 2;
   display: flex;
   align-items: center;
@@ -305,7 +319,7 @@
 }
 
 .synonym_header_3{
-  background-color: aquamarine;
+  /* background-color: aquamarine; */
   flex: 4;
   display: flex;
   align-items: center;
@@ -326,11 +340,15 @@
 }
 
 .synonym_groups_1 {
-  background-color:aquamarine;
+  /* background-color:aquamarine; */
   flex:2;
   padding: 5px;
   overflow: auto;
   max-width: 150px;
+}
+
+.synonym_groups_1 p {
+  margin: 0;
 }
 
 .synonym_groups_1 > div > button {
