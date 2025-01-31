@@ -40,7 +40,7 @@ export default function HomePage() {
             placeholder="Digite o texto..."
           />
         </div>
-        <div>
+        <div className={styles.glossario_container}>
           <div className={styles.glossario_title}>
             <strong>Lista de expressões e conjunções</strong>
           </div>
