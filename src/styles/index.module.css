@@ -67,6 +67,12 @@
   gap: 5px;
 }
 
+@media (max-width: 700px) {
+  .glossario_content {
+    flex-direction: column;
+  }
+}
+
 .glossario_content p {
   margin: 0;
 }
@@ -79,6 +85,8 @@
   overflow: auto;
   flex:1;
   padding: 5px;
+  max-width: 250px;
+  min-width: 150px;
 }
 
 .button {
@@ -106,10 +114,17 @@
 
 .definitions_panel {
   background-color:var(--panels);
-  min-width: 310px;
+  max-width: 350px;
+  min-width: 150px;
   height: 275px;
   overflow: auto;
   padding: 5px;
+}
+
+@media (max-width: 700px) {
+  .definitions_panel {
+    max-width: 100%;
+  }
 }
 
 .definitions_panel p {
