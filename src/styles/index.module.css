@@ -170,6 +170,7 @@
   align-items: center;
   padding: 5px;
   height: 30px;
+  min-width: 80px;
 }
 
 .analog_header_2{
@@ -179,15 +180,17 @@
   align-items: center;
   padding: 5px;
   height: 30px;
+  min-width: 80px;
 }
 
 .analog_header_3{
-  /* background-color: aquamarine; */
+  background-color: aquamarine;
   flex: 4;
   display: flex;
   align-items: center;
   padding: 5px;
   height: 30px;
+  min-width: 250px;
 }
 
 @media (max-width: 700px) {
@@ -225,6 +228,7 @@
   padding: 5px;
   overflow: auto;
   max-width: 150px;
+  min-width: 80px;
 }
 
 .analog_groups_1 p {
@@ -243,6 +247,7 @@
   flex: 2;
   padding: 5px;
   overflow: auto;
+  min-width: 80px;
 }
 
 .analog_groups_2 p {
@@ -261,6 +266,7 @@
   flex:4;
   padding: 5px;
   overflow: auto;
+  min-width: 250px;
 }
 
 /*SYNONYM CONTAINER*/
@@ -305,6 +311,8 @@
   align-items: center;
   padding: 5px;
   height: 30px;
+  min-width: 80px;
+  min-width: 80px;
 }
 
 .synonym_header_2{
@@ -317,12 +325,13 @@
 }
 
 .synonym_header_3{
-  /* background-color: aquamarine; */
+  background-color: aquamarine;
   flex: 4;
   display: flex;
   align-items: center;
   padding: 5px;
   height: 30px;
+  min-width: 250px;
 }
 
 @media (max-width: 700px) {
@@ -343,6 +352,7 @@
   padding: 5px;
   overflow: auto;
   max-width: 150px;
+  min-width: 80px;
 }
 
 .synonym_groups_1 p {
@@ -361,6 +371,7 @@
   flex:2;
   padding: 5px;
   overflow: auto;
+  min-width: 80px;
 }
 
 .synonym_groups_2 p {
@@ -379,6 +390,7 @@
   flex:4;
   padding: 5px;
   overflow: auto;
+  min-width: 250px;
 }
 
 
