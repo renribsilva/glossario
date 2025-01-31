@@ -11,7 +11,7 @@ export default function HomePage() {
     inputValue,
     showGlosaDef,
     showAnalogDef,
-    showSin,
+    hasInput,
     glosaEntries,
     glosaData,
     synonymKeyData,
@@ -47,13 +47,10 @@ export default function HomePage() {
           <div className={styles.glossario_content}>
             <div className={styles.expressions_container}>
               <div>
-                {
-                inputValue === undefined
-                && glosaEntries.length === 0 
-                && (
+                {!hasInput && (
                   <p>Digite o texto para ver expressões relacionadas a cada palavra digitada</p>
                 )}
-                {(inputValue !== undefined && inputValue.length > 0) && glosaEntries.length === 0 && (
+                {hasInput && glosaEntries.length === 0 && (
                   <>
                     <p>Nenhuma glosa que contém:</p>
                     <span><strong>{inputValue}</strong></span>
@@ -61,7 +58,7 @@ export default function HomePage() {
                 )}
               </div>
               <div>
-                {glosaEntries.length > 0 && (
+                {hasInput && glosaEntries.length > 0 && (
                   glosaEntries.map((entry, index) => {
                     const maxLength = 100;
                     const truncatedText = entry.original.length > maxLength
@@ -86,10 +83,7 @@ export default function HomePage() {
             </div>
             <div className={styles.definitions_container}>
               <div className={styles.definitions_panel}>
-                {
-                !showGlosaDef 
-                && glosaEntries.length !== 0 
-                && (
+                {hasInput && !showGlosaDef && glosaEntries.length !== 0 && (
                   <p>Clique em algum item para ver a sua glosa</p>
                 )}
                 {showGlosaDef && (
@@ -125,13 +119,13 @@ export default function HomePage() {
             </div>
             <div className={styles.synonym_groups}>
               <div className={styles.synonym_groups_1}>
-                {showSin && synonymKeyData.length === 0 && (
-                  <p>Não há sinônimos para a palavra: &quot;{inputValue}&quot;</p>
-                )}
-                {!showSin && synonymKeyData.length === 0 && (
+                {!hasInput && (
                   <p>Aqui são listados os grupos de sinônimos da última palavra digitada</p>
-                )}   
-                {synonymKeyData && synonymKeyData.map((item, index) => {
+                )} 
+                {hasInput && synonymKeyData.length === 0 && (
+                  <p>Não há sinônimos para a palavra: &quot;{inputValue}&quot;</p>
+                )}  
+                {hasInput && synonymKeyData && synonymKeyData.map((item, index) => {
                   const entriesString = item.entries.join(", ");
                   return (
                     <div key={index}>
@@ -147,20 +141,15 @@ export default function HomePage() {
                 })}
               </div>
               <div className={styles.synonym_groups_2}>
-                {synonymKeyData.length > 0
-                && synonymData.entries.length === 0 && (
+                {hasInput && synonymKeyData.length > 0 && synonymData.entries.length === 0 && (
                   <p>Clique em algum item para ver seus sinônimos</p>
                 )}
-                {synonymData
-                && showSin
-                && Array.from(synonymData.entries).map((item, index) => (
+                {hasInput && synonymData && Array.from(synonymData.entries).map((item, index) => (
                   <div key={index}>{item}</div>
                 ))}
               </div>
               <div className={styles.synonym_groups_3}>
-                {synonymData
-                && showSin
-                && (
+                {hasInput && synonymData && (
                   <div>{synonymData.plain_text}</div>
                 )}
               </div>
@@ -175,8 +164,10 @@ export default function HomePage() {
             </div>
             <div className={styles.analog_groups}>
               <div className={styles.analog_groups_1}>
-                {analogKeyData 
-                && analogKeyData.length > 0 
+                {!hasInput && (
+                  <p>Aqui são listados os grupos analógicos para cada palavra digitada</p>
+                )}
+                {hasInput && analogKeyData && analogKeyData.length > 0 
                 && analogKeyData.map((item: string, index: number) => (
                   <>
                     <button 
@@ -188,15 +179,12 @@ export default function HomePage() {
                     </button>
                   </>
                 ))}
-                {analogKeyData === null && (
-                  <p>Aqui são listados os grupos analógicos para cada palavra digitada</p>
-                )}
               </div>
               <div className={styles.analog_groups_2}>
-                {analogKeyData !== null && !showAnalogDef && (
+                {hasInput && analogKeyData !== null && !showAnalogDef && (
                   <p>Clique em algum item para ver o seu campo analógico</p>
                 )}
-                {analogData && showAnalogDef && analogData.group && (
+                {hasInput && analogData && showAnalogDef && analogData.group && (
                   <>
                     <strong>{analogData.original}: </strong>
                     <span>
@@ -234,7 +222,7 @@ export default function HomePage() {
               {categories.map((category) =>
                 activeList === category && analogData[category] && (
                   <div key={category}>
-                    {analogData[category].map((item, index) => (
+                    {hasInput && analogData[category].map((item, index) => (
                       <div key={index}>{item}</div>
                     ))}
                   </div>

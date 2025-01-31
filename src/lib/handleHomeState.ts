@@ -9,7 +9,7 @@ export function handleHomeState() {
   const [inputValue, setInputValue] = useState<string | undefined>(undefined);
   const [showGlosaDef, setShowGlosaDef] = useState<boolean>(false);
   const [showAnalogDef, setShowAnalogDef] = useState<boolean>(false);
-  const [showSin, setShowSin] = useState<boolean>(false);
+  const [hasInput, sethasInput] = useState<boolean>(false);
   const [glosaEntries, setGlosaEntries] = useState<GlosaEntry[]>([]);
   const [glosaData, setGlosaData] = useState<GlosaData>({});
   const [synonymKeyData, setSynonymKeyData] = useState<SinData[]>([]);
@@ -80,13 +80,22 @@ export function handleHomeState() {
   };
 
   useEffect(() => {
-    if (!inputValue || inputValue === previousInputValue.current) {
-      return; // Não faz nada se o input não mudou
+
+    if (inputValue === undefined) {
+      sethasInput(false);
+      setShowGlosaDef(false);
+    } else {
+      sethasInput(true);
     }
 
-    previousInputValue.current = inputValue; // Atualiza o valor anterior
+    if (!inputValue || inputValue === previousInputValue.current) {
+      return;
+    }
+
+    previousInputValue.current = inputValue;
 
     const timer = setTimeout(() => {
+
       const entries = getGlosaEntries(inputValue);
       setGlosaEntries(entries);
 
@@ -99,18 +108,14 @@ export function handleHomeState() {
       setShowAnalogDef(false);
       setShowGlosaDef(false);
       setActiveButton(null);
-
-      if (inputValue === "") {
-        setShowSin(false);
-      } else {
-        setShowSin(true);
-      }
-
       setSynonymData({ plain_text: "", entries: [] });
-    }, 300);
 
-    return () => clearTimeout(timer); // Limpa o timer se inputValue mudar antes de 500ms
+    }, 300);
+    return () => clearTimeout(timer);
   }, [inputValue]);
+
+  console.log(inputValue);
+  console.log(hasInput);
 
   return {
     keys,
@@ -119,7 +124,7 @@ export function handleHomeState() {
     inputValue,
     showGlosaDef,
     showAnalogDef,
-    showSin,
+    hasInput,
     glosaEntries,
     glosaData,
     synonymKeyData,
