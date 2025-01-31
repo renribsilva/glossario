@@ -1,6 +1,4 @@
-// useHomePageState.ts
-
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import { ni } from "../lib/normalizedEntry";
 import { GlosaEntry, GlosaData, SinData, AnalogData } from "../types";
 import { getGlosaEntries, getGlosaData } from "../lib/getGlosaData";
@@ -23,6 +21,8 @@ export function handleHomeState() {
   const keys = ["exp", "conj", "gram", "def", "dif"];
   const categories = ["sub", "verb", "adj", "adv"];
   const classes = ["sub", "verb", "adj", "adv", "phr"];
+
+  const previousInputValue = useRef<string | undefined>(undefined);
 
   const handleInputChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
     const fullText = e.target.value;
@@ -80,16 +80,11 @@ export function handleHomeState() {
   };
 
   useEffect(() => {
-    if (!inputValue) {
-      setGlosaEntries([]);
-      setSynonymKeyData([]);
-      setShowSin(false);
-      setSynonymData({ plain_text: "", entries: [] });
-      setShowAnalogDef(false);
-      setShowGlosaDef(false);
-      setActiveButton(null);
-      return;
+    if (!inputValue || inputValue === previousInputValue.current) {
+      return; // Não faz nada se o input não mudou
     }
+
+    previousInputValue.current = inputValue; // Atualiza o valor anterior
 
     const timer = setTimeout(() => {
       const entries = getGlosaEntries(inputValue);
@@ -112,7 +107,7 @@ export function handleHomeState() {
       }
 
       setSynonymData({ plain_text: "", entries: [] });
-    }, 500); // Executa após 500ms
+    }, 300);
 
     return () => clearTimeout(timer); // Limpa o timer se inputValue mudar antes de 500ms
   }, [inputValue]);
