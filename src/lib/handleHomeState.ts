@@ -113,10 +113,7 @@ export function handleHomeState() {
     }, 300);
     return () => clearTimeout(timer);
   }, [inputValue]);
-
-  console.log(inputValue);
-  console.log(hasInput);
-
+  
   return {
     keys,
     categories,

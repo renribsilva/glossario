@@ -167,6 +167,9 @@ export default function HomePage() {
                 {!hasInput && (
                   <p>Aqui são listados os grupos analógicos para cada palavra digitada</p>
                 )}
+                {hasInput && analogKeyData === null && (
+                  <p>Não há grupos analógicos para a palavra &quot;{inputValue}&quot;</p>
+                )}
                 {hasInput && analogKeyData && analogKeyData.length > 0 
                 && analogKeyData.map((item: string, index: number) => (
                   <>
@@ -210,6 +213,7 @@ export default function HomePage() {
                         activeList === list ? styles.active : styles.inactive
                       }`}
                       onClick={() => handleNavbarClick(list)}
+                      disabled={!hasInput}
                     >
                       {list}
                     </button>

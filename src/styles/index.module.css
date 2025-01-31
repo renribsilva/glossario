@@ -225,17 +225,13 @@
   border-radius: 5px !important;
   width: 45px !important;
   font-family: "Ubuntu";
+  font-weight: 450;
+  font-size: 14px;
 }
 
 .analog_button.active {
   /* background-color: var(--color-mod-dark) !important; */
-  font-weight: 450 !important;
-  text-decoration-line:underline;
-}
-
-.analog_button.inactive {
-  /* background-color: var(--color-button-dark) !important; */
-  font-weight: 450 !important;
+  text-decoration-line:underline !important;
 }
 
 .analog_groups {
