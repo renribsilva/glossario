@@ -91,26 +91,30 @@ export function handleHomeState() {
       return;
     }
 
-    const entries = getGlosaEntries(inputValue);
-    setGlosaEntries(entries);
+    const timer = setTimeout(() => {
+      const entries = getGlosaEntries(inputValue);
+      setGlosaEntries(entries);
 
-    const analog = getAnalogKeyData(ni(inputValue));
-    setAnalogKeyData(analog);
+      const analog = getAnalogKeyData(ni(inputValue));
+      setAnalogKeyData(analog);
 
-    const synonymKeyData = getSynonymsKeysData(ni(inputValue));
-    setSynonymKeyData(synonymKeyData);
+      const synonymKeyData = getSynonymsKeysData(ni(inputValue));
+      setSynonymKeyData(synonymKeyData);
 
-    setShowAnalogDef(false);
-    setShowGlosaDef(false);
-    setActiveButton(null);
+      setShowAnalogDef(false);
+      setShowGlosaDef(false);
+      setActiveButton(null);
 
-    if (inputValue === "") {
-      setShowSin(false);
-    } else {
-      setShowSin(true);
-    }
+      if (inputValue === "") {
+        setShowSin(false);
+      } else {
+        setShowSin(true);
+      }
 
-    setSynonymData({ plain_text: "", entries: [] });
+      setSynonymData({ plain_text: "", entries: [] });
+    }, 500); // Executa após 500ms
+
+    return () => clearTimeout(timer); // Limpa o timer se inputValue mudar antes de 500ms
   }, [inputValue]);
 
   return {
