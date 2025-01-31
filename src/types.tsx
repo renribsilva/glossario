@@ -21,7 +21,7 @@ export type AnalogData = {
   adj: string[];
   verb: string[];
   adv: string[];
-  phrase: string[];
+  phr: string[];
 }
 
 export type GlosaEntry = {

@@ -19,7 +19,7 @@ export function handleHomeState() {
   const [synonymData, setSynonymData] = useState<SinData>({ plain_text: "", entries: [] });
 
   const keys = ["exp", "conj", "gram", "def", "dif"];
-  const categories = ["sub", "verb", "adj", "adv"];
+  const categories = ["sub", "verb", "adj", "adv", "phr"];
   const classes = ["sub", "verb", "adj", "adv", "phr"];
 
   const previousInputValue = useRef<string | undefined>(undefined);

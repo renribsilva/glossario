@@ -7,17 +7,29 @@ function ru (input: string) {
   return result;
 }
 
+// function ss (word: string, search: string): boolean {
+//   return (
+//     word.includes(` ${search}`) ||
+//     word.includes(`${search} `)
+//   );
+// }
+
 export function getAnalogKeyData(searchTerm: string) {
   const normSearchTerm = ni(searchTerm);
   const results: string[] = [];
 
   for (const [, data] of Object.entries(Analógico)) {
     if (
-      (data.sub?.some(word => ru(ni(word)) === normSearchTerm) ||
+      data.sub?.some(word => ru(ni(word)) === normSearchTerm) ||
+      // data.sub?.some(word => ss(ru(ni(word)), normSearchTerm)) ||
       data.adj?.some(word => ru(ni(word)) === normSearchTerm) ||
+      // data.adj?.some(word => ss(ru(ni(word)), normSearchTerm)) ||
       data.verb?.some(word => ru(ni(word)) === normSearchTerm) ||
+      // data.verb?.some(word => ss(ru(ni(word)), normSearchTerm)) ||
       data.adv?.some(word => ru(ni(word)) === normSearchTerm) ||
-      data.phrase?.some(word => ru(ni(word)) === normSearchTerm))
+      // data.adv?.some(word => ss(ru(ni(word)), normSearchTerm)) ||
+      // data.phrase?.some(word => ss(ru(ni(word)), normSearchTerm)) ||
+      data.phr?.some(word => ru(ni(word)) === normSearchTerm) 
     ) {
       results.push(data.original);
     }

@@ -8,7 +8,7 @@ type AnalogEntry = {
   adj: string[];
   verb: string[];
   adv: string[];
-  phrase: string[];
+  phr: string[];
 };
 
 export default function anaData(inputData: string[]): Record<string, AnalogEntry> {
@@ -50,7 +50,7 @@ export default function anaData(inputData: string[]): Record<string, AnalogEntry
           adj: adj,
           verb: verb,
           adv: adv,
-          phrase: phrase,
+          phr: phrase,
         };
       }
     }
