@@ -258,13 +258,6 @@
   margin: 0;
 }
 
-.analog_groups_1 > div > button {
-  max-width: 100%;
-  overflow: hidden;
-  white-space: nowrap; 
-  text-overflow: ellipsis;
-}
-
 .analog_groups_2 {
   background-color: var(--panels);
   flex: 2;
@@ -275,13 +268,6 @@
 
 .analog_groups_2 p {
   margin: 0;
-}
-
-.analog_groups_2 > div {
-  max-width: 100%;
-  overflow: hidden;
-  white-space: nowrap; 
-  text-overflow: ellipsis;
 }
 
 .analog_groups_3 {
@@ -374,13 +360,6 @@
 
 .synonym_groups_1 p {
   margin: 0;
-}
-
-.synonym_groups_1 > div > button {
-  max-width: 100%;
-  overflow: hidden;
-  white-space: nowrap; 
-  text-overflow: ellipsis;
 }
 
 .synonym_groups_2 {
