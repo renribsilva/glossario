@@ -209,7 +209,7 @@ export default function HomePage() {
                   return (
                     <button
                       key={list}
-                      className={`${styles.analog_button} ${
+                      className={`${styles.analog_navbar} ${
                         activeList === list ? styles.active : styles.inactive
                       }`}
                       onClick={() => handleNavbarClick(list)}
@@ -224,7 +224,7 @@ export default function HomePage() {
             <div className={styles.analog_groups}>
             <div className={styles.analog_groups_3}>
               {categories.map((category) =>
-                activeList === category && analogData[category] && (
+                activeList === category && analogData !== null && analogData[category] && (
                   <div key={category}>
                     {hasInput && analogData[category].map((item, index) => (
                       <div key={index}>{item}</div>

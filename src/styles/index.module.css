@@ -28,7 +28,7 @@
 /*TEXTAREA*/
 
 .textarea {
-  background-color: var(--color-button-light);
+  background-color: var(--background);
   border: none;
   font-size: 16px;
   min-height: 250px;
@@ -46,7 +46,7 @@
 /*GLOSSÁRIO CONTAINER*/
 
 .glossario_title {
-  background: var(--color-button-light);
+  background: var(--background);
   height: 45px;
   display: flex;
   align-items: center;
@@ -55,7 +55,7 @@
 }
 
 .glossario_content {
-  background: var(--color-button-light);
+  background: var(--background);
   display: flex;
 }
 
@@ -79,6 +79,7 @@
 }
 
 .button {
+  background-color: var(--background);
   border: none;
   height: 20px;
   font-size: 14px;
@@ -96,12 +97,12 @@
 /*DEFINITIONS CONTAINER*/
 
 .definitions_container {
-  background-color:var(--color-button-light);
+  background-color:var(--background);
   flex:1.4
 }
 
 .definitions_panel {
-  background-color:var(--color-button-dark);
+  background-color:var(--panels);
   padding: 10px;
   box-sizing: border-box;
   min-height: 295px;
@@ -134,7 +135,7 @@
 /*ANALOG CONTAINER*/
 
 .analog_container {
-  background-color: var(--color-button-light);
+  background-color: var(--background);
   height: 350px;
   display: flex;
   gap: 5px;
@@ -198,20 +199,18 @@
   }
 }
 
-.analog_button {
-  /* background-color: var(--color-button-dark) !important; */
-  border: 0px !important;
-  height: 30px !important;
+.analog_navbar {
+  background-color: var(--background);
+  border: 0px;
+  height: 30px;
   cursor: pointer !important;
-  border-radius: 5px !important;
   width: 45px !important;
   font-family: "Ubuntu";
   font-weight: 450;
   font-size: 14px;
 }
 
-.analog_button.active {
-  /* background-color: var(--color-mod-dark) !important; */
+.analog_navbar.active {
   text-decoration-line:underline !important;
 }
 
@@ -231,7 +230,7 @@
 
 .analog_groups_2 {
   flex: 2;
-  background-color: var(--color-button-dark);
+  background-color: var(--panels);
   overflow: auto;
   min-width: 120px;
   height: 300px;
@@ -245,7 +244,7 @@
 
 .analog_groups_3 {
   flex: 3;
-  background-color:var(--color-button-dark);
+  background-color:var(--panels);
   overflow: auto;
   min-width: 225px;
   height: 300px;
@@ -257,7 +256,7 @@
 
 .synonym_container {
   height: 250px;
-  background-color: var(--color-button-light);
+  background-color: var(--background);
   gap: 5px;
 }
 
@@ -330,7 +329,7 @@
 }
 
 .synonym_groups_2 {
-  background-color:var(--color-button-dark);
+  background-color:var(--panels);
   flex:2;
   padding: 10px;
   box-sizing: border-box;
@@ -349,7 +348,7 @@
 }
 
 .synonym_groups_3 {
-  background-color:var(--color-button-dark);
+  background-color:var(--panels);
   flex:4;
   padding: 10px;
   box-sizing: border-box;
