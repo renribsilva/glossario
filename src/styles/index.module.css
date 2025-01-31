@@ -184,7 +184,7 @@
 }
 
 .analog_header_3{
-  background-color: aquamarine;
+  /* background-color: aquamarine; */
   flex: 4;
   display: flex;
   align-items: center;
@@ -325,19 +325,13 @@
 }
 
 .synonym_header_3{
-  background-color: aquamarine;
+  /* background-color: aquamarine; */
   flex: 4;
   display: flex;
   align-items: center;
   padding: 5px;
   height: 30px;
   min-width: 250px;
-}
-
-@media (max-width: 700px) {
-  .synonym_header_3 {
-    margin-top: 10px;
-  }
 }
 
 .synonym_groups {
