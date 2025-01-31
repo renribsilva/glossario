@@ -282,12 +282,12 @@
 }
 
 .synonym_header_1{
-  background-color: aquamarine;
+  /* background-color: aquamarine; */
   flex: 2;
 }
 
 .synonym_header_2{
-  background-color: aquamarine;
+  /* background-color: aquamarine; */
   flex: 2;
   padding: 10px;
   box-sizing: border-box;
