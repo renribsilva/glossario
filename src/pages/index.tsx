@@ -27,7 +27,7 @@ export default function HomePage() {
     handleNavbarClick
   } = handleHomeState();
 
-  console.log(analogData);
+  // console.log(analogData);
 
   return (
     <section className={styles.home}>

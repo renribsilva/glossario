@@ -1,17 +1,23 @@
 import { ni } from "./normalizedEntry";
 import Analógico from "../json/analog.json";
 
+function ru (input: string) {
+  const result = input
+  .replace("(-se)", "");
+  return result;
+}
+
 export function getAnalogKeyData(searchTerm: string) {
   const normSearchTerm = ni(searchTerm);
   const results: string[] = [];
 
   for (const [, data] of Object.entries(Analógico)) {
     if (
-      (data.sub?.some(word => ni(word) === normSearchTerm) ||
-      data.adj?.some(word => ni(word) === normSearchTerm) ||
-      data.verb?.some(word => ni(word) === normSearchTerm) ||
-      data.adv?.some(word => ni(word) === normSearchTerm) ||
-      data.phrase?.some(word => ni(word) === normSearchTerm))
+      (data.sub?.some(word => ru(ni(word)) === normSearchTerm) ||
+      data.adj?.some(word => ru(ni(word)) === normSearchTerm) ||
+      data.verb?.some(word => ru(ni(word)) === normSearchTerm) ||
+      data.adv?.some(word => ru(ni(word)) === normSearchTerm) ||
+      data.phrase?.some(word => ru(ni(word)) === normSearchTerm))
     ) {
       results.push(data.original);
     }
