@@ -205,10 +205,12 @@
   border: 0px;
   height: 20px;
   cursor: pointer !important;
-  width: 45px !important;
+  width: 35px !important;
   font-family: "Ubuntu";
   font-weight: 450;
   font-size: 14px;
+  text-align: center;
+  margin-inline: 5px;
 }
 
 .analog_navbar.active {
