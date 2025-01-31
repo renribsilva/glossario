@@ -3,7 +3,8 @@ import Analógico from "../json/analog.json";
 
 function ru (input: string) {
   const result = input
-  .replace("(-se)", "");
+  .replace("(-se)", "")
+  .trim();
   return result;
 }
 
