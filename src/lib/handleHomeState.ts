@@ -113,16 +113,22 @@ export function handleHomeState() {
       setActiveButton(null);
       setSynonymData({ plain_text: "", entries: [] });
 
+      let longestOriginal = "";
+
       for (const entrie of entries) {
         if (ni(inputFullText).endsWith(ni(entrie.original))) {
-          setShowGlosaDef(true);
-          const data = getGlosaData(ni(entrie.original));
-          if (data) {
-            setGlosaData(data);
+          if (entrie.original.length > longestOriginal.length) {
+            longestOriginal = entrie.original;
           }
         }
-        console.log(showGlosaDef);
-        console.log(glosaData);
+      }
+
+      if (longestOriginal) {
+        setShowGlosaDef(true);
+        const data = getGlosaData(ni(longestOriginal));
+        if (data) {
+          setGlosaData(data);
+        }
       }
 
     }, 300);
