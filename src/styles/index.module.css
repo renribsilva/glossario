@@ -279,7 +279,7 @@
 }
 
 .analog_groups_3 > div > div{
-  width: 100%;
+  max-width: 300px;
   overflow: auto;
   white-space: nowrap; 
   text-overflow: ellipsis;
