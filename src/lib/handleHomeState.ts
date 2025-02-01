@@ -7,6 +7,7 @@ import { getSynonymsKeysData } from "../lib/getSynonymData";
 
 export function handleHomeState() {
   const [inputValue, setInputValue] = useState<string | undefined>(undefined);
+  const [inputFullText, setInputFullText] = useState<string | undefined>(undefined);
   const [showGlosaDef, setShowGlosaDef] = useState<boolean>(false);
   const [showAnalogDef, setShowAnalogDef] = useState<boolean>(false);
   const [hasInput, sethasInput] = useState<boolean>(false);
@@ -31,6 +32,7 @@ export function handleHomeState() {
       .split(/\s+/);
     const validWords = words.filter(word => word.trim() !== "");
     setInputValue(validWords[validWords.length - 1]);
+    setInputFullText(fullText);
   };
 
   const handleKeyDown = (e: React.KeyboardEvent<HTMLTextAreaElement>) => {
@@ -41,6 +43,7 @@ export function handleHomeState() {
         .split(/\s+/);
       const validWords = words.filter(word => word.trim() !== "");
       setInputValue(validWords[validWords.length - 1]);
+      setInputFullText(fullText);
     }
   };
 
@@ -109,6 +112,18 @@ export function handleHomeState() {
       setShowGlosaDef(false);
       setActiveButton(null);
       setSynonymData({ plain_text: "", entries: [] });
+
+      for (const entrie of entries) {
+        if (ni(inputFullText).endsWith(ni(entrie.original))) {
+          setShowGlosaDef(true);
+          const data = getGlosaData(ni(entrie.original));
+          if (data) {
+            setGlosaData(data);
+          }
+        }
+        console.log(showGlosaDef);
+        console.log(glosaData);
+      }
 
     }, 300);
     return () => clearTimeout(timer);
