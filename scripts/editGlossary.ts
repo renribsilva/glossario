@@ -151,7 +151,7 @@ function createGlossary() {
                 console.error("Erro ao salvar o arquivo newglossary.json:", err);
                 return;
               }
-              console.log("Arquivo newglossary.json criado com sucesso!");
+              console.log("Arquivo glossary.json criado com sucesso!");
             });
           });
         });
