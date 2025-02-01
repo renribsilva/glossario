@@ -3,7 +3,7 @@ import { GlosaData, GlosaEntry } from "../types";
 import { formatObject } from "./arabicToRoman";
 import { ni } from "./normalizedEntry";
 
-export function getGlosaEntries(inputValue: string) {
+export function getGlosaEntries(inputValue: string, inputFullText: string) {
   const entries: GlosaEntry[] = [];
   const regex = new RegExp(`(^|\\s)${inputValue}($|\\s)`, "i");
 
@@ -12,7 +12,13 @@ export function getGlosaEntries(inputValue: string) {
       entries.push({ original: valor.original });
     }
   }
-  return entries;
+
+  // Ordena colocando no topo os que terminam com inputFullText
+  return entries.sort((a, b) => {
+    const aEndsWith = ni(inputFullText).endsWith(ni(a.original)) ? -1 : 0;
+    const bEndsWith = ni(inputFullText).endsWith(ni(b.original)) ? -1 : 0;
+    return aEndsWith - bEndsWith;
+  });
 }
 
 export function getGlosaData(input: string) {

@@ -99,7 +99,7 @@ export function handleHomeState() {
 
     const timer = setTimeout(() => {
 
-      const entries = getGlosaEntries(inputValue);
+      const entries = getGlosaEntries(inputValue, inputFullText);
       setGlosaEntries(entries);
 
       const analog = getAnalogKeyData(ni(inputValue));
