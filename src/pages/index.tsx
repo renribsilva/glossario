@@ -219,7 +219,7 @@ export default function HomePage() {
                         activeList === list ? styles.active : styles.inactive
                       }`}
                       onClick={() => handleNavbarClick(list)}
-                      disabled={!hasInput}
+                      disabled={!hasInput || !showAnalogDef}
                     >
                       {list}
                     </button>
