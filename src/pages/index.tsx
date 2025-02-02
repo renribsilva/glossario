@@ -95,7 +95,7 @@ export default function HomePage() {
                     <div>
                       {keys.map((key) => 
                         glosaData[key] && (
-                          <div key={key}>
+                          <div key={key} className={styles.definitions_dicio}>
                             <strong>{key.charAt(0).toUpperCase() 
                             + key.slice(1)}:</strong> {glosaData[key]}
                           </div>
