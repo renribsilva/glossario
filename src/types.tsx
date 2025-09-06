@@ -32,3 +32,9 @@ export type SinData = {
   plain_text: string;
   entries: string[];
 }
+
+export type ExtendedWordMap = {
+  [word: string]: {
+    [flag: string]: string[];
+  };
+};

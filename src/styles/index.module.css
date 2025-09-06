@@ -25,10 +25,16 @@
   flex:1
 }
 
-/*TEXTAREA*/
+/*TEXTAREA CONTAINER*/
+
+.textarea_container {
+  background-color: var(--background);
+  display: flex;
+  gap: 5px;
+}
 
 .textarea {
-  background-color: var(--background);
+  background-color:aquamarine;
   border: none;
   font-size: 16px;
   min-height: 250px;
@@ -36,11 +42,39 @@
   font-family: "Ubuntu";
   font-weight: 300;
   font-size: 14px;
-  min-width: 100%;
-  max-width: 400px;
+  min-width: 200px;
   padding: 20px;
   margin: 0;
   box-sizing: border-box;
+  flex: 2;
+}
+
+.suggestions {
+  /* background-color: aqua; */
+  display: flex;
+  flex-direction: column;
+}
+
+.suggestions_title {
+  /* background-color: beige; */
+  display: flex;
+  height: 55px;
+  justify-content: center;
+  align-items: center;
+  font-family: "Ubuntu";
+  font-weight: 400;
+}
+
+.suggestions_list {
+  background-color: var(--panels);
+  min-width: 110px;
+  padding: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  min-height: 180px;
+  max-height: 180px;
+  overflow: auto;
+  flex: 1;
 }
 
 /*GLOSSÁRIO CONTAINER*/

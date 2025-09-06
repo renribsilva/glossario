@@ -4,9 +4,11 @@ import { GlosaEntry, GlosaData, SinData, AnalogData } from "../types";
 import { getGlosaEntries, getGlosaData } from "../lib/getGlosaData";
 import { getAnalogKeyData, getAnalogData } from "../lib/getAnalogData";
 import { getSynonymsKeysData } from "../lib/getSynonymData";
+import { getPTExtended } from "./getPTExtended";
 
 export function handleHomeState() {
-  const [inputValue, setInputValue] = useState<string | undefined>(undefined);
+  const [input, setInput] = useState<string | undefined>(undefined);
+  const [inputNorm, setInputNorm] = useState<string | undefined>(undefined);
   const [inputFullText, setInputFullText] = useState<string | undefined>(undefined);
   const [showGlosaDef, setShowGlosaDef] = useState<boolean>(false);
   const [showAnalogDef, setShowAnalogDef] = useState<boolean>(false);
@@ -18,31 +20,34 @@ export function handleHomeState() {
   const [analogData, setAnalogData] = useState<AnalogData>(null);
   const [activeList, setActiveButton] = useState<string | null>(null);
   const [synonymData, setSynonymData] = useState<SinData>({ plain_text: "", entries: [] });
+  const [ptBRExtended, setptBRExtended] = useState<string[]>([]);
 
   const keys = ["exp", "conj", "gram", "def", "dif"];
   const categories = ["sub", "verb", "adj", "adv", "phr"];
   const classes = ["sub", "verb", "adj", "adv", "phr"];
 
-  const previousInputValue = useRef<string | undefined>(undefined);
+  const previousInputNorm = useRef<string | undefined>(undefined);
 
   const handleInputChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
     const fullText = e.target.value;
-    const words = ni(fullText)
+    const words = fullText
       .replace(/[!"#$%&'()*+,.ºª/:;¨´<=>?´@[\\\]^_`{|}~]+/g, "")
       .split(/\s+/);
     const validWords = words.filter(word => word.trim() !== "");
-    setInputValue(validWords[validWords.length - 1]);
+    setInput(validWords[validWords.length - 1]);
+    setInputNorm(ni(validWords[validWords.length - 1]));
     setInputFullText(fullText);
   };
 
   const handleKeyDown = (e: React.KeyboardEvent<HTMLTextAreaElement>) => {
     const fullText = e.currentTarget.value;
     if (fullText.endsWith(" ") || fullText.endsWith(".") || e.key === "Enter") {
-      const words = ni(fullText)
+      const words = fullText
         .replace(/[!"#$%&'()*+,.ºª/:;¨´<=>?´@[\\\]^_`{|}~]+/g, "")
         .split(/\s+/);
       const validWords = words.filter(word => word.trim() !== "");
-      setInputValue(validWords[validWords.length - 1]);
+      setInput(validWords[validWords.length - 1]);
+      setInputNorm(ni(validWords[validWords.length - 1]));
       setInputFullText(fullText);
     }
   };
@@ -84,29 +89,32 @@ export function handleHomeState() {
 
   useEffect(() => {
 
-    if (inputValue === undefined) {
+    if (inputNorm === undefined) {
       sethasInput(false);
       setShowGlosaDef(false);
     } else {
       sethasInput(true);
     }
 
-    if (!inputValue || inputValue === previousInputValue.current) {
+    if (!inputNorm || inputNorm === previousInputNorm.current) {
       return;
     }
 
-    previousInputValue.current = inputValue;
+    previousInputNorm.current = inputNorm;
 
     const timer = setTimeout(() => {
 
-      const entries = getGlosaEntries(inputValue, inputFullText);
+      const entries = getGlosaEntries(inputNorm, inputFullText);
       setGlosaEntries(entries);
 
-      const analog = getAnalogKeyData(ni(inputValue));
+      const analog = getAnalogKeyData(ni(inputNorm));
       setAnalogKeyData(analog);
 
-      const synonymKeyData = getSynonymsKeysData(ni(inputValue));
+      const synonymKeyData = getSynonymsKeysData(ni(inputNorm));
       setSynonymKeyData(synonymKeyData);
+
+      const ptBRData = getPTExtended(input, "starts");
+      setptBRExtended(ptBRData);
 
       setShowAnalogDef(false);
       setShowGlosaDef(false);
@@ -133,13 +141,14 @@ export function handleHomeState() {
 
     }, 300);
     return () => clearTimeout(timer);
-  }, [inputValue]);
+  }, [inputNorm, ptBRExtended]);
   
   return {
     keys,
     categories,
     classes,
-    inputValue,
+    input,
+    inputNorm,
     showGlosaDef,
     showAnalogDef,
     hasInput,
@@ -150,6 +159,7 @@ export function handleHomeState() {
     analogData,
     activeList,
     synonymData,
+    ptBRExtended,
     handleInputChange,
     handleKeyDown,
     handleAnalogClick,

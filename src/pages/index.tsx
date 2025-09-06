@@ -8,7 +8,7 @@ export default function HomePage() {
     keys,
     categories,
     classes,
-    inputValue,
+    inputNorm,
     showGlosaDef,
     showAnalogDef,
     hasInput,
@@ -19,6 +19,7 @@ export default function HomePage() {
     analogData,
     activeList,
     synonymData,
+    ptBRExtended,
     handleInputChange,
     handleKeyDown,
     handleAnalogClick,
@@ -39,6 +40,18 @@ export default function HomePage() {
             onKeyDown={handleKeyDown}
             placeholder="Digite o texto..."
           />
+          <div className={styles.suggestions}>
+            <div className={styles.suggestions_title}>
+              Sugestões
+            </div>
+            <div className={styles.suggestions_list}>
+              {ptBRExtended.map((entry) =>
+                (
+                  <div key={entry}>{entry}</div>
+                )
+              )}
+            </div>
+          </div>
         </div>
         <div className={styles.glossario_container}>
           <div className={styles.glossario_title}>
@@ -53,7 +66,7 @@ export default function HomePage() {
                 {hasInput && glosaEntries.length === 0 && (
                   <>
                     <p>Nenhuma glosa que contém:</p>
-                    <span><strong>{inputValue}</strong></span>
+                    <span><strong>{inputNorm}</strong></span>
                   </>
                 )}
               </div>
@@ -122,7 +135,7 @@ export default function HomePage() {
                   <p>Aqui são listados os grupos de sinônimos da última palavra digitada</p>
                 )} 
                 {hasInput && synonymKeyData.length === 0 && (
-                  <p>Não há sinônimos para a palavra: &quot;{inputValue}&quot;</p>
+                  <p>Não há sinônimos para a palavra: &quot;{inputNorm}&quot;</p>
                 )}  
                 {hasInput && synonymKeyData && synonymKeyData.map((item, index) => {
                   const entriesString = item.entries.join(", ");
@@ -174,7 +187,7 @@ export default function HomePage() {
                   <p>Aqui são listados os grupos analógicos para cada palavra digitada</p>
                 )}
                 {hasInput && analogKeyData === null && (
-                  <p>Não há grupos analógicos para a palavra &quot;{inputValue}&quot;</p>
+                  <p>Não há grupos analógicos para a palavra &quot;{inputNorm}&quot;</p>
                 )}
                 {hasInput && analogKeyData && analogKeyData.length > 0 
                 && analogKeyData.map((item: string, index: number) => (
