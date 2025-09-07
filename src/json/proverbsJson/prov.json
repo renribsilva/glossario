@@ -1,0 +1,4629 @@
+[
+    {
+        "0": [
+            "adoptio naturam imitatur",
+            "provérbio latino",
+            "a adoção imita a natureza"
+        ]
+    },
+    {
+        "1": [
+            "de nihilo nihil (lucrécio)",
+            "provérbio latino",
+            "nada vem do nada"
+        ]
+    },
+    {
+        "2": [
+            "difficile est longum subito deponere amorem",
+            "provérbio latino",
+            "é difícil esquecer de repente um longo amor"
+        ]
+    },
+    {
+        "3": [
+            "donat cum egenus diviti retia videtur tendere (catulo)",
+            "provérbio latino",
+            "quando o pobre dá presente ao rico# parece armar-lhe redes"
+        ]
+    },
+    {
+        "4": [
+            "dulce et decorum est pro patria mori (horácio)",
+            "provérbio latino",
+            "doce e honroso é morrer pela pátria"
+        ]
+    },
+    {
+        "5": [
+            "affinitas affinitatem non generat",
+            "provérbio latino",
+            "a afinidade não gera afinidade"
+        ]
+    },
+    {
+        "6": [
+            "aquila non captat muscas",
+            "provérbio latino",
+            "a águia não caça moscas"
+        ]
+    },
+    {
+        "7": [
+            "ars est celare artem",
+            "provérbio latino",
+            "a arte está em esconder a arte"
+        ]
+    },
+    {
+        "8": [
+            "barba non facit philosophum",
+            "provérbio latino",
+            "a barba não faz o filósofo"
+        ]
+    },
+    {
+        "9": [
+            "arbor bona fructus bonos facit",
+            "provérbio latino",
+            "a boa árvore dá bons frutos"
+        ]
+    },
+    {
+        "10": [
+            "aequiparat factum nobile velle bonum",
+            "provérbio latino",
+            "a boa vontade supre a obra"
+        ]
+    },
+    {
+        "11": [
+            "ex abundanctia enim cordis os loquitur",
+            "provérbio latino",
+            "a boca fala do que está cheio o coração"
+        ]
+    },
+    {
+        "12": [
+            "alterius festum solum invitatus adibis",
+            "provérbio latino",
+            "a boda ou a batizado não vás sem ser convidado"
+        ]
+    },
+    {
+        "13": [
+            "aetatem habet# ipse sibi consulte expertus",
+            "provérbio latino",
+            "a boi velho não busques abrigo"
+        ]
+    },
+    {
+        "14": [
+            "a caridade começa por casa",
+            "provérbio latino",
+            "a caridade começa por casa"
+        ]
+    },
+    {
+        "15": [
+            "equi donati dentes non inspiciuntur",
+            "provérbio latino",
+            "a cavalo dado não se olha o dente"
+        ]
+    },
+    {
+        "16": [
+            "quae sunt caesaris# caesari",
+            "provérbio latino",
+            "a césar o que é de césar"
+        ]
+    },
+    {
+        "17": [
+            "lucrum unibus est alterius damnum",
+            "provérbio latino",
+            "a desgraça de uns é o bem de outros"
+        ]
+    },
+    {
+        "18": [
+            "inops# potentem dum vult imitari# perit",
+            "provérbio latino",
+            "a desgraça do pobre é querer imitar o rico"
+        ]
+    },
+    {
+        "19": [
+            "mala ultro adsunt",
+            "provérbio latino",
+            "a desgraça vem ser chamada"
+        ]
+    },
+    {
+        "20": [
+            "nihil est quod deus efficere non possit",
+            "provérbio latino",
+            "a deus nada é impossível"
+        ]
+    },
+    {
+        "21": [
+            "exceptio regulam probat",
+            "provérbio latino",
+            "a exceção confirma a regra"
+        ]
+    },
+    {
+        "22": [
+            "experientia praestantior arte",
+            "provérbio latino",
+            "a experiência vale mais que a ciência"
+        ]
+    },
+    {
+        "23": [
+            "fama volat",
+            "provérbio latino",
+            "a fama tem asas"
+        ]
+    },
+    {
+        "24": [
+            "tanto brilha# como quebra",
+            "provérbio latino",
+            "a fortuna é como o vidro*"
+        ]
+    },
+    {
+        "25": [
+            "morte nihil certius est# nihil vero incerta quam ejus hora",
+            "provérbio latino",
+            "a hora é incerta# mas a morte é certa"
+        ]
+    },
+    {
+        "26": [
+            "voluntas pro facto reputatur",
+            "provérbio latino",
+            "a intenção é que faz a ação"
+        ]
+    },
+    {
+        "27": [
+            "litterae non entrant sine sanguine",
+            "provérbio latino",
+            "a letra# com sangue# entra"
+        ]
+    },
+    {
+        "28": [
+            "qui nimium properat serius absolvit",
+            "provérbio latino",
+            "a maior pressa é o maior vagar"
+        ]
+    },
+    {
+        "29": [
+            "injuriarum remedium est oblivio",
+            "provérbio latino",
+            "a maior vingança é o desprezo"
+        ]
+    },
+    {
+        "30": [
+            "mors omni aetate communis est",
+            "provérbio latino",
+            "a morte não poupa ninguém"
+        ]
+    },
+    {
+        "31": [
+            "omnia cinis aequat",
+            "provérbio latino",
+            "a morte tudo nivela"
+        ]
+    },
+    {
+        "32": [
+            "fames magistra",
+            "provérbio latino",
+            "a necessidade é mestra"
+        ]
+    },
+    {
+        "33": [
+            "necessitas caret lege",
+            "provérbio latino",
+            "a necessidade não tem lei"
+        ]
+    },
+    {
+        "34": [
+            "occasio facit furem",
+            "provérbio latino",
+            "a ocasião faz o ladrão"
+        ]
+    },
+    {
+        "35": [
+            "dementis convitia nihil facias",
+            "provérbio latino",
+            "a palavras loucas# orelhas moucas"
+        ]
+    },
+    {
+        "36": [
+            "quaerenti propere danda est responsio lenta",
+            "provérbio latino",
+            "a pergunta apressada# resposta demorada"
+        ]
+    },
+    {
+        "37": [
+            "festinare docet",
+            "provérbio latino",
+            "a pressa é inimiga da perfeição"
+        ]
+    },
+    {
+        "38": [
+            "volenti nihil difficile",
+            "provérbio latino",
+            "a quem quer# nada é difícil"
+        ]
+    },
+    {
+        "39": [
+            "industriam adjuvat deus",
+            "provérbio latino",
+            "a quem trabalha# deus ajuda"
+        ]
+    },
+    {
+        "40": [
+            "quem Deus vult perdere# dementat prius",
+            "provérbio latino",
+            "a quem Deus quer destruir# antes lhe tira o juízo"
+        ]
+    },
+    {
+        "41": [
+            "anceps fortuna belli",
+            "provérbio latino",
+            "a sorte da guerra é incerta"
+        ]
+    },
+    {
+        "42": [
+            "alea jacta est",
+            "provérbio latino",
+            "a sorte está lançada"
+        ]
+    },
+    {
+        "43": [
+            "veritatis simplex oratio",
+            "provérbio latino",
+            "a verdade dispensa enfeites"
+        ]
+    },
+    {
+        "44": [
+            "ex ore parvulorum veritas",
+            "provérbio latino",
+            "a verdade sai da boca das crianças"
+        ]
+    },
+    {
+        "45": [
+            "oculus domini saginat equum",
+            "provérbio latino",
+            "a vista do dono engorda o cavalo"
+        ]
+    },
+    {
+        "46": [
+            "amat victoria curam",
+            "provérbio latino",
+            "a vitória ama a cautela"
+        ]
+    },
+    {
+        "47": [
+            "abusus non est usus# sed corruptela",
+            "provérbio latino",
+            "abuso não é uso# mas corruptela"
+        ]
+    },
+    {
+        "48": [
+            "sapientia longe preestat divitiis",
+            "provérbio latino",
+            "acaba-se o haver# fica o saber"
+        ]
+    },
+    {
+        "49": [
+            "accipe quod tuum# alterique da suum",
+            "provérbio latino",
+            "aceita o que é teu e dá o alheio a seu dono"
+        ]
+    },
+    {
+        "50": [
+            "advocaci nascuntur# judices fiunt",
+            "provérbio latino",
+            "advogados nascem# juízes fazem-se"
+        ]
+    },
+    {
+        "51": [
+            "agere non loqui",
+            "provérbio latino",
+            "agir# não falar"
+        ]
+    },
+    {
+        "52": [
+            "vilis aqua et panis# potus et esca canis",
+            "provérbio latino",
+            "água e pão# comida de cão"
+        ]
+    },
+    {
+        "53": [
+            "gutta cavat lapidem# non vi sed saepe cadendo",
+            "provérbio latino",
+            "água mole em pedra dura# tanto bate até que fura"
+        ]
+    },
+    {
+        "54": [
+            "allegatio sine probatione veluti campana sine pistillo est",
+            "provérbio latino",
+            "alegação sem prova é como sino sem badalo"
+        ]
+    },
+    {
+        "55": [
+            "amicus certus in re incerta cernitur",
+            "provérbio latino",
+            "amigo certo conhece-se na hora incerta"
+        ]
+    },
+    {
+        "56": [
+            "amicum certum in re incerta cerni",
+            "provérbio latino",
+            "amigo certo# nas horas incertas"
+        ]
+    },
+    {
+        "57": [
+            "amicus plato# sed magis amica veritas",
+            "provérbio latino",
+            "amigo de meu compadre# porém mais da verdade"
+        ]
+    },
+    {
+        "58": [
+            "qui servit communi servit nulli",
+            "provérbio latino",
+            "amigo de todos e de nenhum# tudo é um"
+        ]
+    },
+    {
+        "59": [
+            "amicitia vera similis est consanguinitati proximiori",
+            "provérbio latino",
+            "amigo velho é parente"
+        ]
+    },
+    {
+        "60": [
+            "amici# ad qui venisti?",
+            "provérbio latino",
+            "amigo# a que vieste?"
+        ]
+    },
+    {
+        "61": [
+            "usque ad aras amicus",
+            "provérbio latino",
+            "amigos# amigos! negócios à parte!"
+        ]
+    },
+    {
+        "62": [
+            "amandi# nec multi# nec nulli",
+            "provérbio latino",
+            "amigos# nem muitos# nem nenhum"
+        ]
+    },
+    {
+        "63": [
+            "amor amore compensatur",
+            "provérbio latino",
+            "amor com amor se paga"
+        ]
+    },
+    {
+        "64": [
+            "amor amore compensatur",
+            "provérbio latino",
+            "amor com amor se paga"
+        ]
+    },
+    {
+        "65": [
+            "dentes atque pedes asinini exordia amoris",
+            "provérbio latino",
+            "amor de asno entra a coices e dentadas"
+        ]
+    },
+    {
+        "66": [
+            "amor et potestas impatiens consortis",
+            "provérbio latino",
+            "amor e senhoria não quer companhia"
+        ]
+    },
+    {
+        "67": [
+            "plurima praestat amor# sed sacra pecunia cuncta",
+            "provérbio latino",
+            "amor faz muito# mas dinheiro faz tudo"
+        ]
+    },
+    {
+        "68": [
+            "primus amor potior",
+            "provérbio latino",
+            "amor primeiro não tem companheiro"
+        ]
+    },
+    {
+        "69": [
+            "comes facundus in via pro vehiculo est",
+            "provérbio latino",
+            "andando de dois# se encurta o caminho"
+        ]
+    },
+    {
+        "70": [
+            "anulus aureus in nare suilla",
+            "provérbio latino",
+            "anel de ouro não é para focinho de porco"
+        ]
+    },
+    {
+        "71": [
+            "malo tutus humi repere quam ruere",
+            "provérbio latino",
+            "antes burro que me leve que cavalo que me derrube"
+        ]
+    },
+    {
+        "72": [
+            "dementis convitia nihil facias",
+            "provérbio latino",
+            "antes calar que com doidos altercar"
+        ]
+    },
+    {
+        "73": [
+            "ante mortem ne laudes hominem quemquam",
+            "provérbio latino",
+            "antes da morte# não louves a ninguém"
+        ]
+    },
+    {
+        "74": [
+            "res ab exitu spectanda et dirigenda est",
+            "provérbio latino",
+            "antes de entrar# pensar na saída"
+        ]
+    },
+    {
+        "75": [
+            "melius est abundare quam deficere",
+            "provérbio latino",
+            "antes de mais que de menos"
+        ]
+    },
+    {
+        "76": [
+            "priusquam mactaveris# excorias",
+            "provérbio latino",
+            "antes de matar a onça# não se faz negócio com o couro"
+        ]
+    },
+    {
+        "77": [
+            "praestat invidiosum esse quam miserabilem",
+            "provérbio latino",
+            "antes invejado que lastimado"
+        ]
+    },
+    {
+        "78": [
+            "liber inops servo divite felicior",
+            "provérbio latino",
+            "antes pobre sossegado que rico atrapalhado"
+        ]
+    },
+    {
+        "79": [
+            "antequam noveris# a laudando et vituperando abstine",
+            "provérbio latino",
+            "antes que conheças# não louves nem ofendas"
+        ]
+    },
+    {
+        "80": [
+            "fecit iter longum# comitem qui liquit ineptum",
+            "provérbio latino",
+            "antes só do que mal acompanhado"
+        ]
+    },
+    {
+        "81": [
+            "accipere# quam facere# praestat injuria",
+            "provérbio latino",
+            "antes sofrer injúria# que praticá-la"
+        ]
+    },
+    {
+        "82": [
+            "accipere quam facere praetat injuriam",
+            "provérbio latino",
+            "antes sofrer o mal que fazê-lo"
+        ]
+    },
+    {
+        "83": [
+            "utilius tarde quam nunquam",
+            "provérbio latino",
+            "antes tarde do que nunca"
+        ]
+    },
+    {
+        "84": [
+            "flectere commodius validas quam frangere vires",
+            "provérbio latino",
+            "antes torcer que quebrar"
+        ]
+    },
+    {
+        "85": [
+            "tam desunt avido sua quam quod non habet",
+            "provérbio latino",
+            "ao avarento falta o que não tem e falta o que tem"
+        ]
+    },
+    {
+        "86": [
+            "audaces fortuna juvat# timidosque repellit",
+            "provérbio latino",
+            "ao homem ousado# afortuna estende a mão"
+        ]
+    },
+    {
+        "87": [
+            "abbati# medico# patronoque intima pande",
+            "provérbio latino",
+            "ao médico# ao advogado e ao abade# falar a verdade"
+        ]
+    },
+    {
+        "88": [
+            "abbati# medico# potronoque intima pande",
+            "provérbio latino",
+            "ao padre# médico e advogado# falar a verdade"
+        ]
+    },
+    {
+        "89": [
+            "consilium faciendo# facto adhibeto medelam",
+            "provérbio latino",
+            "ao que está feito# remédio; ao por fazer# conselho"
+        ]
+    },
+    {
+        "90": [
+            "morienti cuncta supersunt",
+            "provérbio latino",
+            "ao vivo tudo falta# e ao morto tudo sobra"
+        ]
+    },
+    {
+        "91": [
+            "litterarum radices amarae# fructus dulces",
+            "provérbio latino",
+            "aprende chorando e rirás ganhando"
+        ]
+    },
+    {
+        "92": [
+            "in vento scribit laedens; in marmore laesus",
+            "provérbio latino",
+            "aquele a quem se dá# o escreve sobre a areia; aquele a quem se tira# o escreve sobre o bronze"
+        ]
+    },
+    {
+        "93": [
+            "hoc opus# hic labor est",
+            "provérbio latino",
+            "aqui é que está o busílis"
+        ]
+    },
+    {
+        "94": [
+            "oblata occasione# vel justus perit",
+            "provérbio latino",
+            "arca aberta# o justo peca"
+        ]
+    },
+    {
+        "95": [
+            "non bene pro toto libertas venditur auro",
+            "provérbio latino",
+            "arrenego de grilhões# ainda que sejam de ouro"
+        ]
+    },
+    {
+        "96": [
+            "absit qui mea manducat mecum et sua secum",
+            "provérbio latino",
+            "arrenego do amigo que come o meu comigo e o seu consigo"
+        ]
+    },
+    {
+        "97": [
+            "amantium ira redintegratio amoris est",
+            "provérbio latino",
+            "arrufos de namorados são amores renovados"
+        ]
+    },
+    {
+        "98": [
+            "fallitur visio",
+            "provérbio latino",
+            "as aparências enganam"
+        ]
+    },
+    {
+        "99": [
+            "verba mollia et efficacia",
+            "provérbio latino",
+            "as boas palavras custam pouco e valem muito"
+        ]
+    },
+    {
+        "100": [
+            "jejunus stomachus raro vulgaria temnit",
+            "provérbio latino",
+            "asno que tem fome# cardos come"
+        ]
+    },
+    {
+        "101": [
+            "quousque promittas tardus# ut festinus praetes",
+            "provérbio latino",
+            "até prometer# sede escasso"
+        ]
+    },
+    {
+        "102": [
+            "deterior parvum sanctificare solet",
+            "provérbio latino",
+            "atrás de mim virá quem bom me fará"
+        ]
+    },
+    {
+        "103": [
+            "absens absentis curator esse nequit",
+            "provérbio latino",
+            "ausente não pode ser curador de ausente"
+        ]
+    },
+    {
+        "104": [
+            "alieni appetens# sui profusus",
+            "provérbio latino",
+            "ávido do alheio# pródigo do próprio"
+        ]
+    },
+    {
+        "105": [
+            "philosophum non facit barba",
+            "provérbio latino",
+            "barba não dá juízo"
+        ]
+    },
+    {
+        "106": [
+            "venter plenus somnum parit",
+            "provérbio latino",
+            "barriga cheia# pé dormente"
+        ]
+    },
+    {
+        "107": [
+            "jejunat satis is qui paucis vescitur escis",
+            "provérbio latino",
+            "bem jejua quem mal come"
+        ]
+    },
+    {
+        "108": [
+            "bellum dulce inexpertis",
+            "provérbio latino",
+            "bem parece a guerra a quem não vai nela"
+        ]
+    },
+    {
+        "109": [
+            "bene imperat qui bene paruit aliquando",
+            "provérbio latino",
+            "bem sabe mandar# quem soube obedecer"
+        ]
+    },
+    {
+        "110": [
+            "cum satur est felis# se totum lambere gaudet",
+            "provérbio latino",
+            "bem se lambe o gato# depois de farto"
+        ]
+    },
+    {
+        "111": [
+            "honesta fama est alterum patrimonium",
+            "provérbio latino",
+            "boa fama vale dinheiro"
+        ]
+    },
+    {
+        "112": [
+            "mel in ore# fel in corde",
+            "provérbio latino",
+            "boca de mel# coração de fel"
+        ]
+    },
+    {
+        "113": [
+            "fames et mora bilem in nasum conciunt",
+            "provérbio latino",
+            "boca não admite fiador"
+        ]
+    },
+    {
+        "114": [
+            "mammas atque tatas nimium conducit habere; sed potum et multum praestat habere cibum",
+            "provérbio latino",
+            "bom é ter pai e mãe# mas comer e beber rapa tudo"
+        ]
+    },
+    {
+        "115": [
+            "prudens in loquendo est tardus",
+            "provérbio latino",
+            "bom saber é o calar# até ser tempo de falar"
+        ]
+    },
+    {
+        "116": [
+            "obscurum vestis contegit ampla genus",
+            "provérbio latino",
+            "bom traje encobre ruim “linhage”"
+        ]
+    },
+    {
+        "117": [
+            "grata brevitas# grata novitas",
+            "provérbio latino",
+            "brevidade e novidade muito agradam"
+        ]
+    },
+    {
+        "118": [
+            "feminarum furgiis deteguntur vera",
+            "provérbio latino",
+            "brigam as comadres# descobrem-se as verdades"
+        ]
+    },
+    {
+        "119": [
+            "amantium irae amores integratio sunt",
+            "provérbio latino",
+            "brigas de namorados# amores renovados"
+        ]
+    },
+    {
+        "120": [
+            "nullum secretum est ubi regnat ebrietas",
+            "provérbio latino",
+            "cachaceiro não tem segredo"
+        ]
+    },
+    {
+        "121": [
+            "dum canis os rodit# socium quem diligit odit",
+            "provérbio latino",
+            "cachorro de cozinha não quer colega"
+        ]
+    },
+    {
+        "122": [
+            "canis festinans caecos catulos parit",
+            "provérbio latino",
+            "cachorro# por se avezar# nasceu com os olhos tapados"
+        ]
+    },
+    {
+        "123": [
+            "allia quando terunt# retinent mortaria gusta",
+            "provérbio latino",
+            "cada cuba cheira ao vinho que tem"
+        ]
+    },
+    {
+        "124": [
+            "ad commodum suum quisquis callidus est",
+            "provérbio latino",
+            "cada qual acode onde mais lhe dói"
+        ]
+    },
+    {
+        "125": [
+            "pares cum paribus facillime congregantur",
+            "provérbio latino",
+            "cada qual com seu igual"
+        ]
+    },
+    {
+        "126": [
+            "ut quemque deus vult esse# ita est",
+            "provérbio latino",
+            "cada qual como deus fez"
+        ]
+    },
+    {
+        "127": [
+            "naturae sequitur semina quisquis suae",
+            "provérbio latino",
+            "cada qual conforme seu natural"
+        ]
+    },
+    {
+        "128": [
+            "velle suum cuique est",
+            "provérbio latino",
+            "cada qual é dono de suas ventas"
+        ]
+    },
+    {
+        "129": [
+            "ut quisque fortuna utitur# ita loquitur",
+            "provérbio latino",
+            "cada qual fala da feira# conforme lhe vai nela"
+        ]
+    },
+    {
+        "130": [
+            "tractent fabrilia fabri",
+            "provérbio latino",
+            "cada qual no seu ofício"
+        ]
+    },
+    {
+        "131": [
+            "omnes sibi prius quam alteri esse volunt",
+            "provérbio latino",
+            "cada qual puxa a brasa pra sua sardinha"
+        ]
+    },
+    {
+        "132": [
+            "ad commodum suum quisquis callidus est",
+            "provérbio latino",
+            "cada qual sabe onde o sapato lhe aperta"
+        ]
+    },
+    {
+        "133": [
+            "de damno proprio quisque dolere scit",
+            "provérbio latino",
+            "cada qual sente seu mal"
+        ]
+    },
+    {
+        "134": [
+            "factes tua computat annos",
+            "provérbio latino",
+            "cada qual tem a idade que parece ter"
+        ]
+    },
+    {
+        "135": [
+            "aliud alic vitio est",
+            "provérbio latino",
+            "cada qual tem seu defeito"
+        ]
+    },
+    {
+        "136": [
+            "sementem ut feceris# ita metes",
+            "provérbio latino",
+            "cada um colhe conforme semeia"
+        ]
+    },
+    {
+        "137": [
+            "alium silere quod voles# primum sile",
+            "provérbio latino",
+            "cala primeiro o que queres que os outros calem"
+        ]
+    },
+    {
+        "138": [
+            "canes timidi vehementius latrant",
+            "provérbio latino",
+            "cão que ladra não morde"
+        ]
+    },
+    {
+        "139": [
+            "lembens assidue eliciet canis ore cruorem",
+            "provérbio latino",
+            "cão que muito lambe# tira sangue"
+        ]
+    },
+    {
+        "140": [
+            "quid pectunt qui non habent capillos?",
+            "provérbio latino",
+            "careca não gasta pente"
+        ]
+    },
+    {
+        "141": [
+            "nubere vis apte? vicino nube merito",
+            "provérbio latino",
+            "casa tua filha com o filho de teu vizinho"
+        ]
+    },
+    {
+        "142": [
+            "si vis apte nubere# nube pari",
+            "provérbio latino",
+            "casar com os de sua igualha"
+        ]
+    },
+    {
+        "143": [
+            "qui matrimonio jungit virginem sua bene facit# et qui non jungit melius facit (são paulo)",
+            "provérbio latino",
+            "casar é bom# não casar é melhor"
+        ]
+    },
+    {
+        "144": [
+            "conjugium satis est juvenem dominare ferocem",
+            "provérbio latino",
+            "casarás e amansarás"
+        ]
+    },
+    {
+        "145": [
+            "abundans cautela non nocet",
+            "provérbio latino",
+            "cautela e caldo de galinha nunca faz mal a ninguém"
+        ]
+    },
+    {
+        "146": [
+            "ferrum quo non utimur# obducitur rubigine",
+            "provérbio latino",
+            "chave que se usa está sempre limpa"
+        ]
+    },
+    {
+        "147": [
+            "non male sedit qui bonis adhaerit",
+            "provérbio latino",
+            "chega-te aos bons e serás um deles"
+        ]
+    },
+    {
+        "148": [
+            "flare simul# sorbere simul# res ardua semper",
+            "provérbio latino",
+            "com bochecha cheia de água ninguém sopra"
+        ]
+    },
+    {
+        "149": [
+            "dies posterior prioris est discipulus",
+            "provérbio latino",
+            "com o tempo# vem o tento"
+        ]
+    },
+    {
+        "150": [
+            "labor improbus omnia vincit",
+            "provérbio latino",
+            "com paciência e perseverança# tudo se alcança"
+        ]
+    },
+    {
+        "151": [
+            "potentes ne tentes aemulari",
+            "provérbio latino",
+            "com teu amo não jogues as pêras"
+        ]
+    },
+    {
+        "152": [
+            "incipis invitus cessasque invitus ab esu",
+            "provérbio latino",
+            "comer e coçar# tudo está em começar"
+        ]
+    },
+    {
+        "153": [
+            "edendum tibi est ut vivas# et non vivendum ut edas",
+            "provérbio latino",
+            "comer para viver# e não viver para comer"
+        ]
+    },
+    {
+        "154": [
+            "diligis# cadis cum faece sicutis# amici",
+            "provérbio latino",
+            "comida feita# companhia desfeita"
+        ]
+    },
+    {
+        "155": [
+            "quantum quisque se ipsum facit# sic fit ab amicis",
+            "provérbio latino",
+            "como cada um se estima# assim o estimam"
+        ]
+    },
+    {
+        "156": [
+            "nosce te ipsum",
+            "provérbio latino",
+            "conhece-te a ti mesmo"
+        ]
+    },
+    {
+        "157": [
+            "verba non implent marsupium",
+            "provérbio latino",
+            "conversa fiada não bota panela no fogo"
+        ]
+    },
+    {
+        "158": [
+            "arcus tensus saepius rompitur",
+            "provérbio latino",
+            "corda puxada se quebra"
+        ]
+    },
+    {
+        "159": [
+            "asinus asino et sus sui pulcher est",
+            "provérbio latino",
+            "coruja não acha os filhos feios"
+        ]
+    },
+    {
+        "160": [
+            "aes sunt quod aliis nobis debentur",
+            "provérbio latino",
+            "crédito é o que os outros nos devem"
+        ]
+    },
+    {
+        "161": [
+            "bis dat qui cito dat",
+            "provérbio latino",
+            "dá duas vezes quem dá depressa"
+        ]
+    },
+    {
+        "162": [
+            "ex alieno corto longa corrigio",
+            "provérbio latino",
+            "da pele alheia# grande correia"
+        ]
+    },
+    {
+        "163": [
+            "muneribus vel dii capiuntur",
+            "provérbio latino",
+            "dádivas quebrantam penhas"
+        ]
+    },
+    {
+        "164": [
+            "digitum stulto ne permittas",
+            "provérbio latino",
+            "dá-se o pé e ele quer a mão"
+        ]
+    },
+    {
+        "165": [
+            "guttatim pelagi perfluit omnis acqua",
+            "provérbio latino",
+            "de gota em gota o mar se esgota"
+        ]
+    },
+    {
+        "166": [
+            "arbore de dulci dulcia poma cadunt",
+            "provérbio latino",
+            "de boa árvore# bom fruto"
+        ]
+    },
+    {
+        "167": [
+            "propositum capiunt tartara# facta polus",
+            "provérbio latino",
+            "de boas intenções o inferno está calçado"
+        ]
+    },
+    {
+        "168": [
+            "ex domo felis discendit mus impransus",
+            "provérbio latino",
+            "de casa de gato não sai rato farto"
+        ]
+    },
+    {
+        "169": [
+            "a magnis maxima",
+            "provérbio latino",
+            "de grandes causas# grandes efeitos"
+        ]
+    },
+    {
+        "170": [
+            "adde parum parvo magnus acervo erit",
+            "provérbio latino",
+            "de grão em grão# a galinha enche o papo"
+        ]
+    },
+    {
+        "171": [
+            "molli paulatim flavescit campus arista",
+            "provérbio latino",
+            "de grão em grão# a galinha enche o papo"
+        ]
+    },
+    {
+        "172": [
+            "utile quid nobis novit deus omnibus horis",
+            "provérbio latino",
+            "de hora em hora# deus melhora"
+        ]
+    },
+    {
+        "173": [
+            "alta a longe cognoscit",
+            "provérbio latino",
+            "de longe# vê-se o alto"
+        ]
+    },
+    {
+        "174": [
+            "pusillum pusillo si addas# fiet ingens acervus",
+            "provérbio latino",
+            "de muitos poucos se faz um muito"
+        ]
+    },
+    {
+        "175": [
+            "de nihilo nihilum",
+            "provérbio latino",
+            "de nada nada se faz"
+        ]
+    },
+    {
+        "176": [
+            "lucerna sublata nihil discriminis inter mulieres",
+            "provérbio latino",
+            "de noite# todos os gatos são pardos"
+        ]
+    },
+    {
+        "177": [
+            "promptius est omnibus judicare quam facere",
+            "provérbio latino",
+            "de obras feitas todos são mestres"
+        ]
+    },
+    {
+        "178": [
+            "a teneris consuescere multum",
+            "provérbio latino",
+            "de pequenino se torce o pepino"
+        ]
+    },
+    {
+        "179": [
+            "associat dives tumidos opulentia fastus",
+            "provérbio latino",
+            "de rico a soberbo não há palmo inteiro"
+        ]
+    },
+    {
+        "180": [
+            "arbor ex fructu cognoscitur",
+            "provérbio latino",
+            "de tal árvore# tal fruto"
+        ]
+    },
+    {
+        "181": [
+            "aliquando bonus dormitat homerus",
+            "provérbio latino",
+            "de vez em quando# o bom homero cochila"
+        ]
+    },
+    {
+        "182": [
+            "sub sordido palliolo latet sapientia",
+            "provérbio latino",
+            "debaixo duma ruim capa está um bom jogador"
+        ]
+    },
+    {
+        "183": [
+            "leoni mortuo lepores insultant",
+            "provérbio latino",
+            "depois da onça morta# até cachorro mija nela"
+        ]
+    },
+    {
+        "184": [
+            "post nubila# phoebus",
+            "provérbio latino",
+            "depois da tempestade# vem a bonança"
+        ]
+    },
+    {
+        "185": [
+            "pro ratione deus dispertit frigora vestis",
+            "provérbio latino",
+            "deus dá o frio conforme a roupa"
+        ]
+    },
+    {
+        "186": [
+            "deus est solus scrutator cordium",
+            "provérbio latino",
+            "deus não lê nas caras e# sim# nos corações"
+        ]
+    },
+    {
+        "187": [
+            "utile quid nobis novit deus omnibus horis",
+            "provérbio latino",
+            "deus sabe o que faz"
+        ]
+    },
+    {
+        "188": [
+            "cavete tis quos natura signavit",
+            "provérbio latino",
+            "deus# que o marcou# alguma coisa nele achou"
+        ]
+    },
+    {
+        "189": [
+            "paulatim deambulando# longum conficitur iter",
+            "provérbio latino",
+            "devagar se vai ao longe"
+        ]
+    },
+    {
+        "190": [
+            "festina lente",
+            "provérbio latino",
+            "devagar# que tenho pressa!"
+        ]
+    },
+    {
+        "191": [
+            "nummus nummum parit",
+            "provérbio latino",
+            "dinheiro é que faz dinheiro"
+        ]
+    },
+    {
+        "192": [
+            "dictum et factum",
+            "provérbio latino",
+            "dito e feito"
+        ]
+    },
+    {
+        "193": [
+            "non mos ad vitam# sed consuetudo probanda",
+            "provérbio latino",
+            "dize-me com quem andas e eu te direi as manhas que tens"
+        ]
+    },
+    {
+        "194": [
+            "veritas odium parit",
+            "provérbio latino",
+            "dizendo-se as verdades# perdem-se as amizades"
+        ]
+    },
+    {
+        "195": [
+            "lupus non curat numerum",
+            "provérbio latino",
+            "do contado como o lobo"
+        ]
+    },
+    {
+        "196": [
+            "ex bove coria sumuntur",
+            "provérbio latino",
+            "do couro sai a correia"
+        ]
+    },
+    {
+        "197": [
+            "inter dictum et factum multum differt",
+            "provérbio latino",
+            "do dito ao feito vai grande eito"
+        ]
+    },
+    {
+        "198": [
+            "aliud est facere# aliud est dicere",
+            "provérbio latino",
+            "do dizer ao fazer vai muita diferença"
+        ]
+    },
+    {
+        "199": [
+            "torpida saepe lupos custodia pascit iniquos",
+            "provérbio latino",
+            "do mal guardado come o gato"
+        ]
+    },
+    {
+        "200": [
+            "perditus est# mala qui sequitur vestigia pravi",
+            "provérbio latino",
+            "do perdido perca-se o sentido"
+        ]
+    },
+    {
+        "201": [
+            "nova placent",
+            "provérbio latino",
+            "do que é novo gosta o povo"
+        ]
+    },
+    {
+        "202": [
+            "longa valetudo# certissima mors",
+            "provérbio latino",
+            "doença comprida em morte acaba"
+        ]
+    },
+    {
+        "203": [
+            "aspiciunt oculi duo lumina clarius uno",
+            "provérbio latino",
+            "dois olhos vêem mais que um"
+        ]
+    },
+    {
+        "204": [
+            "confestim fletus emissae conjugis arent",
+            "provérbio latino",
+            "dor de mulher morta dura até à porta"
+        ]
+    },
+    {
+        "205": [
+            "minima de malis",
+            "provérbio latino",
+            "dos males# o menor"
+        ]
+    },
+    {
+        "206": [
+            "leges bonae malis ex moribus procreantur",
+            "provérbio latino",
+            "dos maus costumes nascem as boas leis"
+        ]
+    },
+    {
+        "207": [
+            "crescit in egregios parva juventa viros",
+            "provérbio latino",
+            "dos meninos se fazem os homens"
+        ]
+    },
+    {
+        "208": [
+            "mons cum monte non miscetur",
+            "provérbio latino",
+            "duro com duro não levanta muro"
+        ]
+    },
+    {
+        "209": [
+            "a teneris consuescere multum est",
+            "provérbio latino",
+            "é cedo que se formam os costumes"
+        ]
+    },
+    {
+        "210": [
+            "laedere facile# mederi difficile",
+            "provérbio latino",
+            "é mais fácil rasgar que costurar"
+        ]
+    },
+    {
+        "211": [
+            "sentientum cum multis",
+            "provérbio latino",
+            "é melhor errar com muitos que acertar com poucos"
+        ]
+    },
+    {
+        "212": [
+            "nostra nos decet# non sanguine niti",
+            "provérbio latino",
+            "é melhor ser bom que de boa raça"
+        ]
+    },
+    {
+        "213": [
+            "improba vita# mors optabilior",
+            "provérbio latino",
+            "é melhor uma boa morte do que uma ruim sorte"
+        ]
+    },
+    {
+        "214": [
+            "litem ne quaere cum licet fugere",
+            "provérbio latino",
+            "é melhor uma ruim acomodação que uma boa questão"
+        ]
+    },
+    {
+        "215": [
+            "aequitas praeferitur rigore",
+            "provérbio latino",
+            "é preferível a eqüidade ao rigor"
+        ]
+    },
+    {
+        "216": [
+            "laus in ore proprio villescit",
+            "provérbio latino",
+            "elogio de boca própria é vitupério"
+        ]
+    },
+    {
+        "217": [
+            "tutum silentium praemium",
+            "provérbio latino",
+            "em boca fechada não entra mosca"
+        ]
+    },
+    {
+        "218": [
+            "quae dolent ea molestum est contingere",
+            "provérbio latino",
+            "em casa de enforcado não se fala em corda"
+        ]
+    },
+    {
+        "219": [
+            "imperat et clamat quaecumque est femina dives",
+            "provérbio latino",
+            "em casa de mulher rica# fala o marido e ela grita"
+        ]
+    },
+    {
+        "220": [
+            "absque vado fluvius# nec stat sine pelice proles",
+            "provérbio latino",
+            "em longa geração# ha conde e ladrão"
+        ]
+    },
+    {
+        "221": [
+            "si fueris romae# romano vivito more",
+            "provérbio latino",
+            "em roma# sê romano"
+        ]
+    },
+    {
+        "222": [
+            "quilibet est tuguri rex# dominusque sui",
+            "provérbio latino",
+            "em sua casa cada um é rei"
+        ]
+    },
+    {
+        "223": [
+            "beati monoculi in terra caecorum",
+            "provérbio latino",
+            "em terra de cegos# quem tem um olho é rei"
+        ]
+    },
+    {
+        "224": [
+            "commoditas omnis fert sua incommoda",
+            "provérbio latino",
+            "em toda parte há um pedaço de mau caminho"
+        ]
+    },
+    {
+        "225": [
+            "si prestabis# non habetis; si habetis# non tam bene; si tam bene# non tam cito; si tam cito# perdis amicum",
+            "provérbio latino",
+            "emprestaste e não cobraste; e# se cobraste# não tanto; e# se tanto# não tal; e# se tal# inimigo mortal"
+        ]
+    },
+    {
+        "226": [
+            "dum felis dormit saliunt mures",
+            "provérbio latino",
+            "enquanto dormem os gatos# correm os ratos"
+        ]
+    },
+    {
+        "227": [
+            "fervet olla# vivit amicitia",
+            "provérbio latino",
+            "enquanto há figos# há amigos"
+        ]
+    },
+    {
+        "228": [
+            "aegroto dum anima est# spes est",
+            "provérbio latino",
+            "enquanto o doente respira# há esperança"
+        ]
+    },
+    {
+        "229": [
+            "festinus intellige# tardus loquere",
+            "provérbio latino",
+            "entende primeiro e fala derradeiro"
+        ]
+    },
+    {
+        "230": [
+            "parce sepultis",
+            "provérbio latino",
+            "enterrado# perdoado"
+        ]
+    },
+    {
+        "231": [
+            "non patri# nato et fratri rixentibus adstes",
+            "provérbio latino",
+            "entre pais e irmão não metas as mãos"
+        ]
+    },
+    {
+        "232": [
+            "errando discitur",
+            "provérbio latino",
+            "errando é que se aprende"
+        ]
+    },
+    {
+        "233": [
+            "errare humanum est",
+            "provérbio latino",
+            "errar é humano"
+        ]
+    },
+    {
+        "234": [
+            "amicitia tibe junge pares",
+            "provérbio latino",
+            "escolhe os amigos entre os teus iguais"
+        ]
+    },
+    {
+        "235": [
+            "rore non pascitur",
+            "provérbio latino",
+            "estar comendo brisa"
+        ]
+    },
+    {
+        "236": [
+            "via trita# via tuta",
+            "provérbio latino",
+            "estrada aberta é caminho"
+        ]
+    },
+    {
+        "237": [
+            "fiat justitia et ruat caelum",
+            "provérbio latino",
+            "faça-se justiça# embora desabem os céus"
+        ]
+    },
+    {
+        "238": [
+            "perdere verba leve est",
+            "provérbio latino",
+            "falar é fôlego"
+        ]
+    },
+    {
+        "239": [
+            "ferociam sacietas parit",
+            "provérbio latino",
+            "fartura faz bravura"
+        ]
+    },
+    {
+        "240": [
+            "elephantem ex musca facere",
+            "provérbio latino",
+            "fazer de um argueiro um cavaleiro"
+        ]
+    },
+    {
+        "241": [
+            "quae recte fiunt nunquam benefacta peribunt",
+            "provérbio latino",
+            "fazer o bem nunca se perde"
+        ]
+    },
+    {
+        "242": [
+            "accepto damno januam claudere",
+            "provérbio latino",
+            "fechar a porta depois de arrombada"
+        ]
+    },
+    {
+        "243": [
+            "felix est non aliis qui videtur# sed sibi",
+            "provérbio latino",
+            "feliz é quem feliz se julga"
+        ]
+    },
+    {
+        "244": [
+            "grandaevi nati# labores duplicati",
+            "provérbio latino",
+            "filhos criados# trabalhos dobrados"
+        ]
+    },
+    {
+        "245": [
+            "etiam formicae sua bilis inest",
+            "provérbio latino",
+            "formiga tem catarro"
+        ]
+    },
+    {
+        "246": [
+            "quos jupiter perdere vult prius dementat",
+            "provérbio latino",
+            "formiga# quando quer se perder# cria asas"
+        ]
+    },
+    {
+        "247": [
+            "dantur divitiae non nisi divitibus",
+            "provérbio latino",
+            "ganha dinheiro quem tem dinheiro"
+        ]
+    },
+    {
+        "248": [
+            "audies bene ab hominibus et tuto vivas",
+            "provérbio latino",
+            "ganha fama e deita-te na cama"
+        ]
+    },
+    {
+        "249": [
+            "bonus rumor alterum est patrimonium",
+            "provérbio latino",
+            "ganha fama e deita-te na cama"
+        ]
+    },
+    {
+        "250": [
+            "horrescit gelidas felis adustus aquas",
+            "provérbio latino",
+            "gato escaldado de água fria tem medo"
+        ]
+    },
+    {
+        "251": [
+            "longum iter emensus# mendacia longa reportat",
+            "provérbio latino",
+            "grandes viagens# grandes mentiras"
+        ]
+    },
+    {
+        "252": [
+            "ira quae tegitur nocet",
+            "provérbio latino",
+            "guarda-te de homem que não fala e de cão que não ladra"
+        ]
+    },
+    {
+        "253": [
+            "nunc bene navigavi# cum naufragium feci",
+            "provérbio latino",
+            "há males que vêm por bem"
+        ]
+    },
+    {
+        "254": [
+            "hodie mihi# cras tibi",
+            "provérbio latino",
+            "hoje por mim# amanhã por ti"
+        ]
+    },
+    {
+        "255": [
+            "nobilis# ut vitet probrum# dat pectora ferro",
+            "provérbio latino",
+            "homem honrado# antes morto que injuriado"
+        ]
+    },
+    {
+        "256": [
+            "cavete a macilento non famelico",
+            "provérbio latino",
+            "homem magro# sem ser de fome# vale por dois “home”"
+        ]
+    },
+    {
+        "257": [
+            "hospes et piscis tertio quoque die odiosus est",
+            "provérbio latino",
+            "hóspede e peixe com três dias fede"
+        ]
+    },
+    {
+        "258": [
+            "si mea non coenes# gratior hospes es",
+            "provérbio latino",
+            "hóspede jejuador# bem-vindo seja!"
+        ]
+    },
+    {
+        "259": [
+            "igual agrada igual",
+            "provérbio latino",
+            "igual com igual se apraz"
+        ]
+    },
+    {
+        "260": [
+            "tunc male vulpi erit# si muscas prendere tentet",
+            "provérbio latino",
+            "infeliz da raposa que anda aos grilos"
+        ]
+    },
+    {
+        "261": [
+            "mus miser est sabe que solo clauditur uno",
+            "provérbio latino",
+            "infeliz do rato que só conhece um buraco"
+        ]
+    },
+    {
+        "262": [
+            "fratrum irae acerbissimae",
+            "provérbio latino",
+            "intriga de irmão# intriga de cão"
+        ]
+    },
+    {
+        "263": [
+            "utile dulci",
+            "provérbio latino",
+            "junta o útil ao agradável"
+        ]
+    },
+    {
+        "264": [
+            "callidus est latro qui tollit furta latroni",
+            "provérbio latino",
+            "ladrão que furta a ladrão tem cem anos de perdão"
+        ]
+    },
+    {
+        "265": [
+            "cui lingua est grandis# parvula dextra est",
+            "provérbio latino",
+            "língua comprida# sinal de mão curta"
+        ]
+    },
+    {
+        "266": [
+            "furem fur cognoscit# et lupum lupus",
+            "provérbio latino",
+            "lobo não come lobo"
+        ]
+    },
+    {
+        "267": [
+            "procul ex oculis# procul ex mente",
+            "provérbio latino",
+            "longe da vista# longe do coração"
+        ]
+    },
+    {
+        "268": [
+            "annosa vulpes non capitur laqueo",
+            "provérbio latino",
+            "macaco velho não meta a mão em cumbuca"
+        ]
+    },
+    {
+        "269": [
+            "emere malo quam rogare",
+            "provérbio latino",
+            "mais barato é o comprado que o pedido"
+        ]
+    },
+    {
+        "270": [
+            "saepe potestatem solita est superare voluntas",
+            "provérbio latino",
+            "mais faz quem quer do quem pode"
+        ]
+    },
+    {
+        "271": [
+            "qui varrant# pauci; est multus# qui sordidet aedes",
+            "provérbio latino",
+            "mais há quem suje a casa que quem a varra"
+        ]
+    },
+    {
+        "272": [
+            "sua melius insanus curat quam sapiens aliena",
+            "provérbio latino",
+            "mais sabe o tolo no seu do que o sisudo no alheio"
+        ]
+    },
+    {
+        "273": [
+            "multis lingua nocet* nocuere silentia nulli",
+            "provérbio latino",
+            "mais se arrepende quem fala do que quem cala"
+        ]
+    },
+    {
+        "274": [
+            "magis experiendo quam discendo cognoscitur",
+            "provérbio latino",
+            "mais se sabe por experiência que por aprender"
+        ]
+    },
+    {
+        "275": [
+            "amplius juvat virtus# quam multitudo",
+            "provérbio latino",
+            "mais vale a qualidade que a quantidade"
+        ]
+    },
+    {
+        "276": [
+            "ubi amici# ibi opes",
+            "provérbio latino",
+            "mais vale amigo na praça do que dinheiro na caixa"
+        ]
+    },
+    {
+        "277": [
+            "materiam superabat opus",
+            "provérbio latino",
+            "mais vale o feitio que o pano"
+        ]
+    },
+    {
+        "278": [
+            "pignus fideijussore securius",
+            "provérbio latino",
+            "mais vale penhor que fiador"
+        ]
+    },
+    {
+        "279": [
+            "auxilium superum humanis viribus praestat",
+            "provérbio latino",
+            "mais vale quem deus ajuda do que quem cedo madruga"
+        ]
+    },
+    {
+        "280": [
+            "bis gratum quod ultro offertur",
+            "provérbio latino",
+            "mais vale um “toma” que dois “te darei”"
+        ]
+    },
+    {
+        "281": [
+            "melior est canis vivis leone mortuo",
+            "provérbio latino",
+            "mais vale um burro vivo que um doutor morto"
+        ]
+    },
+    {
+        "282": [
+            "ad praesesn ova cras pullis sunt meliora",
+            "provérbio latino",
+            "mais vale um ovo hoje que uma galinha amanhã"
+        ]
+    },
+    {
+        "283": [
+            "plus valet passer in manibus# quam sub dubio grus",
+            "provérbio latino",
+            "mais vale um pássaro na mão que dois voando"
+        ]
+    },
+    {
+        "284": [
+            "pudere praestat quam pigere",
+            "provérbio latino",
+            "mais vale vergonha na cara que mágoa no coração"
+        ]
+    },
+    {
+        "285": [
+            "quae mala cum multis patimur leviora videntur",
+            "provérbio latino",
+            "mal de muitos consolo é"
+        ]
+    },
+    {
+        "286": [
+            "in omni fortuna tuis adhaere",
+            "provérbio latino",
+            "mal ou bem# com os teus te avém"
+        ]
+    },
+    {
+        "287": [
+            "omnis potestas impatiens consortis erit",
+            "provérbio latino",
+            "mandar não quer par"
+        ]
+    },
+    {
+        "288": [
+            "bonum erat si non natus non fuisset homo ille",
+            "provérbio latino",
+            "melhor seria se não tivesse nascido"
+        ]
+    },
+    {
+        "289": [
+            "in muktiloquio non deerit stultitia",
+            "provérbio latino",
+            "muito falar# muito errar"
+        ]
+    },
+    {
+        "290": [
+            "plurimum valet gallus in aedibus suis",
+            "provérbio latino",
+            "muito pode o galo no seu terreiro"
+        ]
+    },
+    {
+        "291": [
+            "multa fidem promissa levant",
+            "provérbio latino",
+            "muito prometer é uma maneira de enganar"
+        ]
+    },
+    {
+        "292": [
+            "per multum risum stultus cognoscitur",
+            "provérbio latino",
+            "muito riso é sinal de pouco siso"
+        ]
+    },
+    {
+        "293": [
+            "neque nullis sis amicus# neque multis",
+            "provérbio latino",
+            "muitos amigos em geral# e um em especial"
+        ]
+    },
+    {
+        "294": [
+            "multi sunt vocati# pauci vero electi",
+            "provérbio latino",
+            "muitos são os chamados# porém poucos os escolhidos"
+        ]
+    },
+    {
+        "295": [
+            "de cunctis loquitur faemina quae tota cursitat urbe vaga",
+            "provérbio latino",
+            "mulher andeja fala de todos# e todos dela"
+        ]
+    },
+    {
+        "296": [
+            "nil melius muliere bona",
+            "provérbio latino",
+            "mulher boa é prata que soa"
+        ]
+    },
+    {
+        "297": [
+            "et vitrum et mulier sunt in discrimine semper",
+            "provérbio latino",
+            "mulher e vidro sempre estão em perigo"
+        ]
+    },
+    {
+        "298": [
+            "a barba stolide discunt tondere novelli",
+            "provérbio latino",
+            "na barba do tolo aprende o barbeiro novo"
+        ]
+    },
+    {
+        "299": [
+            "mendaci ni verum quidem dicenti creditur",
+            "provérbio latino",
+            "na boca do mentiroso o certo se faz duvidoso"
+        ]
+    },
+    {
+        "300": [
+            "in cauda venenum",
+            "provérbio latino",
+            "na cauda é que está o veneno"
+        ]
+    },
+    {
+        "301": [
+            "ille nihil dubitat qui nullam scientiam habet",
+            "provérbio latino",
+            "nada duvida quem nada sabe"
+        ]
+    },
+    {
+        "302": [
+            "cui nunquam satis est# possidet ille nihil",
+            "provérbio latino",
+            "nada tem quem não se contenta com o que tem"
+        ]
+    },
+    {
+        "303": [
+            "quod tibi non vis# alteri ne facias",
+            "provérbio latino",
+            "não faças a outrem o que não quererias que ti fizessem"
+        ]
+    },
+    {
+        "304": [
+            "alteri ne facias quod tibi fieri non vis",
+            "provérbio latino",
+            "não faças aos outros o que não queres que te façam"
+        ]
+    },
+    {
+        "305": [
+            "dulcia non novit qui non gustavit amara",
+            "provérbio latino",
+            "não gosta do doce quem não prova o amargo"
+        ]
+    },
+    {
+        "306": [
+            "omnium rerum vicissitudo est",
+            "provérbio latino",
+            "não há bem que sempre dure# nem mal que sempre ature"
+        ]
+    },
+    {
+        "307": [
+            "nemo nupsit inops# dives nec mortuus ullus",
+            "provérbio latino",
+            "não há casamento pobre# nem mortalha rica"
+        ]
+    },
+    {
+        "308": [
+            "causa debet praecedere effectum",
+            "provérbio latino",
+            "não há efeito sem causa"
+        ]
+    },
+    {
+        "309": [
+            "lippis et tonsoribus notum",
+            "provérbio latino",
+            "não há gato# nem cachorro que não saiba"
+        ]
+    },
+    {
+        "310": [
+            "commoditas omnis fert secum incommoda",
+            "provérbio latino",
+            "não há gosto que não custe"
+        ]
+    },
+    {
+        "311": [
+            "fel latet in melle et mel non bibitur sine felle",
+            "provérbio latino",
+            "não há gosto sem desgosto"
+        ]
+    },
+    {
+        "312": [
+            "se gerit egregium speculum veteranus amicus",
+            "provérbio latino",
+            "não há melhor espelho que amigo velho"
+        ]
+    },
+    {
+        "313": [
+            "nihil sub sole novi",
+            "provérbio latino",
+            "não há nada de novo debaixo do sol"
+        ]
+    },
+    {
+        "314": [
+            "deviat a solitis regula cuncta viis",
+            "provérbio latino",
+            "não há regra sem exceção"
+        ]
+    },
+    {
+        "315": [
+            "fames optimum condimentum",
+            "provérbio latino",
+            "não há tempero tão bom como a fome"
+        ]
+    },
+    {
+        "316": [
+            "dulcia non meruit qui non gustavit amara",
+            "provérbio latino",
+            "não merece o doce quem não prova o amargo"
+        ]
+    },
+    {
+        "317": [
+            "inimici sui amicum nemo in amicitia sumit",
+            "provérbio latino",
+            "não pode ser meu amigo o amigo de meu inimigo"
+        ]
+    },
+    {
+        "318": [
+            "non bene imperat# nisi qui paruerit imperio",
+            "provérbio latino",
+            "não sabe governar quem não sabe obedecer"
+        ]
+    },
+    {
+        "319": [
+            "nesciat sinistra quod faciat dextera tua",
+            "provérbio latino",
+            "não saiba a mão esquerda o que faz a direita"
+        ]
+    },
+    {
+        "320": [
+            "afflicto non est addenda afflictio",
+            "provérbio latino",
+            "não se aumente a aflição do aflito"
+        ]
+    },
+    {
+        "321": [
+            "inspice bis potum et chartam subscribe scienter",
+            "provérbio latino",
+            "não se bebe sem ver# nem se assina sem ler"
+        ]
+    },
+    {
+        "322": [
+            "afflictis non est addenda afflictio",
+            "provérbio latino",
+            "não se deve aumentar a aflição do aflito"
+        ]
+    },
+    {
+        "323": [
+            "aliquis non debet esse judex in propria causa",
+            "provérbio latino",
+            "não se deve ser juiz de causa própria"
+        ]
+    },
+    {
+        "324": [
+            "a se impetrare ut nom posse",
+            "provérbio latino",
+            "não se pode demandar contra si mesmo"
+        ]
+    },
+    {
+        "325": [
+            "ne sutor ultra crepidam",
+            "provérbio latino",
+            "não suba o sapateiro além da chinela"
+        ]
+    },
+    {
+        "326": [
+            "nemini fidas# nisi ei# cum quo prius modium salis absumptseris",
+            "provérbio latino",
+            "não te deves fiar senão naquele com quem já comeste um molho de sal"
+        ]
+    },
+    {
+        "327": [
+            "alterius",
+            "provérbio latino",
+            "não vás à festa alheia sem ser convidado"
+        ]
+    },
+    {
+        "328": [
+            "aliena vitia in oculis habemus# a tergo nostra sunt",
+            "provérbio latino",
+            "não vê a trave que tem no olho e vê um argueiro no do vizinho"
+        ]
+    },
+    {
+        "329": [
+            "in angustiis apparent amici",
+            "provérbio latino",
+            "nas ocasiões é que se conhecem os amigos"
+        ]
+    },
+    {
+        "330": [
+            "non in solo pane vivit homo",
+            "provérbio latino",
+            "nem só de pão vive o homem"
+        ]
+    },
+    {
+        "331": [
+            "medio tutissimus ibis",
+            "provérbio latino",
+            "nem tanto# nem tão pouco"
+        ]
+    },
+    {
+        "332": [
+            "non omnia quae vera sunt recte dixeris",
+            "provérbio latino",
+            "nem todas as verdades se dizem"
+        ]
+    },
+    {
+        "333": [
+            "nec semper lilia florent",
+            "provérbio latino",
+            "nem todo dia é dia santo"
+        ]
+    },
+    {
+        "334": [
+            "non omne id quod fulget# aurum est",
+            "provérbio latino",
+            "nem tudo que luz é ouro"
+        ]
+    },
+    {
+        "335": [
+            "temulentus dormiens non est excitandus",
+            "provérbio latino",
+            "ninguém acorde o cão que está dormindo"
+        ]
+    },
+    {
+        "336": [
+            "nemo dat quod non habet# nec plus quam habet",
+            "provérbio latino",
+            "ninguém dá o que não tem# nem mais do que tem"
+        ]
+    },
+    {
+        "337": [
+            "nemo omnibus placet",
+            "provérbio latino",
+            "ninguém é moeda de vinte patacas# para agradar a todos"
+        ]
+    },
+    {
+        "338": [
+            "ad impossibilia nemo tenetur",
+            "provérbio latino",
+            "ninguém é obrigado a fazer o impossível"
+        ]
+    },
+    {
+        "339": [
+            "ad impossibilia nemo tenetur",
+            "provérbio latino",
+            "ninguém é obrigado a fazer o impossível"
+        ]
+    },
+    {
+        "340": [
+            "nmo propheta acceptus est in patria sua",
+            "provérbio latino",
+            "ninguém é profeta em sua terra"
+        ]
+    },
+    {
+        "341": [
+            "nemo nascitur sapiens",
+            "provérbio latino",
+            "ninguém nasce sabendo"
+        ]
+    },
+    {
+        "342": [
+            "judex in causa propria nemo esse potest",
+            "provérbio latino",
+            "ninguém pode ser juiz em causa própria"
+        ]
+    },
+    {
+        "343": [
+            "nemo potest duobus dominis servire",
+            "provérbio latino",
+            "ninguém pode servir a dois senhores"
+        ]
+    },
+    {
+        "344": [
+            "nemo sua sorte contentus",
+            "provérbio latino",
+            "ninguém se contenta com o que tem"
+        ]
+    },
+    {
+        "345": [
+            "ad concilium ne accesseris antequam vocaris",
+            "provérbio latino",
+            "ninguém se meta onde não é chamado"
+        ]
+    },
+    {
+        "346": [
+            "aes formae speculum est# vinum mentis",
+            "provérbio latino",
+            "no espelho# vê-se o rosto; no vinho# o coração"
+        ]
+    },
+    {
+        "347": [
+            "in medio virtus",
+            "provérbio latino",
+            "no meio é que está a virtude"
+        ]
+    },
+    {
+        "348": [
+            "vanitas vanitatum# et omnia vanitas",
+            "provérbio latino",
+            "no mundo# tudo é vaidade"
+        ]
+    },
+    {
+        "349": [
+            "sustine et abstine",
+            "provérbio latino",
+            "no sofrer e no abster está todo o vencer"
+        ]
+    },
+    {
+        "350": [
+            "in vino veritas",
+            "provérbio latino",
+            "no vinho está a verdade"
+        ]
+    },
+    {
+        "351": [
+            "tempora mutantur et nos in illis",
+            "provérbio latino",
+            "novos tempos# novos costumes"
+        ]
+    },
+    {
+        "352": [
+            "abusus non tollit usum",
+            "provérbio latino",
+            "o abuso não tira o uso"
+        ]
+    },
+    {
+        "353": [
+            "abusus non tollit usum",
+            "provérbio latino",
+            "o abuso não tolhe o uso"
+        ]
+    },
+    {
+        "354": [
+            "res ubicumque sit pro domino suo clamat",
+            "provérbio latino",
+            "o alheio chora a seu dono"
+        ]
+    },
+    {
+        "355": [
+            "amor tussisque non celantur",
+            "provérbio latino",
+            "o amor é como a tosse* impossível ocultar"
+        ]
+    },
+    {
+        "356": [
+            "amor et potestas impaciens consortis",
+            "provérbio latino",
+            "o amor e o poder não querem sócios"
+        ]
+    },
+    {
+        "357": [
+            "ex aspectu nascitur amor",
+            "provérbio latino",
+            "o amor entra pelos olhos"
+        ]
+    },
+    {
+        "358": [
+            "amor vincit omnia",
+            "provérbio latino",
+            "o amor tudo vence"
+        ]
+    },
+    {
+        "359": [
+            "auctor opus laudat",
+            "provérbio latino",
+            "o autor louva sua obra"
+        ]
+    },
+    {
+        "360": [
+            "affinem nullum dives avarus habet",
+            "provérbio latino",
+            "o avarento rico não tem parente nem amigo"
+        ]
+    },
+    {
+        "361": [
+            "frustra sperabis ab alieno# quodipse tibi praestre noluisti",
+            "provérbio latino",
+            "o bem que não fizeres# dos teus não esperes"
+        ]
+    },
+    {
+        "362": [
+            "a bove majore discit arare minor",
+            "provérbio latino",
+            "o boi mais velho ensina o mais novo a arar"
+        ]
+    },
+    {
+        "363": [
+            "cornu bos capitur# voce ligatur homo",
+            "provérbio latino",
+            "o boi pela ponta# o homem pela palavra"
+        ]
+    },
+    {
+        "364": [
+            "judex ille sapit qui darde censet et audit",
+            "provérbio latino",
+            "o bom juiz ouve o que cada um diz"
+        ]
+    },
+    {
+        "365": [
+            "bonus pastor animam suam dat pro ovibus suis",
+            "provérbio latino",
+            "o bom pastor dá sua vida por suas ovelhas"
+        ]
+    },
+    {
+        "366": [
+            "boni pastoris est tondere pecus# non deglubere",
+            "provérbio latino",
+            "o bom pastor deve tosquiar# e não esfolar o seu rebanho"
+        ]
+    },
+    {
+        "367": [
+            "laudato vino non opus est hedera",
+            "provérbio latino",
+            "o bom vinho escusa pregão"
+        ]
+    },
+    {
+        "368": [
+            "aliud in ore# aliud in corde",
+            "provérbio latino",
+            "o coração sente e a boca mente"
+        ]
+    },
+    {
+        "369": [
+            "consuetudo altera natura",
+            "provérbio latino",
+            "o costume é uma segunda natureza"
+        ]
+    },
+    {
+        "370": [
+            "avarum irritat# non satiat pecunia",
+            "provérbio latino",
+            "o dinheiro excita# mas não sacia o avarento"
+        ]
+    },
+    {
+        "371": [
+            "consensus tollit errorem",
+            "provérbio latino",
+            "o erro repetido passa por verdade"
+        ]
+    },
+    {
+        "372": [
+            "finis coronat opus",
+            "provérbio latino",
+            "o fim coroa a obra"
+        ]
+    },
+    {
+        "373": [
+            "quum finis est licitus etiam media sunt licita",
+            "provérbio latino",
+            "o fim justifica os meios"
+        ]
+    },
+    {
+        "374": [
+            "habitus non facit monachum",
+            "provérbio latino",
+            "o hábito não faz o monge"
+        ]
+    },
+    {
+        "375": [
+            "vem o diabo e sopra",
+            "provérbio latino",
+            "o homem é fogo e a mulher estopa*"
+        ]
+    },
+    {
+        "376": [
+            "faber est quisque tortunae suae",
+            "provérbio latino",
+            "o homem faz-se por si"
+        ]
+    },
+    {
+        "377": [
+            "ab auditione mala non timebit",
+            "provérbio latino",
+            "o homem honrado não teme murmúrios"
+        ]
+    },
+    {
+        "378": [
+            "homo proponit# sed deus disponit",
+            "provérbio latino",
+            "o homem põe e deus dispõe"
+        ]
+    },
+    {
+        "379": [
+            "alea turpis mediocribus",
+            "provérbio latino",
+            "o jogo só é desonroso para o pobre"
+        ]
+    },
+    {
+        "380": [
+            "esse sibi similes alios fur judicat omnes",
+            "provérbio latino",
+            "o ladrão cuida que todos o são"
+        ]
+    },
+    {
+        "381": [
+            "mala parta# male dilabuntur",
+            "provérbio latino",
+            "o mal ganhado# o diabo o leva"
+        ]
+    },
+    {
+        "382": [
+            "efficit ignavos patris indulgentia natos",
+            "provérbio latino",
+            "o muito mimo perde os filhos"
+        ]
+    },
+    {
+        "383": [
+            "stultorum infinitus est numerus",
+            "provérbio latino",
+            "o número dos tolos é infinito"
+        ]
+    },
+    {
+        "384": [
+            "dominus vidit multum in rebus suis",
+            "provérbio latino",
+            "o olho do dono trabalha mais que as mãos"
+        ]
+    },
+    {
+        "385": [
+            "parturiun montes# nascetur ridiculus mus",
+            "provérbio latino",
+            "o parto da montanha"
+        ]
+    },
+    {
+        "386": [
+            "praeterita mutare non possumus",
+            "provérbio latino",
+            "o passado# passado!"
+        ]
+    },
+    {
+        "387": [
+            "eficit insignem nimia indulgentia furem",
+            "provérbio latino",
+            "o perdão faz o ladrão"
+        ]
+    },
+    {
+        "388": [
+            "allia quando terunt retinent mortaria gustum",
+            "provérbio latino",
+            "o pilão conserva o odor do alho socado"
+        ]
+    },
+    {
+        "389": [
+            "detrahitur cauda nunquam bene pellis ab ima",
+            "provérbio latino",
+            "o pior de esfolar é o rabo"
+        ]
+    },
+    {
+        "390": [
+            "nihil sine dio",
+            "provérbio latino",
+            "o pouco com deus é muito# e o muito sem deus é nada"
+        ]
+    },
+    {
+        "391": [
+            "optima citissime pereunt",
+            "provérbio latino",
+            "o que é bom não dura"
+        ]
+    },
+    {
+        "392": [
+            "laudato vino non opus est hedera",
+            "provérbio latino",
+            "o que é bom por si se gaba"
+        ]
+    },
+    {
+        "393": [
+            "quod abundat non nocet",
+            "provérbio latino",
+            "o que é de mais mal não faz"
+        ]
+    },
+    {
+        "394": [
+            "omnia rara cara",
+            "provérbio latino",
+            "o que é raro é caro"
+        ]
+    },
+    {
+        "395": [
+            "quae fuit durm pati meminisse dulce est",
+            "provérbio latino",
+            "o que é ruim de passar é bom de lembrar"
+        ]
+    },
+    {
+        "396": [
+            "ab alio expectes# quod alteri feceris",
+            "provérbio latino",
+            "o que fizeres# encontrarás"
+        ]
+    },
+    {
+        "397": [
+            "quod non potest diabolus mulier evincit",
+            "provérbio latino",
+            "o que mulher quer# nem o diabo dá jeito"
+        ]
+    },
+    {
+        "398": [
+            "quod difertur non aufertur",
+            "provérbio latino",
+            "o que não se faz em dia de santa luzia# faz-se noutro qualquer dia"
+        ]
+    },
+    {
+        "399": [
+            "de re irreparabile ne doleas",
+            "provérbio latino",
+            "o que não tem remédio# remediado está"
+        ]
+    },
+    {
+        "400": [
+            "quod sapiens prius facit# stultus posterius",
+            "provérbio latino",
+            "o que o sábio faz primeiro# faz o néscio derradeiro"
+        ]
+    },
+    {
+        "401": [
+            "nocte lucidus# interdiu inutilis",
+            "provérbio latino",
+            "o que se faz de noite# de dia aparece"
+        ]
+    },
+    {
+        "402": [
+            "fata viam inveniunt",
+            "provérbio latino",
+            "o que tem de ser tem muita força"
+        ]
+    },
+    {
+        "403": [
+            "hic tua mercatur quia a te saepe precatur",
+            "provérbio latino",
+            "o rogado é mais caro que o comprado"
+        ]
+    },
+    {
+        "404": [
+            "suum cuique tribuere",
+            "provérbio latino",
+            "o seu a seu dono"
+        ]
+    },
+    {
+        "405": [
+            "sol lucet omnibus",
+            "provérbio latino",
+            "o sol nasce para todos"
+        ]
+    },
+    {
+        "406": [
+            "somnus est frater mortis",
+            "provérbio latino",
+            "o sono é parente da morte"
+        ]
+    },
+    {
+        "407": [
+            "timor domini initium sapientiae est",
+            "provérbio latino",
+            "o temor de deus é o princípio da sabedoria"
+        ]
+    },
+    {
+        "408": [
+            "dies posterior prioris est discipulis",
+            "provérbio latino",
+            "o tempo é mestre"
+        ]
+    },
+    {
+        "409": [
+            "omnia fert aetas",
+            "provérbio latino",
+            "o tempo tudo traz"
+        ]
+    },
+    {
+        "410": [
+            "fugit irreparabile tempus",
+            "provérbio latino",
+            "o tempo vai e não volta"
+        ]
+    },
+    {
+        "411": [
+            "cito pede labitur aetas",
+            "provérbio latino",
+            "o tempo voa"
+        ]
+    },
+    {
+        "412": [
+            "malo accepto sultus sapit",
+            "provérbio latino",
+            "o tolo aprende à sua custa"
+        ]
+    },
+    {
+        "413": [
+            "stultus quoque si tacuerit# sapiens reputabitur",
+            "provérbio latino",
+            "o tolo caldo passa por sabido"
+        ]
+    },
+    {
+        "414": [
+            "opus artificem probat",
+            "provérbio latino",
+            "o trabalho é que faz o homem"
+        ]
+    },
+    {
+        "415": [
+            "qualis pagatio# talis laboratio",
+            "provérbio latino",
+            "o trabalho regula a paga"
+        ]
+    },
+    {
+        "416": [
+            "labor omnia vincit",
+            "provérbio latino",
+            "o trabalho tudo vence"
+        ]
+    },
+    {
+        "417": [
+            "in nocte consilium",
+            "provérbio latino",
+            "o travesseiro é o melhor conselheiro"
+        ]
+    },
+    {
+        "418": [
+            "re opitulandum# non verbis",
+            "provérbio latino",
+            "obras são amores e não palavras"
+        ]
+    },
+    {
+        "419": [
+            "oculum pro oculo# dentem pro dente",
+            "provérbio latino",
+            "olho por olho# dente por dente"
+        ]
+    },
+    {
+        "420": [
+            "ubi bene# ibi patria",
+            "provérbio latino",
+            "onde bem me vai# tenho mãe e pai"
+        ]
+    },
+    {
+        "421": [
+            "ubi major est# minor cedat",
+            "provérbio latino",
+            "onde está a força maior# cessa a menor"
+        ]
+    },
+    {
+        "422": [
+            "jus rationis abest# ubi saeva potentia regnat",
+            "provérbio latino",
+            "onde ha força# direito se perde"
+        ]
+    },
+    {
+        "423": [
+            "semper flamma fumo proxima est",
+            "provérbio latino",
+            "onde há fumaça# há fogo"
+        ]
+    },
+    {
+        "424": [
+            "ubi mel# ibi apis",
+            "provérbio latino",
+            "onde há mel# há abelhas"
+        ]
+    },
+    {
+        "425": [
+            "multitudo imperatorum curiam perdidit",
+            "provérbio latino",
+            "onde muitos mandam# ninguém obedece"
+        ]
+    },
+    {
+        "426": [
+            "legitimus propria quaestus ab arte venit",
+            "provérbio latino",
+            "onde o galo canta# aí janta"
+        ]
+    },
+    {
+        "427": [
+            "auro loquente# nihil pollet quaevis oratio",
+            "provérbio latino",
+            "onde o ouro fala# tudo cala"
+        ]
+    },
+    {
+        "428": [
+            "legitimus propria quaestus ab arte venit",
+            "provérbio latino",
+            "onde o padre canta# aí janta"
+        ]
+    },
+    {
+        "429": [
+            "mites possident terram",
+            "provérbio latino",
+            "os mansos possuem o mundo"
+        ]
+    },
+    {
+        "430": [
+            "oculus animi index",
+            "provérbio latino",
+            "os olhos são a janela da alma"
+        ]
+    },
+    {
+        "431": [
+            "illic est oculus qua res quam adamamus",
+            "provérbio latino",
+            "os pés irão onde quiser o coração"
+        ]
+    },
+    {
+        "432": [
+            "hoc aurum scito pretium quod pr tenet aureo",
+            "provérbio latino",
+            "ouro é o que ouro vale"
+        ]
+    },
+    {
+        "433": [
+            "si corvus posset tacitus pasci# haberet plus dapis",
+            "provérbio latino",
+            "ovelha que berra# bocado que perde"
+        ]
+    },
+    {
+        "434": [
+            "unius peccata tota civitas luit",
+            "provérbio latino",
+            "paga o justo pelo pecador"
+        ]
+    },
+    {
+        "435": [
+            "mammas atque tatas nimium conducit habere; sed potum et multum praestat habere cibum",
+            "provérbio latino",
+            "pai e mãe é muito bom# barriga cheia é melhor"
+        ]
+    },
+    {
+        "436": [
+            "amor caecus",
+            "provérbio latino",
+            "paixão cega a razão"
+        ]
+    },
+    {
+        "437": [
+            "verbum emissum non redit",
+            "provérbio latino",
+            "palavra e pedra que se soltam não têm volta"
+        ]
+    },
+    {
+        "438": [
+            "in maledicto plus injuriae quam in manu",
+            "provérbio latino",
+            "palavras ditas# pancadas dadas"
+        ]
+    },
+    {
+        "439": [
+            "verba volant",
+            "provérbio latino",
+            "palavras# leva-as o vento"
+        ]
+    },
+    {
+        "440": [
+            "quod multum commune est# minima abdhibitur diligentia",
+            "provérbio latino",
+            "panela que muitos mexem# ou sai insossa ou salgada"
+        ]
+    },
+    {
+        "441": [
+            "carnem hesternam# panem hodiernum# annotina vina# sume libens dicto tempore# sanus eris",
+            "provérbio latino",
+            "pão de hoje# carne de ontem e vinho de outro verão fzem o homem são"
+        ]
+    },
+    {
+        "442": [
+            "psittacus vetus non discit loqui",
+            "provérbio latino",
+            "papagaio velho não aprende a falar"
+        ]
+    },
+    {
+        "443": [
+            "antiquus pullum scandere novit eques",
+            "provérbio latino",
+            "para cavalo novo# cavaleiro velho"
+        ]
+    },
+    {
+        "444": [
+            "extremis morbis# extrema# exquisita remedia optima sunt",
+            "provérbio latino",
+            "para grandes males# grandes remédios"
+        ]
+    },
+    {
+        "445": [
+            "aut non tentaris# aut perfice",
+            "provérbio latino",
+            "para não acabar# é melhor não começar"
+        ]
+    },
+    {
+        "446": [
+            "cespite natali quilibet optat ali",
+            "provérbio latino",
+            "para o passarinho# não há como seu ninho"
+        ]
+    },
+    {
+        "447": [
+            "quid caeco cum speculo?",
+            "provérbio latino",
+            "para que cego com espelho?"
+        ]
+    },
+    {
+        "448": [
+            "contra vim mortisnon est medicamen in hortis",
+            "provérbio latino",
+            "para tudo há remédio# menos para a morte"
+        ]
+    },
+    {
+        "449": [
+            "lignum tortum haud unquam rectum",
+            "provérbio latino",
+            "pau que nasce torto# tarde ou nunca se endireita"
+        ]
+    },
+    {
+        "450": [
+            "musco lapis volutus non abducitur",
+            "provérbio latino",
+            "pedra que rola não cria limo"
+        ]
+    },
+    {
+        "451": [
+            "e fimbria de texto judicatur",
+            "provérbio latino",
+            "pela amostra se conhece a chita"
+        ]
+    },
+    {
+        "452": [
+            "morbus hereditarius",
+            "provérbio latino",
+            "pela linha vi a tinha"
+        ]
+    },
+    {
+        "453": [
+            "ab ungibus leo",
+            "provérbio latino",
+            "pelo dedo se conhece o gigante"
+        ]
+    },
+    {
+        "454": [
+            "ex digito gigas",
+            "provérbio latino",
+            "pelo dedo se conhece o gigante"
+        ]
+    },
+    {
+        "455": [
+            "a digito cognoscitur leo",
+            "provérbio latino",
+            "pelo dedo se conhece o leão"
+        ]
+    },
+    {
+        "456": [
+            "arbor ex frutcu cognoscitur",
+            "provérbio latino",
+            "pelo fruto se conhece a árvore"
+        ]
+    },
+    {
+        "457": [
+            "a fructibus eorum cognoscetis eos",
+            "provérbio latino",
+            "pelos frutos se conhece a árvore"
+        ]
+    },
+    {
+        "458": [
+            "aes debitorum leve# grave inimicum facit",
+            "provérbio latino",
+            "pequenas dívidas fazem grandes inimigos"
+        ]
+    },
+    {
+        "459": [
+            "omnia si perdas# famam servare memento",
+            "provérbio latino",
+            "perca-se tudo# menos a honra"
+        ]
+    },
+    {
+        "460": [
+            "bonis nocet qui malis parcit",
+            "provérbio latino",
+            "perdoar ao mau é dizer-lhe que o seja"
+        ]
+    },
+    {
+        "461": [
+            "pauper dominum# non sortem mutat",
+            "provérbio latino",
+            "pobre muda de patrão# mas não de condição"
+        ]
+    },
+    {
+        "462": [
+            "inopi nullus amicus",
+            "provérbio latino",
+            "pobre não tem amigo nem parente"
+        ]
+    },
+    {
+        "463": [
+            "pro beneficio maleficium accipere",
+            "provérbio latino",
+            "por bem fazer# mal haver"
+        ]
+    },
+    {
+        "464": [
+            "res modo formoase foris# intus erunt maculosae",
+            "provérbio latino",
+            "por fora muita farofa# por dentro molambo só"
+        ]
+    },
+    {
+        "465": [
+            "oblata occasione# vel justus perit",
+            "provérbio latino",
+            "porta aberta# o justo peca"
+        ]
+    },
+    {
+        "466": [
+            "nuntio nihil imputandum",
+            "provérbio latino",
+            "portador não merece pancada"
+        ]
+    },
+    {
+        "467": [
+            "ex gutta mellis generantur flumina fellis",
+            "provérbio latino",
+            "pouco fel faz azedo muito mel"
+        ]
+    },
+    {
+        "468": [
+            "mula senex fulvis orntur saepe lupatis",
+            "provérbio latino",
+            "pra mula velha# cabeçada nova"
+        ]
+    },
+    {
+        "469": [
+            "donec eris felix# multos numerabis amicos",
+            "provérbio latino",
+            "preso e cativo não tem amigo"
+        ]
+    },
+    {
+        "470": [
+            "mali principii malus exitus",
+            "provérbio latino",
+            "princípios ruins# desgraçados fins"
+        ]
+    },
+    {
+        "471": [
+            "acum in meta foeni quaerere",
+            "provérbio latino",
+            "procurar agulha em palheiro"
+        ]
+    },
+    {
+        "472": [
+            "nolente deo# effundentur inaniter preces",
+            "provérbio latino",
+            "quando deus não quer# santos nãorogam"
+        ]
+    },
+    {
+        "473": [
+            "largitur pluvias# ubi vult divina potestas",
+            "provérbio latino",
+            "quando deus quer# com todos os ventos chove"
+        ]
+    },
+    {
+        "474": [
+            "audacem reddit felis absentia murem",
+            "provérbio latino",
+            "quando os gatos não estão em casa# os ratos passeia por cima da mesa"
+        ]
+    },
+    {
+        "475": [
+            "quid rides me flente?",
+            "provérbio latino",
+            "quando os meus males forem velhos# os de alguém serão novos"
+        ]
+    },
+    {
+        "476": [
+            "unus duntaxat non preliatur",
+            "provérbio latino",
+            "quando um não quer# dois não brigam"
+        ]
+    },
+    {
+        "477": [
+            "nemo infelicitati propinquior# quam nimis felix",
+            "provérbio latino",
+            "quanto maior é a ventura# tanto menos é segura"
+        ]
+    },
+    {
+        "478": [
+            "fortuna favet fatuis",
+            "provérbio latino",
+            "quanto mais besta# mais peixe"
+        ]
+    },
+    {
+        "479": [
+            "multa ferunt anni venientes commoda secum",
+            "provérbio latino",
+            "quanto mais se vive# mais se vê"
+        ]
+    },
+    {
+        "480": [
+            "auspiciunt oculi duo lumina clarius uno",
+            "provérbio latino",
+            "quatro olhos vêem mais do que dois"
+        ]
+    },
+    {
+        "481": [
+            "caseum ovis# lac capra mi dent et vacca butyrum",
+            "provérbio latino",
+            "queijo de ovelha# leite de cabra# manteiga de vaca"
+        ]
+    },
+    {
+        "482": [
+            "est qui macram regis vaccam# solvit opimam",
+            "provérbio latino",
+            "quem vaca de el-rei come magra# gorda a paga"
+        ]
+    },
+    {
+        "483": [
+            "non male sedet qui bonis adhaeret",
+            "provérbio latino",
+            "quem a boa árvore se chega# boa sombra o cobre"
+        ]
+    },
+    {
+        "484": [
+            "nemo consilio obligatur",
+            "provérbio latino",
+            "quem aconselha não obriga"
+        ]
+    },
+    {
+        "485": [
+            "qui nimium properat# serius absolvit",
+            "provérbio latino",
+            "quem adiante não olha# atrás se fica"
+        ]
+    },
+    {
+        "486": [
+            "qui me amat# meos diligit",
+            "provérbio latino",
+            "quem ama a beltrão# ama seu cão"
+        ]
+    },
+    {
+        "487": [
+            "qui me amat meos diligit",
+            "provérbio latino",
+            "quem ama a beltrão# ama seu irmão"
+        ]
+    },
+    {
+        "488": [
+            "qui nescit orare# pergat ad mare",
+            "provérbio latino",
+            "quem anda no mar aprende a rezar"
+        ]
+    },
+    {
+        "489": [
+            "sera sunt baba pos vigesimum# scientia post trigesimum# divitiae pos quadragesimum",
+            "provérbio latino",
+            "quem aos vinte não barba# aos trinta não casa e aos quarenta não tem# não barba# não casa# não tem"
+        ]
+    },
+    {
+        "490": [
+            "qui nimis inquirit# multa pericla subit",
+            "provérbio latino",
+            "quem as coisas muito apura# não vive vida segura"
+        ]
+    },
+    {
+        "491": [
+            "qui bene amat# bene castigat",
+            "provérbio latino",
+            "quem bem ama# bem castiga"
+        ]
+    },
+    {
+        "492": [
+            "qui vult rite mori# ne prave vivat oportet",
+            "provérbio latino",
+            "quem bem vive# bem morre"
+        ]
+    },
+    {
+        "493": [
+            "omnia qui reticet# munera pacis habet",
+            "provérbio latino",
+            "quem cala não quer barulho"
+        ]
+    },
+    {
+        "494": [
+            "silentii tutum praemium",
+            "provérbio latino",
+            "quem cala vence"
+        ]
+    },
+    {
+        "495": [
+            "qui tacet# consentire videtur",
+            "provérbio latino",
+            "quem cala# consente"
+        ]
+    },
+    {
+        "496": [
+            "bis dat qui cito dat",
+            "provérbio latino",
+            "quem cedo dá# dá duas vezes"
+        ]
+    },
+    {
+        "497": [
+            "semper eris similis cum quibus esse cupis",
+            "provérbio latino",
+            "quem com coxo anda# aprende a mancar"
+        ]
+    },
+    {
+        "498": [
+            "qui gladio ferit# gladio perit",
+            "provérbio latino",
+            "quem com ferro fere# com ferro será ferido"
+        ]
+    },
+    {
+        "499": [
+            "faecem bibat qui vinum bibit",
+            "provérbio latino",
+            "quem comeu a carne que roa os ossos"
+        ]
+    },
+    {
+        "500": [
+            "mendacem emptorem crumena arguit",
+            "provérbio latino",
+            "quem compra e mente# na bolsa o sente"
+        ]
+    },
+    {
+        "501": [
+            "lepores duos insequens# neutrum capit",
+            "provérbio latino",
+            "quem corre atrás de dois# um vai embora"
+        ]
+    },
+    {
+        "502": [
+            "festinatio tarda est",
+            "provérbio latino",
+            "quem corre# cansa; quem anda alcança"
+        ]
+    },
+    {
+        "503": [
+            "qui dat pauperi non indigebit",
+            "provérbio latino",
+            "quem dá aos pobres empresta a deus"
+        ]
+    },
+    {
+        "504": [
+            "dum repascis natos pane# flagella premant",
+            "provérbio latino",
+            "quem dá o pão dá o castigo"
+        ]
+    },
+    {
+        "505": [
+            "si tua das cunctis omnia# multa feres",
+            "provérbio latino",
+            "quem dá o que é seu# sem ele se fica"
+        ]
+    },
+    {
+        "506": [
+            "“malum est# malum est”# dicit omnis emptor",
+            "provérbio latino",
+            "quem desdenha quer comprar"
+        ]
+    },
+    {
+        "507": [
+            "debitor debitoris mei debitor meus est",
+            "provérbio latino",
+            "quem deve a quem me deve# a mim me deve"
+        ]
+    },
+    {
+        "508": [
+            "daemonium vendit qui daemonium prius emit",
+            "provérbio latino",
+            "quem diabos compra# diabos vende"
+        ]
+    },
+    {
+        "509": [
+            "pecuniae obediunt omnia",
+            "provérbio latino",
+            "quem dinheiro tiver# fará o que quiser"
+        ]
+    },
+    {
+        "510": [
+            "quis quae vult dicit# quae non vult audit",
+            "provérbio latino",
+            "quem diz o que quer# ouve o que não quer"
+        ]
+    },
+    {
+        "511": [
+            "é o oficial de teu ofício",
+            "provérbio latino",
+            "quem é teu inimigo?"
+        ]
+    },
+    {
+        "512": [
+            "experta est linguas auris iniqua malas",
+            "provérbio latino",
+            "quem escuta# de si ouve"
+        ]
+    },
+    {
+        "513": [
+            "regula certa datur* qui stat bene ne moveatur",
+            "provérbio latino",
+            "quem está bem# deixe-se estar"
+        ]
+    },
+    {
+        "514": [
+            "venter auribus caret",
+            "provérbio latino",
+            "quem está com fome# não escuta conselhos"
+        ]
+    },
+    {
+        "515": [
+            "laborare est orare",
+            "provérbio latino",
+            "quem está trabalhando# a deus está se encomendando"
+        ]
+    },
+    {
+        "516": [
+            "ab alio spectes alteri quod feceris",
+            "provérbio latino",
+            "quem faz o mal# espere outro tal"
+        ]
+    },
+    {
+        "517": [
+            "semel artiex# millies artifex esse potest",
+            "provérbio latino",
+            "quem faz uma vez# faz duas e três"
+        ]
+    },
+    {
+        "518": [
+            "quantum mutatus ab illo!",
+            "provérbio latino",
+            "quem foi naninha!"
+        ]
+    },
+    {
+        "519": [
+            "semel malus# semper malus",
+            "provérbio latino",
+            "quem foi ruim# não deixa de ser"
+        ]
+    },
+    {
+        "520": [
+            "quisquis iniqua facit# patiatur iniqua# necesse est",
+            "provérbio latino",
+            "quem fz neste mundo# aqui mesmo paga"
+        ]
+    },
+    {
+        "521": [
+            "gratia gratiam parit",
+            "provérbio latino",
+            "quem graças faz# graças merece"
+        ]
+    },
+    {
+        "522": [
+            "quo quisque est altior# eo est periculo proximior",
+            "provérbio latino",
+            "quem mais alto sobe# maior queda dá"
+        ]
+    },
+    {
+        "523": [
+            "dubitando ad veritatem parvenimus",
+            "provérbio latino",
+            "quem mais duvida# mais aprende"
+        ]
+    },
+    {
+        "524": [
+            "dubium sapientiae initium",
+            "provérbio latino",
+            "quem mais duvida# mais aprende"
+        ]
+    },
+    {
+        "525": [
+            "copia sermonis non est consors rationis",
+            "provérbio latino",
+            "quem mais grita não é quem tem mais razão"
+        ]
+    },
+    {
+        "526": [
+            "plurima cum tenuit# plura tenere cupit",
+            "provérbio latino",
+            "quem mais tem# mais deseja"
+        ]
+    },
+    {
+        "527": [
+            "mali principii malus exitus",
+            "provérbio latino",
+            "quem mal começa# mal acaba"
+        ]
+    },
+    {
+        "528": [
+            "bis tergendus erit qui male sputa jacit",
+            "provérbio latino",
+            "quem mal cospe# duas vezes se alimpa"
+        ]
+    },
+    {
+        "529": [
+            "malecicens pejus audit",
+            "provérbio latino",
+            "quem mal fala# pior ouve"
+        ]
+    },
+    {
+        "530": [
+            "plurima conants prendere pauca ferunt",
+            "provérbio latino",
+            "quem muito abarca# pouco aperta"
+        ]
+    },
+    {
+        "531": [
+            "malo tacere mihi quam mala verba loqui",
+            "provérbio latino",
+            "quem muito fala# muito enfada"
+        ]
+    },
+    {
+        "532": [
+            "multis lingua nocet*",
+            "provérbio latino",
+            "quem muito fala# muito erra"
+        ]
+    },
+    {
+        "533": [
+            "importunus erit crebo quicumque rogabit",
+            "provérbio latino",
+            "quem muito pede# muito fede"
+        ]
+    },
+    {
+        "534": [
+            "qui se consuluit solus secum ipse dolebit",
+            "provérbio latino",
+            "quem não aceita conselhos# não merece ajuda"
+        ]
+    },
+    {
+        "535": [
+            "tam procul ex oculis quam procul ex corde",
+            "provérbio latino",
+            "quem não aparece# se esquece"
+        ]
+    },
+    {
+        "536": [
+            "nihil lucri cepit qui nulla pericla subivit",
+            "provérbio latino",
+            "quem não arrisca# não petisca"
+        ]
+    },
+    {
+        "537": [
+            "non progredi est regredi",
+            "provérbio latino",
+            "quem não avança# recua"
+        ]
+    },
+    {
+        "538": [
+            "qui non est mecum# contra me est",
+            "provérbio latino",
+            "quem não é por mim# é contra mim"
+        ]
+    },
+    {
+        "539": [
+            "tollat te# qui te non novit",
+            "provérbio latino",
+            "quem não o conhecer# que o compre"
+        ]
+    },
+    {
+        "540": [
+            "cui non licet quod est minus# utique non licet quod est plus",
+            "provérbio latino",
+            "quem não pode o menos# não pode o mais"
+        ]
+    },
+    {
+        "541": [
+            "nulli pro libito est unquam concessa libertas",
+            "provérbio latino",
+            "quem não quer quando pode# não pode quando quer"
+        ]
+    },
+    {
+        "542": [
+            "molam qui vitat# farinam vitat",
+            "provérbio latino",
+            "quem não quer trabalho# não quer ganho"
+        ]
+    },
+    {
+        "543": [
+            "qui nescit tacere# nescit et loqui",
+            "provérbio latino",
+            "quem não sabe calar# não sabe falar"
+        ]
+    },
+    {
+        "544": [
+            "praestat tacere quam stulte loqui",
+            "provérbio latino",
+            "quem não sabe falar# é melhor calar"
+        ]
+    },
+    {
+        "545": [
+            "qui nescit dissimulare# nescit regnare",
+            "provérbio latino",
+            "quem não sabe fingir# não sabe governar"
+        ]
+    },
+    {
+        "546": [
+            "vincit qui tapitut",
+            "provérbio latino",
+            "quem não sabe sofrer# não sabe vencer"
+        ]
+    },
+    {
+        "547": [
+            "carente capite non opus est pileo",
+            "provérbio latino",
+            "quem não tem cabeça# não carrega chapéu"
+        ]
+    },
+    {
+        "548": [
+            "qui caret asino# clitellam ne quaerat",
+            "provérbio latino",
+            "quem não tem farinha# pra que quer peneira?"
+        ]
+    },
+    {
+        "549": [
+            "cui pudor non est# orbi dominator",
+            "provérbio latino",
+            "quem não tem vergonha# todo o mundo é seu"
+        ]
+    },
+    {
+        "550": [
+            "qui non laborat# non manducet",
+            "provérbio latino",
+            "quem não trabalha# não come"
+        ]
+    },
+    {
+        "551": [
+            "ille est pacis amans# quicunque negata retracta",
+            "provérbio latino",
+            "quem nega e depois faz# quer paz"
+        ]
+    },
+    {
+        "552": [
+            "qui furtim accipit# palam exsolvit",
+            "provérbio latino",
+            "quem o alheio veste# na praça o despe"
+        ]
+    },
+    {
+        "553": [
+            "suum cuique pulchrum",
+            "provérbio latino",
+            "quem o feio ama# bonito lhe parece"
+        ]
+    },
+    {
+        "554": [
+            "solve aes alienum et quod te cruciat# scias",
+            "provérbio latino",
+            "quem paga o que deve# aumenta o que é seu"
+        ]
+    },
+    {
+        "555": [
+            "cui licet quod est plus# licet utique quod est minus",
+            "provérbio latino",
+            "quem pode o mais# pode o menos"
+        ]
+    },
+    {
+        "556": [
+            "alterius non sit qui suus esse potest",
+            "provérbio latino",
+            "quem pode ser seu# sendo de outro é sandeu"
+        ]
+    },
+    {
+        "557": [
+            "bonis nocet qui malis parcet",
+            "provérbio latino",
+            "quem poupa os maus# prejudica os maus"
+        ]
+    },
+    {
+        "558": [
+            "primus veniens# primus molet",
+            "provérbio latino",
+            "quem primeiro anda# primeiro manja"
+        ]
+    },
+    {
+        "559": [
+            "qui bene perquirunt# promptius inveniunt",
+            "provérbio latino",
+            "quem procura# acha"
+        ]
+    },
+    {
+        "560": [
+            "avidum sua saepe deludit aviditas",
+            "provérbio latino",
+            "quem quer tudo# tudo perde"
+        ]
+    },
+    {
+        "561": [
+            "si potes lente# capiasque famelicus escam optatam# exiguo tempore pinguis eris",
+            "provérbio latino",
+            "quem quiser cedo engordar# coma com fome e beba devagar"
+        ]
+    },
+    {
+        "562": [
+            "post gaudia# luctus",
+            "provérbio latino",
+            "quem ri hoje# chora amanhã"
+        ]
+    },
+    {
+        "563": [
+            "si dulcis fias ut mel# te musca vorabit",
+            "provérbio latino",
+            "quem se faz de mel# moscas o comem"
+        ]
+    },
+    {
+        "564": [
+            "quisquis ovem simulat# hunc lupus ore vorat",
+            "provérbio latino",
+            "quem se faz de ovelha# o lobo o come"
+        ]
+    },
+    {
+        "565": [
+            "qui est sine peccato# primum in illa lapidem mittat",
+            "provérbio latino",
+            "quem se sentir sem culpa# atire a primeira pedra"
+        ]
+    },
+    {
+        "566": [
+            "vincere cor proprium plus est quem vincere mundum",
+            "provérbio latino",
+            "quem se vence# vence o mundo"
+        ]
+    },
+    {
+        "567": [
+            "bis anno vestiri si vis# vilem indue pannum",
+            "provérbio latino",
+            "quem se veste de ruim# veste-se duas vezes no ano"
+        ]
+    },
+    {
+        "568": [
+            "ventum seminabunt et turbinem metent",
+            "provérbio latino",
+            "quem semeia ventos# colhe tempestades"
+        ]
+    },
+    {
+        "569": [
+            "semper mendax impudens",
+            "provérbio latino",
+            "quem sempre mente# vergonha não sente"
+        ]
+    },
+    {
+        "570": [
+            "qui solus comedit# solus sua pondere gestat",
+            "provérbio latino",
+            "quem sozinho comeu seu galo# sozinho sele seu cavalo"
+        ]
+    },
+    {
+        "571": [
+            "qui non zelat# non amat",
+            "provérbio latino",
+            "quem tem amor# tem ciúme"
+        ]
+    },
+    {
+        "572": [
+            "semper habet lanam# cui copia larga bibentum",
+            "provérbio latino",
+            "quem tem carneiro# tem lã"
+        ]
+    },
+    {
+        "573": [
+            "in periculo non est dormiendum",
+            "provérbio latino",
+            "quem tem inimigo# não dorme"
+        ]
+    },
+    {
+        "574": [
+            "plura timenda divitibus",
+            "provérbio latino",
+            "quem tem o que perder# tem o que comer"
+        ]
+    },
+    {
+        "575": [
+            "ars portus miseriae",
+            "provérbio latino",
+            "quem tem ofício# tem benefício"
+        ]
+    },
+    {
+        "576": [
+            "desinant maledicere malefacta ne noscant sua",
+            "provérbio latino",
+            "quem tem telhado de vidro não atira pedra no dos outros"
+        ]
+    },
+    {
+        "577": [
+            "dulcis est somnus operantis",
+            "provérbio latino",
+            "quem trabalha o dia inteiro# acha mole o travesseiro"
+        ]
+    },
+    {
+        "578": [
+            "avidum sua saepe deludit aviditas",
+            "provérbio latino",
+            "quem tudo quer tudo perde"
+        ]
+    },
+    {
+        "579": [
+            "jam tua res agitur# paries cum proximus ardet",
+            "provérbio latino",
+            "quem vê a barba do vizinho arder# bota a sua de molho"
+        ]
+    },
+    {
+        "580": [
+            "frons# oculi# vultus persaepe mentiuntur",
+            "provérbio latino",
+            "quem vê cara# não vê coração"
+        ]
+    },
+    {
+        "581": [
+            "qui postremus abit# redeuntibus ostia claudet",
+            "provérbio latino",
+            "quem vier atrás# que feche a porteira"
+        ]
+    },
+    {
+        "582": [
+            "volle est posse",
+            "provérbio latino",
+            "querer é poder"
+        ]
+    },
+    {
+        "583": [
+            "lis litem parit",
+            "provérbio latino",
+            "questão puxa questão"
+        ]
+    },
+    {
+        "584": [
+            "periunt summos fulmina montes",
+            "provérbio latino",
+            "raio não cai em pau deitado"
+        ]
+    },
+    {
+        "585": [
+            "lupus pilum mutat# non mentem",
+            "provérbio latino",
+            "raposa cai o cabelo# mas não deixa de comer galinha"
+        ]
+    },
+    {
+        "586": [
+            "dormiens nihil lucratur",
+            "provérbio latino",
+            "raposa que dorme não apanha galinha"
+        ]
+    },
+    {
+        "587": [
+            "annosa vulpes non capitur laqueo",
+            "provérbio latino",
+            "raposa velha não cai em armadilha"
+        ]
+    },
+    {
+        "588": [
+            "se vestem repares# longum durabis in annum",
+            "provérbio latino",
+            "remenda teu pano# durará mais um ano; remenda outra vez# durará mais um mês; torna a remendar# pra então se acabar"
+        ]
+    },
+    {
+        "589": [
+            "responsio mollis frangit iram",
+            "provérbio latino",
+            "resposta branda a ira quebranta"
+        ]
+    },
+    {
+        "590": [
+            "affinem nullum dives avarus habet",
+            "provérbio latino",
+            "rico avarento não tem parente# nem amigo"
+        ]
+    },
+    {
+        "591": [
+            "sorte sua quisque dives# si contentus",
+            "provérbio latino",
+            "rico é quem se contenta com o que tem"
+        ]
+    },
+    {
+        "592": [
+            "non fuit in solo roma peracta die",
+            "provérbio latino",
+            "roma não se fez num dia"
+        ]
+    },
+    {
+        "593": [
+            "incidit in flammam cupiens vitare favillas",
+            "provérbio latino",
+            "saltar das brasas e cair nas labaredas"
+        ]
+    },
+    {
+        "594": [
+            "in maledicto plus injuriae quam in manu",
+            "provérbio latino",
+            "saram cutiladas e não más palavras"
+        ]
+    },
+    {
+        "595": [
+            "custodit vitam qui vustodit sanitatem",
+            "provérbio latino",
+            "saúde cuidada# vida conservada"
+        ]
+    },
+    {
+        "596": [
+            "silent inter arma leges",
+            "provérbio latino",
+            "se as armas falam# as leis se calam"
+        ]
+    },
+    {
+        "597": [
+            "melius est pueri fleant quam senes",
+            "provérbio latino",
+            "se há de mais tarde chorar o pai# chore agora o filho"
+        ]
+    },
+    {
+        "598": [
+            "accipiat felis quae vellent rodere mures",
+            "provérbio latino",
+            "se há de se dar ao rato# dê-se ao gato"
+        ]
+    },
+    {
+        "599": [
+            "si vis pacem# para bellum",
+            "provérbio latino",
+            "se queres a paz# prepara-te para a guerra"
+        ]
+    },
+    {
+        "600": [
+            "mature fies senex# si diu velles esse senex",
+            "provérbio latino",
+            "se queres ser velho moço# faze-te velho cedo"
+        ]
+    },
+    {
+        "601": [
+            "dat tibi# ut accipiat duplicata numismata# egenus",
+            "provérbio latino",
+            "se te dá o pobre# é para que mais te tome"
+        ]
+    },
+    {
+        "602": [
+            "antequam noveris a laudando et vituperando abstine",
+            "provérbio latino",
+            "sem conheceres# não louves nem ofendas"
+        ]
+    },
+    {
+        "603": [
+            "absque argento omnia vana",
+            "provérbio latino",
+            "sem dinheiro# tudo é vão"
+        ]
+    },
+    {
+        "604": [
+            "pretiosa quam sit sanitas morbus docet",
+            "provérbio latino",
+            "só s sabe o que é saúde quando se está doente"
+        ]
+    },
+    {
+        "605": [
+            "de gustibus et coloribus non est disputandum",
+            "provérbio latino",
+            "sobre gosto não se discute"
+        ]
+    },
+    {
+        "606": [
+            "cum sale et sole omnia fiunt",
+            "provérbio latino",
+            "sol e sal livram a gente de muito mal"
+        ]
+    },
+    {
+        "607": [
+            "qualis dominus# talis servus",
+            "provérbio latino",
+            "tal amo# tal criado"
+        ]
+    },
+    {
+        "608": [
+            "qualis pater# talis filius",
+            "provérbio latino",
+            "tal pai# tal filho"
+        ]
+    },
+    {
+        "609": [
+            "tal vida# tal morte",
+            "provérbio latino",
+            "tal vida# tal morte"
+        ]
+    },
+    {
+        "610": [
+            "tot capita# tot sententiae",
+            "provérbio latino",
+            "tantas cabeças# tantas opiniões"
+        ]
+    },
+    {
+        "611": [
+            "nihil satis est# quia tanti# quanti habeas# sis",
+            "provérbio latino",
+            "tanto tens# tanto vales"
+        ]
+    },
+    {
+        "612": [
+            "cantharus assidue gestatus perdidit ansam",
+            "provérbio latino",
+            "tanto vai o pote à bica# que um dia lá se fica"
+        ]
+    },
+    {
+        "613": [
+            "agentes et consentientes pari poena puniuntur",
+            "provérbio latino",
+            "tão bom é o ladrão como o consentidor"
+        ]
+    },
+    {
+        "614": [
+            "tarde benefacere nolle est",
+            "provérbio latino",
+            "tarde dar é o mesmo que negar"
+        ]
+    },
+    {
+        "615": [
+            "sero venisti",
+            "provérbio latino",
+            "tarde piaste!"
+        ]
+    },
+    {
+        "616": [
+            "crudelius est quam mori semper mortem timere",
+            "provérbio latino",
+            "temer a morte é morrer duas vezes"
+        ]
+    },
+    {
+        "617": [
+            "multa in bellis inania",
+            "provérbio latino",
+            "tempo de guerra# mentira como terra"
+        ]
+    },
+    {
+        "618": [
+            "tempus tempora temperat",
+            "provérbio latino",
+            "tempo é remédio"
+        ]
+    },
+    {
+        "619": [
+            "praeteritum tempus umquam revertitur",
+            "provérbio latino",
+            "tempo perdido não se recupera"
+        ]
+    },
+    {
+        "620": [
+            "omnis comparatio odiosa",
+            "provérbio latino",
+            "toda comparação é odiosa"
+        ]
+    },
+    {
+        "621": [
+            "ne quid nimis",
+            "provérbio latino",
+            "toda sobra é demasiada"
+        ]
+    },
+    {
+        "622": [
+            "hostis nunquam contemnendus",
+            "provérbio latino",
+            "tolo é quem cuida que o seu inimigo se descuida"
+        ]
+    },
+    {
+        "623": [
+            "amor tussisque non celantur",
+            "provérbio latino",
+            "tosse# amor e febre ninguém esconde"
+        ]
+    },
+    {
+        "624": [
+            "dimidium facti qui bene coepit habet",
+            "provérbio latino",
+            "trabalho bem começado# meio acabado"
+        ]
+    },
+    {
+        "625": [
+            "pacta sunt servanda",
+            "provérbio latino",
+            "trato é trato"
+        ]
+    },
+    {
+        "626": [
+            "vae mortuis!",
+            "provérbio latino",
+            "triste de quem morre!"
+        ]
+    },
+    {
+        "627": [
+            "mensura omnium rerum optima",
+            "provérbio latino",
+            "tudo na vida quer tempo e medida"
+        ]
+    },
+    {
+        "628": [
+            "tempus longum vitiat lapidem",
+            "provérbio latino",
+            "tudo passa sobre a terra"
+        ]
+    },
+    {
+        "629": [
+            "omnia eveniunt ut sunt humana",
+            "provérbio latino",
+            "tudo pode ser# sem ser milagre"
+        ]
+    },
+    {
+        "630": [
+            "quod nimium est# laedit",
+            "provérbio latino",
+            "tudo que é demais aborrece"
+        ]
+    },
+    {
+        "631": [
+            "abyssus abyssum invocat",
+            "provérbio latino",
+            "um abismo atrai o outro"
+        ]
+    },
+    {
+        "632": [
+            "balbus balbum intellegit",
+            "provérbio latino",
+            "um gago entende o outro"
+        ]
+    },
+    {
+        "633": [
+            "singula quae non possunt multa collecta juvant",
+            "provérbio latino",
+            "um grão não enche o celeiro# mas ajuda o companheiro"
+        ]
+    },
+    {
+        "634": [
+            "bestia bestiam novit",
+            "provérbio latino",
+            "um ruim conhece outro"
+        ]
+    },
+    {
+        "635": [
+            "una hirundo non facit ver",
+            "provérbio latino",
+            "uma andorinha só não faz verão"
+        ]
+    },
+    {
+        "636": [
+            "malis mala succedunt",
+            "provérbio latino",
+            "uma desgraça nunca vem só"
+        ]
+    },
+    {
+        "637": [
+            "ferrum ferro acuitur",
+            "provérbio latino",
+            "uma faca amola a outra"
+        ]
+    },
+    {
+        "638": [
+            "dextra fricat laevam# vultus fricatur ab illis",
+            "provérbio latino",
+            "uma mão lava a outra e ambas o rosto"
+        ]
+    },
+    {
+        "639": [
+            "fallacia alia aliam trudit",
+            "provérbio latino",
+            "uma mentira acarreta outra"
+        ]
+    },
+    {
+        "640": [
+            "testis unus# testis nullus",
+            "provérbio latino",
+            "uma testemunha# nenhuma testemunha"
+        ]
+    },
+    {
+        "641": [
+            "alii sementem faciunt; alii metent",
+            "provérbio latino",
+            "uns plantam# outros colhem"
+        ]
+    },
+    {
+        "642": [
+            "usus optimus rerum magister",
+            "provérbio latino",
+            "usa e serás mestre"
+        ]
+    },
+    {
+        "643": [
+            "uti# non abuti",
+            "provérbio latino",
+            "usar# não abusar"
+        ]
+    },
+    {
+        "644": [
+            "vanitas vanitatum# omnia vanitas",
+            "provérbio latino",
+            "vaidade das vaidades# tudo é vaidade"
+        ]
+    },
+    {
+        "645": [
+            "quae vult rex fieri# sanctae sunt congrua legi",
+            "provérbio latino",
+            "vão as leis onde querem os reis"
+        ]
+    },
+    {
+        "646": [
+            "vas malum non frangitur",
+            "provérbio latino",
+            "vasilha ruim não se quebra"
+        ]
+    },
+    {
+        "647": [
+            "senectus est morbus",
+            "provérbio latino",
+            "velhice é doença"
+        ]
+    },
+    {
+        "648": [
+            "aetas mala merx mala terga",
+            "provérbio latino",
+            "velhice e mercadoria ruim levam-se às costas"
+        ]
+    },
+    {
+        "649": [
+            "senectus est velut altera pueritia",
+            "provérbio latino",
+            "velhice# segunda meninice"
+        ]
+    },
+    {
+        "650": [
+            "vincit qui se vincit",
+            "provérbio latino",
+            "vence quem se vence"
+        ]
+    },
+    {
+        "651": [
+            "vende domi# emi in mundinis",
+            "provérbio latino",
+            "vender em casa# comprar na feira"
+        ]
+    },
+    {
+        "652": [
+            "oculis magis habenda fides quam auribus",
+            "provérbio latino",
+            "ver para crer"
+        ]
+    },
+    {
+        "653": [
+            "auribus frequentius quam lingua utere",
+            "provérbio latino",
+            "ver# ouvir e calar"
+        ]
+    },
+    {
+        "654": [
+            "vinum intra# subsidant mella# superstet oliva",
+            "provérbio latino",
+            "vinho do meio# mel de baixo# azeite de cima"
+        ]
+    },
+    {
+        "655": [
+            "annosum vinum# socius vetus et vetus aurum",
+            "provérbio latino",
+            "vinho velho# amigo velho e ouro velho"
+        ]
+    },
+    {
+        "656": [
+            "si vidua est locuples# lacrimoso lumine ridet",
+            "provérbio latino",
+            "viúva rica com um olho chora e com o outro repica"
+        ]
+    },
+    {
+        "657": [
+            "morbosam retine vitam formidine mortis",
+            "provérbio latino",
+            "viva a galinha com a sua pevide!"
+        ]
+    },
+    {
+        "658": [
+            "vox populi# vox dei est",
+            "provérbio latino",
+            "voz do povo# voz de deus"
+        ]
+    },
+    {
+        "659": [
+            "aún aprendo",
+            "dístico latino",
+            ""
+        ]
+    },
+    {
+        "660": [
+            "quis custodiet ipsos custodes?",
+            "provérbio latino",
+            "quem há de vigiar os próprios vigilantes?"
+        ]
+    }
+]

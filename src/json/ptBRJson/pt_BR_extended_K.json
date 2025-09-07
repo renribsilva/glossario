@@ -1,0 +1,656 @@
+{
+  "kafkiano": {
+    "D": [
+      "kafkianos",
+      "kafkiana",
+      "kafkianas"
+    ]
+  },
+  "Kaloré-PR": {
+    "5": [
+      "Kaloré-Paraná/Ý"
+    ]
+  },
+  "kandoriano": {
+    "D": [
+      "kandorianos",
+      "kandoriana",
+      "kandorianas"
+    ]
+  },
+  "kantianismo": {
+    "3": [
+      "kantianista",
+      "kantianistas"
+    ],
+    "B": [
+      "kantianismos"
+    ]
+  },
+  "kantianístico": {
+    "1": [
+      "kantianisticismo",
+      "kantianisticismos"
+    ],
+    "3": [
+      "kantianisticista",
+      "kantianisticistas"
+    ],
+    "D": [
+      "kantianísticos",
+      "kantianística",
+      "kantianísticas"
+    ],
+    "K": [
+      "kantianisticamente"
+    ]
+  },
+  "kantiano": {
+    "D": [
+      "kantianos",
+      "kantiana",
+      "kantianas"
+    ]
+  },
+  "kantismo": {
+    "B": [
+      "kantismos"
+    ]
+  },
+  "kantista": {
+    "B": [
+      "kantistas"
+    ],
+    "É": [
+      "neokantista"
+    ],
+    "É+B": [
+      "neokantistas"
+    ]
+  },
+  "kantístico": {
+    "D": [
+      "kantísticos",
+      "kantística",
+      "kantísticas"
+    ]
+  },
+  "karaokê": {
+    "B": [
+      "karaokês"
+    ]
+  },
+  "karatê": {
+    "B": [
+      "karatês"
+    ]
+  },
+  "kardecismo": {
+    "3": [
+      "kardecista",
+      "kardecistas"
+    ],
+    "B": [
+      "kardecismos"
+    ]
+  },
+  "kart": {
+    "B": [
+      "karts"
+    ]
+  },
+  "kartismo": {
+    "B": [
+      "kartismos"
+    ]
+  },
+  "kartódromo": {
+    "B": [
+      "kartódromos"
+    ]
+  },
+  "kawazulita": {
+    "B": [
+      "kawazulitas"
+    ]
+  },
+  "kelviniano": {
+    "D": [
+      "kelvinianos",
+      "kelviniana",
+      "kelvinianas"
+    ]
+  },
+  "kemaliano": {
+    "D": [
+      "kemalianos",
+      "kemaliana",
+      "kemalianas"
+    ]
+  },
+  "Kennedy-ES": {
+    "5": [
+      "Kennedy-Espírito/Ý"
+    ]
+  },
+  "Kennedy-TO": {
+    "5": [
+      "Kennedy-Tocantins/Ý"
+    ]
+  },
+  "keynesianismo": {
+    "3": [
+      "keynesianista",
+      "keynesianistas"
+    ],
+    "B": [
+      "keynesianismos"
+    ]
+  },
+  "keynesiano": {
+    "D": [
+      "keynesianos",
+      "keynesiana",
+      "keynesianas"
+    ]
+  },
+  "Kikito": {
+    "B": [
+      "Kikitos"
+    ]
+  },
+  "kilobyte": {
+    "B": [
+      "kilobytes"
+    ]
+  },
+  "kirchnerismo": {
+    "3": [
+      "kirchnerista",
+      "kirchneristas"
+    ],
+    "B": [
+      "kirchnerismos"
+    ]
+  },
+  "kiribatiano": {
+    "D": [
+      "kiribatianos",
+      "kiribatiana",
+      "kiribatianas"
+    ]
+  },
+  "kit": {
+    "B": [
+      "kits"
+    ]
+  },
+  "kneippismo": {
+    "3": [
+      "kneippista",
+      "kneippistas"
+    ],
+    "B": [
+      "kneippismos"
+    ]
+  },
+  "Kong": {
+    "9": [
+      "Kong-Afeganistão",
+      "Kong-África",
+      "Kong-Albânia",
+      "Kong-Alemanha",
+      "Kong-Andorra",
+      "Kong-Angola",
+      "Kong-Anguila",
+      "Kong-Antártida",
+      "Kong-Antígua",
+      "Kong-Antilhas",
+      "Kong-Arábia",
+      "Kong-Argélia",
+      "Kong-Argentina",
+      "Kong-Armênia",
+      "Kong-Aruba",
+      "Kong-Austrália",
+      "Kong-Áustria",
+      "Kong-Azerbaidjão",
+      "Kong-Bahamas",
+      "Kong-Bangladeche",
+      "Kong-Barbados",
+      "Kong-Barém",
+      "Kong-Bélgica",
+      "Kong-Belize",
+      "Kong-Benim",
+      "Kong-Bermudas",
+      "Kong-Bielorrússia",
+      "Kong-Birmânia",
+      "Kong-Bolívia",
+      "Kong-Bósnia",
+      "Kong-Botsuana",
+      "Kong-Brasil",
+      "Kong-Brunei",
+      "Kong-Bulgária",
+      "Kong-Burquina",
+      "Kong-Burúndi",
+      "Kong-Butão",
+      "Kong-Cabo",
+      "Kong-Camarões",
+      "Kong-Camboja",
+      "Kong-Canadá",
+      "Kong-Catar",
+      "Kong-Cazaquistão",
+      "Kong-Chade",
+      "Kong-Chile",
+      "Kong-China",
+      "Kong-Chipre",
+      "Kong-Colômbia",
+      "Kong-Comores",
+      "Kong-Congo",
+      "Kong-Coral",
+      "Kong-Coreia",
+      "Kong-Costa",
+      "Kong-Croácia",
+      "Kong-Cuba",
+      "Kong-Dinamarca",
+      "Kong-Domínica",
+      "Kong-Egito",
+      "Kong-Emiratos",
+      "Kong-Equador",
+      "Kong-Eritreia",
+      "Kong-Eslováquia",
+      "Kong-Eslovênia",
+      "Kong-Espanha",
+      "Kong-EUA",
+      "Kong-Estados",
+      "Kong-Estônia",
+      "Kong-Etiópia",
+      "Kong-Faroe",
+      "Kong-Fiji",
+      "Kong-Filipinas",
+      "Kong-Finlândia",
+      "Kong-França",
+      "Kong-Gabão",
+      "Kong-Gâmbia",
+      "Kong-Gana",
+      "Kong-Gaza",
+      "Kong-Geórgia",
+      "Kong-Gibraltar",
+      "Kong-Granada",
+      "Kong-Grécia",
+      "Kong-Gronelândia",
+      "Kong-Guame",
+      "Kong-Guatemala",
+      "Kong-Guernsey",
+      "Kong-Guiana",
+      "Kong-Guiné",
+      "Kong-Guiné-Bissau",
+      "Kong-Haiti",
+      "Kong-Honduras",
+      "Kong-Hong",
+      "Kong-Hungria",
+      "Kong-Iêmen",
+      "Kong-Ilha",
+      "Kong-Ilhas",
+      "Kong-Índia",
+      "Kong-Indonésia",
+      "Kong-Irão",
+      "Kong-Iraque",
+      "Kong-Irlanda",
+      "Kong-Islândia",
+      "Kong-Israel",
+      "Kong-Itália",
+      "Kong-Jamaica",
+      "Kong-Japão",
+      "Kong-Jersey",
+      "Kong-Jibuti",
+      "Kong-Jordânia",
+      "Kong-Kuwait",
+      "Kong-Laos",
+      "Kong-Lesoto",
+      "Kong-Letônia",
+      "Kong-Líbano",
+      "Kong-Libéria",
+      "Kong-Líbia",
+      "Kong-Listenstaine",
+      "Kong-Lituânia",
+      "Kong-Luxemburgo",
+      "Kong-Macau",
+      "Kong-Macedônia",
+      "Kong-Madagáscar",
+      "Kong-Malásia",
+      "Kong-Malávi",
+      "Kong-Maldivas",
+      "Kong-Mali",
+      "Kong-Malta",
+      "Kong-Marianas",
+      "Kong-Marrocos",
+      "Kong-Maurícia",
+      "Kong-Mauritânia",
+      "Kong-México",
+      "Kong-Micronésia",
+      "Kong-Moçambique",
+      "Kong-Moldávia",
+      "Kong-Mônaco",
+      "Kong-Mongólia",
+      "Kong-Monserrate",
+      "Kong-Montenegro",
+      "Kong-Namíbia",
+      "Kong-Nauru",
+      "Kong-Nepal",
+      "Kong-Nicarágua",
+      "Kong-Níger",
+      "Kong-Nigéria",
+      "Kong-Noruega",
+      "Kong-Nova",
+      "Kong-Omã",
+      "Kong-Países",
+      "Kong-Palau",
+      "Kong-Panamá",
+      "Kong-Papua",
+      "Kong-Paquistão",
+      "Kong-Paraguai",
+      "Kong-Peru",
+      "Kong-Polinésia",
+      "Kong-Polônia",
+      "Kong-Porto",
+      "Kong-Portugal",
+      "Kong-Quênia",
+      "Kong-Quirguistão",
+      "Kong-Quiribáti",
+      "Kong-Reino",
+      "Kong-República",
+      "Kong-Romênia",
+      "Kong-Ruanda",
+      "Kong-Rússia",
+      "Kong-Salvador",
+      "Kong-Samoa",
+      "Kong-Santa",
+      "Kong-São",
+      "Kong-Sara",
+      "Kong-Senegal",
+      "Kong-Serra",
+      "Kong-Sérvia",
+      "Kong-Singapura",
+      "Kong-Síria",
+      "Kong-Somália",
+      "Kong-Sri",
+      "Kong-Suazilândia",
+      "Kong-Sudão",
+      "Kong-Suécia",
+      "Kong-Suíça",
+      "Kong-Suriname",
+      "Kong-Tailândia",
+      "Kong-Taiwan",
+      "Kong-Tajiquistão",
+      "Kong-Tanzânia",
+      "Kong-Timor",
+      "Kong-Togo",
+      "Kong-Toquelau",
+      "Kong-Tonga",
+      "Kong-Trindade",
+      "Kong-Tunísia",
+      "Kong-Turquemenistão",
+      "Kong-Turquia",
+      "Kong-Tuvalu",
+      "Kong-Ucrânia",
+      "Kong-Uganda",
+      "Kong-UE",
+      "Kong-União",
+      "Kong-Uruguai",
+      "Kong-Usbequistão",
+      "Kong-Vanuatu",
+      "Kong-Vaticano",
+      "Kong-Venezuela",
+      "Kong-Vietname",
+      "Kong-Wallis",
+      "Kong-West",
+      "Kong-Zâmbia",
+      "Kong-Zimbabué",
+      "Kong-Zimbábue"
+    ]
+  },
+  "krausismo": {
+    "B": [
+      "krausismos"
+    ]
+  },
+  "kryptoniano": {
+    "D": [
+      "kryptonianos",
+      "kryptoniana",
+      "kryptonianas"
+    ]
+  },
+  "Kubitschek-MG": {
+    "5": [
+      "Kubitschek-Minas/Ý"
+    ]
+  },
+  "Kuwait": {
+    "9": [
+      "Kuwait-Afeganistão",
+      "Kuwait-África",
+      "Kuwait-Albânia",
+      "Kuwait-Alemanha",
+      "Kuwait-Andorra",
+      "Kuwait-Angola",
+      "Kuwait-Anguila",
+      "Kuwait-Antártida",
+      "Kuwait-Antígua",
+      "Kuwait-Antilhas",
+      "Kuwait-Arábia",
+      "Kuwait-Argélia",
+      "Kuwait-Argentina",
+      "Kuwait-Armênia",
+      "Kuwait-Aruba",
+      "Kuwait-Austrália",
+      "Kuwait-Áustria",
+      "Kuwait-Azerbaidjão",
+      "Kuwait-Bahamas",
+      "Kuwait-Bangladeche",
+      "Kuwait-Barbados",
+      "Kuwait-Barém",
+      "Kuwait-Bélgica",
+      "Kuwait-Belize",
+      "Kuwait-Benim",
+      "Kuwait-Bermudas",
+      "Kuwait-Bielorrússia",
+      "Kuwait-Birmânia",
+      "Kuwait-Bolívia",
+      "Kuwait-Bósnia",
+      "Kuwait-Botsuana",
+      "Kuwait-Brasil",
+      "Kuwait-Brunei",
+      "Kuwait-Bulgária",
+      "Kuwait-Burquina",
+      "Kuwait-Burúndi",
+      "Kuwait-Butão",
+      "Kuwait-Cabo",
+      "Kuwait-Camarões",
+      "Kuwait-Camboja",
+      "Kuwait-Canadá",
+      "Kuwait-Catar",
+      "Kuwait-Cazaquistão",
+      "Kuwait-Chade",
+      "Kuwait-Chile",
+      "Kuwait-China",
+      "Kuwait-Chipre",
+      "Kuwait-Colômbia",
+      "Kuwait-Comores",
+      "Kuwait-Congo",
+      "Kuwait-Coral",
+      "Kuwait-Coreia",
+      "Kuwait-Costa",
+      "Kuwait-Croácia",
+      "Kuwait-Cuba",
+      "Kuwait-Dinamarca",
+      "Kuwait-Domínica",
+      "Kuwait-Egito",
+      "Kuwait-Emiratos",
+      "Kuwait-Equador",
+      "Kuwait-Eritreia",
+      "Kuwait-Eslováquia",
+      "Kuwait-Eslovênia",
+      "Kuwait-Espanha",
+      "Kuwait-EUA",
+      "Kuwait-Estados",
+      "Kuwait-Estônia",
+      "Kuwait-Etiópia",
+      "Kuwait-Faroe",
+      "Kuwait-Fiji",
+      "Kuwait-Filipinas",
+      "Kuwait-Finlândia",
+      "Kuwait-França",
+      "Kuwait-Gabão",
+      "Kuwait-Gâmbia",
+      "Kuwait-Gana",
+      "Kuwait-Gaza",
+      "Kuwait-Geórgia",
+      "Kuwait-Gibraltar",
+      "Kuwait-Granada",
+      "Kuwait-Grécia",
+      "Kuwait-Gronelândia",
+      "Kuwait-Guame",
+      "Kuwait-Guatemala",
+      "Kuwait-Guernsey",
+      "Kuwait-Guiana",
+      "Kuwait-Guiné",
+      "Kuwait-Guiné-Bissau",
+      "Kuwait-Haiti",
+      "Kuwait-Honduras",
+      "Kuwait-Hong",
+      "Kuwait-Hungria",
+      "Kuwait-Iêmen",
+      "Kuwait-Ilha",
+      "Kuwait-Ilhas",
+      "Kuwait-Índia",
+      "Kuwait-Indonésia",
+      "Kuwait-Irão",
+      "Kuwait-Iraque",
+      "Kuwait-Irlanda",
+      "Kuwait-Islândia",
+      "Kuwait-Israel",
+      "Kuwait-Itália",
+      "Kuwait-Jamaica",
+      "Kuwait-Japão",
+      "Kuwait-Jersey",
+      "Kuwait-Jibuti",
+      "Kuwait-Jordânia",
+      "Kuwait-Kuwait",
+      "Kuwait-Laos",
+      "Kuwait-Lesoto",
+      "Kuwait-Letônia",
+      "Kuwait-Líbano",
+      "Kuwait-Libéria",
+      "Kuwait-Líbia",
+      "Kuwait-Listenstaine",
+      "Kuwait-Lituânia",
+      "Kuwait-Luxemburgo",
+      "Kuwait-Macau",
+      "Kuwait-Macedônia",
+      "Kuwait-Madagáscar",
+      "Kuwait-Malásia",
+      "Kuwait-Malávi",
+      "Kuwait-Maldivas",
+      "Kuwait-Mali",
+      "Kuwait-Malta",
+      "Kuwait-Marianas",
+      "Kuwait-Marrocos",
+      "Kuwait-Maurícia",
+      "Kuwait-Mauritânia",
+      "Kuwait-México",
+      "Kuwait-Micronésia",
+      "Kuwait-Moçambique",
+      "Kuwait-Moldávia",
+      "Kuwait-Mônaco",
+      "Kuwait-Mongólia",
+      "Kuwait-Monserrate",
+      "Kuwait-Montenegro",
+      "Kuwait-Namíbia",
+      "Kuwait-Nauru",
+      "Kuwait-Nepal",
+      "Kuwait-Nicarágua",
+      "Kuwait-Níger",
+      "Kuwait-Nigéria",
+      "Kuwait-Noruega",
+      "Kuwait-Nova",
+      "Kuwait-Omã",
+      "Kuwait-Países",
+      "Kuwait-Palau",
+      "Kuwait-Panamá",
+      "Kuwait-Papua",
+      "Kuwait-Paquistão",
+      "Kuwait-Paraguai",
+      "Kuwait-Peru",
+      "Kuwait-Polinésia",
+      "Kuwait-Polônia",
+      "Kuwait-Porto",
+      "Kuwait-Portugal",
+      "Kuwait-Quênia",
+      "Kuwait-Quirguistão",
+      "Kuwait-Quiribáti",
+      "Kuwait-Reino",
+      "Kuwait-República",
+      "Kuwait-Romênia",
+      "Kuwait-Ruanda",
+      "Kuwait-Rússia",
+      "Kuwait-Salvador",
+      "Kuwait-Samoa",
+      "Kuwait-Santa",
+      "Kuwait-São",
+      "Kuwait-Sara",
+      "Kuwait-Senegal",
+      "Kuwait-Serra",
+      "Kuwait-Sérvia",
+      "Kuwait-Singapura",
+      "Kuwait-Síria",
+      "Kuwait-Somália",
+      "Kuwait-Sri",
+      "Kuwait-Suazilândia",
+      "Kuwait-Sudão",
+      "Kuwait-Suécia",
+      "Kuwait-Suíça",
+      "Kuwait-Suriname",
+      "Kuwait-Tailândia",
+      "Kuwait-Taiwan",
+      "Kuwait-Tajiquistão",
+      "Kuwait-Tanzânia",
+      "Kuwait-Timor",
+      "Kuwait-Togo",
+      "Kuwait-Toquelau",
+      "Kuwait-Tonga",
+      "Kuwait-Trindade",
+      "Kuwait-Tunísia",
+      "Kuwait-Turquemenistão",
+      "Kuwait-Turquia",
+      "Kuwait-Tuvalu",
+      "Kuwait-Ucrânia",
+      "Kuwait-Uganda",
+      "Kuwait-UE",
+      "Kuwait-União",
+      "Kuwait-Uruguai",
+      "Kuwait-Usbequistão",
+      "Kuwait-Vanuatu",
+      "Kuwait-Vaticano",
+      "Kuwait-Venezuela",
+      "Kuwait-Vietname",
+      "Kuwait-Wallis",
+      "Kuwait-West",
+      "Kuwait-Zâmbia",
+      "Kuwait-Zimbabué",
+      "Kuwait-Zimbábue"
+    ]
+  },
+  "kuwaitiano": {
+    "D": [
+      "kuwaitianos",
+      "kuwaitiana",
+      "kuwaitianas"
+    ]
+  },
+  "kwanyama": {
+    "B": [
+      "kwanyamas"
+    ]
+  }
+}

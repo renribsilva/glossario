@@ -1,0 +1,14 @@
+:root, html, body {
+  --background:rgb(242, 242, 242);
+  --panels:rgba(61, 61, 61, 0.2);
+  --button: rgba(77, 48, 48, 0.877);
+}
+
+body {
+  margin: 0px;
+  padding: 5px;
+  font-family: "Ubuntu";
+  font-weight: 300;
+  font-size: 14px;
+  min-width: 220px;
+}
