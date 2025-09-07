@@ -109,7 +109,7 @@ export function handleHomeState() {
 
   useEffect(() => {
     const fetchData = async () => {
-      const result = await fetchPTExtended("orla", "e", true);
+      const result = await fetchPTExtended("orla", "e", false);
       console.log(result);
       return result;
     };
