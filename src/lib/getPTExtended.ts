@@ -65,7 +65,8 @@ export function getPTExtended(
 
   const ignoredFlags = new Set([
     "5", "6", "7", "8", "9", "k", "a", "c", "d", "e", "f", "g", "h", "i", "j",
-    "k", "m", "n", "o", "p", "q", "r", "s", "v", "E", "G", "L", "O", "P", "Q", "R", "S", "T", "U", "V", "W"
+    "k", "m", "n", "o", "p", "q", "r", "s", "v", "E", "G", "L", "O", "P", 
+    "Q", "R", "S", "T", "U", "V", "W"
   ]);
 
   // Carrega os dados de arquivos, apenas uma vez, e usa o cache
