@@ -99,7 +99,18 @@ for (let line of dicLines) {
   const flags = rawFlags ? rawFlags.split("") : [];
   const wordVariations: { [flag: string]: string[] } = {};
 
+  const ignoredFlags = new Set([
+    "5", "6", "7", "8", "9", "k", "a", "c", "d", "e", "f", "g", "h", "i", "j",
+    "k", "m", "n", "o", "p", "q", "r", "s", "v", "E", "G", "L", "O", "P", 
+    "Q", "R", "S", "T", "U", "V", "W"
+  ]);
+
   for (const flag of flags) {
+
+    if (ignoredFlags.has(flag)) {
+      continue;
+    }
+
     const variations: string[] = [];
 
     if (affData.PFX[flag]) {

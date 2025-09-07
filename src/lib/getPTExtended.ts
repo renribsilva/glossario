@@ -19,11 +19,10 @@ const loadJsonFiles = (): ExtendedWordMap => {
   const files = fs.readdirSync(jsonDir);
   const jsonFiles = files.filter(file => file.endsWith(".json"));
 
-  // Lê todos os arquivos JSON e combina os dados
   jsonFiles.forEach(file => {
     const filePath = path.join(jsonDir, file);
     const data = JSON.parse(fs.readFileSync(filePath, "utf-8"));
-    Object.assign(extendedData, data); // Combina os dados
+    Object.assign(extendedData, data);
   });
 
   extendedDataCache = extendedData; // Armazena no cache
@@ -38,11 +37,11 @@ const loadDic = (): string[] => {
 
   const dicContent = fs.readFileSync(dicPath, "utf-8");
   const dicWords = dicContent
-    .split(/\r?\n/) // Separa por novas linhas
+    .split(/\r?\n/)
     .map(line => line.trim())
-    .filter(Boolean); // Remove linhas vazias
+    .filter(Boolean);
 
-  dicWordsCache = dicWords; // Armazena no cache
+  dicWordsCache = dicWords;
   return dicWords;
 };
 
