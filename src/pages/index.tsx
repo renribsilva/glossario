@@ -63,6 +63,9 @@ export default function HomePage() {
             </div>
             <div className={styles.suggestions_list}>
               <div className={styles.suggestions_list}>
+                {showSuggestion && inputNorm && inputNorm.length < 3 && (
+                  <div><i>Sugestões para palavras com três letras ou mais</i></div>
+                )}
                 {!showSuggestion && activeSug === "s" && ptBRExtendedS && ptBRExtendedS.length > 0 ? (
                   ptBRExtendedS.map((entry, index) => (
                     <div key={index}>{entry}</div>
@@ -70,7 +73,6 @@ export default function HomePage() {
                 ) : (!showSuggestion && activeSug === "s" && (!ptBRExtendedS || ptBRExtendedS.length === 0)) && (
                   <div>Sem sugestões para <i>{input}</i></div>
                 )}
-
                 {!showSuggestion && activeSug === "c" && ptBRExtendedC && ptBRExtendedC.length > 0 ? (
                   ptBRExtendedC.map((entry, index) => (
                     <div key={index}>{entry}</div>
@@ -78,7 +80,6 @@ export default function HomePage() {
                 ) : (!showSuggestion && activeSug === "c" && (!ptBRExtendedC || ptBRExtendedC.length === 0)) && (
                   <div>Sem sugestões para <i>{input}</i></div>
                 )}
-
                 {!showSuggestion && activeSug === "e" && ptBRExtendedE && ptBRExtendedE.length > 0 ? (
                   ptBRExtendedE.map((entry, index) => (
                     <div key={index}>{entry}</div>

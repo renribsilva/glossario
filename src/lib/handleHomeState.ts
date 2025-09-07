@@ -110,7 +110,7 @@ export function handleHomeState() {
   useEffect(() => {
     const fetchData = async () => {
       const result = await fetchPTExtended("orla", "e", false);
-      console.log(result);
+      // console.log(result);
       return result;
     };
     fetchData();
@@ -133,32 +133,32 @@ export function handleHomeState() {
           setMethod("e");
           setActiveSug("e");
         }
-        setShowSuggestion(false);
         const ptBRDataS = await fetchPTExtended(input, method, true);
         const ptBRDataC = await fetchPTExtended(input, method, true);
         const ptBRDataE = await fetchPTExtended(input, method, true);
         setptBRExtendedS(ptBRDataS);
         setptBRExtendedC(ptBRDataC);
         setptBRExtendedE(ptBRDataE);
+        setShowSuggestion(false);
       } else if (input !== undefined){
         if (method === null) {
           setMethod("e");
           setActiveSug("e");
         }
-        setShowSuggestion(false);
         const ptBRDataS = await fetchPTExtended(input, method, false);
         const ptBRDataC = await fetchPTExtended(input, method, false);
         const ptBRDataE = await fetchPTExtended(input, method, false);
         setptBRExtendedS(ptBRDataS);
         setptBRExtendedC(ptBRDataC);
         setptBRExtendedE(ptBRDataE);
+        setShowSuggestion(false);
       }
-      if(input === undefined) {
+      if(input === undefined || ni(input) !== ni(inputNorm)) {
         setShowSuggestion(true);
       }
     }, 400);
     return () => clearTimeout(timer);
-  }, [input, method]);
+  }, [input, method, inputNorm]);
 
   useEffect(() => {
 
