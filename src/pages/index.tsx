@@ -9,7 +9,6 @@ export default function HomePage() {
     categories,
     classes,
     methods,
-    method,
     input,
     flags,
     showGlosaDef,
@@ -29,7 +28,7 @@ export default function HomePage() {
     isSugDisabled,
     activeSug,
     activeFlag,
-    flagGroup,
+    silaba,
     handleInputChange,
     handleKeyDown,
     handleAnalogClick,
@@ -44,65 +43,76 @@ export default function HomePage() {
     <section className={styles.home}>
       <section className={styles.home_left}>
         <div className={styles.textarea_container}>
-          <textarea
-            className={styles.textarea}
-            onChange={handleInputChange}
-            onKeyDown={handleKeyDown}
-            placeholder="Digite o texto..."
-          />
-          <div className={styles.flag_button}>
-            {flags.map((item, index) => (
-              <button 
-                key={item}
-                className={`${styles.flag_button_child} ${activeFlag === item ? styles.active : styles.inactive}`}
-                onClick={() => handleFlagsClick(item)}
-                title={item}
-                disabled={isSugDisabled}
-              >
-                {String(index+1)}
-              </button>
-            ))}
+          <div className={styles.textarea_container_first}>
+            <div className={styles.silaba}>
+              {silaba && (
+                <div>{silaba}</div>
+              )}
+            </div>
+            <div>
+              <textarea
+                  className={styles.textarea}
+                  onChange={handleInputChange}
+                  onKeyDown={handleKeyDown}
+                  placeholder="Digite o texto..."
+                />
+            </div>
           </div>
-          <div className={styles.suggestions}>
-            <div className={styles.suggestions_button}>
-              {methods.map((item: "s" | "c" | "e") => (
+          <div className={styles.textarea_container_second}>
+            <div className={styles.flag_button}>
+              {flags.map((item, index) => (
                 <button 
                   key={item}
-                  className={`${styles.suggestions_button_child} ${activeSug === item ? styles.active : styles.inactive}`}
-                  onClick={() => handleSuggestionClick(item)}
+                  className={`${styles.flag_button_child} ${activeFlag === item ? styles.active : styles.inactive}`}
+                  onClick={() => handleFlagsClick(item)}
                   title={item}
                   disabled={isSugDisabled}
                 >
-                  {item}
+                  {String(index+1)}
                 </button>
               ))}
             </div>
-            <div className={styles.suggestions_list}>
+            <div className={styles.suggestions}>
+              <div className={styles.suggestions_button}>
+                {methods.map((item: "s" | "c" | "e") => (
+                  <button 
+                    key={item}
+                    className={`${styles.suggestions_button_child} ${activeSug === item ? styles.active : styles.inactive}`}
+                    onClick={() => handleSuggestionClick(item)}
+                    title={item}
+                    disabled={isSugDisabled}
+                  >
+                    {item}
+                  </button>
+                ))}
+              </div>
               <div className={styles.suggestions_list}>
-                {inputNorm && inputNorm.length < 3 && (
-                  <div><i>Sugestões para palavras com três letras ou mais</i></div>
-                )}
-                {activeSug === "s" && ptBRExtendedS && ptBRExtendedS.length > 0 ? (
-                  ptBRExtendedS.map((entry, index) => (
-                    <div key={index}>{entry}</div>
-                  ))
-                ) : (activeSug === "s" && (!ptBRExtendedS || ptBRExtendedS.length === 0)) && (
-                  <div>Sem sugestões para palavras que começam com <i>{input}</i></div>
-                )}
-                {activeSug === "c" && ptBRExtendedC && ptBRExtendedC.length > 0 ? (
-                  ptBRExtendedC.map((entry, index) => (
-                    <div key={index}>{entry}</div>
-                  ))
-                ) : (activeSug === "c" && (!ptBRExtendedC || ptBRExtendedC.length === 0)) && (
-                  <div>Sem sugestões para palavras que contêm <i>{input}</i></div>
-                )}
-                {activeSug === "e" && ptBRExtendedE && ptBRExtendedE.length > 0 ? (
-                  ptBRExtendedE.map((entry, index) => (
-                    <div key={index}>{entry}</div>
-                  ))
-                ) : (activeSug === "e" && (!ptBRExtendedE || ptBRExtendedE.length === 0)) && (
-                  <div>Sem sugestões para palavras terminadas em <i>{input}</i></div>
-                )}
+                <div className={styles.suggestions_list}>
+                  {inputNorm && inputNorm.length < 3 && (
+                    <div><i>Sugestões para palavras com três letras ou mais</i></div>
+                  )}
+                  {activeSug === "s" && ptBRExtendedS && ptBRExtendedS.length > 0 ? (
+                    ptBRExtendedS.map((entry, index) => (
+                      <div key={index}>{entry}</div>
+                    ))
+                  ) : (activeSug === "s" && (!ptBRExtendedS || ptBRExtendedS.length === 0)) && (
+                    <div>Sem sugestões para palavras que começam com <i>{input}</i></div>
+                  )}
+                  {activeSug === "c" && ptBRExtendedC && ptBRExtendedC.length > 0 ? (
+                    ptBRExtendedC.map((entry, index) => (
+                      <div key={index}>{entry}</div>
+                    ))
+                  ) : (activeSug === "c" && (!ptBRExtendedC || ptBRExtendedC.length === 0)) && (
+                    <div>Sem sugestões para palavras que contêm <i>{input}</i></div>
+                  )}
+                  {activeSug === "e" && ptBRExtendedE && ptBRExtendedE.length > 0 ? (
+                    ptBRExtendedE.map((entry, index) => (
+                      <div key={index}>{entry}</div>
+                    ))
+                  ) : (activeSug === "e" && (!ptBRExtendedE || ptBRExtendedE.length === 0)) && (
+                    <div>Sem sugestões para palavras terminadas em <i>{input}</i></div>
+                  )}
+                </div>
               </div>
             </div>
           </div>

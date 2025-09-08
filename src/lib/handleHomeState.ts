@@ -4,6 +4,7 @@ import { GlosaEntry, GlosaData, SinData, AnalogData } from "../types";
 import { getGlosaEntries, getGlosaData } from "../lib/getGlosaData";
 import { getAnalogKeyData, getAnalogData } from "../lib/getAnalogData";
 import { getSynonymsKeysData } from "../lib/getSynonymData";
+import { hifenizador } from "./hifenizador";
 
 export function handleHomeState() {
   const [input, setInput] = useState<string | undefined>(undefined);
@@ -27,6 +28,7 @@ export function handleHomeState() {
   const [activeSug, setActiveSug] = useState<string | null>(null);
   const [activeFlag, setActiveFlag] = useState<string | null>(null);
   const [flagGroup, setFlagGroup] = useState<string>("adv_adj_sub_Flags");
+  const [silaba, setSilaba] = useState<string>(null)
 
   const keys = ["exp", "conj", "gram", "def", "dif"];
   const categories = ["sub", "verb", "adj", "adv", "phr"];
@@ -49,6 +51,13 @@ export function handleHomeState() {
     const data = await response.json();
     return data;
   };
+
+  const fetchHifenizador = async (word: string) => {
+    const response = await fetch(`/api/loadHifenizador?word=${encodeURIComponent(word)}`);
+    const data = await response.json();
+    return data;
+  };
+
 
   const handleInputChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
     const fullText = e.target.value;
@@ -163,6 +172,8 @@ export function handleHomeState() {
         setIsSugDisabled(true)
         setActiveSug(null)
       }
+      const silabas = await fetchHifenizador(input)
+      setSilaba(silabas.word.replace(/-/g, "·"))
     }, 400);
     return () => clearTimeout(timer);
   }, [input, method, inputNorm, flagGroup, activeFlag]);
@@ -219,7 +230,7 @@ export function handleHomeState() {
     }, 300);
     return () => clearTimeout(timer);
   }, [inputNorm, input]);
-  
+
   return {
     keys,
     categories,
@@ -246,6 +257,7 @@ export function handleHomeState() {
     activeSug,
     flagGroup,
     activeFlag,
+    silaba,
     handleInputChange,
     handleKeyDown,
     handleAnalogClick,
