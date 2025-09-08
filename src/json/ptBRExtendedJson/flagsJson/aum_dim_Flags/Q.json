@@ -1,0 +1,2868 @@
+{
+  "quadernal": {
+    "R": [
+      "quadernalzinho",
+      "quadernaizinhos"
+    ],
+    "V": [
+      "quadernalzão",
+      "quadernalzões"
+    ]
+  },
+  "quadraçal": {
+    "R": [
+      "quadraçalzinho",
+      "quadraçaizinhos"
+    ],
+    "V": [
+      "quadraçalzão",
+      "quadraçalzões"
+    ]
+  },
+  "quadração": {
+    "Q": [
+      "quadraçãozinha",
+      "quadraçõezinhas"
+    ],
+    "W": [
+      "quadraçona",
+      "quadraçonas"
+    ],
+    "À+Q": [
+      "requadraçãozinha",
+      "requadraçõezinhas"
+    ],
+    "À+W": [
+      "requadraçona",
+      "requadraçonas"
+    ]
+  },
+  "quadragesimal": {
+    "R": [
+      "quadragesimalzinho",
+      "quadragesimaizinhos"
+    ],
+    "V": [
+      "quadragesimalzão",
+      "quadragesimalzões"
+    ]
+  },
+  "quadrangulação": {
+    "Q": [
+      "quadrangulaçãozinha",
+      "quadrangulaçõezinhas"
+    ],
+    "W": [
+      "quadrangulaçona",
+      "quadrangulaçonas"
+    ]
+  },
+  "quadrantal": {
+    "R": [
+      "quadrantalzinho",
+      "quadrantaizinhos"
+    ],
+    "V": [
+      "quadrantalzão",
+      "quadrantalzões"
+    ]
+  },
+  "quadrão": {
+    "R": [
+      "quadrãozinho",
+      "quadrõezinhos"
+    ],
+    "V": [
+      "quadrãozão",
+      "quadrãozões"
+    ]
+  },
+  "quadratriz": {
+    "Q": [
+      "quadratrizinha",
+      "quadratrizezinhas"
+    ]
+  },
+  "quadriaceleração": {
+    "Q": [
+      "quadriaceleraçãozinha",
+      "quadriaceleraçõezinhas"
+    ],
+    "W": [
+      "quadriaceleraçona",
+      "quadriaceleraçonas"
+    ]
+  },
+  "quadricentesimal": {
+    "R": [
+      "quadricentesimalzinho",
+      "quadricentesimaizinhos"
+    ],
+    "V": [
+      "quadricentesimalzão",
+      "quadricentesimalzões"
+    ]
+  },
+  "quadricipital": {
+    "R": [
+      "quadricipitalzinho",
+      "quadricipitaizinhos"
+    ],
+    "V": [
+      "quadricipitalzão",
+      "quadricipitalzões"
+    ]
+  },
+  "quadriconsonantal": {
+    "R": [
+      "quadriconsonantalzinho",
+      "quadriconsonantaizinhos"
+    ],
+    "V": [
+      "quadriconsonantalzão",
+      "quadriconsonantalzões"
+    ]
+  },
+  "quadridecimal": {
+    "R": [
+      "quadridecimalzinho",
+      "quadridecimaizinhos"
+    ],
+    "V": [
+      "quadridecimalzão",
+      "quadridecimalzões"
+    ]
+  },
+  "quadridecioctonal": {
+    "R": [
+      "quadridecioctonalzinho",
+      "quadridecioctonaizinhos"
+    ],
+    "V": [
+      "quadridecioctonalzão",
+      "quadridecioctonalzões"
+    ]
+  },
+  "quadridigital": {
+    "R": [
+      "quadridigitalzinho",
+      "quadridigitaizinhos"
+    ],
+    "V": [
+      "quadridigitalzão",
+      "quadridigitalzões"
+    ]
+  },
+  "quadridimensional": {
+    "R": [
+      "quadridimensionalzinho",
+      "quadridimensionaizinhos"
+    ],
+    "V": [
+      "quadridimensionalzão",
+      "quadridimensionalzões"
+    ]
+  },
+  "quadriduodecimal": {
+    "R": [
+      "quadriduodecimalzinho",
+      "quadriduodecimaizinhos"
+    ],
+    "V": [
+      "quadriduodecimalzão",
+      "quadriduodecimalzões"
+    ]
+  },
+  "quadrienal": {
+    "R": [
+      "quadrienalzinho",
+      "quadrienaizinhos"
+    ],
+    "V": [
+      "quadrienalzão",
+      "quadrienalzões"
+    ]
+  },
+  "quadriexagonal": {
+    "R": [
+      "quadriexagonalzinho",
+      "quadriexagonaizinhos"
+    ],
+    "V": [
+      "quadriexagonalzão",
+      "quadriexagonalzões"
+    ]
+  },
+  "quadrifonte": {
+    "P": [
+      "quadrifontinho",
+      "quadrifontinhos"
+    ]
+  },
+  "quadrifronte": {
+    "P": [
+      "quadrifrontinho",
+      "quadrifrontinhos"
+    ]
+  },
+  "quadrigentesimal": {
+    "R": [
+      "quadrigentesimalzinho",
+      "quadrigentesimaizinhos"
+    ],
+    "V": [
+      "quadrigentesimalzão",
+      "quadrigentesimalzões"
+    ]
+  },
+  "quadril": {
+    "R": [
+      "quadrilzinho",
+      "quadriizinhos"
+    ],
+    "V": [
+      "quadrilzão",
+      "quadrilzões"
+    ]
+  },
+  "quadrilateral": {
+    "R": [
+      "quadrilateralzinho",
+      "quadrilateraizinhos"
+    ],
+    "V": [
+      "quadrilateralzão",
+      "quadrilateralzões"
+    ]
+  },
+  "quadrilhão": {
+    "R": [
+      "quadrilhãozinho",
+      "quadrilhõezinhos"
+    ],
+    "V": [
+      "quadrilhãozão",
+      "quadrilhãozões"
+    ]
+  },
+  "quadrilião": {
+    "R": [
+      "quadriliãozinho",
+      "quadriliõezinhos"
+    ],
+    "V": [
+      "quadriliãozão",
+      "quadriliãozões"
+    ]
+  },
+  "quadrilionesimal": {
+    "R": [
+      "quadrilionesimalzinho",
+      "quadrilionesimaizinhos"
+    ],
+    "V": [
+      "quadrilionesimalzão",
+      "quadrilionesimalzões"
+    ]
+  },
+  "quadriliteral": {
+    "R": [
+      "quadriliteralzinho",
+      "quadriliteraizinhos"
+    ],
+    "V": [
+      "quadriliteralzão",
+      "quadriliteralzões"
+    ]
+  },
+  "quadrimensional": {
+    "R": [
+      "quadrimensionalzinho",
+      "quadrimensionaizinhos"
+    ],
+    "V": [
+      "quadrimensionalzão",
+      "quadrimensionalzões"
+    ]
+  },
+  "quadrimestral": {
+    "R": [
+      "quadrimestralzinho",
+      "quadrimestraizinhos"
+    ],
+    "V": [
+      "quadrimestralzão",
+      "quadrimestralzões"
+    ]
+  },
+  "quadrimotor": {
+    "R": [
+      "quadrimotorezinhos",
+      "quadrimotorzinho"
+    ]
+  },
+  "quadringentesimal": {
+    "R": [
+      "quadringentesimalzinho",
+      "quadringentesimaizinhos"
+    ],
+    "V": [
+      "quadringentesimalzão",
+      "quadringentesimalzões"
+    ]
+  },
+  "quadrinização": {
+    "Q": [
+      "quadrinizaçãozinha",
+      "quadrinizaçõezinhas"
+    ],
+    "W": [
+      "quadrinizaçona",
+      "quadrinizaçonas"
+    ]
+  },
+  "quadrinomial": {
+    "R": [
+      "quadrinomialzinho",
+      "quadrinomiaizinhos"
+    ],
+    "V": [
+      "quadrinomialzão",
+      "quadrinomialzões"
+    ]
+  },
+  "quadrioctogonal": {
+    "R": [
+      "quadrioctogonalzinho",
+      "quadrioctogonaizinhos"
+    ],
+    "V": [
+      "quadrioctogonalzão",
+      "quadrioctogonalzões"
+    ]
+  },
+  "quadripartição": {
+    "Q": [
+      "quadripartiçãozinha",
+      "quadripartiçõezinhas"
+    ],
+    "W": [
+      "quadripartiçona",
+      "quadripartiçonas"
+    ]
+  },
+  "quadripartite": {
+    "P": [
+      "quadripartitinho",
+      "quadripartitinhos"
+    ]
+  },
+  "quadripolar": {
+    "R": [
+      "quadripolarezinhos",
+      "quadripolarzinho"
+    ]
+  },
+  "quadriposição": {
+    "Q": [
+      "quadriposiçãozinha",
+      "quadriposiçõezinhas"
+    ],
+    "W": [
+      "quadriposiçona",
+      "quadriposiçonas"
+    ]
+  },
+  "quadripotencial": {
+    "R": [
+      "quadripotencialzinho",
+      "quadripotenciaizinhos"
+    ],
+    "V": [
+      "quadripotencialzão",
+      "quadripotencialzões"
+    ]
+  },
+  "quadrirreator": {
+    "R": [
+      "quadrirreatorezinhos",
+      "quadrirreatorzinho"
+    ]
+  },
+  "quadrissacramental": {
+    "R": [
+      "quadrissacramentalzinho",
+      "quadrissacramentaizinhos"
+    ],
+    "V": [
+      "quadrissacramentalzão",
+      "quadrissacramentalzões"
+    ]
+  },
+  "quadrissecular": {
+    "R": [
+      "quadrissecularezinhos",
+      "quadrissecularzinho"
+    ]
+  },
+  "quadrissemanal": {
+    "R": [
+      "quadrissemanalzinho",
+      "quadrissemanaizinhos"
+    ],
+    "V": [
+      "quadrissemanalzão",
+      "quadrissemanalzões"
+    ]
+  },
+  "quadritubercular": {
+    "R": [
+      "quadritubercularezinhos",
+      "quadritubercularzinho"
+    ]
+  },
+  "quadrivalente": {
+    "P": [
+      "quadrivalentinho",
+      "quadrivalentinhos"
+    ]
+  },
+  "quadrivalvular": {
+    "R": [
+      "quadrivalvularezinhos",
+      "quadrivalvularzinho"
+    ]
+  },
+  "quadrivector": {
+    "R": [
+      "quadrivectorezinhos",
+      "quadrivectorzinho"
+    ]
+  },
+  "quadrivetor": {
+    "R": [
+      "quadrivetorezinhos",
+      "quadrivetorzinho"
+    ]
+  },
+  "quadros": {
+    "O": [
+      "quadrinha",
+      "quadrinhas"
+    ],
+    "P": [
+      "quadrinho",
+      "quadrinhos"
+    ],
+    "À+O": [
+      "requadrinha",
+      "requadrinhas"
+    ],
+    "À+P": [
+      "requadrinho",
+      "requadrinhos"
+    ]
+  },
+  "quadrunviral": {
+    "R": [
+      "quadrunviralzinho",
+      "quadrunviraizinhos"
+    ],
+    "V": [
+      "quadrunviralzão",
+      "quadrunviralzões"
+    ]
+  },
+  "quadrupedal": {
+    "R": [
+      "quadrupedalzinho",
+      "quadrupedaizinhos"
+    ],
+    "V": [
+      "quadrupedalzão",
+      "quadrupedalzões"
+    ]
+  },
+  "quadruplete": {
+    "P": [
+      "quadrupletinho",
+      "quadrupletinhos"
+    ]
+  },
+  "quadruplicação": {
+    "Q": [
+      "quadruplicaçãozinha",
+      "quadruplicaçõezinhas"
+    ],
+    "W": [
+      "quadruplicaçona",
+      "quadruplicaçonas"
+    ]
+  },
+  "qualificação": {
+    "Q": [
+      "qualificaçãozinha",
+      "qualificaçõezinhas"
+    ],
+    "W": [
+      "qualificaçona",
+      "qualificaçonas"
+    ],
+    "À+Q": [
+      "requalificaçãozinha",
+      "requalificaçõezinhas"
+    ],
+    "Â+Q": [
+      "desqualificaçãozinha",
+      "desqualificaçõezinhas"
+    ],
+    "ú+Q": [
+      "pré-qualificaçãozinha",
+      "pré-qualificaçõezinhas"
+    ],
+    "À+W": [
+      "requalificaçona",
+      "requalificaçonas"
+    ],
+    "Â+W": [
+      "desqualificaçona",
+      "desqualificaçonas"
+    ],
+    "ú+W": [
+      "pré-qualificaçona",
+      "pré-qualificaçonas"
+    ]
+  },
+  "quamoclite": {
+    "P": [
+      "quamoclitinho",
+      "quamoclitinhos"
+    ]
+  },
+  "quantificação": {
+    "Q": [
+      "quantificaçãozinha",
+      "quantificaçõezinhas"
+    ],
+    "W": [
+      "quantificaçona",
+      "quantificaçonas"
+    ]
+  },
+  "quantil": {
+    "R": [
+      "quantilzinho",
+      "quantiizinhos"
+    ],
+    "V": [
+      "quantilzão",
+      "quantilzões"
+    ]
+  },
+  "quantioso": {
+    "O": [
+      "quantiosinha",
+      "quantiosinhas"
+    ],
+    "P": [
+      "quantiosinho",
+      "quantiosinhos"
+    ]
+  },
+  "quantização": {
+    "Q": [
+      "quantizaçãozinha",
+      "quantizaçõezinhas"
+    ],
+    "W": [
+      "quantizaçona",
+      "quantizaçonas"
+    ]
+  },
+  "quarçoso": {
+    "O": [
+      "quarçosinha",
+      "quarçosinhas"
+    ],
+    "P": [
+      "quarçosinho",
+      "quarçosinhos"
+    ]
+  },
+  "quarentão": {
+    "R": [
+      "quarentãozinho",
+      "quarentõezinhos"
+    ],
+    "V": [
+      "quarentãozão",
+      "quarentãozões"
+    ]
+  },
+  "quaresmal": {
+    "R": [
+      "quaresmalzinho",
+      "quaresmaizinhos"
+    ],
+    "V": [
+      "quaresmalzão",
+      "quaresmalzões"
+    ]
+  },
+  "quariate": {
+    "P": [
+      "quariatinho",
+      "quariatinhos"
+    ]
+  },
+  "quartação": {
+    "Q": [
+      "quartaçãozinha",
+      "quartaçõezinhas"
+    ],
+    "W": [
+      "quartaçona",
+      "quartaçonas"
+    ],
+    "Ä+Q": [
+      "inquartaçãozinha",
+      "inquartaçõezinhas"
+    ],
+    "Ä+W": [
+      "inquartaçona",
+      "inquartaçonas"
+    ]
+  },
+  "quartal": {
+    "R": [
+      "quartalzinho",
+      "quartaizinhos"
+    ],
+    "V": [
+      "quartalzão",
+      "quartalzões"
+    ]
+  },
+  "quartaludo": {
+    "O": [
+      "quartaludinha",
+      "quartaludinhas"
+    ],
+    "P": [
+      "quartaludinho",
+      "quartaludinhos"
+    ]
+  },
+  "quartão": {
+    "R": [
+      "quartãozinho",
+      "quartõezinhos"
+    ],
+    "V": [
+      "quartãozão",
+      "quartãozões"
+    ]
+  },
+  "quarteirão": {
+    "R": [
+      "quarteirãozinho",
+      "quarteirõezinhos"
+    ],
+    "V": [
+      "quarteirãozão",
+      "quarteirãozões"
+    ]
+  },
+  "quartel": {
+    "R": [
+      "quartelzinho",
+      "quarteizinhos"
+    ],
+    "Ó+R": [
+      "contraquartelzinho",
+      "contraquarteizinhos"
+    ]
+  },
+  "quarteludo": {
+    "O": [
+      "quarteludinha",
+      "quarteludinhas"
+    ],
+    "P": [
+      "quarteludinho",
+      "quarteludinhos"
+    ]
+  },
+  "quartil": {
+    "R": [
+      "quartilzinho",
+      "quartiizinhos"
+    ],
+    "V": [
+      "quartilzão",
+      "quartilzões"
+    ],
+    "Í+R": [
+      "interquartilzinho",
+      "interquartiizinhos"
+    ],
+    "Ü+R": [
+      "semiquartilzinho",
+      "semiquartiizinhos"
+    ],
+    "Í+V": [
+      "interquartilzão",
+      "interquartilzões"
+    ],
+    "Ü+V": [
+      "semiquartilzão",
+      "semiquartilzões"
+    ]
+  },
+  "quartos": {
+    "O": [
+      "quartinha",
+      "quartinhas"
+    ],
+    "P": [
+      "quartinho",
+      "quartinhos"
+    ]
+  },
+  "quartudo": {
+    "O": [
+      "quartudinha",
+      "quartudinhas"
+    ],
+    "P": [
+      "quartudinho",
+      "quartudinhos"
+    ]
+  },
+  "quartzoso": {
+    "O": [
+      "quartzosinha",
+      "quartzosinhas"
+    ],
+    "P": [
+      "quartzosinho",
+      "quartzosinhos"
+    ]
+  },
+  "quasa": {
+    "O": [
+      "quasinha",
+      "quasinhas"
+    ]
+  },
+  "quasar": {
+    "R": [
+      "quasarezinhos",
+      "quasarzinho"
+    ],
+    "û+R": [
+      "microquasarezinhos",
+      "microquasarzinho"
+    ]
+  },
+  "quasimodal": {
+    "R": [
+      "quasimodalzinho",
+      "quasimodaizinhos"
+    ],
+    "V": [
+      "quasimodalzão",
+      "quasimodalzões"
+    ]
+  },
+  "quassação": {
+    "Q": [
+      "quassaçãozinha",
+      "quassaçõezinhas"
+    ],
+    "W": [
+      "quassaçona",
+      "quassaçonas"
+    ]
+  },
+  "quassite": {
+    "P": [
+      "quassitinho",
+      "quassitinhos"
+    ]
+  },
+  "quaternião": {
+    "R": [
+      "quaterniãozinho",
+      "quaterniõezinhos"
+    ],
+    "V": [
+      "quaterniãozão",
+      "quaterniãozões"
+    ]
+  },
+  "quaternização": {
+    "Q": [
+      "quaternizaçãozinha",
+      "quaternizaçõezinhas"
+    ],
+    "W": [
+      "quaternizaçona",
+      "quaternizaçonas"
+    ]
+  },
+  "quatiara": {
+    "O": [
+      "quatiarinha",
+      "quatiarinhas"
+    ],
+    "W": [
+      "quatiarona",
+      "quatiaronas"
+    ]
+  },
+  "quatrienal": {
+    "R": [
+      "quatrienalzinho",
+      "quatrienaizinhos"
+    ],
+    "V": [
+      "quatrienalzão",
+      "quatrienalzões"
+    ]
+  },
+  "quatrilhão": {
+    "R": [
+      "quatrilhãozinho",
+      "quatrilhõezinhos"
+    ],
+    "V": [
+      "quatrilhãozão",
+      "quatrilhãozões"
+    ]
+  },
+  "quatrilião": {
+    "R": [
+      "quatriliãozinho",
+      "quatriliõezinhos"
+    ],
+    "V": [
+      "quatriliãozão",
+      "quatriliãozões"
+    ]
+  },
+  "quatrilionesimal": {
+    "R": [
+      "quatrilionesimalzinho",
+      "quatrilionesimaizinhos"
+    ],
+    "V": [
+      "quatrilionesimalzão",
+      "quatrilionesimalzões"
+    ]
+  },
+  "quatrissecular": {
+    "R": [
+      "quatrissecularezinhos",
+      "quatrissecularzinho"
+    ]
+  },
+  "quatuordecilhão": {
+    "R": [
+      "quatuordecilhãozinho",
+      "quatuordecilhõezinhos"
+    ],
+    "V": [
+      "quatuordecilhãozão",
+      "quatuordecilhãozões"
+    ]
+  },
+  "quatuordecilião": {
+    "R": [
+      "quatuordeciliãozinho",
+      "quatuordeciliõezinhos"
+    ],
+    "V": [
+      "quatuordeciliãozão",
+      "quatuordeciliãozões"
+    ]
+  },
+  "quatuorviral": {
+    "R": [
+      "quatuorviralzinho",
+      "quatuorviraizinhos"
+    ],
+    "V": [
+      "quatuorviralzão",
+      "quatuorviralzões"
+    ]
+  },
+  "quazolaste": {
+    "P": [
+      "quazolastinho",
+      "quazolastinhos"
+    ]
+  },
+  "quebra-anzol": {
+    "R": [
+      "quebra-anzolzinho",
+      "quebra-anzoizinhos"
+    ]
+  },
+  "quebra-facão": {
+    "R": [
+      "quebra-facãozinho",
+      "quebra-facõezinhos"
+    ],
+    "V": [
+      "quebra-facãozão",
+      "quebra-facãozões"
+    ]
+  },
+  "quebra-mar": {
+    "R": [
+      "quebra-marezinhos",
+      "quebra-marzinho"
+    ]
+  },
+  "quebra-pote": {
+    "P": [
+      "quebra-potinho",
+      "quebra-potinhos"
+    ]
+  },
+  "quebração": {
+    "Q": [
+      "quebraçãozinha",
+      "quebraçõezinhas"
+    ],
+    "W": [
+      "quebraçona",
+      "quebraçonas"
+    ]
+  },
+  "quebrachal": {
+    "R": [
+      "quebrachalzinho",
+      "quebrachaizinhos"
+    ],
+    "V": [
+      "quebrachalzão",
+      "quebrachalzões"
+    ]
+  },
+  "quebrachite": {
+    "P": [
+      "quebrachitinho",
+      "quebrachitinhos"
+    ]
+  },
+  "quebrachitol": {
+    "R": [
+      "quebrachitolzinho",
+      "quebrachitoizinhos"
+    ],
+    "V": [
+      "quebrachitolzão",
+      "quebrachitolzões"
+    ]
+  },
+  "quebrançoso": {
+    "O": [
+      "quebrançosinha",
+      "quebrançosinhas"
+    ],
+    "P": [
+      "quebrançosinho",
+      "quebrançosinhos"
+    ]
+  },
+  "quebrantação": {
+    "Q": [
+      "quebrantaçãozinha",
+      "quebrantaçõezinhas"
+    ],
+    "W": [
+      "quebrantaçona",
+      "quebrantaçonas"
+    ]
+  },
+  "quedival": {
+    "R": [
+      "quedivalzinho",
+      "quedivaizinhos"
+    ],
+    "V": [
+      "quedivalzão",
+      "quedivalzões"
+    ]
+  },
+  "quedos": {
+    "6": [
+      "quedão",
+      "quedões"
+    ],
+    "O": [
+      "quedinha",
+      "quedinhas"
+    ],
+    "P": [
+      "quedinho",
+      "quedinhos"
+    ],
+    "W": [
+      "quedona",
+      "quedonas"
+    ]
+  },
+  "quefazer": {
+    "R": [
+      "quefazerezinhos",
+      "quefazerzinho"
+    ]
+  },
+  "queijos": {
+    "P": [
+      "queijinho",
+      "queijinhos"
+    ]
+  },
+  "queijoso": {
+    "O": [
+      "queijosinha",
+      "queijosinhas"
+    ],
+    "P": [
+      "queijosinho",
+      "queijosinhos"
+    ]
+  },
+  "queilante": {
+    "P": [
+      "queilantinho",
+      "queilantinhos"
+    ]
+  },
+  "queilite": {
+    "P": [
+      "queilitinho",
+      "queilitinhos"
+    ]
+  },
+  "queimação": {
+    "Q": [
+      "queimaçãozinha",
+      "queimaçõezinhas"
+    ],
+    "W": [
+      "queimaçona",
+      "queimaçonas"
+    ],
+    "À+Q": [
+      "requeimaçãozinha",
+      "requeimaçõezinhas"
+    ],
+    "À+W": [
+      "requeimaçona",
+      "requeimaçonas"
+    ]
+  },
+  "queimor": {
+    "R": [
+      "queimorezinhos",
+      "queimorzinho"
+    ]
+  },
+  "queimoso": {
+    "O": [
+      "queimosinha",
+      "queimosinhas"
+    ],
+    "P": [
+      "queimosinho",
+      "queimosinhos"
+    ]
+  },
+  "queixal": {
+    "R": [
+      "queixalzinho",
+      "queixaizinhos"
+    ],
+    "V": [
+      "queixalzão",
+      "queixalzões"
+    ]
+  },
+  "queixoso": {
+    "O": [
+      "queixosinha",
+      "queixosinhas"
+    ],
+    "P": [
+      "queixosinho",
+      "queixosinhos"
+    ]
+  },
+  "queixudo": {
+    "O": [
+      "queixudinha",
+      "queixudinhas"
+    ],
+    "P": [
+      "queixudinho",
+      "queixudinhos"
+    ]
+  },
+  "quelação": {
+    "Q": [
+      "quelaçãozinha",
+      "quelaçõezinhas"
+    ],
+    "W": [
+      "quelaçona",
+      "quelaçonas"
+    ]
+  },
+  "quelbincite": {
+    "O": [
+      "quelbincitinha",
+      "quelbincitinhas"
+    ],
+    "P": [
+      "quelbincitinho",
+      "quelbincitinhos"
+    ]
+  },
+  "queliceral": {
+    "R": [
+      "queliceralzinho",
+      "queliceraizinhos"
+    ],
+    "V": [
+      "queliceralzão",
+      "queliceralzões"
+    ]
+  },
+  "quelidão": {
+    "R": [
+      "quelidãozinho",
+      "quelidõezinhos"
+    ],
+    "V": [
+      "quelidãozão",
+      "quelidãozões"
+    ]
+  },
+  "quelmão": {
+    "R": [
+      "quelmãozinho",
+      "quelmõezinhos"
+    ],
+    "V": [
+      "quelmãozão",
+      "quelmãozões"
+    ]
+  },
+  "quelodonte": {
+    "P": [
+      "quelodontinho",
+      "quelodontinhos"
+    ]
+  },
+  "queloidal": {
+    "R": [
+      "queloidalzinho",
+      "queloidaizinhos"
+    ],
+    "V": [
+      "queloidalzão",
+      "queloidalzões"
+    ]
+  },
+  "quelonite": {
+    "O": [
+      "quelonitinha",
+      "quelonitinhas"
+    ],
+    "P": [
+      "quelonitinho",
+      "quelonitinhos"
+    ]
+  },
+  "quelote": {
+    "P": [
+      "quelotinho",
+      "quelotinhos"
+    ]
+  },
+  "quempferol": {
+    "R": [
+      "quempferolzinho",
+      "quempferoizinhos"
+    ],
+    "V": [
+      "quempferolzão",
+      "quempferolzões"
+    ]
+  },
+  "quenebelite": {
+    "O": [
+      "quenebelitinha",
+      "quenebelitinhas"
+    ],
+    "P": [
+      "quenebelitinho",
+      "quenebelitinhos"
+    ]
+  },
+  "quenevixite": {
+    "O": [
+      "quenevixitinha",
+      "quenevixitinhas"
+    ],
+    "P": [
+      "quenevixitinho",
+      "quenevixitinhos"
+    ]
+  },
+  "quengotite": {
+    "O": [
+      "quengotitinha",
+      "quengotitinhas"
+    ],
+    "P": [
+      "quengotitinho",
+      "quengotitinhos"
+    ]
+  },
+  "quenlite": {
+    "O": [
+      "quenlitinha",
+      "quenlitinhas"
+    ],
+    "P": [
+      "quenlitinho",
+      "quenlitinhos"
+    ]
+  },
+  "quenocoprolite": {
+    "P": [
+      "quenocoprolitinho",
+      "quenocoprolitinhos"
+    ]
+  },
+  "quenopodial": {
+    "R": [
+      "quenopodialzinho",
+      "quenopodiaizinhos"
+    ],
+    "V": [
+      "quenopodialzão",
+      "quenopodialzões"
+    ]
+  },
+  "quenstedtite": {
+    "O": [
+      "quenstedtitinha",
+      "quenstedtitinhas"
+    ],
+    "P": [
+      "quenstedtitinho",
+      "quenstedtitinhos"
+    ]
+  },
+  "quentão": {
+    "R": [
+      "quentãozinho",
+      "quentõezinhos"
+    ],
+    "V": [
+      "quentãozão",
+      "quentãozões"
+    ],
+    "À+R": [
+      "requentãozinho",
+      "requentõezinhos"
+    ],
+    "À+V": [
+      "requentãozão",
+      "requentãozões"
+    ]
+  },
+  "quepiquiriuate": {
+    "P": [
+      "quepiquiriuatinho",
+      "quepiquiriuatinhos"
+    ]
+  },
+  "quepquiriuate": {
+    "P": [
+      "quepquiriuatinho",
+      "quepquiriuatinhos"
+    ]
+  },
+  "querafiloso": {
+    "O": [
+      "querafilosinha",
+      "querafilosinhas"
+    ],
+    "P": [
+      "querafilosinho",
+      "querafilosinhos"
+    ]
+  },
+  "queratinização": {
+    "Q": [
+      "queratinizaçãozinha",
+      "queratinizaçõezinhas"
+    ],
+    "W": [
+      "queratinizaçona",
+      "queratinizaçonas"
+    ]
+  },
+  "queratinoso": {
+    "O": [
+      "queratinosinha",
+      "queratinosinhas"
+    ],
+    "P": [
+      "queratinosinho",
+      "queratinosinhos"
+    ]
+  },
+  "queratite": {
+    "P": [
+      "queratitinho",
+      "queratitinhos"
+    ]
+  },
+  "queratoconjuntivite": {
+    "P": [
+      "queratoconjuntivitinho",
+      "queratoconjuntivitinhos"
+    ]
+  },
+  "queratodermatite": {
+    "P": [
+      "queratodermatitinho",
+      "queratodermatitinhos"
+    ]
+  },
+  "queratofolhoso": {
+    "O": [
+      "queratofolhosinha",
+      "queratofolhosinhas"
+    ],
+    "P": [
+      "queratofolhosinho",
+      "queratofolhosinhos"
+    ]
+  },
+  "queratosclerite": {
+    "P": [
+      "queratoscleritinho",
+      "queratoscleritinhos"
+    ]
+  },
+  "queratoso": {
+    "O": [
+      "queratosinha",
+      "queratosinhas"
+    ],
+    "P": [
+      "queratosinho",
+      "queratosinhos"
+    ]
+  },
+  "quercinês": {
+    "O": [
+      "quercinesinha",
+      "quercinesinhas"
+    ],
+    "P": [
+      "quercinesinho",
+      "quercinesezinhos"
+    ]
+  },
+  "quercite": {
+    "O": [
+      "quercitinha",
+      "quercitinhas"
+    ],
+    "P": [
+      "quercitinho",
+      "quercitinhos"
+    ]
+  },
+  "quercitol": {
+    "R": [
+      "quercitolzinho",
+      "quercitoizinhos"
+    ],
+    "V": [
+      "quercitolzão",
+      "quercitolzões"
+    ]
+  },
+  "quercoso": {
+    "O": [
+      "quercosinha",
+      "quercosinhas"
+    ],
+    "P": [
+      "quercosinho",
+      "quercosinhos"
+    ]
+  },
+  "quereloso": {
+    "O": [
+      "querelosinha",
+      "querelosinhas"
+    ],
+    "P": [
+      "querelosinho",
+      "querelosinhos"
+    ]
+  },
+  "querençoso": {
+    "O": [
+      "querençosinha",
+      "querençosinhas"
+    ],
+    "P": [
+      "querençosinho",
+      "querençosinhos"
+    ]
+  },
+  "querençudo": {
+    "O": [
+      "querençudinha",
+      "querençudinhas"
+    ],
+    "P": [
+      "querençudinho",
+      "querençudinhos"
+    ]
+  },
+  "querimônia": {
+    "S": [
+      "querimoniazinha",
+      "querimoniazinhas"
+    ]
+  },
+  "querinte": {
+    "P": [
+      "querintinho",
+      "querintinhos"
+    ]
+  },
+  "querite": {
+    "P": [
+      "queritinho",
+      "queritinhos"
+    ]
+  },
+  "quernite": {
+    "P": [
+      "quernitinho",
+      "quernitinhos"
+    ]
+  },
+  "querodão": {
+    "R": [
+      "querodãozinho",
+      "querodõezinhos"
+    ],
+    "V": [
+      "querodãozão",
+      "querodãozões"
+    ]
+  },
+  "querudo": {
+    "O": [
+      "querudinha",
+      "querudinhas"
+    ],
+    "P": [
+      "querudinho",
+      "querudinhos"
+    ]
+  },
+  "quesal": {
+    "R": [
+      "quesalzinho",
+      "quesaizinhos"
+    ],
+    "V": [
+      "quesalzão",
+      "quesalzões"
+    ]
+  },
+  "quesitor": {
+    "R": [
+      "quesitorezinhos",
+      "quesitorzinho"
+    ]
+  },
+  "questão": {
+    "R": [
+      "questãozinho",
+      "questõezinhos"
+    ],
+    "V": [
+      "questãozão",
+      "questãozões"
+    ],
+    "È+R": [
+      "subquestãozinho",
+      "subquestõezinhos"
+    ],
+    "È+V": [
+      "subquestãozão",
+      "subquestãozões"
+    ]
+  },
+  "questionação": {
+    "Q": [
+      "questionaçãozinha",
+      "questionaçõezinhas"
+    ],
+    "W": [
+      "questionaçona",
+      "questionaçonas"
+    ]
+  },
+  "questor": {
+    "R": [
+      "questorezinhos",
+      "questorzinho"
+    ],
+    "Û+R": [
+      "proquestorezinhos",
+      "proquestorzinho"
+    ]
+  },
+  "questuoso": {
+    "O": [
+      "questuosinha",
+      "questuosinhas"
+    ],
+    "P": [
+      "questuosinho",
+      "questuosinhos"
+    ]
+  },
+  "quetador": {
+    "R": [
+      "quetadorezinhos",
+      "quetadorzinho"
+    ]
+  },
+  "quetçal": {
+    "R": [
+      "quetçalzinho",
+      "quetçaizinhos"
+    ],
+    "V": [
+      "quetçalzão",
+      "quetçalzões"
+    ]
+  },
+  "quete": {
+    "P": [
+      "quetinho",
+      "quetinhos"
+    ],
+    "ë+P": [
+      "posquetinho",
+      "posquetinhos"
+    ],
+    "Ñ+P": [
+      "coquetinho",
+      "coquetinhos"
+    ]
+  },
+  "quetenite": {
+    "P": [
+      "quetenitinho",
+      "quetenitinhos"
+    ]
+  },
+  "quetodonte": {
+    "P": [
+      "quetodontinho",
+      "quetodontinhos"
+    ]
+  },
+  "quetoforal": {
+    "R": [
+      "quetoforalzinho",
+      "quetoforaizinhos"
+    ],
+    "V": [
+      "quetoforalzão",
+      "quetoforalzões"
+    ]
+  },
+  "quetonial": {
+    "R": [
+      "quetonialzinho",
+      "quetoniaizinhos"
+    ],
+    "V": [
+      "quetonialzão",
+      "quetonialzões"
+    ]
+  },
+  "quetopelte": {
+    "P": [
+      "quetopeltinho",
+      "quetopeltinhos"
+    ]
+  },
+  "quetornite": {
+    "P": [
+      "quetornitinho",
+      "quetornitinhos"
+    ]
+  },
+  "quetote": {
+    "P": [
+      "quetotinho",
+      "quetotinhos"
+    ]
+  },
+  "quetzal": {
+    "R": [
+      "quetzalzinho",
+      "quetzaizinhos"
+    ],
+    "V": [
+      "quetzalzão",
+      "quetzalzões"
+    ]
+  },
+  "quevel": {
+    "R": [
+      "quevelzinho",
+      "queveizinhos"
+    ],
+    "V": [
+      "quevelzão",
+      "quevelzões"
+    ]
+  },
+  "quiasmodonte": {
+    "P": [
+      "quiasmodontinho",
+      "quiasmodontinhos"
+    ]
+  },
+  "quiastolite": {
+    "O": [
+      "quiastolitinha",
+      "quiastolitinhas"
+    ],
+    "P": [
+      "quiastolitinho",
+      "quiastolitinhos"
+    ]
+  },
+  "quiçal": {
+    "R": [
+      "quiçalzinho",
+      "quiçaizinhos"
+    ],
+    "V": [
+      "quiçalzão",
+      "quiçalzões"
+    ]
+  },
+  "quienol": {
+    "R": [
+      "quienolzinho",
+      "quienoizinhos"
+    ],
+    "V": [
+      "quienolzão",
+      "quienolzões"
+    ]
+  },
+  "quiescente": {
+    "P": [
+      "quiescentinho",
+      "quiescentinhos"
+    ],
+    "ò+P": [
+      "aquiescentinho",
+      "aquiescentinhos"
+    ]
+  },
+  "quietação": {
+    "Q": [
+      "quietaçãozinha",
+      "quietaçõezinhas"
+    ],
+    "W": [
+      "quietaçona",
+      "quietaçonas"
+    ],
+    "Â+Q": [
+      "desquietaçãozinha",
+      "desquietaçõezinhas"
+    ],
+    "Ä+Q": [
+      "inquietaçãozinha",
+      "inquietaçõezinhas"
+    ],
+    "ò+Q": [
+      "aquietaçãozinha",
+      "aquietaçõezinhas"
+    ],
+    "Â+W": [
+      "desquietaçona",
+      "desquietaçonas"
+    ],
+    "Ä+W": [
+      "inquietaçona",
+      "inquietaçonas"
+    ],
+    "ò+W": [
+      "aquietaçona",
+      "aquietaçonas"
+    ]
+  },
+  "quietos": {
+    "O": [
+      "quietinha",
+      "quietinhas"
+    ],
+    "P": [
+      "quietinho",
+      "quietinhos"
+    ],
+    "Ä+O": [
+      "inquietinha",
+      "inquietinhas"
+    ],
+    "Ä+P": [
+      "inquietinho",
+      "inquietinhos"
+    ]
+  },
+  "quil": {
+    "R": [
+      "quilzinho",
+      "quiizinhos"
+    ],
+    "V": [
+      "quilzão",
+      "quilzões"
+    ]
+  },
+  "quilante": {
+    "P": [
+      "quilantinho",
+      "quilantinhos"
+    ]
+  },
+  "quilatação": {
+    "Q": [
+      "quilataçãozinha",
+      "quilataçõezinhas"
+    ],
+    "W": [
+      "quilataçona",
+      "quilataçonas"
+    ],
+    "ò+Q": [
+      "aquilataçãozinha",
+      "aquilataçõezinhas"
+    ],
+    "ò+W": [
+      "aquilataçona",
+      "aquilataçonas"
+    ]
+  },
+  "quilbriquenite": {
+    "O": [
+      "quilbriquenitinha",
+      "quilbriquenitinhas"
+    ],
+    "P": [
+      "quilbriquenitinho",
+      "quilbriquenitinhos"
+    ]
+  },
+  "quiliagonal": {
+    "R": [
+      "quiliagonalzinho",
+      "quiliagonaizinhos"
+    ],
+    "V": [
+      "quiliagonalzão",
+      "quiliagonalzões"
+    ]
+  },
+  "quilificação": {
+    "Q": [
+      "quilificaçãozinha",
+      "quilificaçõezinhas"
+    ],
+    "W": [
+      "quilificaçona",
+      "quilificaçonas"
+    ]
+  },
+  "quilite": {
+    "P": [
+      "quilitinho",
+      "quilitinhos"
+    ]
+  },
+  "quilo": {
+    "P": [
+      "quilinho",
+      "quilinhos"
+    ],
+    "ò+P": [
+      "aquilinho",
+      "aquilinhos"
+    ],
+    "Û+P": [
+      "proquilinho",
+      "proquilinhos"
+    ]
+  },
+  "quilobaite": {
+    "P": [
+      "quilobaitinho",
+      "quilobaitinhos"
+    ]
+  },
+  "quilobar": {
+    "R": [
+      "quilobarezinhos",
+      "quilobarzinho"
+    ]
+  },
+  "quilobite": {
+    "P": [
+      "quilobitinho",
+      "quilobitinhos"
+    ]
+  },
+  "quilodonte": {
+    "P": [
+      "quilodontinho",
+      "quilodontinhos"
+    ]
+  },
+  "quiloso": {
+    "O": [
+      "quilosinha",
+      "quilosinhas"
+    ],
+    "P": [
+      "quilosinho",
+      "quilosinhos"
+    ]
+  },
+  "quilovar": {
+    "R": [
+      "quilovarezinhos",
+      "quilovarzinho"
+    ]
+  },
+  "quimão": {
+    "R": [
+      "quimãozinho",
+      "quimõezinhos"
+    ],
+    "V": [
+      "quimãozão",
+      "quimãozões"
+    ]
+  },
+  "quimbete": {
+    "P": [
+      "quimbetinho",
+      "quimbetinhos"
+    ]
+  },
+  "químico-industrial": {
+    "R": [
+      "químico-industrialzinho",
+      "químico-industriaizinhos"
+    ],
+    "V": [
+      "químico-industrialzão",
+      "químico-industrialzões"
+    ]
+  },
+  "químico-legal": {
+    "R": [
+      "químico-legalzinho",
+      "químico-legaizinhos"
+    ],
+    "V": [
+      "químico-legalzão",
+      "químico-legalzões"
+    ]
+  },
+  "quimificação": {
+    "Q": [
+      "quimificaçãozinha",
+      "quimificaçõezinhas"
+    ],
+    "W": [
+      "quimificaçona",
+      "quimificaçonas"
+    ]
+  },
+  "quimiluminescente": {
+    "P": [
+      "quimiluminescentinho",
+      "quimiluminescentinhos"
+    ]
+  },
+  "quimioabrasão": {
+    "Q": [
+      "quimioabrasãozinha",
+      "quimioabrasõezinhas"
+    ],
+    "W": [
+      "quimioabrasona",
+      "quimioabrasonas"
+    ]
+  },
+  "quimioluminescente": {
+    "P": [
+      "quimioluminescentinho",
+      "quimioluminescentinhos"
+    ]
+  },
+  "quimionização": {
+    "Q": [
+      "quimionizaçãozinha",
+      "quimionizaçõezinhas"
+    ],
+    "W": [
+      "quimionizaçona",
+      "quimionizaçonas"
+    ]
+  },
+  "quimioprevenção": {
+    "Q": [
+      "quimioprevençãozinha",
+      "quimioprevençõezinhas"
+    ],
+    "W": [
+      "quimioprevençona",
+      "quimioprevençonas"
+    ]
+  },
+  "quimiorrecepção": {
+    "Q": [
+      "quimiorrecepçãozinha",
+      "quimiorrecepçõezinhas"
+    ],
+    "W": [
+      "quimiorrecepçona",
+      "quimiorrecepçonas"
+    ]
+  },
+  "quimiorreceptor": {
+    "R": [
+      "quimiorreceptorezinhos",
+      "quimiorreceptorzinho"
+    ]
+  },
+  "quimissorção": {
+    "Q": [
+      "quimissorçãozinha",
+      "quimissorçõezinhas"
+    ],
+    "W": [
+      "quimissorçona",
+      "quimissorçonas"
+    ]
+  },
+  "quimoso": {
+    "O": [
+      "quimosinha",
+      "quimosinhas"
+    ],
+    "P": [
+      "quimosinho",
+      "quimosinhos"
+    ]
+  },
+  "quimossensorial": {
+    "R": [
+      "quimossensorialzinho",
+      "quimossensoriaizinhos"
+    ],
+    "V": [
+      "quimossensorialzão",
+      "quimossensorialzões"
+    ]
+  },
+  "quimpirol": {
+    "R": [
+      "quimpirolzinho",
+      "quimpiroizinhos"
+    ],
+    "V": [
+      "quimpirolzão",
+      "quimpirolzões"
+    ]
+  },
+  "quinacainol": {
+    "R": [
+      "quinacainolzinho",
+      "quinacainoizinhos"
+    ],
+    "V": [
+      "quinacainolzão",
+      "quinacainolzões"
+    ]
+  },
+  "quinal": {
+    "R": [
+      "quinalzinho",
+      "quinaizinhos"
+    ],
+    "V": [
+      "quinalzão",
+      "quinalzões"
+    ]
+  },
+  "quinapril": {
+    "R": [
+      "quinaprilzinho",
+      "quinapriizinhos"
+    ],
+    "V": [
+      "quinaprilzão",
+      "quinaprilzões"
+    ]
+  },
+  "quinaprilate": {
+    "P": [
+      "quinaprilatinho",
+      "quinaprilatinhos"
+    ]
+  },
+  "quinchoso": {
+    "O": [
+      "quinchosinha",
+      "quinchosinhas"
+    ],
+    "P": [
+      "quinchosinho",
+      "quinchosinhos"
+    ]
+  },
+  "quincite": {
+    "P": [
+      "quincitinho",
+      "quincitinhos"
+    ]
+  },
+  "quincocial": {
+    "R": [
+      "quincocialzinho",
+      "quincociaizinhos"
+    ],
+    "V": [
+      "quincocialzão",
+      "quincocialzões"
+    ]
+  },
+  "quinconcial": {
+    "R": [
+      "quinconcialzinho",
+      "quinconciaizinhos"
+    ],
+    "V": [
+      "quinconcialzão",
+      "quinconcialzões"
+    ]
+  },
+  "quincuncial": {
+    "R": [
+      "quincuncialzinho",
+      "quincunciaizinhos"
+    ],
+    "V": [
+      "quincuncialzão",
+      "quincuncialzões"
+    ]
+  },
+  "quindão": {
+    "R": [
+      "quindãozinho",
+      "quindõezinhos"
+    ],
+    "V": [
+      "quindãozão",
+      "quindãozões"
+    ]
+  },
+  "quindecenviral": {
+    "R": [
+      "quindecenviralzinho",
+      "quindecenviraizinhos"
+    ],
+    "V": [
+      "quindecenviralzão",
+      "quindecenviralzões"
+    ]
+  },
+  "quindecilhão": {
+    "R": [
+      "quindecilhãozinho",
+      "quindecilhõezinhos"
+    ],
+    "V": [
+      "quindecilhãozão",
+      "quindecilhãozões"
+    ]
+  },
+  "quindecilião": {
+    "R": [
+      "quindeciliãozinho",
+      "quindeciliõezinhos"
+    ],
+    "V": [
+      "quindeciliãozão",
+      "quindeciliãozões"
+    ]
+  },
+  "quindeciolionesimal": {
+    "R": [
+      "quindeciolionesimalzinho",
+      "quindeciolionesimaizinhos"
+    ],
+    "V": [
+      "quindeciolionesimalzão",
+      "quindeciolionesimalzões"
+    ]
+  },
+  "quinestradol": {
+    "R": [
+      "quinestradolzinho",
+      "quinestradoizinhos"
+    ],
+    "V": [
+      "quinestradolzão",
+      "quinestradolzões"
+    ]
+  },
+  "quinestrol": {
+    "R": [
+      "quinestrolzinho",
+      "quinestroizinhos"
+    ],
+    "V": [
+      "quinestrolzão",
+      "quinestrolzões"
+    ]
+  },
+  "quingentesimal": {
+    "R": [
+      "quingentesimalzinho",
+      "quingentesimaizinhos"
+    ],
+    "V": [
+      "quingentesimalzão",
+      "quingentesimalzões"
+    ]
+  },
+  "quingestanol": {
+    "R": [
+      "quingestanolzinho",
+      "quingestanoizinhos"
+    ],
+    "V": [
+      "quingestanolzão",
+      "quingestanolzões"
+    ]
+  },
+  "quinhão": {
+    "R": [
+      "quinhãozinho",
+      "quinhõezinhos"
+    ],
+    "V": [
+      "quinhãozão",
+      "quinhãozões"
+    ]
+  },
+  "quinhentão": {
+    "R": [
+      "quinhentãozinho",
+      "quinhentõezinhos"
+    ],
+    "V": [
+      "quinhentãozão",
+      "quinhentãozões"
+    ]
+  },
+  "quinional": {
+    "R": [
+      "quinionalzinho",
+      "quinionaizinhos"
+    ],
+    "V": [
+      "quinionalzão",
+      "quinionalzões"
+    ]
+  },
+  "quinite": {
+    "P": [
+      "quinitinho",
+      "quinitinhos"
+    ]
+  },
+  "quinitol": {
+    "R": [
+      "quinitolzinho",
+      "quinitoizinhos"
+    ],
+    "V": [
+      "quinitolzão",
+      "quinitolzões"
+    ]
+  },
+  "quinocloral": {
+    "R": [
+      "quinocloralzinho",
+      "quinocloraizinhos"
+    ],
+    "V": [
+      "quinocloralzão",
+      "quinocloralzões"
+    ]
+  },
+  "quinosol": {
+    "R": [
+      "quinosolzinho",
+      "quinosoizinhos"
+    ],
+    "V": [
+      "quinosolzão",
+      "quinosolzões"
+    ]
+  },
+  "quinotolaste": {
+    "P": [
+      "quinotolastinho",
+      "quinotolastinhos"
+    ]
+  },
+  "quinovite": {
+    "P": [
+      "quinovitinho",
+      "quinovitinhos"
+    ]
+  },
+  "quinquagesimal": {
+    "R": [
+      "quinquagesimalzinho",
+      "quinquagesimaizinhos"
+    ],
+    "V": [
+      "quinquagesimalzão",
+      "quinquagesimalzões"
+    ]
+  },
+  "quinquangular": {
+    "R": [
+      "quinquangularezinhos",
+      "quinquangularzinho"
+    ]
+  },
+  "quinqueangular": {
+    "R": [
+      "quinqueangularezinhos",
+      "quinqueangularzinho"
+    ]
+  },
+  "quinquecapsular": {
+    "R": [
+      "quinquecapsularezinhos",
+      "quinquecapsularzinho"
+    ]
+  },
+  "quinquecelular": {
+    "R": [
+      "quinquecelularezinhos",
+      "quinquecelularzinho"
+    ]
+  },
+  "quinqueliteral": {
+    "R": [
+      "quinqueliteralzinho",
+      "quinqueliteraizinhos"
+    ],
+    "V": [
+      "quinqueliteralzão",
+      "quinqueliteralzões"
+    ]
+  },
+  "quinquelocular": {
+    "R": [
+      "quinquelocularezinhos",
+      "quinquelocularzinho"
+    ]
+  },
+  "quinquenal": {
+    "R": [
+      "quinquenalzinho",
+      "quinquenaizinhos"
+    ],
+    "V": [
+      "quinquenalzão",
+      "quinquenalzões"
+    ]
+  },
+  "quinquetubercular": {
+    "R": [
+      "quinquetubercularezinhos",
+      "quinquetubercularzinho"
+    ]
+  },
+  "quinquevalente": {
+    "P": [
+      "quinquevalentinho",
+      "quinquevalentinhos"
+    ]
+  },
+  "quinquevalvular": {
+    "R": [
+      "quinquevalvularezinhos",
+      "quinquevalvularzinho"
+    ]
+  },
+  "quinquevigesimal": {
+    "R": [
+      "quinquevigesimalzinho",
+      "quinquevigesimaizinhos"
+    ],
+    "V": [
+      "quinquevigesimalzão",
+      "quinquevigesimalzões"
+    ]
+  },
+  "quinqueviral": {
+    "R": [
+      "quinqueviralzinho",
+      "quinqueviraizinhos"
+    ],
+    "V": [
+      "quinqueviralzão",
+      "quinqueviralzões"
+    ]
+  },
+  "quinta-essenciação": {
+    "Q": [
+      "quinta-essenciaçãozinha",
+      "quinta-essenciaçõezinhas"
+    ],
+    "W": [
+      "quinta-essenciaçona",
+      "quinta-essenciaçonas"
+    ]
+  },
+  "quinta-essencial": {
+    "R": [
+      "quinta-essencialzinho",
+      "quinta-essenciaizinhos"
+    ],
+    "V": [
+      "quinta-essencialzão",
+      "quinta-essencialzões"
+    ]
+  },
+  "quintal": {
+    "R": [
+      "quintalzinho",
+      "quintaizinhos"
+    ],
+    "V": [
+      "quintalzão",
+      "quintalzões"
+    ]
+  },
+  "quintalão": {
+    "R": [
+      "quintalãozinho",
+      "quintalõezinhos"
+    ],
+    "V": [
+      "quintalãozão",
+      "quintalãozões"
+    ]
+  },
+  "quintanal": {
+    "R": [
+      "quintanalzinho",
+      "quintanaizinhos"
+    ],
+    "V": [
+      "quintanalzão",
+      "quintanalzões"
+    ]
+  },
+  "quintarte": {
+    "P": [
+      "quintartinho",
+      "quintartinhos"
+    ]
+  },
+  "quintatão": {
+    "R": [
+      "quintatãozinho",
+      "quintatõezinhos"
+    ],
+    "V": [
+      "quintatãozão",
+      "quintatãozões"
+    ]
+  },
+  "quinteirão": {
+    "R": [
+      "quinteirãozinho",
+      "quinteirõezinhos"
+    ],
+    "V": [
+      "quinteirãozão",
+      "quinteirãozões"
+    ]
+  },
+  "quintessenciação": {
+    "Q": [
+      "quintessenciaçãozinha",
+      "quintessenciaçõezinhas"
+    ],
+    "W": [
+      "quintessenciaçona",
+      "quintessenciaçonas"
+    ]
+  },
+  "quintessencial": {
+    "R": [
+      "quintessencialzinho",
+      "quintessenciaizinhos"
+    ],
+    "V": [
+      "quintessencialzão",
+      "quintessencialzões"
+    ]
+  },
+  "quintil": {
+    "R": [
+      "quintilzinho",
+      "quintiizinhos"
+    ],
+    "V": [
+      "quintilzão",
+      "quintilzões"
+    ]
+  },
+  "quintilhão": {
+    "R": [
+      "quintilhãozinho",
+      "quintilhõezinhos"
+    ],
+    "V": [
+      "quintilhãozão",
+      "quintilhãozões"
+    ]
+  },
+  "quintilião": {
+    "R": [
+      "quintiliãozinho",
+      "quintiliõezinhos"
+    ],
+    "V": [
+      "quintiliãozão",
+      "quintiliãozões"
+    ]
+  },
+  "quintilionesimal": {
+    "R": [
+      "quintilionesimalzinho",
+      "quintilionesimaizinhos"
+    ],
+    "V": [
+      "quintilionesimalzão",
+      "quintilionesimalzões"
+    ]
+  },
+  "quintissecular": {
+    "R": [
+      "quintissecularezinhos",
+      "quintissecularzinho"
+    ]
+  },
+  "quintivalente": {
+    "P": [
+      "quintivalentinho",
+      "quintivalentinhos"
+    ]
+  },
+  "quintos": {
+    "P": [
+      "quintinho",
+      "quintinhos"
+    ]
+  },
+  "quintoso": {
+    "O": [
+      "quintosinha",
+      "quintosinhas"
+    ],
+    "P": [
+      "quintosinho",
+      "quintosinhos"
+    ]
+  },
+  "quintuplicação": {
+    "Q": [
+      "quintuplicaçãozinha",
+      "quintuplicaçõezinhas"
+    ],
+    "W": [
+      "quintuplicaçona",
+      "quintuplicaçonas"
+    ]
+  },
+  "quinzenal": {
+    "R": [
+      "quinzenalzinho",
+      "quinzenaizinhos"
+    ],
+    "V": [
+      "quinzenalzão",
+      "quinzenalzões"
+    ]
+  },
+  "quinzol": {
+    "R": [
+      "quinzolzinho",
+      "quinzoizinhos"
+    ],
+    "V": [
+      "quinzolzão",
+      "quinzolzões"
+    ]
+  },
+  "quiolite": {
+    "O": [
+      "quiolitinha",
+      "quiolitinhas"
+    ],
+    "P": [
+      "quiolitinho",
+      "quiolitinhos"
+    ]
+  },
+  "quiral": {
+    "R": [
+      "quiralzinho",
+      "quiraizinhos"
+    ],
+    "V": [
+      "quiralzão",
+      "quiralzões"
+    ]
+  },
+  "quirartrite": {
+    "P": [
+      "quirartritinho",
+      "quirartritinhos"
+    ]
+  },
+  "quirate": {
+    "P": [
+      "quiratinho",
+      "quiratinhos"
+    ]
+  },
+  "quirguistanês": {
+    "O": [
+      "quirguistanesinha",
+      "quirguistanesinhas"
+    ],
+    "P": [
+      "quirguistanesinho",
+      "quirguistanesezinhos"
+    ]
+  },
+  "quirial": {
+    "R": [
+      "quirialzinho",
+      "quiriaizinhos"
+    ],
+    "V": [
+      "quirialzão",
+      "quirialzões"
+    ]
+  },
+  "quirinal": {
+    "R": [
+      "quirinalzinho",
+      "quirinaizinhos"
+    ],
+    "V": [
+      "quirinalzão",
+      "quirinalzões"
+    ]
+  },
+  "quirite": {
+    "O": [
+      "quiritinha",
+      "quiritinhas"
+    ],
+    "P": [
+      "quiritinho",
+      "quiritinhos"
+    ]
+  },
+  "quirocentrodonte": {
+    "P": [
+      "quirocentrodontinho",
+      "quirocentrodontinhos"
+    ]
+  },
+  "quirogite": {
+    "O": [
+      "quirogitinha",
+      "quirogitinhas"
+    ],
+    "P": [
+      "quirogitinho",
+      "quirogitinhos"
+    ]
+  },
+  "quiromante": {
+    "P": [
+      "quiromantinho",
+      "quiromantinhos"
+    ]
+  },
+  "quiropterite": {
+    "O": [
+      "quiropteritinha",
+      "quiropteritinhas"
+    ],
+    "P": [
+      "quiropteritinho",
+      "quiropteritinhos"
+    ]
+  },
+  "quirostrobal": {
+    "R": [
+      "quirostrobalzinho",
+      "quirostrobaizinhos"
+    ],
+    "V": [
+      "quirostrobalzão",
+      "quirostrobalzões"
+    ]
+  },
+  "quirvanite": {
+    "P": [
+      "quirvanitinho",
+      "quirvanitinhos"
+    ]
+  },
+  "quistoso": {
+    "O": [
+      "quistosinha",
+      "quistosinhas"
+    ],
+    "P": [
+      "quistosinho",
+      "quistosinhos"
+    ]
+  },
+  "quita-sol": {
+    "R": [
+      "quita-solzinho",
+      "quita-soizinhos"
+    ]
+  },
+  "quitação": {
+    "Q": [
+      "quitaçãozinha",
+      "quitaçõezinhas"
+    ],
+    "W": [
+      "quitaçona",
+      "quitaçonas"
+    ],
+    "Â+Q": [
+      "desquitaçãozinha",
+      "desquitaçõezinhas"
+    ],
+    "Â+W": [
+      "desquitaçona",
+      "desquitaçonas"
+    ]
+  },
+  "quitão": {
+    "R": [
+      "quitãozinho",
+      "quitõezinhos"
+    ],
+    "V": [
+      "quitãozão",
+      "quitãozões"
+    ]
+  },
+  "quitenol": {
+    "R": [
+      "quitenolzinho",
+      "quitenoizinhos"
+    ],
+    "V": [
+      "quitenolzão",
+      "quitenolzões"
+    ]
+  },
+  "quiticação": {
+    "Q": [
+      "quiticaçãozinha",
+      "quiticaçõezinhas"
+    ],
+    "W": [
+      "quiticaçona",
+      "quiticaçonas"
+    ]
+  },
+  "quitinete": {
+    "P": [
+      "quitinetinho",
+      "quitinetinhos"
+    ]
+  },
+  "quitinização": {
+    "Q": [
+      "quitinizaçãozinha",
+      "quitinizaçõezinhas"
+    ],
+    "W": [
+      "quitinizaçona",
+      "quitinizaçonas"
+    ]
+  },
+  "quitinoarenoso": {
+    "O": [
+      "quitinoarenosinha",
+      "quitinoarenosinhas"
+    ],
+    "P": [
+      "quitinoarenosinho",
+      "quitinoarenosinhos"
+    ]
+  },
+  "quitinoso": {
+    "O": [
+      "quitinosinha",
+      "quitinosinhas"
+    ],
+    "P": [
+      "quitinosinho",
+      "quitinosinhos"
+    ]
+  },
+  "quitonite": {
+    "P": [
+      "quitonitinho",
+      "quitonitinhos"
+    ]
+  },
+  "quitool": {
+    "R": [
+      "quitoolzinho",
+      "quitooizinhos"
+    ],
+    "V": [
+      "quitoolzão",
+      "quitoolzões"
+    ]
+  },
+  "quitridial": {
+    "R": [
+      "quitridialzinho",
+      "quitridiaizinhos"
+    ],
+    "V": [
+      "quitridialzão",
+      "quitridialzões"
+    ]
+  },
+  "quitul": {
+    "R": [
+      "quitulzinho",
+      "quituizinhos"
+    ],
+    "V": [
+      "quitulzão",
+      "quitulzões"
+    ]
+  },
+  "quitute": {
+    "P": [
+      "quitutinho",
+      "quitutinhos"
+    ]
+  },
+  "quixa": {
+    "O": [
+      "quixinha",
+      "quixinhas"
+    ],
+    "W": [
+      "quixona",
+      "quixonas"
+    ]
+  },
+  "quixote": {
+    "P": [
+      "quixotinho",
+      "quixotinhos"
+    ]
+  },
+  "quixotização": {
+    "Q": [
+      "quixotizaçãozinha",
+      "quixotizaçõezinhas"
+    ],
+    "W": [
+      "quixotizaçona",
+      "quixotizaçonas"
+    ]
+  },
+  "quotas-parte": {
+    "P": [
+      "quotas-partinho",
+      "quotas-partinhos"
+    ]
+  },
+  "quotização": {
+    "Q": [
+      "quotizaçãozinha",
+      "quotizaçõezinhas"
+    ],
+    "W": [
+      "quotizaçona",
+      "quotizaçonas"
+    ]
+  }
+}

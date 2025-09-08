@@ -1,0 +1,10630 @@
+{
+  "labaçal": {
+    "R": [
+      "labaçalzinho",
+      "labaçaizinhos"
+    ],
+    "V": [
+      "labaçalzão",
+      "labaçalzões"
+    ]
+  },
+  "labaçol": {
+    "R": [
+      "labaçolzinho",
+      "labaçoizinhos"
+    ],
+    "V": [
+      "labaçolzão",
+      "labaçolzões"
+    ]
+  },
+  "labanotação": {
+    "Q": [
+      "labanotaçãozinha",
+      "labanotaçõezinhas"
+    ],
+    "W": [
+      "labanotaçona",
+      "labanotaçonas"
+    ]
+  },
+  "labão": {
+    "R": [
+      "labãozinho",
+      "labõezinhos"
+    ],
+    "V": [
+      "labãozão",
+      "labãozões"
+    ],
+    "ò+R": [
+      "alabãozinho",
+      "alabõezinhos"
+    ],
+    "ò+V": [
+      "alabãozão",
+      "alabãozões"
+    ]
+  },
+  "labefaciação": {
+    "Q": [
+      "labefaciaçãozinha",
+      "labefaciaçõezinhas"
+    ],
+    "W": [
+      "labefaciaçona",
+      "labefaciaçonas"
+    ]
+  },
+  "labefactação": {
+    "Q": [
+      "labefactaçãozinha",
+      "labefactaçõezinhas"
+    ],
+    "W": [
+      "labefactaçona",
+      "labefactaçonas"
+    ]
+  },
+  "labelos": {
+    "P": [
+      "labelinho",
+      "labelinhos"
+    ]
+  },
+  "labetalol": {
+    "R": [
+      "labetalolzinho",
+      "labetaloizinhos"
+    ],
+    "V": [
+      "labetalolzão",
+      "labetalolzões"
+    ]
+  },
+  "labiação": {
+    "Q": [
+      "labiaçãozinha",
+      "labiaçõezinhas"
+    ],
+    "W": [
+      "labiaçona",
+      "labiaçonas"
+    ]
+  },
+  "labial": {
+    "R": [
+      "labialzinho",
+      "labiaizinhos"
+    ],
+    "V": [
+      "labialzão",
+      "labialzões"
+    ],
+    "Í+R": [
+      "interlabialzinho",
+      "interlabiaizinhos"
+    ],
+    "Ï+R": [
+      "antelabialzinho",
+      "antelabiaizinhos"
+    ],
+    "Õ+R": [
+      "infralabialzinho",
+      "infralabiaizinhos"
+    ],
+    "Û+R": [
+      "prolabialzinho",
+      "prolabiaizinhos"
+    ],
+    "Í+V": [
+      "interlabialzão",
+      "interlabialzões"
+    ],
+    "Ï+V": [
+      "antelabialzão",
+      "antelabialzões"
+    ],
+    "Õ+V": [
+      "infralabialzão",
+      "infralabialzões"
+    ],
+    "Û+V": [
+      "prolabialzão",
+      "prolabialzões"
+    ]
+  },
+  "labialização": {
+    "Q": [
+      "labializaçãozinha",
+      "labializaçõezinhas"
+    ],
+    "W": [
+      "labializaçona",
+      "labializaçonas"
+    ],
+    "Â+Q": [
+      "deslabializaçãozinha",
+      "deslabializaçõezinhas"
+    ],
+    "Â+W": [
+      "deslabializaçona",
+      "deslabializaçonas"
+    ]
+  },
+  "labidental": {
+    "R": [
+      "labidentalzinho",
+      "labidentaizinhos"
+    ],
+    "V": [
+      "labidentalzão",
+      "labidentalzões"
+    ]
+  },
+  "lábil": {
+    "R": [
+      "lábilzinho",
+      "lábiizinhos"
+    ]
+  },
+  "labinasal": {
+    "R": [
+      "labinasalzinho",
+      "labinasaizinhos"
+    ],
+    "V": [
+      "labinasalzão",
+      "labinasalzões"
+    ]
+  },
+  "labiodental": {
+    "R": [
+      "labiodentalzinho",
+      "labiodentaizinhos"
+    ],
+    "V": [
+      "labiodentalzão",
+      "labiodentalzões"
+    ]
+  },
+  "labiogutural": {
+    "R": [
+      "labioguturalzinho",
+      "labioguturaizinhos"
+    ],
+    "V": [
+      "labioguturalzão",
+      "labioguturalzões"
+    ]
+  },
+  "labiolingual": {
+    "R": [
+      "labiolingualzinho",
+      "labiolinguaizinhos"
+    ],
+    "V": [
+      "labiolingualzão",
+      "labiolingualzões"
+    ]
+  },
+  "labiomante": {
+    "P": [
+      "labiomantinho",
+      "labiomantinhos"
+    ]
+  },
+  "labionasal": {
+    "R": [
+      "labionasalzinho",
+      "labionasaizinhos"
+    ],
+    "V": [
+      "labionasalzão",
+      "labionasalzões"
+    ]
+  },
+  "labiopalatal": {
+    "R": [
+      "labiopalatalzinho",
+      "labiopalataizinhos"
+    ],
+    "V": [
+      "labiopalatalzão",
+      "labiopalatalzões"
+    ]
+  },
+  "labioso": {
+    "O": [
+      "labiosinha",
+      "labiosinhas"
+    ],
+    "P": [
+      "labiosinho",
+      "labiosinhos"
+    ]
+  },
+  "labiovelar": {
+    "R": [
+      "labiovelarezinhos",
+      "labiovelarzinho"
+    ]
+  },
+  "labiovelarização": {
+    "Q": [
+      "labiovelarizaçãozinha",
+      "labiovelarizaçõezinhas"
+    ],
+    "W": [
+      "labiovelarizaçona",
+      "labiovelarizaçonas"
+    ]
+  },
+  "labioversão": {
+    "Q": [
+      "labioversãozinha",
+      "labioversõezinhas"
+    ],
+    "W": [
+      "labioversona",
+      "labioversonas"
+    ]
+  },
+  "labirintite": {
+    "P": [
+      "labirintitinho",
+      "labirintitinhos"
+    ]
+  },
+  "labirintodonte": {
+    "P": [
+      "labirintodontinho",
+      "labirintodontinhos"
+    ]
+  },
+  "labirintoso": {
+    "O": [
+      "labirintosinha",
+      "labirintosinhas"
+    ],
+    "P": [
+      "labirintosinho",
+      "labirintosinhos"
+    ]
+  },
+  "labor": {
+    "R": [
+      "laborezinhos",
+      "laborzinho"
+    ]
+  },
+  "laboração": {
+    "Q": [
+      "laboraçãozinha",
+      "laboraçõezinhas"
+    ],
+    "W": [
+      "laboraçona",
+      "laboraçonas"
+    ],
+    "Ñ+Q": [
+      "colaboraçãozinha",
+      "colaboraçõezinhas"
+    ],
+    "Ñ+W": [
+      "colaboraçona",
+      "colaboraçonas"
+    ]
+  },
+  "laboral": {
+    "R": [
+      "laboralzinho",
+      "laboraizinhos"
+    ],
+    "V": [
+      "laboralzão",
+      "laboralzões"
+    ]
+  },
+  "laborão": {
+    "R": [
+      "laborãozinho",
+      "laborõezinhos"
+    ],
+    "V": [
+      "laborãozão",
+      "laborãozões"
+    ]
+  },
+  "laboratorial": {
+    "R": [
+      "laboratorialzinho",
+      "laboratoriaizinhos"
+    ],
+    "V": [
+      "laboratorialzão",
+      "laboratorialzões"
+    ]
+  },
+  "laborioso": {
+    "O": [
+      "laboriosinha",
+      "laboriosinhas"
+    ],
+    "P": [
+      "laboriosinho",
+      "laboriosinhos"
+    ]
+  },
+  "laboulbenial": {
+    "R": [
+      "laboulbenialzinho",
+      "laboulbeniaizinhos"
+    ],
+    "V": [
+      "laboulbenialzão",
+      "laboulbenialzões"
+    ]
+  },
+  "labrador": {
+    "R": [
+      "labradorezinhos",
+      "labradorzinho"
+    ]
+  },
+  "labradorescente": {
+    "P": [
+      "labradorescentinho",
+      "labradorescentinhos"
+    ]
+  },
+  "labradorite": {
+    "P": [
+      "labradoritinho",
+      "labradoritinhos"
+    ]
+  },
+  "labral": {
+    "R": [
+      "labralzinho",
+      "labraizinhos"
+    ],
+    "V": [
+      "labralzão",
+      "labralzões"
+    ]
+  },
+  "labroso": {
+    "O": [
+      "labrosinha",
+      "labrosinhas"
+    ],
+    "P": [
+      "labrosinho",
+      "labrosinhos"
+    ]
+  },
+  "labroste": {
+    "O": [
+      "labrostinha",
+      "labrostinhas"
+    ],
+    "P": [
+      "labrostinho",
+      "labrostinhos"
+    ]
+  },
+  "labugante": {
+    "P": [
+      "labugantinho",
+      "labugantinhos"
+    ]
+  },
+  "labulbenial": {
+    "R": [
+      "labulbenialzinho",
+      "labulbeniaizinhos"
+    ],
+    "V": [
+      "labulbenialzão",
+      "labulbenialzões"
+    ]
+  },
+  "labutação": {
+    "Q": [
+      "labutaçãozinha",
+      "labutaçõezinhas"
+    ],
+    "W": [
+      "labutaçona",
+      "labutaçonas"
+    ]
+  },
+  "lacação": {
+    "Q": [
+      "lacaçãozinha",
+      "lacaçõezinhas"
+    ],
+    "W": [
+      "lacaçona",
+      "lacaçonas"
+    ]
+  },
+  "lacaço": {
+    "P": [
+      "lacacinho",
+      "lacacinhos"
+    ],
+    "V": [
+      "lacação",
+      "lacações"
+    ]
+  },
+  "lacaios": {
+    "P": [
+      "lacaiinho",
+      "lacaiinhos"
+    ]
+  },
+  "lacanhal": {
+    "R": [
+      "lacanhalzinho",
+      "lacanhaizinhos"
+    ],
+    "V": [
+      "lacanhalzão",
+      "lacanhalzões"
+    ]
+  },
+  "lácar": {
+    "R": [
+      "lácarezinhos",
+      "lácarzinho"
+    ],
+    "ò+R": [
+      "alácarezinhos",
+      "alácarzinho"
+    ]
+  },
+  "lacete": {
+    "P": [
+      "lacetinho",
+      "lacetinhos"
+    ]
+  },
+  "lacial": {
+    "R": [
+      "lacialzinho",
+      "laciaizinhos"
+    ],
+    "V": [
+      "lacialzão",
+      "lacialzões"
+    ]
+  },
+  "laciar": {
+    "R": [
+      "laciarezinhos",
+      "laciarzinho"
+    ]
+  },
+  "lacinete": {
+    "P": [
+      "lacinetinho",
+      "lacinetinhos"
+    ]
+  },
+  "lacnocaulão": {
+    "R": [
+      "lacnocaulãozinho",
+      "lacnocaulõezinhos"
+    ],
+    "V": [
+      "lacnocaulãozão",
+      "lacnocaulãozões"
+    ]
+  },
+  "laço": {
+    "P": [
+      "lacinho",
+      "lacinhos"
+    ],
+    "V": [
+      "lação",
+      "lações"
+    ]
+  },
+  "lacol": {
+    "R": [
+      "lacolzinho",
+      "lacoizinhos"
+    ],
+    "V": [
+      "lacolzão",
+      "lacolzões"
+    ]
+  },
+  "lacolite": {
+    "P": [
+      "lacolitinho",
+      "lacolitinhos"
+    ]
+  },
+  "lacomante": {
+    "P": [
+      "lacomantinho",
+      "lacomantinhos"
+    ]
+  },
+  "lacoso": {
+    "O": [
+      "lacosinha",
+      "lacosinhas"
+    ],
+    "P": [
+      "lacosinho",
+      "lacosinhos"
+    ]
+  },
+  "lacração": {
+    "Q": [
+      "lacraçãozinha",
+      "lacraçõezinhas"
+    ],
+    "W": [
+      "lacraçona",
+      "lacraçonas"
+    ],
+    "Â+Q": [
+      "deslacraçãozinha",
+      "deslacraçõezinhas"
+    ],
+    "Â+W": [
+      "deslacraçona",
+      "deslacraçonas"
+    ]
+  },
+  "lacrão": {
+    "R": [
+      "lacrãozinho",
+      "lacrõezinhos"
+    ],
+    "V": [
+      "lacrãozão",
+      "lacrãozões"
+    ]
+  },
+  "lacrimação": {
+    "Q": [
+      "lacrimaçãozinha",
+      "lacrimaçõezinhas"
+    ],
+    "W": [
+      "lacrimaçona",
+      "lacrimaçonas"
+    ]
+  },
+  "lacrimal": {
+    "R": [
+      "lacrimalzinho",
+      "lacrimaizinhos"
+    ],
+    "V": [
+      "lacrimalzão",
+      "lacrimalzões"
+    ]
+  },
+  "lacrimonasal": {
+    "R": [
+      "lacrimonasalzinho",
+      "lacrimonasaizinhos"
+    ],
+    "V": [
+      "lacrimonasalzão",
+      "lacrimonasalzões"
+    ]
+  },
+  "lacrimopalpebral": {
+    "R": [
+      "lacrimopalpebralzinho",
+      "lacrimopalpebraizinhos"
+    ],
+    "V": [
+      "lacrimopalpebralzão",
+      "lacrimopalpebralzões"
+    ]
+  },
+  "lacrimoso": {
+    "O": [
+      "lacrimosinha",
+      "lacrimosinhas"
+    ],
+    "P": [
+      "lacrimosinho",
+      "lacrimosinhos"
+    ]
+  },
+  "lactação": {
+    "Q": [
+      "lactaçãozinha",
+      "lactaçõezinhas"
+    ],
+    "W": [
+      "lactaçona",
+      "lactaçonas"
+    ]
+  },
+  "lactagol": {
+    "R": [
+      "lactagolzinho",
+      "lactagoizinhos"
+    ],
+    "V": [
+      "lactagolzão",
+      "lactagolzões"
+    ]
+  },
+  "lactente": {
+    "P": [
+      "lactentinho",
+      "lactentinhos"
+    ]
+  },
+  "lactescente": {
+    "P": [
+      "lactescentinho",
+      "lactescentinhos"
+    ]
+  },
+  "lacticinal": {
+    "R": [
+      "lacticinalzinho",
+      "lacticinaizinhos"
+    ],
+    "V": [
+      "lacticinalzão",
+      "lacticinalzões"
+    ]
+  },
+  "lacticinoso": {
+    "O": [
+      "lacticinosinha",
+      "lacticinosinhas"
+    ],
+    "P": [
+      "lacticinosinho",
+      "lacticinosinhos"
+    ]
+  },
+  "lacticultor": {
+    "R": [
+      "lacticultorezinhos",
+      "lacticultorzinho"
+    ]
+  },
+  "lactifermentação": {
+    "Q": [
+      "lactifermentaçãozinha",
+      "lactifermentaçõezinhas"
+    ],
+    "W": [
+      "lactifermentaçona",
+      "lactifermentaçonas"
+    ]
+  },
+  "lactifermentador": {
+    "R": [
+      "lactifermentadorezinhos",
+      "lactifermentadorzinho"
+    ]
+  },
+  "lactitol": {
+    "R": [
+      "lactitolzinho",
+      "lactitoizinhos"
+    ],
+    "V": [
+      "lactitolzão",
+      "lactitolzões"
+    ]
+  },
+  "lactofermentação": {
+    "Q": [
+      "lactofermentaçãozinha",
+      "lactofermentaçõezinhas"
+    ],
+    "W": [
+      "lactofermentaçona",
+      "lactofermentaçonas"
+    ]
+  },
+  "lactofermentador": {
+    "R": [
+      "lactofermentadorezinhos",
+      "lactofermentadorzinho"
+    ]
+  },
+  "lactol": {
+    "R": [
+      "lactolzinho",
+      "lactoizinhos"
+    ],
+    "V": [
+      "lactolzão",
+      "lactolzões"
+    ]
+  },
+  "lactonização": {
+    "Q": [
+      "lactonizaçãozinha",
+      "lactonizaçõezinhas"
+    ],
+    "W": [
+      "lactonizaçona",
+      "lactonizaçonas"
+    ]
+  },
+  "lactoso": {
+    "O": [
+      "lactosinha",
+      "lactosinhas"
+    ],
+    "P": [
+      "lactosinho",
+      "lactosinhos"
+    ]
+  },
+  "lactucerol": {
+    "R": [
+      "lactucerolzinho",
+      "lactuceroizinhos"
+    ],
+    "V": [
+      "lactucerolzão",
+      "lactucerolzões"
+    ]
+  },
+  "lacunoso": {
+    "O": [
+      "lacunosinha",
+      "lacunosinhas"
+    ],
+    "P": [
+      "lacunosinho",
+      "lacunosinhos"
+    ]
+  },
+  "lacustral": {
+    "R": [
+      "lacustralzinho",
+      "lacustraizinhos"
+    ],
+    "V": [
+      "lacustralzão",
+      "lacustralzões"
+    ]
+  },
+  "ladainhar": {
+    "R": [
+      "ladainharezinhos",
+      "ladainharzinho"
+    ]
+  },
+  "ladão": {
+    "R": [
+      "ladãozinho",
+      "ladõezinhos"
+    ],
+    "V": [
+      "ladãozão",
+      "ladãozões"
+    ]
+  },
+  "ladeirante": {
+    "P": [
+      "ladeirantinho",
+      "ladeirantinhos"
+    ]
+  },
+  "ladeiroso": {
+    "O": [
+      "ladeirosinha",
+      "ladeirosinhas"
+    ],
+    "P": [
+      "ladeirosinho",
+      "ladeirosinhos"
+    ]
+  },
+  "lado": {
+    "P": [
+      "ladinho",
+      "ladinhos"
+    ],
+    "Â+P": [
+      "desladinho",
+      "desladinhos"
+    ],
+    "Ï+P": [
+      "anteladinho",
+      "anteladinhos"
+    ]
+  },
+  "ladração": {
+    "Q": [
+      "ladraçãozinha",
+      "ladraçõezinhas"
+    ],
+    "W": [
+      "ladraçona",
+      "ladraçonas"
+    ]
+  },
+  "ladral": {
+    "R": [
+      "ladralzinho",
+      "ladraizinhos"
+    ],
+    "V": [
+      "ladralzão",
+      "ladralzões"
+    ]
+  },
+  "ladranete": {
+    "P": [
+      "ladranetinho",
+      "ladranetinhos"
+    ]
+  },
+  "ladrão": {
+    "R": [
+      "ladrãozinho",
+      "ladrõezinhos"
+    ],
+    "V": [
+      "ladrãozão",
+      "ladrãozões"
+    ],
+    "ü+R": [
+      "ex-ladrãozinho",
+      "ex-ladrõezinhos"
+    ],
+    "ü+V": [
+      "ex-ladrãozão",
+      "ex-ladrãozões"
+    ]
+  },
+  "ladravão": {
+    "R": [
+      "ladravãozinho",
+      "ladravõezinhos"
+    ],
+    "V": [
+      "ladravãozão",
+      "ladravãozões"
+    ]
+  },
+  "ladrilhos": {
+    "P": [
+      "ladrilhinho",
+      "ladrilhinhos"
+    ]
+  },
+  "Laerte": {
+    "P": [
+      "Laertinho",
+      "Laertinhos"
+    ]
+  },
+  "lafrequete": {
+    "P": [
+      "lafrequetinho",
+      "lafrequetinhos"
+    ]
+  },
+  "lagamal": {
+    "R": [
+      "lagamalzinho",
+      "lagamaizinhos"
+    ],
+    "V": [
+      "lagamalzão",
+      "lagamalzões"
+    ]
+  },
+  "lagamar": {
+    "R": [
+      "lagamarezinhos",
+      "lagamarzinho"
+    ],
+    "ò+R": [
+      "alagamarezinhos",
+      "alagamarzinho"
+    ]
+  },
+  "laganhoso": {
+    "O": [
+      "laganhosinha",
+      "laganhosinhas"
+    ],
+    "P": [
+      "laganhosinho",
+      "laganhosinhos"
+    ]
+  },
+  "lagão": {
+    "R": [
+      "lagãozinho",
+      "lagõezinhos"
+    ],
+    "V": [
+      "lagãozão",
+      "lagãozões"
+    ]
+  },
+  "lagar": {
+    "R": [
+      "lagarezinhos",
+      "lagarzinho"
+    ]
+  },
+  "lagarossifão": {
+    "R": [
+      "lagarossifãozinho",
+      "lagarossifõezinhos"
+    ],
+    "V": [
+      "lagarossifãozão",
+      "lagarossifãozões"
+    ]
+  },
+  "lagartão": {
+    "R": [
+      "lagartãozinho",
+      "lagartõezinhos"
+    ],
+    "V": [
+      "lagartãozão",
+      "lagartãozões"
+    ]
+  },
+  "lagarto": {
+    "O": [
+      "lagartinha",
+      "lagartinhas"
+    ],
+    "P": [
+      "lagartinho",
+      "lagartinhos"
+    ],
+    "Ì+O": [
+      "superlagartinha",
+      "superlagartinhas"
+    ],
+    "Ì+P": [
+      "superlagartinho",
+      "superlagartinhos"
+    ]
+  },
+  "lagoa": {
+    "O": [
+      "lagoinha",
+      "lagoinhas"
+    ],
+    "W": [
+      "lagoona",
+      "lagoonas"
+    ]
+  },
+  "lagoão": {
+    "R": [
+      "lagoãozinho",
+      "lagoõezinhos"
+    ],
+    "V": [
+      "lagoãozão",
+      "lagoãozões"
+    ]
+  },
+  "lagonite": {
+    "P": [
+      "lagonitinho",
+      "lagonitinhos"
+    ]
+  },
+  "lagos-mar": {
+    "R": [
+      "lagos-marezinhos",
+      "lagos-marzinho"
+    ]
+  },
+  "lagrimação": {
+    "Q": [
+      "lagrimaçãozinha",
+      "lagrimaçõezinhas"
+    ],
+    "W": [
+      "lagrimaçona",
+      "lagrimaçonas"
+    ]
+  },
+  "lagrimal": {
+    "R": [
+      "lagrimalzinho",
+      "lagrimaizinhos"
+    ],
+    "V": [
+      "lagrimalzão",
+      "lagrimalzões"
+    ]
+  },
+  "lagrimoso": {
+    "O": [
+      "lagrimosinha",
+      "lagrimosinhas"
+    ],
+    "P": [
+      "lagrimosinho",
+      "lagrimosinhos"
+    ]
+  },
+  "lagueirão": {
+    "R": [
+      "lagueirãozinho",
+      "lagueirõezinhos"
+    ],
+    "V": [
+      "lagueirãozão",
+      "lagueirãozões"
+    ]
+  },
+  "laguel": {
+    "R": [
+      "laguelzinho",
+      "lagueizinhos"
+    ],
+    "V": [
+      "laguelzão",
+      "laguelzões"
+    ]
+  },
+  "lagunoso": {
+    "O": [
+      "lagunosinha",
+      "lagunosinhas"
+    ],
+    "P": [
+      "lagunosinho",
+      "lagunosinhos"
+    ]
+  },
+  "laical": {
+    "R": [
+      "laicalzinho",
+      "laicaizinhos"
+    ],
+    "V": [
+      "laicalzão",
+      "laicalzões"
+    ]
+  },
+  "laicização": {
+    "Q": [
+      "laicizaçãozinha",
+      "laicizaçõezinhas"
+    ],
+    "W": [
+      "laicizaçona",
+      "laicizaçonas"
+    ]
+  },
+  "laivão": {
+    "R": [
+      "laivãozinho",
+      "laivõezinhos"
+    ],
+    "V": [
+      "laivãozão",
+      "laivãozões"
+    ]
+  },
+  "laivoso": {
+    "O": [
+      "laivosinha",
+      "laivosinhas"
+    ],
+    "P": [
+      "laivosinho",
+      "laivosinhos"
+    ]
+  },
+  "lajão": {
+    "R": [
+      "lajãozinho",
+      "lajõezinhos"
+    ],
+    "V": [
+      "lajãozão",
+      "lajãozões"
+    ]
+  },
+  "laje": {
+    "O": [
+      "lajinha",
+      "lajinhas"
+    ]
+  },
+  "lajeal": {
+    "R": [
+      "lajealzinho",
+      "lajeaizinhos"
+    ],
+    "V": [
+      "lajealzão",
+      "lajealzões"
+    ]
+  },
+  "lajedo": {
+    "P": [
+      "lajedinho",
+      "lajedinhos"
+    ]
+  },
+  "lajeoso": {
+    "O": [
+      "lajeosinha",
+      "lajeosinhas"
+    ],
+    "P": [
+      "lajeosinho",
+      "lajeosinhos"
+    ]
+  },
+  "lalação": {
+    "Q": [
+      "lalaçãozinha",
+      "lalaçõezinhas"
+    ],
+    "W": [
+      "lalaçona",
+      "lalaçonas"
+    ]
+  },
+  "lamaçal": {
+    "R": [
+      "lamaçalzinho",
+      "lamaçaizinhos"
+    ],
+    "V": [
+      "lamaçalzão",
+      "lamaçalzões"
+    ]
+  },
+  "lamação": {
+    "Q": [
+      "lamaçãozinha",
+      "lamaçõezinhas"
+    ],
+    "W": [
+      "lamaçona",
+      "lamaçonas"
+    ]
+  },
+  "lamarão": {
+    "R": [
+      "lamarãozinho",
+      "lamarõezinhos"
+    ],
+    "V": [
+      "lamarãozão",
+      "lamarãozões"
+    ]
+  },
+  "lamaroso": {
+    "O": [
+      "lamarosinha",
+      "lamarosinhas"
+    ],
+    "P": [
+      "lamarosinho",
+      "lamarosinhos"
+    ]
+  },
+  "lambeão": {
+    "R": [
+      "lambeãozinho",
+      "lambeõezinhos"
+    ],
+    "V": [
+      "lambeãozão",
+      "lambeãozões"
+    ]
+  },
+  "lambeção": {
+    "Q": [
+      "lambeçãozinha",
+      "lambeçõezinhas"
+    ],
+    "W": [
+      "lambeçona",
+      "lambeçonas"
+    ]
+  },
+  "lambeirão": {
+    "R": [
+      "lambeirãozinho",
+      "lambeirõezinhos"
+    ],
+    "V": [
+      "lambeirãozão",
+      "lambeirãozões"
+    ]
+  },
+  "lambel": {
+    "R": [
+      "lambelzinho",
+      "lambeizinhos"
+    ],
+    "V": [
+      "lambelzão",
+      "lambelzões"
+    ],
+    "ò+R": [
+      "alambelzinho",
+      "alambeizinhos"
+    ],
+    "ò+V": [
+      "alambelzão",
+      "alambelzões"
+    ]
+  },
+  "lambião": {
+    "R": [
+      "lambiãozinho",
+      "lambiõezinhos"
+    ],
+    "V": [
+      "lambiãozão",
+      "lambiãozões"
+    ]
+  },
+  "lambição": {
+    "Q": [
+      "lambiçãozinha",
+      "lambiçõezinhas"
+    ],
+    "W": [
+      "lambiçona",
+      "lambiçonas"
+    ]
+  },
+  "lambote": {
+    "P": [
+      "lambotinho",
+      "lambotinhos"
+    ]
+  },
+  "lambrete": {
+    "O": [
+      "lambretinha",
+      "lambretinhas"
+    ],
+    "P": [
+      "lambretinho",
+      "lambretinhos"
+    ]
+  },
+  "lambrião": {
+    "R": [
+      "lambriãozinho",
+      "lambriõezinhos"
+    ],
+    "V": [
+      "lambriãozão",
+      "lambriãozões"
+    ]
+  },
+  "lambril": {
+    "R": [
+      "lambrilzinho",
+      "lambriizinhos"
+    ],
+    "V": [
+      "lambrilzão",
+      "lambrilzões"
+    ]
+  },
+  "lambrioso": {
+    "O": [
+      "lambriosinha",
+      "lambriosinhas"
+    ],
+    "P": [
+      "lambriosinho",
+      "lambriosinhos"
+    ]
+  },
+  "lambudo": {
+    "O": [
+      "lambudinha",
+      "lambudinhas"
+    ],
+    "P": [
+      "lambudinho",
+      "lambudinhos"
+    ]
+  },
+  "lamecular": {
+    "R": [
+      "lamecularezinhos",
+      "lamecularzinho"
+    ]
+  },
+  "lamegão": {
+    "R": [
+      "lamegãozinho",
+      "lamegõezinhos"
+    ],
+    "V": [
+      "lamegãozão",
+      "lamegãozões"
+    ]
+  },
+  "lameiral": {
+    "R": [
+      "lameiralzinho",
+      "lameiraizinhos"
+    ],
+    "V": [
+      "lameiralzão",
+      "lameiralzões"
+    ]
+  },
+  "lameirão": {
+    "R": [
+      "lameirãozinho",
+      "lameirõezinhos"
+    ],
+    "V": [
+      "lameirãozão",
+      "lameirãozões"
+    ]
+  },
+  "lamel": {
+    "R": [
+      "lamelzinho",
+      "lameizinhos"
+    ],
+    "V": [
+      "lamelzão",
+      "lamelzões"
+    ]
+  },
+  "lamelação": {
+    "Q": [
+      "lamelaçãozinha",
+      "lamelaçõezinhas"
+    ],
+    "W": [
+      "lamelaçona",
+      "lamelaçonas"
+    ]
+  },
+  "lameloso": {
+    "O": [
+      "lamelosinha",
+      "lamelosinhas"
+    ],
+    "P": [
+      "lamelosinho",
+      "lamelosinhos"
+    ]
+  },
+  "lamelular": {
+    "R": [
+      "lamelularezinhos",
+      "lamelularzinho"
+    ]
+  },
+  "lamentação": {
+    "Q": [
+      "lamentaçãozinha",
+      "lamentaçõezinhas"
+    ],
+    "W": [
+      "lamentaçona",
+      "lamentaçonas"
+    ],
+    "Ã+Q": [
+      "autolamentaçãozinha",
+      "autolamentaçõezinhas"
+    ],
+    "Ã+W": [
+      "autolamentaçona",
+      "autolamentaçonas"
+    ]
+  },
+  "lamentoso": {
+    "O": [
+      "lamentosinha",
+      "lamentosinhas"
+    ],
+    "P": [
+      "lamentosinho",
+      "lamentosinhos"
+    ]
+  },
+  "laminação": {
+    "Q": [
+      "laminaçãozinha",
+      "laminaçõezinhas"
+    ],
+    "W": [
+      "laminaçona",
+      "laminaçonas"
+    ]
+  },
+  "laminal": {
+    "R": [
+      "laminalzinho",
+      "laminaizinhos"
+    ],
+    "V": [
+      "laminalzão",
+      "laminalzões"
+    ]
+  },
+  "laminarial": {
+    "R": [
+      "laminarialzinho",
+      "laminariaizinhos"
+    ],
+    "V": [
+      "laminarialzão",
+      "laminarialzões"
+    ]
+  },
+  "laminicular": {
+    "R": [
+      "laminicularezinhos",
+      "laminicularzinho"
+    ]
+  },
+  "laminiplantar": {
+    "R": [
+      "laminiplantarezinhos",
+      "laminiplantarzinho"
+    ]
+  },
+  "laminite": {
+    "P": [
+      "laminitinho",
+      "laminitinhos"
+    ]
+  },
+  "laminos": {
+    "P": [
+      "lamininho",
+      "lamininhos"
+    ]
+  },
+  "laminosiopte": {
+    "P": [
+      "laminosioptinho",
+      "laminosioptinhos"
+    ]
+  },
+  "laminoso": {
+    "O": [
+      "laminosinha",
+      "laminosinhas"
+    ],
+    "P": [
+      "laminosinho",
+      "laminosinhos"
+    ]
+  },
+  "lamoso": {
+    "O": [
+      "lamosinha",
+      "lamosinhas"
+    ],
+    "P": [
+      "lamosinho",
+      "lamosinhos"
+    ]
+  },
+  "lampadite": {
+    "O": [
+      "lampaditinha",
+      "lampaditinhas"
+    ],
+    "P": [
+      "lampaditinho",
+      "lampaditinhos"
+    ]
+  },
+  "lampadomante": {
+    "P": [
+      "lampadomantinho",
+      "lampadomantinhos"
+    ]
+  },
+  "lamparão": {
+    "R": [
+      "lamparãozinho",
+      "lamparõezinhos"
+    ],
+    "V": [
+      "lamparãozão",
+      "lamparãozões"
+    ]
+  },
+  "lampaso": {
+    "P": [
+      "lampasinho",
+      "lampasinhos"
+    ],
+    "V": [
+      "lampasão",
+      "lampasões"
+    ]
+  },
+  "lampejos": {
+    "P": [
+      "lampejinho",
+      "lampejinhos"
+    ]
+  },
+  "lampião": {
+    "R": [
+      "lampiãozinho",
+      "lampiõezinhos"
+    ],
+    "V": [
+      "lampiãozão",
+      "lampiãozões"
+    ]
+  },
+  "lampornite": {
+    "P": [
+      "lampornitinho",
+      "lampornitinhos"
+    ]
+  },
+  "lampote": {
+    "P": [
+      "lampotinho",
+      "lampotinhos"
+    ]
+  },
+  "lampreão": {
+    "R": [
+      "lampreãozinho",
+      "lampreõezinhos"
+    ],
+    "V": [
+      "lampreãozão",
+      "lampreãozões"
+    ]
+  },
+  "lampreia": {
+    "O": [
+      "lampreiinha",
+      "lampreiinhas"
+    ]
+  },
+  "lampronete": {
+    "P": [
+      "lampronetinho",
+      "lampronetinhos"
+    ]
+  },
+  "lampropogão": {
+    "R": [
+      "lampropogãozinho",
+      "lampropogõezinhos"
+    ],
+    "V": [
+      "lampropogãozão",
+      "lampropogãozões"
+    ]
+  },
+  "lamprote": {
+    "P": [
+      "lamprotinho",
+      "lamprotinhos"
+    ]
+  },
+  "lamprotornite": {
+    "P": [
+      "lamprotornitinho",
+      "lamprotornitinhos"
+    ]
+  },
+  "lamurioso": {
+    "O": [
+      "lamuriosinha",
+      "lamuriosinhas"
+    ],
+    "P": [
+      "lamuriosinho",
+      "lamuriosinhos"
+    ]
+  },
+  "lançarote": {
+    "P": [
+      "lançarotinho",
+      "lançarotinhos"
+    ]
+  },
+  "lancasterite": {
+    "O": [
+      "lancasteritinha",
+      "lancasteritinhas"
+    ],
+    "P": [
+      "lancasteritinho",
+      "lancasteritinhos"
+    ]
+  },
+  "lanchal": {
+    "R": [
+      "lanchalzinho",
+      "lanchaizinhos"
+    ],
+    "V": [
+      "lanchalzão",
+      "lanchalzões"
+    ]
+  },
+  "lanchão": {
+    "R": [
+      "lanchãozinho",
+      "lanchõezinhos"
+    ],
+    "V": [
+      "lanchãozão",
+      "lanchãozões"
+    ]
+  },
+  "lanchonete": {
+    "P": [
+      "lanchonetinho",
+      "lanchonetinhos"
+    ]
+  },
+  "lanchudo": {
+    "O": [
+      "lanchudinha",
+      "lanchudinhas"
+    ],
+    "P": [
+      "lanchudinho",
+      "lanchudinhos"
+    ]
+  },
+  "lancil": {
+    "R": [
+      "lancilzinho",
+      "lanciizinhos"
+    ],
+    "V": [
+      "lancilzão",
+      "lancilzões"
+    ]
+  },
+  "lancissondante": {
+    "P": [
+      "lancissondantinho",
+      "lancissondantinhos"
+    ]
+  },
+  "lanços": {
+    "P": [
+      "lancinho",
+      "lancinhos"
+    ],
+    "À+P": [
+      "relancinho",
+      "relancinhos"
+    ]
+  },
+  "landal": {
+    "R": [
+      "landalzinho",
+      "landaizinhos"
+    ],
+    "V": [
+      "landalzão",
+      "landalzões"
+    ]
+  },
+  "landeiral": {
+    "R": [
+      "landeiralzinho",
+      "landeiraizinhos"
+    ],
+    "V": [
+      "landeiralzão",
+      "landeiralzões"
+    ]
+  },
+  "landuar": {
+    "R": [
+      "landuarezinhos",
+      "landuarzinho"
+    ]
+  },
+  "lanfranhudo": {
+    "O": [
+      "lanfranhudinha",
+      "lanfranhudinhas"
+    ],
+    "P": [
+      "lanfranhudinho",
+      "lanfranhudinhos"
+    ]
+  },
+  "langabote": {
+    "P": [
+      "langabotinho",
+      "langabotinhos"
+    ]
+  },
+  "langanhoso": {
+    "O": [
+      "langanhosinha",
+      "langanhosinhas"
+    ],
+    "P": [
+      "langanhosinho",
+      "langanhosinhos"
+    ]
+  },
+  "langite": {
+    "O": [
+      "langitinha",
+      "langitinhas"
+    ],
+    "P": [
+      "langitinho",
+      "langitinhos"
+    ]
+  },
+  "langor": {
+    "R": [
+      "langorezinhos",
+      "langorzinho"
+    ]
+  },
+  "langoroso": {
+    "O": [
+      "langorosinha",
+      "langorosinhas"
+    ],
+    "P": [
+      "langorosinho",
+      "langorosinhos"
+    ]
+  },
+  "languebote": {
+    "P": [
+      "languebotinho",
+      "languebotinhos"
+    ]
+  },
+  "languedor": {
+    "R": [
+      "languedorezinhos",
+      "languedorzinho"
+    ]
+  },
+  "langueirão": {
+    "R": [
+      "langueirãozinho",
+      "langueirõezinhos"
+    ],
+    "V": [
+      "langueirãozão",
+      "langueirãozões"
+    ]
+  },
+  "languente": {
+    "P": [
+      "languentinho",
+      "languentinhos"
+    ]
+  },
+  "languescente": {
+    "P": [
+      "languescentinho",
+      "languescentinhos"
+    ]
+  },
+  "languinhoso": {
+    "O": [
+      "languinhosinha",
+      "languinhosinhas"
+    ],
+    "P": [
+      "languinhosinho",
+      "languinhosinhos"
+    ]
+  },
+  "lanhação": {
+    "Q": [
+      "lanhaçãozinha",
+      "lanhaçõezinhas"
+    ],
+    "W": [
+      "lanhaçona",
+      "lanhaçonas"
+    ]
+  },
+  "laniar": {
+    "R": [
+      "laniarezinhos",
+      "laniarzinho"
+    ]
+  },
+  "lanificial": {
+    "R": [
+      "lanificialzinho",
+      "lanificiaizinhos"
+    ],
+    "V": [
+      "lanificialzão",
+      "lanificialzões"
+    ]
+  },
+  "laniginoso": {
+    "O": [
+      "laniginosinha",
+      "laniginosinhas"
+    ],
+    "P": [
+      "laniginosinho",
+      "laniginosinhos"
+    ]
+  },
+  "laniquidar": {
+    "R": [
+      "laniquidarezinhos",
+      "laniquidarzinho"
+    ]
+  },
+  "lanital": {
+    "R": [
+      "lanitalzinho",
+      "lanitaizinhos"
+    ],
+    "V": [
+      "lanitalzão",
+      "lanitalzões"
+    ]
+  },
+  "lanitite": {
+    "O": [
+      "lanititinha",
+      "lanititinhas"
+    ],
+    "P": [
+      "lanititinho",
+      "lanititinhos"
+    ]
+  },
+  "lanoconazol": {
+    "R": [
+      "lanoconazolzinho",
+      "lanoconazoizinhos"
+    ],
+    "V": [
+      "lanoconazolzão",
+      "lanoconazolzões"
+    ]
+  },
+  "lanoso": {
+    "O": [
+      "lanosinha",
+      "lanosinhas"
+    ],
+    "P": [
+      "lanosinho",
+      "lanosinhos"
+    ],
+    "È+O": [
+      "sublanosinha",
+      "sublanosinhas"
+    ],
+    "È+P": [
+      "sublanosinho",
+      "sublanosinhos"
+    ]
+  },
+  "lanosterol": {
+    "R": [
+      "lanosterolzinho",
+      "lanosteroizinhos"
+    ],
+    "V": [
+      "lanosterolzão",
+      "lanosterolzões"
+    ]
+  },
+  "lansoprazol": {
+    "R": [
+      "lansoprazolzinho",
+      "lansoprazoizinhos"
+    ],
+    "V": [
+      "lansoprazolzão",
+      "lansoprazolzões"
+    ]
+  },
+  "lansquenete": {
+    "O": [
+      "lansquenetinha",
+      "lansquenetinhas"
+    ],
+    "P": [
+      "lansquenetinho",
+      "lansquenetinhos"
+    ]
+  },
+  "lantanite": {
+    "O": [
+      "lantanitinha",
+      "lantanitinhas"
+    ],
+    "P": [
+      "lantanitinho",
+      "lantanitinhos"
+    ]
+  },
+  "lantor": {
+    "R": [
+      "lantorezinhos",
+      "lantorzinho"
+    ]
+  },
+  "lanudo": {
+    "O": [
+      "lanudinha",
+      "lanudinhas"
+    ],
+    "P": [
+      "lanudinho",
+      "lanudinhos"
+    ]
+  },
+  "lanuginoso": {
+    "O": [
+      "lanuginosinha",
+      "lanuginosinhas"
+    ],
+    "P": [
+      "lanuginosinho",
+      "lanuginosinhos"
+    ]
+  },
+  "lanugioso": {
+    "O": [
+      "lanugiosinha",
+      "lanugiosinhas"
+    ],
+    "P": [
+      "lanugiosinho",
+      "lanugiosinhos"
+    ]
+  },
+  "lanzudo": {
+    "O": [
+      "lanzudinha",
+      "lanzudinhas"
+    ],
+    "P": [
+      "lanzudinho",
+      "lanzudinhos"
+    ]
+  },
+  "lapachol": {
+    "R": [
+      "lapacholzinho",
+      "lapachoizinhos"
+    ],
+    "V": [
+      "lapacholzão",
+      "lapacholzões"
+    ]
+  },
+  "laparoso": {
+    "O": [
+      "laparosinha",
+      "laparosinhas"
+    ],
+    "P": [
+      "laparosinho",
+      "laparosinhos"
+    ]
+  },
+  "lapeiroso": {
+    "O": [
+      "lapeirosinha",
+      "lapeirosinhas"
+    ],
+    "P": [
+      "lapeirosinho",
+      "lapeirosinhos"
+    ]
+  },
+  "lapiar": {
+    "R": [
+      "lapiarezinhos",
+      "lapiarzinho"
+    ]
+  },
+  "lapiasação": {
+    "Q": [
+      "lapiasaçãozinha",
+      "lapiasaçõezinhas"
+    ],
+    "W": [
+      "lapiasaçona",
+      "lapiasaçonas"
+    ]
+  },
+  "lapidação": {
+    "Q": [
+      "lapidaçãozinha",
+      "lapidaçõezinhas"
+    ],
+    "W": [
+      "lapidaçona",
+      "lapidaçonas"
+    ],
+    "Â+Q": [
+      "deslapidaçãozinha",
+      "deslapidaçõezinhas"
+    ],
+    "Â+W": [
+      "deslapidaçona",
+      "deslapidaçonas"
+    ]
+  },
+  "lapidescente": {
+    "P": [
+      "lapidescentinho",
+      "lapidescentinhos"
+    ]
+  },
+  "lapidificação": {
+    "Q": [
+      "lapidificaçãozinha",
+      "lapidificaçõezinhas"
+    ],
+    "W": [
+      "lapidificaçona",
+      "lapidificaçonas"
+    ]
+  },
+  "lapidoso": {
+    "O": [
+      "lapidosinha",
+      "lapidosinhas"
+    ],
+    "P": [
+      "lapidosinho",
+      "lapidosinhos"
+    ]
+  },
+  "lapiloso": {
+    "O": [
+      "lapilosinha",
+      "lapilosinhas"
+    ],
+    "P": [
+      "lapilosinho",
+      "lapilosinhos"
+    ]
+  },
+  "lapinante": {
+    "P": [
+      "lapinantinho",
+      "lapinantinhos"
+    ]
+  },
+  "lapinização": {
+    "Q": [
+      "lapinizaçãozinha",
+      "lapinizaçõezinhas"
+    ],
+    "W": [
+      "lapinizaçona",
+      "lapinizaçonas"
+    ]
+  },
+  "laqueação": {
+    "Q": [
+      "laqueaçãozinha",
+      "laqueaçõezinhas"
+    ],
+    "W": [
+      "laqueaçona",
+      "laqueaçonas"
+    ],
+    "à+Q": [
+      "ultralaqueaçãozinha",
+      "ultralaqueaçõezinhas"
+    ],
+    "Ä+Q": [
+      "ilaqueaçãozinha",
+      "ilaqueaçõezinhas"
+    ],
+    "à+W": [
+      "ultralaqueaçona",
+      "ultralaqueaçonas"
+    ],
+    "Ä+W": [
+      "ilaqueaçona",
+      "ilaqueaçonas"
+    ]
+  },
+  "lar": {
+    "R": [
+      "larezinhos",
+      "larzinho"
+    ],
+    "ü+R": [
+      "ex-larezinhos",
+      "ex-larzinho"
+    ]
+  },
+  "larachoso": {
+    "O": [
+      "larachosinha",
+      "larachosinhas"
+    ],
+    "P": [
+      "larachosinho",
+      "larachosinhos"
+    ]
+  },
+  "laranjal": {
+    "R": [
+      "laranjalzinho",
+      "laranjaizinhos"
+    ],
+    "V": [
+      "laranjalzão",
+      "laranjalzões"
+    ]
+  },
+  "laranjão": {
+    "R": [
+      "laranjãozinho",
+      "laranjõezinhos"
+    ],
+    "V": [
+      "laranjãozão",
+      "laranjãozões"
+    ]
+  },
+  "lardão": {
+    "R": [
+      "lardãozinho",
+      "lardõezinhos"
+    ],
+    "V": [
+      "lardãozão",
+      "lardãozões"
+    ]
+  },
+  "larderelite": {
+    "O": [
+      "larderelitinha",
+      "larderelitinhas"
+    ],
+    "P": [
+      "larderelitinho",
+      "larderelitinhos"
+    ]
+  },
+  "larderellite": {
+    "O": [
+      "larderellitinha",
+      "larderellitinhas"
+    ],
+    "P": [
+      "larderellitinho",
+      "larderellitinhos"
+    ]
+  },
+  "larental": {
+    "R": [
+      "larentalzinho",
+      "larentaizinhos"
+    ],
+    "V": [
+      "larentalzão",
+      "larentalzões"
+    ]
+  },
+  "larentinal": {
+    "R": [
+      "larentinalzinho",
+      "larentinaizinhos"
+    ],
+    "V": [
+      "larentinalzão",
+      "larentinalzões"
+    ]
+  },
+  "largação": {
+    "Q": [
+      "largaçãozinha",
+      "largaçõezinhas"
+    ],
+    "W": [
+      "largaçona",
+      "largaçonas"
+    ]
+  },
+  "largição": {
+    "Q": [
+      "largiçãozinha",
+      "largiçõezinhas"
+    ],
+    "W": [
+      "largiçona",
+      "largiçonas"
+    ]
+  },
+  "largos": {
+    "P": [
+      "larguinho",
+      "larguinhos"
+    ]
+  },
+  "larião": {
+    "R": [
+      "lariãozinho",
+      "lariõezinhos"
+    ],
+    "V": [
+      "lariãozão",
+      "lariãozões"
+    ]
+  },
+  "laridão": {
+    "R": [
+      "laridãozinho",
+      "laridõezinhos"
+    ],
+    "V": [
+      "laridãozão",
+      "laridãozões"
+    ]
+  },
+  "larinate": {
+    "P": [
+      "larinatinho",
+      "larinatinhos"
+    ]
+  },
+  "laringal": {
+    "R": [
+      "laringalzinho",
+      "laringaizinhos"
+    ],
+    "V": [
+      "laringalzão",
+      "laringalzões"
+    ]
+  },
+  "laringite": {
+    "P": [
+      "laringitinho",
+      "laringitinhos"
+    ]
+  },
+  "laringofaringite": {
+    "P": [
+      "laringofaringitinho",
+      "laringofaringitinhos"
+    ]
+  },
+  "laringografação": {
+    "Q": [
+      "laringografaçãozinha",
+      "laringografaçõezinhas"
+    ],
+    "W": [
+      "laringografaçona",
+      "laringografaçonas"
+    ]
+  },
+  "laringotraqueal": {
+    "R": [
+      "laringotraquealzinho",
+      "laringotraqueaizinhos"
+    ],
+    "V": [
+      "laringotraquealzão",
+      "laringotraquealzões"
+    ]
+  },
+  "laringotraqueobronquite": {
+    "P": [
+      "laringotraqueobronquitinho",
+      "laringotraqueobronquitinhos"
+    ]
+  },
+  "larote": {
+    "O": [
+      "larotinha",
+      "larotinhas"
+    ],
+    "P": [
+      "larotinho",
+      "larotinhos"
+    ]
+  },
+  "larval": {
+    "R": [
+      "larvalzinho",
+      "larvaizinhos"
+    ],
+    "V": [
+      "larvalzão",
+      "larvalzões"
+    ]
+  },
+  "larvas-alfinete": {
+    "P": [
+      "larvas-alfinetinho",
+      "larvas-alfinetinhos"
+    ]
+  },
+  "laserol": {
+    "R": [
+      "laserolzinho",
+      "laseroizinhos"
+    ],
+    "V": [
+      "laserolzão",
+      "laserolzões"
+    ]
+  },
+  "lasionite": {
+    "P": [
+      "lasionitinho",
+      "lasionitinhos"
+    ]
+  },
+  "lasiopogão": {
+    "R": [
+      "lasiopogãozinho",
+      "lasiopogõezinhos"
+    ],
+    "V": [
+      "lasiopogãozão",
+      "lasiopogãozões"
+    ]
+  },
+  "lasiorrinquite": {
+    "P": [
+      "lasiorrinquitinho",
+      "lasiorrinquitinhos"
+    ]
+  },
+  "lasiossifão": {
+    "R": [
+      "lasiossifãozinho",
+      "lasiossifõezinhos"
+    ],
+    "V": [
+      "lasiossifãozão",
+      "lasiossifãozões"
+    ]
+  },
+  "lastimoso": {
+    "O": [
+      "lastimosinha",
+      "lastimosinhas"
+    ],
+    "P": [
+      "lastimosinho",
+      "lastimosinhos"
+    ]
+  },
+  "lastração": {
+    "Q": [
+      "lastraçãozinha",
+      "lastraçõezinhas"
+    ],
+    "W": [
+      "lastraçona",
+      "lastraçonas"
+    ],
+    "Â+Q": [
+      "deslastraçãozinha",
+      "deslastraçõezinhas"
+    ],
+    "Â+W": [
+      "deslastraçona",
+      "deslastraçonas"
+    ]
+  },
+  "lastrão": {
+    "R": [
+      "lastrãozinho",
+      "lastrõezinhos"
+    ],
+    "V": [
+      "lastrãozão",
+      "lastrãozões"
+    ]
+  },
+  "lastros": {
+    "P": [
+      "lastrinho",
+      "lastrinhos"
+    ]
+  },
+  "lata": {
+    "O": [
+      "latinha",
+      "latinhas"
+    ],
+    "W": [
+      "latona",
+      "latonas"
+    ]
+  },
+  "latagão": {
+    "R": [
+      "latagãozinho",
+      "latagõezinhos"
+    ],
+    "V": [
+      "latagãozão",
+      "latagãozões"
+    ]
+  },
+  "latão": {
+    "R": [
+      "latãozinho",
+      "latõezinhos"
+    ],
+    "V": [
+      "latãozão",
+      "latãozões"
+    ]
+  },
+  "latebroso": {
+    "O": [
+      "latebrosinha",
+      "latebrosinhas"
+    ],
+    "P": [
+      "latebrosinho",
+      "latebrosinhos"
+    ]
+  },
+  "latejos": {
+    "P": [
+      "latejinho",
+      "latejinhos"
+    ]
+  },
+  "latencificação": {
+    "Q": [
+      "latencificaçãozinha",
+      "latencificaçõezinhas"
+    ],
+    "W": [
+      "latencificaçona",
+      "latencificaçonas"
+    ]
+  },
+  "latente": {
+    "P": [
+      "latentinho",
+      "latentinhos"
+    ]
+  },
+  "lateral": {
+    "R": [
+      "lateralzinho",
+      "lateraizinhos"
+    ],
+    "V": [
+      "lateralzão",
+      "lateralzões"
+    ],
+    "Ó+R": [
+      "contralateralzinho",
+      "contralateraizinhos"
+    ],
+    "ü+R": [
+      "ex-lateralzinho",
+      "ex-lateraizinhos"
+    ],
+    "Ó+V": [
+      "contralateralzão",
+      "contralateralzões"
+    ],
+    "ü+V": [
+      "ex-lateralzão",
+      "ex-lateralzões"
+    ]
+  },
+  "lateralização": {
+    "Q": [
+      "lateralizaçãozinha",
+      "lateralizaçõezinhas"
+    ],
+    "W": [
+      "lateralizaçona",
+      "lateralizaçonas"
+    ]
+  },
+  "latericostal": {
+    "R": [
+      "latericostalzinho",
+      "latericostaizinhos"
+    ],
+    "V": [
+      "latericostalzão",
+      "latericostalzões"
+    ],
+    "Í+R": [
+      "interlatericostalzinho",
+      "interlatericostaizinhos"
+    ],
+    "Í+V": [
+      "interlatericostalzão",
+      "interlatericostalzões"
+    ]
+  },
+  "lateridorsal": {
+    "R": [
+      "lateridorsalzinho",
+      "lateridorsaizinhos"
+    ],
+    "V": [
+      "lateridorsalzão",
+      "lateridorsalzões"
+    ]
+  },
+  "lateriflexão": {
+    "R": [
+      "lateriflexãozinho",
+      "lateriflexõezinhos"
+    ],
+    "V": [
+      "lateriflexãozão",
+      "lateriflexãozões"
+    ]
+  },
+  "lateriposição": {
+    "Q": [
+      "lateriposiçãozinha",
+      "lateriposiçõezinhas"
+    ],
+    "W": [
+      "lateriposiçona",
+      "lateriposiçonas"
+    ]
+  },
+  "lateripulsão": {
+    "Q": [
+      "lateripulsãozinha",
+      "lateripulsõezinhas"
+    ],
+    "W": [
+      "lateripulsona",
+      "lateripulsonas"
+    ]
+  },
+  "laterite": {
+    "P": [
+      "lateritinho",
+      "lateritinhos"
+    ]
+  },
+  "lateritização": {
+    "Q": [
+      "lateritizaçãozinha",
+      "lateritizaçõezinhas"
+    ],
+    "W": [
+      "lateritizaçona",
+      "lateritizaçonas"
+    ]
+  },
+  "lateriversão": {
+    "Q": [
+      "lateriversãozinha",
+      "lateriversõezinhas"
+    ],
+    "W": [
+      "lateriversona",
+      "lateriversonas"
+    ]
+  },
+  "laterização": {
+    "Q": [
+      "laterizaçãozinha",
+      "laterizaçõezinhas"
+    ],
+    "W": [
+      "laterizaçona",
+      "laterizaçonas"
+    ]
+  },
+  "látero-lateral": {
+    "R": [
+      "látero-lateralzinho",
+      "látero-lateraizinhos"
+    ],
+    "V": [
+      "látero-lateralzão",
+      "látero-lateralzões"
+    ]
+  },
+  "laterodorsal": {
+    "R": [
+      "laterodorsalzinho",
+      "laterodorsaizinhos"
+    ],
+    "V": [
+      "laterodorsalzão",
+      "laterodorsalzões"
+    ]
+  },
+  "laterodução": {
+    "Q": [
+      "lateroduçãozinha",
+      "lateroduçõezinhas"
+    ],
+    "W": [
+      "lateroduçona",
+      "lateroduçonas"
+    ]
+  },
+  "lateroflexão": {
+    "R": [
+      "lateroflexãozinho",
+      "lateroflexõezinhos"
+    ],
+    "V": [
+      "lateroflexãozão",
+      "lateroflexãozões"
+    ]
+  },
+  "laterolateral": {
+    "R": [
+      "laterolateralzinho",
+      "laterolateraizinhos"
+    ],
+    "V": [
+      "laterolateralzão",
+      "laterolateralzões"
+    ]
+  },
+  "lateroposição": {
+    "Q": [
+      "lateroposiçãozinha",
+      "lateroposiçõezinhas"
+    ],
+    "W": [
+      "lateroposiçona",
+      "lateroposiçonas"
+    ]
+  },
+  "lateropulsão": {
+    "Q": [
+      "lateropulsãozinha",
+      "lateropulsõezinhas"
+    ],
+    "W": [
+      "lateropulsona",
+      "lateropulsonas"
+    ]
+  },
+  "lateroterminal": {
+    "R": [
+      "lateroterminalzinho",
+      "lateroterminaizinhos"
+    ],
+    "V": [
+      "lateroterminalzão",
+      "lateroterminalzões"
+    ]
+  },
+  "laterotorção": {
+    "Q": [
+      "laterotorçãozinha",
+      "laterotorçõezinhas"
+    ],
+    "W": [
+      "laterotorçona",
+      "laterotorçonas"
+    ]
+  },
+  "lateroversão": {
+    "Q": [
+      "lateroversãozinha",
+      "lateroversõezinhas"
+    ],
+    "W": [
+      "lateroversona",
+      "lateroversonas"
+    ]
+  },
+  "latescente": {
+    "P": [
+      "latescentinho",
+      "latescentinhos"
+    ]
+  },
+  "latibular": {
+    "R": [
+      "latibularezinhos",
+      "latibularzinho"
+    ]
+  },
+  "laticinoso": {
+    "O": [
+      "laticinosinha",
+      "laticinosinhas"
+    ],
+    "P": [
+      "laticinosinho",
+      "laticinosinhos"
+    ]
+  },
+  "latidão": {
+    "R": [
+      "latidãozinho",
+      "latidõezinhos"
+    ],
+    "V": [
+      "latidãozão",
+      "latidãozões"
+    ]
+  },
+  "latilaminar": {
+    "R": [
+      "latilaminarezinhos",
+      "latilaminarzinho"
+    ]
+  },
+  "latiloquente": {
+    "P": [
+      "latiloquentinho",
+      "latiloquentinhos"
+    ]
+  },
+  "latinização": {
+    "Q": [
+      "latinizaçãozinha",
+      "latinizaçõezinhas"
+    ],
+    "W": [
+      "latinizaçona",
+      "latinizaçonas"
+    ],
+    "ò+Q": [
+      "alatinizaçãozinha",
+      "alatinizaçõezinhas"
+    ],
+    "ò+W": [
+      "alatinizaçona",
+      "alatinizaçonas"
+    ]
+  },
+  "latino-classicizante": {
+    "P": [
+      "latino-classicizantinho",
+      "latino-classicizantinhos"
+    ]
+  },
+  "latino-cristão": {
+    "R": [
+      "latino-cristãozinho",
+      "latino-cristõezinhos"
+    ],
+    "V": [
+      "latino-cristãozão",
+      "latino-cristãozões"
+    ]
+  },
+  "latino-medieval": {
+    "R": [
+      "latino-medievalzinho",
+      "latino-medievaizinhos"
+    ],
+    "V": [
+      "latino-medievalzão",
+      "latino-medievalzões"
+    ]
+  },
+  "latino-medievalizante": {
+    "P": [
+      "latino-medievalizantinho",
+      "latino-medievalizantinhos"
+    ]
+  },
+  "latino-vulgar": {
+    "R": [
+      "latino-vulgarezinhos",
+      "latino-vulgarzinho"
+    ]
+  },
+  "latinos": {
+    "P": [
+      "latininho",
+      "latininhos"
+    ]
+  },
+  "latiplantar": {
+    "R": [
+      "latiplantarezinhos",
+      "latiplantarzinho"
+    ]
+  },
+  "latitudinal": {
+    "R": [
+      "latitudinalzinho",
+      "latitudinaizinhos"
+    ],
+    "V": [
+      "latitudinalzão",
+      "latitudinalzões"
+    ],
+    "Ñ+R": [
+      "colatitudinalzinho",
+      "colatitudinaizinhos"
+    ],
+    "Ñ+V": [
+      "colatitudinalzão",
+      "colatitudinalzões"
+    ]
+  },
+  "latolização": {
+    "Q": [
+      "latolizaçãozinha",
+      "latolizaçõezinhas"
+    ],
+    "W": [
+      "latolizaçona",
+      "latolizaçonas"
+    ]
+  },
+  "laudanização": {
+    "Q": [
+      "laudanizaçãozinha",
+      "laudanizaçõezinhas"
+    ],
+    "W": [
+      "laudanizaçona",
+      "laudanizaçonas"
+    ]
+  },
+  "laudel": {
+    "R": [
+      "laudelzinho",
+      "laudeizinhos"
+    ],
+    "V": [
+      "laudelzão",
+      "laudelzões"
+    ]
+  },
+  "laudo": {
+    "O": [
+      "laudinha",
+      "laudinhas"
+    ],
+    "P": [
+      "laudinho",
+      "laudinhos"
+    ]
+  },
+  "laumonite": {
+    "O": [
+      "laumonitinha",
+      "laumonitinhas"
+    ],
+    "P": [
+      "laumonitinho",
+      "laumonitinhos"
+    ]
+  },
+  "laumontite": {
+    "O": [
+      "laumontitinha",
+      "laumontitinhas"
+    ],
+    "P": [
+      "laumontitinho",
+      "laumontitinhos"
+    ]
+  },
+  "laurel": {
+    "R": [
+      "laurelzinho",
+      "laureizinhos"
+    ],
+    "V": [
+      "laurelzão",
+      "laurelzões"
+    ]
+  },
+  "laurenol": {
+    "R": [
+      "laurenolzinho",
+      "laurenoizinhos"
+    ],
+    "V": [
+      "laurenolzão",
+      "laurenolzões"
+    ]
+  },
+  "laurente-lavinate": {
+    "P": [
+      "laurente-lavinatinho",
+      "laurente-lavinatinhos"
+    ]
+  },
+  "laurente": {
+    "P": [
+      "laurentinho",
+      "laurentinhos"
+    ]
+  },
+  "laurionite": {
+    "O": [
+      "laurionitinha",
+      "laurionitinhas"
+    ],
+    "P": [
+      "laurionitinho",
+      "laurionitinhos"
+    ]
+  },
+  "laurite": {
+    "O": [
+      "lauritinha",
+      "lauritinhas"
+    ],
+    "P": [
+      "lauritinho",
+      "lauritinhos"
+    ]
+  },
+  "laurocéraso": {
+    "P": [
+      "laurocérasinho",
+      "laurocérasinhos"
+    ],
+    "V": [
+      "laurocérasão",
+      "laurocérasões"
+    ]
+  },
+  "lauromacrogol": {
+    "R": [
+      "lauromacrogolzinho",
+      "lauromacrogoizinhos"
+    ],
+    "V": [
+      "lauromacrogolzão",
+      "lauromacrogolzões"
+    ]
+  },
+  "lautal": {
+    "R": [
+      "lautalzinho",
+      "lautaizinhos"
+    ],
+    "V": [
+      "lautalzão",
+      "lautalzões"
+    ]
+  },
+  "lautarite": {
+    "O": [
+      "lautaritinha",
+      "lautaritinhas"
+    ],
+    "P": [
+      "lautaritinho",
+      "lautaritinhos"
+    ]
+  },
+  "lautite": {
+    "O": [
+      "lautitinha",
+      "lautitinhas"
+    ],
+    "P": [
+      "lautitinho",
+      "lautitinhos"
+    ]
+  },
+  "lava-dente": {
+    "P": [
+      "lava-dentinho",
+      "lava-dentinhos"
+    ]
+  },
+  "lavação": {
+    "Q": [
+      "lavaçãozinha",
+      "lavaçõezinhas"
+    ],
+    "W": [
+      "lavaçona",
+      "lavaçonas"
+    ]
+  },
+  "lavagante": {
+    "P": [
+      "lavagantinho",
+      "lavagantinhos"
+    ]
+  },
+  "lavandulol": {
+    "R": [
+      "lavandulolzinho",
+      "lavanduloizinhos"
+    ],
+    "V": [
+      "lavandulolzão",
+      "lavandulolzões"
+    ]
+  },
+  "lavascão": {
+    "R": [
+      "lavascãozinho",
+      "lavascõezinhos"
+    ],
+    "V": [
+      "lavascãozão",
+      "lavascãozões"
+    ]
+  },
+  "lavegante": {
+    "P": [
+      "lavegantinho",
+      "lavegantinhos"
+    ]
+  },
+  "lavendulite": {
+    "O": [
+      "lavendulitinha",
+      "lavendulitinhas"
+    ],
+    "P": [
+      "lavendulitinho",
+      "lavendulitinhos"
+    ]
+  },
+  "lavernal": {
+    "R": [
+      "lavernalzinho",
+      "lavernaizinhos"
+    ],
+    "V": [
+      "lavernalzão",
+      "lavernalzões"
+    ]
+  },
+  "lavoração": {
+    "Q": [
+      "lavoraçãozinha",
+      "lavoraçõezinhas"
+    ],
+    "W": [
+      "lavoraçona",
+      "lavoraçonas"
+    ]
+  },
+  "lavoso": {
+    "O": [
+      "lavosinha",
+      "lavosinhas"
+    ],
+    "P": [
+      "lavosinho",
+      "lavosinhos"
+    ]
+  },
+  "lavra-mão": {
+    "R": [
+      "lavra-mãozinho",
+      "lavra-mõezinhos"
+    ],
+    "V": [
+      "lavra-mãozão",
+      "lavra-mãozões"
+    ]
+  },
+  "lavração": {
+    "Q": [
+      "lavraçãozinha",
+      "lavraçõezinhas"
+    ],
+    "W": [
+      "lavraçona",
+      "lavraçonas"
+    ]
+  },
+  "lavradoral": {
+    "R": [
+      "lavradoralzinho",
+      "lavradoraizinhos"
+    ],
+    "V": [
+      "lavradoralzão",
+      "lavradoralzões"
+    ]
+  },
+  "laxação": {
+    "Q": [
+      "laxaçãozinha",
+      "laxaçõezinhas"
+    ],
+    "W": [
+      "laxaçona",
+      "laxaçonas"
+    ],
+    "À+Q": [
+      "relaxaçãozinha",
+      "relaxaçõezinhas"
+    ],
+    "À+W": [
+      "relaxaçona",
+      "relaxaçonas"
+    ]
+  },
+  "laxidão": {
+    "R": [
+      "laxidãozinho",
+      "laxidõezinhos"
+    ],
+    "V": [
+      "laxidãozão",
+      "laxidãozões"
+    ],
+    "À+R": [
+      "relaxidãozinho",
+      "relaxidõezinhos"
+    ],
+    "À+V": [
+      "relaxidãozão",
+      "relaxidãozões"
+    ]
+  },
+  "lãzudo": {
+    "O": [
+      "lãzudinha",
+      "lãzudinhas"
+    ],
+    "P": [
+      "lãzudinho",
+      "lãzudinhos"
+    ]
+  },
+  "lazulite": {
+    "P": [
+      "lazulitinho",
+      "lazulitinhos"
+    ]
+  },
+  "leal": {
+    "R": [
+      "lealzinho",
+      "leaizinhos"
+    ],
+    "V": [
+      "lealzão",
+      "lealzões"
+    ],
+    "Â+R": [
+      "deslealzinho",
+      "desleaizinhos"
+    ],
+    "Ä+R": [
+      "ilealzinho",
+      "ileaizinhos"
+    ],
+    "Â+V": [
+      "deslealzão",
+      "deslealzões"
+    ],
+    "Ä+V": [
+      "ilealzão",
+      "ilealzões"
+    ]
+  },
+  "lealdação": {
+    "Q": [
+      "lealdaçãozinha",
+      "lealdaçõezinhas"
+    ],
+    "W": [
+      "lealdaçona",
+      "lealdaçonas"
+    ],
+    "ò+Q": [
+      "alealdaçãozinha",
+      "alealdaçõezinhas"
+    ],
+    "ò+W": [
+      "alealdaçona",
+      "alealdaçonas"
+    ]
+  },
+  "lealdoso": {
+    "O": [
+      "lealdosinha",
+      "lealdosinhas"
+    ],
+    "P": [
+      "lealdosinho",
+      "lealdosinhos"
+    ],
+    "Â+O": [
+      "deslealdosinha",
+      "deslealdosinhas"
+    ],
+    "Â+P": [
+      "deslealdosinho",
+      "deslealdosinhos"
+    ]
+  },
+  "leandro": {
+    "P": [
+      "leandrinho",
+      "leandrinhos"
+    ]
+  },
+  "leão": {
+    "R": [
+      "leãozinho",
+      "leõezinhos"
+    ],
+    "V": [
+      "leãozão",
+      "leãozões"
+    ]
+  },
+  "leãozete": {
+    "P": [
+      "leãozetinho",
+      "leãozetinhos"
+    ]
+  },
+  "lebrão": {
+    "R": [
+      "lebrãozinho",
+      "lebrõezinhos"
+    ],
+    "V": [
+      "lebrãozão",
+      "lebrãozões"
+    ]
+  },
+  "lebrel": {
+    "R": [
+      "lebrelzinho",
+      "lebreizinhos"
+    ],
+    "V": [
+      "lebrelzão",
+      "lebrelzões"
+    ]
+  },
+  "lecal": {
+    "R": [
+      "lecalzinho",
+      "lecaizinhos"
+    ],
+    "V": [
+      "lecalzão",
+      "lecalzões"
+    ]
+  },
+  "lecanomante": {
+    "P": [
+      "lecanomantinho",
+      "lecanomantinhos"
+    ]
+  },
+  "leccionação": {
+    "Q": [
+      "leccionaçãozinha",
+      "leccionaçõezinhas"
+    ],
+    "W": [
+      "leccionaçona",
+      "leccionaçonas"
+    ]
+  },
+  "leccional": {
+    "R": [
+      "leccionalzinho",
+      "leccionaizinhos"
+    ],
+    "V": [
+      "leccionalzão",
+      "leccionalzões"
+    ]
+  },
+  "lecionação": {
+    "Q": [
+      "lecionaçãozinha",
+      "lecionaçõezinhas"
+    ],
+    "W": [
+      "lecionaçona",
+      "lecionaçonas"
+    ],
+    "Ñ+Q": [
+      "colecionaçãozinha",
+      "colecionaçõezinhas"
+    ],
+    "Ñ+W": [
+      "colecionaçona",
+      "colecionaçonas"
+    ]
+  },
+  "lecional": {
+    "R": [
+      "lecionalzinho",
+      "lecionaizinhos"
+    ],
+    "V": [
+      "lecionalzão",
+      "lecionalzões"
+    ]
+  },
+  "lecite": {
+    "P": [
+      "lecitinho",
+      "lecitinhos"
+    ]
+  },
+  "lecitol": {
+    "R": [
+      "lecitolzinho",
+      "lecitoizinhos"
+    ],
+    "V": [
+      "lecitolzão",
+      "lecitolzões"
+    ]
+  },
+  "lecontite": {
+    "O": [
+      "lecontitinha",
+      "lecontitinhas"
+    ],
+    "P": [
+      "lecontitinho",
+      "lecontitinhos"
+    ]
+  },
+  "lector": {
+    "R": [
+      "lectorezinhos",
+      "lectorzinho"
+    ]
+  },
+  "ledazerol": {
+    "R": [
+      "ledazerolzinho",
+      "ledazeroizinhos"
+    ],
+    "V": [
+      "ledazerolzão",
+      "ledazerolzões"
+    ]
+  },
+  "ledol": {
+    "R": [
+      "ledolzinho",
+      "ledoizinhos"
+    ],
+    "V": [
+      "ledolzão",
+      "ledolzões"
+    ]
+  },
+  "ledor": {
+    "R": [
+      "ledorezinhos",
+      "ledorzinho"
+    ]
+  },
+  "leelite": {
+    "P": [
+      "leelitinho",
+      "leelitinhos"
+    ]
+  },
+  "legação": {
+    "Q": [
+      "legaçãozinha",
+      "legaçõezinhas"
+    ],
+    "W": [
+      "legaçona",
+      "legaçonas"
+    ],
+    "À+Q": [
+      "relegaçãozinha",
+      "relegaçõezinhas"
+    ],
+    "Â+Q": [
+      "deslegaçãozinha",
+      "deslegaçõezinhas"
+    ],
+    "ò+Q": [
+      "alegaçãozinha",
+      "alegaçõezinhas"
+    ],
+    "Û+Q": [
+      "prolegaçãozinha",
+      "prolegaçõezinhas"
+    ],
+    "À+W": [
+      "relegaçona",
+      "relegaçonas"
+    ],
+    "Â+W": [
+      "deslegaçona",
+      "deslegaçonas"
+    ],
+    "ò+W": [
+      "alegaçona",
+      "alegaçonas"
+    ],
+    "Û+W": [
+      "prolegaçona",
+      "prolegaçonas"
+    ]
+  },
+  "legal": {
+    "R": [
+      "legalzinho",
+      "legaizinhos"
+    ],
+    "V": [
+      "legalzão",
+      "legalzões"
+    ],
+    "Á+R": [
+      "antilegalzinho",
+      "antilegaizinhos"
+    ],
+    "Ä+R": [
+      "ilegalzinho",
+      "ilegaizinhos"
+    ],
+    "Ì+R": [
+      "superlegalzinho",
+      "superlegaizinhos"
+    ],
+    "Ô+R": [
+      "extralegalzinho",
+      "extralegaizinhos"
+    ],
+    "Ü+R": [
+      "semilegalzinho",
+      "semilegaizinhos"
+    ],
+    "Á+V": [
+      "antilegalzão",
+      "antilegalzões"
+    ],
+    "Ä+V": [
+      "ilegalzão",
+      "ilegalzões"
+    ],
+    "Ì+V": [
+      "superlegalzão",
+      "superlegalzões"
+    ],
+    "Ô+V": [
+      "extralegalzão",
+      "extralegalzões"
+    ],
+    "Ü+V": [
+      "semilegalzão",
+      "semilegalzões"
+    ]
+  },
+  "legalização": {
+    "Q": [
+      "legalizaçãozinha",
+      "legalizaçõezinhas"
+    ],
+    "W": [
+      "legalizaçona",
+      "legalizaçonas"
+    ],
+    "Ä+Q": [
+      "ilegalizaçãozinha",
+      "ilegalizaçõezinhas"
+    ],
+    "Ä+W": [
+      "ilegalizaçona",
+      "ilegalizaçonas"
+    ]
+  },
+  "legão": {
+    "R": [
+      "legãozinho",
+      "legõezinhos"
+    ],
+    "V": [
+      "legãozão",
+      "legãozões"
+    ]
+  },
+  "legendação": {
+    "Q": [
+      "legendaçãozinha",
+      "legendaçõezinhas"
+    ],
+    "W": [
+      "legendaçona",
+      "legendaçonas"
+    ]
+  },
+  "legente": {
+    "P": [
+      "legentinho",
+      "legentinhos"
+    ]
+  },
+  "legião": {
+    "R": [
+      "legiãozinho",
+      "legiõezinhos"
+    ],
+    "V": [
+      "legiãozão",
+      "legiãozões"
+    ]
+  },
+  "legiferação": {
+    "Q": [
+      "legiferaçãozinha",
+      "legiferaçõezinhas"
+    ],
+    "W": [
+      "legiferaçona",
+      "legiferaçonas"
+    ]
+  },
+  "legislação": {
+    "Q": [
+      "legislaçãozinha",
+      "legislaçõezinhas"
+    ],
+    "W": [
+      "legislaçona",
+      "legislaçonas"
+    ]
+  },
+  "legislatorial": {
+    "R": [
+      "legislatorialzinho",
+      "legislatoriaizinhos"
+    ],
+    "V": [
+      "legislatorialzão",
+      "legislatorialzões"
+    ]
+  },
+  "legispericial": {
+    "R": [
+      "legispericialzinho",
+      "legispericiaizinhos"
+    ],
+    "V": [
+      "legispericialzão",
+      "legispericialzões"
+    ]
+  },
+  "legitimação": {
+    "Q": [
+      "legitimaçãozinha",
+      "legitimaçõezinhas"
+    ],
+    "W": [
+      "legitimaçona",
+      "legitimaçonas"
+    ],
+    "À+Q": [
+      "relegitimaçãozinha",
+      "relegitimaçõezinhas"
+    ],
+    "Â+Q": [
+      "deslegitimaçãozinha",
+      "deslegitimaçõezinhas"
+    ],
+    "À+W": [
+      "relegitimaçona",
+      "relegitimaçonas"
+    ],
+    "Â+W": [
+      "deslegitimaçona",
+      "deslegitimaçonas"
+    ]
+  },
+  "legração": {
+    "Q": [
+      "legraçãozinha",
+      "legraçõezinhas"
+    ],
+    "W": [
+      "legraçona",
+      "legraçonas"
+    ]
+  },
+  "legume": {
+    "P": [
+      "leguminho",
+      "leguminhos"
+    ]
+  },
+  "leguminoso": {
+    "O": [
+      "leguminosinha",
+      "leguminosinhas"
+    ],
+    "P": [
+      "leguminosinho",
+      "leguminosinhos"
+    ]
+  },
+  "leiautação": {
+    "Q": [
+      "leiautaçãozinha",
+      "leiautaçõezinhas"
+    ],
+    "W": [
+      "leiautaçona",
+      "leiautaçonas"
+    ]
+  },
+  "leidoso": {
+    "O": [
+      "leidosinha",
+      "leidosinhas"
+    ],
+    "P": [
+      "leidosinho",
+      "leidosinhos"
+    ]
+  },
+  "leigal": {
+    "R": [
+      "leigalzinho",
+      "leigaizinhos"
+    ],
+    "V": [
+      "leigalzão",
+      "leigalzões"
+    ]
+  },
+  "leigarrão": {
+    "R": [
+      "leigarrãozinho",
+      "leigarrõezinhos"
+    ],
+    "V": [
+      "leigarrãozão",
+      "leigarrãozões"
+    ]
+  },
+  "leigos": {
+    "P": [
+      "leiguinho",
+      "leiguinhos"
+    ]
+  },
+  "leilão": {
+    "R": [
+      "leilãozinho",
+      "leilõezinhos"
+    ],
+    "V": [
+      "leilãozão",
+      "leilãozões"
+    ]
+  },
+  "leimonite": {
+    "P": [
+      "leimonitinho",
+      "leimonitinhos"
+    ]
+  },
+  "leiopirrol": {
+    "R": [
+      "leiopirrolzinho",
+      "leiopirroizinhos"
+    ],
+    "V": [
+      "leiopirrolzão",
+      "leiopirrolzões"
+    ]
+  },
+  "leital": {
+    "R": [
+      "leitalzinho",
+      "leitaizinhos"
+    ],
+    "V": [
+      "leitalzão",
+      "leitalzões"
+    ]
+  },
+  "leitão": {
+    "R": [
+      "leitãozinho",
+      "leitõezinhos"
+    ],
+    "V": [
+      "leitãozão",
+      "leitãozões"
+    ]
+  },
+  "leite": {
+    "P": [
+      "leitinho",
+      "leitinhos"
+    ]
+  },
+  "leitnerial": {
+    "R": [
+      "leitnerialzinho",
+      "leitneriaizinhos"
+    ],
+    "V": [
+      "leitnerialzão",
+      "leitnerialzões"
+    ]
+  },
+  "leitor": {
+    "R": [
+      "leitorezinhos",
+      "leitorzinho"
+    ],
+    "Ì+R": [
+      "superleitorezinhos",
+      "superleitorzinho"
+    ],
+    "Ò+R": [
+      "arquileitorezinhos",
+      "arquileitorzinho"
+    ],
+    "û+R": [
+      "microleitorezinhos",
+      "microleitorzinho"
+    ]
+  },
+  "leitoral": {
+    "R": [
+      "leitoralzinho",
+      "leitoraizinhos"
+    ],
+    "V": [
+      "leitoralzão",
+      "leitoralzões"
+    ]
+  },
+  "leitoril": {
+    "R": [
+      "leitorilzinho",
+      "leitoriizinhos"
+    ],
+    "V": [
+      "leitorilzão",
+      "leitorilzões"
+    ]
+  },
+  "leitoso": {
+    "O": [
+      "leitosinha",
+      "leitosinhas"
+    ],
+    "P": [
+      "leitosinho",
+      "leitosinhos"
+    ],
+    "Á+O": [
+      "antileitosinha",
+      "antileitosinhas"
+    ],
+    "Á+P": [
+      "antileitosinho",
+      "antileitosinhos"
+    ]
+  },
+  "leitual": {
+    "R": [
+      "leitualzinho",
+      "leituaizinhos"
+    ],
+    "V": [
+      "leitualzão",
+      "leitualzões"
+    ]
+  },
+  "leivão": {
+    "R": [
+      "leivãozinho",
+      "leivõezinhos"
+    ],
+    "V": [
+      "leivãozão",
+      "leivãozões"
+    ]
+  },
+  "leixão": {
+    "R": [
+      "leixãozinho",
+      "leixõezinhos"
+    ],
+    "V": [
+      "leixãozão",
+      "leixãozões"
+    ]
+  },
+  "lemanite": {
+    "O": [
+      "lemanitinha",
+      "lemanitinhas"
+    ],
+    "P": [
+      "lemanitinho",
+      "lemanitinhos"
+    ],
+    "Ñ+O": [
+      "colemanitinha",
+      "colemanitinhas"
+    ],
+    "Ñ+P": [
+      "colemanitinho",
+      "colemanitinhos"
+    ]
+  },
+  "lematização": {
+    "Q": [
+      "lematizaçãozinha",
+      "lematizaçõezinhas"
+    ],
+    "W": [
+      "lematizaçona",
+      "lematizaçonas"
+    ]
+  },
+  "lembrançoso": {
+    "O": [
+      "lembrançosinha",
+      "lembrançosinhas"
+    ],
+    "P": [
+      "lembrançosinho",
+      "lembrançosinhos"
+    ]
+  },
+  "lembrete": {
+    "P": [
+      "lembretinho",
+      "lembretinhos"
+    ],
+    "ò+P": [
+      "alembretinho",
+      "alembretinhos"
+    ]
+  },
+  "lemidosul": {
+    "R": [
+      "lemidosulzinho",
+      "lemidosuizinhos"
+    ],
+    "V": [
+      "lemidosulzão",
+      "lemidosulzões"
+    ]
+  },
+  "lemiste": {
+    "P": [
+      "lemistinho",
+      "lemistinhos"
+    ]
+  },
+  "lemonal": {
+    "R": [
+      "lemonalzinho",
+      "lemonaizinhos"
+    ],
+    "V": [
+      "lemonalzão",
+      "lemonalzões"
+    ]
+  },
+  "lemonol": {
+    "R": [
+      "lemonolzinho",
+      "lemonoizinhos"
+    ],
+    "V": [
+      "lemonolzão",
+      "lemonolzões"
+    ]
+  },
+  "lemoxinol": {
+    "R": [
+      "lemoxinolzinho",
+      "lemoxinoizinhos"
+    ],
+    "V": [
+      "lemoxinolzão",
+      "lemoxinolzões"
+    ]
+  },
+  "lemural": {
+    "R": [
+      "lemuralzinho",
+      "lemuraizinhos"
+    ],
+    "V": [
+      "lemuralzão",
+      "lemuralzões"
+    ]
+  },
+  "lenão": {
+    "R": [
+      "lenãozinho",
+      "lenõezinhos"
+    ],
+    "V": [
+      "lenãozão",
+      "lenãozões"
+    ]
+  },
+  "lenção": {
+    "R": [
+      "lençãozinho",
+      "lençõezinhos"
+    ],
+    "V": [
+      "lençãozão",
+      "lençãozões"
+    ]
+  },
+  "lenço": {
+    "P": [
+      "lencinho",
+      "lencinhos"
+    ]
+  },
+  "lençol": {
+    "R": [
+      "lençolzinho",
+      "lençoizinhos"
+    ]
+  },
+  "lendeoso": {
+    "O": [
+      "lendeosinha",
+      "lendeosinhas"
+    ],
+    "P": [
+      "lendeosinho",
+      "lendeosinhos"
+    ]
+  },
+  "lendroso": {
+    "O": [
+      "lendrosinha",
+      "lendrosinhas"
+    ],
+    "P": [
+      "lendrosinho",
+      "lendrosinhos"
+    ]
+  },
+  "lenercepte": {
+    "P": [
+      "lenerceptinho",
+      "lenerceptinhos"
+    ]
+  },
+  "lenhação": {
+    "Q": [
+      "lenhaçãozinha",
+      "lenhaçõezinhas"
+    ],
+    "W": [
+      "lenhaçona",
+      "lenhaçonas"
+    ]
+  },
+  "lenhal": {
+    "R": [
+      "lenhalzinho",
+      "lenhaizinhos"
+    ],
+    "V": [
+      "lenhalzão",
+      "lenhalzões"
+    ]
+  },
+  "lenhificação": {
+    "Q": [
+      "lenhificaçãozinha",
+      "lenhificaçõezinhas"
+    ],
+    "W": [
+      "lenhificaçona",
+      "lenhificaçonas"
+    ]
+  },
+  "lenhite": {
+    "P": [
+      "lenhitinho",
+      "lenhitinhos"
+    ]
+  },
+  "lenhos": {
+    "P": [
+      "lenhinho",
+      "lenhinhos"
+    ]
+  },
+  "lenhoso": {
+    "O": [
+      "lenhosinha",
+      "lenhosinhas"
+    ],
+    "P": [
+      "lenhosinho",
+      "lenhosinhos"
+    ],
+    "È+O": [
+      "sublenhosinha",
+      "sublenhosinhas"
+    ],
+    "Í+O": [
+      "interlenhosinha",
+      "interlenhosinhas"
+    ],
+    "Ü+O": [
+      "semilenhosinha",
+      "semilenhosinhas"
+    ],
+    "È+P": [
+      "sublenhosinho",
+      "sublenhosinhos"
+    ],
+    "Í+P": [
+      "interlenhosinho",
+      "interlenhosinhos"
+    ],
+    "Ü+P": [
+      "semilenhosinho",
+      "semilenhosinhos"
+    ]
+  },
+  "lenição": {
+    "Q": [
+      "leniçãozinha",
+      "leniçõezinhas"
+    ],
+    "W": [
+      "leniçona",
+      "leniçonas"
+    ]
+  },
+  "leniente": {
+    "P": [
+      "lenientinho",
+      "lenientinhos"
+    ]
+  },
+  "lenificação": {
+    "Q": [
+      "lenificaçãozinha",
+      "lenificaçõezinhas"
+    ],
+    "W": [
+      "lenificaçona",
+      "lenificaçonas"
+    ]
+  },
+  "lenigalol": {
+    "R": [
+      "lenigalolzinho",
+      "lenigaloizinhos"
+    ],
+    "V": [
+      "lenigalolzão",
+      "lenigalolzões"
+    ]
+  },
+  "lenimentoso": {
+    "O": [
+      "lenimentosinha",
+      "lenimentosinhas"
+    ],
+    "P": [
+      "lenimentosinho",
+      "lenimentosinhos"
+    ]
+  },
+  "lenização": {
+    "Q": [
+      "lenizaçãozinha",
+      "lenizaçõezinhas"
+    ],
+    "W": [
+      "lenizaçona",
+      "lenizaçonas"
+    ]
+  },
+  "lentação": {
+    "Q": [
+      "lentaçãozinha",
+      "lentaçõezinhas"
+    ],
+    "W": [
+      "lentaçona",
+      "lentaçonas"
+    ]
+  },
+  "lentescente": {
+    "P": [
+      "lentescentinho",
+      "lentescentinhos"
+    ]
+  },
+  "lenticular": {
+    "R": [
+      "lenticularezinhos",
+      "lenticularzinho"
+    ],
+    "Ö+R": [
+      "intralenticularezinhos",
+      "intralenticularzinho"
+    ]
+  },
+  "lentidão": {
+    "R": [
+      "lentidãozinho",
+      "lentidõezinhos"
+    ],
+    "V": [
+      "lentidãozão",
+      "lentidãozões"
+    ]
+  },
+  "lentiginoso": {
+    "O": [
+      "lentiginosinha",
+      "lentiginosinhas"
+    ],
+    "P": [
+      "lentiginosinho",
+      "lentiginosinhos"
+    ]
+  },
+  "lentilhão": {
+    "R": [
+      "lentilhãozinho",
+      "lentilhõezinhos"
+    ],
+    "V": [
+      "lentilhãozão",
+      "lentilhãozões"
+    ]
+  },
+  "lentilhoso": {
+    "O": [
+      "lentilhosinha",
+      "lentilhosinhas"
+    ],
+    "P": [
+      "lentilhosinho",
+      "lentilhosinhos"
+    ]
+  },
+  "lentiscal": {
+    "R": [
+      "lentiscalzinho",
+      "lentiscaizinhos"
+    ],
+    "V": [
+      "lentiscalzão",
+      "lentiscalzões"
+    ]
+  },
+  "lentite": {
+    "P": [
+      "lentitinho",
+      "lentitinhos"
+    ]
+  },
+  "lentor": {
+    "R": [
+      "lentorezinhos",
+      "lentorzinho"
+    ]
+  },
+  "lentudinal": {
+    "R": [
+      "lentudinalzinho",
+      "lentudinaizinhos"
+    ],
+    "V": [
+      "lentudinalzão",
+      "lentudinalzões"
+    ]
+  },
+  "lentulite": {
+    "O": [
+      "lentulitinha",
+      "lentulitinhas"
+    ],
+    "P": [
+      "lentulitinho",
+      "lentulitinhos"
+    ]
+  },
+  "lenzite": {
+    "P": [
+      "lenzitinho",
+      "lenzitinhos"
+    ]
+  },
+  "leonardite": {
+    "O": [
+      "leonarditinha",
+      "leonarditinhas"
+    ],
+    "P": [
+      "leonarditinho",
+      "leonarditinhos"
+    ]
+  },
+  "Leonel": {
+    "R": [
+      "Leonelzinho",
+      "Leoneizinhos"
+    ],
+    "V": [
+      "Leonelzão",
+      "Leonelzões"
+    ]
+  },
+  "leonês": {
+    "O": [
+      "leonesinha",
+      "leonesinhas"
+    ],
+    "P": [
+      "leonesinho",
+      "leonesezinhos"
+    ],
+    "Ü+O": [
+      "semileonesinha",
+      "semileonesinhas"
+    ],
+    "Ü+P": [
+      "semileonesinho",
+      "semileonesezinhos"
+    ]
+  },
+  "leonite": {
+    "O": [
+      "leonitinha",
+      "leonitinhas"
+    ],
+    "P": [
+      "leonitinho",
+      "leonitinhos"
+    ]
+  },
+  "leonote": {
+    "P": [
+      "leonotinho",
+      "leonotinhos"
+    ]
+  },
+  "leontodonte": {
+    "P": [
+      "leontodontinho",
+      "leontodontinhos"
+    ]
+  },
+  "leopoldite": {
+    "O": [
+      "leopolditinha",
+      "leopolditinhas"
+    ],
+    "P": [
+      "leopolditinho",
+      "leopolditinhos"
+    ]
+  },
+  "lepalar": {
+    "R": [
+      "lepalarezinhos",
+      "lepalarzinho"
+    ]
+  },
+  "lepidocrocite": {
+    "O": [
+      "lepidocrocitinha",
+      "lepidocrocitinhas"
+    ],
+    "P": [
+      "lepidocrocitinho",
+      "lepidocrocitinhos"
+    ]
+  },
+  "lepidodendral": {
+    "R": [
+      "lepidodendralzinho",
+      "lepidodendraizinhos"
+    ],
+    "V": [
+      "lepidodendralzão",
+      "lepidodendralzões"
+    ]
+  },
+  "lepidolite": {
+    "O": [
+      "lepidolitinha",
+      "lepidolitinhas"
+    ],
+    "P": [
+      "lepidolitinho",
+      "lepidolitinhos"
+    ]
+  },
+  "lepinotroso": {
+    "O": [
+      "lepinotrosinha",
+      "lepinotrosinhas"
+    ],
+    "P": [
+      "lepinotrosinho",
+      "lepinotrosinhos"
+    ]
+  },
+  "lepomatroso": {
+    "O": [
+      "lepomatrosinha",
+      "lepomatrosinhas"
+    ],
+    "P": [
+      "lepomatrosinho",
+      "lepomatrosinhos"
+    ]
+  },
+  "leprinutoso": {
+    "O": [
+      "leprinutosinha",
+      "leprinutosinhas"
+    ],
+    "P": [
+      "leprinutosinho",
+      "leprinutosinhos"
+    ]
+  },
+  "lepromatoso": {
+    "O": [
+      "lepromatosinha",
+      "lepromatosinhas"
+    ],
+    "P": [
+      "lepromatosinho",
+      "lepromatosinhos"
+    ]
+  },
+  "lepronutoso": {
+    "O": [
+      "lepronutosinha",
+      "lepronutosinhas"
+    ],
+    "P": [
+      "lepronutosinho",
+      "lepronutosinhos"
+    ]
+  },
+  "leproso": {
+    "O": [
+      "leprosinha",
+      "leprosinhas"
+    ],
+    "P": [
+      "leprosinho",
+      "leprosinhos"
+    ],
+    "Á+O": [
+      "antileprosinha",
+      "antileprosinhas"
+    ],
+    "Á+P": [
+      "antileprosinho",
+      "antileprosinhos"
+    ]
+  },
+  "leptazol": {
+    "R": [
+      "leptazolzinho",
+      "leptazoizinhos"
+    ],
+    "V": [
+      "leptazolzão",
+      "leptazolzões"
+    ]
+  },
+  "leptifante": {
+    "P": [
+      "leptifantinho",
+      "leptifantinhos"
+    ]
+  },
+  "leptinite": {
+    "P": [
+      "leptinitinho",
+      "leptinitinhos"
+    ]
+  },
+  "leptocercal": {
+    "R": [
+      "leptocercalzinho",
+      "leptocercaizinhos"
+    ],
+    "V": [
+      "leptocercalzão",
+      "leptocercalzões"
+    ]
+  },
+  "leptoclorite": {
+    "O": [
+      "leptocloritinha",
+      "leptocloritinhas"
+    ],
+    "P": [
+      "leptocloritinho",
+      "leptocloritinhos"
+    ]
+  },
+  "leptodonte": {
+    "P": [
+      "leptodontinho",
+      "leptodontinhos"
+    ]
+  },
+  "leptofiloso": {
+    "O": [
+      "leptofilosinha",
+      "leptofilosinhas"
+    ],
+    "P": [
+      "leptofilosinho",
+      "leptofilosinhos"
+    ]
+  },
+  "leptomeningite": {
+    "P": [
+      "leptomeningitinho",
+      "leptomeningitinhos"
+    ]
+  },
+  "leptomital": {
+    "R": [
+      "leptomitalzinho",
+      "leptomitaizinhos"
+    ],
+    "V": [
+      "leptomitalzão",
+      "leptomitalzões"
+    ]
+  },
+  "leptonematite": {
+    "P": [
+      "leptonematitinho",
+      "leptonematitinhos"
+    ]
+  },
+  "leptonicote": {
+    "P": [
+      "leptonicotinho",
+      "leptonicotinhos"
+    ]
+  },
+  "leptopogão": {
+    "R": [
+      "leptopogãozinho",
+      "leptopogõezinhos"
+    ],
+    "V": [
+      "leptopogãozão",
+      "leptopogãozões"
+    ]
+  },
+  "leptornite": {
+    "P": [
+      "leptornitinho",
+      "leptornitinhos"
+    ]
+  },
+  "leriante": {
+    "P": [
+      "leriantinho",
+      "leriantinhos"
+    ]
+  },
+  "lesão": {
+    "Q": [
+      "lesãozinha",
+      "lesõezinhas"
+    ],
+    "W": [
+      "lesona",
+      "lesonas"
+    ],
+    "Ã+Q": [
+      "autolesãozinha",
+      "autolesõezinhas"
+    ],
+    "Ã+W": [
+      "autolesona",
+      "autolesonas"
+    ]
+  },
+  "lesional": {
+    "R": [
+      "lesionalzinho",
+      "lesionaizinhos"
+    ],
+    "V": [
+      "lesionalzão",
+      "lesionalzões"
+    ]
+  },
+  "leste-meridional": {
+    "R": [
+      "leste-meridionalzinho",
+      "leste-meridionaizinhos"
+    ],
+    "V": [
+      "leste-meridionalzão",
+      "leste-meridionalzões"
+    ]
+  },
+  "lestodonte": {
+    "P": [
+      "lestodontinho",
+      "lestodontinhos"
+    ]
+  },
+  "letal": {
+    "R": [
+      "letalzinho",
+      "letaizinhos"
+    ],
+    "V": [
+      "letalzão",
+      "letalzões"
+    ]
+  },
+  "letissimulação": {
+    "Q": [
+      "letissimulaçãozinha",
+      "letissimulaçõezinhas"
+    ],
+    "W": [
+      "letissimulaçona",
+      "letissimulaçonas"
+    ]
+  },
+  "leto-dinamarquês": {
+    "O": [
+      "leto-dinamarquesinha",
+      "leto-dinamarquesinhas"
+    ],
+    "P": [
+      "leto-dinamarquesinho",
+      "leto-dinamarquesezinhos"
+    ]
+  },
+  "leto-finlandês": {
+    "O": [
+      "leto-finlandesinha",
+      "leto-finlandesinhas"
+    ],
+    "P": [
+      "leto-finlandesinho",
+      "leto-finlandesezinhos"
+    ]
+  },
+  "leto-polonês": {
+    "O": [
+      "leto-polonesinha",
+      "leto-polonesinhas"
+    ],
+    "P": [
+      "leto-polonesinho",
+      "leto-polonesezinhos"
+    ]
+  },
+  "letradal": {
+    "R": [
+      "letradalzinho",
+      "letradaizinhos"
+    ],
+    "V": [
+      "letradalzão",
+      "letradalzões"
+    ]
+  },
+  "letradete": {
+    "P": [
+      "letradetinho",
+      "letradetinhos"
+    ]
+  },
+  "letrização": {
+    "Q": [
+      "letrizaçãozinha",
+      "letrizaçõezinhas"
+    ],
+    "W": [
+      "letrizaçona",
+      "letrizaçonas"
+    ]
+  },
+  "letrozol": {
+    "R": [
+      "letrozolzinho",
+      "letrozoizinhos"
+    ],
+    "V": [
+      "letrozolzão",
+      "letrozolzões"
+    ]
+  },
+  "letrudo": {
+    "O": [
+      "letrudinha",
+      "letrudinhas"
+    ],
+    "P": [
+      "letrudinho",
+      "letrudinhos"
+    ]
+  },
+  "leucargirite": {
+    "O": [
+      "leucargiritinha",
+      "leucargiritinhas"
+    ],
+    "P": [
+      "leucargiritinho",
+      "leucargiritinhos"
+    ]
+  },
+  "leucaugite": {
+    "P": [
+      "leucaugitinho",
+      "leucaugitinhos"
+    ]
+  },
+  "leuchtenbergite": {
+    "P": [
+      "leuchtenbergitinho",
+      "leuchtenbergitinhos"
+    ]
+  },
+  "leuciglumer": {
+    "R": [
+      "leuciglumerezinhos",
+      "leuciglumerzinho"
+    ]
+  },
+  "leucite": {
+    "P": [
+      "leucitinho",
+      "leucitinhos"
+    ],
+    "Ú+P": [
+      "pseudoleucitinho",
+      "pseudoleucitinhos"
+    ]
+  },
+  "leucocalcite": {
+    "O": [
+      "leucocalcitinha",
+      "leucocalcitinhas"
+    ],
+    "P": [
+      "leucocalcitinho",
+      "leucocalcitinhos"
+    ]
+  },
+  "leucocianidol": {
+    "R": [
+      "leucocianidolzinho",
+      "leucocianidoizinhos"
+    ],
+    "V": [
+      "leucocianidolzão",
+      "leucocianidolzões"
+    ]
+  },
+  "leucociclite": {
+    "O": [
+      "leucociclitinha",
+      "leucociclitinhas"
+    ],
+    "P": [
+      "leucociclitinho",
+      "leucociclitinhos"
+    ]
+  },
+  "leucodonte": {
+    "P": [
+      "leucodontinho",
+      "leucodontinhos"
+    ]
+  },
+  "leucoencefalite": {
+    "P": [
+      "leucoencefalitinho",
+      "leucoencefalitinhos"
+    ]
+  },
+  "leucofanite": {
+    "O": [
+      "leucofanitinha",
+      "leucofanitinhas"
+    ],
+    "P": [
+      "leucofanitinho",
+      "leucofanitinhos"
+    ]
+  },
+  "leucografite": {
+    "O": [
+      "leucografitinha",
+      "leucografitinhas"
+    ],
+    "P": [
+      "leucografitinho",
+      "leucografitinhos"
+    ]
+  },
+  "leucol": {
+    "R": [
+      "leucolzinho",
+      "leucoizinhos"
+    ],
+    "V": [
+      "leucolzão",
+      "leucolzões"
+    ]
+  },
+  "leucomielite": {
+    "P": [
+      "leucomielitinho",
+      "leucomielitinhos"
+    ]
+  },
+  "leucopirite": {
+    "O": [
+      "leucopiritinha",
+      "leucopiritinhas"
+    ],
+    "P": [
+      "leucopiritinho",
+      "leucopiritinhos"
+    ]
+  },
+  "leucopogão": {
+    "R": [
+      "leucopogãozinho",
+      "leucopogõezinhos"
+    ],
+    "V": [
+      "leucopogãozão",
+      "leucopogãozões"
+    ]
+  },
+  "leucotefrite": {
+    "O": [
+      "leucotefritinha",
+      "leucotefritinhas"
+    ],
+    "P": [
+      "leucotefritinho",
+      "leucotefritinhos"
+    ]
+  },
+  "leutrite": {
+    "O": [
+      "leutritinha",
+      "leutritinhas"
+    ],
+    "P": [
+      "leutritinho",
+      "leutritinhos"
+    ]
+  },
+  "leva-dente": {
+    "P": [
+      "leva-dentinho",
+      "leva-dentinhos"
+    ]
+  },
+  "levação": {
+    "Q": [
+      "levaçãozinha",
+      "levaçõezinhas"
+    ],
+    "W": [
+      "levaçona",
+      "levaçonas"
+    ],
+    "À+Q": [
+      "relevaçãozinha",
+      "relevaçõezinhas"
+    ],
+    "È+Q": [
+      "sublevaçãozinha",
+      "sublevaçõezinhas"
+    ],
+    "Ë+Q": [
+      "sobrelevaçãozinha",
+      "sobrelevaçõezinhas"
+    ],
+    "À+W": [
+      "relevaçona",
+      "relevaçonas"
+    ],
+    "È+W": [
+      "sublevaçona",
+      "sublevaçonas"
+    ],
+    "Ë+W": [
+      "sobrelevaçona",
+      "sobrelevaçonas"
+    ]
+  },
+  "levacetilmetadol": {
+    "R": [
+      "levacetilmetadolzinho",
+      "levacetilmetadoizinhos"
+    ],
+    "V": [
+      "levacetilmetadolzão",
+      "levacetilmetadolzões"
+    ]
+  },
+  "levagante": {
+    "P": [
+      "levagantinho",
+      "levagantinhos"
+    ]
+  },
+  "levamisol": {
+    "R": [
+      "levamisolzinho",
+      "levamisoizinhos"
+    ],
+    "V": [
+      "levamisolzão",
+      "levamisolzões"
+    ]
+  },
+  "levantuoso": {
+    "O": [
+      "levantuosinha",
+      "levantuosinhas"
+    ],
+    "P": [
+      "levantuosinho",
+      "levantuosinhos"
+    ]
+  },
+  "levarterenol": {
+    "R": [
+      "levarterenolzinho",
+      "levarterenoizinhos"
+    ],
+    "V": [
+      "levarterenolzão",
+      "levarterenolzões"
+    ]
+  },
+  "levedação": {
+    "Q": [
+      "levedaçãozinha",
+      "levedaçõezinhas"
+    ],
+    "W": [
+      "levedaçona",
+      "levedaçonas"
+    ]
+  },
+  "levemopamil": {
+    "R": [
+      "levemopamilzinho",
+      "levemopamiizinhos"
+    ],
+    "V": [
+      "levemopamilzão",
+      "levemopamilzões"
+    ]
+  },
+  "leverrierite": {
+    "O": [
+      "leverrieritinha",
+      "leverrieritinhas"
+    ],
+    "P": [
+      "leverrieritinho",
+      "leverrieritinhos"
+    ]
+  },
+  "leveza": {
+    "O": [
+      "levezinha",
+      "levezinhas"
+    ],
+    "W": [
+      "levezona",
+      "levezonas"
+    ]
+  },
+  "levidão": {
+    "R": [
+      "levidãozinho",
+      "levidõezinhos"
+    ],
+    "V": [
+      "levidãozão",
+      "levidãozões"
+    ]
+  },
+  "levigação": {
+    "Q": [
+      "levigaçãozinha",
+      "levigaçõezinhas"
+    ],
+    "W": [
+      "levigaçona",
+      "levigaçonas"
+    ]
+  },
+  "levisite": {
+    "O": [
+      "levisitinha",
+      "levisitinhas"
+    ],
+    "P": [
+      "levisitinho",
+      "levisitinhos"
+    ]
+  },
+  "levitação": {
+    "Q": [
+      "levitaçãozinha",
+      "levitaçõezinhas"
+    ],
+    "W": [
+      "levitaçona",
+      "levitaçonas"
+    ]
+  },
+  "levobetaxolol": {
+    "R": [
+      "levobetaxololzinho",
+      "levobetaxoloizinhos"
+    ],
+    "V": [
+      "levobetaxololzão",
+      "levobetaxololzões"
+    ]
+  },
+  "levobunolol": {
+    "R": [
+      "levobunololzinho",
+      "levobunoloizinhos"
+    ],
+    "V": [
+      "levobunololzão",
+      "levobunololzões"
+    ]
+  },
+  "levodução": {
+    "Q": [
+      "levoduçãozinha",
+      "levoduçõezinhas"
+    ],
+    "W": [
+      "levoduçona",
+      "levoduçonas"
+    ]
+  },
+  "levoducção": {
+    "Q": [
+      "levoducçãozinha",
+      "levoducçõezinhas"
+    ],
+    "W": [
+      "levoducçona",
+      "levoducçonas"
+    ]
+  },
+  "levomenol": {
+    "R": [
+      "levomenolzinho",
+      "levomenoizinhos"
+    ],
+    "V": [
+      "levomenolzão",
+      "levomenolzões"
+    ]
+  },
+  "levomentol": {
+    "R": [
+      "levomentolzinho",
+      "levomentoizinhos"
+    ],
+    "V": [
+      "levomentolzão",
+      "levomentolzões"
+    ]
+  },
+  "levomoprolol": {
+    "R": [
+      "levomoprololzinho",
+      "levomoproloizinhos"
+    ],
+    "V": [
+      "levomoprololzão",
+      "levomoprololzões"
+    ]
+  },
+  "levonantradol": {
+    "R": [
+      "levonantradolzinho",
+      "levonantradoizinhos"
+    ],
+    "V": [
+      "levonantradolzão",
+      "levonantradolzões"
+    ]
+  },
+  "levonorgestrel": {
+    "R": [
+      "levonorgestrelzinho",
+      "levonorgestreizinhos"
+    ],
+    "V": [
+      "levonorgestrelzão",
+      "levonorgestrelzões"
+    ]
+  },
+  "levorfanol": {
+    "R": [
+      "levorfanolzinho",
+      "levorfanoizinhos"
+    ],
+    "V": [
+      "levorfanolzão",
+      "levorfanolzões"
+    ]
+  },
+  "levorrotação": {
+    "Q": [
+      "levorrotaçãozinha",
+      "levorrotaçõezinhas"
+    ],
+    "W": [
+      "levorrotaçona",
+      "levorrotaçonas"
+    ]
+  },
+  "levosemotiadil": {
+    "R": [
+      "levosemotiadilzinho",
+      "levosemotiadiizinhos"
+    ],
+    "V": [
+      "levosemotiadilzão",
+      "levosemotiadilzões"
+    ]
+  },
+  "levossalbutamol": {
+    "R": [
+      "levossalbutamolzinho",
+      "levossalbutamoizinhos"
+    ],
+    "V": [
+      "levossalbutamolzão",
+      "levossalbutamolzões"
+    ]
+  },
+  "levoxadrol": {
+    "R": [
+      "levoxadrolzinho",
+      "levoxadroizinhos"
+    ],
+    "V": [
+      "levoxadrolzão",
+      "levoxadrolzões"
+    ]
+  },
+  "lexacalcitol": {
+    "R": [
+      "lexacalcitolzinho",
+      "lexacalcitoizinhos"
+    ],
+    "V": [
+      "lexacalcitolzão",
+      "lexacalcitolzões"
+    ]
+  },
+  "lexia": {
+    "Q": [
+      "lexiazinha",
+      "lexiazinhas"
+    ],
+    "W": [
+      "lexiona",
+      "lexionas"
+    ]
+  },
+  "lexial": {
+    "R": [
+      "lexialzinho",
+      "lexiaizinhos"
+    ],
+    "V": [
+      "lexialzão",
+      "lexialzões"
+    ]
+  },
+  "lexical": {
+    "R": [
+      "lexicalzinho",
+      "lexicaizinhos"
+    ],
+    "V": [
+      "lexicalzão",
+      "lexicalzões"
+    ],
+    "È+R": [
+      "sublexicalzinho",
+      "sublexicaizinhos"
+    ],
+    "Í+R": [
+      "interlexicalzinho",
+      "interlexicaizinhos"
+    ],
+    "È+V": [
+      "sublexicalzão",
+      "sublexicalzões"
+    ],
+    "Í+V": [
+      "interlexicalzão",
+      "interlexicalzões"
+    ]
+  },
+  "lexicalização": {
+    "Q": [
+      "lexicalizaçãozinha",
+      "lexicalizaçõezinhas"
+    ],
+    "W": [
+      "lexicalizaçona",
+      "lexicalizaçonas"
+    ]
+  },
+  "lezirão": {
+    "R": [
+      "lezirãozinho",
+      "lezirõezinhos"
+    ],
+    "V": [
+      "lezirãozão",
+      "lezirãozões"
+    ]
+  },
+  "liação": {
+    "Q": [
+      "liaçãozinha",
+      "liaçõezinhas"
+    ],
+    "W": [
+      "liaçona",
+      "liaçonas"
+    ]
+  },
+  "liantral": {
+    "R": [
+      "liantralzinho",
+      "liantraizinhos"
+    ],
+    "V": [
+      "liantralzão",
+      "liantralzões"
+    ]
+  },
+  "liarozol": {
+    "R": [
+      "liarozolzinho",
+      "liarozoizinhos"
+    ],
+    "V": [
+      "liarozolzão",
+      "liarozolzões"
+    ]
+  },
+  "libação": {
+    "Q": [
+      "libaçãozinha",
+      "libaçõezinhas"
+    ],
+    "W": [
+      "libaçona",
+      "libaçonas"
+    ],
+    "Ä+Q": [
+      "ilibaçãozinha",
+      "ilibaçõezinhas"
+    ],
+    "ì+Q": [
+      "prelibaçãozinha",
+      "prelibaçõezinhas"
+    ],
+    "Ä+W": [
+      "ilibaçona",
+      "ilibaçonas"
+    ],
+    "ì+W": [
+      "prelibaçona",
+      "prelibaçonas"
+    ]
+  },
+  "libanês": {
+    "O": [
+      "libanesinha",
+      "libanesinhas"
+    ],
+    "P": [
+      "libanesinho",
+      "libanesezinhos"
+    ]
+  },
+  "libanião": {
+    "R": [
+      "libaniãozinho",
+      "libaniõezinhos"
+    ],
+    "V": [
+      "libaniãozão",
+      "libaniãozões"
+    ]
+  },
+  "libanomante": {
+    "P": [
+      "libanomantinho",
+      "libanomantinhos"
+    ]
+  },
+  "libelos": {
+    "P": [
+      "libelinho",
+      "libelinhos"
+    ]
+  },
+  "libente": {
+    "P": [
+      "libentinho",
+      "libentinhos"
+    ]
+  },
+  "libenzapril": {
+    "R": [
+      "libenzaprilzinho",
+      "libenzapriizinhos"
+    ],
+    "V": [
+      "libenzaprilzão",
+      "libenzaprilzões"
+    ]
+  },
+  "liberação": {
+    "Q": [
+      "liberaçãozinha",
+      "liberaçõezinhas"
+    ],
+    "W": [
+      "liberaçona",
+      "liberaçonas"
+    ]
+  },
+  "liberal": {
+    "R": [
+      "liberalzinho",
+      "liberaizinhos"
+    ],
+    "V": [
+      "liberalzão",
+      "liberalzões"
+    ],
+    "à+R": [
+      "ultraliberalzinho",
+      "ultraliberaizinhos"
+    ],
+    "Á+R": [
+      "antiliberalzinho",
+      "antiliberaizinhos"
+    ],
+    "Ä+R": [
+      "iliberalzinho",
+      "iliberaizinhos"
+    ],
+    "É+R": [
+      "neoliberalzinho",
+      "neoliberaizinhos"
+    ],
+    "à+V": [
+      "ultraliberalzão",
+      "ultraliberalzões"
+    ],
+    "Á+V": [
+      "antiliberalzão",
+      "antiliberalzões"
+    ],
+    "Ä+V": [
+      "iliberalzão",
+      "iliberalzões"
+    ],
+    "É+V": [
+      "neoliberalzão",
+      "neoliberalzões"
+    ]
+  },
+  "liberalão": {
+    "R": [
+      "liberalãozinho",
+      "liberalõezinhos"
+    ],
+    "V": [
+      "liberalãozão",
+      "liberalãozões"
+    ]
+  },
+  "liberalização": {
+    "Q": [
+      "liberalizaçãozinha",
+      "liberalizaçõezinhas"
+    ],
+    "W": [
+      "liberalizaçona",
+      "liberalizaçonas"
+    ],
+    "É+Q": [
+      "neoliberalizaçãozinha",
+      "neoliberalizaçõezinhas"
+    ],
+    "É+W": [
+      "neoliberalizaçona",
+      "neoliberalizaçonas"
+    ]
+  },
+  "liberdoso": {
+    "O": [
+      "liberdosinha",
+      "liberdosinhas"
+    ],
+    "P": [
+      "liberdosinho",
+      "liberdosinhos"
+    ]
+  },
+  "liberolenhoso": {
+    "O": [
+      "liberolenhosinha",
+      "liberolenhosinhas"
+    ],
+    "P": [
+      "liberolenhosinho",
+      "liberolenhosinhos"
+    ]
+  },
+  "libertação": {
+    "Q": [
+      "libertaçãozinha",
+      "libertaçõezinhas"
+    ],
+    "W": [
+      "libertaçona",
+      "libertaçonas"
+    ]
+  },
+  "libetenite": {
+    "O": [
+      "libetenitinha",
+      "libetenitinhas"
+    ],
+    "P": [
+      "libetenitinho",
+      "libetenitinhos"
+    ],
+    "Ú+O": [
+      "pseudolibetenitinha",
+      "pseudolibetenitinhas"
+    ],
+    "Ú+P": [
+      "pseudolibetenitinho",
+      "pseudolibetenitinhos"
+    ]
+  },
+  "líbico-sudanês": {
+    "O": [
+      "líbico-sudanesinha",
+      "líbico-sudanesinhas"
+    ],
+    "P": [
+      "líbico-sudanesinho",
+      "líbico-sudanesezinhos"
+    ]
+  },
+  "libidinização": {
+    "Q": [
+      "libidinizaçãozinha",
+      "libidinizaçõezinhas"
+    ],
+    "W": [
+      "libidinizaçona",
+      "libidinizaçonas"
+    ]
+  },
+  "libidinoso": {
+    "O": [
+      "libidinosinha",
+      "libidinosinhas"
+    ],
+    "P": [
+      "libidinosinho",
+      "libidinosinhos"
+    ]
+  },
+  "libolite": {
+    "O": [
+      "libolitinha",
+      "libolitinhas"
+    ],
+    "P": [
+      "libolitinho",
+      "libolitinhos"
+    ]
+  },
+  "libração": {
+    "Q": [
+      "libraçãozinha",
+      "libraçõezinhas"
+    ],
+    "W": [
+      "libraçona",
+      "libraçonas"
+    ]
+  },
+  "licaão": {
+    "R": [
+      "licaãozinho",
+      "licaõezinhos"
+    ],
+    "V": [
+      "licaãozão",
+      "licaãozões"
+    ]
+  },
+  "lição": {
+    "Q": [
+      "liçãozinha",
+      "liçõezinhas"
+    ],
+    "W": [
+      "liçona",
+      "liçonas"
+    ],
+    "Ä+Q": [
+      "iliçãozinha",
+      "iliçõezinhas"
+    ],
+    "Ä+W": [
+      "iliçona",
+      "iliçonas"
+    ]
+  },
+  "licariol": {
+    "R": [
+      "licariolzinho",
+      "licarioizinhos"
+    ],
+    "V": [
+      "licariolzão",
+      "licariolzões"
+    ]
+  },
+  "licaste": {
+    "O": [
+      "licastinha",
+      "licastinhas"
+    ],
+    "P": [
+      "licastinho",
+      "licastinhos"
+    ]
+  },
+  "liceal": {
+    "R": [
+      "licealzinho",
+      "liceaizinhos"
+    ],
+    "V": [
+      "licealzão",
+      "licealzões"
+    ],
+    "Í+R": [
+      "interlicealzinho",
+      "interliceaizinhos"
+    ],
+    "Í+V": [
+      "interlicealzão",
+      "interlicealzões"
+    ]
+  },
+  "licenciação": {
+    "Q": [
+      "licenciaçãozinha",
+      "licenciaçõezinhas"
+    ],
+    "W": [
+      "licenciaçona",
+      "licenciaçonas"
+    ]
+  },
+  "licencial": {
+    "R": [
+      "licencialzinho",
+      "licenciaizinhos"
+    ],
+    "V": [
+      "licencialzão",
+      "licencialzões"
+    ]
+  },
+  "licencioso": {
+    "O": [
+      "licenciosinha",
+      "licenciosinhas"
+    ],
+    "P": [
+      "licenciosinho",
+      "licenciosinhos"
+    ]
+  },
+  "licetol": {
+    "R": [
+      "licetolzinho",
+      "licetoizinhos"
+    ],
+    "V": [
+      "licetolzão",
+      "licetolzões"
+    ]
+  },
+  "licitação": {
+    "Q": [
+      "licitaçãozinha",
+      "licitaçõezinhas"
+    ],
+    "W": [
+      "licitaçona",
+      "licitaçonas"
+    ],
+    "À+Q": [
+      "relicitaçãozinha",
+      "relicitaçõezinhas"
+    ],
+    "À+W": [
+      "relicitaçona",
+      "relicitaçonas"
+    ]
+  },
+  "licitudinal": {
+    "R": [
+      "licitudinalzinho",
+      "licitudinaizinhos"
+    ],
+    "V": [
+      "licitudinalzão",
+      "licitudinalzões"
+    ]
+  },
+  "licnite": {
+    "P": [
+      "licnitinho",
+      "licnitinhos"
+    ]
+  },
+  "licnomante": {
+    "P": [
+      "licnomantinho",
+      "licnomantinhos"
+    ]
+  },
+  "licodite": {
+    "P": [
+      "licoditinho",
+      "licoditinhos"
+    ]
+  },
+  "licodonte": {
+    "P": [
+      "licodontinho",
+      "licodontinhos"
+    ]
+  },
+  "liconte": {
+    "P": [
+      "licontinho",
+      "licontinhos"
+    ]
+  },
+  "licoperdal": {
+    "R": [
+      "licoperdalzinho",
+      "licoperdaizinhos"
+    ],
+    "V": [
+      "licoperdalzão",
+      "licoperdalzões"
+    ]
+  },
+  "licopodial": {
+    "R": [
+      "licopodialzinho",
+      "licopodiaizinhos"
+    ],
+    "V": [
+      "licopodialzão",
+      "licopodialzões"
+    ]
+  },
+  "licor": {
+    "R": [
+      "licorezinhos",
+      "licorzinho"
+    ]
+  },
+  "licoroso": {
+    "O": [
+      "licorosinha",
+      "licorosinhas"
+    ],
+    "P": [
+      "licorosinho",
+      "licorosinhos"
+    ]
+  },
+  "licostinel": {
+    "R": [
+      "licostinelzinho",
+      "licostineizinhos"
+    ],
+    "V": [
+      "licostinelzão",
+      "licostinelzões"
+    ]
+  },
+  "lictor": {
+    "R": [
+      "lictorezinhos",
+      "lictorzinho"
+    ]
+  },
+  "licurizal": {
+    "R": [
+      "licurizalzinho",
+      "licurizaizinhos"
+    ],
+    "V": [
+      "licurizalzão",
+      "licurizalzões"
+    ]
+  },
+  "lidação": {
+    "Q": [
+      "lidaçãozinha",
+      "lidaçõezinhas"
+    ],
+    "W": [
+      "lidaçona",
+      "lidaçonas"
+    ]
+  },
+  "líder": {
+    "R": [
+      "líderezinhos",
+      "líderzinho"
+    ],
+    "Ñ+R": [
+      "colíderezinhos",
+      "colíderzinho"
+    ],
+    "ü+R": [
+      "ex-líderezinhos",
+      "ex-líderzinho"
+    ]
+  },
+  "lidiador": {
+    "R": [
+      "lidiadorezinhos",
+      "lidiadorzinho"
+    ]
+  },
+  "lidimação": {
+    "Q": [
+      "lidimaçãozinha",
+      "lidimaçõezinhas"
+    ],
+    "W": [
+      "lidimaçona",
+      "lidimaçonas"
+    ]
+  },
+  "lidite": {
+    "O": [
+      "liditinha",
+      "liditinhas"
+    ],
+    "P": [
+      "liditinho",
+      "liditinhos"
+    ]
+  },
+  "lidoso": {
+    "O": [
+      "lidosinha",
+      "lidosinhas"
+    ],
+    "P": [
+      "lidosinho",
+      "lidosinhos"
+    ]
+  },
+  "lidroso": {
+    "O": [
+      "lidrosinha",
+      "lidrosinhas"
+    ],
+    "P": [
+      "lidrosinho",
+      "lidrosinhos"
+    ]
+  },
+  "lienal": {
+    "R": [
+      "lienalzinho",
+      "lienaizinhos"
+    ],
+    "V": [
+      "lienalzão",
+      "lienalzões"
+    ]
+  },
+  "lienite": {
+    "P": [
+      "lienitinho",
+      "lienitinhos"
+    ]
+  },
+  "lienoso": {
+    "O": [
+      "lienosinha",
+      "lienosinhas"
+    ],
+    "P": [
+      "lienosinho",
+      "lienosinhos"
+    ]
+  },
+  "lifibrol": {
+    "R": [
+      "lifibrolzinho",
+      "lifibroizinhos"
+    ],
+    "V": [
+      "lifibrolzão",
+      "lifibrolzões"
+    ]
+  },
+  "ligação": {
+    "Q": [
+      "ligaçãozinha",
+      "ligaçõezinhas"
+    ],
+    "W": [
+      "ligaçona",
+      "ligaçonas"
+    ],
+    "À+Q": [
+      "religaçãozinha",
+      "religaçõezinhas"
+    ],
+    "Á+Q": [
+      "antiligaçãozinha",
+      "antiligaçõezinhas"
+    ],
+    "Â+Q": [
+      "desligaçãozinha",
+      "desligaçõezinhas"
+    ],
+    "Î+Q": [
+      "hiperligaçãozinha",
+      "hiperligaçõezinhas"
+    ],
+    "Ñ+Q": [
+      "coligaçãozinha",
+      "coligaçõezinhas"
+    ],
+    "ú+Q": [
+      "pré-ligaçãozinha",
+      "pré-ligaçõezinhas"
+    ],
+    "À+W": [
+      "religaçona",
+      "religaçonas"
+    ],
+    "Á+W": [
+      "antiligaçona",
+      "antiligaçonas"
+    ],
+    "Â+W": [
+      "desligaçona",
+      "desligaçonas"
+    ],
+    "Î+W": [
+      "hiperligaçona",
+      "hiperligaçonas"
+    ],
+    "Ñ+W": [
+      "coligaçona",
+      "coligaçonas"
+    ],
+    "ú+W": [
+      "pré-ligaçona",
+      "pré-ligaçonas"
+    ]
+  },
+  "ligal": {
+    "R": [
+      "ligalzinho",
+      "ligaizinhos"
+    ],
+    "V": [
+      "ligalzão",
+      "ligalzões"
+    ]
+  },
+  "ligamentoso": {
+    "O": [
+      "ligamentosinha",
+      "ligamentosinhas"
+    ],
+    "P": [
+      "ligamentosinho",
+      "ligamentosinhos"
+    ],
+    "Í+O": [
+      "interligamentosinha",
+      "interligamentosinhas"
+    ],
+    "Í+P": [
+      "interligamentosinho",
+      "interligamentosinhos"
+    ]
+  },
+  "ligeiro": {
+    "O": [
+      "ligeirinha",
+      "ligeirinhas"
+    ],
+    "P": [
+      "ligeirinho",
+      "ligeirinhos"
+    ],
+    "Ì+O": [
+      "superligeirinha",
+      "superligeirinhas"
+    ],
+    "Ì+P": [
+      "superligeirinho",
+      "superligeirinhos"
+    ]
+  },
+  "lignificação": {
+    "Q": [
+      "lignificaçãozinha",
+      "lignificaçõezinhas"
+    ],
+    "W": [
+      "lignificaçona",
+      "lignificaçonas"
+    ],
+    "Â+Q": [
+      "deslignificaçãozinha",
+      "deslignificaçõezinhas"
+    ],
+    "Â+W": [
+      "deslignificaçona",
+      "deslignificaçonas"
+    ]
+  },
+  "lignite": {
+    "P": [
+      "lignitinho",
+      "lignitinhos"
+    ]
+  },
+  "lignitoso": {
+    "O": [
+      "lignitosinha",
+      "lignitosinhas"
+    ],
+    "P": [
+      "lignitosinho",
+      "lignitosinhos"
+    ]
+  },
+  "ligueirão": {
+    "R": [
+      "ligueirãozinho",
+      "ligueirõezinhos"
+    ],
+    "V": [
+      "ligueirãozão",
+      "ligueirãozões"
+    ]
+  },
+  "liguloso": {
+    "O": [
+      "ligulosinha",
+      "ligulosinhas"
+    ],
+    "P": [
+      "ligulosinho",
+      "ligulosinhos"
+    ]
+  },
+  "ligurite": {
+    "O": [
+      "liguritinha",
+      "liguritinhas"
+    ],
+    "P": [
+      "liguritinho",
+      "liguritinhos"
+    ]
+  },
+  "lilalite": {
+    "P": [
+      "lilalitinho",
+      "lilalitinhos"
+    ]
+  },
+  "lilhamerite": {
+    "P": [
+      "lilhameritinho",
+      "lilhameritinhos"
+    ]
+  },
+  "lilial": {
+    "R": [
+      "lilialzinho",
+      "liliaizinhos"
+    ],
+    "V": [
+      "lilialzão",
+      "lilialzões"
+    ]
+  },
+  "lilinete": {
+    "P": [
+      "lilinetinho",
+      "lilinetinhos"
+    ]
+  },
+  "lilliputianização": {
+    "Q": [
+      "lilliputianizaçãozinha",
+      "lilliputianizaçõezinhas"
+    ],
+    "W": [
+      "lilliputianizaçona",
+      "lilliputianizaçonas"
+    ]
+  },
+  "limação": {
+    "Q": [
+      "limaçãozinha",
+      "limaçõezinhas"
+    ],
+    "W": [
+      "limaçona",
+      "limaçonas"
+    ]
+  },
+  "limão": {
+    "R": [
+      "limãozinho",
+      "limõezinhos"
+    ],
+    "V": [
+      "limãozão",
+      "limãozões"
+    ],
+    "Ë+R": [
+      "sobrelimãozinho",
+      "sobrelimõezinhos"
+    ],
+    "Ë+V": [
+      "sobrelimãozão",
+      "sobrelimãozões"
+    ]
+  },
+  "limatão": {
+    "R": [
+      "limatãozinho",
+      "limatõezinhos"
+    ],
+    "V": [
+      "limatãozão",
+      "limatãozões"
+    ]
+  },
+  "limbel": {
+    "R": [
+      "limbelzinho",
+      "limbeizinhos"
+    ],
+    "V": [
+      "limbelzão",
+      "limbelzões"
+    ]
+  },
+  "limburgite": {
+    "P": [
+      "limburgitinho",
+      "limburgitinhos"
+    ]
+  },
+  "limenite": {
+    "P": [
+      "limenitinho",
+      "limenitinhos"
+    ]
+  },
+  "limiar": {
+    "R": [
+      "limiarezinhos",
+      "limiarzinho"
+    ]
+  },
+  "limiarização": {
+    "Q": [
+      "limiarizaçãozinha",
+      "limiarizaçõezinhas"
+    ],
+    "W": [
+      "limiarizaçona",
+      "limiarizaçonas"
+    ]
+  },
+  "limigante": {
+    "P": [
+      "limigantinho",
+      "limigantinhos"
+    ]
+  },
+  "liminar": {
+    "R": [
+      "liminarezinhos",
+      "liminarzinho"
+    ],
+    "Ë+R": [
+      "sobreliminarezinhos",
+      "sobreliminarzinho"
+    ]
+  },
+  "limitação": {
+    "Q": [
+      "limitaçãozinha",
+      "limitaçõezinhas"
+    ],
+    "W": [
+      "limitaçona",
+      "limitaçonas"
+    ],
+    "Ä+Q": [
+      "ilimitaçãozinha",
+      "ilimitaçõezinhas"
+    ],
+    "î+Q": [
+      "translimitaçãozinha",
+      "translimitaçõezinhas"
+    ],
+    "Ñ+Q": [
+      "colimitaçãozinha",
+      "colimitaçõezinhas"
+    ],
+    "Ä+W": [
+      "ilimitaçona",
+      "ilimitaçonas"
+    ],
+    "î+W": [
+      "translimitaçona",
+      "translimitaçonas"
+    ],
+    "Ñ+W": [
+      "colimitaçona",
+      "colimitaçonas"
+    ]
+  },
+  "limnante": {
+    "P": [
+      "limnantinho",
+      "limnantinhos"
+    ]
+  },
+  "limnite": {
+    "P": [
+      "limnitinho",
+      "limnitinhos"
+    ]
+  },
+  "limnocripte": {
+    "O": [
+      "limnocriptinha",
+      "limnocriptinhas"
+    ],
+    "P": [
+      "limnocriptinho",
+      "limnocriptinhos"
+    ]
+  },
+  "limnodinaste": {
+    "P": [
+      "limnodinastinho",
+      "limnodinastinhos"
+    ]
+  },
+  "limnornite": {
+    "P": [
+      "limnornitinho",
+      "limnornitinhos"
+    ]
+  },
+  "limoal": {
+    "R": [
+      "limoalzinho",
+      "limoaizinhos"
+    ],
+    "V": [
+      "limoalzão",
+      "limoalzões"
+    ]
+  },
+  "limoneritritol": {
+    "R": [
+      "limoneritritolzinho",
+      "limoneritritoizinhos"
+    ],
+    "V": [
+      "limoneritritolzão",
+      "limoneritritolzões"
+    ]
+  },
+  "limonete": {
+    "P": [
+      "limonetinho",
+      "limonetinhos"
+    ]
+  },
+  "limonetritol": {
+    "R": [
+      "limonetritolzinho",
+      "limonetritoizinhos"
+    ],
+    "V": [
+      "limonetritolzão",
+      "limonetritolzões"
+    ]
+  },
+  "limonite": {
+    "P": [
+      "limonitinho",
+      "limonitinhos"
+    ]
+  },
+  "limonitoso": {
+    "O": [
+      "limonitosinha",
+      "limonitosinhas"
+    ],
+    "P": [
+      "limonitosinho",
+      "limonitosinhos"
+    ]
+  },
+  "limoso": {
+    "O": [
+      "limosinha",
+      "limosinhas"
+    ],
+    "P": [
+      "limosinho",
+      "limosinhos"
+    ]
+  },
+  "limote": {
+    "P": [
+      "limotinho",
+      "limotinhos"
+    ]
+  },
+  "limpa-dente": {
+    "P": [
+      "limpa-dentinho",
+      "limpa-dentinhos"
+    ]
+  },
+  "limpação": {
+    "Q": [
+      "limpaçãozinha",
+      "limpaçõezinhas"
+    ],
+    "W": [
+      "limpaçona",
+      "limpaçonas"
+    ],
+    "ò+Q": [
+      "alimpaçãozinha",
+      "alimpaçõezinhas"
+    ],
+    "ò+W": [
+      "alimpaçona",
+      "alimpaçonas"
+    ]
+  },
+  "limpeza": {
+    "O": [
+      "limpezinha",
+      "limpezinhas"
+    ],
+    "W": [
+      "limpezona",
+      "limpezonas"
+    ],
+    "Ã+O": [
+      "autolimpezinha",
+      "autolimpezinhas"
+    ],
+    "Ì+O": [
+      "superlimpezinha",
+      "superlimpezinhas"
+    ],
+    "Ã+W": [
+      "autolimpezona",
+      "autolimpezonas"
+    ],
+    "Ì+W": [
+      "superlimpezona",
+      "superlimpezonas"
+    ]
+  },
+  "limpo": {
+    "O": [
+      "limpinha",
+      "limpinhas"
+    ],
+    "P": [
+      "limpinho",
+      "limpinhos"
+    ],
+    "Ì+O": [
+      "superlimpinha",
+      "superlimpinhas"
+    ],
+    "Ì+P": [
+      "superlimpinho",
+      "superlimpinhos"
+    ]
+  },
+  "limposo": {
+    "O": [
+      "limposinha",
+      "limposinhas"
+    ],
+    "P": [
+      "limposinho",
+      "limposinhos"
+    ]
+  },
+  "limurite": {
+    "O": [
+      "limuritinha",
+      "limuritinhas"
+    ],
+    "P": [
+      "limuritinho",
+      "limuritinhos"
+    ]
+  },
+  "linalão": {
+    "R": [
+      "linalãozinho",
+      "linalõezinhos"
+    ],
+    "V": [
+      "linalãozão",
+      "linalãozões"
+    ]
+  },
+  "linalol": {
+    "R": [
+      "linalolzinho",
+      "linaloizinhos"
+    ],
+    "V": [
+      "linalolzão",
+      "linalolzões"
+    ]
+  },
+  "linarite": {
+    "P": [
+      "linaritinho",
+      "linaritinhos"
+    ]
+  },
+  "lincodonte": {
+    "P": [
+      "lincodontinho",
+      "lincodontinhos"
+    ]
+  },
+  "lindaquerite": {
+    "O": [
+      "lindaqueritinha",
+      "lindaqueritinhas"
+    ],
+    "P": [
+      "lindaqueritinho",
+      "lindaqueritinhos"
+    ]
+  },
+  "lindo-azul": {
+    "R": [
+      "lindo-azulzinho",
+      "lindo-azuizinhos"
+    ],
+    "V": [
+      "lindo-azulzão",
+      "lindo-azulzões"
+    ]
+  },
+  "lindos": {
+    "6": [
+      "lindão",
+      "lindões"
+    ],
+    "O": [
+      "lindinha",
+      "lindinhas"
+    ],
+    "P": [
+      "lindinho",
+      "lindinhos"
+    ],
+    "W": [
+      "lindona",
+      "lindonas"
+    ]
+  },
+  "lindote": {
+    "O": [
+      "lindotinha",
+      "lindotinhas"
+    ],
+    "P": [
+      "lindotinho",
+      "lindotinhos"
+    ]
+  },
+  "lineação": {
+    "Q": [
+      "lineaçãozinha",
+      "lineaçõezinhas"
+    ],
+    "W": [
+      "lineaçona",
+      "lineaçonas"
+    ],
+    "î+Q": [
+      "translineaçãozinha",
+      "translineaçõezinhas"
+    ],
+    "Ñ+Q": [
+      "colineaçãozinha",
+      "colineaçõezinhas"
+    ],
+    "ò+Q": [
+      "alineaçãozinha",
+      "alineaçõezinhas"
+    ],
+    "î+W": [
+      "translineaçona",
+      "translineaçonas"
+    ],
+    "Ñ+W": [
+      "colineaçona",
+      "colineaçonas"
+    ],
+    "ò+W": [
+      "alineaçona",
+      "alineaçonas"
+    ]
+  },
+  "lineal": {
+    "R": [
+      "linealzinho",
+      "lineaizinhos"
+    ],
+    "V": [
+      "linealzão",
+      "linealzões"
+    ],
+    "Í+R": [
+      "interlinealzinho",
+      "interlineaizinhos"
+    ],
+    "Í+V": [
+      "interlinealzão",
+      "interlinealzões"
+    ]
+  },
+  "lineante": {
+    "P": [
+      "lineantinho",
+      "lineantinhos"
+    ]
+  },
+  "linear": {
+    "R": [
+      "linearezinhos",
+      "linearzinho"
+    ],
+    "È+R": [
+      "sublinearezinhos",
+      "sublinearzinho"
+    ],
+    "Í+R": [
+      "interlinearezinhos",
+      "interlinearzinho"
+    ],
+    "Ñ+R": [
+      "colinearezinhos",
+      "colinearzinho"
+    ],
+    "Ü+R": [
+      "semilinearezinhos",
+      "semilinearzinho"
+    ]
+  },
+  "linearização": {
+    "Q": [
+      "linearizaçãozinha",
+      "linearizaçõezinhas"
+    ],
+    "W": [
+      "linearizaçona",
+      "linearizaçonas"
+    ],
+    "Ñ+Q": [
+      "colinearizaçãozinha",
+      "colinearizaçõezinhas"
+    ],
+    "Ñ+W": [
+      "colinearizaçona",
+      "colinearizaçonas"
+    ]
+  },
+  "lineolar": {
+    "R": [
+      "lineolarezinhos",
+      "lineolarzinho"
+    ]
+  },
+  "linestrenol": {
+    "R": [
+      "linestrenolzinho",
+      "linestrenoizinhos"
+    ],
+    "V": [
+      "linestrenolzão",
+      "linestrenolzões"
+    ]
+  },
+  "linete": {
+    "P": [
+      "linetinho",
+      "linetinhos"
+    ]
+  },
+  "linfadenite": {
+    "P": [
+      "linfadenitinho",
+      "linfadenitinhos"
+    ]
+  },
+  "linfadenomatoso": {
+    "O": [
+      "linfadenomatosinha",
+      "linfadenomatosinhas"
+    ],
+    "P": [
+      "linfadenomatosinho",
+      "linfadenomatosinhos"
+    ]
+  },
+  "linfadenovariz": {
+    "R": [
+      "linfadenovarizinho",
+      "linfadenovarizezinhos"
+    ]
+  },
+  "linfangioflebite": {
+    "P": [
+      "linfangioflebitinho",
+      "linfangioflebitinhos"
+    ]
+  },
+  "linfangite": {
+    "P": [
+      "linfangitinho",
+      "linfangitinhos"
+    ],
+    "ö+P": [
+      "polilinfangitinho",
+      "polilinfangitinhos"
+    ]
+  },
+  "linfatite": {
+    "P": [
+      "linfatitinho",
+      "linfatitinhos"
+    ]
+  },
+  "linfenterite": {
+    "P": [
+      "linfenteritinho",
+      "linfenteritinhos"
+    ]
+  },
+  "linfite": {
+    "P": [
+      "linfitinho",
+      "linfitinhos"
+    ]
+  },
+  "linfoadenite": {
+    "P": [
+      "linfoadenitinho",
+      "linfoadenitinhos"
+    ]
+  },
+  "linfoadenovariz": {
+    "R": [
+      "linfoadenovarizinho",
+      "linfoadenovarizezinhos"
+    ]
+  },
+  "linfoangioflebite": {
+    "P": [
+      "linfoangioflebitinho",
+      "linfoangioflebitinhos"
+    ]
+  },
+  "linfoenterite": {
+    "P": [
+      "linfoenteritinho",
+      "linfoenteritinhos"
+    ]
+  },
+  "linfolisação": {
+    "Q": [
+      "linfolisaçãozinha",
+      "linfolisaçõezinhas"
+    ],
+    "W": [
+      "linfolisaçona",
+      "linfolisaçonas"
+    ]
+  },
+  "linfolisante": {
+    "P": [
+      "linfolisantinho",
+      "linfolisantinhos"
+    ]
+  },
+  "linfomatoso": {
+    "O": [
+      "linfomatosinha",
+      "linfomatosinhas"
+    ],
+    "P": [
+      "linfomatosinho",
+      "linfomatosinhos"
+    ]
+  },
+  "linfonodal": {
+    "R": [
+      "linfonodalzinho",
+      "linfonodaizinhos"
+    ],
+    "V": [
+      "linfonodalzão",
+      "linfonodalzões"
+    ]
+  },
+  "linfonodite": {
+    "P": [
+      "linfonoditinho",
+      "linfonoditinhos"
+    ]
+  },
+  "língel": {
+    "R": [
+      "língelzinho",
+      "língeizinhos"
+    ],
+    "V": [
+      "língelzão",
+      "língelzões"
+    ]
+  },
+  "lingote": {
+    "P": [
+      "lingotinho",
+      "lingotinhos"
+    ]
+  },
+  "linguagens-fonte": {
+    "P": [
+      "linguagens-fontinho",
+      "linguagens-fontinhos"
+    ]
+  },
+  "linguaral": {
+    "R": [
+      "linguaralzinho",
+      "linguaraizinhos"
+    ],
+    "V": [
+      "linguaralzão",
+      "linguaralzões"
+    ]
+  },
+  "linguarudo": {
+    "O": [
+      "linguarudinha",
+      "linguarudinhas"
+    ],
+    "P": [
+      "linguarudinho",
+      "linguarudinhos"
+    ]
+  },
+  "lingueirão": {
+    "R": [
+      "lingueirãozinho",
+      "lingueirõezinhos"
+    ],
+    "V": [
+      "lingueirãozão",
+      "lingueirãozões"
+    ]
+  },
+  "linguete": {
+    "O": [
+      "linguetinha",
+      "linguetinhas"
+    ],
+    "P": [
+      "linguetinho",
+      "linguetinhos"
+    ]
+  },
+  "linguiça": {
+    "O": [
+      "linguicinha",
+      "linguicinhas"
+    ]
+  },
+  "lingular": {
+    "R": [
+      "lingularezinhos",
+      "lingularzinho"
+    ]
+  },
+  "linguoalveolar": {
+    "R": [
+      "linguoalveolarezinhos",
+      "linguoalveolarzinho"
+    ]
+  },
+  "linguodental": {
+    "R": [
+      "linguodentalzinho",
+      "linguodentaizinhos"
+    ],
+    "V": [
+      "linguodentalzão",
+      "linguodentalzões"
+    ]
+  },
+  "linguogutural": {
+    "R": [
+      "linguoguturalzinho",
+      "linguoguturaizinhos"
+    ],
+    "V": [
+      "linguoguturalzão",
+      "linguoguturalzões"
+    ]
+  },
+  "linguopalatal": {
+    "R": [
+      "linguopalatalzinho",
+      "linguopalataizinhos"
+    ],
+    "V": [
+      "linguopalatalzão",
+      "linguopalatalzões"
+    ]
+  },
+  "linguopapilite": {
+    "P": [
+      "linguopapilitinho",
+      "linguopapilitinhos"
+    ]
+  },
+  "linguoversão": {
+    "Q": [
+      "linguoversãozinha",
+      "linguoversõezinhas"
+    ],
+    "W": [
+      "linguoversona",
+      "linguoversonas"
+    ]
+  },
+  "linhajudo": {
+    "O": [
+      "linhajudinha",
+      "linhajudinhas"
+    ],
+    "P": [
+      "linhajudinho",
+      "linhajudinhos"
+    ]
+  },
+  "linhal": {
+    "R": [
+      "linhalzinho",
+      "linhaizinhos"
+    ],
+    "V": [
+      "linhalzão",
+      "linhalzões"
+    ]
+  },
+  "linhão": {
+    "R": [
+      "linhãozinho",
+      "linhõezinhos"
+    ],
+    "V": [
+      "linhãozão",
+      "linhãozões"
+    ]
+  },
+  "linhar": {
+    "R": [
+      "linharezinhos",
+      "linharzinho"
+    ]
+  },
+  "linharão": {
+    "R": [
+      "linharãozinho",
+      "linharõezinhos"
+    ],
+    "V": [
+      "linharãozão",
+      "linharãozões"
+    ]
+  },
+  "linhavão": {
+    "R": [
+      "linhavãozinho",
+      "linhavõezinhos"
+    ],
+    "V": [
+      "linhavãozão",
+      "linhavãozões"
+    ],
+    "ò+R": [
+      "alinhavãozinho",
+      "alinhavõezinhos"
+    ],
+    "ò+V": [
+      "alinhavãozão",
+      "alinhavãozões"
+    ]
+  },
+  "linhite": {
+    "P": [
+      "linhitinho",
+      "linhitinhos"
+    ]
+  },
+  "linhitoso": {
+    "O": [
+      "linhitosinha",
+      "linhitosinhas"
+    ],
+    "P": [
+      "linhitosinho",
+      "linhitosinhos"
+    ]
+  },
+  "linhol": {
+    "R": [
+      "linholzinho",
+      "linhoizinhos"
+    ],
+    "V": [
+      "linholzão",
+      "linholzões"
+    ]
+  },
+  "linhoso": {
+    "O": [
+      "linhosinha",
+      "linhosinhas"
+    ],
+    "P": [
+      "linhosinho",
+      "linhosinhos"
+    ]
+  },
+  "linhote": {
+    "P": [
+      "linhotinho",
+      "linhotinhos"
+    ]
+  },
+  "linite": {
+    "P": [
+      "linitinho",
+      "linitinhos"
+    ]
+  },
+  "linocompositor": {
+    "R": [
+      "linocompositorezinhos",
+      "linocompositorzinho"
+    ]
+  },
+  "linoperador": {
+    "R": [
+      "linoperadorezinhos",
+      "linoperadorzinho"
+    ]
+  },
+  "linoperatriz": {
+    "Q": [
+      "linoperatrizinha",
+      "linoperatrizezinhas"
+    ]
+  },
+  "linotipos": {
+    "P": [
+      "linotipinho",
+      "linotipinhos"
+    ]
+  },
+  "liofilização": {
+    "Q": [
+      "liofilizaçãozinha",
+      "liofilizaçõezinhas"
+    ],
+    "W": [
+      "liofilizaçona",
+      "liofilizaçonas"
+    ]
+  },
+  "Lionel": {
+    "R": [
+      "Lionelzinho",
+      "Lioneizinhos"
+    ],
+    "V": [
+      "Lionelzão",
+      "Lionelzões"
+    ]
+  },
+  "lionês": {
+    "O": [
+      "lionesinha",
+      "lionesinhas"
+    ],
+    "P": [
+      "lionesinho",
+      "lionesezinhos"
+    ]
+  },
+  "liornês": {
+    "O": [
+      "liornesinha",
+      "liornesinhas"
+    ],
+    "P": [
+      "liornesinho",
+      "liornesezinhos"
+    ]
+  },
+  "liparite": {
+    "P": [
+      "liparitinho",
+      "liparitinhos"
+    ]
+  },
+  "lipate": {
+    "P": [
+      "lipatinho",
+      "lipatinhos"
+    ]
+  },
+  "lipiodol": {
+    "R": [
+      "lipiodolzinho",
+      "lipiodoizinhos"
+    ],
+    "V": [
+      "lipiodolzão",
+      "lipiodolzões"
+    ]
+  },
+  "lipoartrite": {
+    "P": [
+      "lipoartritinho",
+      "lipoartritinhos"
+    ]
+  },
+  "lipoaspiração": {
+    "Q": [
+      "lipoaspiraçãozinha",
+      "lipoaspiraçõezinhas"
+    ],
+    "W": [
+      "lipoaspiraçona",
+      "lipoaspiraçonas"
+    ],
+    "û+Q": [
+      "microlipoaspiraçãozinha",
+      "microlipoaspiraçõezinhas"
+    ],
+    "û+W": [
+      "microlipoaspiraçona",
+      "microlipoaspiraçonas"
+    ]
+  },
+  "lipodonte": {
+    "P": [
+      "lipodontinho",
+      "lipodontinhos"
+    ]
+  },
+  "lipomatoso": {
+    "O": [
+      "lipomatosinha",
+      "lipomatosinhas"
+    ],
+    "P": [
+      "lipomatosinho",
+      "lipomatosinhos"
+    ]
+  },
+  "lipositol": {
+    "R": [
+      "lipositolzinho",
+      "lipositoizinhos"
+    ],
+    "V": [
+      "lipositolzão",
+      "lipositolzões"
+    ]
+  },
+  "liposo": {
+    "O": [
+      "liposinha",
+      "liposinhas"
+    ],
+    "P": [
+      "liposinho",
+      "liposinhos"
+    ]
+  },
+  "lipossolúvel": {
+    "R": [
+      "lipossolúvelzinho",
+      "lipossolúveizinhos"
+    ],
+    "V": [
+      "lipossolúvelzão",
+      "lipossolúvelzões"
+    ]
+  },
+  "lipote": {
+    "P": [
+      "lipotinho",
+      "lipotinhos"
+    ]
+  },
+  "liquação": {
+    "Q": [
+      "liquaçãozinha",
+      "liquaçõezinhas"
+    ],
+    "W": [
+      "liquaçona",
+      "liquaçonas"
+    ],
+    "Ñ+Q": [
+      "coliquaçãozinha",
+      "coliquaçõezinhas"
+    ],
+    "Ñ+W": [
+      "coliquaçona",
+      "coliquaçonas"
+    ]
+  },
+  "liquefação": {
+    "Q": [
+      "liquefaçãozinha",
+      "liquefaçõezinhas"
+    ],
+    "W": [
+      "liquefaçona",
+      "liquefaçonas"
+    ]
+  },
+  "liquefacção": {
+    "Q": [
+      "liquefacçãozinha",
+      "liquefacçõezinhas"
+    ],
+    "W": [
+      "liquefacçona",
+      "liquefacçonas"
+    ]
+  },
+  "liquefacciente": {
+    "P": [
+      "liquefaccientinho",
+      "liquefaccientinhos"
+    ]
+  },
+  "liquefaciente": {
+    "P": [
+      "liquefacientinho",
+      "liquefacientinhos"
+    ]
+  },
+  "liquefactor": {
+    "R": [
+      "liquefactorezinhos",
+      "liquefactorzinho"
+    ]
+  },
+  "liquefator": {
+    "R": [
+      "liquefatorezinhos",
+      "liquefatorzinho"
+    ]
+  },
+  "liquenificação": {
+    "Q": [
+      "liquenificaçãozinha",
+      "liquenificaçõezinhas"
+    ],
+    "W": [
+      "liquenificaçona",
+      "liquenificaçonas"
+    ]
+  },
+  "liquenificante": {
+    "P": [
+      "liquenificantinho",
+      "liquenificantinhos"
+    ]
+  },
+  "liquenização": {
+    "Q": [
+      "liquenizaçãozinha",
+      "liquenizaçõezinhas"
+    ],
+    "W": [
+      "liquenizaçona",
+      "liquenizaçonas"
+    ]
+  },
+  "liquescente": {
+    "P": [
+      "liquescentinho",
+      "liquescentinhos"
+    ]
+  },
+  "liquidâmbar": {
+    "R": [
+      "liquidâmbarezinhos",
+      "liquidâmbarzinho"
+    ]
+  },
+  "liquidificação": {
+    "Q": [
+      "liquidificaçãozinha",
+      "liquidificaçõezinhas"
+    ],
+    "W": [
+      "liquidificaçona",
+      "liquidificaçonas"
+    ]
+  },
+  "liral": {
+    "R": [
+      "liralzinho",
+      "liraizinhos"
+    ],
+    "V": [
+      "liralzão",
+      "liralzões"
+    ]
+  },
+  "lirão": {
+    "R": [
+      "lirãozinho",
+      "lirõezinhos"
+    ],
+    "V": [
+      "lirãozão",
+      "lirãozões"
+    ]
+  },
+  "lirial": {
+    "R": [
+      "lirialzinho",
+      "liriaizinhos"
+    ],
+    "V": [
+      "lirialzão",
+      "lirialzões"
+    ]
+  },
+  "lirimilaste": {
+    "P": [
+      "lirimilastinho",
+      "lirimilastinhos"
+    ]
+  },
+  "lirinate": {
+    "P": [
+      "lirinatinho",
+      "lirinatinhos"
+    ]
+  },
+  "liriste": {
+    "O": [
+      "liristinha",
+      "liristinhas"
+    ],
+    "P": [
+      "liristinho",
+      "liristinhos"
+    ]
+  },
+  "liroconite": {
+    "O": [
+      "liroconitinha",
+      "liroconitinhas"
+    ],
+    "P": [
+      "liroconitinho",
+      "liroconitinhos"
+    ]
+  },
+  "liromalaquite": {
+    "O": [
+      "liromalaquitinha",
+      "liromalaquitinhas"
+    ],
+    "P": [
+      "liromalaquitinho",
+      "liromalaquitinhos"
+    ]
+  },
+  "lisação": {
+    "Q": [
+      "lisaçãozinha",
+      "lisaçõezinhas"
+    ],
+    "W": [
+      "lisaçona",
+      "lisaçonas"
+    ]
+  },
+  "lisador": {
+    "R": [
+      "lisadorezinhos",
+      "lisadorzinho"
+    ]
+  },
+  "lisarete": {
+    "P": [
+      "lisaretinho",
+      "lisaretinhos"
+    ]
+  },
+  "lisbonês": {
+    "O": [
+      "lisbonesinha",
+      "lisbonesinhas"
+    ],
+    "P": [
+      "lisbonesinho",
+      "lisbonesezinhos"
+    ]
+  },
+  "lisiluminescente": {
+    "P": [
+      "lisiluminescentinho",
+      "lisiluminescentinhos"
+    ]
+  },
+  "lisinopril": {
+    "R": [
+      "lisinoprilzinho",
+      "lisinopriizinhos"
+    ],
+    "V": [
+      "lisinoprilzão",
+      "lisinoprilzões"
+    ]
+  },
+  "lisogenização": {
+    "Q": [
+      "lisogenizaçãozinha",
+      "lisogenizaçõezinhas"
+    ],
+    "W": [
+      "lisogenizaçona",
+      "lisogenizaçonas"
+    ]
+  },
+  "lisol": {
+    "R": [
+      "lisolzinho",
+      "lisoizinhos"
+    ],
+    "V": [
+      "lisolzão",
+      "lisolzões"
+    ]
+  },
+  "lisossomial": {
+    "R": [
+      "lisossomialzinho",
+      "lisossomiaizinhos"
+    ],
+    "V": [
+      "lisossomialzão",
+      "lisossomialzões"
+    ]
+  },
+  "listão": {
+    "R": [
+      "listãozinho",
+      "listõezinhos"
+    ],
+    "V": [
+      "listãozão",
+      "listãozões"
+    ],
+    "ò+R": [
+      "alistãozinho",
+      "alistõezinhos"
+    ],
+    "ò+V": [
+      "alistãozão",
+      "alistãozões"
+    ]
+  },
+  "listel": {
+    "R": [
+      "listelzinho",
+      "listeizinhos"
+    ],
+    "V": [
+      "listelzão",
+      "listelzões"
+    ]
+  },
+  "listelão": {
+    "R": [
+      "listelãozinho",
+      "listelõezinhos"
+    ],
+    "V": [
+      "listelãozão",
+      "listelãozões"
+    ]
+  },
+  "listrão": {
+    "R": [
+      "listrãozinho",
+      "listrõezinhos"
+    ],
+    "V": [
+      "listrãozão",
+      "listrãozões"
+    ]
+  },
+  "litação": {
+    "Q": [
+      "litaçãozinha",
+      "litaçõezinhas"
+    ],
+    "W": [
+      "litaçona",
+      "litaçonas"
+    ]
+  },
+  "litão": {
+    "R": [
+      "litãozinho",
+      "litõezinhos"
+    ],
+    "V": [
+      "litãozão",
+      "litãozões"
+    ]
+  },
+  "lite": {
+    "O": [
+      "litinha",
+      "litinhas"
+    ],
+    "P": [
+      "litinho",
+      "litinhos"
+    ],
+    "á+O": [
+      "aerolitinha",
+      "aerolitinhas"
+    ],
+    "Ä+O": [
+      "ilitinha",
+      "ilitinhas"
+    ],
+    "É+O": [
+      "neolitinha",
+      "neolitinhas"
+    ],
+    "Ñ+O": [
+      "colitinha",
+      "colitinhas"
+    ],
+    "Ú+O": [
+      "pseudolitinha",
+      "pseudolitinhas"
+    ],
+    "û+O": [
+      "microlitinha",
+      "microlitinhas"
+    ],
+    "á+P": [
+      "aerolitinho",
+      "aerolitinhos"
+    ],
+    "Ä+P": [
+      "ilitinho",
+      "ilitinhos"
+    ],
+    "É+P": [
+      "neolitinho",
+      "neolitinhos"
+    ],
+    "Ñ+P": [
+      "colitinho",
+      "colitinhos"
+    ],
+    "Ú+P": [
+      "pseudolitinho",
+      "pseudolitinhos"
+    ],
+    "û+P": [
+      "microlitinho",
+      "microlitinhos"
+    ]
+  },
+  "literal": {
+    "R": [
+      "literalzinho",
+      "literaizinhos"
+    ],
+    "V": [
+      "literalzão",
+      "literalzões"
+    ]
+  },
+  "literário-editorial": {
+    "R": [
+      "literário-editorialzinho",
+      "literário-editoriaizinhos"
+    ],
+    "V": [
+      "literário-editorialzão",
+      "literário-editorialzões"
+    ]
+  },
+  "literário-musical": {
+    "R": [
+      "literário-musicalzinho",
+      "literário-musicaizinhos"
+    ],
+    "V": [
+      "literário-musicalzão",
+      "literário-musicalzões"
+    ]
+  },
+  "literarização": {
+    "Q": [
+      "literarizaçãozinha",
+      "literarizaçõezinhas"
+    ],
+    "W": [
+      "literarizaçona",
+      "literarizaçonas"
+    ],
+    "Î+Q": [
+      "hiperliterarizaçãozinha",
+      "hiperliterarizaçõezinhas"
+    ],
+    "Î+W": [
+      "hiperliterarizaçona",
+      "hiperliterarizaçonas"
+    ]
+  },
+  "literarizante": {
+    "P": [
+      "literarizantinho",
+      "literarizantinhos"
+    ]
+  },
+  "literatação": {
+    "Q": [
+      "literataçãozinha",
+      "literataçõezinhas"
+    ],
+    "W": [
+      "literataçona",
+      "literataçonas"
+    ]
+  },
+  "literatante": {
+    "P": [
+      "literatantinho",
+      "literatantinhos"
+    ]
+  },
+  "literatização": {
+    "Q": [
+      "literatizaçãozinha",
+      "literatizaçõezinhas"
+    ],
+    "W": [
+      "literatizaçona",
+      "literatizaçonas"
+    ]
+  },
+  "literatizante": {
+    "P": [
+      "literatizantinho",
+      "literatizantinhos"
+    ]
+  },
+  "literator": {
+    "R": [
+      "literatorezinhos",
+      "literatorzinho"
+    ]
+  },
+  "litergol": {
+    "R": [
+      "litergolzinho",
+      "litergoizinhos"
+    ],
+    "V": [
+      "litergolzão",
+      "litergolzões"
+    ]
+  },
+  "lítero-musical": {
+    "R": [
+      "lítero-musicalzinho",
+      "lítero-musicaizinhos"
+    ],
+    "V": [
+      "lítero-musicalzão",
+      "lítero-musicalzões"
+    ]
+  },
+  "litifante": {
+    "P": [
+      "litifantinho",
+      "litifantinhos"
+    ]
+  },
+  "litificação": {
+    "Q": [
+      "litificaçãozinha",
+      "litificaçõezinhas"
+    ],
+    "W": [
+      "litificaçona",
+      "litificaçonas"
+    ]
+  },
+  "litificante": {
+    "P": [
+      "litificantinho",
+      "litificantinhos"
+    ]
+  },
+  "litigação": {
+    "Q": [
+      "litigaçãozinha",
+      "litigaçõezinhas"
+    ],
+    "W": [
+      "litigaçona",
+      "litigaçonas"
+    ],
+    "Ñ+Q": [
+      "colitigaçãozinha",
+      "colitigaçõezinhas"
+    ],
+    "Ñ+W": [
+      "colitigaçona",
+      "colitigaçonas"
+    ]
+  },
+  "litigioso": {
+    "O": [
+      "litigiosinha",
+      "litigiosinhas"
+    ],
+    "P": [
+      "litigiosinho",
+      "litigiosinhos"
+    ]
+  },
+  "litioforite": {
+    "O": [
+      "litioforitinha",
+      "litioforitinhas"
+    ],
+    "P": [
+      "litioforitinho",
+      "litioforitinhos"
+    ]
+  },
+  "litionite": {
+    "O": [
+      "litionitinha",
+      "litionitinhas"
+    ],
+    "P": [
+      "litionitinho",
+      "litionitinhos"
+    ],
+    "ö+O": [
+      "polilitionitinha",
+      "polilitionitinhas"
+    ],
+    "Ù+O": [
+      "protolitionitinha",
+      "protolitionitinhas"
+    ],
+    "ö+P": [
+      "polilitionitinho",
+      "polilitionitinhos"
+    ],
+    "Ù+P": [
+      "protolitionitinho",
+      "protolitionitinhos"
+    ]
+  },
+  "litisconexão": {
+    "R": [
+      "litisconexãozinho",
+      "litisconexõezinhos"
+    ],
+    "V": [
+      "litisconexãozão",
+      "litisconexãozões"
+    ]
+  },
+  "litisconsorcial": {
+    "R": [
+      "litisconsorcialzinho",
+      "litisconsorciaizinhos"
+    ],
+    "V": [
+      "litisconsorcialzão",
+      "litisconsorcialzões"
+    ]
+  },
+  "litisconsorte": {
+    "P": [
+      "litisconsortinho",
+      "litisconsortinhos"
+    ]
+  },
+  "litiscontestação": {
+    "Q": [
+      "litiscontestaçãozinha",
+      "litiscontestaçõezinhas"
+    ],
+    "W": [
+      "litiscontestaçona",
+      "litiscontestaçonas"
+    ]
+  },
+  "litiscontestante": {
+    "P": [
+      "litiscontestantinho",
+      "litiscontestantinhos"
+    ]
+  },
+  "litisdenunciação": {
+    "Q": [
+      "litisdenunciaçãozinha",
+      "litisdenunciaçõezinhas"
+    ],
+    "W": [
+      "litisdenunciaçona",
+      "litisdenunciaçonas"
+    ]
+  },
+  "litisdenunciante": {
+    "P": [
+      "litisdenunciantinho",
+      "litisdenunciantinhos"
+    ]
+  },
+  "litite": {
+    "P": [
+      "lititinho",
+      "lititinhos"
+    ]
+  },
+  "litizonte": {
+    "P": [
+      "litizontinho",
+      "litizontinhos"
+    ]
+  },
+  "litocolete": {
+    "P": [
+      "litocoletinho",
+      "litocoletinhos"
+    ]
+  },
+  "litodonte": {
+    "P": [
+      "litodontinho",
+      "litodontinhos"
+    ]
+  },
+  "litofacial": {
+    "R": [
+      "litofacialzinho",
+      "litofaciaizinhos"
+    ],
+    "V": [
+      "litofacialzão",
+      "litofacialzões"
+    ]
+  },
+  "litofractor": {
+    "R": [
+      "litofractorezinhos",
+      "litofractorzinho"
+    ]
+  },
+  "litofrator": {
+    "R": [
+      "litofratorezinhos",
+      "litofratorzinho"
+    ]
+  },
+  "litomante": {
+    "P": [
+      "litomantinho",
+      "litomantinhos"
+    ]
+  },
+  "litomeglovir": {
+    "R": [
+      "litomeglovirezinhos",
+      "litomeglovirzinho"
+    ]
+  },
+  "litor": {
+    "R": [
+      "litorezinhos",
+      "litorzinho"
+    ]
+  },
+  "litoral": {
+    "R": [
+      "litoralzinho",
+      "litoraizinhos"
+    ],
+    "V": [
+      "litoralzão",
+      "litoralzões"
+    ],
+    "È+R": [
+      "sublitoralzinho",
+      "sublitoraizinhos"
+    ],
+    "Õ+R": [
+      "infralitoralzinho",
+      "infralitoraizinhos"
+    ],
+    "È+V": [
+      "sublitoralzão",
+      "sublitoralzões"
+    ],
+    "Õ+V": [
+      "infralitoralzão",
+      "infralitoralzões"
+    ]
+  },
+  "litossederite": {
+    "P": [
+      "litossederitinho",
+      "litossederitinhos"
+    ]
+  },
+  "litotete": {
+    "P": [
+      "litotetinho",
+      "litotetinhos"
+    ]
+  },
+  "litotritor": {
+    "R": [
+      "litotritorezinhos",
+      "litotritorzinho"
+    ]
+  },
+  "litrite": {
+    "P": [
+      "litritinho",
+      "litritinhos"
+    ]
+  },
+  "littrite": {
+    "P": [
+      "littritinho",
+      "littritinhos"
+    ]
+  },
+  "liural": {
+    "R": [
+      "liuralzinho",
+      "liuraizinhos"
+    ],
+    "V": [
+      "liuralzão",
+      "liuralzões"
+    ]
+  },
+  "livel": {
+    "R": [
+      "livelzinho",
+      "liveizinhos"
+    ],
+    "V": [
+      "livelzão",
+      "livelzões"
+    ]
+  },
+  "livelação": {
+    "Q": [
+      "livelaçãozinha",
+      "livelaçõezinhas"
+    ],
+    "W": [
+      "livelaçona",
+      "livelaçonas"
+    ]
+  },
+  "lividescente": {
+    "P": [
+      "lividescentinho",
+      "lividescentinhos"
+    ]
+  },
+  "livingstonite": {
+    "O": [
+      "livingstonitinha",
+      "livingstonitinhas"
+    ],
+    "P": [
+      "livingstonitinho",
+      "livingstonitinhos"
+    ]
+  },
+  "livor": {
+    "R": [
+      "livorezinhos",
+      "livorzinho"
+    ]
+  },
+  "livoroso": {
+    "O": [
+      "livorosinha",
+      "livorosinhas"
+    ],
+    "P": [
+      "livorosinho",
+      "livorosinhos"
+    ]
+  },
+  "livração": {
+    "Q": [
+      "livraçãozinha",
+      "livraçõezinhas"
+    ],
+    "W": [
+      "livraçona",
+      "livraçonas"
+    ]
+  },
+  "livre-docente": {
+    "P": [
+      "livre-docentinho",
+      "livre-docentinhos"
+    ]
+  },
+  "livre-nadante": {
+    "P": [
+      "livre-nadantinho",
+      "livre-nadantinhos"
+    ]
+  },
+  "livre-pensante": {
+    "P": [
+      "livre-pensantinho",
+      "livre-pensantinhos"
+    ]
+  },
+  "livrete": {
+    "P": [
+      "livretinho",
+      "livretinhos"
+    ]
+  },
+  "livros-cassete": {
+    "P": [
+      "livros-cassetinho",
+      "livros-cassetinhos"
+    ]
+  },
+  "livros-razão": {
+    "R": [
+      "livros-razãozinho",
+      "livros-razõezinhos"
+    ],
+    "V": [
+      "livros-razãozão",
+      "livros-razãozões"
+    ]
+  },
+  "livros": {
+    "P": [
+      "livrinho",
+      "livrinhos"
+    ]
+  },
+  "lixação": {
+    "Q": [
+      "lixaçãozinha",
+      "lixaçõezinhas"
+    ],
+    "W": [
+      "lixaçona",
+      "lixaçonas"
+    ]
+  },
+  "lixão": {
+    "R": [
+      "lixãozinho",
+      "lixõezinhos"
+    ],
+    "V": [
+      "lixãozão",
+      "lixãozões"
+    ]
+  },
+  "lixiviação": {
+    "Q": [
+      "lixiviaçãozinha",
+      "lixiviaçõezinhas"
+    ],
+    "W": [
+      "lixiviaçona",
+      "lixiviaçonas"
+    ]
+  },
+  "lixivioso": {
+    "O": [
+      "lixiviosinha",
+      "lixiviosinhas"
+    ],
+    "P": [
+      "lixiviosinho",
+      "lixiviosinhos"
+    ]
+  },
+  "lixos": {
+    "P": [
+      "lixinho",
+      "lixinhos"
+    ]
+  },
+  "lixoso": {
+    "O": [
+      "lixosinha",
+      "lixosinhas"
+    ],
+    "P": [
+      "lixosinho",
+      "lixosinhos"
+    ]
+  },
+  "loação": {
+    "Q": [
+      "loaçãozinha",
+      "loaçõezinhas"
+    ],
+    "W": [
+      "loaçona",
+      "loaçonas"
+    ]
+  },
+  "loão": {
+    "R": [
+      "loãozinho",
+      "loõezinhos"
+    ],
+    "V": [
+      "loãozão",
+      "loãozões"
+    ]
+  },
+  "loasa": {
+    "O": [
+      "loasinha",
+      "loasinhas"
+    ]
+  },
+  "lobagante": {
+    "P": [
+      "lobagantinho",
+      "lobagantinhos"
+    ]
+  },
+  "lobal": {
+    "R": [
+      "lobalzinho",
+      "lobaizinhos"
+    ],
+    "V": [
+      "lobalzão",
+      "lobalzões"
+    ]
+  },
+  "lobão": {
+    "R": [
+      "lobãozinho",
+      "lobõezinhos"
+    ],
+    "V": [
+      "lobãozão",
+      "lobãozões"
+    ]
+  },
+  "lobar": {
+    "R": [
+      "lobarezinhos",
+      "lobarzinho"
+    ],
+    "Í+R": [
+      "interlobarezinhos",
+      "interlobarzinho"
+    ]
+  },
+  "lobecão": {
+    "R": [
+      "lobecãozinho",
+      "lobecõezinhos"
+    ],
+    "V": [
+      "lobecãozão",
+      "lobecãozões"
+    ]
+  },
+  "lobegante": {
+    "P": [
+      "lobegantinho",
+      "lobegantinhos"
+    ]
+  },
+  "lobendazol": {
+    "R": [
+      "lobendazolzinho",
+      "lobendazoizinhos"
+    ],
+    "V": [
+      "lobendazolzão",
+      "lobendazolzões"
+    ]
+  },
+  "lobenzarite": {
+    "P": [
+      "lobenzaritinho",
+      "lobenzaritinhos"
+    ]
+  },
+  "lobete": {
+    "P": [
+      "lobetinho",
+      "lobetinhos"
+    ]
+  },
+  "lobite": {
+    "P": [
+      "lobitinho",
+      "lobitinhos"
+    ],
+    "É+P": [
+      "neolobitinho",
+      "neolobitinhos"
+    ]
+  },
+  "lobo": {
+    "O": [
+      "lobinha",
+      "lobinhas"
+    ],
+    "P": [
+      "lobinho",
+      "lobinhos"
+    ],
+    "Ñ+O": [
+      "colobinha",
+      "colobinhas"
+    ],
+    "Ñ+P": [
+      "colobinho",
+      "colobinhos"
+    ]
+  },
+  "lobodonte": {
+    "P": [
+      "lobodontinho",
+      "lobodontinhos"
+    ]
+  },
+  "lobogante": {
+    "P": [
+      "lobogantinho",
+      "lobogantinhos"
+    ]
+  },
+  "lobornite": {
+    "P": [
+      "lobornitinho",
+      "lobornitinhos"
+    ]
+  },
+  "loboso": {
+    "O": [
+      "lobosinha",
+      "lobosinhas"
+    ],
+    "P": [
+      "lobosinho",
+      "lobosinhos"
+    ]
+  },
+  "lobote": {
+    "P": [
+      "lobotinho",
+      "lobotinhos"
+    ]
+  },
+  "lobreguidão": {
+    "R": [
+      "lobreguidãozinho",
+      "lobreguidõezinhos"
+    ],
+    "V": [
+      "lobreguidãozão",
+      "lobreguidãozões"
+    ]
+  },
+  "lobucavir": {
+    "R": [
+      "lobucavirezinhos",
+      "lobucavirzinho"
+    ]
+  },
+  "lobulação": {
+    "Q": [
+      "lobulaçãozinha",
+      "lobulaçõezinhas"
+    ],
+    "W": [
+      "lobulaçona",
+      "lobulaçonas"
+    ]
+  },
+  "lobuloso": {
+    "O": [
+      "lobulosinha",
+      "lobulosinhas"
+    ],
+    "P": [
+      "lobulosinho",
+      "lobulosinhos"
+    ]
+  },
+  "locação": {
+    "Q": [
+      "locaçãozinha",
+      "locaçõezinhas"
+    ],
+    "W": [
+      "locaçona",
+      "locaçonas"
+    ],
+    "À+Q": [
+      "relocaçãozinha",
+      "relocaçõezinhas"
+    ],
+    "Â+Q": [
+      "deslocaçãozinha",
+      "deslocaçõezinhas"
+    ],
+    "È+Q": [
+      "sublocaçãozinha",
+      "sublocaçõezinhas"
+    ],
+    "î+Q": [
+      "translocaçãozinha",
+      "translocaçõezinhas"
+    ],
+    "À+W": [
+      "relocaçona",
+      "relocaçonas"
+    ],
+    "Â+W": [
+      "deslocaçona",
+      "deslocaçonas"
+    ],
+    "È+W": [
+      "sublocaçona",
+      "sublocaçonas"
+    ],
+    "î+W": [
+      "translocaçona",
+      "translocaçonas"
+    ]
+  },
+  "locacional": {
+    "R": [
+      "locacionalzinho",
+      "locacionaizinhos"
+    ],
+    "V": [
+      "locacionalzão",
+      "locacionalzões"
+    ],
+    "Ñ+R": [
+      "colocacionalzinho",
+      "colocacionaizinhos"
+    ],
+    "Ñ+V": [
+      "colocacionalzão",
+      "colocacionalzões"
+    ]
+  },
+  "locador": {
+    "R": [
+      "locadorezinhos",
+      "locadorzinho"
+    ],
+    "ò+R": [
+      "alocadorezinhos",
+      "alocadorzinho"
+    ]
+  },
+  "local": {
+    "R": [
+      "localzinho",
+      "locaizinhos"
+    ],
+    "V": [
+      "localzão",
+      "localzões"
+    ],
+    "É+R": [
+      "neolocalzinho",
+      "neolocaizinhos"
+    ],
+    "É+V": [
+      "neolocalzão",
+      "neolocalzões"
+    ]
+  },
+  "localização": {
+    "Q": [
+      "localizaçãozinha",
+      "localizaçõezinhas"
+    ],
+    "W": [
+      "localizaçona",
+      "localizaçonas"
+    ],
+    "À+Q": [
+      "relocalizaçãozinha",
+      "relocalizaçõezinhas"
+    ],
+    "Â+Q": [
+      "deslocalizaçãozinha",
+      "deslocalizaçõezinhas"
+    ],
+    "È+Q": [
+      "sublocalizaçãozinha",
+      "sublocalizaçõezinhas"
+    ],
+    "À+W": [
+      "relocalizaçona",
+      "relocalizaçonas"
+    ],
+    "Â+W": [
+      "deslocalizaçona",
+      "deslocalizaçonas"
+    ],
+    "È+W": [
+      "sublocalizaçona",
+      "sublocalizaçonas"
+    ]
+  },
+  "loção": {
+    "Q": [
+      "loçãozinha",
+      "loçõezinhas"
+    ],
+    "W": [
+      "loçona",
+      "loçonas"
+    ]
+  },
+  "locaute": {
+    "P": [
+      "locautinho",
+      "locautinhos"
+    ]
+  },
+  "locomoção": {
+    "Q": [
+      "locomoçãozinha",
+      "locomoçõezinhas"
+    ],
+    "W": [
+      "locomoçona",
+      "locomoçonas"
+    ]
+  },
+  "locomotival": {
+    "R": [
+      "locomotivalzinho",
+      "locomotivaizinhos"
+    ],
+    "V": [
+      "locomotivalzão",
+      "locomotivalzões"
+    ]
+  },
+  "locomotor": {
+    "R": [
+      "locomotorezinhos",
+      "locomotorzinho"
+    ]
+  },
+  "locomotriz": {
+    "Q": [
+      "locomotrizinha",
+      "locomotrizezinhas"
+    ]
+  },
+  "locomóvel": {
+    "R": [
+      "locomóvelzinho",
+      "locomóveizinhos"
+    ],
+    "V": [
+      "locomóvelzão",
+      "locomóvelzões"
+    ]
+  },
+  "locondel": {
+    "R": [
+      "locondelzinho",
+      "locondeizinhos"
+    ],
+    "V": [
+      "locondelzão",
+      "locondelzões"
+    ]
+  },
+  "locote": {
+    "P": [
+      "locotinho",
+      "locotinhos"
+    ]
+  },
+  "locotenente": {
+    "P": [
+      "locotenentinho",
+      "locotenentinhos"
+    ]
+  },
+  "locotrator": {
+    "R": [
+      "locotratorezinhos",
+      "locotratorzinho"
+    ]
+  },
+  "loctal": {
+    "R": [
+      "loctalzinho",
+      "loctaizinhos"
+    ],
+    "V": [
+      "loctalzão",
+      "loctalzões"
+    ]
+  },
+  "locução": {
+    "Q": [
+      "locuçãozinha",
+      "locuçõezinhas"
+    ],
+    "W": [
+      "locuçona",
+      "locuçonas"
+    ],
+    "Ä+Q": [
+      "ilocuçãozinha",
+      "ilocuçõezinhas"
+    ],
+    "Í+Q": [
+      "interlocuçãozinha",
+      "interlocuçõezinhas"
+    ],
+    "ò+Q": [
+      "alocuçãozinha",
+      "alocuçõezinhas"
+    ],
+    "Ä+W": [
+      "ilocuçona",
+      "ilocuçonas"
+    ],
+    "Í+W": [
+      "interlocuçona",
+      "interlocuçonas"
+    ],
+    "ò+W": [
+      "alocuçona",
+      "alocuçonas"
+    ]
+  },
+  "locucional": {
+    "R": [
+      "locucionalzinho",
+      "locucionaizinhos"
+    ],
+    "V": [
+      "locucionalzão",
+      "locucionalzões"
+    ],
+    "Ä+R": [
+      "ilocucionalzinho",
+      "ilocucionaizinhos"
+    ],
+    "ò+R": [
+      "alocucionalzinho",
+      "alocucionaizinhos"
+    ],
+    "Ä+V": [
+      "ilocucionalzão",
+      "ilocucionalzões"
+    ],
+    "ò+V": [
+      "alocucionalzão",
+      "alocucionalzões"
+    ]
+  },
+  "loculação": {
+    "Q": [
+      "loculaçãozinha",
+      "loculaçõezinhas"
+    ],
+    "W": [
+      "loculaçona",
+      "loculaçonas"
+    ]
+  },
+  "locular": {
+    "R": [
+      "locularezinhos",
+      "locularzinho"
+    ],
+    "Ü+R": [
+      "semilocularezinhos",
+      "semilocularzinho"
+    ]
+  },
+  "loculoso": {
+    "O": [
+      "loculosinha",
+      "loculosinhas"
+    ],
+    "P": [
+      "loculosinho",
+      "loculosinhos"
+    ]
+  },
+  "locupletação": {
+    "Q": [
+      "locupletaçãozinha",
+      "locupletaçõezinhas"
+    ],
+    "W": [
+      "locupletaçona",
+      "locupletaçonas"
+    ]
+  },
+  "locutor": {
+    "R": [
+      "locutorezinhos",
+      "locutorzinho"
+    ],
+    "Í+R": [
+      "interlocutorezinhos",
+      "interlocutorzinho"
+    ],
+    "Ñ+R": [
+      "colocutorezinhos",
+      "colocutorzinho"
+    ]
+  },
+  "lodaçal": {
+    "R": [
+      "lodaçalzinho",
+      "lodaçaizinhos"
+    ],
+    "V": [
+      "lodaçalzão",
+      "lodaçalzões"
+    ]
+  },
+  "lódão": {
+    "R": [
+      "lódãozinho",
+      "lódõezinhos"
+    ],
+    "V": [
+      "lódãozão",
+      "lódãozões"
+    ]
+  },
+  "lodazecar": {
+    "R": [
+      "lodazecarezinhos",
+      "lodazecarzinho"
+    ]
+  },
+  "lodoso": {
+    "O": [
+      "lodosinha",
+      "lodosinhas"
+    ],
+    "P": [
+      "lodosinho",
+      "lodosinhos"
+    ]
+  },
+  "loendral": {
+    "R": [
+      "loendralzinho",
+      "loendraizinhos"
+    ],
+    "V": [
+      "loendralzão",
+      "loendralzões"
+    ]
+  },
+  "loeste": {
+    "P": [
+      "loestinho",
+      "loestinhos"
+    ]
+  },
+  "lofemizol": {
+    "R": [
+      "lofemizolzinho",
+      "lofemizoizinhos"
+    ],
+    "V": [
+      "lofemizolzão",
+      "lofemizolzões"
+    ]
+  },
+  "lofobunodonte": {
+    "P": [
+      "lofobunodontinho",
+      "lofobunodontinhos"
+    ]
+  },
+  "lofodonte": {
+    "P": [
+      "lofodontinho",
+      "lofodontinhos"
+    ]
+  },
+  "lofornite": {
+    "O": [
+      "lofornitinha",
+      "lofornitinhas"
+    ],
+    "P": [
+      "lofornitinho",
+      "lofornitinhos"
+    ]
+  },
+  "lofosselenodonte": {
+    "P": [
+      "lofosselenodontinho",
+      "lofosselenodontinhos"
+    ]
+  },
+  "lofote": {
+    "P": [
+      "lofotinho",
+      "lofotinhos"
+    ]
+  },
+  "logadite": {
+    "P": [
+      "logaditinho",
+      "logaditinhos"
+    ]
+  },
+  "logaritmação": {
+    "Q": [
+      "logaritmaçãozinha",
+      "logaritmaçõezinhas"
+    ],
+    "W": [
+      "logaritmaçona",
+      "logaritmaçonas"
+    ]
+  },
+  "logaritmante": {
+    "P": [
+      "logaritmantinho",
+      "logaritmantinhos"
+    ]
+  },
+  "logaritmomante": {
+    "P": [
+      "logaritmomantinho",
+      "logaritmomantinhos"
+    ]
+  },
+  "logical": {
+    "R": [
+      "logicalzinho",
+      "logicaizinhos"
+    ],
+    "V": [
+      "logicalzão",
+      "logicalzões"
+    ]
+  },
+  "logotenente": {
+    "P": [
+      "logotenentinho",
+      "logotenentinhos"
+    ]
+  },
+  "logração": {
+    "Q": [
+      "lograçãozinha",
+      "lograçõezinhas"
+    ],
+    "W": [
+      "lograçona",
+      "lograçonas"
+    ]
+  },
+  "logrão": {
+    "R": [
+      "logrãozinho",
+      "logrõezinhos"
+    ],
+    "V": [
+      "logrãozão",
+      "logrãozões"
+    ]
+  },
+  "lohmanização": {
+    "Q": [
+      "lohmanizaçãozinha",
+      "lohmanizaçõezinhas"
+    ],
+    "W": [
+      "lohmanizaçona",
+      "lohmanizaçonas"
+    ]
+  },
+  "loirecente": {
+    "P": [
+      "loirecentinho",
+      "loirecentinhos"
+    ]
+  },
+  "loireiral": {
+    "R": [
+      "loireiralzinho",
+      "loireiraizinhos"
+    ],
+    "V": [
+      "loireiralzão",
+      "loireiralzões"
+    ]
+  },
+  "loiro": {
+    "O": [
+      "loirinha",
+      "loirinhas"
+    ],
+    "P": [
+      "loirinho",
+      "loirinhos"
+    ],
+    "V": [
+      "loirão",
+      "loirões"
+    ],
+    "W": [
+      "loirona",
+      "loironas"
+    ],
+    "Ü+O": [
+      "semiloirinha",
+      "semiloirinhas"
+    ],
+    "Ü+P": [
+      "semiloirinho",
+      "semiloirinhos"
+    ],
+    "Ü+V": [
+      "semiloirão",
+      "semiloirões"
+    ],
+    "Ü+W": [
+      "semiloirona",
+      "semiloironas"
+    ]
+  },
+  "loiros-abacate": {
+    "P": [
+      "loiros-abacatinho",
+      "loiros-abacatinhos"
+    ]
+  },
+  "loiros-tamancão": {
+    "R": [
+      "loiros-tamancãozinho",
+      "loiros-tamancõezinhos"
+    ],
+    "V": [
+      "loiros-tamancãozão",
+      "loiros-tamancãozões"
+    ]
+  },
+  "loja": {
+    "O": [
+      "lojinha",
+      "lojinhas"
+    ],
+    "Ë+O": [
+      "sobrelojinha",
+      "sobrelojinhas"
+    ]
+  },
+  "lolingite": {
+    "O": [
+      "lolingitinha",
+      "lolingitinhas"
+    ],
+    "P": [
+      "lolingitinho",
+      "lolingitinhos"
+    ]
+  },
+  "lomatiol": {
+    "R": [
+      "lomatiolzinho",
+      "lomatioizinhos"
+    ],
+    "V": [
+      "lomatiolzão",
+      "lomatiolzões"
+    ]
+  },
+  "lombabdominal": {
+    "R": [
+      "lombabdominalzinho",
+      "lombabdominaizinhos"
+    ],
+    "V": [
+      "lombabdominalzão",
+      "lombabdominalzões"
+    ]
+  },
+  "lombal": {
+    "R": [
+      "lombalzinho",
+      "lombaizinhos"
+    ],
+    "V": [
+      "lombalzão",
+      "lombalzões"
+    ]
+  },
+  "lombalização": {
+    "Q": [
+      "lombalizaçãozinha",
+      "lombalizaçõezinhas"
+    ],
+    "W": [
+      "lombalizaçona",
+      "lombalizaçonas"
+    ]
+  },
+  "lombar": {
+    "R": [
+      "lombarezinhos",
+      "lombarzinho"
+    ],
+    "È+R": [
+      "sublombarezinhos",
+      "sublombarzinho"
+    ],
+    "ú+R": [
+      "pré-lombarezinhos",
+      "pré-lombarzinho"
+    ]
+  },
+  "lombarização": {
+    "Q": [
+      "lombarizaçãozinha",
+      "lombarizaçõezinhas"
+    ],
+    "W": [
+      "lombarizaçona",
+      "lombarizaçonas"
+    ]
+  },
+  "lombazol": {
+    "R": [
+      "lombazolzinho",
+      "lombazoizinhos"
+    ],
+    "V": [
+      "lombazolzão",
+      "lombazolzões"
+    ]
+  },
+  "lomboabdominal": {
+    "R": [
+      "lomboabdominalzinho",
+      "lomboabdominaizinhos"
+    ],
+    "V": [
+      "lomboabdominalzão",
+      "lomboabdominalzões"
+    ]
+  },
+  "lombocostal": {
+    "R": [
+      "lombocostalzinho",
+      "lombocostaizinhos"
+    ],
+    "V": [
+      "lombocostalzão",
+      "lombocostalzões"
+    ]
+  },
+  "lombocrural": {
+    "R": [
+      "lombocruralzinho",
+      "lombocruraizinhos"
+    ],
+    "V": [
+      "lombocruralzão",
+      "lombocruralzões"
+    ]
+  },
+  "lombodorsal": {
+    "R": [
+      "lombodorsalzinho",
+      "lombodorsaizinhos"
+    ],
+    "V": [
+      "lombodorsalzão",
+      "lombodorsalzões"
+    ]
+  },
+  "lombodorsocervical": {
+    "R": [
+      "lombodorsocervicalzinho",
+      "lombodorsocervicaizinhos"
+    ],
+    "V": [
+      "lombodorsocervicalzão",
+      "lombodorsocervicalzões"
+    ]
+  },
+  "lombos": {
+    "P": [
+      "lombinho",
+      "lombinhos"
+    ]
+  },
+  "lombossacral": {
+    "R": [
+      "lombossacralzinho",
+      "lombossacraizinhos"
+    ],
+    "V": [
+      "lombossacralzão",
+      "lombossacralzões"
+    ]
+  },
+  "lomboumeral": {
+    "R": [
+      "lomboumeralzinho",
+      "lomboumeraizinhos"
+    ],
+    "V": [
+      "lomboumeralzão",
+      "lomboumeralzões"
+    ]
+  },
+  "lombrical": {
+    "R": [
+      "lombricalzinho",
+      "lombricaizinhos"
+    ],
+    "V": [
+      "lombricalzão",
+      "lombricalzões"
+    ]
+  },
+  "lombricoidal": {
+    "R": [
+      "lombricoidalzinho",
+      "lombricoidaizinhos"
+    ],
+    "V": [
+      "lombricoidalzão",
+      "lombricoidalzões"
+    ]
+  },
+  "lombroso": {
+    "O": [
+      "lombrosinha",
+      "lombrosinhas"
+    ],
+    "P": [
+      "lombrosinho",
+      "lombrosinhos"
+    ]
+  },
+  "lombudo": {
+    "O": [
+      "lombudinha",
+      "lombudinhas"
+    ],
+    "P": [
+      "lombudinho",
+      "lombudinhos"
+    ]
+  },
+  "lombumeral": {
+    "R": [
+      "lombumeralzinho",
+      "lombumeraizinhos"
+    ],
+    "V": [
+      "lombumeralzão",
+      "lombumeralzões"
+    ]
+  },
+  "lometrexol": {
+    "R": [
+      "lometrexolzinho",
+      "lometrexoizinhos"
+    ],
+    "V": [
+      "lometrexolzão",
+      "lometrexolzões"
+    ]
+  },
+  "londão": {
+    "R": [
+      "londãozinho",
+      "londõezinhos"
+    ],
+    "V": [
+      "londãozão",
+      "londãozões"
+    ]
+  },
+  "londerangudo": {
+    "O": [
+      "londerangudinha",
+      "londerangudinhas"
+    ],
+    "P": [
+      "londerangudinho",
+      "londerangudinhos"
+    ]
+  },
+  "longabdutor": {
+    "R": [
+      "longabdutorezinhos",
+      "longabdutorzinho"
+    ]
+  },
+  "longal": {
+    "R": [
+      "longalzinho",
+      "longaizinhos"
+    ],
+    "V": [
+      "longalzão",
+      "longalzões"
+    ]
+  },
+  "longar": {
+    "R": [
+      "longarezinhos",
+      "longarzinho"
+    ]
+  },
+  "longeirão": {
+    "R": [
+      "longeirãozinho",
+      "longeirõezinhos"
+    ],
+    "V": [
+      "longeirãozão",
+      "longeirãozões"
+    ]
+  },
+  "longerão": {
+    "R": [
+      "longerãozinho",
+      "longerõezinhos"
+    ],
+    "V": [
+      "longerãozão",
+      "longerãozões"
+    ]
+  },
+  "longifronte": {
+    "P": [
+      "longifrontinho",
+      "longifrontinhos"
+    ]
+  },
+  "longitroante": {
+    "P": [
+      "longitroantinho",
+      "longitroantinhos"
+    ]
+  },
+  "longitudinal": {
+    "R": [
+      "longitudinalzinho",
+      "longitudinaizinhos"
+    ],
+    "V": [
+      "longitudinalzão",
+      "longitudinalzões"
+    ],
+    "Ñ+R": [
+      "colongitudinalzinho",
+      "colongitudinaizinhos"
+    ],
+    "Ñ+V": [
+      "colongitudinalzão",
+      "colongitudinalzões"
+    ]
+  },
+  "longoabdutor": {
+    "R": [
+      "longoabdutorezinhos",
+      "longoabdutorzinho"
+    ]
+  },
+  "longor": {
+    "R": [
+      "longorezinhos",
+      "longorzinho"
+    ]
+  },
+  "longossupinador": {
+    "R": [
+      "longossupinadorezinhos",
+      "longossupinadorzinho"
+    ]
+  },
+  "longuidão": {
+    "R": [
+      "longuidãozinho",
+      "longuidõezinhos"
+    ],
+    "V": [
+      "longuidãozão",
+      "longuidãozões"
+    ]
+  },
+  "lonquite": {
+    "P": [
+      "lonquitinho",
+      "lonquitinhos"
+    ]
+  },
+  "lontar": {
+    "R": [
+      "lontarezinhos",
+      "lontarzinho"
+    ]
+  },
+  "lopinavir": {
+    "R": [
+      "lopinavirezinhos",
+      "lopinavirzinho"
+    ]
+  },
+  "loprodiol": {
+    "R": [
+      "loprodiolzinho",
+      "loprodioizinhos"
+    ],
+    "V": [
+      "loprodiolzão",
+      "loprodiolzões"
+    ]
+  },
+  "loquente": {
+    "P": [
+      "loquentinho",
+      "loquentinhos"
+    ]
+  },
+  "loquete": {
+    "P": [
+      "loquetinho",
+      "loquetinhos"
+    ],
+    "ò+P": [
+      "aloquetinho",
+      "aloquetinhos"
+    ]
+  },
+  "loral": {
+    "R": [
+      "loralzinho",
+      "loraizinhos"
+    ],
+    "V": [
+      "loralzão",
+      "loralzões"
+    ]
+  },
+  "lorandite": {
+    "O": [
+      "loranditinha",
+      "loranditinhas"
+    ],
+    "P": [
+      "loranditinho",
+      "loranditinhos"
+    ]
+  },
+  "loransquite": {
+    "O": [
+      "loransquitinha",
+      "loransquitinhas"
+    ],
+    "P": [
+      "loransquitinho",
+      "loransquitinhos"
+    ]
+  },
+  "lorcinadol": {
+    "R": [
+      "lorcinadolzinho",
+      "lorcinadoizinhos"
+    ],
+    "V": [
+      "lorcinadolzão",
+      "lorcinadolzões"
+    ]
+  },
+  "loreal": {
+    "R": [
+      "lorealzinho",
+      "loreaizinhos"
+    ],
+    "V": [
+      "lorealzão",
+      "lorealzões"
+    ]
+  },
+  "loreclezol": {
+    "R": [
+      "loreclezolzinho",
+      "loreclezoizinhos"
+    ],
+    "V": [
+      "loreclezolzão",
+      "loreclezolzões"
+    ]
+  },
+  "lorenês": {
+    "O": [
+      "lorenesinha",
+      "lorenesinhas"
+    ],
+    "P": [
+      "lorenesinho",
+      "lorenesezinhos"
+    ]
+  },
+  "lorenite": {
+    "O": [
+      "lorenitinha",
+      "lorenitinhas"
+    ],
+    "P": [
+      "lorenitinho",
+      "lorenitinhos"
+    ]
+  },
+  "lorigão": {
+    "R": [
+      "lorigãozinho",
+      "lorigõezinhos"
+    ],
+    "V": [
+      "lorigãozão",
+      "lorigãozões"
+    ]
+  },
+  "loriol": {
+    "R": [
+      "loriolzinho",
+      "lorioizinhos"
+    ],
+    "V": [
+      "loriolzão",
+      "loriolzões"
+    ]
+  },
+  "lorotação": {
+    "Q": [
+      "lorotaçãozinha",
+      "lorotaçõezinhas"
+    ],
+    "W": [
+      "lorotaçona",
+      "lorotaçonas"
+    ]
+  },
+  "lorpiprazol": {
+    "R": [
+      "lorpiprazolzinho",
+      "lorpiprazoizinhos"
+    ],
+    "V": [
+      "lorpiprazolzão",
+      "lorpiprazolzões"
+    ]
+  },
+  "losangular": {
+    "R": [
+      "losangularezinhos",
+      "losangularzinho"
+    ]
+  },
+  "losindol": {
+    "R": [
+      "losindolzinho",
+      "losindoizinhos"
+    ],
+    "V": [
+      "losindolzão",
+      "losindolzões"
+    ]
+  },
+  "loso": {
+    "O": [
+      "losinha",
+      "losinhas"
+    ],
+    "P": [
+      "losinho",
+      "losinhos"
+    ]
+  },
+  "lossenite": {
+    "O": [
+      "lossenitinha",
+      "lossenitinhas"
+    ],
+    "P": [
+      "lossenitinho",
+      "lossenitinhos"
+    ]
+  },
+  "lotação": {
+    "Q": [
+      "lotaçãozinha",
+      "lotaçõezinhas"
+    ],
+    "W": [
+      "lotaçona",
+      "lotaçonas"
+    ],
+    "Ã+Q": [
+      "autolotaçãozinha",
+      "autolotaçõezinhas"
+    ],
+    "Ë+Q": [
+      "sobrelotaçãozinha",
+      "sobrelotaçõezinhas"
+    ],
+    "Ì+Q": [
+      "superlotaçãozinha",
+      "superlotaçõezinhas"
+    ],
+    "Ã+W": [
+      "autolotaçona",
+      "autolotaçonas"
+    ],
+    "Ë+W": [
+      "sobrelotaçona",
+      "sobrelotaçonas"
+    ],
+    "Ì+W": [
+      "superlotaçona",
+      "superlotaçonas"
+    ]
+  },
+  "lote": {
+    "P": [
+      "lotinho",
+      "lotinhos"
+    ],
+    "È+P": [
+      "sublotinho",
+      "sublotinhos"
+    ],
+    "Ñ+P": [
+      "colotinho",
+      "colotinhos"
+    ]
+  },
+  "loteprednol": {
+    "R": [
+      "loteprednolzinho",
+      "loteprednoizinhos"
+    ],
+    "V": [
+      "loteprednolzão",
+      "loteprednolzões"
+    ]
+  },
+  "lotifazol": {
+    "R": [
+      "lotifazolzinho",
+      "lotifazoizinhos"
+    ],
+    "V": [
+      "lotifazolzão",
+      "lotifazolzões"
+    ]
+  },
+  "lotrite": {
+    "O": [
+      "lotritinha",
+      "lotritinhas"
+    ],
+    "P": [
+      "lotritinho",
+      "lotritinhos"
+    ]
+  },
+  "lótus-azul": {
+    "R": [
+      "lótus-azulzinho",
+      "lótus-azuizinhos"
+    ],
+    "V": [
+      "lótus-azulzão",
+      "lótus-azulzões"
+    ]
+  },
+  "louco": {
+    "O": [
+      "louquinha",
+      "louquinhas"
+    ],
+    "P": [
+      "louquinho",
+      "louquinhos"
+    ],
+    "V": [
+      "loucão",
+      "loucões"
+    ],
+    "W": [
+      "loucona",
+      "louconas"
+    ],
+    "Ì+O": [
+      "superlouquinha",
+      "superlouquinhas"
+    ],
+    "Ü+O": [
+      "semilouquinha",
+      "semilouquinhas"
+    ],
+    "Ì+P": [
+      "superlouquinho",
+      "superlouquinhos"
+    ],
+    "Ü+P": [
+      "semilouquinho",
+      "semilouquinhos"
+    ],
+    "Ì+V": [
+      "superloucão",
+      "superloucões"
+    ],
+    "Ü+V": [
+      "semiloucão",
+      "semiloucões"
+    ],
+    "Ì+W": [
+      "superloucona",
+      "superlouconas"
+    ],
+    "Ü+W": [
+      "semiloucona",
+      "semilouconas"
+    ]
+  },
+  "loudel": {
+    "R": [
+      "loudelzinho",
+      "loudeizinhos"
+    ],
+    "V": [
+      "loudelzão",
+      "loudelzões"
+    ]
+  },
+  "lourecente": {
+    "P": [
+      "lourecentinho",
+      "lourecentinhos"
+    ]
+  },
+  "loureiral": {
+    "R": [
+      "loureiralzinho",
+      "loureiraizinhos"
+    ],
+    "V": [
+      "loureiralzão",
+      "loureiralzões"
+    ]
+  },
+  "lourigão": {
+    "R": [
+      "lourigãozinho",
+      "lourigõezinhos"
+    ],
+    "V": [
+      "lourigãozão",
+      "lourigãozões"
+    ]
+  },
+  "louro": {
+    "P": [
+      "lourinho",
+      "lourinhos"
+    ],
+    "V": [
+      "lourão",
+      "lourões"
+    ],
+    "Ü+P": [
+      "semilourinho",
+      "semilourinhos"
+    ],
+    "Ü+V": [
+      "semilourão",
+      "semilourões"
+    ]
+  },
+  "louros-abacate": {
+    "P": [
+      "louros-abacatinho",
+      "louros-abacatinhos"
+    ]
+  },
+  "louros-tamancão": {
+    "R": [
+      "louros-tamancãozinho",
+      "louros-tamancõezinhos"
+    ],
+    "V": [
+      "louros-tamancãozão",
+      "louros-tamancãozões"
+    ]
+  },
+  "louvação": {
+    "Q": [
+      "louvaçãozinha",
+      "louvaçõezinhas"
+    ],
+    "W": [
+      "louvaçona",
+      "louvaçonas"
+    ],
+    "ò+Q": [
+      "alouvaçãozinha",
+      "alouvaçõezinhas"
+    ],
+    "ò+W": [
+      "alouvaçona",
+      "alouvaçonas"
+    ]
+  },
+  "louvor": {
+    "R": [
+      "louvorezinhos",
+      "louvorzinho"
+    ],
+    "V": [
+      "louvorzão",
+      "louvorezões"
+    ],
+    "Â+R": [
+      "deslouvorezinhos",
+      "deslouvorzinho"
+    ],
+    "Â+V": [
+      "deslouvorzão",
+      "deslouvorezões"
+    ]
+  },
+  "lovenite": {
+    "P": [
+      "lovenitinho",
+      "lovenitinhos"
+    ]
+  },
+  "loxanaste": {
+    "P": [
+      "loxanastinho",
+      "loxanastinhos"
+    ]
+  },
+  "loxodonte": {
+    "P": [
+      "loxodontinho",
+      "loxodontinhos"
+    ]
+  },
+  "luar": {
+    "R": [
+      "luarezinhos",
+      "luarzinho"
+    ]
+  },
+  "lubanol": {
+    "R": [
+      "lubanolzinho",
+      "lubanoizinhos"
+    ],
+    "V": [
+      "lubanolzão",
+      "lubanolzões"
+    ]
+  },
+  "lubeluzol": {
+    "R": [
+      "lubeluzolzinho",
+      "lubeluzoizinhos"
+    ],
+    "V": [
+      "lubeluzolzão",
+      "lubeluzolzões"
+    ]
+  },
+  "lubrificação": {
+    "Q": [
+      "lubrificaçãozinha",
+      "lubrificaçõezinhas"
+    ],
+    "W": [
+      "lubrificaçona",
+      "lubrificaçonas"
+    ]
+  },
+  "lucão": {
+    "R": [
+      "lucãozinho",
+      "lucõezinhos"
+    ],
+    "V": [
+      "lucãozão",
+      "lucãozões"
+    ]
+  },
+  "lucasite": {
+    "O": [
+      "lucasitinha",
+      "lucasitinhas"
+    ],
+    "P": [
+      "lucasitinho",
+      "lucasitinhos"
+    ]
+  },
+  "lucente": {
+    "P": [
+      "lucentinho",
+      "lucentinhos"
+    ]
+  },
+  "lucescente": {
+    "P": [
+      "lucescentinho",
+      "lucescentinhos"
+    ]
+  },
+  "luchoso": {
+    "O": [
+      "luchosinha",
+      "luchosinhas"
+    ],
+    "P": [
+      "luchosinho",
+      "luchosinhos"
+    ]
+  },
+  "lucidol": {
+    "R": [
+      "lucidolzinho",
+      "lucidoizinhos"
+    ],
+    "V": [
+      "lucidolzão",
+      "lucidolzões"
+    ]
+  },
+  "lucilação": {
+    "Q": [
+      "lucilaçãozinha",
+      "lucilaçõezinhas"
+    ],
+    "W": [
+      "lucilaçona",
+      "lucilaçonas"
+    ]
+  },
+  "lucinocte": {
+    "P": [
+      "lucinoctinho",
+      "lucinoctinhos"
+    ]
+  },
+  "luciolante": {
+    "P": [
+      "luciolantinho",
+      "luciolantinhos"
+    ]
+  },
+  "lucipotente": {
+    "P": [
+      "lucipotentinho",
+      "lucipotentinhos"
+    ]
+  },
+  "lucite": {
+    "P": [
+      "lucitinho",
+      "lucitinhos"
+    ]
+  },
+  "lucmão": {
+    "R": [
+      "lucmãozinho",
+      "lucmõezinhos"
+    ],
+    "V": [
+      "lucmãozão",
+      "lucmãozões"
+    ]
+  },
+  "lucroso": {
+    "O": [
+      "lucrosinha",
+      "lucrosinhas"
+    ],
+    "P": [
+      "lucrosinho",
+      "lucrosinhos"
+    ]
+  },
+  "lucubração": {
+    "Q": [
+      "lucubraçãozinha",
+      "lucubraçõezinhas"
+    ],
+    "W": [
+      "lucubraçona",
+      "lucubraçonas"
+    ]
+  },
+  "lucumão": {
+    "R": [
+      "lucumãozinho",
+      "lucumõezinhos"
+    ],
+    "V": [
+      "lucumãozão",
+      "lucumãozões"
+    ]
+  },
+  "ludar": {
+    "R": [
+      "ludarezinhos",
+      "ludarzinho"
+    ]
+  },
+  "ludião": {
+    "R": [
+      "ludiãozinho",
+      "ludiõezinhos"
+    ],
+    "V": [
+      "ludiãozão",
+      "ludiãozões"
+    ]
+  },
+  "ludibrioso": {
+    "O": [
+      "ludibriosinha",
+      "ludibriosinhas"
+    ],
+    "P": [
+      "ludibriosinho",
+      "ludibriosinhos"
+    ]
+  },
+  "ludo": {
+    "O": [
+      "ludinha",
+      "ludinhas"
+    ],
+    "P": [
+      "ludinho",
+      "ludinhos"
+    ],
+    "Ñ+O": [
+      "coludinha",
+      "coludinhas"
+    ],
+    "Ñ+P": [
+      "coludinho",
+      "coludinhos"
+    ]
+  },
+  "ludroso": {
+    "O": [
+      "ludrosinha",
+      "ludrosinhas"
+    ],
+    "P": [
+      "ludrosinho",
+      "ludrosinhos"
+    ]
+  },
+  "lúgar": {
+    "R": [
+      "lúgarezinhos",
+      "lúgarzinho"
+    ]
+  },
+  "lugarete": {
+    "P": [
+      "lugaretinho",
+      "lugaretinhos"
+    ]
+  },
+  "lugente": {
+    "P": [
+      "lugentinho",
+      "lugentinhos"
+    ]
+  },
+  "lugol": {
+    "R": [
+      "lugolzinho",
+      "lugoizinhos"
+    ],
+    "V": [
+      "lugolzão",
+      "lugolzões"
+    ]
+  },
+  "lugres-iate": {
+    "P": [
+      "lugres-iatinho",
+      "lugres-iatinhos"
+    ]
+  },
+  "luisite": {
+    "O": [
+      "luisitinha",
+      "luisitinhas"
+    ],
+    "P": [
+      "luisitinho",
+      "luisitinhos"
+    ]
+  },
+  "Luiz": {
+    "O": [
+      "Luizezinhas",
+      "Luizinha"
+    ],
+    "P": [
+      "Luizinho",
+      "Luizezinhos"
+    ],
+    "V": [
+      "Luizão",
+      "Luizões"
+    ]
+  },
+  "lulão": {
+    "R": [
+      "lulãozinho",
+      "lulõezinhos"
+    ],
+    "V": [
+      "lulãozão",
+      "lulãozões"
+    ]
+  },
+  "lumarão": {
+    "R": [
+      "lumarãozinho",
+      "lumarõezinhos"
+    ],
+    "V": [
+      "lumarãozão",
+      "lumarãozões"
+    ]
+  },
+  "lumarite": {
+    "P": [
+      "lumaritinho",
+      "lumaritinhos"
+    ]
+  },
+  "lumbrical": {
+    "R": [
+      "lumbricalzinho",
+      "lumbricaizinhos"
+    ],
+    "V": [
+      "lumbricalzão",
+      "lumbricalzões"
+    ]
+  },
+  "lumbudo": {
+    "O": [
+      "lumbudinha",
+      "lumbudinhas"
+    ],
+    "P": [
+      "lumbudinho",
+      "lumbudinhos"
+    ]
+  },
+  "luminador": {
+    "R": [
+      "luminadorezinhos",
+      "luminadorzinho"
+    ]
+  },
+  "luminancial": {
+    "R": [
+      "luminancialzinho",
+      "luminanciaizinhos"
+    ],
+    "V": [
+      "luminancialzão",
+      "luminancialzões"
+    ]
+  },
+  "luminante": {
+    "P": [
+      "luminantinho",
+      "luminantinhos"
+    ]
+  },
+  "luminar": {
+    "R": [
+      "luminarezinhos",
+      "luminarzinho"
+    ]
+  },
+  "luminescente": {
+    "P": [
+      "luminescentinho",
+      "luminescentinhos"
+    ],
+    "ã+P": [
+      "bioluminescentinho",
+      "bioluminescentinhos"
+    ]
+  },
+  "luminol": {
+    "R": [
+      "luminolzinho",
+      "luminoizinhos"
+    ],
+    "V": [
+      "luminolzão",
+      "luminolzões"
+    ],
+    "ò+R": [
+      "aluminolzinho",
+      "aluminoizinhos"
+    ],
+    "ò+V": [
+      "aluminolzão",
+      "aluminolzões"
+    ]
+  },
+  "luminoso": {
+    "O": [
+      "luminosinha",
+      "luminosinhas"
+    ],
+    "P": [
+      "luminosinho",
+      "luminosinhos"
+    ],
+    "à+O": [
+      "ultraluminosinha",
+      "ultraluminosinhas"
+    ],
+    "î+O": [
+      "transluminosinha",
+      "transluminosinhas"
+    ],
+    "à+P": [
+      "ultraluminosinho",
+      "ultraluminosinhos"
+    ],
+    "î+P": [
+      "transluminosinho",
+      "transluminosinhos"
+    ]
+  },
+  "lumioso": {
+    "O": [
+      "lumiosinha",
+      "lumiosinhas"
+    ],
+    "P": [
+      "lumiosinho",
+      "lumiosinhos"
+    ],
+    "ò+O": [
+      "alumiosinha",
+      "alumiosinhas"
+    ],
+    "ò+P": [
+      "alumiosinho",
+      "alumiosinhos"
+    ]
+  },
+  "lumisterol": {
+    "R": [
+      "lumisterolzinho",
+      "lumisteroizinhos"
+    ],
+    "V": [
+      "lumisterolzão",
+      "lumisterolzões"
+    ]
+  },
+  "lunação": {
+    "Q": [
+      "lunaçãozinha",
+      "lunaçõezinhas"
+    ],
+    "W": [
+      "lunaçona",
+      "lunaçonas"
+    ],
+    "ò+Q": [
+      "alunaçãozinha",
+      "alunaçõezinhas"
+    ],
+    "Ü+Q": [
+      "semilunaçãozinha",
+      "semilunaçõezinhas"
+    ],
+    "ò+W": [
+      "alunaçona",
+      "alunaçonas"
+    ],
+    "Ü+W": [
+      "semilunaçona",
+      "semilunaçonas"
+    ]
+  },
+  "lunar": {
+    "R": [
+      "lunarezinhos",
+      "lunarzinho"
+    ],
+    "ä+R": [
+      "cislunarezinhos",
+      "cislunarzinho"
+    ],
+    "È+R": [
+      "sublunarezinhos",
+      "sublunarzinho"
+    ],
+    "Í+R": [
+      "interlunarezinhos",
+      "interlunarzinho"
+    ],
+    "Ü+R": [
+      "semilunarezinhos",
+      "semilunarzinho"
+    ]
+  },
+  "lunel": {
+    "R": [
+      "lunelzinho",
+      "luneizinhos"
+    ],
+    "V": [
+      "lunelzão",
+      "lunelzões"
+    ]
+  },
+  "lunil": {
+    "R": [
+      "lunilzinho",
+      "luniizinhos"
+    ],
+    "V": [
+      "lunilzão",
+      "lunilzões"
+    ]
+  },
+  "lunilite": {
+    "O": [
+      "lunilitinha",
+      "lunilitinhas"
+    ],
+    "P": [
+      "lunilitinho",
+      "lunilitinhos"
+    ]
+  },
+  "lunissolar": {
+    "R": [
+      "lunissolarezinhos",
+      "lunissolarzinho"
+    ]
+  },
+  "lunite": {
+    "O": [
+      "lunitinha",
+      "lunitinhas"
+    ],
+    "P": [
+      "lunitinho",
+      "lunitinhos"
+    ]
+  },
+  "lunzete": {
+    "P": [
+      "lunzetinho",
+      "lunzetinhos"
+    ]
+  },
+  "lupante": {
+    "P": [
+      "lupantinho",
+      "lupantinhos"
+    ]
+  },
+  "luparenol": {
+    "R": [
+      "luparenolzinho",
+      "luparenoizinhos"
+    ],
+    "V": [
+      "luparenolzão",
+      "luparenolzões"
+    ]
+  },
+  "luparol": {
+    "R": [
+      "luparolzinho",
+      "luparoizinhos"
+    ],
+    "V": [
+      "luparolzão",
+      "luparolzões"
+    ]
+  },
+  "lupeoal": {
+    "R": [
+      "lupeoalzinho",
+      "lupeoaizinhos"
+    ],
+    "V": [
+      "lupeoalzão",
+      "lupeoalzões"
+    ]
+  },
+  "lupeol": {
+    "R": [
+      "lupeolzinho",
+      "lupeoizinhos"
+    ],
+    "V": [
+      "lupeolzão",
+      "lupeolzões"
+    ]
+  },
+  "luposo": {
+    "O": [
+      "luposinha",
+      "luposinhas"
+    ],
+    "P": [
+      "luposinho",
+      "luposinhos"
+    ]
+  },
+  "luprostiol": {
+    "R": [
+      "luprostiolzinho",
+      "luprostioizinhos"
+    ],
+    "V": [
+      "luprostiolzão",
+      "luprostiolzões"
+    ]
+  },
+  "lupulização": {
+    "Q": [
+      "lupulizaçãozinha",
+      "lupulizaçõezinhas"
+    ],
+    "W": [
+      "lupulizaçona",
+      "lupulizaçonas"
+    ]
+  },
+  "lurda": {
+    "O": [
+      "lurdinha",
+      "lurdinhas"
+    ],
+    "W": [
+      "lurdona",
+      "lurdonas"
+    ]
+  },
+  "lusificação": {
+    "Q": [
+      "lusificaçãozinha",
+      "lusificaçõezinhas"
+    ],
+    "W": [
+      "lusificaçona",
+      "lusificaçonas"
+    ]
+  },
+  "lusitanite": {
+    "P": [
+      "lusitanitinho",
+      "lusitanitinhos"
+    ]
+  },
+  "lusitanização": {
+    "Q": [
+      "lusitanizaçãozinha",
+      "lusitanizaçõezinhas"
+    ],
+    "W": [
+      "lusitanizaçona",
+      "lusitanizaçonas"
+    ]
+  },
+  "luso-chinês": {
+    "O": [
+      "luso-chinesinha",
+      "luso-chinesinhas"
+    ],
+    "P": [
+      "luso-chinesinho",
+      "luso-chinesezinhos"
+    ]
+  },
+  "luso-espanhol": {
+    "R": [
+      "luso-espanholzinho",
+      "luso-espanhoizinhos"
+    ]
+  },
+  "luso-francês": {
+    "O": [
+      "luso-francesinha",
+      "luso-francesinhas"
+    ],
+    "P": [
+      "luso-francesinho",
+      "luso-francesezinhos"
+    ]
+  },
+  "luso-inglês": {
+    "O": [
+      "luso-inglesinha",
+      "luso-inglesinhas"
+    ],
+    "P": [
+      "luso-inglesinho",
+      "luso-inglesezinhos"
+    ]
+  },
+  "luso-japonês": {
+    "O": [
+      "luso-japonesinha",
+      "luso-japonesinhas"
+    ],
+    "P": [
+      "luso-japonesinho",
+      "luso-japonesezinhos"
+    ]
+  },
+  "lusofalante": {
+    "P": [
+      "lusofalantinho",
+      "lusofalantinhos"
+    ]
+  },
+  "lusol": {
+    "R": [
+      "lusolzinho",
+      "lusoizinhos"
+    ],
+    "V": [
+      "lusolzão",
+      "lusolzões"
+    ]
+  },
+  "lusoparlante": {
+    "P": [
+      "lusoparlantinho",
+      "lusoparlantinhos"
+    ]
+  },
+  "lusotropical": {
+    "R": [
+      "lusotropicalzinho",
+      "lusotropicaizinhos"
+    ],
+    "V": [
+      "lusotropicalzão",
+      "lusotropicalzões"
+    ]
+  },
+  "lussatite": {
+    "P": [
+      "lussatitinho",
+      "lussatitinhos"
+    ]
+  },
+  "lustração": {
+    "Q": [
+      "lustraçãozinha",
+      "lustraçõezinhas"
+    ],
+    "W": [
+      "lustraçona",
+      "lustraçonas"
+    ],
+    "Ä+Q": [
+      "ilustraçãozinha",
+      "ilustraçõezinhas"
+    ],
+    "Ä+W": [
+      "ilustraçona",
+      "ilustraçonas"
+    ]
+  },
+  "lustral": {
+    "R": [
+      "lustralzinho",
+      "lustraizinhos"
+    ],
+    "V": [
+      "lustralzão",
+      "lustralzões"
+    ]
+  },
+  "lustros": {
+    "P": [
+      "lustrinho",
+      "lustrinhos"
+    ]
+  },
+  "lustroso": {
+    "O": [
+      "lustrosinha",
+      "lustrosinhas"
+    ],
+    "P": [
+      "lustrosinho",
+      "lustrosinhos"
+    ],
+    "Â+O": [
+      "deslustrosinha",
+      "deslustrosinhas"
+    ],
+    "Â+P": [
+      "deslustrosinho",
+      "deslustrosinhos"
+    ]
+  },
+  "lutação": {
+    "Q": [
+      "lutaçãozinha",
+      "lutaçõezinhas"
+    ],
+    "W": [
+      "lutaçona",
+      "lutaçonas"
+    ],
+    "À+Q": [
+      "relutaçãozinha",
+      "relutaçõezinhas"
+    ],
+    "Ä+Q": [
+      "ilutaçãozinha",
+      "ilutaçõezinhas"
+    ],
+    "ò+Q": [
+      "alutaçãozinha",
+      "alutaçõezinhas"
+    ],
+    "À+W": [
+      "relutaçona",
+      "relutaçonas"
+    ],
+    "Ä+W": [
+      "ilutaçona",
+      "ilutaçonas"
+    ],
+    "ò+W": [
+      "alutaçona",
+      "alutaçonas"
+    ]
+  },
+  "luteal": {
+    "R": [
+      "lutealzinho",
+      "luteaizinhos"
+    ],
+    "V": [
+      "lutealzão",
+      "lutealzões"
+    ]
+  },
+  "luteinização": {
+    "Q": [
+      "luteinizaçãozinha",
+      "luteinizaçõezinhas"
+    ],
+    "W": [
+      "luteinizaçona",
+      "luteinizaçonas"
+    ]
+  },
+  "luteinizante": {
+    "P": [
+      "luteinizantinho",
+      "luteinizantinhos"
+    ]
+  },
+  "luteol": {
+    "R": [
+      "luteolzinho",
+      "luteoizinhos"
+    ],
+    "V": [
+      "luteolzão",
+      "luteolzões"
+    ]
+  },
+  "lutescente": {
+    "P": [
+      "lutescentinho",
+      "lutescentinhos"
+    ]
+  },
+  "lutoso": {
+    "O": [
+      "lutosinha",
+      "lutosinhas"
+    ],
+    "P": [
+      "lutosinho",
+      "lutosinhos"
+    ]
+  },
+  "lutuoso": {
+    "O": [
+      "lutuosinha",
+      "lutuosinhas"
+    ],
+    "P": [
+      "lutuosinho",
+      "lutuosinhos"
+    ]
+  },
+  "luva": {
+    "O": [
+      "luvinha",
+      "luvinhas"
+    ],
+    "W": [
+      "luvona",
+      "luvonas"
+    ]
+  },
+  "luvar": {
+    "R": [
+      "luvarezinhos",
+      "luvarzinho"
+    ]
+  },
+  "luvete": {
+    "P": [
+      "luvetinho",
+      "luvetinhos"
+    ]
+  },
+  "luxabendazol": {
+    "R": [
+      "luxabendazolzinho",
+      "luxabendazoizinhos"
+    ],
+    "V": [
+      "luxabendazolzão",
+      "luxabendazolzões"
+    ]
+  },
+  "luxação": {
+    "Q": [
+      "luxaçãozinha",
+      "luxaçõezinhas"
+    ],
+    "W": [
+      "luxaçona",
+      "luxaçonas"
+    ],
+    "È+Q": [
+      "subluxaçãozinha",
+      "subluxaçõezinhas"
+    ],
+    "Ú+Q": [
+      "pseudoluxaçãozinha",
+      "pseudoluxaçõezinhas"
+    ],
+    "È+W": [
+      "subluxaçona",
+      "subluxaçonas"
+    ],
+    "Ú+W": [
+      "pseudoluxaçona",
+      "pseudoluxaçonas"
+    ]
+  },
+  "luxemburguês": {
+    "O": [
+      "luxemburguesinha",
+      "luxemburguesinhas"
+    ],
+    "P": [
+      "luxemburguesinho",
+      "luxemburguesezinhos"
+    ]
+  },
+  "luxos": {
+    "P": [
+      "luxinho",
+      "luxinhos"
+    ]
+  },
+  "luxoso": {
+    "O": [
+      "luxosinha",
+      "luxosinhas"
+    ],
+    "P": [
+      "luxosinho",
+      "luxosinhos"
+    ]
+  },
+  "luxuoso": {
+    "O": [
+      "luxuosinha",
+      "luxuosinhas"
+    ],
+    "P": [
+      "luxuosinho",
+      "luxuosinhos"
+    ],
+    "Ì+O": [
+      "superluxuosinha",
+      "superluxuosinhas"
+    ],
+    "Ì+P": [
+      "superluxuosinho",
+      "superluxuosinhos"
+    ]
+  },
+  "luxurioso": {
+    "O": [
+      "luxuriosinha",
+      "luxuriosinhas"
+    ],
+    "P": [
+      "luxuriosinho",
+      "luxuriosinhos"
+    ]
+  },
+  "luzernal": {
+    "R": [
+      "luzernalzinho",
+      "luzernaizinhos"
+    ],
+    "V": [
+      "luzernalzão",
+      "luzernalzões"
+    ]
+  }
+}

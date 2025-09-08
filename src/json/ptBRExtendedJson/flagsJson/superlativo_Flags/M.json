@@ -1,0 +1,6449 @@
+{
+  "macacal": {
+    "H": [
+      "macacalíssima",
+      "macacalissimamente",
+      "macacalíssimas",
+      "macacalíssimo",
+      "macacalíssimos"
+    ]
+  },
+  "maçal": {
+    "H": [
+      "maçalíssima",
+      "maçalissimamente",
+      "maçalíssimas",
+      "maçalíssimo",
+      "maçalíssimos"
+    ]
+  },
+  "macambiral": {
+    "H": [
+      "macambiralíssima",
+      "macambiralissimamente",
+      "macambiralíssimas",
+      "macambiralíssimo",
+      "macambiralíssimos"
+    ]
+  },
+  "macaxeiral": {
+    "H": [
+      "macaxeiralíssima",
+      "macaxeiralissimamente",
+      "macaxeiralíssimas",
+      "macaxeiralíssimo",
+      "macaxeiralíssimos"
+    ]
+  },
+  "macaxeral": {
+    "H": [
+      "macaxeralíssima",
+      "macaxeralissimamente",
+      "macaxeralíssimas",
+      "macaxeralíssimo",
+      "macaxeralíssimos"
+    ]
+  },
+  "macegoso": {
+    "H": [
+      "macegosíssima",
+      "macegosissimamente",
+      "macegosíssimas",
+      "macegosíssimo",
+      "macegosíssimos"
+    ]
+  },
+  "macerável": {
+    "I": [
+      "macerabilíssima",
+      "macerabilissimamente",
+      "macerabilíssimas",
+      "macerabilíssimo",
+      "macerabilíssimos"
+    ]
+  },
+  "macheiral": {
+    "H": [
+      "macheiralíssima",
+      "macheiralissimamente",
+      "macheiralíssimas",
+      "macheiralíssimo",
+      "macheiralíssimos"
+    ]
+  },
+  "machieiral": {
+    "H": [
+      "machieiralíssima",
+      "machieiralissimamente",
+      "machieiralíssimas",
+      "machieiralíssimo",
+      "machieiralíssimos"
+    ]
+  },
+  "machoqueiral": {
+    "H": [
+      "machoqueiralíssima",
+      "machoqueiralissimamente",
+      "machoqueiralíssimas",
+      "machoqueiralíssimo",
+      "machoqueiralíssimos"
+    ]
+  },
+  "machucável": {
+    "I": [
+      "machucabilíssima",
+      "machucabilissimamente",
+      "machucabilíssimas",
+      "machucabilíssimo",
+      "machucabilíssimos"
+    ]
+  },
+  "machuqueiral": {
+    "H": [
+      "machuqueiralíssima",
+      "machuqueiralissimamente",
+      "machuqueiralíssimas",
+      "machuqueiralíssimo",
+      "machuqueiralíssimos"
+    ]
+  },
+  "macioso": {
+    "H": [
+      "maciosíssima",
+      "maciosissimamente",
+      "maciosíssimas",
+      "maciosíssimo",
+      "maciosíssimos"
+    ]
+  },
+  "macroacidental": {
+    "H": [
+      "macroacidentalíssima",
+      "macroacidentalissimamente",
+      "macroacidentalíssimas",
+      "macroacidentalíssimo",
+      "macroacidentalíssimos"
+    ]
+  },
+  "macrorranfoso": {
+    "H": [
+      "macrorranfosíssima",
+      "macrorranfosissimamente",
+      "macrorranfosíssimas",
+      "macrorranfosíssimo",
+      "macrorranfosíssimos"
+    ]
+  },
+  "macrossocial": {
+    "H": [
+      "macrossocialíssima",
+      "macrossocialissimamente",
+      "macrossocialíssimas",
+      "macrossocialíssimo",
+      "macrossocialíssimos"
+    ]
+  },
+  "maculável": {
+    "I": [
+      "maculabilíssima",
+      "maculabilissimamente",
+      "maculabilíssimas",
+      "maculabilíssimo",
+      "maculabilíssimos"
+    ],
+    "Â+I": [
+      "desmaculabilíssima",
+      "desmaculabilissimamente",
+      "desmaculabilíssimas",
+      "desmaculabilíssimo",
+      "desmaculabilíssimos"
+    ]
+  },
+  "maculoso": {
+    "H": [
+      "maculosíssima",
+      "maculosissimamente",
+      "maculosíssimas",
+      "maculosíssimo",
+      "maculosíssimos"
+    ]
+  },
+  "madeirável": {
+    "I": [
+      "madeirabilíssima",
+      "madeirabilissimamente",
+      "madeirabilíssimas",
+      "madeirabilíssimo",
+      "madeirabilíssimos"
+    ]
+  },
+  "madrigal": {
+    "H": [
+      "madrigalíssima",
+      "madrigalissimamente",
+      "madrigalíssimas",
+      "madrigalíssimo",
+      "madrigalíssimos"
+    ]
+  },
+  "madurável": {
+    "I": [
+      "madurabilíssima",
+      "madurabilissimamente",
+      "madurabilíssimas",
+      "madurabilíssimo",
+      "madurabilíssimos"
+    ]
+  },
+  "maestoso": {
+    "H": [
+      "maestosíssima",
+      "maestosissimamente",
+      "maestosíssimas",
+      "maestosíssimo",
+      "maestosíssimos"
+    ]
+  },
+  "mafioso": {
+    "H": [
+      "mafiosíssima",
+      "mafiosissimamente",
+      "mafiosíssimas",
+      "mafiosíssimo",
+      "mafiosíssimos"
+    ]
+  },
+  "mágico-religioso": {
+    "H": [
+      "mágico-religiosíssima",
+      "mágico-religiosissimamente",
+      "mágico-religiosíssimas",
+      "mágico-religiosíssimo",
+      "mágico-religiosíssimos"
+    ]
+  },
+  "magisterial": {
+    "H": [
+      "magisterialíssima",
+      "magisterialissimamente",
+      "magisterialíssimas",
+      "magisterialíssimo",
+      "magisterialíssimos"
+    ]
+  },
+  "magistral": {
+    "H": [
+      "magistralíssima",
+      "magistralissimamente",
+      "magistralíssimas",
+      "magistralíssimo",
+      "magistralíssimos"
+    ]
+  },
+  "magnetizável": {
+    "I": [
+      "magnetizabilíssima",
+      "magnetizabilissimamente",
+      "magnetizabilíssimas",
+      "magnetizabilíssimo",
+      "magnetizabilíssimos"
+    ],
+    "Â+I": [
+      "desmagnetizabilíssima",
+      "desmagnetizabilissimamente",
+      "desmagnetizabilíssimas",
+      "desmagnetizabilíssimo",
+      "desmagnetizabilíssimos"
+    ],
+    "ã+I": [
+      "biomagnetizabilíssima",
+      "biomagnetizabilissimamente",
+      "biomagnetizabilíssimas",
+      "biomagnetizabilíssimo",
+      "biomagnetizabilíssimos"
+    ]
+  },
+  "magnificável": {
+    "I": [
+      "magnificabilíssima",
+      "magnificabilissimamente",
+      "magnificabilíssimas",
+      "magnificabilíssimo",
+      "magnificabilíssimos"
+    ],
+    "ã+I": [
+      "biomagnificabilíssima",
+      "biomagnificabilissimamente",
+      "biomagnificabilíssimas",
+      "biomagnificabilíssimo",
+      "biomagnificabilíssimos"
+    ]
+  },
+  "magnificente": {
+    "H": [
+      "magnificentíssima",
+      "magnificentissimamente",
+      "magnificentíssimas",
+      "magnificentíssimo",
+      "magnificentíssimos"
+    ]
+  },
+  "magnolial": {
+    "H": [
+      "magnolialíssima",
+      "magnolialissimamente",
+      "magnolialíssimas",
+      "magnolialíssimo",
+      "magnolialíssimos"
+    ]
+  },
+  "magoável": {
+    "I": [
+      "magoabilíssima",
+      "magoabilissimamente",
+      "magoabilíssimas",
+      "magoabilíssimo",
+      "magoabilíssimos"
+    ]
+  },
+  "magro": {
+    "H": [
+      "magríssima",
+      "magrissimamente",
+      "magríssimas",
+      "magríssimo",
+      "magríssimos"
+    ]
+  },
+  "majestoso": {
+    "H": [
+      "majestosíssima",
+      "majestosissimamente",
+      "majestosíssimas",
+      "majestosíssimo",
+      "majestosíssimos"
+    ]
+  },
+  "majorável": {
+    "I": [
+      "majorabilíssima",
+      "majorabilissimamente",
+      "majorabilíssimas",
+      "majorabilíssimo",
+      "majorabilíssimos"
+    ]
+  },
+  "malabarizável": {
+    "I": [
+      "malabarizabilíssima",
+      "malabarizabilissimamente",
+      "malabarizabilíssimas",
+      "malabarizabilíssimo",
+      "malabarizabilíssimos"
+    ]
+  },
+  "malarioso": {
+    "H": [
+      "malariosíssima",
+      "malariosissimamente",
+      "malariosíssimas",
+      "malariosíssimo",
+      "malariosíssimos"
+    ]
+  },
+  "malbaratável": {
+    "I": [
+      "malbaratabilíssima",
+      "malbaratabilissimamente",
+      "malbaratabilíssimas",
+      "malbaratabilíssimo",
+      "malbaratabilíssimos"
+    ]
+  },
+  "malbarateável": {
+    "I": [
+      "malbarateabilíssima",
+      "malbarateabilissimamente",
+      "malbarateabilíssimas",
+      "malbarateabilíssimo",
+      "malbarateabilíssimos"
+    ]
+  },
+  "malcheiroso": {
+    "H": [
+      "malcheirosíssima",
+      "malcheirosissimamente",
+      "malcheirosíssimas",
+      "malcheirosíssimo",
+      "malcheirosíssimos"
+    ]
+  },
+  "maldadoso": {
+    "H": [
+      "maldadosíssima",
+      "maldadosissimamente",
+      "maldadosíssimas",
+      "maldadosíssimo",
+      "maldadosíssimos"
+    ]
+  },
+  "malditoso": {
+    "H": [
+      "malditosíssima",
+      "malditosissimamente",
+      "malditosíssimas",
+      "malditosíssimo",
+      "malditosíssimos"
+    ]
+  },
+  "maldoso": {
+    "H": [
+      "maldosíssima",
+      "maldosissimamente",
+      "maldosíssimas",
+      "maldosíssimo",
+      "maldosíssimos"
+    ]
+  },
+  "maleabilizável": {
+    "I": [
+      "maleabilizabilíssima",
+      "maleabilizabilissimamente",
+      "maleabilizabilíssimas",
+      "maleabilizabilíssimo",
+      "maleabilizabilíssimos"
+    ]
+  },
+  "maleável": {
+    "I": [
+      "maleabilíssima",
+      "maleabilissimamente",
+      "maleabilíssimas",
+      "maleabilíssimo",
+      "maleabilíssimos"
+    ]
+  },
+  "maleficente": {
+    "H": [
+      "maleficentíssima",
+      "maleficentissimamente",
+      "maleficentíssimas",
+      "maleficentíssimo",
+      "maleficentíssimos"
+    ]
+  },
+  "maleitoso": {
+    "H": [
+      "maleitosíssima",
+      "maleitosissimamente",
+      "maleitosíssimas",
+      "maleitosíssimo",
+      "maleitosíssimos"
+    ]
+  },
+  "maleopetroso": {
+    "H": [
+      "maleopetrosíssima",
+      "maleopetrosissimamente",
+      "maleopetrosíssimas",
+      "maleopetrosíssimo",
+      "maleopetrosíssimos"
+    ]
+  },
+  "maleosfenoidal": {
+    "H": [
+      "maleosfenoidalíssima",
+      "maleosfenoidalissimamente",
+      "maleosfenoidalíssimas",
+      "maleosfenoidalíssimo",
+      "maleosfenoidalíssimos"
+    ]
+  },
+  "malevolente": {
+    "H": [
+      "malevolentíssima",
+      "malevolentissimamente",
+      "malevolentíssimas",
+      "malevolentíssimo",
+      "malevolentíssimos"
+    ]
+  },
+  "malgável": {
+    "I": [
+      "malgabilíssima",
+      "malgabilissimamente",
+      "malgabilíssimas",
+      "malgabilíssimo",
+      "malgabilíssimos"
+    ]
+  },
+  "malgostoso": {
+    "H": [
+      "malgostosíssima",
+      "malgostosissimamente",
+      "malgostosíssimas",
+      "malgostosíssimo",
+      "malgostosíssimos"
+    ]
+  },
+  "maliciável": {
+    "I": [
+      "maliciabilíssima",
+      "maliciabilissimamente",
+      "maliciabilíssimas",
+      "maliciabilíssimo",
+      "maliciabilíssimos"
+    ]
+  },
+  "malicioso": {
+    "H": [
+      "maliciosíssima",
+      "maliciosissimamente",
+      "maliciosíssimas",
+      "maliciosíssimo",
+      "maliciosíssimos"
+    ],
+    "Â+H": [
+      "desmaliciosíssima",
+      "desmaliciosissimamente",
+      "desmaliciosíssimas",
+      "desmaliciosíssimo",
+      "desmaliciosíssimos"
+    ]
+  },
+  "malignizável": {
+    "I": [
+      "malignizabilíssima",
+      "malignizabilissimamente",
+      "malignizabilíssimas",
+      "malignizabilíssimo",
+      "malignizabilíssimos"
+    ]
+  },
+  "maljeitoso": {
+    "H": [
+      "maljeitosíssima",
+      "maljeitosissimamente",
+      "maljeitosíssimas",
+      "maljeitosíssimo",
+      "maljeitosíssimos"
+    ]
+  },
+  "malogrável": {
+    "I": [
+      "malograbilíssima",
+      "malograbilissimamente",
+      "malograbilíssimas",
+      "malograbilíssimo",
+      "malograbilíssimos"
+    ]
+  },
+  "malolabial": {
+    "H": [
+      "malolabialíssima",
+      "malolabialissimamente",
+      "malolabialíssimas",
+      "malolabialíssimo",
+      "malolabialíssimos"
+    ]
+  },
+  "malsinável": {
+    "I": [
+      "malsinabilíssima",
+      "malsinabilissimamente",
+      "malsinabilíssimas",
+      "malsinabilíssimo",
+      "malsinabilíssimos"
+    ]
+  },
+  "maltosos": {
+    "H": [
+      "maltosíssima",
+      "maltosissimamente",
+      "maltosíssimas",
+      "maltosíssimo",
+      "maltosíssimos"
+    ]
+  },
+  "malventuroso": {
+    "H": [
+      "malventurosíssima",
+      "malventurosissimamente",
+      "malventurosíssimas",
+      "malventurosíssimo",
+      "malventurosíssimos"
+    ]
+  },
+  "malversável": {
+    "I": [
+      "malversabilíssima",
+      "malversabilissimamente",
+      "malversabilíssimas",
+      "malversabilíssimo",
+      "malversabilíssimos"
+    ]
+  },
+  "mamiloso": {
+    "H": [
+      "mamilosíssima",
+      "mamilosissimamente",
+      "mamilosíssimas",
+      "mamilosíssimo",
+      "mamilosíssimos"
+    ]
+  },
+  "mamoso": {
+    "H": [
+      "mamosíssima",
+      "mamosissimamente",
+      "mamosíssimas",
+      "mamosíssimo",
+      "mamosíssimos"
+    ]
+  },
+  "manancial": {
+    "H": [
+      "manancialíssima",
+      "manancialissimamente",
+      "manancialíssimas",
+      "manancialíssimo",
+      "manancialíssimos"
+    ]
+  },
+  "manantial": {
+    "H": [
+      "manantialíssima",
+      "manantialissimamente",
+      "manantialíssimas",
+      "manantialíssimo",
+      "manantialíssimos"
+    ]
+  },
+  "mancomunável": {
+    "I": [
+      "mancomunabilíssima",
+      "mancomunabilissimamente",
+      "mancomunabilíssimas",
+      "mancomunabilíssimo",
+      "mancomunabilíssimos"
+    ]
+  },
+  "mandamental": {
+    "H": [
+      "mandamentalíssima",
+      "mandamentalissimamente",
+      "mandamentalíssimas",
+      "mandamentalíssimo",
+      "mandamentalíssimos"
+    ]
+  },
+  "mandatável": {
+    "I": [
+      "mandatabilíssima",
+      "mandatabilissimamente",
+      "mandatabilíssimas",
+      "mandatabilíssimo",
+      "mandatabilíssimos"
+    ]
+  },
+  "mandável": {
+    "I": [
+      "mandabilíssima",
+      "mandabilissimamente",
+      "mandabilíssimas",
+      "mandabilíssimo",
+      "mandabilíssimos"
+    ],
+    "Â+I": [
+      "desmandabilíssima",
+      "desmandabilissimamente",
+      "desmandabilíssimas",
+      "desmandabilíssimo",
+      "desmandabilíssimos"
+    ]
+  },
+  "mandibulolabial": {
+    "H": [
+      "mandibulolabialíssima",
+      "mandibulolabialissimamente",
+      "mandibulolabialíssimas",
+      "mandibulolabialíssimo",
+      "mandibulolabialíssimos"
+    ]
+  },
+  "mandibulomental": {
+    "H": [
+      "mandibulomentalíssima",
+      "mandibulomentalissimamente",
+      "mandibulomentalíssimas",
+      "mandibulomentalíssimo",
+      "mandibulomentalíssimos"
+    ]
+  },
+  "mandiocal": {
+    "H": [
+      "mandiocalíssima",
+      "mandiocalissimamente",
+      "mandiocalíssimas",
+      "mandiocalíssimo",
+      "mandiocalíssimos"
+    ]
+  },
+  "manducável": {
+    "I": [
+      "manducabilíssima",
+      "manducabilissimamente",
+      "manducabilíssimas",
+      "manducabilíssimo",
+      "manducabilíssimos"
+    ]
+  },
+  "maneável": {
+    "I": [
+      "maneabilíssima",
+      "maneabilissimamente",
+      "maneabilíssimas",
+      "maneabilíssimo",
+      "maneabilíssimos"
+    ]
+  },
+  "maneirável": {
+    "I": [
+      "maneirabilíssima",
+      "maneirabilissimamente",
+      "maneirabilíssimas",
+      "maneirabilíssimo",
+      "maneirabilíssimos"
+    ]
+  },
+  "maneiroso": {
+    "H": [
+      "maneirosíssima",
+      "maneirosissimamente",
+      "maneirosíssimas",
+      "maneirosíssimo",
+      "maneirosíssimos"
+    ]
+  },
+  "manejável": {
+    "I": [
+      "manejabilíssima",
+      "manejabilissimamente",
+      "manejabilíssimas",
+      "manejabilíssimo",
+      "manejabilíssimos"
+    ],
+    "À+I": [
+      "remanejabilíssima",
+      "remanejabilissimamente",
+      "remanejabilíssimas",
+      "remanejabilíssimo",
+      "remanejabilíssimos"
+    ]
+  },
+  "manganoso": {
+    "H": [
+      "manganosíssima",
+      "manganosissimamente",
+      "manganosíssimas",
+      "manganosíssimo",
+      "manganosíssimos"
+    ]
+  },
+  "manganossilicioso": {
+    "H": [
+      "manganossiliciosíssima",
+      "manganossiliciosissimamente",
+      "manganossiliciosíssimas",
+      "manganossiliciosíssimo",
+      "manganossiliciosíssimos"
+    ]
+  },
+  "mangarazal": {
+    "H": [
+      "mangarazalíssima",
+      "mangarazalissimamente",
+      "mangarazalíssimas",
+      "mangarazalíssimo",
+      "mangarazalíssimos"
+    ]
+  },
+  "mangroso": {
+    "H": [
+      "mangrosíssima",
+      "mangrosissimamente",
+      "mangrosíssimas",
+      "mangrosíssimo",
+      "mangrosíssimos"
+    ]
+  },
+  "mangueiral": {
+    "H": [
+      "mangueiralíssima",
+      "mangueiralissimamente",
+      "mangueiralíssimas",
+      "mangueiralíssimo",
+      "mangueiralíssimos"
+    ]
+  },
+  "manguezal": {
+    "H": [
+      "manguezalíssima",
+      "manguezalissimamente",
+      "manguezalíssimas",
+      "manguezalíssimo",
+      "manguezalíssimos"
+    ]
+  },
+  "maniçobal": {
+    "H": [
+      "maniçobalíssima",
+      "maniçobalissimamente",
+      "maniçobalíssimas",
+      "maniçobalíssimo",
+      "maniçobalíssimos"
+    ]
+  },
+  "manifestável": {
+    "I": [
+      "manifestabilíssima",
+      "manifestabilissimamente",
+      "manifestabilíssimas",
+      "manifestabilíssimo",
+      "manifestabilíssimos"
+    ]
+  },
+  "manioso": {
+    "H": [
+      "maniosíssima",
+      "maniosissimamente",
+      "maniosíssimas",
+      "maniosíssimo",
+      "maniosíssimos"
+    ]
+  },
+  "manipulável": {
+    "I": [
+      "manipulabilíssima",
+      "manipulabilissimamente",
+      "manipulabilíssimas",
+      "manipulabilíssimo",
+      "manipulabilíssimos"
+    ],
+    "û+I": [
+      "micromanipulabilíssima",
+      "micromanipulabilissimamente",
+      "micromanipulabilíssimas",
+      "micromanipulabilíssimo",
+      "micromanipulabilíssimos"
+    ]
+  },
+  "manjável": {
+    "I": [
+      "manjabilíssima",
+      "manjabilissimamente",
+      "manjabilíssimas",
+      "manjabilíssimo",
+      "manjabilíssimos"
+    ]
+  },
+  "manobrável": {
+    "I": [
+      "manobrabilíssima",
+      "manobrabilissimamente",
+      "manobrabilíssimas",
+      "manobrabilíssimo",
+      "manobrabilíssimos"
+    ]
+  },
+  "manso": {
+    "H": [
+      "mansíssima",
+      "mansissimamente",
+      "mansíssimas",
+      "mansíssimo",
+      "mansíssimos"
+    ],
+    "Ì+H": [
+      "supermansíssima",
+      "supermansissimamente",
+      "supermansíssimas",
+      "supermansíssimo",
+      "supermansíssimos"
+    ]
+  },
+  "manteigoso": {
+    "H": [
+      "manteigosíssima",
+      "manteigosissimamente",
+      "manteigosíssimas",
+      "manteigosíssimo",
+      "manteigosíssimos"
+    ]
+  },
+  "manual": {
+    "H": [
+      "manualíssima",
+      "manualissimamente",
+      "manualíssimas",
+      "manualíssimo",
+      "manualíssimos"
+    ],
+    "Á+H": [
+      "antimanualíssima",
+      "antimanualissimamente",
+      "antimanualíssimas",
+      "antimanualíssimo",
+      "antimanualíssimos"
+    ]
+  },
+  "manufacturável": {
+    "I": [
+      "manufacturabilíssima",
+      "manufacturabilissimamente",
+      "manufacturabilíssimas",
+      "manufacturabilíssimo",
+      "manufacturabilíssimos"
+    ]
+  },
+  "manufaturável": {
+    "I": [
+      "manufaturabilíssima",
+      "manufaturabilissimamente",
+      "manufaturabilíssimas",
+      "manufaturabilíssimo",
+      "manufaturabilíssimos"
+    ],
+    "Ü+I": [
+      "semimanufaturabilíssima",
+      "semimanufaturabilissimamente",
+      "semimanufaturabilíssimas",
+      "semimanufaturabilíssimo",
+      "semimanufaturabilíssimos"
+    ]
+  },
+  "manuseável": {
+    "I": [
+      "manuseabilíssima",
+      "manuseabilissimamente",
+      "manuseabilíssimas",
+      "manuseabilíssimo",
+      "manuseabilíssimos"
+    ],
+    "À+I": [
+      "remanuseabilíssima",
+      "remanuseabilissimamente",
+      "remanuseabilíssimas",
+      "remanuseabilíssimo",
+      "remanuseabilíssimos"
+    ]
+  },
+  "manutenível": {
+    "I": [
+      "manutenibilíssima",
+      "manutenibilissimamente",
+      "manutenibilíssimas",
+      "manutenibilíssimo",
+      "manutenibilíssimos"
+    ]
+  },
+  "manutível": {
+    "I": [
+      "manutibilíssima",
+      "manutibilissimamente",
+      "manutibilíssimas",
+      "manutibilíssimo",
+      "manutibilíssimos"
+    ]
+  },
+  "mapeável": {
+    "I": [
+      "mapeabilíssima",
+      "mapeabilissimamente",
+      "mapeabilíssimas",
+      "mapeabilíssimo",
+      "mapeabilíssimos"
+    ]
+  },
+  "maquiável": {
+    "I": [
+      "maquiabilíssima",
+      "maquiabilissimamente",
+      "maquiabilíssimas",
+      "maquiabilíssimo",
+      "maquiabilíssimos"
+    ]
+  },
+  "maquinal": {
+    "H": [
+      "maquinalíssima",
+      "maquinalissimamente",
+      "maquinalíssimas",
+      "maquinalíssimo",
+      "maquinalíssimos"
+    ]
+  },
+  "maquinável": {
+    "I": [
+      "maquinabilíssima",
+      "maquinabilissimamente",
+      "maquinabilíssimas",
+      "maquinabilíssimo",
+      "maquinabilíssimos"
+    ]
+  },
+  "maranhoso": {
+    "H": [
+      "maranhosíssima",
+      "maranhosissimamente",
+      "maranhosíssimas",
+      "maranhosíssimo",
+      "maranhosíssimos"
+    ]
+  },
+  "marattial": {
+    "H": [
+      "marattialíssima",
+      "marattialissimamente",
+      "marattialíssimas",
+      "marattialíssimo",
+      "marattialíssimos"
+    ]
+  },
+  "maravilhável": {
+    "I": [
+      "maravilhabilíssima",
+      "maravilhabilissimamente",
+      "maravilhabilíssimas",
+      "maravilhabilíssimo",
+      "maravilhabilíssimos"
+    ]
+  },
+  "maravilhoso": {
+    "H": [
+      "maravilhosíssima",
+      "maravilhosissimamente",
+      "maravilhosíssimas",
+      "maravilhosíssimo",
+      "maravilhosíssimos"
+    ],
+    "Ì+H": [
+      "supermaravilhosíssima",
+      "supermaravilhosissimamente",
+      "supermaravilhosíssimas",
+      "supermaravilhosíssimo",
+      "supermaravilhosíssimos"
+    ]
+  },
+  "marcescível": {
+    "I": [
+      "marcescibilíssima",
+      "marcescibilissimamente",
+      "marcescibilíssimas",
+      "marcescibilíssimo",
+      "marcescibilíssimos"
+    ],
+    "Ä+I": [
+      "imarcescibilíssima",
+      "imarcescibilissimamente",
+      "imarcescibilíssimas",
+      "imarcescibilíssimo",
+      "imarcescibilíssimos"
+    ]
+  },
+  "marchal": {
+    "H": [
+      "marchalíssima",
+      "marchalissimamente",
+      "marchalíssimas",
+      "marchalíssimo",
+      "marchalíssimos"
+    ]
+  },
+  "marchantial": {
+    "H": [
+      "marchantialíssima",
+      "marchantialissimamente",
+      "marchantialíssimas",
+      "marchantialíssimo",
+      "marchantialíssimos"
+    ]
+  },
+  "marchetável": {
+    "I": [
+      "marchetabilíssima",
+      "marchetabilissimamente",
+      "marchetabilíssimas",
+      "marchetabilíssimo",
+      "marchetabilíssimos"
+    ],
+    "Â+I": [
+      "desmarchetabilíssima",
+      "desmarchetabilissimamente",
+      "desmarchetabilíssimas",
+      "desmarchetabilíssimo",
+      "desmarchetabilíssimos"
+    ]
+  },
+  "marcial": {
+    "H": [
+      "marcialíssima",
+      "marcialissimamente",
+      "marcialíssimas",
+      "marcialíssimo",
+      "marcialíssimos"
+    ]
+  },
+  "mareável": {
+    "I": [
+      "mareabilíssima",
+      "mareabilissimamente",
+      "mareabilíssimas",
+      "mareabilíssimo",
+      "mareabilíssimos"
+    ],
+    "Â+I": [
+      "desmareabilíssima",
+      "desmareabilissimamente",
+      "desmareabilíssimas",
+      "desmareabilíssimo",
+      "desmareabilíssimos"
+    ]
+  },
+  "marfinoso": {
+    "H": [
+      "marfinosíssima",
+      "marfinosissimamente",
+      "marfinosíssimas",
+      "marfinosíssimo",
+      "marfinosíssimos"
+    ]
+  },
+  "margaridal": {
+    "H": [
+      "margaridalíssima",
+      "margaridalissimamente",
+      "margaridalíssimas",
+      "margaridalíssimo",
+      "margaridalíssimos"
+    ]
+  },
+  "margarinoso": {
+    "H": [
+      "margarinosíssima",
+      "margarinosissimamente",
+      "margarinosíssimas",
+      "margarinosíssimo",
+      "margarinosíssimos"
+    ]
+  },
+  "margeável": {
+    "I": [
+      "margeabilíssima",
+      "margeabilissimamente",
+      "margeabilíssimas",
+      "margeabilíssimo",
+      "margeabilíssimos"
+    ]
+  },
+  "marginal": {
+    "H": [
+      "marginalíssima",
+      "marginalissimamente",
+      "marginalíssimas",
+      "marginalíssimo",
+      "marginalíssimos"
+    ],
+    "È+H": [
+      "submarginalíssima",
+      "submarginalissimamente",
+      "submarginalíssimas",
+      "submarginalíssimo",
+      "submarginalíssimos"
+    ],
+    "Ô+H": [
+      "extramarginalíssima",
+      "extramarginalissimamente",
+      "extramarginalíssimas",
+      "extramarginalíssimo",
+      "extramarginalíssimos"
+    ],
+    "ô+H": [
+      "supramarginalíssima",
+      "supramarginalissimamente",
+      "supramarginalíssimas",
+      "supramarginalíssimo",
+      "supramarginalíssimos"
+    ],
+    "Ö+H": [
+      "intramarginalíssima",
+      "intramarginalissimamente",
+      "intramarginalíssimas",
+      "intramarginalíssimo",
+      "intramarginalíssimos"
+    ]
+  },
+  "marginalizável": {
+    "I": [
+      "marginalizabilíssima",
+      "marginalizabilissimamente",
+      "marginalizabilíssimas",
+      "marginalizabilíssimo",
+      "marginalizabilíssimos"
+    ]
+  },
+  "marginirrostral": {
+    "H": [
+      "marginirrostralíssima",
+      "marginirrostralissimamente",
+      "marginirrostralíssimas",
+      "marginirrostralíssimo",
+      "marginirrostralíssimos"
+    ]
+  },
+  "margoso": {
+    "H": [
+      "margosíssima",
+      "margosissimamente",
+      "margosíssimas",
+      "margosíssimo",
+      "margosíssimos"
+    ],
+    "ò+H": [
+      "amargosíssima",
+      "amargosissimamente",
+      "amargosíssimas",
+      "amargosíssimo",
+      "amargosíssimos"
+    ]
+  },
+  "margravial": {
+    "H": [
+      "margravialíssima",
+      "margravialissimamente",
+      "margravialíssimas",
+      "margravialíssimo",
+      "margravialíssimos"
+    ]
+  },
+  "maricazal": {
+    "H": [
+      "maricazalíssima",
+      "maricazalissimamente",
+      "maricazalíssimas",
+      "maricazalíssimo",
+      "maricazalíssimos"
+    ]
+  },
+  "marital": {
+    "H": [
+      "maritalíssima",
+      "maritalissimamente",
+      "maritalíssimas",
+      "maritalíssimo",
+      "maritalíssimos"
+    ],
+    "Ô+H": [
+      "extramaritalíssima",
+      "extramaritalissimamente",
+      "extramaritalíssimas",
+      "extramaritalíssimo",
+      "extramaritalíssimos"
+    ],
+    "ú+H": [
+      "pré-maritalíssima",
+      "pré-maritalissimamente",
+      "pré-maritalíssimas",
+      "pré-maritalíssimo",
+      "pré-maritalíssimos"
+    ]
+  },
+  "marmeleiral": {
+    "H": [
+      "marmeleiralíssima",
+      "marmeleiralissimamente",
+      "marmeleiralíssimas",
+      "marmeleiralíssimo",
+      "marmeleiralíssimos"
+    ]
+  },
+  "marmorizável": {
+    "I": [
+      "marmorizabilíssima",
+      "marmorizabilissimamente",
+      "marmorizabilíssimas",
+      "marmorizabilíssimo",
+      "marmorizabilíssimos"
+    ]
+  },
+  "marmoroso": {
+    "H": [
+      "marmorosíssima",
+      "marmorosissimamente",
+      "marmorosíssimas",
+      "marmorosíssimo",
+      "marmorosíssimos"
+    ]
+  },
+  "marmoural": {
+    "H": [
+      "marmouralíssima",
+      "marmouralissimamente",
+      "marmouralíssimas",
+      "marmouralíssimo",
+      "marmouralíssimos"
+    ]
+  },
+  "marnoso": {
+    "H": [
+      "marnosíssima",
+      "marnosissimamente",
+      "marnosíssimas",
+      "marnosíssimo",
+      "marnosíssimos"
+    ]
+  },
+  "marquesal": {
+    "H": [
+      "marquesalíssima",
+      "marquesalissimamente",
+      "marquesalíssimas",
+      "marquesalíssimo",
+      "marquesalíssimos"
+    ]
+  },
+  "marsupial": {
+    "H": [
+      "marsupialíssima",
+      "marsupialissimamente",
+      "marsupialíssimas",
+      "marsupialíssimo",
+      "marsupialíssimos"
+    ]
+  },
+  "martelável": {
+    "I": [
+      "martelabilíssima",
+      "martelabilissimamente",
+      "martelabilíssimas",
+      "martelabilíssimo",
+      "martelabilíssimos"
+    ]
+  },
+  "martingal": {
+    "H": [
+      "martingalíssima",
+      "martingalissimamente",
+      "martingalíssimas",
+      "martingalíssimo",
+      "martingalíssimos"
+    ]
+  },
+  "martirial": {
+    "H": [
+      "martirialíssima",
+      "martirialissimamente",
+      "martirialíssimas",
+      "martirialíssimo",
+      "martirialíssimos"
+    ]
+  },
+  "martirizável": {
+    "I": [
+      "martirizabilíssima",
+      "martirizabilissimamente",
+      "martirizabilíssimas",
+      "martirizabilíssimo",
+      "martirizabilíssimos"
+    ]
+  },
+  "marulhoso": {
+    "H": [
+      "marulhosíssima",
+      "marulhosissimamente",
+      "marulhosíssimas",
+      "marulhosíssimo",
+      "marulhosíssimos"
+    ]
+  },
+  "marxistizável": {
+    "I": [
+      "marxistizabilíssima",
+      "marxistizabilissimamente",
+      "marxistizabilíssimas",
+      "marxistizabilíssimo",
+      "marxistizabilíssimos"
+    ]
+  },
+  "mascarável": {
+    "I": [
+      "mascarabilíssima",
+      "mascarabilissimamente",
+      "mascarabilíssimas",
+      "mascarabilíssimo",
+      "mascarabilíssimos"
+    ],
+    "Â+I": [
+      "desmascarabilíssima",
+      "desmascarabilissimamente",
+      "desmascarabilíssimas",
+      "desmascarabilíssimo",
+      "desmascarabilíssimos"
+    ]
+  },
+  "masculinizável": {
+    "I": [
+      "masculinizabilíssima",
+      "masculinizabilissimamente",
+      "masculinizabilíssimas",
+      "masculinizabilíssimo",
+      "masculinizabilíssimos"
+    ]
+  },
+  "massacrável": {
+    "I": [
+      "massacrabilíssima",
+      "massacrabilissimamente",
+      "massacrabilíssimas",
+      "massacrabilíssimo",
+      "massacrabilíssimos"
+    ]
+  },
+  "massificável": {
+    "I": [
+      "massificabilíssima",
+      "massificabilissimamente",
+      "massificabilíssimas",
+      "massificabilíssimo",
+      "massificabilíssimos"
+    ]
+  },
+  "masticável": {
+    "I": [
+      "masticabilíssima",
+      "masticabilissimamente",
+      "masticabilíssimas",
+      "masticabilíssimo",
+      "masticabilíssimos"
+    ]
+  },
+  "mastigável": {
+    "I": [
+      "mastigabilíssima",
+      "mastigabilissimamente",
+      "mastigabilíssimas",
+      "mastigabilíssimo",
+      "mastigabilíssimos"
+    ]
+  },
+  "masturbável": {
+    "I": [
+      "masturbabilíssima",
+      "masturbabilissimamente",
+      "masturbabilíssimas",
+      "masturbabilíssimo",
+      "masturbabilíssimos"
+    ]
+  },
+  "matagoso": {
+    "H": [
+      "matagosíssima",
+      "matagosissimamente",
+      "matagosíssimas",
+      "matagosíssimo",
+      "matagosíssimos"
+    ]
+  },
+  "material": {
+    "H": [
+      "materialíssima",
+      "materialissimamente",
+      "materialíssimas",
+      "materialíssimo",
+      "materialíssimos"
+    ],
+    "ã+H": [
+      "biomaterialíssima",
+      "biomaterialissimamente",
+      "biomaterialíssimas",
+      "biomaterialíssimo",
+      "biomaterialíssimos"
+    ],
+    "Ä+H": [
+      "imaterialíssima",
+      "imaterialissimamente",
+      "imaterialíssimas",
+      "imaterialíssimo",
+      "imaterialíssimos"
+    ],
+    "Ü+H": [
+      "semimaterialíssima",
+      "semimaterialissimamente",
+      "semimaterialíssimas",
+      "semimaterialíssimo",
+      "semimaterialíssimos"
+    ]
+  },
+  "materializável": {
+    "I": [
+      "materializabilíssima",
+      "materializabilissimamente",
+      "materializabilíssimas",
+      "materializabilíssimo",
+      "materializabilíssimos"
+    ],
+    "À+I": [
+      "rematerializabilíssima",
+      "rematerializabilissimamente",
+      "rematerializabilíssimas",
+      "rematerializabilíssimo",
+      "rematerializabilíssimos"
+    ],
+    "Â+I": [
+      "desmaterializabilíssima",
+      "desmaterializabilissimamente",
+      "desmaterializabilíssimas",
+      "desmaterializabilíssimo",
+      "desmaterializabilíssimos"
+    ],
+    "Ä+I": [
+      "imaterializabilíssima",
+      "imaterializabilissimamente",
+      "imaterializabilíssimas",
+      "imaterializabilíssimo",
+      "imaterializabilíssimos"
+    ]
+  },
+  "matério-espiritual": {
+    "H": [
+      "matério-espiritualíssima",
+      "matério-espiritualissimamente",
+      "matério-espiritualíssimas",
+      "matério-espiritualíssimo",
+      "matério-espiritualíssimos"
+    ]
+  },
+  "maternal": {
+    "H": [
+      "maternalíssima",
+      "maternalissimamente",
+      "maternalíssimas",
+      "maternalíssimo",
+      "maternalíssimos"
+    ]
+  },
+  "matizável": {
+    "I": [
+      "matizabilíssima",
+      "matizabilissimamente",
+      "matizabilíssimas",
+      "matizabilíssimo",
+      "matizabilíssimos"
+    ]
+  },
+  "matoso": {
+    "H": [
+      "matosíssima",
+      "matosissimamente",
+      "matosíssimas",
+      "matosíssimo",
+      "matosíssimos"
+    ]
+  },
+  "matriarcal": {
+    "H": [
+      "matriarcalíssima",
+      "matriarcalissimamente",
+      "matriarcalíssimas",
+      "matriarcalíssimo",
+      "matriarcalíssimos"
+    ]
+  },
+  "matricial": {
+    "H": [
+      "matricialíssima",
+      "matricialissimamente",
+      "matricialíssimas",
+      "matricialíssimo",
+      "matricialíssimos"
+    ]
+  },
+  "matriculável": {
+    "I": [
+      "matriculabilíssima",
+      "matriculabilissimamente",
+      "matriculabilíssimas",
+      "matriculabilíssimo",
+      "matriculabilíssimos"
+    ]
+  },
+  "matrifocal": {
+    "H": [
+      "matrifocalíssima",
+      "matrifocalissimamente",
+      "matrifocalíssimas",
+      "matrifocalíssimo",
+      "matrifocalíssimos"
+    ]
+  },
+  "matrilateral": {
+    "H": [
+      "matrilateralíssima",
+      "matrilateralissimamente",
+      "matrilateralíssimas",
+      "matrilateralíssimo",
+      "matrilateralíssimos"
+    ]
+  },
+  "matrilocal": {
+    "H": [
+      "matrilocalíssima",
+      "matrilocalissimamente",
+      "matrilocalíssimas",
+      "matrilocalíssimo",
+      "matrilocalíssimos"
+    ]
+  },
+  "matrimonial": {
+    "H": [
+      "matrimonialíssima",
+      "matrimonialissimamente",
+      "matrimonialíssimas",
+      "matrimonialíssimo",
+      "matrimonialíssimos"
+    ],
+    "Ô+H": [
+      "extramatrimonialíssima",
+      "extramatrimonialissimamente",
+      "extramatrimonialíssimas",
+      "extramatrimonialíssimo",
+      "extramatrimonialíssimos"
+    ]
+  },
+  "matrimoniável": {
+    "I": [
+      "matrimoniabilíssima",
+      "matrimoniabilissimamente",
+      "matrimoniabilíssimas",
+      "matrimoniabilíssimo",
+      "matrimoniabilíssimos"
+    ]
+  },
+  "matripatrilocal": {
+    "H": [
+      "matripatrilocalíssima",
+      "matripatrilocalissimamente",
+      "matripatrilocalíssimas",
+      "matripatrilocalíssimo",
+      "matripatrilocalíssimos"
+    ]
+  },
+  "maturacional": {
+    "H": [
+      "maturacionalíssima",
+      "maturacionalissimamente",
+      "maturacionalíssimas",
+      "maturacionalíssimo",
+      "maturacionalíssimos"
+    ]
+  },
+  "maturável": {
+    "I": [
+      "maturabilíssima",
+      "maturabilissimamente",
+      "maturabilíssimas",
+      "maturabilíssimo",
+      "maturabilíssimos"
+    ]
+  },
+  "matutinal": {
+    "H": [
+      "matutinalíssima",
+      "matutinalissimamente",
+      "matutinalíssimas",
+      "matutinalíssimo",
+      "matutinalíssimos"
+    ]
+  },
+  "mavioso": {
+    "H": [
+      "maviosíssima",
+      "maviosissimamente",
+      "maviosíssimas",
+      "maviosíssimo",
+      "maviosíssimos"
+    ],
+    "ò+H": [
+      "amaviosíssima",
+      "amaviosissimamente",
+      "amaviosíssimas",
+      "amaviosíssimo",
+      "amaviosíssimos"
+    ]
+  },
+  "maxilodental": {
+    "H": [
+      "maxilodentalíssima",
+      "maxilodentalissimamente",
+      "maxilodentalíssimas",
+      "maxilodentalíssimo",
+      "maxilodentalíssimos"
+    ]
+  },
+  "maxilofacial": {
+    "H": [
+      "maxilofacialíssima",
+      "maxilofacialissimamente",
+      "maxilofacialíssimas",
+      "maxilofacialíssimo",
+      "maxilofacialíssimos"
+    ]
+  },
+  "maxilojugal": {
+    "H": [
+      "maxilojugalíssima",
+      "maxilojugalissimamente",
+      "maxilojugalíssimas",
+      "maxilojugalíssimo",
+      "maxilojugalíssimos"
+    ]
+  },
+  "maxilolabial": {
+    "H": [
+      "maxilolabialíssima",
+      "maxilolabialissimamente",
+      "maxilolabialíssimas",
+      "maxilolabialíssimo",
+      "maxilolabialíssimos"
+    ],
+    "È+H": [
+      "submaxilolabialíssima",
+      "submaxilolabialissimamente",
+      "submaxilolabialíssimas",
+      "submaxilolabialíssimo",
+      "submaxilolabialíssimos"
+    ]
+  },
+  "maxilonasal": {
+    "H": [
+      "maxilonasalíssima",
+      "maxilonasalissimamente",
+      "maxilonasalíssimas",
+      "maxilonasalíssimo",
+      "maxilonasalíssimos"
+    ],
+    "È+H": [
+      "submaxilonasalíssima",
+      "submaxilonasalissimamente",
+      "submaxilonasalíssimas",
+      "submaxilonasalíssimo",
+      "submaxilonasalíssimos"
+    ]
+  },
+  "maxilonasilabial": {
+    "H": [
+      "maxilonasilabialíssima",
+      "maxilonasilabialissimamente",
+      "maxilonasilabialíssimas",
+      "maxilonasilabialíssimo",
+      "maxilonasilabialíssimos"
+    ]
+  },
+  "maxilopalatal": {
+    "H": [
+      "maxilopalatalíssima",
+      "maxilopalatalissimamente",
+      "maxilopalatalíssimas",
+      "maxilopalatalíssimo",
+      "maxilopalatalíssimos"
+    ]
+  },
+  "maxiloso": {
+    "H": [
+      "maxilosíssima",
+      "maxilosissimamente",
+      "maxilosíssimas",
+      "maxilosíssimo",
+      "maxilosíssimos"
+    ]
+  },
+  "maximal": {
+    "H": [
+      "maximalíssima",
+      "maximalissimamente",
+      "maximalíssimas",
+      "maximalíssimo",
+      "maximalíssimos"
+    ]
+  },
+  "maximável": {
+    "I": [
+      "maximabilíssima",
+      "maximabilissimamente",
+      "maximabilíssimas",
+      "maximabilíssimo",
+      "maximabilíssimos"
+    ]
+  },
+  "maximizável": {
+    "I": [
+      "maximizabilíssima",
+      "maximizabilissimamente",
+      "maximizabilíssimas",
+      "maximizabilíssimo",
+      "maximizabilíssimos"
+    ]
+  },
+  "meandroso": {
+    "H": [
+      "meandrosíssima",
+      "meandrosissimamente",
+      "meandrosíssimas",
+      "meandrosíssimo",
+      "meandrosíssimos"
+    ]
+  },
+  "mecanizável": {
+    "I": [
+      "mecanizabilíssima",
+      "mecanizabilissimamente",
+      "mecanizabilíssimas",
+      "mecanizabilíssimo",
+      "mecanizabilíssimos"
+    ]
+  },
+  "mediacional": {
+    "H": [
+      "mediacionalíssima",
+      "mediacionalissimamente",
+      "mediacionalíssimas",
+      "mediacionalíssimo",
+      "mediacionalíssimos"
+    ]
+  },
+  "medial": {
+    "H": [
+      "medialíssima",
+      "medialissimamente",
+      "medialíssimas",
+      "medialíssimo",
+      "medialíssimos"
+    ],
+    "Í+H": [
+      "intermedialíssima",
+      "intermedialissimamente",
+      "intermedialíssimas",
+      "intermedialíssimo",
+      "intermedialíssimos"
+    ]
+  },
+  "mediastinal": {
+    "H": [
+      "mediastinalíssima",
+      "mediastinalissimamente",
+      "mediastinalíssimas",
+      "mediastinalíssimo",
+      "mediastinalíssimos"
+    ]
+  },
+  "mediatizável": {
+    "I": [
+      "mediatizabilíssima",
+      "mediatizabilissimamente",
+      "mediatizabilíssimas",
+      "mediatizabilíssimo",
+      "mediatizabilíssimos"
+    ]
+  },
+  "mediável": {
+    "I": [
+      "mediabilíssima",
+      "mediabilissimamente",
+      "mediabilíssimas",
+      "mediabilíssimo",
+      "mediabilíssimos"
+    ],
+    "À+I": [
+      "remediabilíssima",
+      "remediabilissimamente",
+      "remediabilíssimas",
+      "remediabilíssimo",
+      "remediabilíssimos"
+    ]
+  },
+  "medical": {
+    "H": [
+      "medicalíssima",
+      "medicalissimamente",
+      "medicalíssimas",
+      "medicalíssimo",
+      "medicalíssimos"
+    ],
+    "Á+H": [
+      "antimedicalíssima",
+      "antimedicalissimamente",
+      "antimedicalíssimas",
+      "antimedicalíssimo",
+      "antimedicalíssimos"
+    ]
+  },
+  "medicamentoso": {
+    "H": [
+      "medicamentosíssima",
+      "medicamentosissimamente",
+      "medicamentosíssimas",
+      "medicamentosíssimo",
+      "medicamentosíssimos"
+    ]
+  },
+  "medicável": {
+    "I": [
+      "medicabilíssima",
+      "medicabilissimamente",
+      "medicabilíssimas",
+      "medicabilíssimo",
+      "medicabilíssimos"
+    ]
+  },
+  "medicinal": {
+    "H": [
+      "medicinalíssima",
+      "medicinalissimamente",
+      "medicinalíssimas",
+      "medicinalíssimo",
+      "medicinalíssimos"
+    ],
+    "Á+H": [
+      "antimedicinalíssima",
+      "antimedicinalissimamente",
+      "antimedicinalíssimas",
+      "antimedicinalíssimo",
+      "antimedicinalíssimos"
+    ],
+    "á+H": [
+      "aeromedicinalíssima",
+      "aeromedicinalissimamente",
+      "aeromedicinalíssimas",
+      "aeromedicinalíssimo",
+      "aeromedicinalíssimos"
+    ]
+  },
+  "médico-comunal": {
+    "H": [
+      "médico-comunalíssima",
+      "médico-comunalissimamente",
+      "médico-comunalíssimas",
+      "médico-comunalíssimo",
+      "médico-comunalíssimos"
+    ]
+  },
+  "médico-legal": {
+    "H": [
+      "médico-legalíssima",
+      "médico-legalissimamente",
+      "médico-legalíssimas",
+      "médico-legalíssimo",
+      "médico-legalíssimos"
+    ]
+  },
+  "médico-social": {
+    "H": [
+      "médico-socialíssima",
+      "médico-socialissimamente",
+      "médico-socialíssimas",
+      "médico-socialíssimo",
+      "médico-socialíssimos"
+    ]
+  },
+  "medieval": {
+    "H": [
+      "medievalíssima",
+      "medievalissimamente",
+      "medievalíssimas",
+      "medievalíssimo",
+      "medievalíssimos"
+    ],
+    "Ï+H": [
+      "antemedievalíssima",
+      "antemedievalissimamente",
+      "antemedievalíssimas",
+      "antemedievalíssimo",
+      "antemedievalíssimos"
+    ]
+  },
+  "medievalizável": {
+    "I": [
+      "medievalizabilíssima",
+      "medievalizabilissimamente",
+      "medievalizabilíssimas",
+      "medievalizabilíssimo",
+      "medievalizabilíssimos"
+    ]
+  },
+  "médio-oriental": {
+    "H": [
+      "médio-orientalíssima",
+      "médio-orientalissimamente",
+      "médio-orientalíssimas",
+      "médio-orientalíssimo",
+      "médio-orientalíssimos"
+    ]
+  },
+  "mediodorsal": {
+    "H": [
+      "mediodorsalíssima",
+      "mediodorsalissimamente",
+      "mediodorsalíssimas",
+      "mediodorsalíssimo",
+      "mediodorsalíssimos"
+    ]
+  },
+  "mediofrontal": {
+    "H": [
+      "mediofrontalíssima",
+      "mediofrontalissimamente",
+      "mediofrontalíssimas",
+      "mediofrontalíssimo",
+      "mediofrontalíssimos"
+    ]
+  },
+  "mediopalatal": {
+    "H": [
+      "mediopalatalíssima",
+      "mediopalatalissimamente",
+      "mediopalatalíssimas",
+      "mediopalatalíssimo",
+      "mediopalatalíssimos"
+    ]
+  },
+  "mediotarsal": {
+    "H": [
+      "mediotarsalíssima",
+      "mediotarsalissimamente",
+      "mediotarsalíssimas",
+      "mediotarsalíssimo",
+      "mediotarsalíssimos"
+    ]
+  },
+  "medioventral": {
+    "H": [
+      "medioventralíssima",
+      "medioventralissimamente",
+      "medioventralíssimas",
+      "medioventralíssimo",
+      "medioventralíssimos"
+    ]
+  },
+  "meditável": {
+    "I": [
+      "meditabilíssima",
+      "meditabilissimamente",
+      "meditabilíssimas",
+      "meditabilíssimo",
+      "meditabilíssimos"
+    ]
+  },
+  "meditrinal": {
+    "H": [
+      "meditrinalíssima",
+      "meditrinalissimamente",
+      "meditrinalíssimas",
+      "meditrinalíssimo",
+      "meditrinalíssimos"
+    ]
+  },
+  "medrançoso": {
+    "H": [
+      "medrançosíssima",
+      "medrançosissimamente",
+      "medrançosíssimas",
+      "medrançosíssimo",
+      "medrançosíssimos"
+    ]
+  },
+  "medronhal": {
+    "H": [
+      "medronhalíssima",
+      "medronhalissimamente",
+      "medronhalíssimas",
+      "medronhalíssimo",
+      "medronhalíssimos"
+    ]
+  },
+  "medroso": {
+    "H": [
+      "medrosíssima",
+      "medrosissimamente",
+      "medrosíssimas",
+      "medrosíssimo",
+      "medrosíssimos"
+    ],
+    "Â+H": [
+      "desmedrosíssima",
+      "desmedrosissimamente",
+      "desmedrosíssimas",
+      "desmedrosíssimo",
+      "desmedrosíssimos"
+    ],
+    "Ì+H": [
+      "supermedrosíssima",
+      "supermedrosissimamente",
+      "supermedrosíssimas",
+      "supermedrosíssimo",
+      "supermedrosíssimos"
+    ]
+  },
+  "meduloso": {
+    "H": [
+      "medulosíssima",
+      "medulosissimamente",
+      "medulosíssimas",
+      "medulosíssimo",
+      "medulosíssimos"
+    ]
+  },
+  "medusandral": {
+    "H": [
+      "medusandralíssima",
+      "medusandralissimamente",
+      "medusandralíssimas",
+      "medusandralíssimo",
+      "medusandralíssimos"
+    ]
+  },
+  "megafenocristal": {
+    "H": [
+      "megafenocristalíssima",
+      "megafenocristalissimamente",
+      "megafenocristalíssimas",
+      "megafenocristalíssimo",
+      "megafenocristalíssimos"
+    ]
+  },
+  "meigoso": {
+    "H": [
+      "meigosíssima",
+      "meigosissimamente",
+      "meigosíssimas",
+      "meigosíssimo",
+      "meigosíssimos"
+    ]
+  },
+  "melancial": {
+    "H": [
+      "melancialíssima",
+      "melancialissimamente",
+      "melancialíssimas",
+      "melancialíssimo",
+      "melancialíssimos"
+    ]
+  },
+  "melanconial": {
+    "H": [
+      "melanconialíssima",
+      "melanconialissimamente",
+      "melanconialíssimas",
+      "melanconialíssimo",
+      "melanconialíssimos"
+    ]
+  },
+  "melhorável": {
+    "I": [
+      "melhorabilíssima",
+      "melhorabilissimamente",
+      "melhorabilíssimas",
+      "melhorabilíssimo",
+      "melhorabilíssimos"
+    ],
+    "Â+I": [
+      "desmelhorabilíssima",
+      "desmelhorabilissimamente",
+      "desmelhorabilíssimas",
+      "desmelhorabilíssimo",
+      "desmelhorabilíssimos"
+    ]
+  },
+  "melificável": {
+    "I": [
+      "melificabilíssima",
+      "melificabilissimamente",
+      "melificabilíssimas",
+      "melificabilíssimo",
+      "melificabilíssimos"
+    ]
+  },
+  "melindrável": {
+    "I": [
+      "melindrabilíssima",
+      "melindrabilissimamente",
+      "melindrabilíssimas",
+      "melindrabilíssimo",
+      "melindrabilíssimos"
+    ],
+    "Â+I": [
+      "desmelindrabilíssima",
+      "desmelindrabilissimamente",
+      "desmelindrabilíssimas",
+      "desmelindrabilíssimo",
+      "desmelindrabilíssimos"
+    ]
+  },
+  "melindroso": {
+    "H": [
+      "melindrosíssima",
+      "melindrosissimamente",
+      "melindrosíssimas",
+      "melindrosíssimo",
+      "melindrosíssimos"
+    ]
+  },
+  "melodioso": {
+    "H": [
+      "melodiosíssima",
+      "melodiosissimamente",
+      "melodiosíssimas",
+      "melodiosíssimo",
+      "melodiosíssimos"
+    ]
+  },
+  "melodizável": {
+    "I": [
+      "melodizabilíssima",
+      "melodizabilissimamente",
+      "melodizabilíssimas",
+      "melodizabilíssimo",
+      "melodizabilíssimos"
+    ]
+  },
+  "meloso": {
+    "H": [
+      "melosíssima",
+      "melosissimamente",
+      "melosíssimas",
+      "melosíssimo",
+      "melosíssimos"
+    ],
+    "À+H": [
+      "remelosíssima",
+      "remelosissimamente",
+      "remelosíssimas",
+      "remelosíssimo",
+      "remelosíssimos"
+    ]
+  },
+  "membranocartilaginoso": {
+    "H": [
+      "membranocartilaginosíssima",
+      "membranocartilaginosissimamente",
+      "membranocartilaginosíssimas",
+      "membranocartilaginosíssimo",
+      "membranocartilaginosíssimos"
+    ]
+  },
+  "membranonervoso": {
+    "H": [
+      "membranonervosíssima",
+      "membranonervosissimamente",
+      "membranonervosíssimas",
+      "membranonervosíssimo",
+      "membranonervosíssimos"
+    ]
+  },
+  "membranoso": {
+    "H": [
+      "membranosíssima",
+      "membranosissimamente",
+      "membranosíssimas",
+      "membranosíssimo",
+      "membranosíssimos"
+    ],
+    "È+H": [
+      "submembranosíssima",
+      "submembranosissimamente",
+      "submembranosíssimas",
+      "submembranosíssimo",
+      "submembranosíssimos"
+    ],
+    "Ú+H": [
+      "pseudomembranosíssima",
+      "pseudomembranosissimamente",
+      "pseudomembranosíssimas",
+      "pseudomembranosíssimo",
+      "pseudomembranosíssimos"
+    ],
+    "Ü+H": [
+      "semimembranosíssima",
+      "semimembranosissimamente",
+      "semimembranosíssimas",
+      "semimembranosíssimo",
+      "semimembranosíssimos"
+    ]
+  },
+  "memorável": {
+    "I": [
+      "memorabilíssima",
+      "memorabilissimamente",
+      "memorabilíssimas",
+      "memorabilíssimo",
+      "memorabilíssimos"
+    ],
+    "À+I": [
+      "rememorabilíssima",
+      "rememorabilissimamente",
+      "rememorabilíssimas",
+      "rememorabilíssimo",
+      "rememorabilíssimos"
+    ],
+    "Ñ+I": [
+      "comemorabilíssima",
+      "comemorabilissimamente",
+      "comemorabilíssimas",
+      "comemorabilíssimo",
+      "comemorabilíssimos"
+    ]
+  },
+  "memorial": {
+    "H": [
+      "memorialíssima",
+      "memorialissimamente",
+      "memorialíssimas",
+      "memorialíssimo",
+      "memorialíssimos"
+    ]
+  },
+  "memoriável": {
+    "I": [
+      "memoriabilíssima",
+      "memoriabilissimamente",
+      "memoriabilíssimas",
+      "memoriabilíssimo",
+      "memoriabilíssimos"
+    ]
+  },
+  "memorioso": {
+    "H": [
+      "memoriosíssima",
+      "memoriosissimamente",
+      "memoriosíssimas",
+      "memoriosíssimo",
+      "memoriosíssimos"
+    ]
+  },
+  "memorizável": {
+    "I": [
+      "memorizabilíssima",
+      "memorizabilissimamente",
+      "memorizabilíssimas",
+      "memorizabilíssimo",
+      "memorizabilíssimos"
+    ]
+  },
+  "memoroso": {
+    "H": [
+      "memorosíssima",
+      "memorosissimamente",
+      "memorosíssimas",
+      "memorosíssimo",
+      "memorosíssimos"
+    ]
+  },
+  "mencionável": {
+    "I": [
+      "mencionabilíssima",
+      "mencionabilissimamente",
+      "mencionabilíssimas",
+      "mencionabilíssimo",
+      "mencionabilíssimos"
+    ]
+  },
+  "mendacioso": {
+    "H": [
+      "mendaciosíssima",
+      "mendaciosissimamente",
+      "mendaciosíssimas",
+      "mendaciosíssimo",
+      "mendaciosíssimos"
+    ]
+  },
+  "mendaco": {
+    "H": [
+      "mendacíssima",
+      "mendacissimamente",
+      "mendacíssimas",
+      "mendacíssimo",
+      "mendacíssimos"
+    ]
+  },
+  "mendicável": {
+    "I": [
+      "mendicabilíssima",
+      "mendicabilissimamente",
+      "mendicabilíssimas",
+      "mendicabilíssimo",
+      "mendicabilíssimos"
+    ]
+  },
+  "mendigável": {
+    "I": [
+      "mendigabilíssima",
+      "mendigabilissimamente",
+      "mendigabilíssimas",
+      "mendigabilíssimo",
+      "mendigabilíssimos"
+    ]
+  },
+  "mendoso": {
+    "H": [
+      "mendosíssima",
+      "mendosissimamente",
+      "mendosíssimas",
+      "mendosíssimo",
+      "mendosíssimos"
+    ]
+  },
+  "meneável": {
+    "I": [
+      "meneabilíssima",
+      "meneabilissimamente",
+      "meneabilíssimas",
+      "meneabilíssimo",
+      "meneabilíssimos"
+    ]
+  },
+  "meningospinal": {
+    "H": [
+      "meningospinalíssima",
+      "meningospinalissimamente",
+      "meningospinalíssimas",
+      "meningospinalíssimo",
+      "meningospinalíssimos"
+    ]
+  },
+  "meningospinhal": {
+    "H": [
+      "meningospinhalíssima",
+      "meningospinhalissimamente",
+      "meningospinhalíssimas",
+      "meningospinhalíssimo",
+      "meningospinhalíssimos"
+    ]
+  },
+  "menopausal": {
+    "H": [
+      "menopausalíssima",
+      "menopausalissimamente",
+      "menopausalíssimas",
+      "menopausalíssimo",
+      "menopausalíssimos"
+    ]
+  },
+  "menoscabável": {
+    "I": [
+      "menoscababilíssima",
+      "menoscababilissimamente",
+      "menoscababilíssimas",
+      "menoscababilíssimo",
+      "menoscababilíssimos"
+    ]
+  },
+  "menosprezável": {
+    "I": [
+      "menosprezabilíssima",
+      "menosprezabilissimamente",
+      "menosprezabilíssimas",
+      "menosprezabilíssimo",
+      "menosprezabilíssimos"
+    ]
+  },
+  "mensal": {
+    "H": [
+      "mensalíssima",
+      "mensalissimamente",
+      "mensalíssimas",
+      "mensalíssimo",
+      "mensalíssimos"
+    ],
+    "Ñ+H": [
+      "comensalíssima",
+      "comensalissimamente",
+      "comensalíssimas",
+      "comensalíssimo",
+      "comensalíssimos"
+    ],
+    "ò+H": [
+      "amensalíssima",
+      "amensalissimamente",
+      "amensalíssimas",
+      "amensalíssimo",
+      "amensalíssimos"
+    ],
+    "Ü+H": [
+      "semimensalíssima",
+      "semimensalissimamente",
+      "semimensalíssimas",
+      "semimensalíssimo",
+      "semimensalíssimos"
+    ]
+  },
+  "menstrual": {
+    "H": [
+      "menstrualíssima",
+      "menstrualissimamente",
+      "menstrualíssimas",
+      "menstrualíssimo",
+      "menstrualíssimos"
+    ],
+    "Í+H": [
+      "intermenstrualíssima",
+      "intermenstrualissimamente",
+      "intermenstrualíssimas",
+      "intermenstrualíssimo",
+      "intermenstrualíssimos"
+    ],
+    "ú+H": [
+      "pré-menstrualíssima",
+      "pré-menstrualissimamente",
+      "pré-menstrualíssimas",
+      "pré-menstrualíssimo",
+      "pré-menstrualíssimos"
+    ]
+  },
+  "mensual": {
+    "H": [
+      "mensualíssima",
+      "mensualissimamente",
+      "mensualíssimas",
+      "mensualíssimo",
+      "mensualíssimos"
+    ]
+  },
+  "mensural": {
+    "H": [
+      "mensuralíssima",
+      "mensuralissimamente",
+      "mensuralíssimas",
+      "mensuralíssimo",
+      "mensuralíssimos"
+    ]
+  },
+  "mensurável": {
+    "I": [
+      "mensurabilíssima",
+      "mensurabilissimamente",
+      "mensurabilíssimas",
+      "mensurabilíssimo",
+      "mensurabilíssimos"
+    ],
+    "Â+I": [
+      "desmensurabilíssima",
+      "desmensurabilissimamente",
+      "desmensurabilíssimas",
+      "desmensurabilíssimo",
+      "desmensurabilíssimos"
+    ],
+    "Ñ+I": [
+      "comensurabilíssima",
+      "comensurabilissimamente",
+      "comensurabilíssimas",
+      "comensurabilíssimo",
+      "comensurabilíssimos"
+    ]
+  },
+  "mental": {
+    "H": [
+      "mentalíssima",
+      "mentalissimamente",
+      "mentalíssimas",
+      "mentalíssimo",
+      "mentalíssimos"
+    ],
+    "È+H": [
+      "submentalíssima",
+      "submentalissimamente",
+      "submentalíssimas",
+      "submentalíssimo",
+      "submentalíssimos"
+    ],
+    "î+H": [
+      "transmentalíssima",
+      "transmentalissimamente",
+      "transmentalíssimas",
+      "transmentalíssimo",
+      "transmentalíssimos"
+    ],
+    "Ö+H": [
+      "intramentalíssima",
+      "intramentalissimamente",
+      "intramentalíssimas",
+      "intramentalíssimo",
+      "intramentalíssimos"
+    ]
+  },
+  "mentalizável": {
+    "I": [
+      "mentalizabilíssima",
+      "mentalizabilissimamente",
+      "mentalizabilíssimas",
+      "mentalizabilíssimo",
+      "mentalizabilíssimos"
+    ]
+  },
+  "mentável": {
+    "I": [
+      "mentabilíssima",
+      "mentabilissimamente",
+      "mentabilíssimas",
+      "mentabilíssimo",
+      "mentabilíssimos"
+    ],
+    "Ñ+I": [
+      "comentabilíssima",
+      "comentabilissimamente",
+      "comentabilíssimas",
+      "comentabilíssimo",
+      "comentabilíssimos"
+    ]
+  },
+  "mentiroso": {
+    "H": [
+      "mentirosíssima",
+      "mentirosissimamente",
+      "mentirosíssimas",
+      "mentirosíssimo",
+      "mentirosíssimos"
+    ]
+  },
+  "mentível": {
+    "I": [
+      "mentibilíssima",
+      "mentibilissimamente",
+      "mentibilíssimas",
+      "mentibilíssimo",
+      "mentibilíssimos"
+    ],
+    "Â+I": [
+      "desmentibilíssima",
+      "desmentibilissimamente",
+      "desmentibilíssimas",
+      "desmentibilíssimo",
+      "desmentibilíssimos"
+    ]
+  },
+  "mentolabial": {
+    "H": [
+      "mentolabialíssima",
+      "mentolabialissimamente",
+      "mentolabialíssimas",
+      "mentolabialíssimo",
+      "mentolabialíssimos"
+    ]
+  },
+  "mercadejável": {
+    "I": [
+      "mercadejabilíssima",
+      "mercadejabilissimamente",
+      "mercadejabilíssimas",
+      "mercadejabilíssimo",
+      "mercadejabilíssimos"
+    ]
+  },
+  "mercadizável": {
+    "I": [
+      "mercadizabilíssima",
+      "mercadizabilissimamente",
+      "mercadizabilíssimas",
+      "mercadizabilíssimo",
+      "mercadizabilíssimos"
+    ]
+  },
+  "mercantil": {
+    "H": [
+      "mercantilíssima",
+      "mercantilissimamente",
+      "mercantilíssimas",
+      "mercantilíssimo",
+      "mercantilíssimos"
+    ],
+    "Ô+H": [
+      "extramercantilíssima",
+      "extramercantilissimamente",
+      "extramercantilíssimas",
+      "extramercantilíssimo",
+      "extramercantilíssimos"
+    ]
+  },
+  "mercantilizável": {
+    "I": [
+      "mercantilizabilíssima",
+      "mercantilizabilissimamente",
+      "mercantilizabilíssimas",
+      "mercantilizabilíssimo",
+      "mercantilizabilíssimos"
+    ]
+  },
+  "mercaptal": {
+    "H": [
+      "mercaptalíssima",
+      "mercaptalissimamente",
+      "mercaptalíssimas",
+      "mercaptalíssimo",
+      "mercaptalíssimos"
+    ]
+  },
+  "mercável": {
+    "I": [
+      "mercabilíssima",
+      "mercabilissimamente",
+      "mercabilíssimas",
+      "mercabilíssimo",
+      "mercabilíssimos"
+    ]
+  },
+  "merceeiral": {
+    "H": [
+      "merceeiralíssima",
+      "merceeiralissimamente",
+      "merceeiralíssimas",
+      "merceeiralíssimo",
+      "merceeiralíssimos"
+    ]
+  },
+  "mercurial": {
+    "H": [
+      "mercurialíssima",
+      "mercurialissimamente",
+      "mercurialíssimas",
+      "mercurialíssimo",
+      "mercurialíssimos"
+    ],
+    "Ö+H": [
+      "intramercurialíssima",
+      "intramercurialissimamente",
+      "intramercurialíssimas",
+      "intramercurialíssimo",
+      "intramercurialíssimos"
+    ]
+  },
+  "mercurioso": {
+    "H": [
+      "mercuriosíssima",
+      "mercuriosissimamente",
+      "mercuriosíssimas",
+      "mercuriosíssimo",
+      "mercuriosíssimos"
+    ]
+  },
+  "mercuroso": {
+    "H": [
+      "mercurosíssima",
+      "mercurosissimamente",
+      "mercurosíssimas",
+      "mercurosíssimo",
+      "mercurosíssimos"
+    ]
+  },
+  "merdoso": {
+    "H": [
+      "merdosíssima",
+      "merdosissimamente",
+      "merdosíssimas",
+      "merdosíssimo",
+      "merdosíssimos"
+    ]
+  },
+  "meretricável": {
+    "I": [
+      "meretricabilíssima",
+      "meretricabilissimamente",
+      "meretricabilíssimas",
+      "meretricabilíssimo",
+      "meretricabilíssimos"
+    ]
+  },
+  "mergulhável": {
+    "I": [
+      "mergulhabilíssima",
+      "mergulhabilissimamente",
+      "mergulhabilíssimas",
+      "mergulhabilíssimo",
+      "mergulhabilíssimos"
+    ]
+  },
+  "meridional": {
+    "H": [
+      "meridionalíssima",
+      "meridionalissimamente",
+      "meridionalíssimas",
+      "meridionalíssimo",
+      "meridionalíssimos"
+    ]
+  },
+  "meritoso": {
+    "H": [
+      "meritosíssima",
+      "meritosissimamente",
+      "meritosíssimas",
+      "meritosíssimo",
+      "meritosíssimos"
+    ]
+  },
+  "mesangial": {
+    "H": [
+      "mesangialíssima",
+      "mesangialissimamente",
+      "mesangialíssimas",
+      "mesangialíssimo",
+      "mesangialíssimos"
+    ]
+  },
+  "mescal": {
+    "H": [
+      "mescalíssima",
+      "mescalissimamente",
+      "mescalíssimas",
+      "mescalíssimo",
+      "mescalíssimos"
+    ]
+  },
+  "mesenquimal": {
+    "H": [
+      "mesenquimalíssima",
+      "mesenquimalissimamente",
+      "mesenquimalíssimas",
+      "mesenquimalíssimo",
+      "mesenquimalíssimos"
+    ]
+  },
+  "mesenquimatoso": {
+    "H": [
+      "mesenquimatosíssima",
+      "mesenquimatosissimamente",
+      "mesenquimatosíssimas",
+      "mesenquimatosíssimo",
+      "mesenquimatosíssimos"
+    ]
+  },
+  "mesileocecal": {
+    "H": [
+      "mesileocecalíssima",
+      "mesileocecalissimamente",
+      "mesileocecalíssimas",
+      "mesileocecalíssimo",
+      "mesileocecalíssimos"
+    ]
+  },
+  "mesmerizável": {
+    "I": [
+      "mesmerizabilíssima",
+      "mesmerizabilissimamente",
+      "mesmerizabilíssimas",
+      "mesmerizabilíssimo",
+      "mesmerizabilíssimos"
+    ],
+    "Â+I": [
+      "desmesmerizabilíssima",
+      "desmesmerizabilissimamente",
+      "desmesmerizabilíssimas",
+      "desmesmerizabilíssimo",
+      "desmesmerizabilíssimos"
+    ]
+  },
+  "mesmo": {
+    "H": [
+      "mesmíssima",
+      "mesmissimamente",
+      "mesmíssimas",
+      "mesmíssimo",
+      "mesmíssimos"
+    ]
+  },
+  "mesocarpal": {
+    "H": [
+      "mesocarpalíssima",
+      "mesocarpalissimamente",
+      "mesocarpalíssimas",
+      "mesocarpalíssimo",
+      "mesocarpalíssimos"
+    ]
+  },
+  "mesocarpial": {
+    "H": [
+      "mesocarpialíssima",
+      "mesocarpialissimamente",
+      "mesocarpialíssimas",
+      "mesocarpialíssimo",
+      "mesocarpialíssimos"
+    ]
+  },
+  "mesodiscal": {
+    "H": [
+      "mesodiscalíssima",
+      "mesodiscalissimamente",
+      "mesodiscalíssimas",
+      "mesodiscalíssimo",
+      "mesodiscalíssimos"
+    ]
+  },
+  "mesofalangeal": {
+    "H": [
+      "mesofalangealíssima",
+      "mesofalangealissimamente",
+      "mesofalangealíssimas",
+      "mesofalangealíssimo",
+      "mesofalangealíssimos"
+    ]
+  },
+  "mesoileocecal": {
+    "H": [
+      "mesoileocecalíssima",
+      "mesoileocecalissimamente",
+      "mesoileocecalíssimas",
+      "mesoileocecalíssimo",
+      "mesoileocecalíssimos"
+    ]
+  },
+  "mesoinosital": {
+    "H": [
+      "mesoinositalíssima",
+      "mesoinositalissimamente",
+      "mesoinositalíssimas",
+      "mesoinositalíssimo",
+      "mesoinositalíssimos"
+    ]
+  },
+  "mesometasternal": {
+    "H": [
+      "mesometasternalíssima",
+      "mesometasternalissimamente",
+      "mesometasternalíssimas",
+      "mesometasternalíssimo",
+      "mesometasternalíssimos"
+    ]
+  },
+  "mesopodial": {
+    "H": [
+      "mesopodialíssima",
+      "mesopodialissimamente",
+      "mesopodialíssimas",
+      "mesopodialíssimo",
+      "mesopodialíssimos"
+    ]
+  },
+  "mesorregional": {
+    "H": [
+      "mesorregionalíssima",
+      "mesorregionalissimamente",
+      "mesorregionalíssimas",
+      "mesorregionalíssimo",
+      "mesorregionalíssimos"
+    ]
+  },
+  "mesosternal": {
+    "H": [
+      "mesosternalíssima",
+      "mesosternalissimamente",
+      "mesosternalíssimas",
+      "mesosternalíssimo",
+      "mesosternalíssimos"
+    ],
+    "Û+H": [
+      "promesosternalíssima",
+      "promesosternalissimamente",
+      "promesosternalíssimas",
+      "promesosternalíssimo",
+      "promesosternalíssimos"
+    ]
+  },
+  "mesotermal": {
+    "H": [
+      "mesotermalíssima",
+      "mesotermalissimamente",
+      "mesotermalíssimas",
+      "mesotermalíssimo",
+      "mesotermalíssimos"
+    ]
+  },
+  "mesozonal": {
+    "H": [
+      "mesozonalíssima",
+      "mesozonalissimamente",
+      "mesozonalíssimas",
+      "mesozonalíssimo",
+      "mesozonalíssimos"
+    ]
+  },
+  "mesteiral": {
+    "H": [
+      "mesteiralíssima",
+      "mesteiralissimamente",
+      "mesteiralíssimas",
+      "mesteiralíssimo",
+      "mesteiralíssimos"
+    ]
+  },
+  "mesteiroso": {
+    "H": [
+      "mesteirosíssima",
+      "mesteirosissimamente",
+      "mesteirosíssimas",
+      "mesteirosíssimo",
+      "mesteirosíssimos"
+    ]
+  },
+  "mestiçável": {
+    "I": [
+      "mestiçabilíssima",
+      "mestiçabilissimamente",
+      "mestiçabilíssimas",
+      "mestiçabilíssimo",
+      "mestiçabilíssimos"
+    ]
+  },
+  "mestre": {
+    "H": [
+      "mestríssima",
+      "mestrissimamente",
+      "mestríssimas",
+      "mestríssimo",
+      "mestríssimos"
+    ],
+    "Ó+H": [
+      "contramestríssima",
+      "contramestrissimamente",
+      "contramestríssimas",
+      "contramestríssimo",
+      "contramestríssimos"
+    ]
+  },
+  "mestrioso": {
+    "H": [
+      "mestriosíssima",
+      "mestriosissimamente",
+      "mestriosíssimas",
+      "mestriosíssimo",
+      "mestriosíssimos"
+    ]
+  },
+  "metabarbital": {
+    "H": [
+      "metabarbitalíssima",
+      "metabarbitalissimamente",
+      "metabarbitalíssimas",
+      "metabarbitalíssimo",
+      "metabarbitalíssimos"
+    ]
+  },
+  "metabolizável": {
+    "I": [
+      "metabolizabilíssima",
+      "metabolizabilissimamente",
+      "metabolizabilíssimas",
+      "metabolizabilíssimo",
+      "metabolizabilíssimos"
+    ]
+  },
+  "metacarpal": {
+    "H": [
+      "metacarpalíssima",
+      "metacarpalissimamente",
+      "metacarpalíssimas",
+      "metacarpalíssimo",
+      "metacarpalíssimos"
+    ]
+  },
+  "metacarpial": {
+    "H": [
+      "metacarpialíssima",
+      "metacarpialissimamente",
+      "metacarpialíssimas",
+      "metacarpialíssimo",
+      "metacarpialíssimos"
+    ]
+  },
+  "metacarpodigital": {
+    "H": [
+      "metacarpodigitalíssima",
+      "metacarpodigitalissimamente",
+      "metacarpodigitalíssimas",
+      "metacarpodigitalíssimo",
+      "metacarpodigitalíssimos"
+    ]
+  },
+  "metacomunicável": {
+    "I": [
+      "metacomunicabilíssima",
+      "metacomunicabilissimamente",
+      "metacomunicabilíssimas",
+      "metacomunicabilíssimo",
+      "metacomunicabilíssimos"
+    ]
+  },
+  "metaconglomerável": {
+    "I": [
+      "metaconglomerabilíssima",
+      "metaconglomerabilissimamente",
+      "metaconglomerabilíssimas",
+      "metaconglomerabilíssimo",
+      "metaconglomerabilíssimos"
+    ]
+  },
+  "metacristal": {
+    "H": [
+      "metacristalíssima",
+      "metacristalissimamente",
+      "metacristalíssimas",
+      "metacristalíssimo",
+      "metacristalíssimos"
+    ]
+  },
+  "metaestável": {
+    "I": [
+      "metaestabilíssima",
+      "metaestabilissimamente",
+      "metaestabilíssimas",
+      "metaestabilíssimo",
+      "metaestabilíssimos"
+    ]
+  },
+  "metafalangeal": {
+    "H": [
+      "metafalangealíssima",
+      "metafalangealissimamente",
+      "metafalangealíssimas",
+      "metafalangealíssimo",
+      "metafalangealíssimos"
+    ]
+  },
+  "metaficional": {
+    "H": [
+      "metaficionalíssima",
+      "metaficionalissimamente",
+      "metaficionalíssimas",
+      "metaficionalíssimo",
+      "metaficionalíssimos"
+    ]
+  },
+  "metaforizável": {
+    "I": [
+      "metaforizabilíssima",
+      "metaforizabilissimamente",
+      "metaforizabilíssimas",
+      "metaforizabilíssimo",
+      "metaforizabilíssimos"
+    ]
+  },
+  "metalegal": {
+    "H": [
+      "metalegalíssima",
+      "metalegalissimamente",
+      "metalegalíssimas",
+      "metalegalíssimo",
+      "metalegalíssimos"
+    ]
+  },
+  "metalificável": {
+    "I": [
+      "metalificabilíssima",
+      "metalificabilissimamente",
+      "metalificabilíssimas",
+      "metalificabilíssimo",
+      "metalificabilíssimos"
+    ]
+  },
+  "metalizável": {
+    "I": [
+      "metalizabilíssima",
+      "metalizabilissimamente",
+      "metalizabilíssimas",
+      "metalizabilíssimo",
+      "metalizabilíssimos"
+    ],
+    "Â+I": [
+      "desmetalizabilíssima",
+      "desmetalizabilissimamente",
+      "desmetalizabilíssimas",
+      "desmetalizabilíssimo",
+      "desmetalizabilíssimos"
+    ]
+  },
+  "metamoral": {
+    "H": [
+      "metamoralíssima",
+      "metamoralissimamente",
+      "metamoralíssimas",
+      "metamoralíssimo",
+      "metamoralíssimos"
+    ]
+  },
+  "metamorfizável": {
+    "I": [
+      "metamorfizabilíssima",
+      "metamorfizabilissimamente",
+      "metamorfizabilíssimas",
+      "metamorfizabilíssimo",
+      "metamorfizabilíssimos"
+    ]
+  },
+  "metapleural": {
+    "H": [
+      "metapleuralíssima",
+      "metapleuralissimamente",
+      "metapleuralíssimas",
+      "metapleuralíssimo",
+      "metapleuralíssimos"
+    ]
+  },
+  "metarbital": {
+    "H": [
+      "metarbitalíssima",
+      "metarbitalissimamente",
+      "metarbitalíssimas",
+      "metarbitalíssimo",
+      "metarbitalíssimos"
+    ]
+  },
+  "metassedimentável": {
+    "I": [
+      "metassedimentabilíssima",
+      "metassedimentabilissimamente",
+      "metassedimentabilíssimas",
+      "metassedimentabilíssimo",
+      "metassedimentabilíssimos"
+    ]
+  },
+  "metastável": {
+    "I": [
+      "metastabilíssima",
+      "metastabilissimamente",
+      "metastabilíssimas",
+      "metastabilíssimo",
+      "metastabilíssimos"
+    ]
+  },
+  "metasternal": {
+    "H": [
+      "metasternalíssima",
+      "metasternalissimamente",
+      "metasternalíssimas",
+      "metasternalíssimo",
+      "metasternalíssimos"
+    ]
+  },
+  "metatarsal": {
+    "H": [
+      "metatarsalíssima",
+      "metatarsalissimamente",
+      "metatarsalíssimas",
+      "metatarsalíssimo",
+      "metatarsalíssimos"
+    ]
+  },
+  "metaumbilical": {
+    "H": [
+      "metaumbilicalíssima",
+      "metaumbilicalissimamente",
+      "metaumbilicalíssimas",
+      "metaumbilicalíssimo",
+      "metaumbilicalíssimos"
+    ]
+  },
+  "meticuloso": {
+    "H": [
+      "meticulosíssima",
+      "meticulosissimamente",
+      "meticulosíssimas",
+      "meticulosíssimo",
+      "meticulosíssimos"
+    ]
+  },
+  "metilável": {
+    "I": [
+      "metilabilíssima",
+      "metilabilissimamente",
+      "metilabilíssimas",
+      "metilabilíssimo",
+      "metilabilíssimos"
+    ]
+  },
+  "metilfenobarbital": {
+    "H": [
+      "metilfenobarbitalíssima",
+      "metilfenobarbitalissimamente",
+      "metilfenobarbitalíssimas",
+      "metilfenobarbitalíssimo",
+      "metilfenobarbitalíssimos"
+    ]
+  },
+  "metilglioxal": {
+    "H": [
+      "metilglioxalíssima",
+      "metilglioxalissimamente",
+      "metilglioxalíssimas",
+      "metilglioxalíssimo",
+      "metilglioxalíssimos"
+    ]
+  },
+  "metilpentanal": {
+    "H": [
+      "metilpentanalíssima",
+      "metilpentanalissimamente",
+      "metilpentanalíssimas",
+      "metilpentanalíssimo",
+      "metilpentanalíssimos"
+    ]
+  },
+  "metilsulfonal": {
+    "H": [
+      "metilsulfonalíssima",
+      "metilsulfonalissimamente",
+      "metilsulfonalíssimas",
+      "metilsulfonalíssimo",
+      "metilsulfonalíssimos"
+    ]
+  },
+  "metitural": {
+    "H": [
+      "metituralíssima",
+      "metituralissimamente",
+      "metituralíssimas",
+      "metituralíssimo",
+      "metituralíssimos"
+    ]
+  },
+  "metodizável": {
+    "I": [
+      "metodizabilíssima",
+      "metodizabilissimamente",
+      "metodizabilíssimas",
+      "metodizabilíssimo",
+      "metodizabilíssimos"
+    ],
+    "Â+I": [
+      "desmetodizabilíssima",
+      "desmetodizabilissimamente",
+      "desmetodizabilíssimas",
+      "desmetodizabilíssimo",
+      "desmetodizabilíssimos"
+    ]
+  },
+  "metoexital": {
+    "H": [
+      "metoexitalíssima",
+      "metoexitalissimamente",
+      "metoexitalíssimas",
+      "metoexitalíssimo",
+      "metoexitalíssimos"
+    ]
+  },
+  "metralhável": {
+    "I": [
+      "metralhabilíssima",
+      "metralhabilissimamente",
+      "metralhabilíssimas",
+      "metralhabilíssimo",
+      "metralhabilíssimos"
+    ]
+  },
+  "metrificável": {
+    "I": [
+      "metrificabilíssima",
+      "metrificabilissimamente",
+      "metrificabilíssimas",
+      "metrificabilíssimo",
+      "metrificabilíssimos"
+    ]
+  },
+  "metrizável": {
+    "I": [
+      "metrizabilíssima",
+      "metrizabilissimamente",
+      "metrizabilíssimas",
+      "metrizabilíssimo",
+      "metrizabilíssimos"
+    ]
+  },
+  "metrocistografável": {
+    "I": [
+      "metrocistografabilíssima",
+      "metrocistografabilissimamente",
+      "metrocistografabilíssimas",
+      "metrocistografabilíssimo",
+      "metrocistografabilíssimos"
+    ]
+  },
+  "metropolizável": {
+    "I": [
+      "metropolizabilíssima",
+      "metropolizabilissimamente",
+      "metropolizabilíssimas",
+      "metropolizabilíssimo",
+      "metropolizabilíssimos"
+    ]
+  },
+  "metrossexual": {
+    "H": [
+      "metrossexualíssima",
+      "metrossexualissimamente",
+      "metrossexualíssimas",
+      "metrossexualíssimo",
+      "metrossexualíssimos"
+    ]
+  },
+  "metumbilical": {
+    "H": [
+      "metumbilicalíssima",
+      "metumbilicalissimamente",
+      "metumbilicalíssimas",
+      "metumbilicalíssimo",
+      "metumbilicalíssimos"
+    ]
+  },
+  "mexível": {
+    "I": [
+      "mexibilíssima",
+      "mexibilissimamente",
+      "mexibilíssimas",
+      "mexibilíssimo",
+      "mexibilíssimos"
+    ],
+    "Ä+I": [
+      "imexibilíssima",
+      "imexibilissimamente",
+      "imexibilíssimas",
+      "imexibilíssimo",
+      "imexibilíssimos"
+    ]
+  },
+  "micasquistoso": {
+    "H": [
+      "micasquistosíssima",
+      "micasquistosissimamente",
+      "micasquistosíssimas",
+      "micasquistosíssimo",
+      "micasquistosíssimos"
+    ]
+  },
+  "micaxistoso": {
+    "H": [
+      "micaxistosíssima",
+      "micaxistosissimamente",
+      "micaxistosíssimas",
+      "micaxistosíssimo",
+      "micaxistosíssimos"
+    ]
+  },
+  "miccional": {
+    "H": [
+      "miccionalíssima",
+      "miccionalissimamente",
+      "miccionalíssimas",
+      "miccionalíssimo",
+      "miccionalíssimos"
+    ]
+  },
+  "micelial": {
+    "H": [
+      "micelialíssima",
+      "micelialissimamente",
+      "micelialíssimas",
+      "micelialíssimo",
+      "micelialíssimos"
+    ]
+  },
+  "micorrizal": {
+    "H": [
+      "micorrizalíssima",
+      "micorrizalissimamente",
+      "micorrizalíssimas",
+      "micorrizalíssimo",
+      "micorrizalíssimos"
+    ]
+  },
+  "micracidental": {
+    "H": [
+      "micracidentalíssima",
+      "micracidentalissimamente",
+      "micracidentalíssimas",
+      "micracidentalíssimo",
+      "micracidentalíssimos"
+    ]
+  },
+  "micrarquitetural": {
+    "H": [
+      "micrarquiteturalíssima",
+      "micrarquiteturalissimamente",
+      "micrarquiteturalíssimas",
+      "micrarquiteturalíssimo",
+      "micrarquiteturalíssimos"
+    ]
+  },
+  "micreducacional": {
+    "H": [
+      "micreducacionalíssima",
+      "micreducacionalissimamente",
+      "micreducacionalíssimas",
+      "micreducacionalíssimo",
+      "micreducacionalíssimos"
+    ]
+  },
+  "micrestrutural": {
+    "H": [
+      "micrestruturalíssima",
+      "micrestruturalissimamente",
+      "micrestruturalíssimas",
+      "micrestruturalíssimo",
+      "micrestruturalíssimos"
+    ]
+  },
+  "microbial": {
+    "H": [
+      "microbialíssima",
+      "microbialissimamente",
+      "microbialíssimas",
+      "microbialíssimo",
+      "microbialíssimos"
+    ]
+  },
+  "microfossilizável": {
+    "I": [
+      "microfossilizabilíssima",
+      "microfossilizabilissimamente",
+      "microfossilizabilíssimas",
+      "microfossilizabilíssimo",
+      "microfossilizabilíssimos"
+    ]
+  },
+  "micrometrável": {
+    "I": [
+      "micrometrabilíssima",
+      "micrometrabilissimamente",
+      "micrometrabilíssimas",
+      "micrometrabilíssimo",
+      "micrometrabilíssimos"
+    ]
+  },
+  "micropotencial": {
+    "H": [
+      "micropotencialíssima",
+      "micropotencialissimamente",
+      "micropotencialíssimas",
+      "micropotencialíssimo",
+      "micropotencialíssimos"
+    ]
+  },
+  "microrregional": {
+    "H": [
+      "microrregionalíssima",
+      "microrregionalissimamente",
+      "microrregionalíssimas",
+      "microrregionalíssimo",
+      "microrregionalíssimos"
+    ]
+  },
+  "microssocial": {
+    "H": [
+      "microssocialíssima",
+      "microssocialissimamente",
+      "microssocialíssimas",
+      "microssocialíssimo",
+      "microssocialíssimos"
+    ]
+  },
+  "microstrutural": {
+    "H": [
+      "microstruturalíssima",
+      "microstruturalissimamente",
+      "microstruturalíssimas",
+      "microstruturalíssimo",
+      "microstruturalíssimos"
+    ]
+  },
+  "microvariável": {
+    "I": [
+      "microvariabilíssima",
+      "microvariabilissimamente",
+      "microvariabilíssimas",
+      "microvariabilíssimo",
+      "microvariabilíssimos"
+    ]
+  },
+  "mielinizável": {
+    "I": [
+      "mielinizabilíssima",
+      "mielinizabilissimamente",
+      "mielinizabilíssimas",
+      "mielinizabilíssimo",
+      "mielinizabilíssimos"
+    ],
+    "Â+I": [
+      "desmielinizabilíssima",
+      "desmielinizabilissimamente",
+      "desmielinizabilíssimas",
+      "desmielinizabilíssimo",
+      "desmielinizabilíssimos"
+    ]
+  },
+  "miepitelial": {
+    "H": [
+      "miepitelialíssima",
+      "miepitelialissimamente",
+      "miepitelialíssimas",
+      "miepitelialíssimo",
+      "miepitelialíssimos"
+    ]
+  },
+  "migmatizável": {
+    "I": [
+      "migmatizabilíssima",
+      "migmatizabilissimamente",
+      "migmatizabilíssimas",
+      "migmatizabilíssimo",
+      "migmatizabilíssimos"
+    ]
+  },
+  "migoso": {
+    "H": [
+      "migosíssima",
+      "migosissimamente",
+      "migosíssimas",
+      "migosíssimo",
+      "migosíssimos"
+    ]
+  },
+  "migrável": {
+    "I": [
+      "migrabilíssima",
+      "migrabilissimamente",
+      "migrabilíssimas",
+      "migrabilíssimo",
+      "migrabilíssimos"
+    ],
+    "Í+I": [
+      "intermigrabilíssima",
+      "intermigrabilissimamente",
+      "intermigrabilíssimas",
+      "intermigrabilíssimo",
+      "intermigrabilíssimos"
+    ],
+    "î+I": [
+      "transmigrabilíssima",
+      "transmigrabilissimamente",
+      "transmigrabilíssimas",
+      "transmigrabilíssimo",
+      "transmigrabilíssimos"
+    ]
+  },
+  "milagroso": {
+    "H": [
+      "milagrosíssima",
+      "milagrosissimamente",
+      "milagrosíssimas",
+      "milagrosíssimo",
+      "milagrosíssimos"
+    ]
+  },
+  "mildioso": {
+    "H": [
+      "mildiosíssima",
+      "mildiosissimamente",
+      "mildiosíssimas",
+      "mildiosíssimo",
+      "mildiosíssimos"
+    ]
+  },
+  "milesimal": {
+    "H": [
+      "milesimalíssima",
+      "milesimalissimamente",
+      "milesimalíssimas",
+      "milesimalíssimo",
+      "milesimalíssimos"
+    ]
+  },
+  "milheiral": {
+    "H": [
+      "milheiralíssima",
+      "milheiralissimamente",
+      "milheiralíssimas",
+      "milheiralíssimo",
+      "milheiralíssimos"
+    ]
+  },
+  "milimetral": {
+    "H": [
+      "milimetralíssima",
+      "milimetralissimamente",
+      "milimetralíssimas",
+      "milimetralíssimo",
+      "milimetralíssimos"
+    ]
+  },
+  "milionesimal": {
+    "H": [
+      "milionesimalíssima",
+      "milionesimalissimamente",
+      "milionesimalíssimas",
+      "milionesimalíssimo",
+      "milionesimalíssimos"
+    ]
+  },
+  "militarizável": {
+    "I": [
+      "militarizabilíssima",
+      "militarizabilissimamente",
+      "militarizabilíssimas",
+      "militarizabilíssimo",
+      "militarizabilíssimos"
+    ],
+    "Â+I": [
+      "desmilitarizabilíssima",
+      "desmilitarizabilissimamente",
+      "desmilitarizabilíssimas",
+      "desmilitarizabilíssimo",
+      "desmilitarizabilíssimos"
+    ]
+  },
+  "militável": {
+    "I": [
+      "militabilíssima",
+      "militabilissimamente",
+      "militabilíssimas",
+      "militabilíssimo",
+      "militabilíssimos"
+    ]
+  },
+  "milonitizável": {
+    "I": [
+      "milonitizabilíssima",
+      "milonitizabilissimamente",
+      "milonitizabilíssimas",
+      "milonitizabilíssimo",
+      "milonitizabilíssimos"
+    ]
+  },
+  "mimável": {
+    "I": [
+      "mimabilíssima",
+      "mimabilissimamente",
+      "mimabilíssimas",
+      "mimabilíssimo",
+      "mimabilíssimos"
+    ]
+  },
+  "mimetizável": {
+    "I": [
+      "mimetizabilíssima",
+      "mimetizabilissimamente",
+      "mimetizabilíssimas",
+      "mimetizabilíssimo",
+      "mimetizabilíssimos"
+    ]
+  },
+  "mimoso": {
+    "H": [
+      "mimosíssima",
+      "mimosissimamente",
+      "mimosíssimas",
+      "mimosíssimo",
+      "mimosíssimos"
+    ]
+  },
+  "minace": {
+    "H": [
+      "minacíssima",
+      "minacissimamente",
+      "minacíssimas",
+      "minacíssimo",
+      "minacíssimos"
+    ]
+  },
+  "minável": {
+    "I": [
+      "minabilíssima",
+      "minabilissimamente",
+      "minabilíssimas",
+      "minabilíssimo",
+      "minabilíssimos"
+    ],
+    "Ñ+I": [
+      "cominabilíssima",
+      "cominabilissimamente",
+      "cominabilíssimas",
+      "cominabilíssimo",
+      "cominabilíssimos"
+    ]
+  },
+  "mineralizável": {
+    "I": [
+      "mineralizabilíssima",
+      "mineralizabilissimamente",
+      "mineralizabilíssimas",
+      "mineralizabilíssimo",
+      "mineralizabilíssimos"
+    ],
+    "Â+I": [
+      "desmineralizabilíssima",
+      "desmineralizabilissimamente",
+      "desmineralizabilíssimas",
+      "desmineralizabilíssimo",
+      "desmineralizabilíssimos"
+    ]
+  },
+  "minerável": {
+    "I": [
+      "minerabilíssima",
+      "minerabilissimamente",
+      "minerabilíssimas",
+      "minerabilíssimo",
+      "minerabilíssimos"
+    ]
+  },
+  "mineromedicinal": {
+    "H": [
+      "mineromedicinalíssima",
+      "mineromedicinalissimamente",
+      "mineromedicinalíssimas",
+      "mineromedicinalíssimo",
+      "mineromedicinalíssimos"
+    ]
+  },
+  "minguável": {
+    "I": [
+      "minguabilíssima",
+      "minguabilissimamente",
+      "minguabilíssimas",
+      "minguabilíssimo",
+      "minguabilíssimos"
+    ]
+  },
+  "miniatural": {
+    "H": [
+      "miniaturalíssima",
+      "miniaturalissimamente",
+      "miniaturalíssimas",
+      "miniaturalíssimo",
+      "miniaturalíssimos"
+    ],
+    "È+H": [
+      "subminiaturalíssima",
+      "subminiaturalissimamente",
+      "subminiaturalíssimas",
+      "subminiaturalíssimo",
+      "subminiaturalíssimos"
+    ],
+    "û+H": [
+      "microminiaturalíssima",
+      "microminiaturalissimamente",
+      "microminiaturalíssimas",
+      "microminiaturalíssimo",
+      "microminiaturalíssimos"
+    ]
+  },
+  "miniaturizável": {
+    "I": [
+      "miniaturizabilíssima",
+      "miniaturizabilissimamente",
+      "miniaturizabilíssimas",
+      "miniaturizabilíssimo",
+      "miniaturizabilíssimos"
+    ]
+  },
+  "minificável": {
+    "I": [
+      "minificabilíssima",
+      "minificabilissimamente",
+      "minificabilíssimas",
+      "minificabilíssimo",
+      "minificabilíssimos"
+    ]
+  },
+  "minimal": {
+    "H": [
+      "minimalíssima",
+      "minimalissimamente",
+      "minimalíssimas",
+      "minimalíssimo",
+      "minimalíssimos"
+    ]
+  },
+  "minimável": {
+    "I": [
+      "minimabilíssima",
+      "minimabilissimamente",
+      "minimabilíssimas",
+      "minimabilíssimo",
+      "minimabilíssimos"
+    ]
+  },
+  "minimizável": {
+    "I": [
+      "minimizabilíssima",
+      "minimizabilissimamente",
+      "minimizabilíssimas",
+      "minimizabilíssimo",
+      "minimizabilíssimos"
+    ]
+  },
+  "ministerial": {
+    "H": [
+      "ministerialíssima",
+      "ministerialissimamente",
+      "ministerialíssimas",
+      "ministerialíssimo",
+      "ministerialíssimos"
+    ],
+    "Á+H": [
+      "antiministerialíssima",
+      "antiministerialissimamente",
+      "antiministerialíssimas",
+      "antiministerialíssimo",
+      "antiministerialíssimos"
+    ],
+    "Í+H": [
+      "interministerialíssima",
+      "interministerialissimamente",
+      "interministerialíssimas",
+      "interministerialíssimo",
+      "interministerialíssimos"
+    ],
+    "ô+H": [
+      "supraministerialíssima",
+      "supraministerialissimamente",
+      "supraministerialíssimas",
+      "supraministerialíssimo",
+      "supraministerialíssimos"
+    ]
+  },
+  "ministeriável": {
+    "I": [
+      "ministeriabilíssima",
+      "ministeriabilissimamente",
+      "ministeriabilíssimas",
+      "ministeriabilíssimo",
+      "ministeriabilíssimos"
+    ]
+  },
+  "ministral": {
+    "H": [
+      "ministralíssima",
+      "ministralissimamente",
+      "ministralíssimas",
+      "ministralíssimo",
+      "ministralíssimos"
+    ]
+  },
+  "ministrável": {
+    "I": [
+      "ministrabilíssima",
+      "ministrabilissimamente",
+      "ministrabilíssimas",
+      "ministrabilíssimo",
+      "ministrabilíssimos"
+    ],
+    "È+I": [
+      "subministrabilíssima",
+      "subministrabilissimamente",
+      "subministrabilíssimas",
+      "subministrabilíssimo",
+      "subministrabilíssimos"
+    ]
+  },
+  "ministrível": {
+    "I": [
+      "ministribilíssima",
+      "ministribilissimamente",
+      "ministribilíssimas",
+      "ministribilíssimo",
+      "ministribilíssimos"
+    ]
+  },
+  "minorável": {
+    "I": [
+      "minorabilíssima",
+      "minorabilissimamente",
+      "minorabilíssimas",
+      "minorabilíssimo",
+      "minorabilíssimos"
+    ]
+  },
+  "minucioso": {
+    "H": [
+      "minuciosíssima",
+      "minuciosissimamente",
+      "minuciosíssimas",
+      "minuciosíssimo",
+      "minuciosíssimos"
+    ]
+  },
+  "minudencioso": {
+    "H": [
+      "minudenciosíssima",
+      "minudenciosissimamente",
+      "minudenciosíssimas",
+      "minudenciosíssimo",
+      "minudenciosíssimos"
+    ]
+  },
+  "minutos": {
+    "H": [
+      "minutíssima",
+      "minutissimamente",
+      "minutíssimas",
+      "minutíssimo",
+      "minutíssimos"
+    ]
+  },
+  "mioepitelial": {
+    "H": [
+      "mioepitelialíssima",
+      "mioepitelialissimamente",
+      "mioepitelialíssimas",
+      "mioepitelialíssimo",
+      "mioepitelialíssimos"
+    ]
+  },
+  "miogeossiclinal": {
+    "H": [
+      "miogeossiclinalíssima",
+      "miogeossiclinalissimamente",
+      "miogeossiclinalíssimas",
+      "miogeossiclinalíssimo",
+      "miogeossiclinalíssimos"
+    ]
+  },
+  "mioloso": {
+    "H": [
+      "miolosíssima",
+      "miolosissimamente",
+      "miolosíssimas",
+      "miolosíssimo",
+      "miolosíssimos"
+    ]
+  },
+  "miomatoso": {
+    "H": [
+      "miomatosíssima",
+      "miomatosissimamente",
+      "miomatosíssimas",
+      "miomatosíssimo",
+      "miomatosíssimos"
+    ]
+  },
+  "mioneural": {
+    "H": [
+      "mioneuralíssima",
+      "mioneuralissimamente",
+      "mioneuralíssimas",
+      "mioneuralíssimo",
+      "mioneuralíssimos"
+    ]
+  },
+  "mionevral": {
+    "H": [
+      "mionevralíssima",
+      "mionevralissimamente",
+      "mionevralíssimas",
+      "mionevralíssimo",
+      "mionevralíssimos"
+    ]
+  },
+  "miraculoso": {
+    "H": [
+      "miraculosíssima",
+      "miraculosissimamente",
+      "miraculosíssimas",
+      "miraculosíssimo",
+      "miraculosíssimos"
+    ]
+  },
+  "mirável": {
+    "I": [
+      "mirabilíssima",
+      "mirabilissimamente",
+      "mirabilíssimas",
+      "mirabilíssimo",
+      "mirabilíssimos"
+    ]
+  },
+  "miriagonal": {
+    "H": [
+      "miriagonalíssima",
+      "miriagonalissimamente",
+      "miriagonalíssimas",
+      "miriagonalíssimo",
+      "miriagonalíssimos"
+    ]
+  },
+  "miritizal": {
+    "H": [
+      "miritizalíssima",
+      "miritizalissimamente",
+      "miritizalíssimas",
+      "miritizalíssimo",
+      "miritizalíssimos"
+    ]
+  },
+  "mirtoso": {
+    "H": [
+      "mirtosíssima",
+      "mirtosissimamente",
+      "mirtosíssimas",
+      "mirtosíssimo",
+      "mirtosíssimos"
+    ]
+  },
+  "miscível": {
+    "I": [
+      "miscibilíssima",
+      "miscibilissimamente",
+      "miscibilíssimas",
+      "miscibilíssimo",
+      "miscibilíssimos"
+    ],
+    "Ä+I": [
+      "imiscibilíssima",
+      "imiscibilissimamente",
+      "imiscibilíssimas",
+      "imiscibilíssimo",
+      "imiscibilíssimos"
+    ]
+  },
+  "miserável": {
+    "I": [
+      "miserabilíssima",
+      "miserabilissimamente",
+      "miserabilíssimas",
+      "miserabilíssimo",
+      "miserabilíssimos"
+    ],
+    "Ñ+I": [
+      "comiserabilíssima",
+      "comiserabilissimamente",
+      "comiserabilíssimas",
+      "comiserabilíssimo",
+      "comiserabilíssimos"
+    ]
+  },
+  "misericordioso": {
+    "H": [
+      "misericordiosíssima",
+      "misericordiosissimamente",
+      "misericordiosíssimas",
+      "misericordiosíssimo",
+      "misericordiosíssimos"
+    ],
+    "Â+H": [
+      "desmisericordiosíssima",
+      "desmisericordiosissimamente",
+      "desmisericordiosíssimas",
+      "desmisericordiosíssimo",
+      "desmisericordiosíssimos"
+    ],
+    "Ä+H": [
+      "imisericordiosíssima",
+      "imisericordiosissimamente",
+      "imisericordiosíssimas",
+      "imisericordiosíssimo",
+      "imisericordiosíssimos"
+    ]
+  },
+  "misoso": {
+    "H": [
+      "misosíssima",
+      "misosissimamente",
+      "misosíssimas",
+      "misosíssimo",
+      "misosíssimos"
+    ]
+  },
+  "misterioso": {
+    "H": [
+      "misteriosíssima",
+      "misteriosissimamente",
+      "misteriosíssimas",
+      "misteriosíssimo",
+      "misteriosíssimos"
+    ]
+  },
+  "mistificável": {
+    "I": [
+      "mistificabilíssima",
+      "mistificabilissimamente",
+      "mistificabilíssimas",
+      "mistificabilíssimo",
+      "mistificabilíssimos"
+    ],
+    "Ä+I": [
+      "imistificabilíssima",
+      "imistificabilissimamente",
+      "imistificabilíssimas",
+      "imistificabilíssimo",
+      "imistificabilíssimos"
+    ]
+  },
+  "misturável": {
+    "I": [
+      "misturabilíssima",
+      "misturabilissimamente",
+      "misturabilíssimas",
+      "misturabilíssimo",
+      "misturabilíssimos"
+    ],
+    "À+I": [
+      "remisturabilíssima",
+      "remisturabilissimamente",
+      "remisturabilíssimas",
+      "remisturabilíssimo",
+      "remisturabilíssimos"
+    ],
+    "Ä+I": [
+      "imisturabilíssima",
+      "imisturabilissimamente",
+      "imisturabilíssimas",
+      "imisturabilíssimo",
+      "imisturabilíssimos"
+    ],
+    "Ñ+I": [
+      "comisturabilíssima",
+      "comisturabilissimamente",
+      "comisturabilíssimas",
+      "comisturabilíssimo",
+      "comisturabilíssimos"
+    ]
+  },
+  "mitificável": {
+    "I": [
+      "mitificabilíssima",
+      "mitificabilissimamente",
+      "mitificabilíssimas",
+      "mitificabilíssimo",
+      "mitificabilíssimos"
+    ],
+    "Â+I": [
+      "desmitificabilíssima",
+      "desmitificabilissimamente",
+      "desmitificabilíssimas",
+      "desmitificabilíssimo",
+      "desmitificabilíssimos"
+    ]
+  },
+  "mitigável": {
+    "I": [
+      "mitigabilíssima",
+      "mitigabilissimamente",
+      "mitigabilíssimas",
+      "mitigabilíssimo",
+      "mitigabilíssimos"
+    ]
+  },
+  "mitizável": {
+    "I": [
+      "mitizabilíssima",
+      "mitizabilissimamente",
+      "mitizabilíssimas",
+      "mitizabilíssimo",
+      "mitizabilíssimos"
+    ]
+  },
+  "mitocondrial": {
+    "H": [
+      "mitocondrialíssima",
+      "mitocondrialissimamente",
+      "mitocondrialíssimas",
+      "mitocondrialíssimo",
+      "mitocondrialíssimos"
+    ]
+  },
+  "mitral": {
+    "H": [
+      "mitralíssima",
+      "mitralissimamente",
+      "mitralíssimas",
+      "mitralíssimo",
+      "mitralíssimos"
+    ]
+  },
+  "mixável": {
+    "I": [
+      "mixabilíssima",
+      "mixabilissimamente",
+      "mixabilíssimas",
+      "mixabilíssimo",
+      "mixabilíssimos"
+    ]
+  },
+  "mixedematoso": {
+    "H": [
+      "mixedematosíssima",
+      "mixedematosissimamente",
+      "mixedematosíssimas",
+      "mixedematosíssimo",
+      "mixedematosíssimos"
+    ]
+  },
+  "mixobacterial": {
+    "H": [
+      "mixobacterialíssima",
+      "mixobacterialissimamente",
+      "mixobacterialíssimas",
+      "mixobacterialíssimo",
+      "mixobacterialíssimos"
+    ]
+  },
+  "mixomatoso": {
+    "H": [
+      "mixomatosíssima",
+      "mixomatosissimamente",
+      "mixomatosíssimas",
+      "mixomatosíssimo",
+      "mixomatosíssimos"
+    ]
+  },
+  "mixordioso": {
+    "H": [
+      "mixordiosíssima",
+      "mixordiosissimamente",
+      "mixordiosíssimas",
+      "mixordiosíssimo",
+      "mixordiosíssimos"
+    ]
+  },
+  "mnemonizável": {
+    "I": [
+      "mnemonizabilíssima",
+      "mnemonizabilissimamente",
+      "mnemonizabilíssimas",
+      "mnemonizabilíssimo",
+      "mnemonizabilíssimos"
+    ]
+  },
+  "mobiliável": {
+    "I": [
+      "mobiliabilíssima",
+      "mobiliabilissimamente",
+      "mobiliabilíssimas",
+      "mobiliabilíssimo",
+      "mobiliabilíssimos"
+    ],
+    "Â+I": [
+      "desmobiliabilíssima",
+      "desmobiliabilissimamente",
+      "desmobiliabilíssimas",
+      "desmobiliabilíssimo",
+      "desmobiliabilíssimos"
+    ]
+  },
+  "mobilizável": {
+    "I": [
+      "mobilizabilíssima",
+      "mobilizabilissimamente",
+      "mobilizabilíssimas",
+      "mobilizabilíssimo",
+      "mobilizabilíssimos"
+    ],
+    "Â+I": [
+      "desmobilizabilíssima",
+      "desmobilizabilissimamente",
+      "desmobilizabilíssimas",
+      "desmobilizabilíssimo",
+      "desmobilizabilíssimos"
+    ],
+    "Ä+I": [
+      "imobilizabilíssima",
+      "imobilizabilissimamente",
+      "imobilizabilíssimas",
+      "imobilizabilíssimo",
+      "imobilizabilíssimos"
+    ]
+  },
+  "modal": {
+    "H": [
+      "modalíssima",
+      "modalissimamente",
+      "modalíssimas",
+      "modalíssimo",
+      "modalíssimos"
+    ],
+    "Á+H": [
+      "antimodalíssima",
+      "antimodalissimamente",
+      "antimodalíssimas",
+      "antimodalíssimo",
+      "antimodalíssimos"
+    ],
+    "Í+H": [
+      "intermodalíssima",
+      "intermodalissimamente",
+      "intermodalíssimas",
+      "intermodalíssimo",
+      "intermodalíssimos"
+    ],
+    "ö+H": [
+      "polimodalíssima",
+      "polimodalissimamente",
+      "polimodalíssimas",
+      "polimodalíssimo",
+      "polimodalíssimos"
+    ]
+  },
+  "modalizável": {
+    "I": [
+      "modalizabilíssima",
+      "modalizabilissimamente",
+      "modalizabilíssimas",
+      "modalizabilíssimo",
+      "modalizabilíssimos"
+    ]
+  },
+  "modelável": {
+    "I": [
+      "modelabilíssima",
+      "modelabilissimamente",
+      "modelabilíssimas",
+      "modelabilíssimo",
+      "modelabilíssimos"
+    ],
+    "À+I": [
+      "remodelabilíssima",
+      "remodelabilissimamente",
+      "remodelabilíssimas",
+      "remodelabilíssimo",
+      "remodelabilíssimos"
+    ]
+  },
+  "moderável": {
+    "I": [
+      "moderabilíssima",
+      "moderabilissimamente",
+      "moderabilíssimas",
+      "moderabilíssimo",
+      "moderabilíssimos"
+    ],
+    "Â+I": [
+      "desmoderabilíssima",
+      "desmoderabilissimamente",
+      "desmoderabilíssimas",
+      "desmoderabilíssimo",
+      "desmoderabilíssimos"
+    ]
+  },
+  "modernizável": {
+    "I": [
+      "modernizabilíssima",
+      "modernizabilissimamente",
+      "modernizabilíssimas",
+      "modernizabilíssimo",
+      "modernizabilíssimos"
+    ]
+  },
+  "modernos": {
+    "H": [
+      "moderníssima",
+      "modernissimamente",
+      "moderníssimas",
+      "moderníssimo",
+      "moderníssimos"
+    ]
+  },
+  "modernoso": {
+    "H": [
+      "modernosíssima",
+      "modernosissimamente",
+      "modernosíssimas",
+      "modernosíssimo",
+      "modernosíssimos"
+    ]
+  },
+  "modesto": {
+    "H": [
+      "modestíssima",
+      "modestissimamente",
+      "modestíssimas",
+      "modestíssimo",
+      "modestíssimos"
+    ],
+    "Ä+H": [
+      "imodestíssima",
+      "imodestissimamente",
+      "imodestíssimas",
+      "imodestíssimo",
+      "imodestíssimos"
+    ]
+  },
+  "modificável": {
+    "I": [
+      "modificabilíssima",
+      "modificabilissimamente",
+      "modificabilíssimas",
+      "modificabilíssimo",
+      "modificabilíssimos"
+    ],
+    "Ä+I": [
+      "imodificabilíssima",
+      "imodificabilissimamente",
+      "imodificabilíssimas",
+      "imodificabilíssimo",
+      "imodificabilíssimos"
+    ]
+  },
+  "modo-temporal": {
+    "H": [
+      "modo-temporalíssima",
+      "modo-temporalissimamente",
+      "modo-temporalíssimas",
+      "modo-temporalíssimo",
+      "modo-temporalíssimos"
+    ]
+  },
+  "modorroso": {
+    "H": [
+      "modorrosíssima",
+      "modorrosissimamente",
+      "modorrosíssimas",
+      "modorrosíssimo",
+      "modorrosíssimos"
+    ]
+  },
+  "modulável": {
+    "I": [
+      "modulabilíssima",
+      "modulabilissimamente",
+      "modulabilíssimas",
+      "modulabilíssimo",
+      "modulabilíssimos"
+    ],
+    "Â+I": [
+      "desmodulabilíssima",
+      "desmodulabilissimamente",
+      "desmodulabilíssimas",
+      "desmodulabilíssimo",
+      "desmodulabilíssimos"
+    ]
+  },
+  "mofoso": {
+    "H": [
+      "mofosíssima",
+      "mofosissimamente",
+      "mofosíssimas",
+      "mofosíssimo",
+      "mofosíssimos"
+    ]
+  },
+  "molal": {
+    "H": [
+      "molalíssima",
+      "molalissimamente",
+      "molalíssimas",
+      "molalíssimo",
+      "molalíssimos"
+    ]
+  },
+  "moldável": {
+    "I": [
+      "moldabilíssima",
+      "moldabilissimamente",
+      "moldabilíssimas",
+      "moldabilíssimo",
+      "moldabilíssimos"
+    ],
+    "Â+I": [
+      "desmoldabilíssima",
+      "desmoldabilissimamente",
+      "desmoldabilíssimas",
+      "desmoldabilíssimo",
+      "desmoldabilíssimos"
+    ],
+    "ò+I": [
+      "amoldabilíssima",
+      "amoldabilissimamente",
+      "amoldabilíssimas",
+      "amoldabilíssimo",
+      "amoldabilíssimos"
+    ]
+  },
+  "molejoso": {
+    "H": [
+      "molejosíssima",
+      "molejosissimamente",
+      "molejosíssimas",
+      "molejosíssimo",
+      "molejosíssimos"
+    ]
+  },
+  "molestável": {
+    "I": [
+      "molestabilíssima",
+      "molestabilissimamente",
+      "molestabilíssimas",
+      "molestabilíssimo",
+      "molestabilíssimos"
+    ]
+  },
+  "molestoso": {
+    "H": [
+      "molestosíssima",
+      "molestosissimamente",
+      "molestosíssimas",
+      "molestosíssimo",
+      "molestosíssimos"
+    ]
+  },
+  "molificável": {
+    "I": [
+      "molificabilíssima",
+      "molificabilissimamente",
+      "molificabilíssimas",
+      "molificabilíssimo",
+      "molificabilíssimos"
+    ]
+  },
+  "molinhoso": {
+    "H": [
+      "molinhosíssima",
+      "molinhosissimamente",
+      "molinhosíssimas",
+      "molinhosíssimo",
+      "molinhosíssimos"
+    ]
+  },
+  "momentoso": {
+    "H": [
+      "momentosíssima",
+      "momentosissimamente",
+      "momentosíssimas",
+      "momentosíssimo",
+      "momentosíssimos"
+    ]
+  },
+  "monacal": {
+    "H": [
+      "monacalíssima",
+      "monacalissimamente",
+      "monacalíssimas",
+      "monacalíssimo",
+      "monacalíssimos"
+    ],
+    "Á+H": [
+      "antimonacalíssima",
+      "antimonacalissimamente",
+      "antimonacalíssimas",
+      "antimonacalíssimo",
+      "antimonacalíssimos"
+    ]
+  },
+  "monarrenoso": {
+    "H": [
+      "monarrenosíssima",
+      "monarrenosissimamente",
+      "monarrenosíssimas",
+      "monarrenosíssimo",
+      "monarrenosíssimos"
+    ]
+  },
+  "monasteiral": {
+    "H": [
+      "monasteiralíssima",
+      "monasteiralissimamente",
+      "monasteiralíssimas",
+      "monasteiralíssimo",
+      "monasteiralíssimos"
+    ]
+  },
+  "monasterial": {
+    "H": [
+      "monasterialíssima",
+      "monasterialissimamente",
+      "monasterialíssimas",
+      "monasterialíssimo",
+      "monasterialíssimos"
+    ]
+  },
+  "monastical": {
+    "H": [
+      "monasticalíssima",
+      "monasticalissimamente",
+      "monasticalíssimas",
+      "monasticalíssimo",
+      "monasticalíssimos"
+    ]
+  },
+  "monastral": {
+    "H": [
+      "monastralíssima",
+      "monastralissimamente",
+      "monastralíssimas",
+      "monastralíssimo",
+      "monastralíssimos"
+    ]
+  },
+  "moncoso": {
+    "H": [
+      "moncosíssima",
+      "moncosissimamente",
+      "moncosíssimas",
+      "moncosíssimo",
+      "moncosíssimos"
+    ]
+  },
+  "mondável": {
+    "I": [
+      "mondabilíssima",
+      "mondabilissimamente",
+      "mondabilíssimas",
+      "mondabilíssimo",
+      "mondabilíssimos"
+    ]
+  },
+  "monesteiral": {
+    "H": [
+      "monesteiralíssima",
+      "monesteiralissimamente",
+      "monesteiralíssimas",
+      "monesteiralíssimo",
+      "monesteiralíssimos"
+    ]
+  },
+  "monetizável": {
+    "I": [
+      "monetizabilíssima",
+      "monetizabilissimamente",
+      "monetizabilíssimas",
+      "monetizabilíssimo",
+      "monetizabilíssimos"
+    ],
+    "Â+I": [
+      "desmonetizabilíssima",
+      "desmonetizabilissimamente",
+      "desmonetizabilíssimas",
+      "desmonetizabilíssimo",
+      "desmonetizabilíssimos"
+    ]
+  },
+  "mongol": {
+    "H": [
+      "mongolíssima",
+      "mongolissimamente",
+      "mongolíssimas",
+      "mongolíssimo",
+      "mongolíssimos"
+    ]
+  },
+  "monidratável": {
+    "I": [
+      "monidratabilíssima",
+      "monidratabilissimamente",
+      "monidratabilíssimas",
+      "monidratabilíssimo",
+      "monidratabilíssimos"
+    ]
+  },
+  "monindustrial": {
+    "H": [
+      "monindustrialíssima",
+      "monindustrialissimamente",
+      "monindustrialíssimas",
+      "monindustrialíssimo",
+      "monindustrialíssimos"
+    ]
+  },
+  "monitorável": {
+    "I": [
+      "monitorabilíssima",
+      "monitorabilissimamente",
+      "monitorabilíssimas",
+      "monitorabilíssimo",
+      "monitorabilíssimos"
+    ],
+    "Ã+I": [
+      "automonitorabilíssima",
+      "automonitorabilissimamente",
+      "automonitorabilíssimas",
+      "automonitorabilíssimo",
+      "automonitorabilíssimos"
+    ]
+  },
+  "monitorial": {
+    "H": [
+      "monitorialíssima",
+      "monitorialissimamente",
+      "monitorialíssimas",
+      "monitorialíssimo",
+      "monitorialíssimos"
+    ]
+  },
+  "monitorizável": {
+    "I": [
+      "monitorizabilíssima",
+      "monitorizabilissimamente",
+      "monitorizabilíssimas",
+      "monitorizabilíssimo",
+      "monitorizabilíssimos"
+    ]
+  },
+  "monoaxial": {
+    "H": [
+      "monoaxialíssima",
+      "monoaxialissimamente",
+      "monoaxialíssimas",
+      "monoaxialíssimo",
+      "monoaxialíssimos"
+    ]
+  },
+  "monoblefaridal": {
+    "H": [
+      "monoblefaridalíssima",
+      "monoblefaridalissimamente",
+      "monoblefaridalíssimas",
+      "monoblefaridalíssimo",
+      "monoblefaridalíssimos"
+    ]
+  },
+  "monocameral": {
+    "H": [
+      "monocameralíssima",
+      "monocameralissimamente",
+      "monocameralíssimas",
+      "monocameralíssimo",
+      "monocameralíssimos"
+    ]
+  },
+  "monocausal": {
+    "H": [
+      "monocausalíssima",
+      "monocausalissimamente",
+      "monocausalíssimas",
+      "monocausalíssimo",
+      "monocausalíssimos"
+    ]
+  },
+  "monoclinal": {
+    "H": [
+      "monoclinalíssima",
+      "monoclinalissimamente",
+      "monoclinalíssimas",
+      "monoclinalíssimo",
+      "monoclinalíssimos"
+    ]
+  },
+  "monoclonal": {
+    "H": [
+      "monoclonalíssima",
+      "monoclonalissimamente",
+      "monoclonalíssimas",
+      "monoclonalíssimo",
+      "monoclonalíssimos"
+    ]
+  },
+  "monoclorável": {
+    "I": [
+      "monoclorabilíssima",
+      "monoclorabilissimamente",
+      "monoclorabilíssimas",
+      "monoclorabilíssimo",
+      "monoclorabilíssimos"
+    ]
+  },
+  "monocristal": {
+    "H": [
+      "monocristalíssima",
+      "monocristalissimamente",
+      "monocristalíssimas",
+      "monocristalíssimo",
+      "monocristalíssimos"
+    ]
+  },
+  "monocultural": {
+    "H": [
+      "monoculturalíssima",
+      "monoculturalissimamente",
+      "monoculturalíssimas",
+      "monoculturalíssimo",
+      "monoculturalíssimos"
+    ]
+  },
+  "monodialetal": {
+    "H": [
+      "monodialetalíssima",
+      "monodialetalissimamente",
+      "monodialetalíssimas",
+      "monodialetalíssimo",
+      "monodialetalíssimos"
+    ]
+  },
+  "monodimensional": {
+    "H": [
+      "monodimensionalíssima",
+      "monodimensionalissimamente",
+      "monodimensionalíssimas",
+      "monodimensionalíssimo",
+      "monodimensionalíssimos"
+    ]
+  },
+  "monofacial": {
+    "H": [
+      "monofacialíssima",
+      "monofacialissimamente",
+      "monofacialíssimas",
+      "monofacialíssimo",
+      "monofacialíssimos"
+    ]
+  },
+  "monofilamentoso": {
+    "H": [
+      "monofilamentosíssima",
+      "monofilamentosissimamente",
+      "monofilamentosíssimas",
+      "monofilamentosíssimo",
+      "monofilamentosíssimos"
+    ]
+  },
+  "monofocal": {
+    "H": [
+      "monofocalíssima",
+      "monofocalissimamente",
+      "monofocalíssimas",
+      "monofocalíssimo",
+      "monofocalíssimos"
+    ]
+  },
+  "monofuncional": {
+    "H": [
+      "monofuncionalíssima",
+      "monofuncionalissimamente",
+      "monofuncionalíssimas",
+      "monofuncionalíssimo",
+      "monofuncionalíssimos"
+    ]
+  },
+  "monoglacial": {
+    "H": [
+      "monoglacialíssima",
+      "monoglacialissimamente",
+      "monoglacialíssimas",
+      "monoglacialíssimo",
+      "monoglacialíssimos"
+    ]
+  },
+  "monoidratável": {
+    "I": [
+      "monoidratabilíssima",
+      "monoidratabilissimamente",
+      "monoidratabilíssimas",
+      "monoidratabilíssimo",
+      "monoidratabilíssimos"
+    ]
+  },
+  "monoindustrial": {
+    "H": [
+      "monoindustrialíssima",
+      "monoindustrialissimamente",
+      "monoindustrialíssimas",
+      "monoindustrialíssimo",
+      "monoindustrialíssimos"
+    ]
+  },
+  "monominal": {
+    "H": [
+      "monominalíssima",
+      "monominalissimamente",
+      "monominalíssimas",
+      "monominalíssimo",
+      "monominalíssimos"
+    ]
+  },
+  "monomineral": {
+    "H": [
+      "monomineralíssima",
+      "monomineralissimamente",
+      "monomineralíssimas",
+      "monomineralíssimo",
+      "monomineralíssimos"
+    ]
+  },
+  "monoparental": {
+    "H": [
+      "monoparentalíssima",
+      "monoparentalissimamente",
+      "monoparentalíssimas",
+      "monoparentalíssimo",
+      "monoparentalíssimos"
+    ]
+  },
+  "monopodial": {
+    "H": [
+      "monopodialíssima",
+      "monopodialissimamente",
+      "monopodialíssimas",
+      "monopodialíssimo",
+      "monopodialíssimos"
+    ]
+  },
+  "monopolizável": {
+    "I": [
+      "monopolizabilíssima",
+      "monopolizabilissimamente",
+      "monopolizabilíssimas",
+      "monopolizabilíssimo",
+      "monopolizabilíssimos"
+    ],
+    "Â+I": [
+      "desmonopolizabilíssima",
+      "desmonopolizabilissimamente",
+      "desmonopolizabilíssimas",
+      "desmonopolizabilíssimo",
+      "desmonopolizabilíssimos"
+    ]
+  },
+  "monorregional": {
+    "H": [
+      "monorregionalíssima",
+      "monorregionalissimamente",
+      "monorregionalíssimas",
+      "monorregionalíssimo",
+      "monorregionalíssimos"
+    ]
+  },
+  "monossexual": {
+    "H": [
+      "monossexualíssima",
+      "monossexualissimamente",
+      "monossexualíssimas",
+      "monossexualíssimo",
+      "monossexualíssimos"
+    ]
+  },
+  "monossubstituível": {
+    "I": [
+      "monossubstituibilíssima",
+      "monossubstituibilissimamente",
+      "monossubstituibilíssimas",
+      "monossubstituibilíssimo",
+      "monossubstituibilíssimos"
+    ]
+  },
+  "monovariável": {
+    "I": [
+      "monovariabilíssima",
+      "monovariabilissimamente",
+      "monovariabilíssimas",
+      "monovariabilíssimo",
+      "monovariabilíssimos"
+    ]
+  },
+  "monoxicarbonável": {
+    "I": [
+      "monoxicarbonabilíssima",
+      "monoxicarbonabilissimamente",
+      "monoxicarbonabilíssimas",
+      "monoxicarbonabilíssimo",
+      "monoxicarbonabilíssimos"
+    ]
+  },
+  "monstruoso": {
+    "H": [
+      "monstruosíssima",
+      "monstruosissimamente",
+      "monstruosíssimas",
+      "monstruosíssimo",
+      "monstruosíssimos"
+    ]
+  },
+  "montanhoso": {
+    "H": [
+      "montanhosíssima",
+      "montanhosissimamente",
+      "montanhosíssimas",
+      "montanhosíssimo",
+      "montanhosíssimos"
+    ]
+  },
+  "montável": {
+    "I": [
+      "montabilíssima",
+      "montabilissimamente",
+      "montabilíssimas",
+      "montabilíssimo",
+      "montabilíssimos"
+    ],
+    "À+I": [
+      "remontabilíssima",
+      "remontabilissimamente",
+      "remontabilíssimas",
+      "remontabilíssimo",
+      "remontabilíssimos"
+    ],
+    "Â+I": [
+      "desmontabilíssima",
+      "desmontabilissimamente",
+      "desmontabilíssimas",
+      "desmontabilíssimo",
+      "desmontabilíssimos"
+    ]
+  },
+  "montoso": {
+    "H": [
+      "montosíssima",
+      "montosissimamente",
+      "montosíssimas",
+      "montosíssimo",
+      "montosíssimos"
+    ]
+  },
+  "montuoso": {
+    "H": [
+      "montuosíssima",
+      "montuosissimamente",
+      "montuosíssimas",
+      "montuosíssimo",
+      "montuosíssimos"
+    ]
+  },
+  "monumental": {
+    "H": [
+      "monumentalíssima",
+      "monumentalissimamente",
+      "monumentalíssimas",
+      "monumentalíssimo",
+      "monumentalíssimos"
+    ]
+  },
+  "monumentoso": {
+    "H": [
+      "monumentosíssima",
+      "monumentosissimamente",
+      "monumentosíssimas",
+      "monumentosíssimo",
+      "monumentosíssimos"
+    ]
+  },
+  "moral": {
+    "H": [
+      "moralíssima",
+      "moralissimamente",
+      "moralíssimas",
+      "moralíssimo",
+      "moralíssimos"
+    ],
+    "Á+H": [
+      "antimoralíssima",
+      "antimoralissimamente",
+      "antimoralíssimas",
+      "antimoralíssimo",
+      "antimoralíssimos"
+    ],
+    "Ä+H": [
+      "imoralíssima",
+      "imoralissimamente",
+      "imoralíssimas",
+      "imoralíssimo",
+      "imoralíssimos"
+    ],
+    "ò+H": [
+      "amoralíssima",
+      "amoralissimamente",
+      "amoralíssimas",
+      "amoralíssimo",
+      "amoralíssimos"
+    ]
+  },
+  "moralizável": {
+    "I": [
+      "moralizabilíssima",
+      "moralizabilissimamente",
+      "moralizabilíssimas",
+      "moralizabilíssimo",
+      "moralizabilíssimos"
+    ],
+    "Â+I": [
+      "desmoralizabilíssima",
+      "desmoralizabilissimamente",
+      "desmoralizabilíssimas",
+      "desmoralizabilíssimo",
+      "desmoralizabilíssimos"
+    ]
+  },
+  "morbiloso": {
+    "H": [
+      "morbilosíssima",
+      "morbilosissimamente",
+      "morbilosíssimas",
+      "morbilosíssimo",
+      "morbilosíssimos"
+    ]
+  },
+  "morboso": {
+    "H": [
+      "morbosíssima",
+      "morbosissimamente",
+      "morbosíssimas",
+      "morbosíssimo",
+      "morbosíssimos"
+    ]
+  },
+  "mordaz": {
+    "H": [
+      "mordacíssima",
+      "mordacissimamente",
+      "mordacíssimas",
+      "mordacíssimo",
+      "mordacíssimos"
+    ],
+    "À+H": [
+      "remordacíssima",
+      "remordacissimamente",
+      "remordacíssimas",
+      "remordacíssimo",
+      "remordacíssimos"
+    ]
+  },
+  "mordível": {
+    "I": [
+      "mordibilíssima",
+      "mordibilissimamente",
+      "mordibilíssimas",
+      "mordibilíssimo",
+      "mordibilíssimos"
+    ]
+  },
+  "morfestrutural": {
+    "H": [
+      "morfestruturalíssima",
+      "morfestruturalissimamente",
+      "morfestruturalíssimas",
+      "morfestruturalíssimo",
+      "morfestruturalíssimos"
+    ]
+  },
+  "morfodiferenciável": {
+    "I": [
+      "morfodiferenciabilíssima",
+      "morfodiferenciabilissimamente",
+      "morfodiferenciabilíssimas",
+      "morfodiferenciabilíssimo",
+      "morfodiferenciabilíssimos"
+    ]
+  },
+  "morfoestrutural": {
+    "H": [
+      "morfoestruturalíssima",
+      "morfoestruturalissimamente",
+      "morfoestruturalíssimas",
+      "morfoestruturalíssimo",
+      "morfoestruturalíssimos"
+    ]
+  },
+  "morfofuncional": {
+    "H": [
+      "morfofuncionalíssima",
+      "morfofuncionalissimamente",
+      "morfofuncionalíssimas",
+      "morfofuncionalíssimo",
+      "morfofuncionalíssimos"
+    ]
+  },
+  "morfostrutural": {
+    "H": [
+      "morfostruturalíssima",
+      "morfostruturalissimamente",
+      "morfostruturalíssimas",
+      "morfostruturalíssimo",
+      "morfostruturalíssimos"
+    ]
+  },
+  "morfotectural": {
+    "H": [
+      "morfotecturalíssima",
+      "morfotecturalissimamente",
+      "morfotecturalíssimas",
+      "morfotecturalíssimo",
+      "morfotecturalíssimos"
+    ]
+  },
+  "morigerável": {
+    "I": [
+      "morigerabilíssima",
+      "morigerabilissimamente",
+      "morigerabilíssimas",
+      "morigerabilíssimo",
+      "morigerabilíssimos"
+    ]
+  },
+  "mormoso": {
+    "H": [
+      "mormosíssima",
+      "mormosissimamente",
+      "mormosíssimas",
+      "mormosíssimo",
+      "mormosíssimos"
+    ],
+    "Á+H": [
+      "antimormosíssima",
+      "antimormosissimamente",
+      "antimormosíssimas",
+      "antimormosíssimo",
+      "antimormosíssimos"
+    ]
+  },
+  "moroso": {
+    "H": [
+      "morosíssima",
+      "morosissimamente",
+      "morosíssimas",
+      "morosíssimo",
+      "morosíssimos"
+    ],
+    "À+H": [
+      "remorosíssima",
+      "remorosissimamente",
+      "remorosíssimas",
+      "remorosíssimo",
+      "remorosíssimos"
+    ]
+  },
+  "morraçal": {
+    "H": [
+      "morraçalíssima",
+      "morraçalissimamente",
+      "morraçalíssimas",
+      "morraçalíssimo",
+      "morraçalíssimos"
+    ]
+  },
+  "morrinhoso": {
+    "H": [
+      "morrinhosíssima",
+      "morrinhosissimamente",
+      "morrinhosíssimas",
+      "morrinhosíssimo",
+      "morrinhosíssimos"
+    ]
+  },
+  "morsal": {
+    "H": [
+      "morsalíssima",
+      "morsalissimamente",
+      "morsalíssimas",
+      "morsalíssimo",
+      "morsalíssimos"
+    ],
+    "À+H": [
+      "remorsalíssima",
+      "remorsalissimamente",
+      "remorsalíssimas",
+      "remorsalíssimo",
+      "remorsalíssimos"
+    ]
+  },
+  "mortal": {
+    "H": [
+      "mortalíssima",
+      "mortalissimamente",
+      "mortalíssimas",
+      "mortalíssimo",
+      "mortalíssimos"
+    ],
+    "Ä+H": [
+      "imortalíssima",
+      "imortalissimamente",
+      "imortalíssimas",
+      "imortalíssimo",
+      "imortalíssimos"
+    ]
+  },
+  "mortificável": {
+    "I": [
+      "mortificabilíssima",
+      "mortificabilissimamente",
+      "mortificabilíssimas",
+      "mortificabilíssimo",
+      "mortificabilíssimos"
+    ]
+  },
+  "mortinatal": {
+    "H": [
+      "mortinatalíssima",
+      "mortinatalissimamente",
+      "mortinatalíssimas",
+      "mortinatalíssimo",
+      "mortinatalíssimos"
+    ]
+  },
+  "mortuoso": {
+    "H": [
+      "mortuosíssima",
+      "mortuosissimamente",
+      "mortuosíssimas",
+      "mortuosíssimo",
+      "mortuosíssimos"
+    ]
+  },
+  "moruloso": {
+    "H": [
+      "morulosíssima",
+      "morulosissimamente",
+      "morulosíssimas",
+      "morulosíssimo",
+      "morulosíssimos"
+    ]
+  },
+  "moscoso": {
+    "H": [
+      "moscosíssima",
+      "moscosissimamente",
+      "moscosíssimas",
+      "moscosíssimo",
+      "moscosíssimos"
+    ]
+  },
+  "mosocoso": {
+    "H": [
+      "mosocosíssima",
+      "mosocosissimamente",
+      "mosocosíssimas",
+      "mosocosíssimo",
+      "mosocosíssimos"
+    ]
+  },
+  "mostardal": {
+    "H": [
+      "mostardalíssima",
+      "mostardalissimamente",
+      "mostardalíssimas",
+      "mostardalíssimo",
+      "mostardalíssimos"
+    ]
+  },
+  "mosteiral": {
+    "H": [
+      "mosteiralíssima",
+      "mosteiralissimamente",
+      "mosteiralíssimas",
+      "mosteiralíssimo",
+      "mosteiralíssimos"
+    ]
+  },
+  "mostrável": {
+    "I": [
+      "mostrabilíssima",
+      "mostrabilissimamente",
+      "mostrabilíssimas",
+      "mostrabilíssimo",
+      "mostrabilíssimos"
+    ],
+    "Ï+I": [
+      "antemostrabilíssima",
+      "antemostrabilissimamente",
+      "antemostrabilíssimas",
+      "antemostrabilíssimo",
+      "antemostrabilíssimos"
+    ],
+    "ò+I": [
+      "amostrabilíssima",
+      "amostrabilissimamente",
+      "amostrabilíssimas",
+      "amostrabilíssimo",
+      "amostrabilíssimos"
+    ]
+  },
+  "motinoso": {
+    "H": [
+      "motinosíssima",
+      "motinosissimamente",
+      "motinosíssimas",
+      "motinosíssimo",
+      "motinosíssimos"
+    ]
+  },
+  "motivacional": {
+    "H": [
+      "motivacionalíssima",
+      "motivacionalissimamente",
+      "motivacionalíssimas",
+      "motivacionalíssimo",
+      "motivacionalíssimos"
+    ]
+  },
+  "motivável": {
+    "I": [
+      "motivabilíssima",
+      "motivabilissimamente",
+      "motivabilíssimas",
+      "motivabilíssimo",
+      "motivabilíssimos"
+    ],
+    "Â+I": [
+      "desmotivabilíssima",
+      "desmotivabilissimamente",
+      "desmotivabilíssimas",
+      "desmotivabilíssimo",
+      "desmotivabilíssimos"
+    ]
+  },
+  "moto": {
+    "H": [
+      "motíssima",
+      "motissimamente",
+      "motíssimas",
+      "motíssimo",
+      "motíssimos"
+    ],
+    "À+H": [
+      "remotíssima",
+      "remotissimamente",
+      "remotíssimas",
+      "remotíssimo",
+      "remotíssimos"
+    ],
+    "Ì+H": [
+      "supermotíssima",
+      "supermotissimamente",
+      "supermotíssimas",
+      "supermotíssimo",
+      "supermotíssimos"
+    ]
+  },
+  "motoneuronial": {
+    "H": [
+      "motoneuronialíssima",
+      "motoneuronialissimamente",
+      "motoneuronialíssimas",
+      "motoneuronialíssimo",
+      "motoneuronialíssimos"
+    ]
+  },
+  "mournival": {
+    "H": [
+      "mournivalíssima",
+      "mournivalissimamente",
+      "mournivalíssimas",
+      "mournivalíssimo",
+      "mournivalíssimos"
+    ]
+  },
+  "movimentável": {
+    "I": [
+      "movimentabilíssima",
+      "movimentabilissimamente",
+      "movimentabilíssimas",
+      "movimentabilíssimo",
+      "movimentabilíssimos"
+    ]
+  },
+  "movível": {
+    "I": [
+      "movibilíssima",
+      "movibilissimamente",
+      "movibilíssimas",
+      "movibilíssimo",
+      "movibilíssimos"
+    ],
+    "À+I": [
+      "removibilíssima",
+      "removibilissimamente",
+      "removibilíssimas",
+      "removibilíssimo",
+      "removibilíssimos"
+    ],
+    "Ä+I": [
+      "imovibilíssima",
+      "imovibilissimamente",
+      "imovibilíssimas",
+      "imovibilíssimo",
+      "imovibilíssimos"
+    ]
+  },
+  "mucilaginoso": {
+    "H": [
+      "mucilaginosíssima",
+      "mucilaginosissimamente",
+      "mucilaginosíssimas",
+      "mucilaginosíssimo",
+      "mucilaginosíssimos"
+    ]
+  },
+  "mucomembranoso": {
+    "H": [
+      "mucomembranosíssima",
+      "mucomembranosissimamente",
+      "mucomembranosíssimas",
+      "mucomembranosíssimo",
+      "mucomembranosíssimos"
+    ]
+  },
+  "mucoso": {
+    "H": [
+      "mucosíssima",
+      "mucosissimamente",
+      "mucosíssimas",
+      "mucosíssimo",
+      "mucosíssimos"
+    ],
+    "È+H": [
+      "submucosíssima",
+      "submucosissimamente",
+      "submucosíssimas",
+      "submucosíssimo",
+      "submucosíssimos"
+    ],
+    "ù+H": [
+      "hipomucosíssima",
+      "hipomucosissimamente",
+      "hipomucosíssimas",
+      "hipomucosíssimo",
+      "hipomucosíssimos"
+    ]
+  },
+  "mucosseroso": {
+    "H": [
+      "mucosserosíssima",
+      "mucosserosissimamente",
+      "mucosserosíssimas",
+      "mucosserosíssimo",
+      "mucosserosíssimos"
+    ]
+  },
+  "mudável": {
+    "I": [
+      "mudabilíssima",
+      "mudabilissimamente",
+      "mudabilíssimas",
+      "mudabilíssimo",
+      "mudabilíssimos"
+    ],
+    "î+I": [
+      "transmudabilíssima",
+      "transmudabilissimamente",
+      "transmudabilíssimas",
+      "transmudabilíssimo",
+      "transmudabilíssimos"
+    ],
+    "Ñ+I": [
+      "comudabilíssima",
+      "comudabilissimamente",
+      "comudabilíssimas",
+      "comudabilíssimo",
+      "comudabilíssimos"
+    ]
+  },
+  "muito": {
+    "H": [
+      "muitíssima",
+      "muitissimamente",
+      "muitíssimas",
+      "muitíssimo",
+      "muitíssimos"
+    ]
+  },
+  "mujoroso": {
+    "H": [
+      "mujorosíssima",
+      "mujorosissimamente",
+      "mujorosíssimas",
+      "mujorosíssimo",
+      "mujorosíssimos"
+    ]
+  },
+  "muloso": {
+    "H": [
+      "mulosíssima",
+      "mulosissimamente",
+      "mulosíssimas",
+      "mulosíssimo",
+      "mulosíssimos"
+    ]
+  },
+  "multiarticulável": {
+    "I": [
+      "multiarticulabilíssima",
+      "multiarticulabilissimamente",
+      "multiarticulabilíssimas",
+      "multiarticulabilíssimo",
+      "multiarticulabilíssimos"
+    ]
+  },
+  "multibulboso": {
+    "H": [
+      "multibulbosíssima",
+      "multibulbosissimamente",
+      "multibulbosíssimas",
+      "multibulbosíssimo",
+      "multibulbosíssimos"
+    ]
+  },
+  "multicanal": {
+    "H": [
+      "multicanalíssima",
+      "multicanalissimamente",
+      "multicanalíssimas",
+      "multicanalíssimo",
+      "multicanalíssimos"
+    ]
+  },
+  "multicausal": {
+    "H": [
+      "multicausalíssima",
+      "multicausalissimamente",
+      "multicausalíssimas",
+      "multicausalíssimo",
+      "multicausalíssimos"
+    ]
+  },
+  "multicentral": {
+    "H": [
+      "multicentralíssima",
+      "multicentralissimamente",
+      "multicentralíssimas",
+      "multicentralíssimo",
+      "multicentralíssimos"
+    ]
+  },
+  "multicontinental": {
+    "H": [
+      "multicontinentalíssima",
+      "multicontinentalissimamente",
+      "multicontinentalíssimas",
+      "multicontinentalíssimo",
+      "multicontinentalíssimos"
+    ]
+  },
+  "multicultural": {
+    "H": [
+      "multiculturalíssima",
+      "multiculturalissimamente",
+      "multiculturalíssimas",
+      "multiculturalíssimo",
+      "multiculturalíssimos"
+    ]
+  },
+  "multidialectal": {
+    "H": [
+      "multidialectalíssima",
+      "multidialectalissimamente",
+      "multidialectalíssimas",
+      "multidialectalíssimo",
+      "multidialectalíssimos"
+    ]
+  },
+  "multidialetal": {
+    "H": [
+      "multidialetalíssima",
+      "multidialetalissimamente",
+      "multidialetalíssimas",
+      "multidialetalíssimo",
+      "multidialetalíssimos"
+    ]
+  },
+  "multidimensional": {
+    "H": [
+      "multidimensionalíssima",
+      "multidimensionalissimamente",
+      "multidimensionalíssimas",
+      "multidimensionalíssimo",
+      "multidimensionalíssimos"
+    ]
+  },
+  "multidireccional": {
+    "H": [
+      "multidireccionalíssima",
+      "multidireccionalissimamente",
+      "multidireccionalíssimas",
+      "multidireccionalíssimo",
+      "multidireccionalíssimos"
+    ]
+  },
+  "multidirecional": {
+    "H": [
+      "multidirecionalíssima",
+      "multidirecionalissimamente",
+      "multidirecionalíssimas",
+      "multidirecionalíssimo",
+      "multidirecionalíssimos"
+    ]
+  },
+  "multifatorial": {
+    "H": [
+      "multifatorialíssima",
+      "multifatorialissimamente",
+      "multifatorialíssimas",
+      "multifatorialíssimo",
+      "multifatorialíssimos"
+    ]
+  },
+  "multifilamentoso": {
+    "H": [
+      "multifilamentosíssima",
+      "multifilamentosissimamente",
+      "multifilamentosíssimas",
+      "multifilamentosíssimo",
+      "multifilamentosíssimos"
+    ]
+  },
+  "multifocal": {
+    "H": [
+      "multifocalíssima",
+      "multifocalissimamente",
+      "multifocalíssimas",
+      "multifocalíssimo",
+      "multifocalíssimos"
+    ]
+  },
+  "multifuncional": {
+    "H": [
+      "multifuncionalíssima",
+      "multifuncionalissimamente",
+      "multifuncionalíssimas",
+      "multifuncionalíssimo",
+      "multifuncionalíssimos"
+    ]
+  },
+  "multifuntional": {
+    "H": [
+      "multifuntionalíssima",
+      "multifuntionalissimamente",
+      "multifuntionalíssimas",
+      "multifuntionalíssimo",
+      "multifuntionalíssimos"
+    ]
+  },
+  "multilateral": {
+    "H": [
+      "multilateralíssima",
+      "multilateralissimamente",
+      "multilateralíssimas",
+      "multilateralíssimo",
+      "multilateralíssimos"
+    ]
+  },
+  "multilocal": {
+    "H": [
+      "multilocalíssima",
+      "multilocalissimamente",
+      "multilocalíssimas",
+      "multilocalíssimo",
+      "multilocalíssimos"
+    ]
+  },
+  "multilustroso": {
+    "H": [
+      "multilustrosíssima",
+      "multilustrosissimamente",
+      "multilustrosíssimas",
+      "multilustrosíssimo",
+      "multilustrosíssimos"
+    ]
+  },
+  "multimodal": {
+    "H": [
+      "multimodalíssima",
+      "multimodalissimamente",
+      "multimodalíssimas",
+      "multimodalíssimo",
+      "multimodalíssimos"
+    ]
+  },
+  "multinacional": {
+    "H": [
+      "multinacionalíssima",
+      "multinacionalissimamente",
+      "multinacionalíssimas",
+      "multinacionalíssimo",
+      "multinacionalíssimos"
+    ]
+  },
+  "multinodoso": {
+    "H": [
+      "multinodosíssima",
+      "multinodosissimamente",
+      "multinodosíssimas",
+      "multinodosíssimo",
+      "multinodosíssimos"
+    ]
+  },
+  "multinodular": {
+    "H": [
+      "multinodularíssima",
+      "multinodularissimamente",
+      "multinodularíssimas",
+      "multinodularíssimo",
+      "multinodularíssimos"
+    ]
+  },
+  "multinomial": {
+    "H": [
+      "multinomialíssima",
+      "multinomialissimamente",
+      "multinomialíssimas",
+      "multinomialíssimo",
+      "multinomialíssimos"
+    ]
+  },
+  "multiplicável": {
+    "I": [
+      "multiplicabilíssima",
+      "multiplicabilissimamente",
+      "multiplicabilíssimas",
+      "multiplicabilíssimo",
+      "multiplicabilíssimos"
+    ],
+    "Â+I": [
+      "desmultiplicabilíssima",
+      "desmultiplicabilissimamente",
+      "desmultiplicabilíssimas",
+      "desmultiplicabilíssimo",
+      "desmultiplicabilíssimos"
+    ]
+  },
+  "multiprofissional": {
+    "H": [
+      "multiprofissionalíssima",
+      "multiprofissionalissimamente",
+      "multiprofissionalíssimas",
+      "multiprofissionalíssimo",
+      "multiprofissionalíssimos"
+    ]
+  },
+  "multirracial": {
+    "H": [
+      "multirracialíssima",
+      "multirracialissimamente",
+      "multirracialíssimas",
+      "multirracialíssimo",
+      "multirracialíssimos"
+    ]
+  },
+  "multirramoso": {
+    "H": [
+      "multirramosíssima",
+      "multirramosissimamente",
+      "multirramosíssimas",
+      "multirramosíssimo",
+      "multirramosíssimos"
+    ]
+  },
+  "multirreligioso": {
+    "H": [
+      "multirreligiosíssima",
+      "multirreligiosissimamente",
+      "multirreligiosíssimas",
+      "multirreligiosíssimo",
+      "multirreligiosíssimos"
+    ]
+  },
+  "multispinhoso": {
+    "H": [
+      "multispinhosíssima",
+      "multispinhosissimamente",
+      "multispinhosíssimas",
+      "multispinhosíssimo",
+      "multispinhosíssimos"
+    ]
+  },
+  "multispinoso": {
+    "H": [
+      "multispinosíssima",
+      "multispinosissimamente",
+      "multispinosíssimas",
+      "multispinosíssimo",
+      "multispinosíssimos"
+    ]
+  },
+  "multituberculoso": {
+    "H": [
+      "multituberculosíssima",
+      "multituberculosissimamente",
+      "multituberculosíssimas",
+      "multituberculosíssimo",
+      "multituberculosíssimos"
+    ]
+  },
+  "multivariável": {
+    "I": [
+      "multivariabilíssima",
+      "multivariabilissimamente",
+      "multivariabilíssimas",
+      "multivariabilíssimo",
+      "multivariabilíssimos"
+    ]
+  },
+  "multivibrável": {
+    "I": [
+      "multivibrabilíssima",
+      "multivibrabilissimamente",
+      "multivibrabilíssimas",
+      "multivibrabilíssimo",
+      "multivibrabilíssimos"
+    ]
+  },
+  "mumificável": {
+    "I": [
+      "mumificabilíssima",
+      "mumificabilissimamente",
+      "mumificabilíssimas",
+      "mumificabilíssimo",
+      "mumificabilíssimos"
+    ]
+  },
+  "mundanal": {
+    "H": [
+      "mundanalíssima",
+      "mundanalissimamente",
+      "mundanalíssimas",
+      "mundanalíssimo",
+      "mundanalíssimos"
+    ]
+  },
+  "mundanoso": {
+    "H": [
+      "mundanosíssima",
+      "mundanosissimamente",
+      "mundanosíssimas",
+      "mundanosíssimo",
+      "mundanosíssimos"
+    ]
+  },
+  "mundável": {
+    "I": [
+      "mundabilíssima",
+      "mundabilissimamente",
+      "mundabilíssimas",
+      "mundabilíssimo",
+      "mundabilíssimos"
+    ]
+  },
+  "mundial": {
+    "H": [
+      "mundialíssima",
+      "mundialissimamente",
+      "mundialíssimas",
+      "mundialíssimo",
+      "mundialíssimos"
+    ],
+    "Í+H": [
+      "intermundialíssima",
+      "intermundialissimamente",
+      "intermundialíssimas",
+      "intermundialíssimo",
+      "intermundialíssimos"
+    ],
+    "Ü+H": [
+      "semimundialíssima",
+      "semimundialissimamente",
+      "semimundialíssimas",
+      "semimundialíssimo",
+      "semimundialíssimos"
+    ]
+  },
+  "mundificável": {
+    "I": [
+      "mundificabilíssima",
+      "mundificabilissimamente",
+      "mundificabilíssimas",
+      "mundificabilíssimo",
+      "mundificabilíssimos"
+    ]
+  },
+  "municipal": {
+    "H": [
+      "municipalíssima",
+      "municipalissimamente",
+      "municipalíssimas",
+      "municipalíssimo",
+      "municipalíssimos"
+    ],
+    "Í+H": [
+      "intermunicipalíssima",
+      "intermunicipalissimamente",
+      "intermunicipalíssimas",
+      "intermunicipalíssimo",
+      "intermunicipalíssimos"
+    ],
+    "ô+H": [
+      "supramunicipalíssima",
+      "supramunicipalissimamente",
+      "supramunicipalíssimas",
+      "supramunicipalíssimo",
+      "supramunicipalíssimos"
+    ]
+  },
+  "mural": {
+    "H": [
+      "muralíssima",
+      "muralissimamente",
+      "muralíssimas",
+      "muralíssimo",
+      "muralíssimos"
+    ],
+    "Í+H": [
+      "intermuralíssima",
+      "intermuralissimamente",
+      "intermuralíssimas",
+      "intermuralíssimo",
+      "intermuralíssimos"
+    ],
+    "Ï+H": [
+      "antemuralíssima",
+      "antemuralissimamente",
+      "antemuralíssimas",
+      "antemuralíssimo",
+      "antemuralíssimos"
+    ],
+    "Ô+H": [
+      "extramuralíssima",
+      "extramuralissimamente",
+      "extramuralíssimas",
+      "extramuralíssimo",
+      "extramuralíssimos"
+    ],
+    "Ö+H": [
+      "intramuralíssima",
+      "intramuralissimamente",
+      "intramuralíssimas",
+      "intramuralíssimo",
+      "intramuralíssimos"
+    ]
+  },
+  "murchecível": {
+    "I": [
+      "murchecibilíssima",
+      "murchecibilissimamente",
+      "murchecibilíssimas",
+      "murchecibilíssimo",
+      "murchecibilíssimos"
+    ]
+  },
+  "murchoso": {
+    "H": [
+      "murchosíssima",
+      "murchosissimamente",
+      "murchosíssimas",
+      "murchosíssimo",
+      "murchosíssimos"
+    ]
+  },
+  "muricizal": {
+    "H": [
+      "muricizalíssima",
+      "muricizalissimamente",
+      "muricizalíssimas",
+      "muricizalíssimo",
+      "muricizalíssimos"
+    ]
+  },
+  "muritinzal": {
+    "H": [
+      "muritinzalíssima",
+      "muritinzalissimamente",
+      "muritinzalíssimas",
+      "muritinzalíssimo",
+      "muritinzalíssimos"
+    ]
+  },
+  "muritizal": {
+    "H": [
+      "muritizalíssima",
+      "muritizalissimamente",
+      "muritizalíssimas",
+      "muritizalíssimo",
+      "muritizalíssimos"
+    ]
+  },
+  "murmulhoso": {
+    "H": [
+      "murmulhosíssima",
+      "murmulhosissimamente",
+      "murmulhosíssimas",
+      "murmulhosíssimo",
+      "murmulhosíssimos"
+    ]
+  },
+  "murmuroso": {
+    "H": [
+      "murmurosíssima",
+      "murmurosissimamente",
+      "murmurosíssimas",
+      "murmurosíssimo",
+      "murmurosíssimos"
+    ]
+  },
+  "murumuruzal": {
+    "H": [
+      "murumuruzalíssima",
+      "murumuruzalissimamente",
+      "murumuruzalíssimas",
+      "murumuruzalíssimo",
+      "murumuruzalíssimos"
+    ]
+  },
+  "muscoso": {
+    "H": [
+      "muscosíssima",
+      "muscosissimamente",
+      "muscosíssimas",
+      "muscosíssimo",
+      "muscosíssimos"
+    ]
+  },
+  "musculoadiposo": {
+    "H": [
+      "musculoadiposíssima",
+      "musculoadiposissimamente",
+      "musculoadiposíssimas",
+      "musculoadiposíssimo",
+      "musculoadiposíssimos"
+    ]
+  },
+  "musculoarterial": {
+    "H": [
+      "musculoarterialíssima",
+      "musculoarterialissimamente",
+      "musculoarterialíssimas",
+      "musculoarterialíssimo",
+      "musculoarterialíssimos"
+    ]
+  },
+  "musculocartilaginoso": {
+    "H": [
+      "musculocartilaginosíssima",
+      "musculocartilaginosissimamente",
+      "musculocartilaginosíssimas",
+      "musculocartilaginosíssimo",
+      "musculocartilaginosíssimos"
+    ]
+  },
+  "musculoesqueletal": {
+    "H": [
+      "musculoesqueletalíssima",
+      "musculoesqueletalissimamente",
+      "musculoesqueletalíssimas",
+      "musculoesqueletalíssimo",
+      "musculoesqueletalíssimos"
+    ]
+  },
+  "musculofibroso": {
+    "H": [
+      "musculofibrosíssima",
+      "musculofibrosissimamente",
+      "musculofibrosíssimas",
+      "musculofibrosíssimo",
+      "musculofibrosíssimos"
+    ]
+  },
+  "musculoligamentoso": {
+    "H": [
+      "musculoligamentosíssima",
+      "musculoligamentosissimamente",
+      "musculoligamentosíssimas",
+      "musculoligamentosíssimo",
+      "musculoligamentosíssimos"
+    ]
+  },
+  "musculomembranoso": {
+    "H": [
+      "musculomembranosíssima",
+      "musculomembranosissimamente",
+      "musculomembranosíssimas",
+      "musculomembranosíssimo",
+      "musculomembranosíssimos"
+    ]
+  },
+  "musculoso": {
+    "H": [
+      "musculosíssima",
+      "musculosissimamente",
+      "musculosíssimas",
+      "musculosíssimo",
+      "musculosíssimos"
+    ],
+    "à+H": [
+      "ultramusculosíssima",
+      "ultramusculosissimamente",
+      "ultramusculosíssimas",
+      "ultramusculosíssimo",
+      "ultramusculosíssimos"
+    ],
+    "Ì+H": [
+      "supermusculosíssima",
+      "supermusculosissimamente",
+      "supermusculosíssimas",
+      "supermusculosíssimo",
+      "supermusculosíssimos"
+    ],
+    "Î+H": [
+      "hipermusculosíssima",
+      "hipermusculosissimamente",
+      "hipermusculosíssimas",
+      "hipermusculosíssimo",
+      "hipermusculosíssimos"
+    ]
+  },
+  "musculospinal": {
+    "H": [
+      "musculospinalíssima",
+      "musculospinalissimamente",
+      "musculospinalíssimas",
+      "musculospinalíssimo",
+      "musculospinalíssimos"
+    ]
+  },
+  "musculospiral": {
+    "H": [
+      "musculospiralíssima",
+      "musculospiralissimamente",
+      "musculospiralíssimas",
+      "musculospiralíssimo",
+      "musculospiralíssimos"
+    ]
+  },
+  "musculosqueletal": {
+    "H": [
+      "musculosqueletalíssima",
+      "musculosqueletalissimamente",
+      "musculosqueletalíssimas",
+      "musculosqueletalíssimo",
+      "musculosqueletalíssimos"
+    ]
+  },
+  "musculotendinoso": {
+    "H": [
+      "musculotendinosíssima",
+      "musculotendinosissimamente",
+      "musculotendinosíssimas",
+      "musculotendinosíssimo",
+      "musculotendinosíssimos"
+    ]
+  },
+  "musgoso": {
+    "H": [
+      "musgosíssima",
+      "musgosissimamente",
+      "musgosíssimas",
+      "musgosíssimo",
+      "musgosíssimos"
+    ]
+  },
+  "musical": {
+    "H": [
+      "musicalíssima",
+      "musicalissimamente",
+      "musicalíssimas",
+      "musicalíssimo",
+      "musicalíssimos"
+    ],
+    "Ä+H": [
+      "imusicalíssima",
+      "imusicalissimamente",
+      "imusicalíssimas",
+      "imusicalíssimo",
+      "imusicalíssimos"
+    ],
+    "Ì+H": [
+      "supermusicalíssima",
+      "supermusicalissimamente",
+      "supermusicalíssimas",
+      "supermusicalíssimo",
+      "supermusicalíssimos"
+    ],
+    "Ô+H": [
+      "extramusicalíssima",
+      "extramusicalissimamente",
+      "extramusicalíssimas",
+      "extramusicalíssimo",
+      "extramusicalíssimos"
+    ]
+  },
+  "musicalizável": {
+    "I": [
+      "musicalizabilíssima",
+      "musicalizabilissimamente",
+      "musicalizabilíssimas",
+      "musicalizabilíssimo",
+      "musicalizabilíssimos"
+    ]
+  },
+  "musicável": {
+    "I": [
+      "musicabilíssima",
+      "musicabilissimamente",
+      "musicabilíssimas",
+      "musicabilíssimo",
+      "musicabilíssimos"
+    ]
+  },
+  "musoso": {
+    "H": [
+      "musosíssima",
+      "musosissimamente",
+      "musosíssimas",
+      "musosíssimo",
+      "musosíssimos"
+    ]
+  },
+  "mutacional": {
+    "H": [
+      "mutacionalíssima",
+      "mutacionalissimamente",
+      "mutacionalíssimas",
+      "mutacionalíssimo",
+      "mutacionalíssimos"
+    ]
+  },
+  "mutarrotável": {
+    "I": [
+      "mutarrotabilíssima",
+      "mutarrotabilissimamente",
+      "mutarrotabilíssimas",
+      "mutarrotabilíssimo",
+      "mutarrotabilíssimos"
+    ]
+  },
+  "mutável": {
+    "I": [
+      "mutabilíssima",
+      "mutabilissimamente",
+      "mutabilíssimas",
+      "mutabilíssimo",
+      "mutabilíssimos"
+    ],
+    "Ä+I": [
+      "imutabilíssima",
+      "imutabilissimamente",
+      "imutabilíssimas",
+      "imutabilíssimo",
+      "imutabilíssimos"
+    ],
+    "Í+I": [
+      "intermutabilíssima",
+      "intermutabilissimamente",
+      "intermutabilíssimas",
+      "intermutabilíssimo",
+      "intermutabilíssimos"
+    ]
+  },
+  "mutifactorial": {
+    "H": [
+      "mutifactorialíssima",
+      "mutifactorialissimamente",
+      "mutifactorialíssimas",
+      "mutifactorialíssimo",
+      "mutifactorialíssimos"
+    ]
+  },
+  "mutual": {
+    "H": [
+      "mutualíssima",
+      "mutualissimamente",
+      "mutualíssimas",
+      "mutualíssimo",
+      "mutualíssimos"
+    ]
+  },
+  "muxiboso": {
+    "H": [
+      "muxibosíssima",
+      "muxibosissimamente",
+      "muxibosíssimas",
+      "muxibosíssimo",
+      "muxibosíssimos"
+    ]
+  }
+}

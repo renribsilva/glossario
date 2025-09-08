@@ -23,18 +23,29 @@ export function handleHomeState() {
   const [ptBRExtendedC, setptBRExtendedC] = useState<string[] | null>(null);
   const [ptBRExtendedE, setptBRExtendedE] = useState<string[] | null>(null);
   const [method, setMethod] = useState<"s" | "c" | "e" | null>(null);
-  const [showSuggestion, setShowSuggestion] = useState<boolean>(true);
+  const [isSugDisabled, setIsSugDisabled] = useState<boolean>(true);
   const [activeSug, setActiveSug] = useState<string | null>(null);
+  const [activeFlag, setActiveFlag] = useState<string | null>(null);
+  const [flagGroup, setFlagGroup] = useState<string>("adv_adj_sub_Flags");
 
   const keys = ["exp", "conj", "gram", "def", "dif"];
   const categories = ["sub", "verb", "adj", "adv", "phr"];
   const classes = ["sub", "verb", "adj", "adv", "phr"];
   const methods = ["s", "c", "e"];
+  const flags = [
+    "num_gen_Flags", "superlativo_Flags", "adv_adj_sub_Flags",
+    "aum_dim_Flags", "verbos_conj_Flags"
+  ];
 
   const previousInputNorm = useRef<string | undefined>(undefined);
 
-  const fetchPTExtended = async (searchTerm: string, searchType: "s" | "c" | "e", full: boolean) => {
-    const response = await fetch(`/api/loadData?searchTerm=${searchTerm}&searchType=${searchType}&full=${full}`);
+  const fetchPTExtended = async (
+    flagGroup: string, 
+    searchTerm: string, 
+    searchType: "s" | "c" | "e", 
+    full: boolean
+  ) => {
+    const response = await fetch(`/api/loadData?flagGroup=${flagGroup}&searchTerm=${searchTerm}&searchType=${searchType}&full=${full}`);
     const data = await response.json();
     return data;
   };
@@ -80,6 +91,16 @@ export function handleHomeState() {
     setActiveSug(input);
   };
 
+  const handleFlagsClick = (input: string) => {
+  if (activeFlag === input) {
+    setActiveFlag(null);
+  } else {
+    // ativa novo
+    setFlagGroup(input);
+    setActiveFlag(input);
+  }
+};
+
   const handleSynonymClick = (input: string) => {
     const inputArray = input.split(",").map((item) => item.trim());
     const filteredData = synonymKeyData.filter((entry) => {
@@ -109,7 +130,7 @@ export function handleHomeState() {
 
   useEffect(() => {
     const fetchData = async () => {
-      const result = await fetchPTExtended("orla", "e", false);
+      const result = await fetchPTExtended("num_gen_Flags", "orla", "e", false);
       // console.log(result);
       return result;
     };
@@ -122,43 +143,29 @@ export function handleHomeState() {
 
       if (
         input !== undefined && 
-        (input.endsWith("ar") || 
-        input.endsWith("er") ||
-        input.endsWith("ir") ||
-        input.endsWith("por") ||
-        input.endsWith("pôr")) &&
-        input.length >= 5
+        (input.length >= 3 || inputNorm.length >= 3)
       ) {
         if (method === null) {
           setMethod("e");
-          setActiveSug("e");
         }
-        const ptBRDataS = await fetchPTExtended(input, method, true);
-        const ptBRDataC = await fetchPTExtended(input, method, true);
-        const ptBRDataE = await fetchPTExtended(input, method, true);
+        const ptBRDataS = await fetchPTExtended(flagGroup, input, "s", activeFlag ? true : false);
+        const ptBRDataC = await fetchPTExtended(flagGroup, input, "c", activeFlag ? true : false);
+        const ptBRDataE = await fetchPTExtended(flagGroup, input, "e", activeFlag ? true : false);
         setptBRExtendedS(ptBRDataS);
         setptBRExtendedC(ptBRDataC);
         setptBRExtendedE(ptBRDataE);
-        setShowSuggestion(false);
-      } else if (input !== undefined){
-        if (method === null) {
-          setMethod("e");
-          setActiveSug("e");
+        if (ptBRDataE?.length > 0 || ptBRDataS?.length > 0 || ptBRDataC?.length > 0) {
+          setActiveSug(method)
+          setIsSugDisabled(false);
         }
-        const ptBRDataS = await fetchPTExtended(input, method, false);
-        const ptBRDataC = await fetchPTExtended(input, method, false);
-        const ptBRDataE = await fetchPTExtended(input, method, false);
-        setptBRExtendedS(ptBRDataS);
-        setptBRExtendedC(ptBRDataC);
-        setptBRExtendedE(ptBRDataE);
-        setShowSuggestion(false);
       }
-      if(input === undefined || ni(input) !== ni(inputNorm)) {
-        setShowSuggestion(true);
+      if (input?.length < 3 || inputNorm?.length < 3) {
+        setIsSugDisabled(true)
+        setActiveSug(null)
       }
     }, 400);
     return () => clearTimeout(timer);
-  }, [input, method, inputNorm]);
+  }, [input, method, inputNorm, flagGroup, activeFlag]);
 
   useEffect(() => {
 
@@ -221,6 +228,7 @@ export function handleHomeState() {
     methods,
     input,
     inputNorm,
+    flags,
     showGlosaDef,
     showAnalogDef,
     hasInput,
@@ -234,14 +242,17 @@ export function handleHomeState() {
     ptBRExtendedS,
     ptBRExtendedC,
     ptBRExtendedE,
-    showSuggestion,
+    isSugDisabled,
     activeSug,
+    flagGroup,
+    activeFlag,
     handleInputChange,
     handleKeyDown,
     handleAnalogClick,
     handleSynonymClick,
     handleShowGlosaDef,
     handleNavbarClick,
-    handleSuggestionClick
+    handleSuggestionClick,
+    handleFlagsClick
   };
 }

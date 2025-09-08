@@ -1,0 +1,3972 @@
+{
+  "fabal": {
+    "H": [
+      "fabalíssima",
+      "fabalissimamente",
+      "fabalíssimas",
+      "fabalíssimo",
+      "fabalíssimos"
+    ],
+    "ò+H": [
+      "afabalíssima",
+      "afabalissimamente",
+      "afabalíssimas",
+      "afabalíssimo",
+      "afabalíssimos"
+    ]
+  },
+  "fabricável": {
+    "I": [
+      "fabricabilíssima",
+      "fabricabilissimamente",
+      "fabricabilíssimas",
+      "fabricabilíssimo",
+      "fabricabilíssimos"
+    ]
+  },
+  "fabuloso": {
+    "H": [
+      "fabulosíssima",
+      "fabulosissimamente",
+      "fabulosíssimas",
+      "fabulosíssimo",
+      "fabulosíssimos"
+    ],
+    "à+H": [
+      "ultrafabulosíssima",
+      "ultrafabulosissimamente",
+      "ultrafabulosíssimas",
+      "ultrafabulosíssimo",
+      "ultrafabulosíssimos"
+    ],
+    "Ü+H": [
+      "semifabulosíssima",
+      "semifabulosissimamente",
+      "semifabulosíssimas",
+      "semifabulosíssimo",
+      "semifabulosíssimos"
+    ]
+  },
+  "façanhoso": {
+    "H": [
+      "façanhosíssima",
+      "façanhosissimamente",
+      "façanhosíssimas",
+      "façanhosíssimo",
+      "façanhosíssimos"
+    ]
+  },
+  "faccional": {
+    "H": [
+      "faccionalíssima",
+      "faccionalissimamente",
+      "faccionalíssimas",
+      "faccionalíssimo",
+      "faccionalíssimos"
+    ]
+  },
+  "faccioso": {
+    "H": [
+      "facciosíssima",
+      "facciosissimamente",
+      "facciosíssimas",
+      "facciosíssimo",
+      "facciosíssimos"
+    ]
+  },
+  "facecioso": {
+    "H": [
+      "faceciosíssima",
+      "faceciosissimamente",
+      "faceciosíssimas",
+      "faceciosíssimo",
+      "faceciosíssimos"
+    ]
+  },
+  "facilitável": {
+    "I": [
+      "facilitabilíssima",
+      "facilitabilissimamente",
+      "facilitabilíssimas",
+      "facilitabilíssimo",
+      "facilitabilíssimos"
+    ]
+  },
+  "facinoroso": {
+    "H": [
+      "facinorosíssima",
+      "facinorosissimamente",
+      "facinorosíssimas",
+      "facinorosíssimo",
+      "facinorosíssimos"
+    ]
+  },
+  "faciolingual": {
+    "H": [
+      "faciolingualíssima",
+      "faciolingualissimamente",
+      "faciolingualíssimas",
+      "faciolingualíssimo",
+      "faciolingualíssimos"
+    ]
+  },
+  "facioso": {
+    "H": [
+      "faciosíssima",
+      "faciosissimamente",
+      "faciosíssimas",
+      "faciosíssimo",
+      "faciosíssimos"
+    ]
+  },
+  "factível": {
+    "I": [
+      "factibilíssima",
+      "factibilissimamente",
+      "factibilíssimas",
+      "factibilíssimo",
+      "factibilíssimos"
+    ],
+    "Ä+I": [
+      "infactibilíssima",
+      "infactibilissimamente",
+      "infactibilíssimas",
+      "infactibilíssimo",
+      "infactibilíssimos"
+    ]
+  },
+  "factorial": {
+    "H": [
+      "factorialíssima",
+      "factorialissimamente",
+      "factorialíssimas",
+      "factorialíssimo",
+      "factorialíssimos"
+    ],
+    "Ü+H": [
+      "semifactorialíssima",
+      "semifactorialissimamente",
+      "semifactorialíssimas",
+      "semifactorialíssimo",
+      "semifactorialíssimos"
+    ]
+  },
+  "factual": {
+    "H": [
+      "factualíssima",
+      "factualissimamente",
+      "factualíssimas",
+      "factualíssimo",
+      "factualíssimos"
+    ],
+    "Ó+H": [
+      "contrafactualíssima",
+      "contrafactualissimamente",
+      "contrafactualíssimas",
+      "contrafactualíssimo",
+      "contrafactualíssimos"
+    ]
+  },
+  "facultável": {
+    "I": [
+      "facultabilíssima",
+      "facultabilissimamente",
+      "facultabilíssimas",
+      "facultabilíssimo",
+      "facultabilíssimos"
+    ]
+  },
+  "facultoso": {
+    "H": [
+      "facultosíssima",
+      "facultosissimamente",
+      "facultosíssimas",
+      "facultosíssimo",
+      "facultosíssimos"
+    ]
+  },
+  "fadigoso": {
+    "H": [
+      "fadigosíssima",
+      "fadigosissimamente",
+      "fadigosíssimas",
+      "fadigosíssimo",
+      "fadigosíssimos"
+    ],
+    "ò+H": [
+      "afadigosíssima",
+      "afadigosissimamente",
+      "afadigosíssimas",
+      "afadigosíssimo",
+      "afadigosíssimos"
+    ]
+  },
+  "falace": {
+    "H": [
+      "falacíssima",
+      "falacissimamente",
+      "falacíssimas",
+      "falacíssimo",
+      "falacíssimos"
+    ]
+  },
+  "falacioso": {
+    "H": [
+      "falaciosíssima",
+      "falaciosissimamente",
+      "falaciosíssimas",
+      "falaciosíssimo",
+      "falaciosíssimos"
+    ]
+  },
+  "falangeal": {
+    "H": [
+      "falangealíssima",
+      "falangealissimamente",
+      "falangealíssimas",
+      "falangealíssimo",
+      "falangealíssimos"
+    ],
+    "Û+H": [
+      "profalangealíssima",
+      "profalangealissimamente",
+      "profalangealíssimas",
+      "profalangealíssimo",
+      "profalangealíssimos"
+    ]
+  },
+  "falencial": {
+    "H": [
+      "falencialíssima",
+      "falencialissimamente",
+      "falencialíssimas",
+      "falencialíssimo",
+      "falencialíssimos"
+    ]
+  },
+  "falhoso": {
+    "H": [
+      "falhosíssima",
+      "falhosissimamente",
+      "falhosíssimas",
+      "falhosíssimo",
+      "falhosíssimos"
+    ]
+  },
+  "falível": {
+    "I": [
+      "falibilíssima",
+      "falibilissimamente",
+      "falibilíssimas",
+      "falibilíssimo",
+      "falibilíssimos"
+    ],
+    "Ä+I": [
+      "infalibilíssima",
+      "infalibilissimamente",
+      "infalibilíssimas",
+      "infalibilíssimo",
+      "infalibilíssimos"
+    ]
+  },
+  "falseável": {
+    "I": [
+      "falseabilíssima",
+      "falseabilissimamente",
+      "falseabilíssimas",
+      "falseabilíssimo",
+      "falseabilíssimos"
+    ]
+  },
+  "falsificável": {
+    "I": [
+      "falsificabilíssima",
+      "falsificabilissimamente",
+      "falsificabilíssimas",
+      "falsificabilíssimo",
+      "falsificabilíssimos"
+    ]
+  },
+  "faltoso": {
+    "H": [
+      "faltosíssima",
+      "faltosissimamente",
+      "faltosíssimas",
+      "faltosíssimo",
+      "faltosíssimos"
+    ]
+  },
+  "famigerável": {
+    "I": [
+      "famigerabilíssima",
+      "famigerabilissimamente",
+      "famigerabilíssimas",
+      "famigerabilíssimo",
+      "famigerabilíssimos"
+    ]
+  },
+  "familiarizável": {
+    "I": [
+      "familiarizabilíssima",
+      "familiarizabilissimamente",
+      "familiarizabilíssimas",
+      "familiarizabilíssimo",
+      "familiarizabilíssimos"
+    ]
+  },
+  "famoso": {
+    "H": [
+      "famosíssima",
+      "famosissimamente",
+      "famosíssimas",
+      "famosíssimo",
+      "famosíssimos"
+    ],
+    "à+H": [
+      "ultrafamosíssima",
+      "ultrafamosissimamente",
+      "ultrafamosíssimas",
+      "ultrafamosíssimo",
+      "ultrafamosíssimos"
+    ]
+  },
+  "fanatizável": {
+    "I": [
+      "fanatizabilíssima",
+      "fanatizabilissimamente",
+      "fanatizabilíssimas",
+      "fanatizabilíssimo",
+      "fanatizabilíssimos"
+    ],
+    "Â+I": [
+      "desfanatizabilíssima",
+      "desfanatizabilissimamente",
+      "desfanatizabilíssimas",
+      "desfanatizabilíssimo",
+      "desfanatizabilíssimos"
+    ]
+  },
+  "fanerocristal": {
+    "H": [
+      "fanerocristalíssima",
+      "fanerocristalissimamente",
+      "fanerocristalíssimas",
+      "fanerocristalíssimo",
+      "fanerocristalíssimos"
+    ]
+  },
+  "fanfarronal": {
+    "H": [
+      "fanfarronalíssima",
+      "fanfarronalissimamente",
+      "fanfarronalíssimas",
+      "fanfarronalíssimo",
+      "fanfarronalíssimos"
+    ]
+  },
+  "fanhoso": {
+    "H": [
+      "fanhosíssima",
+      "fanhosissimamente",
+      "fanhosíssimas",
+      "fanhosíssimo",
+      "fanhosíssimos"
+    ]
+  },
+  "fantasioso": {
+    "H": [
+      "fantasiosíssima",
+      "fantasiosissimamente",
+      "fantasiosíssimas",
+      "fantasiosíssimo",
+      "fantasiosíssimos"
+    ]
+  },
+  "fantasmal": {
+    "H": [
+      "fantasmalíssima",
+      "fantasmalissimamente",
+      "fantasmalíssimas",
+      "fantasmalíssimo",
+      "fantasmalíssimos"
+    ]
+  },
+  "fantil": {
+    "H": [
+      "fantilíssima",
+      "fantilissimamente",
+      "fantilíssimas",
+      "fantilíssimo",
+      "fantilíssimos"
+    ],
+    "Ä+H": [
+      "infantilíssima",
+      "infantilissimamente",
+      "infantilíssimas",
+      "infantilíssimo",
+      "infantilíssimos"
+    ]
+  },
+  "farcinoso": {
+    "H": [
+      "farcinosíssima",
+      "farcinosissimamente",
+      "farcinosíssimas",
+      "farcinosíssimo",
+      "farcinosíssimos"
+    ]
+  },
+  "farfalhoso": {
+    "H": [
+      "farfalhosíssima",
+      "farfalhosissimamente",
+      "farfalhosíssimas",
+      "farfalhosíssimo",
+      "farfalhosíssimos"
+    ]
+  },
+  "faringeurismal": {
+    "H": [
+      "faringeurismalíssima",
+      "faringeurismalissimamente",
+      "faringeurismalíssimas",
+      "faringeurismalíssimo",
+      "faringeurismalíssimos"
+    ]
+  },
+  "faringobranquial": {
+    "H": [
+      "faringobranquialíssima",
+      "faringobranquialissimamente",
+      "faringobranquialíssimas",
+      "faringobranquialíssimo",
+      "faringobranquialíssimos"
+    ]
+  },
+  "faringoconjuntival": {
+    "H": [
+      "faringoconjuntivalíssima",
+      "faringoconjuntivalissimamente",
+      "faringoconjuntivalíssimas",
+      "faringoconjuntivalíssimo",
+      "faringoconjuntivalíssimos"
+    ]
+  },
+  "faringonasal": {
+    "H": [
+      "faringonasalíssima",
+      "faringonasalissimamente",
+      "faringonasalíssimas",
+      "faringonasalíssimo",
+      "faringonasalíssimos"
+    ]
+  },
+  "farinhoso": {
+    "H": [
+      "farinhosíssima",
+      "farinhosissimamente",
+      "farinhosíssimas",
+      "farinhosíssimo",
+      "farinhosíssimos"
+    ]
+  },
+  "farrageal": {
+    "H": [
+      "farragealíssima",
+      "farragealissimamente",
+      "farragealíssimas",
+      "farragealíssimo",
+      "farragealíssimos"
+    ]
+  },
+  "farriposo": {
+    "H": [
+      "farriposíssima",
+      "farriposissimamente",
+      "farriposíssimas",
+      "farriposíssimo",
+      "farriposíssimos"
+    ]
+  },
+  "fartável": {
+    "I": [
+      "fartabilíssima",
+      "fartabilissimamente",
+      "fartabilíssimas",
+      "fartabilíssimo",
+      "fartabilíssimos"
+    ],
+    "Ä+I": [
+      "infartabilíssima",
+      "infartabilissimamente",
+      "infartabilíssimas",
+      "infartabilíssimo",
+      "infartabilíssimos"
+    ]
+  },
+  "fartível": {
+    "I": [
+      "fartibilíssima",
+      "fartibilissimamente",
+      "fartibilíssimas",
+      "fartibilíssimo",
+      "fartibilíssimos"
+    ]
+  },
+  "fastidioso": {
+    "H": [
+      "fastidiosíssima",
+      "fastidiosissimamente",
+      "fastidiosíssimas",
+      "fastidiosíssimo",
+      "fastidiosíssimos"
+    ]
+  },
+  "fastigial": {
+    "H": [
+      "fastigialíssima",
+      "fastigialissimamente",
+      "fastigialíssimas",
+      "fastigialíssimo",
+      "fastigialíssimos"
+    ]
+  },
+  "fastigioso": {
+    "H": [
+      "fastigiosíssima",
+      "fastigiosissimamente",
+      "fastigiosíssimas",
+      "fastigiosíssimo",
+      "fastigiosíssimos"
+    ]
+  },
+  "fastioso": {
+    "H": [
+      "fastiosíssima",
+      "fastiosissimamente",
+      "fastiosíssimas",
+      "fastiosíssimo",
+      "fastiosíssimos"
+    ]
+  },
+  "fastoso": {
+    "H": [
+      "fastosíssima",
+      "fastosissimamente",
+      "fastosíssimas",
+      "fastosíssimo",
+      "fastosíssimos"
+    ]
+  },
+  "fastuoso": {
+    "H": [
+      "fastuosíssima",
+      "fastuosissimamente",
+      "fastuosíssimas",
+      "fastuosíssimo",
+      "fastuosíssimos"
+    ]
+  },
+  "fatal": {
+    "H": [
+      "fatalíssima",
+      "fatalissimamente",
+      "fatalíssimas",
+      "fatalíssimo",
+      "fatalíssimos"
+    ]
+  },
+  "fatigável": {
+    "I": [
+      "fatigabilíssima",
+      "fatigabilissimamente",
+      "fatigabilíssimas",
+      "fatigabilíssimo",
+      "fatigabilíssimos"
+    ]
+  },
+  "fatigoso": {
+    "H": [
+      "fatigosíssima",
+      "fatigosissimamente",
+      "fatigosíssimas",
+      "fatigosíssimo",
+      "fatigosíssimos"
+    ]
+  },
+  "fatível": {
+    "I": [
+      "fatibilíssima",
+      "fatibilissimamente",
+      "fatibilíssimas",
+      "fatibilíssimo",
+      "fatibilíssimos"
+    ],
+    "Ä+I": [
+      "infatibilíssima",
+      "infatibilissimamente",
+      "infatibilíssimas",
+      "infatibilíssimo",
+      "infatibilíssimos"
+    ]
+  },
+  "faturável": {
+    "I": [
+      "faturabilíssima",
+      "faturabilissimamente",
+      "faturabilíssimas",
+      "faturabilíssimo",
+      "faturabilíssimos"
+    ],
+    "È+I": [
+      "subfaturabilíssima",
+      "subfaturabilissimamente",
+      "subfaturabilíssimas",
+      "subfaturabilíssimo",
+      "subfaturabilíssimos"
+    ]
+  },
+  "faustoso": {
+    "H": [
+      "faustosíssima",
+      "faustosissimamente",
+      "faustosíssimas",
+      "faustosíssimo",
+      "faustosíssimos"
+    ]
+  },
+  "faustuoso": {
+    "H": [
+      "faustuosíssima",
+      "faustuosissimamente",
+      "faustuosíssimas",
+      "faustuosíssimo",
+      "faustuosíssimos"
+    ]
+  },
+  "fautível": {
+    "I": [
+      "fautibilíssima",
+      "fautibilissimamente",
+      "fautibilíssimas",
+      "fautibilíssimo",
+      "fautibilíssimos"
+    ]
+  },
+  "favorável": {
+    "I": [
+      "favorabilíssima",
+      "favorabilissimamente",
+      "favorabilíssimas",
+      "favorabilíssimo",
+      "favorabilíssimos"
+    ],
+    "Â+I": [
+      "desfavorabilíssima",
+      "desfavorabilissimamente",
+      "desfavorabilíssimas",
+      "desfavorabilíssimo",
+      "desfavorabilíssimos"
+    ],
+    "Ä+I": [
+      "infavorabilíssima",
+      "infavorabilissimamente",
+      "infavorabilíssimas",
+      "infavorabilíssimo",
+      "infavorabilíssimos"
+    ]
+  },
+  "favorito": {
+    "H": [
+      "favoritíssima",
+      "favoritissimamente",
+      "favoritíssimas",
+      "favoritíssimo",
+      "favoritíssimos"
+    ],
+    "Ì+H": [
+      "superfavoritíssima",
+      "superfavoritissimamente",
+      "superfavoritíssimas",
+      "superfavoritíssimo",
+      "superfavoritíssimos"
+    ]
+  },
+  "favoso": {
+    "H": [
+      "favosíssima",
+      "favosissimamente",
+      "favosíssimas",
+      "favosíssimo",
+      "favosíssimos"
+    ]
+  },
+  "fazível": {
+    "I": [
+      "fazibilíssima",
+      "fazibilissimamente",
+      "fazibilíssimas",
+      "fazibilíssimo",
+      "fazibilíssimos"
+    ],
+    "À+I": [
+      "refazibilíssima",
+      "refazibilissimamente",
+      "refazibilíssimas",
+      "refazibilíssimo",
+      "refazibilíssimos"
+    ],
+    "Â+I": [
+      "desfazibilíssima",
+      "desfazibilissimamente",
+      "desfazibilíssimas",
+      "desfazibilíssimo",
+      "desfazibilíssimos"
+    ]
+  },
+  "febriculoso": {
+    "H": [
+      "febriculosíssima",
+      "febriculosissimamente",
+      "febriculosíssimas",
+      "febriculosíssimo",
+      "febriculosíssimos"
+    ]
+  },
+  "febril": {
+    "H": [
+      "febrilíssima",
+      "febrilissimamente",
+      "febrilíssimas",
+      "febrilíssimo",
+      "febrilíssimos"
+    ],
+    "Á+H": [
+      "antifebrilíssima",
+      "antifebrilissimamente",
+      "antifebrilíssimas",
+      "antifebrilíssimo",
+      "antifebrilíssimos"
+    ],
+    "È+H": [
+      "subfebrilíssima",
+      "subfebrilissimamente",
+      "subfebrilíssimas",
+      "subfebrilíssimo",
+      "subfebrilíssimos"
+    ],
+    "Ï+H": [
+      "antefebrilíssima",
+      "antefebrilissimamente",
+      "antefebrilíssimas",
+      "antefebrilíssimo",
+      "antefebrilíssimos"
+    ]
+  },
+  "febroso": {
+    "H": [
+      "febrosíssima",
+      "febrosissimamente",
+      "febrosíssimas",
+      "febrosíssimo",
+      "febrosíssimos"
+    ]
+  },
+  "feculoso": {
+    "H": [
+      "feculosíssima",
+      "feculosissimamente",
+      "feculosíssimas",
+      "feculosíssimo",
+      "feculosíssimos"
+    ]
+  },
+  "fecundável": {
+    "I": [
+      "fecundabilíssima",
+      "fecundabilissimamente",
+      "fecundabilíssimas",
+      "fecundabilíssimo",
+      "fecundabilíssimos"
+    ]
+  },
+  "fecundos": {
+    "H": [
+      "fecundíssima",
+      "fecundissimamente",
+      "fecundíssimas",
+      "fecundíssimo",
+      "fecundíssimos"
+    ],
+    "Ã+H": [
+      "autofecundíssima",
+      "autofecundissimamente",
+      "autofecundíssimas",
+      "autofecundíssimo",
+      "autofecundíssimos"
+    ]
+  },
+  "fedegosal": {
+    "H": [
+      "fedegosalíssima",
+      "fedegosalissimamente",
+      "fedegosalíssimas",
+      "fedegosalíssimo",
+      "fedegosalíssimos"
+    ]
+  },
+  "fedegoso": {
+    "H": [
+      "fedegosíssima",
+      "fedegosissimamente",
+      "fedegosíssimas",
+      "fedegosíssimo",
+      "fedegosíssimos"
+    ]
+  },
+  "fedentinhoso": {
+    "H": [
+      "fedentinhosíssima",
+      "fedentinhosissimamente",
+      "fedentinhosíssimas",
+      "fedentinhosíssimo",
+      "fedentinhosíssimos"
+    ]
+  },
+  "fedentinoso": {
+    "H": [
+      "fedentinosíssima",
+      "fedentinosissimamente",
+      "fedentinosíssimas",
+      "fedentinosíssimo",
+      "fedentinosíssimos"
+    ]
+  },
+  "federal": {
+    "H": [
+      "federalíssima",
+      "federalissimamente",
+      "federalíssimas",
+      "federalíssimo",
+      "federalíssimos"
+    ],
+    "Á+H": [
+      "antifederalíssima",
+      "antifederalissimamente",
+      "antifederalíssimas",
+      "antifederalíssimo",
+      "antifederalíssimos"
+    ]
+  },
+  "feijões-pical": {
+    "H": [
+      "feijões-picalíssima",
+      "feijões-picalissimamente",
+      "feijões-picalíssimas",
+      "feijões-picalíssimo",
+      "feijões-picalíssimos"
+    ]
+  },
+  "feio": {
+    "H": [
+      "feiíssima",
+      "feiissimamente",
+      "feiíssimas",
+      "feiíssimo",
+      "feiíssimos"
+    ]
+  },
+  "feioso": {
+    "H": [
+      "feiosíssima",
+      "feiosissimamente",
+      "feiosíssimas",
+      "feiosíssimo",
+      "feiosíssimos"
+    ]
+  },
+  "feiticeiral": {
+    "H": [
+      "feiticeiralíssima",
+      "feiticeiralissimamente",
+      "feiticeiralíssimas",
+      "feiticeiralíssimo",
+      "feiticeiralíssimos"
+    ]
+  },
+  "felandral": {
+    "H": [
+      "felandralíssima",
+      "felandralissimamente",
+      "felandralíssimas",
+      "felandralíssimo",
+      "felandralíssimos"
+    ]
+  },
+  "feldmarechal": {
+    "H": [
+      "feldmarechalíssima",
+      "feldmarechalissimamente",
+      "feldmarechalíssimas",
+      "feldmarechalíssimo",
+      "feldmarechalíssimos"
+    ]
+  },
+  "felicitável": {
+    "I": [
+      "felicitabilíssima",
+      "felicitabilissimamente",
+      "felicitabilíssimas",
+      "felicitabilíssimo",
+      "felicitabilíssimos"
+    ]
+  },
+  "feliz": {
+    "H": [
+      "felicíssima",
+      "felicissimamente",
+      "felicíssimas",
+      "felicíssimo",
+      "felicíssimos"
+    ],
+    "Ì+H": [
+      "superfelicíssima",
+      "superfelicissimamente",
+      "superfelicíssimas",
+      "superfelicíssimo",
+      "superfelicíssimos"
+    ]
+  },
+  "feloso": {
+    "H": [
+      "felosíssima",
+      "felosissimamente",
+      "felosíssimas",
+      "felosíssimo",
+      "felosíssimos"
+    ]
+  },
+  "felposo": {
+    "H": [
+      "felposíssima",
+      "felposissimamente",
+      "felposíssimas",
+      "felposíssimo",
+      "felposíssimos"
+    ]
+  },
+  "feltroso": {
+    "H": [
+      "feltrosíssima",
+      "feltrosissimamente",
+      "feltrosíssimas",
+      "feltrosíssimo",
+      "feltrosíssimos"
+    ]
+  },
+  "feminilizável": {
+    "I": [
+      "feminilizabilíssima",
+      "feminilizabilissimamente",
+      "feminilizabilíssimas",
+      "feminilizabilíssimo",
+      "feminilizabilíssimos"
+    ]
+  },
+  "feminizável": {
+    "I": [
+      "feminizabilíssima",
+      "feminizabilissimamente",
+      "feminizabilíssimas",
+      "feminizabilíssimo",
+      "feminizabilíssimos"
+    ]
+  },
+  "femural": {
+    "H": [
+      "femuralíssima",
+      "femuralissimamente",
+      "femuralíssimas",
+      "femuralíssimo",
+      "femuralíssimos"
+    ]
+  },
+  "fenamisal": {
+    "H": [
+      "fenamisalíssima",
+      "fenamisalissimamente",
+      "fenamisalíssimas",
+      "fenamisalíssimo",
+      "fenamisalíssimos"
+    ]
+  },
+  "fenestral": {
+    "H": [
+      "fenestralíssima",
+      "fenestralissimamente",
+      "fenestralíssimas",
+      "fenestralíssimo",
+      "fenestralíssimos"
+    ]
+  },
+  "fenicofal": {
+    "H": [
+      "fenicofalíssima",
+      "fenicofalissimamente",
+      "fenicofalíssimas",
+      "fenicofalíssimo",
+      "fenicofalíssimos"
+    ]
+  },
+  "fenobarbital": {
+    "H": [
+      "fenobarbitalíssima",
+      "fenobarbitalissimamente",
+      "fenobarbitalíssimas",
+      "fenobarbitalíssimo",
+      "fenobarbitalíssimos"
+    ]
+  },
+  "fenocristal": {
+    "H": [
+      "fenocristalíssima",
+      "fenocristalissimamente",
+      "fenocristalíssimas",
+      "fenocristalíssimo",
+      "fenocristalíssimos"
+    ],
+    "û+H": [
+      "microfenocristalíssima",
+      "microfenocristalissimamente",
+      "microfenocristalíssimas",
+      "microfenocristalíssimo",
+      "microfenocristalíssimos"
+    ]
+  },
+  "fenomenal": {
+    "H": [
+      "fenomenalíssima",
+      "fenomenalissimamente",
+      "fenomenalíssimas",
+      "fenomenalíssimo",
+      "fenomenalíssimos"
+    ]
+  },
+  "fenomenalizável": {
+    "I": [
+      "fenomenalizabilíssima",
+      "fenomenalizabilissimamente",
+      "fenomenalizabilíssimas",
+      "fenomenalizabilíssimo",
+      "fenomenalizabilíssimos"
+    ]
+  },
+  "fenomenizável": {
+    "I": [
+      "fenomenizabilíssima",
+      "fenomenizabilissimamente",
+      "fenomenizabilíssimas",
+      "fenomenizabilíssimo",
+      "fenomenizabilíssimos"
+    ]
+  },
+  "fenomenoso": {
+    "H": [
+      "fenomenosíssima",
+      "fenomenosissimamente",
+      "fenomenosíssimas",
+      "fenomenosíssimo",
+      "fenomenosíssimos"
+    ]
+  },
+  "feocroso": {
+    "H": [
+      "feocrosíssima",
+      "feocrosissimamente",
+      "feocrosíssimas",
+      "feocrosíssimo",
+      "feocrosíssimos"
+    ]
+  },
+  "feoso": {
+    "H": [
+      "feosíssima",
+      "feosissimamente",
+      "feosíssimas",
+      "feosíssimo",
+      "feosíssimos"
+    ]
+  },
+  "feosporoso": {
+    "H": [
+      "feosporosíssima",
+      "feosporosissimamente",
+      "feosporosíssimas",
+      "feosporosíssimo",
+      "feosporosíssimos"
+    ]
+  },
+  "feraz": {
+    "H": [
+      "feracíssima",
+      "feracissimamente",
+      "feracíssimas",
+      "feracíssimo",
+      "feracíssimos"
+    ]
+  },
+  "feriável": {
+    "I": [
+      "feriabilíssima",
+      "feriabilissimamente",
+      "feriabilíssimas",
+      "feriabilíssimo",
+      "feriabilíssimos"
+    ]
+  },
+  "ferível": {
+    "I": [
+      "feribilíssima",
+      "feribilissimamente",
+      "feribilíssimas",
+      "feribilíssimo",
+      "feribilíssimos"
+    ],
+    "À+I": [
+      "referibilíssima",
+      "referibilissimamente",
+      "referibilíssimas",
+      "referibilíssimo",
+      "referibilíssimos"
+    ],
+    "Â+I": [
+      "desferibilíssima",
+      "desferibilissimamente",
+      "desferibilíssimas",
+      "desferibilíssimo",
+      "desferibilíssimos"
+    ]
+  },
+  "fermental": {
+    "H": [
+      "fermentalíssima",
+      "fermentalissimamente",
+      "fermentalíssimas",
+      "fermentalíssimo",
+      "fermentalíssimos"
+    ]
+  },
+  "fermentável": {
+    "I": [
+      "fermentabilíssima",
+      "fermentabilissimamente",
+      "fermentabilíssimas",
+      "fermentabilíssimo",
+      "fermentabilíssimos"
+    ]
+  },
+  "fermentescível": {
+    "I": [
+      "fermentescibilíssima",
+      "fermentescibilissimamente",
+      "fermentescibilíssimas",
+      "fermentescibilíssimo",
+      "fermentescibilíssimos"
+    ],
+    "Á+I": [
+      "antifermentescibilíssima",
+      "antifermentescibilissimamente",
+      "antifermentescibilíssimas",
+      "antifermentescibilíssimo",
+      "antifermentescibilíssimos"
+    ],
+    "Ä+I": [
+      "infermentescibilíssima",
+      "infermentescibilissimamente",
+      "infermentescibilíssimas",
+      "infermentescibilíssimo",
+      "infermentescibilíssimos"
+    ]
+  },
+  "fermentoso": {
+    "H": [
+      "fermentosíssima",
+      "fermentosissimamente",
+      "fermentosíssimas",
+      "fermentosíssimo",
+      "fermentosíssimos"
+    ]
+  },
+  "feroz": {
+    "H": [
+      "ferocíssima",
+      "ferocissimamente",
+      "ferocíssimas",
+      "ferocíssimo",
+      "ferocíssimos"
+    ]
+  },
+  "ferragial": {
+    "H": [
+      "ferragialíssima",
+      "ferragialissimamente",
+      "ferragialíssimas",
+      "ferragialíssimo",
+      "ferragialíssimos"
+    ]
+  },
+  "ferramental": {
+    "H": [
+      "ferramentalíssima",
+      "ferramentalissimamente",
+      "ferramentalíssimas",
+      "ferramentalíssimo",
+      "ferramentalíssimos"
+    ]
+  },
+  "ferregial": {
+    "H": [
+      "ferregialíssima",
+      "ferregialissimamente",
+      "ferregialíssimas",
+      "ferregialíssimo",
+      "ferregialíssimos"
+    ]
+  },
+  "ferroso": {
+    "H": [
+      "ferrosíssima",
+      "ferrosissimamente",
+      "ferrosíssimas",
+      "ferrosíssimo",
+      "ferrosíssimos"
+    ]
+  },
+  "ferrovial": {
+    "H": [
+      "ferrovialíssima",
+      "ferrovialissimamente",
+      "ferrovialíssimas",
+      "ferrovialíssimo",
+      "ferrovialíssimos"
+    ]
+  },
+  "ferruginoso": {
+    "H": [
+      "ferruginosíssima",
+      "ferruginosissimamente",
+      "ferruginosíssimas",
+      "ferruginosíssimo",
+      "ferruginosíssimos"
+    ],
+    "Á+H": [
+      "antiferruginosíssima",
+      "antiferruginosissimamente",
+      "antiferruginosíssimas",
+      "antiferruginosíssimo",
+      "antiferruginosíssimos"
+    ]
+  },
+  "fertilizável": {
+    "I": [
+      "fertilizabilíssima",
+      "fertilizabilissimamente",
+      "fertilizabilíssimas",
+      "fertilizabilíssimo",
+      "fertilizabilíssimos"
+    ],
+    "Â+I": [
+      "desfertilizabilíssima",
+      "desfertilizabilissimamente",
+      "desfertilizabilíssimas",
+      "desfertilizabilíssimo",
+      "desfertilizabilíssimos"
+    ],
+    "Ä+I": [
+      "infertilizabilíssima",
+      "infertilizabilissimamente",
+      "infertilizabilíssimas",
+      "infertilizabilíssimo",
+      "infertilizabilíssimos"
+    ]
+  },
+  "fervoroso": {
+    "H": [
+      "fervorosíssima",
+      "fervorosissimamente",
+      "fervorosíssimas",
+      "fervorosíssimo",
+      "fervorosíssimos"
+    ],
+    "Â+H": [
+      "desfervorosíssima",
+      "desfervorosissimamente",
+      "desfervorosíssimas",
+      "desfervorosíssimo",
+      "desfervorosíssimos"
+    ]
+  },
+  "festejável": {
+    "I": [
+      "festejabilíssima",
+      "festejabilissimamente",
+      "festejabilíssimas",
+      "festejabilíssimo",
+      "festejabilíssimos"
+    ]
+  },
+  "festinoso": {
+    "H": [
+      "festinosíssima",
+      "festinosissimamente",
+      "festinosíssimas",
+      "festinosíssimo",
+      "festinosíssimos"
+    ]
+  },
+  "festoso": {
+    "H": [
+      "festosíssima",
+      "festosissimamente",
+      "festosíssimas",
+      "festosíssimo",
+      "festosíssimos"
+    ]
+  },
+  "fetal": {
+    "H": [
+      "fetalíssima",
+      "fetalissimamente",
+      "fetalíssimas",
+      "fetalíssimo",
+      "fetalíssimos"
+    ]
+  },
+  "fetarbital": {
+    "H": [
+      "fetarbitalíssima",
+      "fetarbitalissimamente",
+      "fetarbitalíssimas",
+      "fetarbitalíssimo",
+      "fetarbitalíssimos"
+    ]
+  },
+  "feudal": {
+    "H": [
+      "feudalíssima",
+      "feudalissimamente",
+      "feudalíssimas",
+      "feudalíssimo",
+      "feudalíssimos"
+    ],
+    "Á+H": [
+      "antifeudalíssima",
+      "antifeudalissimamente",
+      "antifeudalíssimas",
+      "antifeudalíssimo",
+      "antifeudalíssimos"
+    ],
+    "Ü+H": [
+      "semifeudalíssima",
+      "semifeudalissimamente",
+      "semifeudalíssimas",
+      "semifeudalíssimo",
+      "semifeudalíssimos"
+    ]
+  },
+  "feveroso": {
+    "H": [
+      "feverosíssima",
+      "feverosissimamente",
+      "feverosíssimas",
+      "feverosíssimo",
+      "feverosíssimos"
+    ]
+  },
+  "fevroso": {
+    "H": [
+      "fevrosíssima",
+      "fevrosissimamente",
+      "fevrosíssimas",
+      "fevrosíssimo",
+      "fevrosíssimos"
+    ]
+  },
+  "fiável": {
+    "I": [
+      "fiabilíssima",
+      "fiabilissimamente",
+      "fiabilíssimas",
+      "fiabilíssimo",
+      "fiabilíssimos"
+    ],
+    "Â+I": [
+      "desfiabilíssima",
+      "desfiabilissimamente",
+      "desfiabilíssimas",
+      "desfiabilíssimo",
+      "desfiabilíssimos"
+    ],
+    "Ñ+I": [
+      "cofiabilíssima",
+      "cofiabilissimamente",
+      "cofiabilíssimas",
+      "cofiabilíssimo",
+      "cofiabilíssimos"
+    ]
+  },
+  "fibradiposo": {
+    "H": [
+      "fibradiposíssima",
+      "fibradiposissimamente",
+      "fibradiposíssimas",
+      "fibradiposíssimo",
+      "fibradiposíssimos"
+    ]
+  },
+  "fibriloso": {
+    "H": [
+      "fibrilosíssima",
+      "fibrilosissimamente",
+      "fibrilosíssimas",
+      "fibrilosíssimo",
+      "fibrilosíssimos"
+    ]
+  },
+  "fibrinoso": {
+    "H": [
+      "fibrinosíssima",
+      "fibrinosissimamente",
+      "fibrinosíssimas",
+      "fibrinosíssimo",
+      "fibrinosíssimos"
+    ],
+    "Ú+H": [
+      "pseudofibrinosíssima",
+      "pseudofibrinosissimamente",
+      "pseudofibrinosíssimas",
+      "pseudofibrinosíssimo",
+      "pseudofibrinosíssimos"
+    ]
+  },
+  "fibrocartilaginoso": {
+    "H": [
+      "fibrocartilaginosíssima",
+      "fibrocartilaginosissimamente",
+      "fibrocartilaginosíssimas",
+      "fibrocartilaginosíssimo",
+      "fibrocartilaginosíssimos"
+    ]
+  },
+  "fibromembranoso": {
+    "H": [
+      "fibromembranosíssima",
+      "fibromembranosissimamente",
+      "fibromembranosíssimas",
+      "fibromembranosíssimo",
+      "fibromembranosíssimos"
+    ]
+  },
+  "fibromucoso": {
+    "H": [
+      "fibromucosíssima",
+      "fibromucosissimamente",
+      "fibromucosíssimas",
+      "fibromucosíssimo",
+      "fibromucosíssimos"
+    ]
+  },
+  "fibroso": {
+    "H": [
+      "fibrosíssima",
+      "fibrosissimamente",
+      "fibrosíssimas",
+      "fibrosíssimo",
+      "fibrosíssimos"
+    ]
+  },
+  "fibrosquistoso": {
+    "H": [
+      "fibrosquistosíssima",
+      "fibrosquistosissimamente",
+      "fibrosquistosíssimas",
+      "fibrosquistosíssimo",
+      "fibrosquistosíssimos"
+    ]
+  },
+  "fibrossedoso": {
+    "H": [
+      "fibrossedosíssima",
+      "fibrossedosissimamente",
+      "fibrossedosíssimas",
+      "fibrossedosíssimo",
+      "fibrossedosíssimos"
+    ]
+  },
+  "fibrosseroso": {
+    "H": [
+      "fibrosserosíssima",
+      "fibrosserosissimamente",
+      "fibrosserosíssimas",
+      "fibrosserosíssimo",
+      "fibrosserosíssimos"
+    ]
+  },
+  "fibroxistoso": {
+    "H": [
+      "fibroxistosíssima",
+      "fibroxistosissimamente",
+      "fibroxistosíssimas",
+      "fibroxistosíssimo",
+      "fibroxistosíssimos"
+    ]
+  },
+  "fibulissural": {
+    "H": [
+      "fibulissuralíssima",
+      "fibulissuralissimamente",
+      "fibulissuralíssimas",
+      "fibulissuralíssimo",
+      "fibulissuralíssimos"
+    ]
+  },
+  "ficcional": {
+    "H": [
+      "ficcionalíssima",
+      "ficcionalissimamente",
+      "ficcionalíssimas",
+      "ficcionalíssimo",
+      "ficcionalíssimos"
+    ]
+  },
+  "ficeloso": {
+    "H": [
+      "ficelosíssima",
+      "ficelosissimamente",
+      "ficelosíssimas",
+      "ficelosíssimo",
+      "ficelosíssimos"
+    ]
+  },
+  "fichável": {
+    "I": [
+      "fichabilíssima",
+      "fichabilissimamente",
+      "fichabilíssimas",
+      "fichabilíssimo",
+      "fichabilíssimos"
+    ]
+  },
+  "ficticioso": {
+    "H": [
+      "ficticiosíssima",
+      "ficticiosissimamente",
+      "ficticiosíssimas",
+      "ficticiosíssimo",
+      "ficticiosíssimos"
+    ]
+  },
+  "fidalgoso": {
+    "H": [
+      "fidalgosíssima",
+      "fidalgosissimamente",
+      "fidalgosíssimas",
+      "fidalgosíssimo",
+      "fidalgosíssimos"
+    ]
+  },
+  "fidedigno": {
+    "H": [
+      "fidedigníssima",
+      "fidedignissimamente",
+      "fidedigníssimas",
+      "fidedigníssimo",
+      "fidedigníssimos"
+    ]
+  },
+  "figueiral": {
+    "H": [
+      "figueiralíssima",
+      "figueiralissimamente",
+      "figueiralíssimas",
+      "figueiralíssimo",
+      "figueiralíssimos"
+    ]
+  },
+  "figueital": {
+    "H": [
+      "figueitalíssima",
+      "figueitalissimamente",
+      "figueitalíssimas",
+      "figueitalíssimo",
+      "figueitalíssimos"
+    ]
+  },
+  "figural": {
+    "H": [
+      "figuralíssima",
+      "figuralissimamente",
+      "figuralíssimas",
+      "figuralíssimo",
+      "figuralíssimos"
+    ]
+  },
+  "figurável": {
+    "I": [
+      "figurabilíssima",
+      "figurabilissimamente",
+      "figurabilíssimas",
+      "figurabilíssimo",
+      "figurabilíssimos"
+    ],
+    "Â+I": [
+      "desfigurabilíssima",
+      "desfigurabilissimamente",
+      "desfigurabilíssimas",
+      "desfigurabilíssimo",
+      "desfigurabilíssimos"
+    ],
+    "ì+I": [
+      "prefigurabilíssima",
+      "prefigurabilissimamente",
+      "prefigurabilíssimas",
+      "prefigurabilíssimo",
+      "prefigurabilíssimos"
+    ],
+    "î+I": [
+      "transfigurabilíssima",
+      "transfigurabilissimamente",
+      "transfigurabilíssimas",
+      "transfigurabilíssimo",
+      "transfigurabilíssimos"
+    ]
+  },
+  "filamentoso": {
+    "H": [
+      "filamentosíssima",
+      "filamentosissimamente",
+      "filamentosíssimas",
+      "filamentosíssimo",
+      "filamentosíssimos"
+    ]
+  },
+  "filandroso": {
+    "H": [
+      "filandrosíssima",
+      "filandrosissimamente",
+      "filandrosíssimas",
+      "filandrosíssimo",
+      "filandrosíssimos"
+    ]
+  },
+  "filaucioso": {
+    "H": [
+      "filauciosíssima",
+      "filauciosissimamente",
+      "filauciosíssimas",
+      "filauciosíssimo",
+      "filauciosíssimos"
+    ]
+  },
+  "filial": {
+    "H": [
+      "filialíssima",
+      "filialissimamente",
+      "filialíssimas",
+      "filialíssimo",
+      "filialíssimos"
+    ]
+  },
+  "filiável": {
+    "I": [
+      "filiabilíssima",
+      "filiabilissimamente",
+      "filiabilíssimas",
+      "filiabilíssimo",
+      "filiabilíssimos"
+    ]
+  },
+  "filmável": {
+    "I": [
+      "filmabilíssima",
+      "filmabilissimamente",
+      "filmabilíssimas",
+      "filmabilíssimo",
+      "filmabilíssimos"
+    ]
+  },
+  "filoso": {
+    "H": [
+      "filosíssima",
+      "filosissimamente",
+      "filosíssimas",
+      "filosíssimo",
+      "filosíssimos"
+    ]
+  },
+  "filosofal": {
+    "H": [
+      "filosofalíssima",
+      "filosofalissimamente",
+      "filosofalíssimas",
+      "filosofalíssimo",
+      "filosofalíssimos"
+    ]
+  },
+  "filozonal": {
+    "H": [
+      "filozonalíssima",
+      "filozonalissimamente",
+      "filozonalíssimas",
+      "filozonalíssimo",
+      "filozonalíssimos"
+    ]
+  },
+  "filtrável": {
+    "I": [
+      "filtrabilíssima",
+      "filtrabilissimamente",
+      "filtrabilíssimas",
+      "filtrabilíssimo",
+      "filtrabilíssimos"
+    ],
+    "à+I": [
+      "ultrafiltrabilíssima",
+      "ultrafiltrabilissimamente",
+      "ultrafiltrabilíssimas",
+      "ultrafiltrabilíssimo",
+      "ultrafiltrabilíssimos"
+    ],
+    "Ä+I": [
+      "infiltrabilíssima",
+      "infiltrabilissimamente",
+      "infiltrabilíssimas",
+      "infiltrabilíssimo",
+      "infiltrabilíssimos"
+    ]
+  },
+  "fimatoso": {
+    "H": [
+      "fimatosíssima",
+      "fimatosissimamente",
+      "fimatosíssimas",
+      "fimatosíssimo",
+      "fimatosíssimos"
+    ]
+  },
+  "final": {
+    "H": [
+      "finalíssima",
+      "finalissimamente",
+      "finalíssimas",
+      "finalíssimo",
+      "finalíssimos"
+    ],
+    "Ì+H": [
+      "superfinalíssima",
+      "superfinalissimamente",
+      "superfinalíssimas",
+      "superfinalíssimo",
+      "superfinalíssimos"
+    ],
+    "Ü+H": [
+      "semifinalíssima",
+      "semifinalissimamente",
+      "semifinalíssimas",
+      "semifinalíssimo",
+      "semifinalíssimos"
+    ]
+  },
+  "finalizável": {
+    "I": [
+      "finalizabilíssima",
+      "finalizabilissimamente",
+      "finalizabilíssimas",
+      "finalizabilíssimo",
+      "finalizabilíssimos"
+    ],
+    "î+I": [
+      "transfinalizabilíssima",
+      "transfinalizabilissimamente",
+      "transfinalizabilíssimas",
+      "transfinalizabilíssimo",
+      "transfinalizabilíssimos"
+    ]
+  },
+  "financial": {
+    "H": [
+      "financialíssima",
+      "financialissimamente",
+      "financialíssimas",
+      "financialíssimo",
+      "financialíssimos"
+    ]
+  },
+  "financiável": {
+    "I": [
+      "financiabilíssima",
+      "financiabilissimamente",
+      "financiabilíssimas",
+      "financiabilíssimo",
+      "financiabilíssimos"
+    ],
+    "Ã+I": [
+      "autofinanciabilíssima",
+      "autofinanciabilissimamente",
+      "autofinanciabilíssimas",
+      "autofinanciabilíssimo",
+      "autofinanciabilíssimos"
+    ]
+  },
+  "finável": {
+    "I": [
+      "finabilíssima",
+      "finabilissimamente",
+      "finabilíssimas",
+      "finabilíssimo",
+      "finabilíssimos"
+    ]
+  },
+  "findável": {
+    "I": [
+      "findabilíssima",
+      "findabilissimamente",
+      "findabilíssimas",
+      "findabilíssimo",
+      "findabilíssimos"
+    ]
+  },
+  "fingível": {
+    "I": [
+      "fingibilíssima",
+      "fingibilissimamente",
+      "fingibilíssimas",
+      "fingibilíssimo",
+      "fingibilíssimos"
+    ]
+  },
+  "fino": {
+    "H": [
+      "finíssima",
+      "finissimamente",
+      "finíssimas",
+      "finíssimo",
+      "finíssimos"
+    ],
+    "à+H": [
+      "ultrafiníssima",
+      "ultrafinissimamente",
+      "ultrafiníssimas",
+      "ultrafiníssimo",
+      "ultrafiníssimos"
+    ],
+    "Ì+H": [
+      "superfiníssima",
+      "superfinissimamente",
+      "superfiníssimas",
+      "superfiníssimo",
+      "superfiníssimos"
+    ],
+    "Î+H": [
+      "hiperfiníssima",
+      "hiperfinissimamente",
+      "hiperfiníssimas",
+      "hiperfiníssimo",
+      "hiperfiníssimos"
+    ],
+    "Ñ+H": [
+      "cofiníssima",
+      "cofinissimamente",
+      "cofiníssimas",
+      "cofiníssimo",
+      "cofiníssimos"
+    ],
+    "Ô+H": [
+      "extrafiníssima",
+      "extrafinissimamente",
+      "extrafiníssimas",
+      "extrafiníssimo",
+      "extrafiníssimos"
+    ]
+  },
+  "firmamental": {
+    "H": [
+      "firmamentalíssima",
+      "firmamentalissimamente",
+      "firmamentalíssimas",
+      "firmamentalíssimo",
+      "firmamentalíssimos"
+    ]
+  },
+  "firmável": {
+    "I": [
+      "firmabilíssima",
+      "firmabilissimamente",
+      "firmabilíssimas",
+      "firmabilíssimo",
+      "firmabilíssimos"
+    ],
+    "Ä+I": [
+      "infirmabilíssima",
+      "infirmabilissimamente",
+      "infirmabilíssimas",
+      "infirmabilíssimo",
+      "infirmabilíssimos"
+    ],
+    "ò+I": [
+      "afirmabilíssima",
+      "afirmabilissimamente",
+      "afirmabilíssimas",
+      "afirmabilíssimo",
+      "afirmabilíssimos"
+    ]
+  },
+  "fiscal": {
+    "H": [
+      "fiscalíssima",
+      "fiscalissimamente",
+      "fiscalíssimas",
+      "fiscalíssimo",
+      "fiscalíssimos"
+    ],
+    "Ô+H": [
+      "extrafiscalíssima",
+      "extrafiscalissimamente",
+      "extrafiscalíssimas",
+      "extrafiscalíssimo",
+      "extrafiscalíssimos"
+    ]
+  },
+  "fiscalizável": {
+    "I": [
+      "fiscalizabilíssima",
+      "fiscalizabilissimamente",
+      "fiscalizabilíssimas",
+      "fiscalizabilíssimo",
+      "fiscalizabilíssimos"
+    ]
+  },
+  "fisicultural": {
+    "H": [
+      "fisiculturalíssima",
+      "fisiculturalissimamente",
+      "fisiculturalíssimas",
+      "fisiculturalíssimo",
+      "fisiculturalíssimos"
+    ]
+  },
+  "fissidental": {
+    "H": [
+      "fissidentalíssima",
+      "fissidentalissimamente",
+      "fissidentalíssimas",
+      "fissidentalíssimo",
+      "fissidentalíssimos"
+    ]
+  },
+  "fissilingual": {
+    "H": [
+      "fissilingualíssima",
+      "fissilingualissimamente",
+      "fissilingualíssimas",
+      "fissilingualíssimo",
+      "fissilingualíssimos"
+    ]
+  },
+  "fissional": {
+    "H": [
+      "fissionalíssima",
+      "fissionalissimamente",
+      "fissionalíssimas",
+      "fissionalíssimo",
+      "fissionalíssimos"
+    ]
+  },
+  "fissionável": {
+    "I": [
+      "fissionabilíssima",
+      "fissionabilissimamente",
+      "fissionabilíssimas",
+      "fissionabilíssimo",
+      "fissionabilíssimos"
+    ]
+  },
+  "fissural": {
+    "H": [
+      "fissuralíssima",
+      "fissuralissimamente",
+      "fissuralíssimas",
+      "fissuralíssimo",
+      "fissuralíssimos"
+    ]
+  },
+  "fistulizável": {
+    "I": [
+      "fistulizabilíssima",
+      "fistulizabilissimamente",
+      "fistulizabilíssimas",
+      "fistulizabilíssimo",
+      "fistulizabilíssimos"
+    ]
+  },
+  "fistuloso": {
+    "H": [
+      "fistulosíssima",
+      "fistulosissimamente",
+      "fistulosíssimas",
+      "fistulosíssimo",
+      "fistulosíssimos"
+    ]
+  },
+  "fitobacterial": {
+    "H": [
+      "fitobacterialíssima",
+      "fitobacterialissimamente",
+      "fitobacterialíssimas",
+      "fitobacterialíssimo",
+      "fitobacterialíssimos"
+    ]
+  },
+  "fitormonal": {
+    "H": [
+      "fitormonalíssima",
+      "fitormonalissimamente",
+      "fitormonalíssimas",
+      "fitormonalíssimo",
+      "fitormonalíssimos"
+    ]
+  },
+  "fitormonial": {
+    "H": [
+      "fitormonialíssima",
+      "fitormonialissimamente",
+      "fitormonialíssimas",
+      "fitormonialíssimo",
+      "fitormonialíssimos"
+    ]
+  },
+  "fixável": {
+    "I": [
+      "fixabilíssima",
+      "fixabilissimamente",
+      "fixabilíssimas",
+      "fixabilíssimo",
+      "fixabilíssimos"
+    ],
+    "Ä+I": [
+      "infixabilíssima",
+      "infixabilissimamente",
+      "infixabilíssimas",
+      "infixabilíssimo",
+      "infixabilíssimos"
+    ]
+  },
+  "flagelável": {
+    "I": [
+      "flagelabilíssima",
+      "flagelabilissimamente",
+      "flagelabilíssimas",
+      "flagelabilíssimo",
+      "flagelabilíssimos"
+    ]
+  },
+  "flagicioso": {
+    "H": [
+      "flagiciosíssima",
+      "flagiciosissimamente",
+      "flagiciosíssimas",
+      "flagiciosíssimo",
+      "flagiciosíssimos"
+    ]
+  },
+  "flamejável": {
+    "I": [
+      "flamejabilíssima",
+      "flamejabilissimamente",
+      "flamejabilíssimas",
+      "flamejabilíssimo",
+      "flamejabilíssimos"
+    ]
+  },
+  "flanqueável": {
+    "I": [
+      "flanqueabilíssima",
+      "flanqueabilissimamente",
+      "flanqueabilíssimas",
+      "flanqueabilíssimo",
+      "flanqueabilíssimos"
+    ]
+  },
+  "flatoso": {
+    "H": [
+      "flatosíssima",
+      "flatosissimamente",
+      "flatosíssimas",
+      "flatosíssimo",
+      "flatosíssimos"
+    ]
+  },
+  "flatuloso": {
+    "H": [
+      "flatulosíssima",
+      "flatulosissimamente",
+      "flatulosíssimas",
+      "flatulosíssimo",
+      "flatulosíssimos"
+    ]
+  },
+  "flatuoso": {
+    "H": [
+      "flatuosíssima",
+      "flatuosissimamente",
+      "flatuosíssimas",
+      "flatuosíssimo",
+      "flatuosíssimos"
+    ]
+  },
+  "flavortizável": {
+    "I": [
+      "flavortizabilíssima",
+      "flavortizabilissimamente",
+      "flavortizabilíssimas",
+      "flavortizabilíssimo",
+      "flavortizabilíssimos"
+    ]
+  },
+  "flebarterial": {
+    "H": [
+      "flebarterialíssima",
+      "flebarterialissimamente",
+      "flebarterialíssimas",
+      "flebarterialíssimo",
+      "flebarterialíssimos"
+    ]
+  },
+  "flegmonoso": {
+    "H": [
+      "flegmonosíssima",
+      "flegmonosissimamente",
+      "flegmonosíssimas",
+      "flegmonosíssimo",
+      "flegmonosíssimos"
+    ]
+  },
+  "fleimonoso": {
+    "H": [
+      "fleimonosíssima",
+      "fleimonosissimamente",
+      "fleimonosíssimas",
+      "fleimonosíssimo",
+      "fleimonosíssimos"
+    ]
+  },
+  "fleimoso": {
+    "H": [
+      "fleimosíssima",
+      "fleimosissimamente",
+      "fleimosíssimas",
+      "fleimosíssimo",
+      "fleimosíssimos"
+    ]
+  },
+  "flexional": {
+    "H": [
+      "flexionalíssima",
+      "flexionalissimamente",
+      "flexionalíssimas",
+      "flexionalíssimo",
+      "flexionalíssimos"
+    ],
+    "Ä+H": [
+      "inflexionalíssima",
+      "inflexionalissimamente",
+      "inflexionalíssimas",
+      "inflexionalíssimo",
+      "inflexionalíssimos"
+    ]
+  },
+  "flexionável": {
+    "I": [
+      "flexionabilíssima",
+      "flexionabilissimamente",
+      "flexionabilíssimas",
+      "flexionabilíssimo",
+      "flexionabilíssimos"
+    ]
+  },
+  "flexível": {
+    "I": [
+      "flexibilíssima",
+      "flexibilissimamente",
+      "flexibilíssimas",
+      "flexibilíssimo",
+      "flexibilíssimos"
+    ],
+    "À+I": [
+      "reflexibilíssima",
+      "reflexibilissimamente",
+      "reflexibilíssimas",
+      "reflexibilíssimo",
+      "reflexibilíssimos"
+    ],
+    "Ä+I": [
+      "inflexibilíssima",
+      "inflexibilissimamente",
+      "inflexibilíssimas",
+      "inflexibilíssimo",
+      "inflexibilíssimos"
+    ],
+    "Ì+I": [
+      "superflexibilíssima",
+      "superflexibilissimamente",
+      "superflexibilíssimas",
+      "superflexibilíssimo",
+      "superflexibilíssimos"
+    ],
+    "Ü+I": [
+      "semiflexibilíssima",
+      "semiflexibilissimamente",
+      "semiflexibilíssimas",
+      "semiflexibilíssimo",
+      "semiflexibilíssimos"
+    ]
+  },
+  "flexuoso": {
+    "H": [
+      "flexuosíssima",
+      "flexuosissimamente",
+      "flexuosíssimas",
+      "flexuosíssimo",
+      "flexuosíssimos"
+    ]
+  },
+  "flexurável": {
+    "I": [
+      "flexurabilíssima",
+      "flexurabilissimamente",
+      "flexurabilíssimas",
+      "flexurabilíssimo",
+      "flexurabilíssimos"
+    ]
+  },
+  "floconoso": {
+    "H": [
+      "floconosíssima",
+      "floconosissimamente",
+      "floconosíssimas",
+      "floconosíssimo",
+      "floconosíssimos"
+    ]
+  },
+  "flocoso-tomentoso": {
+    "H": [
+      "flocoso-tomentosíssima",
+      "flocoso-tomentosissimamente",
+      "flocoso-tomentosíssimas",
+      "flocoso-tomentosíssimo",
+      "flocoso-tomentosíssimos"
+    ]
+  },
+  "flocoso": {
+    "H": [
+      "flocosíssima",
+      "flocosissimamente",
+      "flocosíssimas",
+      "flocosíssimo",
+      "flocosíssimos"
+    ]
+  },
+  "floreal": {
+    "H": [
+      "florealíssima",
+      "florealissimamente",
+      "florealíssimas",
+      "florealíssimo",
+      "florealíssimos"
+    ]
+  },
+  "floreável": {
+    "I": [
+      "floreabilíssima",
+      "floreabilissimamente",
+      "floreabilíssimas",
+      "floreabilíssimo",
+      "floreabilíssimos"
+    ]
+  },
+  "florestal": {
+    "H": [
+      "florestalíssima",
+      "florestalissimamente",
+      "florestalíssimas",
+      "florestalíssimo",
+      "florestalíssimos"
+    ],
+    "Ü+H": [
+      "semiflorestalíssima",
+      "semiflorestalissimamente",
+      "semiflorestalíssimas",
+      "semiflorestalíssimo",
+      "semiflorestalíssimos"
+    ]
+  },
+  "florestoso": {
+    "H": [
+      "florestosíssima",
+      "florestosissimamente",
+      "florestosíssimas",
+      "florestosíssimo",
+      "florestosíssimos"
+    ]
+  },
+  "floricultural": {
+    "H": [
+      "floriculturalíssima",
+      "floriculturalissimamente",
+      "floriculturalíssimas",
+      "floriculturalíssimo",
+      "floriculturalíssimos"
+    ]
+  },
+  "flosculoso": {
+    "H": [
+      "flosculosíssima",
+      "flosculosissimamente",
+      "flosculosíssimas",
+      "flosculosíssimo",
+      "flosculosíssimos"
+    ],
+    "Ü+H": [
+      "semiflosculosíssima",
+      "semiflosculosissimamente",
+      "semiflosculosíssimas",
+      "semiflosculosíssimo",
+      "semiflosculosíssimos"
+    ]
+  },
+  "flufenisal": {
+    "H": [
+      "flufenisalíssima",
+      "flufenisalissimamente",
+      "flufenisalíssimas",
+      "flufenisalíssimo",
+      "flufenisalíssimos"
+    ]
+  },
+  "fluidificável": {
+    "I": [
+      "fluidificabilíssima",
+      "fluidificabilissimamente",
+      "fluidificabilíssimas",
+      "fluidificabilíssimo",
+      "fluidificabilíssimos"
+    ]
+  },
+  "fluidizável": {
+    "I": [
+      "fluidizabilíssima",
+      "fluidizabilissimamente",
+      "fluidizabilíssimas",
+      "fluidizabilíssimo",
+      "fluidizabilíssimos"
+    ]
+  },
+  "flutuável": {
+    "I": [
+      "flutuabilíssima",
+      "flutuabilissimamente",
+      "flutuabilíssimas",
+      "flutuabilíssimo",
+      "flutuabilíssimos"
+    ]
+  },
+  "flutuoso": {
+    "H": [
+      "flutuosíssima",
+      "flutuosissimamente",
+      "flutuosíssimas",
+      "flutuosíssimo",
+      "flutuosíssimos"
+    ]
+  },
+  "fluvial": {
+    "H": [
+      "fluvialíssima",
+      "fluvialissimamente",
+      "fluvialíssimas",
+      "fluvialíssimo",
+      "fluvialíssimos"
+    ],
+    "à+H": [
+      "ultrafluvialíssima",
+      "ultrafluvialissimamente",
+      "ultrafluvialíssimas",
+      "ultrafluvialíssimo",
+      "ultrafluvialíssimos"
+    ],
+    "È+H": [
+      "subfluvialíssima",
+      "subfluvialissimamente",
+      "subfluvialíssimas",
+      "subfluvialíssimo",
+      "subfluvialíssimos"
+    ],
+    "Í+H": [
+      "interfluvialíssima",
+      "interfluvialissimamente",
+      "interfluvialíssimas",
+      "interfluvialíssimo",
+      "interfluvialíssimos"
+    ]
+  },
+  "fluviglacial": {
+    "H": [
+      "fluviglacialíssima",
+      "fluviglacialissimamente",
+      "fluviglacialíssimas",
+      "fluviglacialíssimo",
+      "fluviglacialíssimos"
+    ]
+  },
+  "fluvioglacial": {
+    "H": [
+      "fluvioglacialíssima",
+      "fluvioglacialissimamente",
+      "fluvioglacialíssimas",
+      "fluvioglacialíssimo",
+      "fluvioglacialíssimos"
+    ]
+  },
+  "fluviotorrencial": {
+    "H": [
+      "fluviotorrencialíssima",
+      "fluviotorrencialissimamente",
+      "fluviotorrencialíssimas",
+      "fluviotorrencialíssimo",
+      "fluviotorrencialíssimos"
+    ]
+  },
+  "fluvitorrencial": {
+    "H": [
+      "fluvitorrencialíssima",
+      "fluvitorrencialissimamente",
+      "fluvitorrencialíssimas",
+      "fluvitorrencialíssimo",
+      "fluvitorrencialíssimos"
+    ]
+  },
+  "fluvivial": {
+    "H": [
+      "fluvivialíssima",
+      "fluvivialissimamente",
+      "fluvivialíssimas",
+      "fluvivialíssimo",
+      "fluvivialíssimos"
+    ]
+  },
+  "fluvovial": {
+    "H": [
+      "fluvovialíssima",
+      "fluvovialissimamente",
+      "fluvovialíssimas",
+      "fluvovialíssimo",
+      "fluvovialíssimos"
+    ]
+  },
+  "focalizável": {
+    "I": [
+      "focalizabilíssima",
+      "focalizabilissimamente",
+      "focalizabilíssimas",
+      "focalizabilíssimo",
+      "focalizabilíssimos"
+    ]
+  },
+  "fofos": {
+    "H": [
+      "fofíssima",
+      "fofissimamente",
+      "fofíssimas",
+      "fofíssimo",
+      "fofíssimos"
+    ]
+  },
+  "fogoso": {
+    "H": [
+      "fogosíssima",
+      "fogosissimamente",
+      "fogosíssimas",
+      "fogosíssimo",
+      "fogosíssimos"
+    ]
+  },
+  "folclorizável": {
+    "I": [
+      "folclorizabilíssima",
+      "folclorizabilissimamente",
+      "folclorizabilíssimas",
+      "folclorizabilíssimo",
+      "folclorizabilíssimos"
+    ]
+  },
+  "folcmusical": {
+    "H": [
+      "folcmusicalíssima",
+      "folcmusicalissimamente",
+      "folcmusicalíssimas",
+      "folcmusicalíssimo",
+      "folcmusicalíssimos"
+    ]
+  },
+  "folheoso": {
+    "H": [
+      "folheosíssima",
+      "folheosissimamente",
+      "folheosíssimas",
+      "folheosíssimo",
+      "folheosíssimos"
+    ]
+  },
+  "folhoso": {
+    "H": [
+      "folhosíssima",
+      "folhosissimamente",
+      "folhosíssimas",
+      "folhosíssimo",
+      "folhosíssimos"
+    ]
+  },
+  "foliculoso": {
+    "H": [
+      "foliculosíssima",
+      "foliculosissimamente",
+      "foliculosíssimas",
+      "foliculosíssimo",
+      "foliculosíssimos"
+    ]
+  },
+  "folioso": {
+    "H": [
+      "foliosíssima",
+      "foliosissimamente",
+      "foliosíssimas",
+      "foliosíssimo",
+      "foliosíssimos"
+    ]
+  },
+  "fonocardiografável": {
+    "I": [
+      "fonocardiografabilíssima",
+      "fonocardiografabilissimamente",
+      "fonocardiografabilíssimas",
+      "fonocardiografabilíssimo",
+      "fonocardiografabilíssimos"
+    ]
+  },
+  "fonopostal": {
+    "H": [
+      "fonopostalíssima",
+      "fonopostalissimamente",
+      "fonopostalíssimas",
+      "fonopostalíssimo",
+      "fonopostalíssimos"
+    ]
+  },
+  "foraminoso": {
+    "H": [
+      "foraminosíssima",
+      "foraminosissimamente",
+      "foraminosíssimas",
+      "foraminosíssimo",
+      "foraminosíssimos"
+    ]
+  },
+  "forçoso": {
+    "H": [
+      "forçosíssima",
+      "forçosissimamente",
+      "forçosíssimas",
+      "forçosíssimo",
+      "forçosíssimos"
+    ]
+  },
+  "forjável": {
+    "I": [
+      "forjabilíssima",
+      "forjabilissimamente",
+      "forjabilíssimas",
+      "forjabilíssimo",
+      "forjabilíssimos"
+    ]
+  },
+  "forjicável": {
+    "I": [
+      "forjicabilíssima",
+      "forjicabilissimamente",
+      "forjicabilíssimas",
+      "forjicabilíssimo",
+      "forjicabilíssimos"
+    ]
+  },
+  "formacional": {
+    "H": [
+      "formacionalíssima",
+      "formacionalissimamente",
+      "formacionalíssimas",
+      "formacionalíssimo",
+      "formacionalíssimos"
+    ],
+    "Ä+H": [
+      "informacionalíssima",
+      "informacionalissimamente",
+      "informacionalíssimas",
+      "informacionalíssimo",
+      "informacionalíssimos"
+    ],
+    "î+H": [
+      "transformacionalíssima",
+      "transformacionalissimamente",
+      "transformacionalíssimas",
+      "transformacionalíssimo",
+      "transformacionalíssimos"
+    ],
+    "Ö+H": [
+      "intraformacionalíssima",
+      "intraformacionalissimamente",
+      "intraformacionalíssimas",
+      "intraformacionalíssimo",
+      "intraformacionalíssimos"
+    ]
+  },
+  "formal": {
+    "H": [
+      "formalíssima",
+      "formalissimamente",
+      "formalíssimas",
+      "formalíssimo",
+      "formalíssimos"
+    ],
+    "Ä+H": [
+      "informalíssima",
+      "informalissimamente",
+      "informalíssimas",
+      "informalíssimo",
+      "informalíssimos"
+    ]
+  },
+  "formalizável": {
+    "I": [
+      "formalizabilíssima",
+      "formalizabilissimamente",
+      "formalizabilíssimas",
+      "formalizabilíssimo",
+      "formalizabilíssimos"
+    ]
+  },
+  "formável": {
+    "I": [
+      "formabilíssima",
+      "formabilissimamente",
+      "formabilíssimas",
+      "formabilíssimo",
+      "formabilíssimos"
+    ],
+    "À+I": [
+      "reformabilíssima",
+      "reformabilissimamente",
+      "reformabilíssimas",
+      "reformabilíssimo",
+      "reformabilíssimos"
+    ],
+    "Â+I": [
+      "desformabilíssima",
+      "desformabilissimamente",
+      "desformabilíssimas",
+      "desformabilíssimo",
+      "desformabilíssimos"
+    ],
+    "É+I": [
+      "neoformabilíssima",
+      "neoformabilissimamente",
+      "neoformabilíssimas",
+      "neoformabilíssimo",
+      "neoformabilíssimos"
+    ],
+    "ú+I": [
+      "pré-formabilíssima",
+      "pré-formabilissimamente",
+      "pré-formabilíssimas",
+      "pré-formabilíssimo",
+      "pré-formabilíssimos"
+    ]
+  },
+  "formidável": {
+    "I": [
+      "formidabilíssima",
+      "formidabilissimamente",
+      "formidabilíssimas",
+      "formidabilíssimo",
+      "formidabilíssimos"
+    ]
+  },
+  "formidoloso": {
+    "H": [
+      "formidolosíssima",
+      "formidolosissimamente",
+      "formidolosíssimas",
+      "formidolosíssimo",
+      "formidolosíssimos"
+    ]
+  },
+  "formigal": {
+    "H": [
+      "formigalíssima",
+      "formigalissimamente",
+      "formigalíssimas",
+      "formigalíssimo",
+      "formigalíssimos"
+    ]
+  },
+  "formocortal": {
+    "H": [
+      "formocortalíssima",
+      "formocortalissimamente",
+      "formocortalíssimas",
+      "formocortalíssimo",
+      "formocortalíssimos"
+    ]
+  },
+  "formolável": {
+    "I": [
+      "formolabilíssima",
+      "formolabilissimamente",
+      "formolabilíssimas",
+      "formolabilíssimo",
+      "formolabilíssimos"
+    ]
+  },
+  "formoso": {
+    "H": [
+      "formosíssima",
+      "formosissimamente",
+      "formosíssimas",
+      "formosíssimo",
+      "formosíssimos"
+    ],
+    "Á+H": [
+      "antiformosíssima",
+      "antiformosissimamente",
+      "antiformosíssimas",
+      "antiformosíssimo",
+      "antiformosíssimos"
+    ],
+    "Â+H": [
+      "desformosíssima",
+      "desformosissimamente",
+      "desformosíssimas",
+      "desformosíssimo",
+      "desformosíssimos"
+    ]
+  },
+  "formulável": {
+    "I": [
+      "formulabilíssima",
+      "formulabilissimamente",
+      "formulabilíssimas",
+      "formulabilíssimo",
+      "formulabilíssimos"
+    ],
+    "Ä+I": [
+      "informulabilíssima",
+      "informulabilissimamente",
+      "informulabilíssimas",
+      "informulabilíssimo",
+      "informulabilíssimos"
+    ]
+  },
+  "forquilhoso": {
+    "H": [
+      "forquilhosíssima",
+      "forquilhosissimamente",
+      "forquilhosíssimas",
+      "forquilhosíssimo",
+      "forquilhosíssimos"
+    ]
+  },
+  "forrageal": {
+    "H": [
+      "forragealíssima",
+      "forragealissimamente",
+      "forragealíssimas",
+      "forragealíssimo",
+      "forragealíssimos"
+    ]
+  },
+  "forraginoso": {
+    "H": [
+      "forraginosíssima",
+      "forraginosissimamente",
+      "forraginosíssimas",
+      "forraginosíssimo",
+      "forraginosíssimos"
+    ]
+  },
+  "forrajoso": {
+    "H": [
+      "forrajosíssima",
+      "forrajosissimamente",
+      "forrajosíssimas",
+      "forrajosíssimo",
+      "forrajosíssimos"
+    ]
+  },
+  "fortalecível": {
+    "I": [
+      "fortalecibilíssima",
+      "fortalecibilissimamente",
+      "fortalecibilíssimas",
+      "fortalecibilíssimo",
+      "fortalecibilíssimos"
+    ],
+    "Â+I": [
+      "desfortalecibilíssima",
+      "desfortalecibilissimamente",
+      "desfortalecibilíssimas",
+      "desfortalecibilíssimo",
+      "desfortalecibilíssimos"
+    ]
+  },
+  "forte": {
+    "H": [
+      "fortíssima",
+      "fortissimamente",
+      "fortíssimas",
+      "fortíssimo",
+      "fortíssimos"
+    ],
+    "à+H": [
+      "ultrafortíssima",
+      "ultrafortissimamente",
+      "ultrafortíssimas",
+      "ultrafortíssimo",
+      "ultrafortíssimos"
+    ],
+    "Ì+H": [
+      "superfortíssima",
+      "superfortissimamente",
+      "superfortíssimas",
+      "superfortíssimo",
+      "superfortíssimos"
+    ],
+    "Ó+H": [
+      "contrafortíssima",
+      "contrafortissimamente",
+      "contrafortíssimas",
+      "contrafortíssimo",
+      "contrafortíssimos"
+    ]
+  },
+  "fortificável": {
+    "I": [
+      "fortificabilíssima",
+      "fortificabilissimamente",
+      "fortificabilíssimas",
+      "fortificabilíssimo",
+      "fortificabilíssimos"
+    ],
+    "Â+I": [
+      "desfortificabilíssima",
+      "desfortificabilissimamente",
+      "desfortificabilíssimas",
+      "desfortificabilíssimo",
+      "desfortificabilíssimos"
+    ]
+  },
+  "fortunoso": {
+    "H": [
+      "fortunosíssima",
+      "fortunosissimamente",
+      "fortunosíssimas",
+      "fortunosíssimo",
+      "fortunosíssimos"
+    ],
+    "Â+H": [
+      "desfortunosíssima",
+      "desfortunosissimamente",
+      "desfortunosíssimas",
+      "desfortunosíssimo",
+      "desfortunosíssimos"
+    ],
+    "Ä+H": [
+      "infortunosíssima",
+      "infortunosissimamente",
+      "infortunosíssimas",
+      "infortunosíssimo",
+      "infortunosíssimos"
+    ],
+    "ò+H": [
+      "afortunosíssima",
+      "afortunosissimamente",
+      "afortunosíssimas",
+      "afortunosíssimo",
+      "afortunosíssimos"
+    ]
+  },
+  "fosfeniloso": {
+    "H": [
+      "fosfenilosíssima",
+      "fosfenilosissimamente",
+      "fosfenilosíssimas",
+      "fosfenilosíssimo",
+      "fosfenilosíssimos"
+    ]
+  },
+  "fosforoso": {
+    "H": [
+      "fosforosíssima",
+      "fosforosissimamente",
+      "fosforosíssimas",
+      "fosforosíssimo",
+      "fosforosíssimos"
+    ],
+    "ù+H": [
+      "hipofosforosíssima",
+      "hipofosforosissimamente",
+      "hipofosforosíssimas",
+      "hipofosforosíssimo",
+      "hipofosforosíssimos"
+    ]
+  },
+  "fossorial": {
+    "H": [
+      "fossorialíssima",
+      "fossorialissimamente",
+      "fossorialíssimas",
+      "fossorialíssimo",
+      "fossorialíssimos"
+    ]
+  },
+  "fossuloso": {
+    "H": [
+      "fossulosíssima",
+      "fossulosissimamente",
+      "fossulosíssimas",
+      "fossulosíssimo",
+      "fossulosíssimos"
+    ]
+  },
+  "fotocondutível": {
+    "I": [
+      "fotocondutibilíssima",
+      "fotocondutibilissimamente",
+      "fotocondutibilíssimas",
+      "fotocondutibilíssimo",
+      "fotocondutibilíssimos"
+    ]
+  },
+  "fotocopiável": {
+    "I": [
+      "fotocopiabilíssima",
+      "fotocopiabilissimamente",
+      "fotocopiabilíssimas",
+      "fotocopiabilíssimo",
+      "fotocopiabilíssimos"
+    ]
+  },
+  "fotodissociável": {
+    "I": [
+      "fotodissociabilíssima",
+      "fotodissociabilissimamente",
+      "fotodissociabilíssimas",
+      "fotodissociabilíssimo",
+      "fotodissociabilíssimos"
+    ]
+  },
+  "fotofulgural": {
+    "H": [
+      "fotofulguralíssima",
+      "fotofulguralissimamente",
+      "fotofulguralíssimas",
+      "fotofulguralíssimo",
+      "fotofulguralíssimos"
+    ]
+  },
+  "fotogravável": {
+    "I": [
+      "fotogravabilíssima",
+      "fotogravabilissimamente",
+      "fotogravabilíssimas",
+      "fotogravabilíssimo",
+      "fotogravabilíssimos"
+    ]
+  },
+  "fotojornal": {
+    "H": [
+      "fotojornalíssima",
+      "fotojornalissimamente",
+      "fotojornalíssimas",
+      "fotojornalíssimo",
+      "fotojornalíssimos"
+    ]
+  },
+  "fotomultiplicável": {
+    "I": [
+      "fotomultiplicabilíssima",
+      "fotomultiplicabilissimamente",
+      "fotomultiplicabilíssimas",
+      "fotomultiplicabilíssimo",
+      "fotomultiplicabilíssimos"
+    ]
+  },
+  "fotoscultural": {
+    "H": [
+      "fotosculturalíssima",
+      "fotosculturalissimamente",
+      "fotosculturalíssimas",
+      "fotosculturalíssimo",
+      "fotosculturalíssimos"
+    ]
+  },
+  "fotossensibilizável": {
+    "I": [
+      "fotossensibilizabilíssima",
+      "fotossensibilizabilissimamente",
+      "fotossensibilizabilíssimas",
+      "fotossensibilizabilíssimo",
+      "fotossensibilizabilíssimos"
+    ]
+  },
+  "fotovisual": {
+    "H": [
+      "fotovisualíssima",
+      "fotovisualissimamente",
+      "fotovisualíssimas",
+      "fotovisualíssimo",
+      "fotovisualíssimos"
+    ]
+  },
+  "fraccionável": {
+    "I": [
+      "fraccionabilíssima",
+      "fraccionabilissimamente",
+      "fraccionabilíssimas",
+      "fraccionabilíssimo",
+      "fraccionabilíssimos"
+    ]
+  },
+  "fracionável": {
+    "I": [
+      "fracionabilíssima",
+      "fracionabilissimamente",
+      "fracionabilíssimas",
+      "fracionabilíssimo",
+      "fracionabilíssimos"
+    ]
+  },
+  "fragmentável": {
+    "I": [
+      "fragmentabilíssima",
+      "fragmentabilissimamente",
+      "fragmentabilíssimas",
+      "fragmentabilíssimo",
+      "fragmentabilíssimos"
+    ]
+  },
+  "fragoroso": {
+    "H": [
+      "fragorosíssima",
+      "fragorosissimamente",
+      "fragorosíssimas",
+      "fragorosíssimo",
+      "fragorosíssimos"
+    ]
+  },
+  "fragoso": {
+    "H": [
+      "fragosíssima",
+      "fragosissimamente",
+      "fragosíssimas",
+      "fragosíssimo",
+      "fragosíssimos"
+    ]
+  },
+  "fraldoso": {
+    "H": [
+      "fraldosíssima",
+      "fraldosissimamente",
+      "fraldosíssimas",
+      "fraldosíssimo",
+      "fraldosíssimos"
+    ]
+  },
+  "franco-provençal": {
+    "H": [
+      "franco-provençalíssima",
+      "franco-provençalissimamente",
+      "franco-provençalíssimas",
+      "franco-provençalíssimo",
+      "franco-provençalíssimos"
+    ]
+  },
+  "frangível": {
+    "I": [
+      "frangibilíssima",
+      "frangibilissimamente",
+      "frangibilíssimas",
+      "frangibilíssimo",
+      "frangibilíssimos"
+    ],
+    "À+I": [
+      "refrangibilíssima",
+      "refrangibilissimamente",
+      "refrangibilíssimas",
+      "refrangibilíssimo",
+      "refrangibilíssimos"
+    ],
+    "Ä+I": [
+      "infrangibilíssima",
+      "infrangibilissimamente",
+      "infrangibilíssimas",
+      "infrangibilíssimo",
+      "infrangibilíssimos"
+    ]
+  },
+  "franqueável": {
+    "I": [
+      "franqueabilíssima",
+      "franqueabilissimamente",
+      "franqueabilíssimas",
+      "franqueabilíssimo",
+      "franqueabilíssimos"
+    ]
+  },
+  "fraque": {
+    "H": [
+      "fraquíssima",
+      "fraquissimamente",
+      "fraquíssimas",
+      "fraquíssimo",
+      "fraquíssimos"
+    ]
+  },
+  "fraternal": {
+    "H": [
+      "fraternalíssima",
+      "fraternalissimamente",
+      "fraternalíssimas",
+      "fraternalíssimo",
+      "fraternalíssimos"
+    ]
+  },
+  "fraternizável": {
+    "I": [
+      "fraternizabilíssima",
+      "fraternizabilissimamente",
+      "fraternizabilíssimas",
+      "fraternizabilíssimo",
+      "fraternizabilíssimos"
+    ],
+    "Â+I": [
+      "desfraternizabilíssima",
+      "desfraternizabilissimamente",
+      "desfraternizabilíssimas",
+      "desfraternizabilíssimo",
+      "desfraternizabilíssimos"
+    ]
+  },
+  "fraturável": {
+    "I": [
+      "fraturabilíssima",
+      "fraturabilissimamente",
+      "fraturabilíssimas",
+      "fraturabilíssimo",
+      "fraturabilíssimos"
+    ]
+  },
+  "fraudável": {
+    "I": [
+      "fraudabilíssima",
+      "fraudabilissimamente",
+      "fraudabilíssimas",
+      "fraudabilíssimo",
+      "fraudabilíssimos"
+    ]
+  },
+  "frauduloso": {
+    "H": [
+      "fraudulosíssima",
+      "fraudulosissimamente",
+      "fraudulosíssimas",
+      "fraudulosíssimo",
+      "fraudulosíssimos"
+    ]
+  },
+  "frenal": {
+    "H": [
+      "frenalíssima",
+      "frenalissimamente",
+      "frenalíssimas",
+      "frenalíssimo",
+      "frenalíssimos"
+    ]
+  },
+  "frequencial": {
+    "H": [
+      "frequencialíssima",
+      "frequencialissimamente",
+      "frequencialíssimas",
+      "frequencialíssimo",
+      "frequencialíssimos"
+    ],
+    "à+H": [
+      "ultrafrequencialíssima",
+      "ultrafrequencialissimamente",
+      "ultrafrequencialíssimas",
+      "ultrafrequencialíssimo",
+      "ultrafrequencialíssimos"
+    ]
+  },
+  "frequentável": {
+    "I": [
+      "frequentabilíssima",
+      "frequentabilissimamente",
+      "frequentabilíssimas",
+      "frequentabilíssimo",
+      "frequentabilíssimos"
+    ]
+  },
+  "friável": {
+    "I": [
+      "friabilíssima",
+      "friabilissimamente",
+      "friabilíssimas",
+      "friabilíssimo",
+      "friabilíssimos"
+    ]
+  },
+  "friccional": {
+    "H": [
+      "friccionalíssima",
+      "friccionalissimamente",
+      "friccionalíssimas",
+      "friccionalíssimo",
+      "friccionalíssimos"
+    ]
+  },
+  "friccionável": {
+    "I": [
+      "friccionabilíssima",
+      "friccionabilissimamente",
+      "friccionabilíssimas",
+      "friccionabilíssimo",
+      "friccionabilíssimos"
+    ]
+  },
+  "frigorificável": {
+    "I": [
+      "frigorificabilíssima",
+      "frigorificabilissimamente",
+      "frigorificabilíssimas",
+      "frigorificabilíssimo",
+      "frigorificabilíssimos"
+    ]
+  },
+  "frinchoso": {
+    "H": [
+      "frinchosíssima",
+      "frinchosissimamente",
+      "frinchosíssimas",
+      "frinchosíssimo",
+      "frinchosíssimos"
+    ]
+  },
+  "frio": {
+    "H": [
+      "friíssima",
+      "friissimamente",
+      "friíssimas",
+      "friíssimo",
+      "friíssimos"
+    ],
+    "Ì+H": [
+      "superfriíssima",
+      "superfriissimamente",
+      "superfriíssimas",
+      "superfriíssimo",
+      "superfriíssimos"
+    ]
+  },
+  "frioso": {
+    "H": [
+      "friosíssima",
+      "friosissimamente",
+      "friosíssimas",
+      "friosíssimo",
+      "friosíssimos"
+    ]
+  },
+  "frondoso": {
+    "H": [
+      "frondosíssima",
+      "frondosissimamente",
+      "frondosíssimas",
+      "frondosíssimo",
+      "frondosíssimos"
+    ]
+  },
+  "frontal": {
+    "H": [
+      "frontalíssima",
+      "frontalissimamente",
+      "frontalíssimas",
+      "frontalíssimo",
+      "frontalíssimos"
+    ],
+    "È+H": [
+      "subfrontalíssima",
+      "subfrontalissimamente",
+      "subfrontalíssimas",
+      "subfrontalíssimo",
+      "subfrontalíssimos"
+    ],
+    "Í+H": [
+      "interfrontalíssima",
+      "interfrontalissimamente",
+      "interfrontalíssimas",
+      "interfrontalíssimo",
+      "interfrontalíssimos"
+    ],
+    "ú+H": [
+      "pré-frontalíssima",
+      "pré-frontalissimamente",
+      "pré-frontalíssimas",
+      "pré-frontalíssimo",
+      "pré-frontalíssimos"
+    ]
+  },
+  "fronticervical": {
+    "H": [
+      "fronticervicalíssima",
+      "fronticervicalissimamente",
+      "fronticervicalíssimas",
+      "fronticervicalíssimo",
+      "fronticervicalíssimos"
+    ]
+  },
+  "frontilacrimal": {
+    "H": [
+      "frontilacrimalíssima",
+      "frontilacrimalissimamente",
+      "frontilacrimalíssimas",
+      "frontilacrimalíssimo",
+      "frontilacrimalíssimos"
+    ]
+  },
+  "frontinasal": {
+    "H": [
+      "frontinasalíssima",
+      "frontinasalissimamente",
+      "frontinasalíssimas",
+      "frontinasalíssimo",
+      "frontinasalíssimos"
+    ]
+  },
+  "frontiparietal": {
+    "H": [
+      "frontiparietalíssima",
+      "frontiparietalissimamente",
+      "frontiparietalíssimas",
+      "frontiparietalíssimo",
+      "frontiparietalíssimos"
+    ]
+  },
+  "frontispicial": {
+    "H": [
+      "frontispicialíssima",
+      "frontispicialissimamente",
+      "frontispicialíssimas",
+      "frontispicialíssimo",
+      "frontispicialíssimos"
+    ]
+  },
+  "frontitemporal": {
+    "H": [
+      "frontitemporalíssima",
+      "frontitemporalissimamente",
+      "frontitemporalíssimas",
+      "frontitemporalíssimo",
+      "frontitemporalíssimos"
+    ]
+  },
+  "frontoccipital": {
+    "H": [
+      "frontoccipitalíssima",
+      "frontoccipitalissimamente",
+      "frontoccipitalíssimas",
+      "frontoccipitalíssimo",
+      "frontoccipitalíssimos"
+    ]
+  },
+  "frontocervical": {
+    "H": [
+      "frontocervicalíssima",
+      "frontocervicalissimamente",
+      "frontocervicalíssimas",
+      "frontocervicalíssimo",
+      "frontocervicalíssimos"
+    ]
+  },
+  "frontolacrimal": {
+    "H": [
+      "frontolacrimalíssima",
+      "frontolacrimalissimamente",
+      "frontolacrimalíssimas",
+      "frontolacrimalíssimo",
+      "frontolacrimalíssimos"
+    ]
+  },
+  "frontonasal": {
+    "H": [
+      "frontonasalíssima",
+      "frontonasalissimamente",
+      "frontonasalíssimas",
+      "frontonasalíssimo",
+      "frontonasalíssimos"
+    ]
+  },
+  "frontoparietal": {
+    "H": [
+      "frontoparietalíssima",
+      "frontoparietalissimamente",
+      "frontoparietalíssimas",
+      "frontoparietalíssimo",
+      "frontoparietalíssimos"
+    ]
+  },
+  "frontorizontal": {
+    "H": [
+      "frontorizontalíssima",
+      "frontorizontalissimamente",
+      "frontorizontalíssimas",
+      "frontorizontalíssimo",
+      "frontorizontalíssimos"
+    ]
+  },
+  "frontotemporal": {
+    "H": [
+      "frontotemporalíssima",
+      "frontotemporalissimamente",
+      "frontotemporalíssimas",
+      "frontotemporalíssimo",
+      "frontotemporalíssimos"
+    ]
+  },
+  "frouxos": {
+    "H": [
+      "frouxíssima",
+      "frouxissimamente",
+      "frouxíssimas",
+      "frouxíssimo",
+      "frouxíssimos"
+    ],
+    "Â+H": [
+      "desfrouxíssima",
+      "desfrouxissimamente",
+      "desfrouxíssimas",
+      "desfrouxíssimo",
+      "desfrouxíssimos"
+    ]
+  },
+  "frugal": {
+    "H": [
+      "frugalíssima",
+      "frugalissimamente",
+      "frugalíssimas",
+      "frugalíssimo",
+      "frugalíssimos"
+    ]
+  },
+  "fruituoso": {
+    "H": [
+      "fruituosíssima",
+      "fruituosissimamente",
+      "fruituosíssimas",
+      "fruituosíssimo",
+      "fruituosíssimos"
+    ]
+  },
+  "fruível": {
+    "I": [
+      "fruibilíssima",
+      "fruibilissimamente",
+      "fruibilíssimas",
+      "fruibilíssimo",
+      "fruibilíssimos"
+    ],
+    "Â+I": [
+      "desfruibilíssima",
+      "desfruibilissimamente",
+      "desfruibilíssimas",
+      "desfruibilíssimo",
+      "desfruibilíssimos"
+    ]
+  },
+  "frumental": {
+    "H": [
+      "frumentalíssima",
+      "frumentalissimamente",
+      "frumentalíssimas",
+      "frumentalíssimo",
+      "frumentalíssimos"
+    ]
+  },
+  "frumentoso": {
+    "H": [
+      "frumentosíssima",
+      "frumentosissimamente",
+      "frumentosíssimas",
+      "frumentosíssimo",
+      "frumentosíssimos"
+    ]
+  },
+  "frustrável": {
+    "I": [
+      "frustrabilíssima",
+      "frustrabilissimamente",
+      "frustrabilíssimas",
+      "frustrabilíssimo",
+      "frustrabilíssimos"
+    ]
+  },
+  "frutescível": {
+    "I": [
+      "frutescibilíssima",
+      "frutescibilissimamente",
+      "frutescibilíssimas",
+      "frutescibilíssimo",
+      "frutescibilíssimos"
+    ]
+  },
+  "fruticoso": {
+    "H": [
+      "fruticosíssima",
+      "fruticosissimamente",
+      "fruticosíssimas",
+      "fruticosíssimo",
+      "fruticosíssimos"
+    ]
+  },
+  "fruticuloso": {
+    "H": [
+      "fruticulosíssima",
+      "fruticulosissimamente",
+      "fruticulosíssimas",
+      "fruticulosíssimo",
+      "fruticulosíssimos"
+    ]
+  },
+  "fruticultural": {
+    "H": [
+      "fruticulturalíssima",
+      "fruticulturalissimamente",
+      "fruticulturalíssimas",
+      "fruticulturalíssimo",
+      "fruticulturalíssimos"
+    ]
+  },
+  "frutificável": {
+    "I": [
+      "frutificabilíssima",
+      "frutificabilissimamente",
+      "frutificabilíssimas",
+      "frutificabilíssimo",
+      "frutificabilíssimos"
+    ]
+  },
+  "frutuoso": {
+    "H": [
+      "frutuosíssima",
+      "frutuosissimamente",
+      "frutuosíssimas",
+      "frutuosíssimo",
+      "frutuosíssimos"
+    ],
+    "Ä+H": [
+      "infrutuosíssima",
+      "infrutuosissimamente",
+      "infrutuosíssimas",
+      "infrutuosíssimo",
+      "infrutuosíssimos"
+    ]
+  },
+  "fugace": {
+    "H": [
+      "fugacíssima",
+      "fugacissimamente",
+      "fugacíssimas",
+      "fugacíssimo",
+      "fugacíssimos"
+    ]
+  },
+  "fulguroso": {
+    "H": [
+      "fulgurosíssima",
+      "fulgurosissimamente",
+      "fulgurosíssimas",
+      "fulgurosíssimo",
+      "fulgurosíssimos"
+    ]
+  },
+  "fuliginoso": {
+    "H": [
+      "fuliginosíssima",
+      "fuliginosissimamente",
+      "fuliginosíssimas",
+      "fuliginosíssimo",
+      "fuliginosíssimos"
+    ]
+  },
+  "fulminável": {
+    "I": [
+      "fulminabilíssima",
+      "fulminabilissimamente",
+      "fulminabilíssimas",
+      "fulminabilíssimo",
+      "fulminabilíssimos"
+    ]
+  },
+  "fulminoso": {
+    "H": [
+      "fulminosíssima",
+      "fulminosissimamente",
+      "fulminosíssimas",
+      "fulminosíssimo",
+      "fulminosíssimos"
+    ]
+  },
+  "fuloso": {
+    "H": [
+      "fulosíssima",
+      "fulosissimamente",
+      "fulosíssimas",
+      "fulosíssimo",
+      "fulosíssimos"
+    ]
+  },
+  "fumável": {
+    "I": [
+      "fumabilíssima",
+      "fumabilissimamente",
+      "fumabilíssimas",
+      "fumabilíssimo",
+      "fumabilíssimos"
+    ]
+  },
+  "fumestível": {
+    "I": [
+      "fumestibilíssima",
+      "fumestibilissimamente",
+      "fumestibilíssimas",
+      "fumestibilíssimo",
+      "fumestibilíssimos"
+    ]
+  },
+  "fumoso": {
+    "H": [
+      "fumosíssima",
+      "fumosissimamente",
+      "fumosíssimas",
+      "fumosíssimo",
+      "fumosíssimos"
+    ]
+  },
+  "funcional": {
+    "H": [
+      "funcionalíssima",
+      "funcionalissimamente",
+      "funcionalíssimas",
+      "funcionalíssimo",
+      "funcionalíssimos"
+    ],
+    "Â+H": [
+      "desfuncionalíssima",
+      "desfuncionalissimamente",
+      "desfuncionalíssimas",
+      "desfuncionalíssimo",
+      "desfuncionalíssimos"
+    ],
+    "Î+H": [
+      "hiperfuncionalíssima",
+      "hiperfuncionalissimamente",
+      "hiperfuncionalíssimas",
+      "hiperfuncionalíssimo",
+      "hiperfuncionalíssimos"
+    ],
+    "Ñ+H": [
+      "cofuncionalíssima",
+      "cofuncionalissimamente",
+      "cofuncionalíssimas",
+      "cofuncionalíssimo",
+      "cofuncionalíssimos"
+    ],
+    "ö+H": [
+      "polifuncionalíssima",
+      "polifuncionalissimamente",
+      "polifuncionalíssimas",
+      "polifuncionalíssimo",
+      "polifuncionalíssimos"
+    ],
+    "ù+H": [
+      "hipofuncionalíssima",
+      "hipofuncionalissimamente",
+      "hipofuncionalíssimas",
+      "hipofuncionalíssimo",
+      "hipofuncionalíssimos"
+    ]
+  },
+  "funcionalizável": {
+    "I": [
+      "funcionalizabilíssima",
+      "funcionalizabilissimamente",
+      "funcionalizabilíssimas",
+      "funcionalizabilíssimo",
+      "funcionalizabilíssimos"
+    ]
+  },
+  "fundacional": {
+    "H": [
+      "fundacionalíssima",
+      "fundacionalissimamente",
+      "fundacionalíssimas",
+      "fundacionalíssimo",
+      "fundacionalíssimos"
+    ]
+  },
+  "fundamental": {
+    "H": [
+      "fundamentalíssima",
+      "fundamentalissimamente",
+      "fundamentalíssimas",
+      "fundamentalíssimo",
+      "fundamentalíssimos"
+    ]
+  },
+  "fundamentável": {
+    "I": [
+      "fundamentabilíssima",
+      "fundamentabilissimamente",
+      "fundamentabilíssimas",
+      "fundamentabilíssimo",
+      "fundamentabilíssimos"
+    ],
+    "Ä+I": [
+      "infundamentabilíssima",
+      "infundamentabilissimamente",
+      "infundamentabilíssimas",
+      "infundamentabilíssimo",
+      "infundamentabilíssimos"
+    ]
+  },
+  "fundável": {
+    "I": [
+      "fundabilíssima",
+      "fundabilissimamente",
+      "fundabilíssimas",
+      "fundabilíssimo",
+      "fundabilíssimos"
+    ],
+    "À+I": [
+      "refundabilíssima",
+      "refundabilissimamente",
+      "refundabilíssimas",
+      "refundabilíssimo",
+      "refundabilíssimos"
+    ]
+  },
+  "fundível": {
+    "I": [
+      "fundibilíssima",
+      "fundibilissimamente",
+      "fundibilíssimas",
+      "fundibilíssimo",
+      "fundibilíssimos"
+    ],
+    "Â+I": [
+      "desfundibilíssima",
+      "desfundibilissimamente",
+      "desfundibilíssimas",
+      "desfundibilíssimo",
+      "desfundibilíssimos"
+    ],
+    "Ä+I": [
+      "infundibilíssima",
+      "infundibilissimamente",
+      "infundibilíssimas",
+      "infundibilíssimo",
+      "infundibilíssimos"
+    ]
+  },
+  "funestos": {
+    "H": [
+      "funestíssima",
+      "funestissimamente",
+      "funestíssimas",
+      "funestíssimo",
+      "funestíssimos"
+    ]
+  },
+  "fungível": {
+    "I": [
+      "fungibilíssima",
+      "fungibilissimamente",
+      "fungibilíssimas",
+      "fungibilíssimo",
+      "fungibilíssimos"
+    ],
+    "Ä+I": [
+      "infungibilíssima",
+      "infungibilissimamente",
+      "infungibilíssimas",
+      "infungibilíssimo",
+      "infungibilíssimos"
+    ]
+  },
+  "fungoso": {
+    "H": [
+      "fungosíssima",
+      "fungosissimamente",
+      "fungosíssimas",
+      "fungosíssimo",
+      "fungosíssimos"
+    ]
+  },
+  "furável": {
+    "I": [
+      "furabilíssima",
+      "furabilissimamente",
+      "furabilíssimas",
+      "furabilíssimo",
+      "furabilíssimos"
+    ]
+  },
+  "furioso": {
+    "H": [
+      "furiosíssima",
+      "furiosissimamente",
+      "furiosíssimas",
+      "furiosíssimo",
+      "furiosíssimos"
+    ]
+  },
+  "furunculoso": {
+    "H": [
+      "furunculosíssima",
+      "furunculosissimamente",
+      "furunculosíssimas",
+      "furunculosíssimo",
+      "furunculosíssimos"
+    ],
+    "Á+H": [
+      "antifurunculosíssima",
+      "antifurunculosissimamente",
+      "antifurunculosíssimas",
+      "antifurunculosíssimo",
+      "antifurunculosíssimos"
+    ]
+  },
+  "fusível": {
+    "I": [
+      "fusibilíssima",
+      "fusibilissimamente",
+      "fusibilíssimas",
+      "fusibilíssimo",
+      "fusibilíssimos"
+    ],
+    "Ä+I": [
+      "infusibilíssima",
+      "infusibilissimamente",
+      "infusibilíssimas",
+      "infusibilíssimo",
+      "infusibilíssimos"
+    ],
+    "î+I": [
+      "transfusibilíssima",
+      "transfusibilissimamente",
+      "transfusibilíssimas",
+      "transfusibilíssimo",
+      "transfusibilíssimos"
+    ]
+  },
+  "fustigável": {
+    "I": [
+      "fustigabilíssima",
+      "fustigabilissimamente",
+      "fustigabilíssimas",
+      "fustigabilíssimo",
+      "fustigabilíssimos"
+    ]
+  },
+  "futebol": {
+    "H": [
+      "futebolíssima",
+      "futebolissimamente",
+      "futebolíssimas",
+      "futebolíssimo",
+      "futebolíssimos"
+    ]
+  },
+  "futricável": {
+    "I": [
+      "futricabilíssima",
+      "futricabilissimamente",
+      "futricabilíssimas",
+      "futricabilíssimo",
+      "futricabilíssimos"
+    ]
+  },
+  "futurável": {
+    "I": [
+      "futurabilíssima",
+      "futurabilissimamente",
+      "futurabilíssimas",
+      "futurabilíssimo",
+      "futurabilíssimos"
+    ]
+  },
+  "futurível": {
+    "I": [
+      "futuribilíssima",
+      "futuribilissimamente",
+      "futuribilíssimas",
+      "futuribilíssimo",
+      "futuribilíssimos"
+    ]
+  },
+  "futurizável": {
+    "I": [
+      "futurizabilíssima",
+      "futurizabilissimamente",
+      "futurizabilíssimas",
+      "futurizabilíssimo",
+      "futurizabilíssimos"
+    ]
+  },
+  "futuroso": {
+    "H": [
+      "futurosíssima",
+      "futurosissimamente",
+      "futurosíssimas",
+      "futurosíssimo",
+      "futurosíssimos"
+    ]
+  },
+  "fuzilável": {
+    "I": [
+      "fuzilabilíssima",
+      "fuzilabilissimamente",
+      "fuzilabilíssimas",
+      "fuzilabilíssimo",
+      "fuzilabilíssimos"
+    ]
+  }
+}

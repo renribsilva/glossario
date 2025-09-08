@@ -1,0 +1,3697 @@
+{
+  "rabinoso": {
+    "H": [
+      "rabinosíssima",
+      "rabinosissimamente",
+      "rabinosíssimas",
+      "rabinosíssimo",
+      "rabinosíssimos"
+    ]
+  },
+  "rabiosos": {
+    "H": [
+      "rabiosíssima",
+      "rabiosissimamente",
+      "rabiosíssimas",
+      "rabiosíssimo",
+      "rabiosíssimos"
+    ]
+  },
+  "rabiscável": {
+    "I": [
+      "rabiscabilíssima",
+      "rabiscabilissimamente",
+      "rabiscabilíssimas",
+      "rabiscabilíssimo",
+      "rabiscabilíssimos"
+    ]
+  },
+  "raboso": {
+    "H": [
+      "rabosíssima",
+      "rabosissimamente",
+      "rabosíssimas",
+      "rabosíssimo",
+      "rabosíssimos"
+    ]
+  },
+  "rabujoso": {
+    "H": [
+      "rabujosíssima",
+      "rabujosissimamente",
+      "rabujosíssimas",
+      "rabujosíssimo",
+      "rabujosíssimos"
+    ]
+  },
+  "racemizável": {
+    "I": [
+      "racemizabilíssima",
+      "racemizabilissimamente",
+      "racemizabilíssimas",
+      "racemizabilíssimo",
+      "racemizabilíssimos"
+    ]
+  },
+  "racemoso": {
+    "H": [
+      "racemosíssima",
+      "racemosissimamente",
+      "racemosíssimas",
+      "racemosíssimo",
+      "racemosíssimos"
+    ]
+  },
+  "racial": {
+    "H": [
+      "racialíssima",
+      "racialissimamente",
+      "racialíssimas",
+      "racialíssimo",
+      "racialíssimos"
+    ],
+    "È+H": [
+      "sub-racialíssima",
+      "sub-racialissimamente",
+      "sub-racialíssimas",
+      "sub-racialíssimo",
+      "sub-racialíssimos"
+    ]
+  },
+  "racimoso": {
+    "H": [
+      "racimosíssima",
+      "racimosissimamente",
+      "racimosíssimas",
+      "racimosíssimo",
+      "racimosíssimos"
+    ]
+  },
+  "racinoso": {
+    "H": [
+      "racinosíssima",
+      "racinosissimamente",
+      "racinosíssimas",
+      "racinosíssimo",
+      "racinosíssimos"
+    ]
+  },
+  "raciocinal": {
+    "H": [
+      "raciocinalíssima",
+      "raciocinalissimamente",
+      "raciocinalíssimas",
+      "raciocinalíssimo",
+      "raciocinalíssimos"
+    ]
+  },
+  "raciocinável": {
+    "I": [
+      "raciocinabilíssima",
+      "raciocinabilissimamente",
+      "raciocinabilíssimas",
+      "raciocinabilíssimo",
+      "raciocinabilíssimos"
+    ]
+  },
+  "racional": {
+    "H": [
+      "racionalíssima",
+      "racionalissimamente",
+      "racionalíssimas",
+      "racionalíssimo",
+      "racionalíssimos"
+    ],
+    "Ä+H": [
+      "irracionalíssima",
+      "irracionalissimamente",
+      "irracionalíssimas",
+      "irracionalíssimo",
+      "irracionalíssimos"
+    ],
+    "î+H": [
+      "transracionalíssima",
+      "transracionalissimamente",
+      "transracionalíssimas",
+      "transracionalíssimo",
+      "transracionalíssimos"
+    ]
+  },
+  "racionalizável": {
+    "I": [
+      "racionalizabilíssima",
+      "racionalizabilissimamente",
+      "racionalizabilíssimas",
+      "racionalizabilíssimo",
+      "racionalizabilíssimos"
+    ],
+    "Ä+I": [
+      "irracionalizabilíssima",
+      "irracionalizabilissimamente",
+      "irracionalizabilíssimas",
+      "irracionalizabilíssimo",
+      "irracionalizabilíssimos"
+    ]
+  },
+  "racionável": {
+    "I": [
+      "racionabilíssima",
+      "racionabilissimamente",
+      "racionabilíssimas",
+      "racionabilíssimo",
+      "racionabilíssimos"
+    ]
+  },
+  "radial": {
+    "H": [
+      "radialíssima",
+      "radialissimamente",
+      "radialíssimas",
+      "radialíssimo",
+      "radialíssimos"
+    ]
+  },
+  "radiativável": {
+    "I": [
+      "radiativabilíssima",
+      "radiativabilissimamente",
+      "radiativabilíssimas",
+      "radiativabilíssimo",
+      "radiativabilíssimos"
+    ]
+  },
+  "radical": {
+    "H": [
+      "radicalíssima",
+      "radicalissimamente",
+      "radicalíssimas",
+      "radicalíssimo",
+      "radicalíssimos"
+    ],
+    "ú+H": [
+      "pré-radicalíssima",
+      "pré-radicalissimamente",
+      "pré-radicalíssimas",
+      "pré-radicalíssimo",
+      "pré-radicalíssimos"
+    ]
+  },
+  "radicalizável": {
+    "I": [
+      "radicalizabilíssima",
+      "radicalizabilissimamente",
+      "radicalizabilíssimas",
+      "radicalizabilíssimo",
+      "radicalizabilíssimos"
+    ]
+  },
+  "radiceloso": {
+    "H": [
+      "radicelosíssima",
+      "radicelosissimamente",
+      "radicelosíssimas",
+      "radicelosíssimo",
+      "radicelosíssimos"
+    ]
+  },
+  "radicoso": {
+    "H": [
+      "radicosíssima",
+      "radicosissimamente",
+      "radicosíssimas",
+      "radicosíssimo",
+      "radicosíssimos"
+    ]
+  },
+  "radiespacial": {
+    "H": [
+      "radiespacialíssima",
+      "radiespacialissimamente",
+      "radiespacialíssimas",
+      "radiespacialíssimo",
+      "radiespacialíssimos"
+    ]
+  },
+  "radioativável": {
+    "I": [
+      "radioativabilíssima",
+      "radioativabilissimamente",
+      "radioativabilíssimas",
+      "radioativabilíssimo",
+      "radioativabilíssimos"
+    ]
+  },
+  "radiobicipital": {
+    "H": [
+      "radiobicipitalíssima",
+      "radiobicipitalissimamente",
+      "radiobicipitalíssimas",
+      "radiobicipitalíssimo",
+      "radiobicipitalíssimos"
+    ]
+  },
+  "radiocromatografável": {
+    "I": [
+      "radiocromatografabilíssima",
+      "radiocromatografabilissimamente",
+      "radiocromatografabilíssimas",
+      "radiocromatografabilíssimo",
+      "radiocromatografabilíssimos"
+    ]
+  },
+  "radiocubital": {
+    "H": [
+      "radiocubitalíssima",
+      "radiocubitalissimamente",
+      "radiocubitalíssimas",
+      "radiocubitalíssimo",
+      "radiocubitalíssimos"
+    ]
+  },
+  "radiocultural": {
+    "H": [
+      "radioculturalíssima",
+      "radioculturalissimamente",
+      "radioculturalíssimas",
+      "radioculturalíssimo",
+      "radioculturalíssimos"
+    ]
+  },
+  "radioespacial": {
+    "H": [
+      "radioespacialíssima",
+      "radioespacialissimamente",
+      "radioespacialíssimas",
+      "radioespacialíssimo",
+      "radioespacialíssimos"
+    ]
+  },
+  "radiofibroso": {
+    "H": [
+      "radiofibrosíssima",
+      "radiofibrosissimamente",
+      "radiofibrosíssimas",
+      "radiofibrosíssimo",
+      "radiofibrosíssimos"
+    ]
+  },
+  "radiofiscal": {
+    "H": [
+      "radiofiscalíssima",
+      "radiofiscalissimamente",
+      "radiofiscalíssimas",
+      "radiofiscalíssimo",
+      "radiofiscalíssimos"
+    ]
+  },
+  "radiofonizável": {
+    "I": [
+      "radiofonizabilíssima",
+      "radiofonizabilissimamente",
+      "radiofonizabilíssimas",
+      "radiofonizabilíssimo",
+      "radiofonizabilíssimos"
+    ]
+  },
+  "radiojornal": {
+    "H": [
+      "radiojornalíssima",
+      "radiojornalissimamente",
+      "radiojornalíssimas",
+      "radiojornalíssimo",
+      "radiojornalíssimos"
+    ]
+  },
+  "radiolocalizável": {
+    "I": [
+      "radiolocalizabilíssima",
+      "radiolocalizabilissimamente",
+      "radiolocalizabilíssimas",
+      "radiolocalizabilíssimo",
+      "radiolocalizabilíssimos"
+    ]
+  },
+  "radiomarcável": {
+    "I": [
+      "radiomarcabilíssima",
+      "radiomarcabilissimamente",
+      "radiomarcabilíssimas",
+      "radiomarcabilíssimo",
+      "radiomarcabilíssimos"
+    ]
+  },
+  "radiometal": {
+    "H": [
+      "radiometalíssima",
+      "radiometalissimamente",
+      "radiometalíssimas",
+      "radiometalíssimo",
+      "radiometalíssimos"
+    ]
+  },
+  "radionavegável": {
+    "I": [
+      "radionavegabilíssima",
+      "radionavegabilissimamente",
+      "radionavegabilíssimas",
+      "radionavegabilíssimo",
+      "radionavegabilíssimos"
+    ]
+  },
+  "radioso": {
+    "H": [
+      "radiosíssima",
+      "radiosissimamente",
+      "radiosíssimas",
+      "radiosíssimo",
+      "radiosíssimos"
+    ],
+    "Ä+H": [
+      "irradiosíssima",
+      "irradiosissimamente",
+      "irradiosíssimas",
+      "irradiosíssimo",
+      "irradiosíssimos"
+    ]
+  },
+  "radiossensível": {
+    "I": [
+      "radiossensibilíssima",
+      "radiossensibilissimamente",
+      "radiossensibilíssimas",
+      "radiossensibilíssimo",
+      "radiossensibilíssimos"
+    ]
+  },
+  "radioteatral": {
+    "H": [
+      "radioteatralíssima",
+      "radioteatralissimamente",
+      "radioteatralíssimas",
+      "radioteatralíssimo",
+      "radioteatralíssimos"
+    ]
+  },
+  "radiotransistorizável": {
+    "I": [
+      "radiotransistorizabilíssima",
+      "radiotransistorizabilissimamente",
+      "radiotransistorizabilíssimas",
+      "radiotransistorizabilíssimo",
+      "radiotransistorizabilíssimos"
+    ]
+  },
+  "radioumeral": {
+    "H": [
+      "radioumeralíssima",
+      "radioumeralissimamente",
+      "radioumeralíssimas",
+      "radioumeralíssimo",
+      "radioumeralíssimos"
+    ]
+  },
+  "radiulnal": {
+    "H": [
+      "radiulnalíssima",
+      "radiulnalissimamente",
+      "radiulnalíssimas",
+      "radiulnalíssimo",
+      "radiulnalíssimos"
+    ]
+  },
+  "radiumeral": {
+    "H": [
+      "radiumeralíssima",
+      "radiumeralissimamente",
+      "radiumeralíssimas",
+      "radiumeralíssimo",
+      "radiumeralíssimos"
+    ]
+  },
+  "raigotoso": {
+    "H": [
+      "raigotosíssima",
+      "raigotosissimamente",
+      "raigotosíssimas",
+      "raigotosíssimo",
+      "raigotosíssimos"
+    ]
+  },
+  "raioso": {
+    "H": [
+      "raiosíssima",
+      "raiosissimamente",
+      "raiosíssimas",
+      "raiosíssimo",
+      "raiosíssimos"
+    ]
+  },
+  "raivoso": {
+    "H": [
+      "raivosíssima",
+      "raivosissimamente",
+      "raivosíssimas",
+      "raivosíssimo",
+      "raivosíssimos"
+    ]
+  },
+  "ralável": {
+    "I": [
+      "ralabilíssima",
+      "ralabilissimamente",
+      "ralabilíssimas",
+      "ralabilíssimo",
+      "ralabilíssimos"
+    ]
+  },
+  "ramalhoso": {
+    "H": [
+      "ramalhosíssima",
+      "ramalhosissimamente",
+      "ramalhosíssimas",
+      "ramalhosíssimo",
+      "ramalhosíssimos"
+    ]
+  },
+  "rameloso": {
+    "H": [
+      "ramelosíssima",
+      "ramelosissimamente",
+      "ramelosíssimas",
+      "ramelosíssimo",
+      "ramelosíssimos"
+    ]
+  },
+  "ramificável": {
+    "I": [
+      "ramificabilíssima",
+      "ramificabilissimamente",
+      "ramificabilíssimas",
+      "ramificabilíssimo",
+      "ramificabilíssimos"
+    ]
+  },
+  "ramoso": {
+    "H": [
+      "ramosíssima",
+      "ramosissimamente",
+      "ramosíssimas",
+      "ramosíssimo",
+      "ramosíssimos"
+    ],
+    "È+H": [
+      "sub-ramosíssima",
+      "sub-ramosissimamente",
+      "sub-ramosíssimas",
+      "sub-ramosíssimo",
+      "sub-ramosíssimos"
+    ],
+    "ò+H": [
+      "aramosíssima",
+      "aramosissimamente",
+      "aramosíssimas",
+      "aramosíssimo",
+      "aramosíssimos"
+    ]
+  },
+  "ramusculoso": {
+    "H": [
+      "ramusculosíssima",
+      "ramusculosissimamente",
+      "ramusculosíssimas",
+      "ramusculosíssimo",
+      "ramusculosíssimos"
+    ]
+  },
+  "rancordioso": {
+    "H": [
+      "rancordiosíssima",
+      "rancordiosissimamente",
+      "rancordiosíssimas",
+      "rancordiosíssimo",
+      "rancordiosíssimos"
+    ]
+  },
+  "rancoroso": {
+    "H": [
+      "rancorosíssima",
+      "rancorosissimamente",
+      "rancorosíssimas",
+      "rancorosíssimo",
+      "rancorosíssimos"
+    ]
+  },
+  "rançoso": {
+    "H": [
+      "rançosíssima",
+      "rançosissimamente",
+      "rançosíssimas",
+      "rançosíssimo",
+      "rançosíssimos"
+    ]
+  },
+  "randomizável": {
+    "I": [
+      "randomizabilíssima",
+      "randomizabilissimamente",
+      "randomizabilíssimas",
+      "randomizabilíssimo",
+      "randomizabilíssimos"
+    ]
+  },
+  "ranhoso": {
+    "H": [
+      "ranhosíssima",
+      "ranhosissimamente",
+      "ranhosíssimas",
+      "ranhosíssimo",
+      "ranhosíssimos"
+    ],
+    "ò+H": [
+      "aranhosíssima",
+      "aranhosissimamente",
+      "aranhosíssimas",
+      "aranhosíssimo",
+      "aranhosíssimos"
+    ]
+  },
+  "ranunculal": {
+    "H": [
+      "ranunculalíssima",
+      "ranunculalissimamente",
+      "ranunculalíssimas",
+      "ranunculalíssimo",
+      "ranunculalíssimos"
+    ]
+  },
+  "rapace": {
+    "H": [
+      "rapacíssima",
+      "rapacissimamente",
+      "rapacíssimas",
+      "rapacíssimo",
+      "rapacíssimos"
+    ]
+  },
+  "rapinável": {
+    "I": [
+      "rapinabilíssima",
+      "rapinabilissimamente",
+      "rapinabilíssimas",
+      "rapinabilíssimo",
+      "rapinabilíssimos"
+    ]
+  },
+  "raptorial": {
+    "H": [
+      "raptorialíssima",
+      "raptorialissimamente",
+      "raptorialíssimas",
+      "raptorialíssimo",
+      "raptorialíssimos"
+    ]
+  },
+  "raquiocostal": {
+    "H": [
+      "raquiocostalíssima",
+      "raquiocostalissimamente",
+      "raquiocostalíssimas",
+      "raquiocostalíssimo",
+      "raquiocostalíssimos"
+    ]
+  },
+  "raquiorraquial": {
+    "H": [
+      "raquiorraquialíssima",
+      "raquiorraquialissimamente",
+      "raquiorraquialíssimas",
+      "raquiorraquialíssimo",
+      "raquiorraquialíssimos"
+    ]
+  },
+  "rarefactível": {
+    "I": [
+      "rarefactibilíssima",
+      "rarefactibilissimamente",
+      "rarefactibilíssimas",
+      "rarefactibilíssimo",
+      "rarefactibilíssimos"
+    ]
+  },
+  "rarefatível": {
+    "I": [
+      "rarefatibilíssima",
+      "rarefatibilissimamente",
+      "rarefatibilíssimas",
+      "rarefatibilíssimo",
+      "rarefatibilíssimos"
+    ]
+  },
+  "rarescível": {
+    "I": [
+      "rarescibilíssima",
+      "rarescibilissimamente",
+      "rarescibilíssimas",
+      "rarescibilíssimo",
+      "rarescibilíssimos"
+    ]
+  },
+  "raros": {
+    "H": [
+      "raríssima",
+      "rarissimamente",
+      "raríssimas",
+      "raríssimo",
+      "raríssimos"
+    ]
+  },
+  "rascunhável": {
+    "I": [
+      "rascunhabilíssima",
+      "rascunhabilissimamente",
+      "rascunhabilíssimas",
+      "rascunhabilíssimo",
+      "rascunhabilíssimos"
+    ]
+  },
+  "rastejável": {
+    "I": [
+      "rastejabilíssima",
+      "rastejabilissimamente",
+      "rastejabilíssimas",
+      "rastejabilíssimo",
+      "rastejabilíssimos"
+    ]
+  },
+  "rastreável": {
+    "I": [
+      "rastreabilíssima",
+      "rastreabilissimamente",
+      "rastreabilíssimas",
+      "rastreabilíssimo",
+      "rastreabilíssimos"
+    ]
+  },
+  "rasurável": {
+    "I": [
+      "rasurabilíssima",
+      "rasurabilissimamente",
+      "rasurabilíssimas",
+      "rasurabilíssimo",
+      "rasurabilíssimos"
+    ]
+  },
+  "rateável": {
+    "I": [
+      "rateabilíssima",
+      "rateabilissimamente",
+      "rateabilíssimas",
+      "rateabilíssimo",
+      "rateabilíssimos"
+    ]
+  },
+  "ratificável": {
+    "I": [
+      "ratificabilíssima",
+      "ratificabilissimamente",
+      "ratificabilíssimas",
+      "ratificabilíssimo",
+      "ratificabilíssimos"
+    ]
+  },
+  "ravenhoso": {
+    "H": [
+      "ravenhosíssima",
+      "ravenhosissimamente",
+      "ravenhosíssimas",
+      "ravenhosíssimo",
+      "ravenhosíssimos"
+    ]
+  },
+  "ravinável": {
+    "I": [
+      "ravinabilíssima",
+      "ravinabilissimamente",
+      "ravinabilíssimas",
+      "ravinabilíssimo",
+      "ravinabilíssimos"
+    ]
+  },
+  "ravinhoso": {
+    "H": [
+      "ravinhosíssima",
+      "ravinhosissimamente",
+      "ravinhosíssimas",
+      "ravinhosíssimo",
+      "ravinhosíssimos"
+    ]
+  },
+  "ravinoso": {
+    "H": [
+      "ravinosíssima",
+      "ravinosissimamente",
+      "ravinosíssimas",
+      "ravinosíssimo",
+      "ravinosíssimos"
+    ]
+  },
+  "razoável": {
+    "I": [
+      "razoabilíssima",
+      "razoabilissimamente",
+      "razoabilíssimas",
+      "razoabilíssimo",
+      "razoabilíssimos"
+    ]
+  },
+  "razonável": {
+    "I": [
+      "razonabilíssima",
+      "razonabilissimamente",
+      "razonabilíssimas",
+      "razonabilíssimo",
+      "razonabilíssimos"
+    ]
+  },
+  "reabastecível": {
+    "I": [
+      "reabastecibilíssima",
+      "reabastecibilissimamente",
+      "reabastecibilíssimas",
+      "reabastecibilíssimo",
+      "reabastecibilíssimos"
+    ]
+  },
+  "reabilitável": {
+    "I": [
+      "reabilitabilíssima",
+      "reabilitabilissimamente",
+      "reabilitabilíssimas",
+      "reabilitabilíssimo",
+      "reabilitabilíssimos"
+    ]
+  },
+  "real": {
+    "H": [
+      "realíssima",
+      "realissimamente",
+      "realíssimas",
+      "realíssimo",
+      "realíssimos"
+    ],
+    "Ä+H": [
+      "irrealíssima",
+      "irrealissimamente",
+      "irrealíssimas",
+      "irrealíssimo",
+      "irrealíssimos"
+    ],
+    "Ì+H": [
+      "super-realíssima",
+      "super-realissimamente",
+      "super-realíssimas",
+      "super-realíssimo",
+      "super-realíssimos"
+    ],
+    "Î+H": [
+      "hiper-realíssima",
+      "hiper-realissimamente",
+      "hiper-realíssimas",
+      "hiper-realíssimo",
+      "hiper-realíssimos"
+    ]
+  },
+  "realimentável": {
+    "I": [
+      "realimentabilíssima",
+      "realimentabilissimamente",
+      "realimentabilíssimas",
+      "realimentabilíssimo",
+      "realimentabilíssimos"
+    ]
+  },
+  "realizável": {
+    "I": [
+      "realizabilíssima",
+      "realizabilissimamente",
+      "realizabilíssimas",
+      "realizabilíssimo",
+      "realizabilíssimos"
+    ],
+    "Ä+I": [
+      "irrealizabilíssima",
+      "irrealizabilissimamente",
+      "irrealizabilíssimas",
+      "irrealizabilíssimo",
+      "irrealizabilíssimos"
+    ]
+  },
+  "reambulável": {
+    "I": [
+      "reambulabilíssima",
+      "reambulabilissimamente",
+      "reambulabilíssimas",
+      "reambulabilíssimo",
+      "reambulabilíssimos"
+    ]
+  },
+  "rebaixável": {
+    "I": [
+      "rebaixabilíssima",
+      "rebaixabilissimamente",
+      "rebaixabilíssimas",
+      "rebaixabilíssimo",
+      "rebaixabilíssimos"
+    ]
+  },
+  "rebatível": {
+    "I": [
+      "rebatibilíssima",
+      "rebatibilissimamente",
+      "rebatibilíssimas",
+      "rebatibilíssimo",
+      "rebatibilíssimos"
+    ],
+    "Ä+I": [
+      "irrebatibilíssima",
+      "irrebatibilissimamente",
+      "irrebatibilíssimas",
+      "irrebatibilíssimo",
+      "irrebatibilíssimos"
+    ]
+  },
+  "rebelável": {
+    "I": [
+      "rebelabilíssima",
+      "rebelabilissimamente",
+      "rebelabilíssimas",
+      "rebelabilíssimo",
+      "rebelabilíssimos"
+    ]
+  },
+  "rebeloso": {
+    "H": [
+      "rebelosíssima",
+      "rebelosissimamente",
+      "rebelosíssimas",
+      "rebelosíssimo",
+      "rebelosíssimos"
+    ]
+  },
+  "rebentãozal": {
+    "H": [
+      "rebentãozalíssima",
+      "rebentãozalissimamente",
+      "rebentãozalíssimas",
+      "rebentãozalíssimo",
+      "rebentãozalíssimos"
+    ]
+  },
+  "rebentável": {
+    "I": [
+      "rebentabilíssima",
+      "rebentabilissimamente",
+      "rebentabilíssimas",
+      "rebentabilíssimo",
+      "rebentabilíssimos"
+    ]
+  },
+  "recaível": {
+    "I": [
+      "recaibilíssima",
+      "recaibilissimamente",
+      "recaibilíssimas",
+      "recaibilíssimo",
+      "recaibilíssimos"
+    ]
+  },
+  "recalcável": {
+    "I": [
+      "recalcabilíssima",
+      "recalcabilissimamente",
+      "recalcabilíssimas",
+      "recalcabilíssimo",
+      "recalcabilíssimos"
+    ],
+    "Â+I": [
+      "desrecalcabilíssima",
+      "desrecalcabilissimamente",
+      "desrecalcabilíssimas",
+      "desrecalcabilíssimo",
+      "desrecalcabilíssimos"
+    ]
+  },
+  "recalcificável": {
+    "I": [
+      "recalcificabilíssima",
+      "recalcificabilissimamente",
+      "recalcificabilíssimas",
+      "recalcificabilíssimo",
+      "recalcificabilíssimos"
+    ]
+  },
+  "recalcitrável": {
+    "I": [
+      "recalcitrabilíssima",
+      "recalcitrabilissimamente",
+      "recalcitrabilíssimas",
+      "recalcitrabilíssimo",
+      "recalcitrabilíssimos"
+    ]
+  },
+  "recarregável": {
+    "I": [
+      "recarregabilíssima",
+      "recarregabilissimamente",
+      "recarregabilíssimas",
+      "recarregabilíssimo",
+      "recarregabilíssimos"
+    ]
+  },
+  "receável": {
+    "I": [
+      "receabilíssima",
+      "receabilissimamente",
+      "receabilíssimas",
+      "receabilíssimo",
+      "receabilíssimos"
+    ]
+  },
+  "recebível": {
+    "I": [
+      "recebibilíssima",
+      "recebibilissimamente",
+      "recebibilíssimas",
+      "recebibilíssimo",
+      "recebibilíssimos"
+    ]
+  },
+  "recenseável": {
+    "I": [
+      "recenseabilíssima",
+      "recenseabilissimamente",
+      "recenseabilíssimas",
+      "recenseabilíssimo",
+      "recenseabilíssimos"
+    ]
+  },
+  "recente": {
+    "H": [
+      "recentíssima",
+      "recentissimamente",
+      "recentíssimas",
+      "recentíssimo",
+      "recentíssimos"
+    ]
+  },
+  "receoso": {
+    "H": [
+      "receosíssima",
+      "receosissimamente",
+      "receosíssimas",
+      "receosíssimo",
+      "receosíssimos"
+    ]
+  },
+  "recepcional": {
+    "H": [
+      "recepcionalíssima",
+      "recepcionalissimamente",
+      "recepcionalíssimas",
+      "recepcionalíssimo",
+      "recepcionalíssimos"
+    ]
+  },
+  "recepcionável": {
+    "I": [
+      "recepcionabilíssima",
+      "recepcionabilissimamente",
+      "recepcionabilíssimas",
+      "recepcionabilíssimo",
+      "recepcionabilíssimos"
+    ]
+  },
+  "receptível": {
+    "I": [
+      "receptibilíssima",
+      "receptibilissimamente",
+      "receptibilíssimas",
+      "receptibilíssimo",
+      "receptibilíssimos"
+    ]
+  },
+  "recessional": {
+    "H": [
+      "recessionalíssima",
+      "recessionalissimamente",
+      "recessionalíssimas",
+      "recessionalíssimo",
+      "recessionalíssimos"
+    ]
+  },
+  "reciclável": {
+    "I": [
+      "reciclabilíssima",
+      "reciclabilissimamente",
+      "reciclabilíssimas",
+      "reciclabilíssimo",
+      "reciclabilíssimos"
+    ]
+  },
+  "recifoso": {
+    "H": [
+      "recifosíssima",
+      "recifosissimamente",
+      "recifosíssimas",
+      "recifosíssimo",
+      "recifosíssimos"
+    ]
+  },
+  "reciprocável": {
+    "I": [
+      "reciprocabilíssima",
+      "reciprocabilissimamente",
+      "reciprocabilíssimas",
+      "reciprocabilíssimo",
+      "reciprocabilíssimos"
+    ]
+  },
+  "recital": {
+    "H": [
+      "recitalíssima",
+      "recitalissimamente",
+      "recitalíssimas",
+      "recitalíssimo",
+      "recitalíssimos"
+    ]
+  },
+  "reclinável": {
+    "I": [
+      "reclinabilíssima",
+      "reclinabilissimamente",
+      "reclinabilíssimas",
+      "reclinabilíssimo",
+      "reclinabilíssimos"
+    ]
+  },
+  "reconstitucionalizável": {
+    "I": [
+      "reconstitucionalizabilíssima",
+      "reconstitucionalizabilissimamente",
+      "reconstitucionalizabilíssimas",
+      "reconstitucionalizabilíssimo",
+      "reconstitucionalizabilíssimos"
+    ]
+  },
+  "reconstitutível": {
+    "I": [
+      "reconstitutibilíssima",
+      "reconstitutibilissimamente",
+      "reconstitutibilíssimas",
+      "reconstitutibilíssimo",
+      "reconstitutibilíssimos"
+    ]
+  },
+  "recordável": {
+    "I": [
+      "recordabilíssima",
+      "recordabilissimamente",
+      "recordabilíssimas",
+      "recordabilíssimo",
+      "recordabilíssimos"
+    ]
+  },
+  "recreável": {
+    "I": [
+      "recreabilíssima",
+      "recreabilissimamente",
+      "recreabilíssimas",
+      "recreabilíssimo",
+      "recreabilíssimos"
+    ]
+  },
+  "recrementical": {
+    "H": [
+      "recrementicalíssima",
+      "recrementicalissimamente",
+      "recrementicalíssimas",
+      "recrementicalíssimo",
+      "recrementicalíssimos"
+    ]
+  },
+  "recrudescível": {
+    "I": [
+      "recrudescibilíssima",
+      "recrudescibilissimamente",
+      "recrudescibilíssimas",
+      "recrudescibilíssimo",
+      "recrudescibilíssimos"
+    ]
+  },
+  "recrutável": {
+    "I": [
+      "recrutabilíssima",
+      "recrutabilissimamente",
+      "recrutabilíssimas",
+      "recrutabilíssimo",
+      "recrutabilíssimos"
+    ]
+  },
+  "rectovaginal": {
+    "H": [
+      "rectovaginalíssima",
+      "rectovaginalissimamente",
+      "rectovaginalíssimas",
+      "rectovaginalíssimo",
+      "rectovaginalíssimos"
+    ]
+  },
+  "rectovesical": {
+    "H": [
+      "rectovesicalíssima",
+      "rectovesicalissimamente",
+      "rectovesicalíssimas",
+      "rectovesicalíssimo",
+      "rectovesicalíssimos"
+    ]
+  },
+  "recturetral": {
+    "H": [
+      "recturetralíssima",
+      "recturetralissimamente",
+      "recturetralíssimas",
+      "recturetralíssimo",
+      "recturetralíssimos"
+    ]
+  },
+  "recuperável": {
+    "I": [
+      "recuperabilíssima",
+      "recuperabilissimamente",
+      "recuperabilíssimas",
+      "recuperabilíssimo",
+      "recuperabilíssimos"
+    ],
+    "Ä+I": [
+      "irrecuperabilíssima",
+      "irrecuperabilissimamente",
+      "irrecuperabilíssimas",
+      "irrecuperabilíssimo",
+      "irrecuperabilíssimos"
+    ]
+  },
+  "recusável": {
+    "I": [
+      "recusabilíssima",
+      "recusabilissimamente",
+      "recusabilíssimas",
+      "recusabilíssimo",
+      "recusabilíssimos"
+    ],
+    "Ä+I": [
+      "irrecusabilíssima",
+      "irrecusabilissimamente",
+      "irrecusabilíssimas",
+      "irrecusabilíssimo",
+      "irrecusabilíssimos"
+    ]
+  },
+  "redacional": {
+    "H": [
+      "redacionalíssima",
+      "redacionalissimamente",
+      "redacionalíssimas",
+      "redacionalíssimo",
+      "redacionalíssimos"
+    ]
+  },
+  "redarguível": {
+    "I": [
+      "redarguibilíssima",
+      "redarguibilissimamente",
+      "redarguibilíssimas",
+      "redarguibilíssimo",
+      "redarguibilíssimos"
+    ],
+    "Ä+I": [
+      "irredarguibilíssima",
+      "irredarguibilissimamente",
+      "irredarguibilíssimas",
+      "irredarguibilíssimo",
+      "irredarguibilíssimos"
+    ]
+  },
+  "redatorial": {
+    "H": [
+      "redatorialíssima",
+      "redatorialissimamente",
+      "redatorialíssimas",
+      "redatorialíssimo",
+      "redatorialíssimos"
+    ]
+  },
+  "redemocratizável": {
+    "I": [
+      "redemocratizabilíssima",
+      "redemocratizabilissimamente",
+      "redemocratizabilíssimas",
+      "redemocratizabilíssimo",
+      "redemocratizabilíssimos"
+    ]
+  },
+  "redimível": {
+    "I": [
+      "redimibilíssima",
+      "redimibilissimamente",
+      "redimibilíssimas",
+      "redimibilíssimo",
+      "redimibilíssimos"
+    ],
+    "Ä+I": [
+      "irredimibilíssima",
+      "irredimibilissimamente",
+      "irredimibilíssimas",
+      "irredimibilíssimo",
+      "irredimibilíssimos"
+    ]
+  },
+  "reducional": {
+    "H": [
+      "reducionalíssima",
+      "reducionalissimamente",
+      "reducionalíssimas",
+      "reducionalíssimo",
+      "reducionalíssimos"
+    ]
+  },
+  "redutível": {
+    "I": [
+      "redutibilíssima",
+      "redutibilissimamente",
+      "redutibilíssimas",
+      "redutibilíssimo",
+      "redutibilíssimos"
+    ],
+    "Ä+I": [
+      "irredutibilíssima",
+      "irredutibilissimamente",
+      "irredutibilíssimas",
+      "irredutibilíssimo",
+      "irredutibilíssimos"
+    ]
+  },
+  "reduzível": {
+    "I": [
+      "reduzibilíssima",
+      "reduzibilissimamente",
+      "reduzibilíssimas",
+      "reduzibilíssimo",
+      "reduzibilíssimos"
+    ],
+    "Ä+I": [
+      "irreduzibilíssima",
+      "irreduzibilissimamente",
+      "irreduzibilíssimas",
+      "irreduzibilíssimo",
+      "irreduzibilíssimos"
+    ]
+  },
+  "refeitoral": {
+    "H": [
+      "refeitoralíssima",
+      "refeitoralissimamente",
+      "refeitoralíssimas",
+      "refeitoralíssimo",
+      "refeitoralíssimos"
+    ]
+  },
+  "refeitorial": {
+    "H": [
+      "refeitorialíssima",
+      "refeitorialissimamente",
+      "refeitorialíssimas",
+      "refeitorialíssimo",
+      "refeitorialíssimos"
+    ]
+  },
+  "referencial": {
+    "H": [
+      "referencialíssima",
+      "referencialissimamente",
+      "referencialíssimas",
+      "referencialíssimo",
+      "referencialíssimos"
+    ],
+    "Ã+H": [
+      "autorreferencialíssima",
+      "autorreferencialissimamente",
+      "autorreferencialíssimas",
+      "autorreferencialíssimo",
+      "autorreferencialíssimos"
+    ]
+  },
+  "refotografável": {
+    "I": [
+      "refotografabilíssima",
+      "refotografabilissimamente",
+      "refotografabilíssimas",
+      "refotografabilíssimo",
+      "refotografabilíssimos"
+    ]
+  },
+  "refraccional": {
+    "H": [
+      "refraccionalíssima",
+      "refraccionalissimamente",
+      "refraccionalíssimas",
+      "refraccionalíssimo",
+      "refraccionalíssimos"
+    ]
+  },
+  "refracional": {
+    "H": [
+      "refracionalíssima",
+      "refracionalissimamente",
+      "refracionalíssimas",
+      "refracionalíssimo",
+      "refracionalíssimos"
+    ]
+  },
+  "refreável": {
+    "I": [
+      "refreabilíssima",
+      "refreabilissimamente",
+      "refreabilíssimas",
+      "refreabilíssimo",
+      "refreabilíssimos"
+    ]
+  },
+  "refrigerável": {
+    "I": [
+      "refrigerabilíssima",
+      "refrigerabilissimamente",
+      "refrigerabilíssimas",
+      "refrigerabilíssimo",
+      "refrigerabilíssimos"
+    ]
+  },
+  "refutável": {
+    "I": [
+      "refutabilíssima",
+      "refutabilissimamente",
+      "refutabilíssimas",
+      "refutabilíssimo",
+      "refutabilíssimos"
+    ]
+  },
+  "regateável": {
+    "I": [
+      "regateabilíssima",
+      "regateabilissimamente",
+      "regateabilíssimas",
+      "regateabilíssimo",
+      "regateabilíssimos"
+    ]
+  },
+  "regateiral": {
+    "H": [
+      "regateiralíssima",
+      "regateiralissimamente",
+      "regateiralíssimas",
+      "regateiralíssimo",
+      "regateiralíssimos"
+    ]
+  },
+  "regedoral": {
+    "H": [
+      "regedoralíssima",
+      "regedoralissimamente",
+      "regedoralíssimas",
+      "regedoralíssimo",
+      "regedoralíssimos"
+    ]
+  },
+  "regelável": {
+    "I": [
+      "regelabilíssima",
+      "regelabilissimamente",
+      "regelabilíssimas",
+      "regelabilíssimo",
+      "regelabilíssimos"
+    ]
+  },
+  "regencial": {
+    "H": [
+      "regencialíssima",
+      "regencialissimamente",
+      "regencialíssimas",
+      "regencialíssimo",
+      "regencialíssimos"
+    ]
+  },
+  "regencional": {
+    "H": [
+      "regencionalíssima",
+      "regencionalissimamente",
+      "regencionalíssimas",
+      "regencionalíssimo",
+      "regencionalíssimos"
+    ]
+  },
+  "regenerável": {
+    "I": [
+      "regenerabilíssima",
+      "regenerabilissimamente",
+      "regenerabilíssimas",
+      "regenerabilíssimo",
+      "regenerabilíssimos"
+    ],
+    "Ã+I": [
+      "autorregenerabilíssima",
+      "autorregenerabilissimamente",
+      "autorregenerabilíssimas",
+      "autorregenerabilíssimo",
+      "autorregenerabilíssimos"
+    ]
+  },
+  "regimental": {
+    "H": [
+      "regimentalíssima",
+      "regimentalissimamente",
+      "regimentalíssimas",
+      "regimentalíssimo",
+      "regimentalíssimos"
+    ]
+  },
+  "regioletal": {
+    "H": [
+      "regioletalíssima",
+      "regioletalissimamente",
+      "regioletalíssimas",
+      "regioletalíssimo",
+      "regioletalíssimos"
+    ]
+  },
+  "regional": {
+    "H": [
+      "regionalíssima",
+      "regionalissimamente",
+      "regionalíssimas",
+      "regionalíssimo",
+      "regionalíssimos"
+    ],
+    "È+H": [
+      "sub-regionalíssima",
+      "sub-regionalissimamente",
+      "sub-regionalíssimas",
+      "sub-regionalíssimo",
+      "sub-regionalíssimos"
+    ],
+    "î+H": [
+      "transregionalíssima",
+      "transregionalissimamente",
+      "transregionalíssimas",
+      "transregionalíssimo",
+      "transregionalíssimos"
+    ]
+  },
+  "registável": {
+    "I": [
+      "registabilíssima",
+      "registabilissimamente",
+      "registabilíssimas",
+      "registabilíssimo",
+      "registabilíssimos"
+    ]
+  },
+  "registral": {
+    "H": [
+      "registralíssima",
+      "registralissimamente",
+      "registralíssimas",
+      "registralíssimo",
+      "registralíssimos"
+    ]
+  },
+  "registrável": {
+    "I": [
+      "registrabilíssima",
+      "registrabilissimamente",
+      "registrabilíssimas",
+      "registrabilíssimo",
+      "registrabilíssimos"
+    ]
+  },
+  "regozijável": {
+    "I": [
+      "regozijabilíssima",
+      "regozijabilissimamente",
+      "regozijabilíssimas",
+      "regozijabilíssimo",
+      "regozijabilíssimos"
+    ]
+  },
+  "reguingoso": {
+    "H": [
+      "reguingosíssima",
+      "reguingosissimamente",
+      "reguingosíssimas",
+      "reguingosíssimo",
+      "reguingosíssimos"
+    ]
+  },
+  "regulável": {
+    "I": [
+      "regulabilíssima",
+      "regulabilissimamente",
+      "regulabilíssimas",
+      "regulabilíssimo",
+      "regulabilíssimos"
+    ],
+    "Â+I": [
+      "desregulabilíssima",
+      "desregulabilissimamente",
+      "desregulabilíssimas",
+      "desregulabilíssimo",
+      "desregulabilíssimos"
+    ]
+  },
+  "reificável": {
+    "I": [
+      "reificabilíssima",
+      "reificabilissimamente",
+      "reificabilíssimas",
+      "reificabilíssimo",
+      "reificabilíssimos"
+    ]
+  },
+  "reimoso": {
+    "H": [
+      "reimosíssima",
+      "reimosissimamente",
+      "reimosíssimas",
+      "reimosíssimo",
+      "reimosíssimos"
+    ]
+  },
+  "reinervável": {
+    "I": [
+      "reinervabilíssima",
+      "reinervabilissimamente",
+      "reinervabilíssimas",
+      "reinervabilíssimo",
+      "reinervabilíssimos"
+    ]
+  },
+  "reivindicável": {
+    "I": [
+      "reivindicabilíssima",
+      "reivindicabilissimamente",
+      "reivindicabilíssimas",
+      "reivindicabilíssimo",
+      "reivindicabilíssimos"
+    ]
+  },
+  "rejeitável": {
+    "I": [
+      "rejeitabilíssima",
+      "rejeitabilissimamente",
+      "rejeitabilíssimas",
+      "rejeitabilíssimo",
+      "rejeitabilíssimos"
+    ]
+  },
+  "rejubilável": {
+    "I": [
+      "rejubilabilíssima",
+      "rejubilabilissimamente",
+      "rejubilabilíssimas",
+      "rejubilabilíssimo",
+      "rejubilabilíssimos"
+    ]
+  },
+  "relacional": {
+    "H": [
+      "relacionalíssima",
+      "relacionalissimamente",
+      "relacionalíssimas",
+      "relacionalíssimo",
+      "relacionalíssimos"
+    ]
+  },
+  "relacionável": {
+    "I": [
+      "relacionabilíssima",
+      "relacionabilissimamente",
+      "relacionabilíssimas",
+      "relacionabilíssimo",
+      "relacionabilíssimos"
+    ]
+  },
+  "relamposo": {
+    "H": [
+      "relamposíssima",
+      "relamposissimamente",
+      "relamposíssimas",
+      "relamposíssimo",
+      "relamposíssimos"
+    ]
+  },
+  "relatável": {
+    "I": [
+      "relatabilíssima",
+      "relatabilissimamente",
+      "relatabilíssimas",
+      "relatabilíssimo",
+      "relatabilíssimos"
+    ]
+  },
+  "relativável": {
+    "I": [
+      "relativabilíssima",
+      "relativabilissimamente",
+      "relativabilíssimas",
+      "relativabilíssimo",
+      "relativabilíssimos"
+    ]
+  },
+  "relativizável": {
+    "I": [
+      "relativizabilíssima",
+      "relativizabilissimamente",
+      "relativizabilíssimas",
+      "relativizabilíssimo",
+      "relativizabilíssimos"
+    ]
+  },
+  "relatoriado": {
+    "H": [
+      "relatoriadíssima",
+      "relatoriadissimamente",
+      "relatoriadíssimas",
+      "relatoriadíssimo",
+      "relatoriadíssimos"
+    ]
+  },
+  "relaxável": {
+    "I": [
+      "relaxabilíssima",
+      "relaxabilissimamente",
+      "relaxabilíssimas",
+      "relaxabilíssimo",
+      "relaxabilíssimos"
+    ]
+  },
+  "relegável": {
+    "I": [
+      "relegabilíssima",
+      "relegabilissimamente",
+      "relegabilíssimas",
+      "relegabilíssimo",
+      "relegabilíssimos"
+    ]
+  },
+  "relictual": {
+    "H": [
+      "relictualíssima",
+      "relictualissimamente",
+      "relictualíssimas",
+      "relictualíssimo",
+      "relictualíssimos"
+    ]
+  },
+  "religioso": {
+    "H": [
+      "religiosíssima",
+      "religiosissimamente",
+      "religiosíssimas",
+      "religiosíssimo",
+      "religiosíssimos"
+    ],
+    "à+H": [
+      "ultrarreligiosíssima",
+      "ultrarreligiosissimamente",
+      "ultrarreligiosíssimas",
+      "ultrarreligiosíssimo",
+      "ultrarreligiosíssimos"
+    ],
+    "Á+H": [
+      "antirreligiosíssima",
+      "antirreligiosissimamente",
+      "antirreligiosíssimas",
+      "antirreligiosíssimo",
+      "antirreligiosíssimos"
+    ],
+    "Ä+H": [
+      "irreligiosíssima",
+      "irreligiosissimamente",
+      "irreligiosíssimas",
+      "irreligiosíssimo",
+      "irreligiosíssimos"
+    ]
+  },
+  "relvoso": {
+    "H": [
+      "relvosíssima",
+      "relvosissimamente",
+      "relvosíssimas",
+      "relvosíssimo",
+      "relvosíssimos"
+    ]
+  },
+  "remansoso": {
+    "H": [
+      "remansosíssima",
+      "remansosissimamente",
+      "remansosíssimas",
+      "remansosíssimo",
+      "remansosíssimos"
+    ]
+  },
+  "remarcável": {
+    "I": [
+      "remarcabilíssima",
+      "remarcabilissimamente",
+      "remarcabilíssimas",
+      "remarcabilíssimo",
+      "remarcabilíssimos"
+    ]
+  },
+  "remissível": {
+    "I": [
+      "remissibilíssima",
+      "remissibilissimamente",
+      "remissibilíssimas",
+      "remissibilíssimo",
+      "remissibilíssimos"
+    ],
+    "Ä+I": [
+      "irremissibilíssima",
+      "irremissibilissimamente",
+      "irremissibilíssimas",
+      "irremissibilíssimo",
+      "irremissibilíssimos"
+    ]
+  },
+  "remoinhoso": {
+    "H": [
+      "remoinhosíssima",
+      "remoinhosissimamente",
+      "remoinhosíssimas",
+      "remoinhosíssimo",
+      "remoinhosíssimos"
+    ]
+  },
+  "remunerável": {
+    "I": [
+      "remunerabilíssima",
+      "remunerabilissimamente",
+      "remunerabilíssimas",
+      "remunerabilíssimo",
+      "remunerabilíssimos"
+    ]
+  },
+  "remuneroso": {
+    "H": [
+      "remunerosíssima",
+      "remunerosissimamente",
+      "remunerosíssimas",
+      "remunerosíssimo",
+      "remunerosíssimos"
+    ]
+  },
+  "rendável": {
+    "I": [
+      "rendabilíssima",
+      "rendabilissimamente",
+      "rendabilíssimas",
+      "rendabilíssimo",
+      "rendabilíssimos"
+    ]
+  },
+  "rendível": {
+    "I": [
+      "rendibilíssima",
+      "rendibilissimamente",
+      "rendibilíssimas",
+      "rendibilíssimo",
+      "rendibilíssimos"
+    ]
+  },
+  "rendoso": {
+    "H": [
+      "rendosíssima",
+      "rendosissimamente",
+      "rendosíssimas",
+      "rendosíssimo",
+      "rendosíssimos"
+    ]
+  },
+  "renointestinal": {
+    "H": [
+      "renointestinalíssima",
+      "renointestinalissimamente",
+      "renointestinalíssimas",
+      "renointestinalíssimo",
+      "renointestinalíssimos"
+    ]
+  },
+  "renorreal": {
+    "H": [
+      "renorrealíssima",
+      "renorrealissimamente",
+      "renorrealíssimas",
+      "renorrealíssimo",
+      "renorrealíssimos"
+    ]
+  },
+  "renovável": {
+    "I": [
+      "renovabilíssima",
+      "renovabilissimamente",
+      "renovabilíssimas",
+      "renovabilíssimo",
+      "renovabilíssimos"
+    ],
+    "Ã+I": [
+      "autorrenovabilíssima",
+      "autorrenovabilissimamente",
+      "autorrenovabilíssimas",
+      "autorrenovabilíssimo",
+      "autorrenovabilíssimos"
+    ]
+  },
+  "rentável": {
+    "I": [
+      "rentabilíssima",
+      "rentabilissimamente",
+      "rentabilíssimas",
+      "rentabilíssimo",
+      "rentabilíssimos"
+    ]
+  },
+  "renunciável": {
+    "I": [
+      "renunciabilíssima",
+      "renunciabilissimamente",
+      "renunciabilíssimas",
+      "renunciabilíssimo",
+      "renunciabilíssimos"
+    ]
+  },
+  "reoficializável": {
+    "I": [
+      "reoficializabilíssima",
+      "reoficializabilissimamente",
+      "reoficializabilíssimas",
+      "reoficializabilíssimo",
+      "reoficializabilíssimos"
+    ]
+  },
+  "reorquestrável": {
+    "I": [
+      "reorquestrabilíssima",
+      "reorquestrabilissimamente",
+      "reorquestrabilíssimas",
+      "reorquestrabilíssimo",
+      "reorquestrabilíssimos"
+    ]
+  },
+  "repatriável": {
+    "I": [
+      "repatriabilíssima",
+      "repatriabilissimamente",
+      "repatriabilíssimas",
+      "repatriabilíssimo",
+      "repatriabilíssimos"
+    ]
+  },
+  "repelível": {
+    "I": [
+      "repelibilíssima",
+      "repelibilissimamente",
+      "repelibilíssimas",
+      "repelibilíssimo",
+      "repelibilíssimos"
+    ]
+  },
+  "repentinoso": {
+    "H": [
+      "repentinosíssima",
+      "repentinosissimamente",
+      "repentinosíssimas",
+      "repentinosíssimo",
+      "repentinosíssimos"
+    ]
+  },
+  "repetível": {
+    "I": [
+      "repetibilíssima",
+      "repetibilissimamente",
+      "repetibilíssimas",
+      "repetibilíssimo",
+      "repetibilíssimos"
+    ],
+    "Ä+I": [
+      "irrepetibilíssima",
+      "irrepetibilissimamente",
+      "irrepetibilíssimas",
+      "irrepetibilíssimo",
+      "irrepetibilíssimos"
+    ]
+  },
+  "repolhal": {
+    "H": [
+      "repolhalíssima",
+      "repolhalissimamente",
+      "repolhalíssimas",
+      "repolhalíssimo",
+      "repolhalíssimos"
+    ]
+  },
+  "representacional": {
+    "H": [
+      "representacionalíssima",
+      "representacionalissimamente",
+      "representacionalíssimas",
+      "representacionalíssimo",
+      "representacionalíssimos"
+    ]
+  },
+  "representável": {
+    "I": [
+      "representabilíssima",
+      "representabilissimamente",
+      "representabilíssimas",
+      "representabilíssimo",
+      "representabilíssimos"
+    ]
+  },
+  "reprimível": {
+    "I": [
+      "reprimibilíssima",
+      "reprimibilissimamente",
+      "reprimibilíssimas",
+      "reprimibilíssimo",
+      "reprimibilíssimos"
+    ],
+    "Ä+I": [
+      "irreprimibilíssima",
+      "irreprimibilissimamente",
+      "irreprimibilíssimas",
+      "irreprimibilíssimo",
+      "irreprimibilíssimos"
+    ]
+  },
+  "repudiável": {
+    "I": [
+      "repudiabilíssima",
+      "repudiabilissimamente",
+      "repudiabilíssimas",
+      "repudiabilíssimo",
+      "repudiabilíssimos"
+    ]
+  },
+  "requentável": {
+    "I": [
+      "requentabilíssima",
+      "requentabilissimamente",
+      "requentabilíssimas",
+      "requentabilíssimo",
+      "requentabilíssimos"
+    ]
+  },
+  "requerível": {
+    "I": [
+      "requeribilíssima",
+      "requeribilissimamente",
+      "requeribilíssimas",
+      "requeribilíssimo",
+      "requeribilíssimos"
+    ]
+  },
+  "requintável": {
+    "I": [
+      "requintabilíssima",
+      "requintabilissimamente",
+      "requintabilíssimas",
+      "requintabilíssimo",
+      "requintabilíssimos"
+    ]
+  },
+  "requisitoral": {
+    "H": [
+      "requisitoralíssima",
+      "requisitoralissimamente",
+      "requisitoralíssimas",
+      "requisitoralíssimo",
+      "requisitoralíssimos"
+    ]
+  },
+  "resenhável": {
+    "I": [
+      "resenhabilíssima",
+      "resenhabilissimamente",
+      "resenhabilíssimas",
+      "resenhabilíssimo",
+      "resenhabilíssimos"
+    ]
+  },
+  "reservável": {
+    "I": [
+      "reservabilíssima",
+      "reservabilissimamente",
+      "reservabilíssimas",
+      "reservabilíssimo",
+      "reservabilíssimos"
+    ]
+  },
+  "resfriável": {
+    "I": [
+      "resfriabilíssima",
+      "resfriabilissimamente",
+      "resfriabilíssimas",
+      "resfriabilíssimo",
+      "resfriabilíssimos"
+    ],
+    "Ã+I": [
+      "autorresfriabilíssima",
+      "autorresfriabilissimamente",
+      "autorresfriabilíssimas",
+      "autorresfriabilíssimo",
+      "autorresfriabilíssimos"
+    ]
+  },
+  "resgatável": {
+    "I": [
+      "resgatabilíssima",
+      "resgatabilissimamente",
+      "resgatabilíssimas",
+      "resgatabilíssimo",
+      "resgatabilíssimos"
+    ]
+  },
+  "resguardável": {
+    "I": [
+      "resguardabilíssima",
+      "resguardabilissimamente",
+      "resguardabilíssimas",
+      "resguardabilíssimo",
+      "resguardabilíssimos"
+    ]
+  },
+  "residencial": {
+    "H": [
+      "residencialíssima",
+      "residencialissimamente",
+      "residencialíssimas",
+      "residencialíssimo",
+      "residencialíssimos"
+    ]
+  },
+  "residual": {
+    "H": [
+      "residualíssima",
+      "residualissimamente",
+      "residualíssimas",
+      "residualíssimo",
+      "residualíssimos"
+    ]
+  },
+  "resignável": {
+    "I": [
+      "resignabilíssima",
+      "resignabilissimamente",
+      "resignabilíssimas",
+      "resignabilíssimo",
+      "resignabilíssimos"
+    ]
+  },
+  "resilível": {
+    "I": [
+      "resilibilíssima",
+      "resilibilissimamente",
+      "resilibilíssimas",
+      "resilibilíssimo",
+      "resilibilíssimos"
+    ],
+    "Ä+I": [
+      "irresilibilíssima",
+      "irresilibilissimamente",
+      "irresilibilíssimas",
+      "irresilibilíssimo",
+      "irresilibilíssimos"
+    ]
+  },
+  "resinificável": {
+    "I": [
+      "resinificabilíssima",
+      "resinificabilissimamente",
+      "resinificabilíssimas",
+      "resinificabilíssimo",
+      "resinificabilíssimos"
+    ]
+  },
+  "resinoso": {
+    "H": [
+      "resinosíssima",
+      "resinosissimamente",
+      "resinosíssimas",
+      "resinosíssimo",
+      "resinosíssimos"
+    ],
+    "È+H": [
+      "sub-resinosíssima",
+      "sub-resinosissimamente",
+      "sub-resinosíssimas",
+      "sub-resinosíssimo",
+      "sub-resinosíssimos"
+    ]
+  },
+  "resistível": {
+    "I": [
+      "resistibilíssima",
+      "resistibilissimamente",
+      "resistibilíssimas",
+      "resistibilíssimo",
+      "resistibilíssimos"
+    ],
+    "Ä+I": [
+      "irresistibilíssima",
+      "irresistibilissimamente",
+      "irresistibilíssimas",
+      "irresistibilíssimo",
+      "irresistibilíssimos"
+    ]
+  },
+  "respeitável": {
+    "I": [
+      "respeitabilíssima",
+      "respeitabilissimamente",
+      "respeitabilíssimas",
+      "respeitabilíssimo",
+      "respeitabilíssimos"
+    ]
+  },
+  "respeitoso": {
+    "H": [
+      "respeitosíssima",
+      "respeitosissimamente",
+      "respeitosíssimas",
+      "respeitosíssimo",
+      "respeitosíssimos"
+    ],
+    "Â+H": [
+      "desrespeitosíssima",
+      "desrespeitosissimamente",
+      "desrespeitosíssimas",
+      "desrespeitosíssimo",
+      "desrespeitosíssimos"
+    ],
+    "Ä+H": [
+      "irrespeitosíssima",
+      "irrespeitosissimamente",
+      "irrespeitosíssimas",
+      "irrespeitosíssimo",
+      "irrespeitosíssimos"
+    ]
+  },
+  "resperseguível": {
+    "I": [
+      "resperseguibilíssima",
+      "resperseguibilissimamente",
+      "resperseguibilíssimas",
+      "resperseguibilíssimo",
+      "resperseguibilíssimos"
+    ]
+  },
+  "respigável": {
+    "I": [
+      "respigabilíssima",
+      "respigabilissimamente",
+      "respigabilíssimas",
+      "respigabilíssimo",
+      "respigabilíssimos"
+    ]
+  },
+  "respingável": {
+    "I": [
+      "respingabilíssima",
+      "respingabilissimamente",
+      "respingabilíssimas",
+      "respingabilíssimo",
+      "respingabilíssimos"
+    ]
+  },
+  "respirável": {
+    "I": [
+      "respirabilíssima",
+      "respirabilissimamente",
+      "respirabilíssimas",
+      "respirabilíssimo",
+      "respirabilíssimos"
+    ],
+    "Ä+I": [
+      "irrespirabilíssima",
+      "irrespirabilissimamente",
+      "irrespirabilíssimas",
+      "irrespirabilíssimo",
+      "irrespirabilíssimos"
+    ]
+  },
+  "resplendoroso": {
+    "H": [
+      "resplendorosíssima",
+      "resplendorosissimamente",
+      "resplendorosíssimas",
+      "resplendorosíssimo",
+      "resplendorosíssimos"
+    ]
+  },
+  "respondível": {
+    "I": [
+      "respondibilíssima",
+      "respondibilissimamente",
+      "respondibilíssimas",
+      "respondibilíssimo",
+      "respondibilíssimos"
+    ],
+    "Ä+I": [
+      "irrespondibilíssima",
+      "irrespondibilissimamente",
+      "irrespondibilíssimas",
+      "irrespondibilíssimo",
+      "irrespondibilíssimos"
+    ]
+  },
+  "responsabilizável": {
+    "I": [
+      "responsabilizabilíssima",
+      "responsabilizabilissimamente",
+      "responsabilizabilíssimas",
+      "responsabilizabilíssimo",
+      "responsabilizabilíssimos"
+    ],
+    "Â+I": [
+      "desresponsabilizabilíssima",
+      "desresponsabilizabilissimamente",
+      "desresponsabilizabilíssimas",
+      "desresponsabilizabilíssimo",
+      "desresponsabilizabilíssimos"
+    ],
+    "Ä+I": [
+      "irresponsabilizabilíssima",
+      "irresponsabilizabilissimamente",
+      "irresponsabilizabilíssimas",
+      "irresponsabilizabilíssimo",
+      "irresponsabilizabilíssimos"
+    ]
+  },
+  "responsável": {
+    "I": [
+      "responsabilíssima",
+      "responsabilissimamente",
+      "responsabilíssimas",
+      "responsabilíssimo",
+      "responsabilíssimos"
+    ]
+  },
+  "responsorial": {
+    "H": [
+      "responsorialíssima",
+      "responsorialissimamente",
+      "responsorialíssimas",
+      "responsorialíssimo",
+      "responsorialíssimos"
+    ]
+  },
+  "resquicial": {
+    "H": [
+      "resquicialíssima",
+      "resquicialissimamente",
+      "resquicialíssimas",
+      "resquicialíssimo",
+      "resquicialíssimos"
+    ]
+  },
+  "ressacável": {
+    "I": [
+      "ressacabilíssima",
+      "ressacabilissimamente",
+      "ressacabilíssimas",
+      "ressacabilíssimo",
+      "ressacabilíssimos"
+    ]
+  },
+  "ressarcível": {
+    "I": [
+      "ressarcibilíssima",
+      "ressarcibilissimamente",
+      "ressarcibilíssimas",
+      "ressarcibilíssimo",
+      "ressarcibilíssimos"
+    ]
+  },
+  "ressonável": {
+    "I": [
+      "ressonabilíssima",
+      "ressonabilissimamente",
+      "ressonabilíssimas",
+      "ressonabilíssimo",
+      "ressonabilíssimos"
+    ]
+  },
+  "ressurreccional": {
+    "H": [
+      "ressurreccionalíssima",
+      "ressurreccionalissimamente",
+      "ressurreccionalíssimas",
+      "ressurreccionalíssimo",
+      "ressurreccionalíssimos"
+    ]
+  },
+  "ressurrecional": {
+    "H": [
+      "ressurrecionalíssima",
+      "ressurrecionalissimamente",
+      "ressurrecionalíssimas",
+      "ressurrecionalíssimo",
+      "ressurrecionalíssimos"
+    ]
+  },
+  "restabelecível": {
+    "I": [
+      "restabelecibilíssima",
+      "restabelecibilissimamente",
+      "restabelecibilíssimas",
+      "restabelecibilíssimo",
+      "restabelecibilíssimos"
+    ]
+  },
+  "restaurável": {
+    "I": [
+      "restaurabilíssima",
+      "restaurabilissimamente",
+      "restaurabilíssimas",
+      "restaurabilíssimo",
+      "restaurabilíssimos"
+    ]
+  },
+  "restável": {
+    "I": [
+      "restabilíssima",
+      "restabilissimamente",
+      "restabilíssimas",
+      "restabilíssimo",
+      "restabilíssimos"
+    ]
+  },
+  "restingal": {
+    "H": [
+      "restingalíssima",
+      "restingalissimamente",
+      "restingalíssimas",
+      "restingalíssimo",
+      "restingalíssimos"
+    ]
+  },
+  "restituível": {
+    "I": [
+      "restituibilíssima",
+      "restituibilissimamente",
+      "restituibilíssimas",
+      "restituibilíssimo",
+      "restituibilíssimos"
+    ]
+  },
+  "restolhal": {
+    "H": [
+      "restolhalíssima",
+      "restolhalissimamente",
+      "restolhalíssimas",
+      "restolhalíssimo",
+      "restolhalíssimos"
+    ]
+  },
+  "restringível": {
+    "I": [
+      "restringibilíssima",
+      "restringibilissimamente",
+      "restringibilíssimas",
+      "restringibilíssimo",
+      "restringibilíssimos"
+    ],
+    "Ä+I": [
+      "irrestringibilíssima",
+      "irrestringibilissimamente",
+      "irrestringibilíssimas",
+      "irrestringibilíssimo",
+      "irrestringibilíssimos"
+    ]
+  },
+  "restrito": {
+    "H": [
+      "restritíssima",
+      "restritissimamente",
+      "restritíssimas",
+      "restritíssimo",
+      "restritíssimos"
+    ]
+  },
+  "resumível": {
+    "I": [
+      "resumibilíssima",
+      "resumibilissimamente",
+      "resumibilíssimas",
+      "resumibilíssimo",
+      "resumibilíssimos"
+    ]
+  },
+  "retaliável": {
+    "I": [
+      "retaliabilíssima",
+      "retaliabilissimamente",
+      "retaliabilíssimas",
+      "retaliabilíssimo",
+      "retaliabilíssimos"
+    ]
+  },
+  "retardável": {
+    "I": [
+      "retardabilíssima",
+      "retardabilissimamente",
+      "retardabilíssimas",
+      "retardabilíssimo",
+      "retardabilíssimos"
+    ]
+  },
+  "retesável": {
+    "I": [
+      "retesabilíssima",
+      "retesabilissimamente",
+      "retesabilíssimas",
+      "retesabilíssimo",
+      "retesabilíssimos"
+    ]
+  },
+  "reticencioso": {
+    "H": [
+      "reticenciosíssima",
+      "reticenciosissimamente",
+      "reticenciosíssimas",
+      "reticenciosíssimo",
+      "reticenciosíssimos"
+    ]
+  },
+  "reticulado-venoso": {
+    "H": [
+      "reticulado-venosíssima",
+      "reticulado-venosissimamente",
+      "reticulado-venosíssimas",
+      "reticulado-venosíssimo",
+      "reticulado-venosíssimos"
+    ]
+  },
+  "reticuloendotelial": {
+    "H": [
+      "reticuloendotelialíssima",
+      "reticuloendotelialissimamente",
+      "reticuloendotelialíssimas",
+      "reticuloendotelialíssimo",
+      "reticuloendotelialíssimos"
+    ]
+  },
+  "retificável": {
+    "I": [
+      "retificabilíssima",
+      "retificabilissimamente",
+      "retificabilíssimas",
+      "retificabilíssimo",
+      "retificabilíssimos"
+    ]
+  },
+  "retinerval": {
+    "H": [
+      "retinervalíssima",
+      "retinervalissimamente",
+      "retinervalíssimas",
+      "retinervalíssimo",
+      "retinervalíssimos"
+    ]
+  },
+  "retirável": {
+    "I": [
+      "retirabilíssima",
+      "retirabilissimamente",
+      "retirabilíssimas",
+      "retirabilíssimo",
+      "retirabilíssimos"
+    ]
+  },
+  "retorquível": {
+    "I": [
+      "retorquibilíssima",
+      "retorquibilissimamente",
+      "retorquibilíssimas",
+      "retorquibilíssimo",
+      "retorquibilíssimos"
+    ]
+  },
+  "retouretral": {
+    "H": [
+      "retouretralíssima",
+      "retouretralissimamente",
+      "retouretralíssimas",
+      "retouretralíssimo",
+      "retouretralíssimos"
+    ]
+  },
+  "retovaginal": {
+    "H": [
+      "retovaginalíssima",
+      "retovaginalissimamente",
+      "retovaginalíssimas",
+      "retovaginalíssimo",
+      "retovaginalíssimos"
+    ]
+  },
+  "retovesical": {
+    "H": [
+      "retovesicalíssima",
+      "retovesicalissimamente",
+      "retovesicalíssimas",
+      "retovesicalíssimo",
+      "retovesicalíssimos"
+    ]
+  },
+  "retraível": {
+    "I": [
+      "retraibilíssima",
+      "retraibilissimamente",
+      "retraibilíssimas",
+      "retraibilíssimo",
+      "retraibilíssimos"
+    ]
+  },
+  "retratual": {
+    "H": [
+      "retratualíssima",
+      "retratualissimamente",
+      "retratualíssimas",
+      "retratualíssimo",
+      "retratualíssimos"
+    ]
+  },
+  "retribuível": {
+    "I": [
+      "retribuibilíssima",
+      "retribuibilissimamente",
+      "retribuibilíssimas",
+      "retribuibilíssimo",
+      "retribuibilíssimos"
+    ],
+    "Ä+I": [
+      "irretribuibilíssima",
+      "irretribuibilissimamente",
+      "irretribuibilíssimas",
+      "irretribuibilíssimo",
+      "irretribuibilíssimos"
+    ]
+  },
+  "retricial": {
+    "H": [
+      "retricialíssima",
+      "retricialissimamente",
+      "retricialíssimas",
+      "retricialíssimo",
+      "retricialíssimos"
+    ]
+  },
+  "retroalimentável": {
+    "I": [
+      "retroalimentabilíssima",
+      "retroalimentabilissimamente",
+      "retroalimentabilíssimas",
+      "retroalimentabilíssimo",
+      "retroalimentabilíssimos"
+    ]
+  },
+  "retrobronquial": {
+    "H": [
+      "retrobronquialíssima",
+      "retrobronquialissimamente",
+      "retrobronquialíssimas",
+      "retrobronquialíssimo",
+      "retrobronquialíssimos"
+    ]
+  },
+  "retrobucal": {
+    "H": [
+      "retrobucalíssima",
+      "retrobucalissimamente",
+      "retrobucalíssimas",
+      "retrobucalíssimo",
+      "retrobucalíssimos"
+    ]
+  },
+  "retrocarregável": {
+    "I": [
+      "retrocarregabilíssima",
+      "retrocarregabilissimamente",
+      "retrocarregabilíssimas",
+      "retrocarregabilíssimo",
+      "retrocarregabilíssimos"
+    ]
+  },
+  "retrocecal": {
+    "H": [
+      "retrocecalíssima",
+      "retrocecalissimamente",
+      "retrocecalíssimas",
+      "retrocecalíssimo",
+      "retrocecalíssimos"
+    ]
+  },
+  "retrocervical": {
+    "H": [
+      "retrocervicalíssima",
+      "retrocervicalissimamente",
+      "retrocervicalíssimas",
+      "retrocervicalíssimo",
+      "retrocervicalíssimos"
+    ]
+  },
+  "retrocruzável": {
+    "I": [
+      "retrocruzabilíssima",
+      "retrocruzabilissimamente",
+      "retrocruzabilíssimas",
+      "retrocruzabilíssimo",
+      "retrocruzabilíssimos"
+    ]
+  },
+  "retrodural": {
+    "H": [
+      "retroduralíssima",
+      "retroduralissimamente",
+      "retroduralíssimas",
+      "retroduralíssimo",
+      "retroduralíssimos"
+    ]
+  },
+  "retroesternal": {
+    "H": [
+      "retroesternalíssima",
+      "retroesternalissimamente",
+      "retroesternalíssimas",
+      "retroesternalíssimo",
+      "retroesternalíssimos"
+    ]
+  },
+  "retrolingual": {
+    "H": [
+      "retrolingualíssima",
+      "retrolingualissimamente",
+      "retrolingualíssimas",
+      "retrolingualíssimo",
+      "retrolingualíssimos"
+    ]
+  },
+  "retronasal": {
+    "H": [
+      "retronasalíssima",
+      "retronasalissimamente",
+      "retronasalíssimas",
+      "retronasalíssimo",
+      "retronasalíssimos"
+    ]
+  },
+  "retroperitoneal": {
+    "H": [
+      "retroperitonealíssima",
+      "retroperitonealissimamente",
+      "retroperitonealíssimas",
+      "retroperitonealíssimo",
+      "retroperitonealíssimos"
+    ]
+  },
+  "retroperitonial": {
+    "H": [
+      "retroperitonialíssima",
+      "retroperitonialissimamente",
+      "retroperitonialíssimas",
+      "retroperitonialíssimo",
+      "retroperitonialíssimos"
+    ]
+  },
+  "retrosseroso": {
+    "H": [
+      "retrosserosíssima",
+      "retrosserosissimamente",
+      "retrosserosíssimas",
+      "retrosserosíssimo",
+      "retrosserosíssimos"
+    ]
+  },
+  "retrosternal": {
+    "H": [
+      "retrosternalíssima",
+      "retrosternalissimamente",
+      "retrosternalíssimas",
+      "retrosternalíssimo",
+      "retrosternalíssimos"
+    ]
+  },
+  "retrotarsal": {
+    "H": [
+      "retrotarsalíssima",
+      "retrotarsalissimamente",
+      "retrotarsalíssimas",
+      "retrotarsalíssimo",
+      "retrotarsalíssimos"
+    ]
+  },
+  "retroviral": {
+    "H": [
+      "retroviralíssima",
+      "retroviralissimamente",
+      "retroviralíssimas",
+      "retroviralíssimo",
+      "retroviralíssimos"
+    ]
+  },
+  "returetral": {
+    "H": [
+      "returetralíssima",
+      "returetralissimamente",
+      "returetralíssimas",
+      "returetralíssimo",
+      "returetralíssimos"
+    ]
+  },
+  "reumanizável": {
+    "I": [
+      "reumanizabilíssima",
+      "reumanizabilissimamente",
+      "reumanizabilíssimas",
+      "reumanizabilíssimo",
+      "reumanizabilíssimos"
+    ]
+  },
+  "reumatismal": {
+    "H": [
+      "reumatismalíssima",
+      "reumatismalissimamente",
+      "reumatismalíssimas",
+      "reumatismalíssimo",
+      "reumatismalíssimos"
+    ]
+  },
+  "reumoso": {
+    "H": [
+      "reumosíssima",
+      "reumosissimamente",
+      "reumosíssimas",
+      "reumosíssimo",
+      "reumosíssimos"
+    ]
+  },
+  "revascularizável": {
+    "I": [
+      "revascularizabilíssima",
+      "revascularizabilissimamente",
+      "revascularizabilíssimas",
+      "revascularizabilíssimo",
+      "revascularizabilíssimos"
+    ]
+  },
+  "revelável": {
+    "I": [
+      "revelabilíssima",
+      "revelabilissimamente",
+      "revelabilíssimas",
+      "revelabilíssimo",
+      "revelabilíssimos"
+    ]
+  },
+  "reverencial": {
+    "H": [
+      "reverencialíssima",
+      "reverencialissimamente",
+      "reverencialíssimas",
+      "reverencialíssimo",
+      "reverencialíssimos"
+    ]
+  },
+  "reverenciável": {
+    "I": [
+      "reverenciabilíssima",
+      "reverenciabilissimamente",
+      "reverenciabilíssimas",
+      "reverenciabilíssimo",
+      "reverenciabilíssimos"
+    ]
+  },
+  "reverencioso": {
+    "H": [
+      "reverenciosíssima",
+      "reverenciosissimamente",
+      "reverenciosíssimas",
+      "reverenciosíssimo",
+      "reverenciosíssimos"
+    ],
+    "Ä+H": [
+      "irreverenciosíssima",
+      "irreverenciosissimamente",
+      "irreverenciosíssimas",
+      "irreverenciosíssimo",
+      "irreverenciosíssimos"
+    ]
+  },
+  "reversível": {
+    "I": [
+      "reversibilíssima",
+      "reversibilissimamente",
+      "reversibilíssimas",
+      "reversibilíssimo",
+      "reversibilíssimos"
+    ],
+    "Ä+I": [
+      "irreversibilíssima",
+      "irreversibilissimamente",
+      "irreversibilíssimas",
+      "irreversibilíssimo",
+      "irreversibilíssimos"
+    ]
+  },
+  "revezável": {
+    "I": [
+      "revezabilíssima",
+      "revezabilissimamente",
+      "revezabilíssimas",
+      "revezabilíssimo",
+      "revezabilíssimos"
+    ]
+  },
+  "revirável": {
+    "I": [
+      "revirabilíssima",
+      "revirabilissimamente",
+      "revirabilíssimas",
+      "revirabilíssimo",
+      "revirabilíssimos"
+    ]
+  },
+  "revisável": {
+    "I": [
+      "revisabilíssima",
+      "revisabilissimamente",
+      "revisabilíssimas",
+      "revisabilíssimo",
+      "revisabilíssimos"
+    ]
+  },
+  "revisional": {
+    "H": [
+      "revisionalíssima",
+      "revisionalissimamente",
+      "revisionalíssimas",
+      "revisionalíssimo",
+      "revisionalíssimos"
+    ]
+  },
+  "revistável": {
+    "I": [
+      "revistabilíssima",
+      "revistabilissimamente",
+      "revistabilíssimas",
+      "revistabilíssimo",
+      "revistabilíssimos"
+    ]
+  },
+  "revivescível": {
+    "I": [
+      "revivescibilíssima",
+      "revivescibilissimamente",
+      "revivescibilíssimas",
+      "revivescibilíssimo",
+      "revivescibilíssimos"
+    ],
+    "Ä+I": [
+      "irrevivescibilíssima",
+      "irrevivescibilissimamente",
+      "irrevivescibilíssimas",
+      "irrevivescibilíssimo",
+      "irrevivescibilíssimos"
+    ]
+  },
+  "reviviscível": {
+    "I": [
+      "reviviscibilíssima",
+      "reviviscibilissimamente",
+      "reviviscibilíssimas",
+      "reviviscibilíssimo",
+      "reviviscibilíssimos"
+    ]
+  },
+  "revocável": {
+    "I": [
+      "revocabilíssima",
+      "revocabilissimamente",
+      "revocabilíssimas",
+      "revocabilíssimo",
+      "revocabilíssimos"
+    ]
+  },
+  "revogável": {
+    "I": [
+      "revogabilíssima",
+      "revogabilissimamente",
+      "revogabilíssimas",
+      "revogabilíssimo",
+      "revogabilíssimos"
+    ]
+  },
+  "revoltável": {
+    "I": [
+      "revoltabilíssima",
+      "revoltabilissimamente",
+      "revoltabilíssimas",
+      "revoltabilíssimo",
+      "revoltabilíssimos"
+    ]
+  },
+  "revoltoso": {
+    "H": [
+      "revoltosíssima",
+      "revoltosissimamente",
+      "revoltosíssimas",
+      "revoltosíssimo",
+      "revoltosíssimos"
+    ]
+  },
+  "revoluteável": {
+    "I": [
+      "revoluteabilíssima",
+      "revoluteabilissimamente",
+      "revoluteabilíssimas",
+      "revoluteabilíssimo",
+      "revoluteabilíssimos"
+    ]
+  },
+  "revolutoso": {
+    "H": [
+      "revolutosíssima",
+      "revolutosissimamente",
+      "revolutosíssimas",
+      "revolutosíssimo",
+      "revolutosíssimos"
+    ]
+  },
+  "rial": {
+    "H": [
+      "rialíssima",
+      "rialissimamente",
+      "rialíssimas",
+      "rialíssimo",
+      "rialíssimos"
+    ]
+  },
+  "ribossomal": {
+    "H": [
+      "ribossomalíssima",
+      "ribossomalissimamente",
+      "ribossomalíssimas",
+      "ribossomalíssimo",
+      "ribossomalíssimos"
+    ]
+  },
+  "rictuoso": {
+    "H": [
+      "rictuosíssima",
+      "rictuosissimamente",
+      "rictuosíssimas",
+      "rictuosíssimo",
+      "rictuosíssimos"
+    ]
+  },
+  "ridicularizável": {
+    "I": [
+      "ridicularizabilíssima",
+      "ridicularizabilissimamente",
+      "ridicularizabilíssimas",
+      "ridicularizabilíssimo",
+      "ridicularizabilíssimos"
+    ]
+  },
+  "ridiculizável": {
+    "I": [
+      "ridiculizabilíssima",
+      "ridiculizabilissimamente",
+      "ridiculizabilíssimas",
+      "ridiculizabilíssimo",
+      "ridiculizabilíssimos"
+    ]
+  },
+  "ridiculoso": {
+    "H": [
+      "ridiculosíssima",
+      "ridiculosissimamente",
+      "ridiculosíssimas",
+      "ridiculosíssimo",
+      "ridiculosíssimos"
+    ]
+  },
+  "rifável": {
+    "I": [
+      "rifabilíssima",
+      "rifabilissimamente",
+      "rifabilíssimas",
+      "rifabilíssimo",
+      "rifabilíssimos"
+    ]
+  },
+  "rigoroso": {
+    "H": [
+      "rigorosíssima",
+      "rigorosissimamente",
+      "rigorosíssimas",
+      "rigorosíssimo",
+      "rigorosíssimos"
+    ]
+  },
+  "rijoso": {
+    "H": [
+      "rijosíssima",
+      "rijosissimamente",
+      "rijosíssimas",
+      "rijosíssimo",
+      "rijosíssimos"
+    ]
+  },
+  "rilhoso": {
+    "H": [
+      "rilhosíssima",
+      "rilhosissimamente",
+      "rilhosíssimas",
+      "rilhosíssimo",
+      "rilhosíssimos"
+    ]
+  },
+  "rimável": {
+    "I": [
+      "rimabilíssima",
+      "rimabilissimamente",
+      "rimabilíssimas",
+      "rimabilíssimo",
+      "rimabilíssimos"
+    ],
+    "ó+I": [
+      "arrimabilíssima",
+      "arrimabilissimamente",
+      "arrimabilíssimas",
+      "arrimabilíssimo",
+      "arrimabilíssimos"
+    ]
+  },
+  "rimoso": {
+    "H": [
+      "rimosíssima",
+      "rimosissimamente",
+      "rimosíssimas",
+      "rimosíssimo",
+      "rimosíssimos"
+    ]
+  },
+  "rique": {
+    "H": [
+      "riquíssima",
+      "riquissimamente",
+      "riquíssimas",
+      "riquíssimo",
+      "riquíssimos"
+    ]
+  },
+  "riquetsial": {
+    "H": [
+      "riquetsialíssima",
+      "riquetsialissimamente",
+      "riquetsialíssimas",
+      "riquetsialíssimo",
+      "riquetsialíssimos"
+    ]
+  },
+  "riscoso": {
+    "H": [
+      "riscosíssima",
+      "riscosissimamente",
+      "riscosíssimas",
+      "riscosíssimo",
+      "riscosíssimos"
+    ]
+  },
+  "ritmável": {
+    "I": [
+      "ritmabilíssima",
+      "ritmabilissimamente",
+      "ritmabilíssimas",
+      "ritmabilíssimo",
+      "ritmabilíssimos"
+    ]
+  },
+  "ritual": {
+    "H": [
+      "ritualíssima",
+      "ritualissimamente",
+      "ritualíssimas",
+      "ritualíssimo",
+      "ritualíssimos"
+    ]
+  },
+  "rival": {
+    "H": [
+      "rivalíssima",
+      "rivalissimamente",
+      "rivalíssimas",
+      "rivalíssimo",
+      "rivalíssimos"
+    ],
+    "ó+H": [
+      "arrivalíssima",
+      "arrivalissimamente",
+      "arrivalíssimas",
+      "arrivalíssimo",
+      "arrivalíssimos"
+    ]
+  },
+  "rivalizável": {
+    "I": [
+      "rivalizabilíssima",
+      "rivalizabilissimamente",
+      "rivalizabilíssimas",
+      "rivalizabilíssimo",
+      "rivalizabilíssimos"
+    ]
+  },
+  "rixoso": {
+    "H": [
+      "rixosíssima",
+      "rixosissimamente",
+      "rixosíssimas",
+      "rixosíssimo",
+      "rixosíssimos"
+    ]
+  },
+  "rizicultural": {
+    "H": [
+      "riziculturalíssima",
+      "riziculturalissimamente",
+      "riziculturalíssimas",
+      "riziculturalíssimo",
+      "riziculturalíssimos"
+    ]
+  },
+  "rizomatoso": {
+    "H": [
+      "rizomatosíssima",
+      "rizomatosissimamente",
+      "rizomatosíssimas",
+      "rizomatosíssimo",
+      "rizomatosíssimos"
+    ]
+  },
+  "roal": {
+    "H": [
+      "roalíssima",
+      "roalissimamente",
+      "roalíssimas",
+      "roalíssimo",
+      "roalíssimos"
+    ]
+  },
+  "roborável": {
+    "I": [
+      "roborabilíssima",
+      "roborabilissimamente",
+      "roborabilíssimas",
+      "roborabilíssimo",
+      "roborabilíssimos"
+    ]
+  },
+  "robotizável": {
+    "I": [
+      "robotizabilíssima",
+      "robotizabilissimamente",
+      "robotizabilíssimas",
+      "robotizabilíssimo",
+      "robotizabilíssimos"
+    ]
+  },
+  "rocalhoso": {
+    "H": [
+      "rocalhosíssima",
+      "rocalhosissimamente",
+      "rocalhosíssimas",
+      "rocalhosíssimo",
+      "rocalhosíssimos"
+    ]
+  },
+  "rochoso": {
+    "H": [
+      "rochosíssima",
+      "rochosissimamente",
+      "rochosíssimas",
+      "rochosíssimo",
+      "rochosíssimos"
+    ]
+  },
+  "rocioso": {
+    "H": [
+      "rociosíssima",
+      "rociosissimamente",
+      "rociosíssimas",
+      "rociosíssimo",
+      "rociosíssimos"
+    ]
+  },
+  "rodável": {
+    "I": [
+      "rodabilíssima",
+      "rodabilissimamente",
+      "rodabilíssimas",
+      "rodabilíssimo",
+      "rodabilíssimos"
+    ]
+  },
+  "rodimenial": {
+    "H": [
+      "rodimenialíssima",
+      "rodimenialissimamente",
+      "rodimenialíssimas",
+      "rodimenialíssimo",
+      "rodimenialíssimos"
+    ]
+  },
+  "rodoferrovial": {
+    "H": [
+      "rodoferrovialíssima",
+      "rodoferrovialissimamente",
+      "rodoferrovialíssimas",
+      "rodoferrovialíssimo",
+      "rodoferrovialíssimos"
+    ]
+  },
+  "rodopiável": {
+    "I": [
+      "rodopiabilíssima",
+      "rodopiabilissimamente",
+      "rodopiabilíssimas",
+      "rodopiabilíssimo",
+      "rodopiabilíssimos"
+    ]
+  },
+  "rogável": {
+    "I": [
+      "rogabilíssima",
+      "rogabilissimamente",
+      "rogabilíssimas",
+      "rogabilíssimo",
+      "rogabilíssimos"
+    ],
+    "Ä+I": [
+      "irrogabilíssima",
+      "irrogabilissimamente",
+      "irrogabilíssimas",
+      "irrogabilíssimo",
+      "irrogabilíssimos"
+    ],
+    "È+I": [
+      "sub-rogabilíssima",
+      "sub-rogabilissimamente",
+      "sub-rogabilíssimas",
+      "sub-rogabilíssimo",
+      "sub-rogabilíssimos"
+    ]
+  },
+  "romanceável": {
+    "I": [
+      "romanceabilíssima",
+      "romanceabilissimamente",
+      "romanceabilíssimas",
+      "romanceabilíssimo",
+      "romanceabilíssimos"
+    ]
+  },
+  "romanizável": {
+    "I": [
+      "romanizabilíssima",
+      "romanizabilissimamente",
+      "romanizabilíssimas",
+      "romanizabilíssimo",
+      "romanizabilíssimos"
+    ]
+  },
+  "romantizável": {
+    "I": [
+      "romantizabilíssima",
+      "romantizabilissimamente",
+      "romantizabilíssimas",
+      "romantizabilíssimo",
+      "romantizabilíssimos"
+    ],
+    "Â+I": [
+      "desromantizabilíssima",
+      "desromantizabilissimamente",
+      "desromantizabilíssimas",
+      "desromantizabilíssimo",
+      "desromantizabilíssimos"
+    ]
+  },
+  "romãzeiral": {
+    "H": [
+      "romãzeiralíssima",
+      "romãzeiralissimamente",
+      "romãzeiralíssimas",
+      "romãzeiralíssimo",
+      "romãzeiralíssimos"
+    ]
+  },
+  "romboidal": {
+    "H": [
+      "romboidalíssima",
+      "romboidalissimamente",
+      "romboidalíssimas",
+      "romboidalíssimo",
+      "romboidalíssimos"
+    ]
+  },
+  "rompantoso": {
+    "H": [
+      "rompantosíssima",
+      "rompantosissimamente",
+      "rompantosíssimas",
+      "rompantosíssimo",
+      "rompantosíssimos"
+    ]
+  },
+  "rompível": {
+    "I": [
+      "rompibilíssima",
+      "rompibilissimamente",
+      "rompibilíssimas",
+      "rompibilíssimo",
+      "rompibilíssimos"
+    ],
+    "Ä+I": [
+      "irrompibilíssima",
+      "irrompibilissimamente",
+      "irrompibilíssimas",
+      "irrompibilíssimo",
+      "irrompibilíssimos"
+    ]
+  },
+  "roncável": {
+    "I": [
+      "roncabilíssima",
+      "roncabilissimamente",
+      "roncabilíssimas",
+      "roncabilíssimo",
+      "roncabilíssimos"
+    ]
+  },
+  "ronhoso": {
+    "H": [
+      "ronhosíssima",
+      "ronhosissimamente",
+      "ronhosíssimas",
+      "ronhosíssimo",
+      "ronhosíssimos"
+    ]
+  },
+  "roscável": {
+    "I": [
+      "roscabilíssima",
+      "roscabilissimamente",
+      "roscabilíssimas",
+      "roscabilíssimo",
+      "roscabilíssimos"
+    ]
+  },
+  "roscioso": {
+    "H": [
+      "rosciosíssima",
+      "rosciosissimamente",
+      "rosciosíssimas",
+      "rosciosíssimo",
+      "rosciosíssimos"
+    ]
+  },
+  "roseável": {
+    "I": [
+      "roseabilíssima",
+      "roseabilissimamente",
+      "roseabilíssimas",
+      "roseabilíssimo",
+      "roseabilíssimos"
+    ]
+  },
+  "rosiluminoso": {
+    "H": [
+      "rosiluminosíssima",
+      "rosiluminosissimamente",
+      "rosiluminosíssimas",
+      "rosiluminosíssimo",
+      "rosiluminosíssimos"
+    ]
+  },
+  "rosmaninhal": {
+    "H": [
+      "rosmaninhalíssima",
+      "rosmaninhalissimamente",
+      "rosmaninhalíssimas",
+      "rosmaninhalíssimo",
+      "rosmaninhalíssimos"
+    ]
+  },
+  "rosqueável": {
+    "I": [
+      "rosqueabilíssima",
+      "rosqueabilissimamente",
+      "rosqueabilíssimas",
+      "rosqueabilíssimo",
+      "rosqueabilíssimos"
+    ]
+  },
+  "rotacional": {
+    "H": [
+      "rotacionalíssima",
+      "rotacionalissimamente",
+      "rotacionalíssimas",
+      "rotacionalíssimo",
+      "rotacionalíssimos"
+    ]
+  },
+  "rotinizável": {
+    "I": [
+      "rotinizabilíssima",
+      "rotinizabilissimamente",
+      "rotinizabilíssimas",
+      "rotinizabilíssimo",
+      "rotinizabilíssimos"
+    ]
+  },
+  "rotulável": {
+    "I": [
+      "rotulabilíssima",
+      "rotulabilissimamente",
+      "rotulabilíssimas",
+      "rotulabilíssimo",
+      "rotulabilíssimos"
+    ]
+  },
+  "roubável": {
+    "I": [
+      "roubabilíssima",
+      "roubabilissimamente",
+      "roubabilíssimas",
+      "roubabilíssimo",
+      "roubabilíssimos"
+    ]
+  },
+  "roxeável": {
+    "I": [
+      "roxeabilíssima",
+      "roxeabilissimamente",
+      "roxeabilíssimas",
+      "roxeabilíssimo",
+      "roxeabilíssimos"
+    ]
+  },
+  "rubeoloso": {
+    "H": [
+      "rubeolosíssima",
+      "rubeolosissimamente",
+      "rubeolosíssimas",
+      "rubeolosíssimo",
+      "rubeolosíssimos"
+    ]
+  },
+  "rubificável": {
+    "I": [
+      "rubificabilíssima",
+      "rubificabilissimamente",
+      "rubificabilíssimas",
+      "rubificabilíssimo",
+      "rubificabilíssimos"
+    ]
+  },
+  "rubiginoso": {
+    "H": [
+      "rubiginosíssima",
+      "rubiginosissimamente",
+      "rubiginosíssimas",
+      "rubiginosíssimo",
+      "rubiginosíssimos"
+    ]
+  },
+  "ruborescível": {
+    "I": [
+      "ruborescibilíssima",
+      "ruborescibilissimamente",
+      "ruborescibilíssimas",
+      "ruborescibilíssimo",
+      "ruborescibilíssimos"
+    ]
+  },
+  "ruborizável": {
+    "I": [
+      "ruborizabilíssima",
+      "ruborizabilissimamente",
+      "ruborizabilíssimas",
+      "ruborizabilíssimo",
+      "ruborizabilíssimos"
+    ]
+  },
+  "rubricável": {
+    "I": [
+      "rubricabilíssima",
+      "rubricabilissimamente",
+      "rubricabilíssimas",
+      "rubricabilíssimo",
+      "rubricabilíssimos"
+    ]
+  },
+  "rubrospinal": {
+    "H": [
+      "rubrospinalíssima",
+      "rubrospinalissimamente",
+      "rubrospinalíssimas",
+      "rubrospinalíssimo",
+      "rubrospinalíssimos"
+    ]
+  },
+  "rudimental": {
+    "H": [
+      "rudimentalíssima",
+      "rudimentalissimamente",
+      "rudimentalíssimas",
+      "rudimentalíssimo",
+      "rudimentalíssimos"
+    ]
+  },
+  "rufitomentoso": {
+    "H": [
+      "rufitomentosíssima",
+      "rufitomentosissimamente",
+      "rufitomentosíssimas",
+      "rufitomentosíssimo",
+      "rufitomentosíssimos"
+    ]
+  },
+  "rugoso": {
+    "H": [
+      "rugosíssima",
+      "rugosissimamente",
+      "rugosíssimas",
+      "rugosíssimo",
+      "rugosíssimos"
+    ]
+  },
+  "ruidoso": {
+    "H": [
+      "ruidosíssima",
+      "ruidosissimamente",
+      "ruidosíssimas",
+      "ruidosíssimo",
+      "ruidosíssimos"
+    ],
+    "Â+H": [
+      "desruidosíssima",
+      "desruidosissimamente",
+      "desruidosíssimas",
+      "desruidosíssimo",
+      "desruidosíssimos"
+    ]
+  },
+  "ruinoso": {
+    "H": [
+      "ruinosíssima",
+      "ruinosissimamente",
+      "ruinosíssimas",
+      "ruinosíssimo",
+      "ruinosíssimos"
+    ]
+  },
+  "rumoroso": {
+    "H": [
+      "rumorosíssima",
+      "rumorosissimamente",
+      "rumorosíssimas",
+      "rumorosíssimo",
+      "rumorosíssimos"
+    ]
+  },
+  "rural": {
+    "H": [
+      "ruralíssima",
+      "ruralissimamente",
+      "ruralíssimas",
+      "ruralíssimo",
+      "ruralíssimos"
+    ]
+  },
+  "rurbanizável": {
+    "I": [
+      "rurbanizabilíssima",
+      "rurbanizabilissimamente",
+      "rurbanizabilíssimas",
+      "rurbanizabilíssimo",
+      "rurbanizabilíssimos"
+    ]
+  },
+  "russificável": {
+    "I": [
+      "russificabilíssima",
+      "russificabilissimamente",
+      "russificabilíssimas",
+      "russificabilíssimo",
+      "russificabilíssimos"
+    ],
+    "Â+I": [
+      "desrussificabilíssima",
+      "desrussificabilissimamente",
+      "desrussificabilíssimas",
+      "desrussificabilíssimo",
+      "desrussificabilíssimos"
+    ]
+  },
+  "ruvinhoso": {
+    "H": [
+      "ruvinhosíssima",
+      "ruvinhosissimamente",
+      "ruvinhosíssimas",
+      "ruvinhosíssimo",
+      "ruvinhosíssimos"
+    ]
+  }
+}

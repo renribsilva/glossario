@@ -1,0 +1,6912 @@
+{
+  "nabal": {
+    "R": [
+      "nabalzinho",
+      "nabaizinhos"
+    ],
+    "V": [
+      "nabalzão",
+      "nabalzões"
+    ]
+  },
+  "nábão": {
+    "R": [
+      "nábãozinho",
+      "nábõezinhos"
+    ],
+    "V": [
+      "nábãozão",
+      "nábãozões"
+    ]
+  },
+  "nabazenil": {
+    "R": [
+      "nabazenilzinho",
+      "nabazeniizinhos"
+    ],
+    "V": [
+      "nabazenilzão",
+      "nabazenilzões"
+    ]
+  },
+  "nabiçal": {
+    "R": [
+      "nabiçalzinho",
+      "nabiçaizinhos"
+    ],
+    "V": [
+      "nabiçalzão",
+      "nabiçalzões"
+    ]
+  },
+  "nacadar": {
+    "R": [
+      "nacadarezinhos",
+      "nacadarzinho"
+    ]
+  },
+  "nação": {
+    "Q": [
+      "naçãozinha",
+      "naçõezinhas"
+    ],
+    "W": [
+      "naçona",
+      "naçonas"
+    ],
+    "Ñ+Q": [
+      "conaçãozinha",
+      "conaçõezinhas"
+    ],
+    "Û+Q": [
+      "pronaçãozinha",
+      "pronaçõezinhas"
+    ],
+    "Ñ+W": [
+      "conaçona",
+      "conaçonas"
+    ],
+    "Û+W": [
+      "pronaçona",
+      "pronaçonas"
+    ]
+  },
+  "nácar": {
+    "R": [
+      "nácarezinhos",
+      "nácarzinho"
+    ]
+  },
+  "nacional": {
+    "R": [
+      "nacionalzinho",
+      "nacionaizinhos"
+    ],
+    "V": [
+      "nacionalzão",
+      "nacionalzões"
+    ],
+    "à+R": [
+      "ultranacionalzinho",
+      "ultranacionaizinhos"
+    ],
+    "Á+R": [
+      "antinacionalzinho",
+      "antinacionaizinhos"
+    ],
+    "Â+R": [
+      "desnacionalzinho",
+      "desnacionaizinhos"
+    ],
+    "È+R": [
+      "subnacionalzinho",
+      "subnacionaizinhos"
+    ],
+    "Í+R": [
+      "internacionalzinho",
+      "internacionaizinhos"
+    ],
+    "î+R": [
+      "transnacionalzinho",
+      "transnacionaizinhos"
+    ],
+    "ò+R": [
+      "anacionalzinho",
+      "anacionaizinhos"
+    ],
+    "Ô+R": [
+      "extranacionalzinho",
+      "extranacionaizinhos"
+    ],
+    "ô+R": [
+      "supranacionalzinho",
+      "supranacionaizinhos"
+    ],
+    "õ+R": [
+      "macronacionalzinho",
+      "macronacionaizinhos"
+    ],
+    "Ö+R": [
+      "intranacionalzinho",
+      "intranacionaizinhos"
+    ],
+    "Ü+R": [
+      "seminacionalzinho",
+      "seminacionaizinhos"
+    ],
+    "à+V": [
+      "ultranacionalzão",
+      "ultranacionalzões"
+    ],
+    "Á+V": [
+      "antinacionalzão",
+      "antinacionalzões"
+    ],
+    "Â+V": [
+      "desnacionalzão",
+      "desnacionalzões"
+    ],
+    "È+V": [
+      "subnacionalzão",
+      "subnacionalzões"
+    ],
+    "Í+V": [
+      "internacionalzão",
+      "internacionalzões"
+    ],
+    "î+V": [
+      "transnacionalzão",
+      "transnacionalzões"
+    ],
+    "ò+V": [
+      "anacionalzão",
+      "anacionalzões"
+    ],
+    "Ô+V": [
+      "extranacionalzão",
+      "extranacionalzões"
+    ],
+    "ô+V": [
+      "supranacionalzão",
+      "supranacionalzões"
+    ],
+    "õ+V": [
+      "macronacionalzão",
+      "macronacionalzões"
+    ],
+    "Ö+V": [
+      "intranacionalzão",
+      "intranacionalzões"
+    ],
+    "Ü+V": [
+      "seminacionalzão",
+      "seminacionalzões"
+    ]
+  },
+  "nacionalização": {
+    "Q": [
+      "nacionalizaçãozinha",
+      "nacionalizaçõezinhas"
+    ],
+    "W": [
+      "nacionalizaçona",
+      "nacionalizaçonas"
+    ],
+    "À+Q": [
+      "renacionalizaçãozinha",
+      "renacionalizaçõezinhas"
+    ],
+    "Â+Q": [
+      "desnacionalizaçãozinha",
+      "desnacionalizaçõezinhas"
+    ],
+    "î+Q": [
+      "transnacionalizaçãozinha",
+      "transnacionalizaçõezinhas"
+    ],
+    "À+W": [
+      "renacionalizaçona",
+      "renacionalizaçonas"
+    ],
+    "Â+W": [
+      "desnacionalizaçona",
+      "desnacionalizaçonas"
+    ],
+    "î+W": [
+      "transnacionalizaçona",
+      "transnacionalizaçonas"
+    ]
+  },
+  "nacrite": {
+    "O": [
+      "nacritinha",
+      "nacritinhas"
+    ],
+    "P": [
+      "nacritinho",
+      "nacritinhos"
+    ]
+  },
+  "nadegal": {
+    "R": [
+      "nadegalzinho",
+      "nadegaizinhos"
+    ],
+    "V": [
+      "nadegalzão",
+      "nadegalzões"
+    ]
+  },
+  "nadegudo": {
+    "O": [
+      "nadegudinha",
+      "nadegudinhas"
+    ],
+    "P": [
+      "nadegudinho",
+      "nadegudinhos"
+    ]
+  },
+  "nadiral": {
+    "R": [
+      "nadiralzinho",
+      "nadiraizinhos"
+    ],
+    "V": [
+      "nadiralzão",
+      "nadiralzões"
+    ]
+  },
+  "nadolol": {
+    "R": [
+      "nadololzinho",
+      "nadoloizinhos"
+    ],
+    "V": [
+      "nadololzão",
+      "nadololzões"
+    ]
+  },
+  "nadorite": {
+    "O": [
+      "nadoritinha",
+      "nadoritinhas"
+    ],
+    "P": [
+      "nadoritinho",
+      "nadoritinhos"
+    ]
+  },
+  "nadoxolol": {
+    "R": [
+      "nadoxololzinho",
+      "nadoxoloizinhos"
+    ],
+    "V": [
+      "nadoxololzão",
+      "nadoxololzões"
+    ]
+  },
+  "nadsônia": {
+    "S": [
+      "nadsoniazinha",
+      "nadsoniazinhas"
+    ]
+  },
+  "naegite": {
+    "O": [
+      "naegitinha",
+      "naegitinhas"
+    ],
+    "P": [
+      "naegitinho",
+      "naegitinhos"
+    ]
+  },
+  "nafagrel": {
+    "R": [
+      "nafagrelzinho",
+      "nafagreizinhos"
+    ],
+    "V": [
+      "nafagrelzão",
+      "nafagrelzões"
+    ]
+  },
+  "nafamostate": {
+    "P": [
+      "nafamostatinho",
+      "nafamostatinhos"
+    ]
+  },
+  "nafetolol": {
+    "R": [
+      "nafetololzinho",
+      "nafetoloizinhos"
+    ],
+    "V": [
+      "nafetololzão",
+      "nafetololzões"
+    ]
+  },
+  "nafil": {
+    "R": [
+      "nafilzinho",
+      "nafiizinhos"
+    ],
+    "V": [
+      "nafilzão",
+      "nafilzões"
+    ],
+    "ò+R": [
+      "anafilzinho",
+      "anafiizinhos"
+    ],
+    "ò+V": [
+      "anafilzão",
+      "anafilzões"
+    ]
+  },
+  "naflocorte": {
+    "P": [
+      "naflocortinho",
+      "naflocortinhos"
+    ]
+  },
+  "nafoxadol": {
+    "R": [
+      "nafoxadolzinho",
+      "nafoxadoizinhos"
+    ],
+    "V": [
+      "nafoxadolzão",
+      "nafoxadolzões"
+    ]
+  },
+  "nafrequete": {
+    "P": [
+      "nafrequetinho",
+      "nafrequetinhos"
+    ]
+  },
+  "naftadil": {
+    "R": [
+      "naftadilzinho",
+      "naftadiizinhos"
+    ],
+    "V": [
+      "naftadilzão",
+      "naftadilzões"
+    ]
+  },
+  "naftalasa": {
+    "O": [
+      "naftalasinha",
+      "naftalasinhas"
+    ]
+  },
+  "naftalol": {
+    "R": [
+      "naftalolzinho",
+      "naftaloizinhos"
+    ],
+    "V": [
+      "naftalolzão",
+      "naftalolzões"
+    ]
+  },
+  "naftasa": {
+    "O": [
+      "naftasinha",
+      "naftasinhas"
+    ]
+  },
+  "naftilsulfuroso": {
+    "O": [
+      "naftilsulfurosinha",
+      "naftilsulfurosinhas"
+    ],
+    "P": [
+      "naftilsulfurosinho",
+      "naftilsulfurosinhos"
+    ]
+  },
+  "naftopidil": {
+    "R": [
+      "naftopidilzinho",
+      "naftopidiizinhos"
+    ],
+    "V": [
+      "naftopidilzão",
+      "naftopidilzões"
+    ]
+  },
+  "nafute": {
+    "P": [
+      "nafutinho",
+      "nafutinhos"
+    ]
+  },
+  "nager": {
+    "R": [
+      "nagerezinhos",
+      "nagerzinho"
+    ]
+  },
+  "nagiagite": {
+    "O": [
+      "nagiagitinha",
+      "nagiagitinhas"
+    ],
+    "P": [
+      "nagiagitinho",
+      "nagiagitinhos"
+    ]
+  },
+  "nagirite": {
+    "O": [
+      "nagiritinha",
+      "nagiritinhas"
+    ],
+    "P": [
+      "nagiritinho",
+      "nagiritinhos"
+    ]
+  },
+  "nagual": {
+    "R": [
+      "nagualzinho",
+      "naguaizinhos"
+    ],
+    "V": [
+      "nagualzão",
+      "nagualzões"
+    ]
+  },
+  "nagul": {
+    "R": [
+      "nagulzinho",
+      "naguizinhos"
+    ],
+    "V": [
+      "nagulzão",
+      "nagulzões"
+    ]
+  },
+  "nagyagite": {
+    "O": [
+      "nagyagitinha",
+      "nagyagitinhas"
+    ],
+    "P": [
+      "nagyagitinho",
+      "nagyagitinhos"
+    ]
+  },
+  "naiadal": {
+    "R": [
+      "naiadalzinho",
+      "naiadaizinhos"
+    ],
+    "V": [
+      "naiadalzão",
+      "naiadalzões"
+    ]
+  },
+  "nalgudo": {
+    "O": [
+      "nalgudinha",
+      "nalgudinhas"
+    ],
+    "P": [
+      "nalgudinho",
+      "nalgudinhos"
+    ]
+  },
+  "namaqualite": {
+    "O": [
+      "namaqualitinha",
+      "namaqualitinhas"
+    ],
+    "P": [
+      "namaqualitinho",
+      "namaqualitinhos"
+    ]
+  },
+  "namarral": {
+    "R": [
+      "namarralzinho",
+      "namarraizinhos"
+    ],
+    "V": [
+      "namarralzão",
+      "namarralzões"
+    ]
+  },
+  "nambete": {
+    "P": [
+      "nambetinho",
+      "nambetinhos"
+    ]
+  },
+  "naminterol": {
+    "R": [
+      "naminterolzinho",
+      "naminteroizinhos"
+    ],
+    "V": [
+      "naminterolzão",
+      "naminterolzões"
+    ]
+  },
+  "namoração": {
+    "Q": [
+      "namoraçãozinha",
+      "namoraçõezinhas"
+    ],
+    "W": [
+      "namoraçona",
+      "namoraçonas"
+    ]
+  },
+  "namoricos": {
+    "P": [
+      "namoriquinho",
+      "namoriquinhos"
+    ]
+  },
+  "Nanael": {
+    "R": [
+      "Nanaelzinho",
+      "Nanaeizinhos"
+    ],
+    "V": [
+      "Nanaelzão",
+      "Nanaelzões"
+    ]
+  },
+  "nanal": {
+    "R": [
+      "nanalzinho",
+      "nanaizinhos"
+    ],
+    "V": [
+      "nanalzão",
+      "nanalzões"
+    ]
+  },
+  "nanomol": {
+    "R": [
+      "nanomolzinho",
+      "nanomoizinhos"
+    ],
+    "V": [
+      "nanomolzão",
+      "nanomolzões"
+    ]
+  },
+  "nanopapel": {
+    "R": [
+      "nanopapelzinho",
+      "nanopapeizinhos"
+    ]
+  },
+  "nanorqueste": {
+    "O": [
+      "nanorquestinha",
+      "nanorquestinhas"
+    ],
+    "P": [
+      "nanorquestinho",
+      "nanorquestinhos"
+    ]
+  },
+  "nantoquite": {
+    "O": [
+      "nantoquitinha",
+      "nantoquitinhas"
+    ],
+    "P": [
+      "nantoquitinho",
+      "nantoquitinhos"
+    ]
+  },
+  "nantradol": {
+    "R": [
+      "nantradolzinho",
+      "nantradoizinhos"
+    ],
+    "V": [
+      "nantradolzão",
+      "nantradolzões"
+    ]
+  },
+  "nantuate": {
+    "P": [
+      "nantuatinho",
+      "nantuatinhos"
+    ]
+  },
+  "não": {
+    "R": [
+      "nãozinho",
+      "nõezinhos"
+    ],
+    "V": [
+      "nãozão",
+      "nãozões"
+    ],
+    "À+R": [
+      "renãozinho",
+      "renõezinhos"
+    ],
+    "À+V": [
+      "renãozão",
+      "renãozões"
+    ]
+  },
+  "napalite": {
+    "O": [
+      "napalitinha",
+      "napalitinhas"
+    ],
+    "P": [
+      "napalitinho",
+      "napalitinhos"
+    ]
+  },
+  "napamezol": {
+    "R": [
+      "napamezolzinho",
+      "napamezoizinhos"
+    ],
+    "V": [
+      "napamezolzão",
+      "napamezolzões"
+    ]
+  },
+  "napeirão": {
+    "R": [
+      "napeirãozinho",
+      "napeirõezinhos"
+    ],
+    "V": [
+      "napeirãozão",
+      "napeirãozões"
+    ]
+  },
+  "napoleanite": {
+    "P": [
+      "napoleanitinho",
+      "napoleanitinhos"
+    ]
+  },
+  "napoleão": {
+    "R": [
+      "napoleãozinho",
+      "napoleõezinhos"
+    ],
+    "V": [
+      "napoleãozão",
+      "napoleãozões"
+    ]
+  },
+  "napoleonite": {
+    "P": [
+      "napoleonitinho",
+      "napoleonitinhos"
+    ]
+  },
+  "naproxol": {
+    "R": [
+      "naproxolzinho",
+      "naproxoizinhos"
+    ],
+    "V": [
+      "naproxolzão",
+      "naproxolzões"
+    ]
+  },
+  "naranol": {
+    "R": [
+      "naranolzinho",
+      "naranoizinhos"
+    ],
+    "V": [
+      "naranolzão",
+      "naranolzões"
+    ]
+  },
+  "narbonês": {
+    "O": [
+      "narbonesinha",
+      "narbonesinhas"
+    ],
+    "P": [
+      "narbonesinho",
+      "narbonesezinhos"
+    ]
+  },
+  "narceja": {
+    "O": [
+      "narcejinha",
+      "narcejinhas"
+    ],
+    "W": [
+      "narcejona",
+      "narcejonas"
+    ]
+  },
+  "narcejão": {
+    "R": [
+      "narcejãozinho",
+      "narcejõezinhos"
+    ],
+    "V": [
+      "narcejãozão",
+      "narcejãozões"
+    ]
+  },
+  "narcisação": {
+    "Q": [
+      "narcisaçãozinha",
+      "narcisaçõezinhas"
+    ],
+    "W": [
+      "narcisaçona",
+      "narcisaçonas"
+    ]
+  },
+  "narcisos-ramilhete": {
+    "P": [
+      "narcisos-ramilhetinho",
+      "narcisos-ramilhetinhos"
+    ]
+  },
+  "narcisos": {
+    "P": [
+      "narcisinho",
+      "narcisinhos"
+    ]
+  },
+  "narcoaceleração": {
+    "Q": [
+      "narcoaceleraçãozinha",
+      "narcoaceleraçõezinhas"
+    ],
+    "W": [
+      "narcoaceleraçona",
+      "narcoaceleraçonas"
+    ]
+  },
+  "narcotização": {
+    "Q": [
+      "narcotizaçãozinha",
+      "narcotizaçõezinhas"
+    ],
+    "W": [
+      "narcotizaçona",
+      "narcotizaçonas"
+    ]
+  },
+  "narcotraficante": {
+    "P": [
+      "narcotraficantinho",
+      "narcotraficantinhos"
+    ]
+  },
+  "nardeterol": {
+    "R": [
+      "nardeterolzinho",
+      "nardeteroizinhos"
+    ],
+    "V": [
+      "nardeterolzão",
+      "nardeterolzões"
+    ]
+  },
+  "nargol": {
+    "R": [
+      "nargolzinho",
+      "nargoizinhos"
+    ],
+    "V": [
+      "nargolzão",
+      "nargolzões"
+    ]
+  },
+  "narigão": {
+    "R": [
+      "narigãozinho",
+      "narigõezinhos"
+    ],
+    "V": [
+      "narigãozão",
+      "narigãozões"
+    ]
+  },
+  "narigudo": {
+    "O": [
+      "narigudinha",
+      "narigudinhas"
+    ],
+    "P": [
+      "narigudinho",
+      "narigudinhos"
+    ]
+  },
+  "nariguete": {
+    "O": [
+      "nariguetinha",
+      "nariguetinhas"
+    ],
+    "P": [
+      "nariguetinho",
+      "nariguetinhos"
+    ]
+  },
+  "narilão": {
+    "R": [
+      "narilãozinho",
+      "narilõezinhos"
+    ],
+    "V": [
+      "narilãozão",
+      "narilãozões"
+    ]
+  },
+  "nariz": {
+    "R": [
+      "narizinho",
+      "narizezinhos"
+    ]
+  },
+  "narizite": {
+    "P": [
+      "narizitinho",
+      "narizitinhos"
+    ]
+  },
+  "narração": {
+    "Q": [
+      "narraçãozinha",
+      "narraçõezinhas"
+    ],
+    "W": [
+      "narraçona",
+      "narraçonas"
+    ]
+  },
+  "narte": {
+    "O": [
+      "nartinha",
+      "nartinhas"
+    ],
+    "P": [
+      "nartinho",
+      "nartinhos"
+    ]
+  },
+  "narval": {
+    "R": [
+      "narvalzinho",
+      "narvaizinhos"
+    ],
+    "V": [
+      "narvalzão",
+      "narvalzões"
+    ]
+  },
+  "nasal": {
+    "R": [
+      "nasalzinho",
+      "nasaizinhos"
+    ],
+    "V": [
+      "nasalzão",
+      "nasalzões"
+    ],
+    "È+R": [
+      "subnasalzinho",
+      "subnasaizinhos"
+    ],
+    "Í+R": [
+      "internasalzinho",
+      "internasaizinhos"
+    ],
+    "Ï+R": [
+      "antenasalzinho",
+      "antenasaizinhos"
+    ],
+    "Õ+R": [
+      "infranasalzinho",
+      "infranasaizinhos"
+    ],
+    "Ö+R": [
+      "intranasalzinho",
+      "intranasaizinhos"
+    ],
+    "È+V": [
+      "subnasalzão",
+      "subnasalzões"
+    ],
+    "Í+V": [
+      "internasalzão",
+      "internasalzões"
+    ],
+    "Ï+V": [
+      "antenasalzão",
+      "antenasalzões"
+    ],
+    "Õ+V": [
+      "infranasalzão",
+      "infranasalzões"
+    ],
+    "Ö+V": [
+      "intranasalzão",
+      "intranasalzões"
+    ]
+  },
+  "nasalação": {
+    "Q": [
+      "nasalaçãozinha",
+      "nasalaçõezinhas"
+    ],
+    "W": [
+      "nasalaçona",
+      "nasalaçonas"
+    ],
+    "Â+Q": [
+      "desnasalaçãozinha",
+      "desnasalaçõezinhas"
+    ],
+    "Â+W": [
+      "desnasalaçona",
+      "desnasalaçonas"
+    ]
+  },
+  "nasalização": {
+    "Q": [
+      "nasalizaçãozinha",
+      "nasalizaçõezinhas"
+    ],
+    "W": [
+      "nasalizaçona",
+      "nasalizaçonas"
+    ],
+    "Â+Q": [
+      "desnasalizaçãozinha",
+      "desnasalizaçõezinhas"
+    ],
+    "Â+W": [
+      "desnasalizaçona",
+      "desnasalizaçonas"
+    ]
+  },
+  "nasamonite": {
+    "O": [
+      "nasamonitinha",
+      "nasamonitinhas"
+    ],
+    "P": [
+      "nasamonitinho",
+      "nasamonitinhos"
+    ]
+  },
+  "nascente": {
+    "P": [
+      "nascentinho",
+      "nascentinhos"
+    ],
+    "À+P": [
+      "renascentinho",
+      "renascentinhos"
+    ]
+  },
+  "Nasir": {
+    "R": [
+      "Nasirezinhos",
+      "Nasirzinho"
+    ]
+  },
+  "nasobucal": {
+    "R": [
+      "nasobucalzinho",
+      "nasobucaizinhos"
+    ],
+    "V": [
+      "nasobucalzão",
+      "nasobucalzões"
+    ]
+  },
+  "nasociliar": {
+    "R": [
+      "nasociliarezinhos",
+      "nasociliarzinho"
+    ]
+  },
+  "nasocular": {
+    "R": [
+      "nasocularezinhos",
+      "nasocularzinho"
+    ]
+  },
+  "nasoduodenal": {
+    "R": [
+      "nasoduodenalzinho",
+      "nasoduodenaizinhos"
+    ],
+    "V": [
+      "nasoduodenalzão",
+      "nasoduodenalzões"
+    ]
+  },
+  "nasofaringite": {
+    "P": [
+      "nasofaringitinho",
+      "nasofaringitinhos"
+    ]
+  },
+  "nasofrontal": {
+    "R": [
+      "nasofrontalzinho",
+      "nasofrontaizinhos"
+    ],
+    "V": [
+      "nasofrontalzão",
+      "nasofrontalzões"
+    ]
+  },
+  "nasogenal": {
+    "R": [
+      "nasogenalzinho",
+      "nasogenaizinhos"
+    ],
+    "V": [
+      "nasogenalzão",
+      "nasogenalzões"
+    ]
+  },
+  "nasolabial": {
+    "R": [
+      "nasolabialzinho",
+      "nasolabiaizinhos"
+    ],
+    "V": [
+      "nasolabialzão",
+      "nasolabialzões"
+    ]
+  },
+  "nasolacrimal": {
+    "R": [
+      "nasolacrimalzinho",
+      "nasolacrimaizinhos"
+    ],
+    "V": [
+      "nasolacrimalzão",
+      "nasolacrimalzões"
+    ]
+  },
+  "nasolobular": {
+    "R": [
+      "nasolobularezinhos",
+      "nasolobularzinho"
+    ]
+  },
+  "nasomalar": {
+    "R": [
+      "nasomalarezinhos",
+      "nasomalarzinho"
+    ]
+  },
+  "nasopalpebral": {
+    "R": [
+      "nasopalpebralzinho",
+      "nasopalpebraizinhos"
+    ],
+    "V": [
+      "nasopalpebralzão",
+      "nasopalpebralzões"
+    ]
+  },
+  "nasospinal": {
+    "R": [
+      "nasospinalzinho",
+      "nasospinaizinhos"
+    ],
+    "V": [
+      "nasospinalzão",
+      "nasospinalzões"
+    ]
+  },
+  "nasospinhal": {
+    "R": [
+      "nasospinhalzinho",
+      "nasospinhaizinhos"
+    ],
+    "V": [
+      "nasospinhalzão",
+      "nasospinhalzões"
+    ]
+  },
+  "nasosseptal": {
+    "R": [
+      "nasosseptalzinho",
+      "nasosseptaizinhos"
+    ],
+    "V": [
+      "nasosseptalzão",
+      "nasosseptalzões"
+    ]
+  },
+  "nasosseptite": {
+    "P": [
+      "nasosseptitinho",
+      "nasosseptitinhos"
+    ]
+  },
+  "nasossinusite": {
+    "P": [
+      "nasossinusitinho",
+      "nasossinusitinhos"
+    ]
+  },
+  "nasossuperciliar": {
+    "R": [
+      "nasossuperciliarezinhos",
+      "nasossuperciliarzinho"
+    ]
+  },
+  "nasossupraciliar": {
+    "R": [
+      "nasossupraciliarezinhos",
+      "nasossupraciliarzinho"
+    ]
+  },
+  "nasotransversal": {
+    "R": [
+      "nasotransversalzinho",
+      "nasotransversaizinhos"
+    ],
+    "V": [
+      "nasotransversalzão",
+      "nasotransversalzões"
+    ]
+  },
+  "natação": {
+    "Q": [
+      "nataçãozinha",
+      "nataçõezinhas"
+    ],
+    "W": [
+      "nataçona",
+      "nataçonas"
+    ],
+    "Â+Q": [
+      "desnataçãozinha",
+      "desnataçõezinhas"
+    ],
+    "Â+W": [
+      "desnataçona",
+      "desnataçonas"
+    ]
+  },
+  "natal": {
+    "R": [
+      "natalzinho",
+      "nataizinhos"
+    ],
+    "V": [
+      "natalzão",
+      "natalzões"
+    ],
+    "É+R": [
+      "neonatalzinho",
+      "neonataizinhos"
+    ],
+    "Ï+R": [
+      "antenatalzinho",
+      "antenataizinhos"
+    ],
+    "ú+R": [
+      "pré-natalzinho",
+      "pré-nataizinhos"
+    ],
+    "É+V": [
+      "neonatalzão",
+      "neonatalzões"
+    ],
+    "Ï+V": [
+      "antenatalzão",
+      "antenatalzões"
+    ],
+    "ú+V": [
+      "pré-natalzão",
+      "pré-natalzões"
+    ]
+  },
+  "Natanael": {
+    "R": [
+      "Natanaelzinho",
+      "Natanaeizinhos"
+    ],
+    "V": [
+      "Natanaelzão",
+      "Natanaelzões"
+    ]
+  },
+  "Nataniel": {
+    "R": [
+      "Natanielzinho",
+      "Natanieizinhos"
+    ],
+    "V": [
+      "Natanielzão",
+      "Natanielzões"
+    ]
+  },
+  "natante": {
+    "P": [
+      "natantinho",
+      "natantinhos"
+    ]
+  },
+  "natátil": {
+    "R": [
+      "natátilzinho",
+      "natátiizinhos"
+    ],
+    "V": [
+      "natátilzão",
+      "natátilzões"
+    ]
+  },
+  "natil": {
+    "R": [
+      "natilzinho",
+      "natiizinhos"
+    ],
+    "V": [
+      "natilzão",
+      "natilzões"
+    ]
+  },
+  "natimortal": {
+    "R": [
+      "natimortalzinho",
+      "natimortaizinhos"
+    ],
+    "V": [
+      "natimortalzão",
+      "natimortalzões"
+    ]
+  },
+  "nativitate": {
+    "P": [
+      "nativitatinho",
+      "nativitatinhos"
+    ]
+  },
+  "natrão": {
+    "R": [
+      "natrãozinho",
+      "natrõezinhos"
+    ],
+    "V": [
+      "natrãozão",
+      "natrãozões"
+    ],
+    "ò+R": [
+      "anatrãozinho",
+      "anatrõezinhos"
+    ],
+    "ò+V": [
+      "anatrãozão",
+      "anatrãozões"
+    ]
+  },
+  "natrionte": {
+    "P": [
+      "natriontinho",
+      "natriontinhos"
+    ]
+  },
+  "natroborocalcite": {
+    "O": [
+      "natroborocalcitinha",
+      "natroborocalcitinhas"
+    ],
+    "P": [
+      "natroborocalcitinho",
+      "natroborocalcitinhos"
+    ]
+  },
+  "natrocalcite": {
+    "O": [
+      "natrocalcitinha",
+      "natrocalcitinhas"
+    ],
+    "P": [
+      "natrocalcitinho",
+      "natrocalcitinhos"
+    ]
+  },
+  "natrofilite": {
+    "O": [
+      "natrofilitinha",
+      "natrofilitinhas"
+    ],
+    "P": [
+      "natrofilitinho",
+      "natrofilitinhos"
+    ]
+  },
+  "natrolite": {
+    "O": [
+      "natrolitinha",
+      "natrolitinhas"
+    ],
+    "P": [
+      "natrolitinho",
+      "natrolitinhos"
+    ]
+  },
+  "natronite": {
+    "O": [
+      "natronitinha",
+      "natronitinhas"
+    ],
+    "P": [
+      "natronitinho",
+      "natronitinhos"
+    ]
+  },
+  "natrossiderite": {
+    "O": [
+      "natrossideritinha",
+      "natrossideritinhas"
+    ],
+    "P": [
+      "natrossideritinho",
+      "natrossideritinhos"
+    ]
+  },
+  "natural": {
+    "R": [
+      "naturalzinho",
+      "naturaizinhos"
+    ],
+    "V": [
+      "naturalzão",
+      "naturalzões"
+    ],
+    "à+R": [
+      "ultranaturalzinho",
+      "ultranaturaizinhos"
+    ],
+    "Á+R": [
+      "antinaturalzinho",
+      "antinaturaizinhos"
+    ],
+    "Â+R": [
+      "desnaturalzinho",
+      "desnaturaizinhos"
+    ],
+    "Ë+R": [
+      "sobrenaturalzinho",
+      "sobrenaturaizinhos"
+    ],
+    "Ì+R": [
+      "supernaturalzinho",
+      "supernaturaizinhos"
+    ],
+    "î+R": [
+      "transnaturalzinho",
+      "transnaturaizinhos"
+    ],
+    "Ó+R": [
+      "contranaturalzinho",
+      "contranaturaizinhos"
+    ],
+    "Ô+R": [
+      "extranaturalzinho",
+      "extranaturaizinhos"
+    ],
+    "ô+R": [
+      "supranaturalzinho",
+      "supranaturaizinhos"
+    ],
+    "Ü+R": [
+      "seminaturalzinho",
+      "seminaturaizinhos"
+    ],
+    "à+V": [
+      "ultranaturalzão",
+      "ultranaturalzões"
+    ],
+    "Á+V": [
+      "antinaturalzão",
+      "antinaturalzões"
+    ],
+    "Â+V": [
+      "desnaturalzão",
+      "desnaturalzões"
+    ],
+    "Ë+V": [
+      "sobrenaturalzão",
+      "sobrenaturalzões"
+    ],
+    "Ì+V": [
+      "supernaturalzão",
+      "supernaturalzões"
+    ],
+    "î+V": [
+      "transnaturalzão",
+      "transnaturalzões"
+    ],
+    "Ó+V": [
+      "contranaturalzão",
+      "contranaturalzões"
+    ],
+    "Ô+V": [
+      "extranaturalzão",
+      "extranaturalzões"
+    ],
+    "ô+V": [
+      "supranaturalzão",
+      "supranaturalzões"
+    ],
+    "Ü+V": [
+      "seminaturalzão",
+      "seminaturalzões"
+    ]
+  },
+  "naturalização": {
+    "Q": [
+      "naturalizaçãozinha",
+      "naturalizaçõezinhas"
+    ],
+    "W": [
+      "naturalizaçona",
+      "naturalizaçonas"
+    ],
+    "À+Q": [
+      "renaturalizaçãozinha",
+      "renaturalizaçõezinhas"
+    ],
+    "Â+Q": [
+      "desnaturalizaçãozinha",
+      "desnaturalizaçõezinhas"
+    ],
+    "Ë+Q": [
+      "sobrenaturalizaçãozinha",
+      "sobrenaturalizaçõezinhas"
+    ],
+    "Ñ+Q": [
+      "conaturalizaçãozinha",
+      "conaturalizaçõezinhas"
+    ],
+    "À+W": [
+      "renaturalizaçona",
+      "renaturalizaçonas"
+    ],
+    "Â+W": [
+      "desnaturalizaçona",
+      "desnaturalizaçonas"
+    ],
+    "Ë+W": [
+      "sobrenaturalizaçona",
+      "sobrenaturalizaçonas"
+    ],
+    "Ñ+W": [
+      "conaturalizaçona",
+      "conaturalizaçonas"
+    ]
+  },
+  "nauete": {
+    "P": [
+      "nauetinho",
+      "nauetinhos"
+    ]
+  },
+  "naufragoso": {
+    "O": [
+      "naufragosinha",
+      "naufragosinhas"
+    ],
+    "P": [
+      "naufragosinho",
+      "naufragosinhos"
+    ]
+  },
+  "nauseoso": {
+    "O": [
+      "nauseosinha",
+      "nauseosinhas"
+    ],
+    "P": [
+      "nauseosinho",
+      "nauseosinhos"
+    ]
+  },
+  "nautarel": {
+    "R": [
+      "nautarelzinho",
+      "nautareizinhos"
+    ],
+    "V": [
+      "nautarelzão",
+      "nautarelzões"
+    ]
+  },
+  "naval": {
+    "R": [
+      "navalzinho",
+      "navaizinhos"
+    ],
+    "V": [
+      "navalzão",
+      "navalzões"
+    ]
+  },
+  "navalhão": {
+    "R": [
+      "navalhãozinho",
+      "navalhõezinhos"
+    ],
+    "V": [
+      "navalhãozão",
+      "navalhãozões"
+    ]
+  },
+  "navarro-aragonês": {
+    "O": [
+      "navarro-aragonesinha",
+      "navarro-aragonesinhas"
+    ],
+    "P": [
+      "navarro-aragonesinho",
+      "navarro-aragonesezinhos"
+    ]
+  },
+  "navegação": {
+    "Q": [
+      "navegaçãozinha",
+      "navegaçõezinhas"
+    ],
+    "W": [
+      "navegaçona",
+      "navegaçonas"
+    ],
+    "á+Q": [
+      "aeronavegaçãozinha",
+      "aeronavegaçõezinhas"
+    ],
+    "á+W": [
+      "aeronavegaçona",
+      "aeronavegaçonas"
+    ]
+  },
+  "navegacional": {
+    "R": [
+      "navegacionalzinho",
+      "navegacionaizinhos"
+    ],
+    "V": [
+      "navegacionalzão",
+      "navegacionalzões"
+    ]
+  },
+  "navicular": {
+    "R": [
+      "navicularezinhos",
+      "navicularzinho"
+    ]
+  },
+  "navios-tênder": {
+    "R": [
+      "navios-tênderezinhos",
+      "navios-tênderzinho"
+    ]
+  },
+  "Nazariel": {
+    "R": [
+      "Nazarielzinho",
+      "Nazarieizinhos"
+    ],
+    "V": [
+      "Nazarielzão",
+      "Nazarielzões"
+    ]
+  },
+  "nazificação": {
+    "Q": [
+      "nazificaçãozinha",
+      "nazificaçõezinhas"
+    ],
+    "W": [
+      "nazificaçona",
+      "nazificaçonas"
+    ],
+    "Â+Q": [
+      "desnazificaçãozinha",
+      "desnazificaçõezinhas"
+    ],
+    "Â+W": [
+      "desnazificaçona",
+      "desnazificaçonas"
+    ]
+  },
+  "Neal": {
+    "R": [
+      "Nealzinho",
+      "Neaizinhos"
+    ]
+  },
+  "nealbarbital": {
+    "R": [
+      "nealbarbitalzinho",
+      "nealbarbitaizinhos"
+    ],
+    "V": [
+      "nealbarbitalzão",
+      "nealbarbitalzões"
+    ]
+  },
+  "neão": {
+    "R": [
+      "neãozinho",
+      "neõezinhos"
+    ],
+    "V": [
+      "neãozão",
+      "neãozões"
+    ]
+  },
+  "nebaso": {
+    "P": [
+      "nebasinho",
+      "nebasinhos"
+    ],
+    "V": [
+      "nebasão",
+      "nebasões"
+    ]
+  },
+  "nebel": {
+    "R": [
+      "nebelzinho",
+      "nebeizinhos"
+    ],
+    "V": [
+      "nebelzão",
+      "nebelzões"
+    ]
+  },
+  "nebivolol": {
+    "R": [
+      "nebivololzinho",
+      "nebivoloizinhos"
+    ],
+    "V": [
+      "nebivololzão",
+      "nebivololzões"
+    ]
+  },
+  "neblinação": {
+    "Q": [
+      "neblinaçãozinha",
+      "neblinaçõezinhas"
+    ],
+    "W": [
+      "neblinaçona",
+      "neblinaçonas"
+    ]
+  },
+  "neblinoso": {
+    "O": [
+      "neblinosinha",
+      "neblinosinhas"
+    ],
+    "P": [
+      "neblinosinho",
+      "neblinosinhos"
+    ]
+  },
+  "nebostinel": {
+    "R": [
+      "nebostinelzinho",
+      "nebostineizinhos"
+    ],
+    "V": [
+      "nebostinelzão",
+      "nebostinelzões"
+    ]
+  },
+  "nebrinoso": {
+    "O": [
+      "nebrinosinha",
+      "nebrinosinhas"
+    ],
+    "P": [
+      "nebrinosinho",
+      "nebrinosinhos"
+    ]
+  },
+  "nebrite": {
+    "O": [
+      "nebritinha",
+      "nebritinhas"
+    ],
+    "P": [
+      "nebritinho",
+      "nebritinhos"
+    ]
+  },
+  "nebular": {
+    "R": [
+      "nebularezinhos",
+      "nebularzinho"
+    ]
+  },
+  "nebulização": {
+    "Q": [
+      "nebulizaçãozinha",
+      "nebulizaçõezinhas"
+    ],
+    "W": [
+      "nebulizaçona",
+      "nebulizaçonas"
+    ]
+  },
+  "nebuloso": {
+    "O": [
+      "nebulosinha",
+      "nebulosinhas"
+    ],
+    "P": [
+      "nebulosinho",
+      "nebulosinhos"
+    ]
+  },
+  "neca": {
+    "O": [
+      "nequinha",
+      "nequinhas"
+    ]
+  },
+  "necator": {
+    "R": [
+      "necatorezinhos",
+      "necatorzinho"
+    ]
+  },
+  "necátor": {
+    "R": [
+      "necátorezinhos",
+      "necátorzinho"
+    ]
+  },
+  "necessitação": {
+    "Q": [
+      "necessitaçãozinha",
+      "necessitaçõezinhas"
+    ],
+    "W": [
+      "necessitaçona",
+      "necessitaçonas"
+    ]
+  },
+  "necessitoso": {
+    "O": [
+      "necessitosinha",
+      "necessitosinhas"
+    ],
+    "P": [
+      "necessitosinho",
+      "necessitosinhos"
+    ]
+  },
+  "neciomante": {
+    "P": [
+      "neciomantinho",
+      "neciomantinhos"
+    ]
+  },
+  "necromante": {
+    "P": [
+      "necromantinho",
+      "necromantinhos"
+    ]
+  },
+  "necronite": {
+    "O": [
+      "necronitinha",
+      "necronitinhas"
+    ],
+    "P": [
+      "necronitinho",
+      "necronitinhos"
+    ]
+  },
+  "necropolar": {
+    "R": [
+      "necropolarezinhos",
+      "necropolarzinho"
+    ]
+  },
+  "necrosação": {
+    "Q": [
+      "necrosaçãozinha",
+      "necrosaçõezinhas"
+    ],
+    "W": [
+      "necrosaçona",
+      "necrosaçonas"
+    ]
+  },
+  "necrotização": {
+    "Q": [
+      "necrotizaçãozinha",
+      "necrotizaçõezinhas"
+    ],
+    "W": [
+      "necrotizaçona",
+      "necrotizaçonas"
+    ]
+  },
+  "néctar": {
+    "R": [
+      "néctarezinhos",
+      "néctarzinho"
+    ]
+  },
+  "nectarização": {
+    "Q": [
+      "nectarizaçãozinha",
+      "nectarizaçõezinhas"
+    ],
+    "W": [
+      "nectarizaçona",
+      "nectarizaçonas"
+    ]
+  },
+  "nedinate": {
+    "P": [
+      "nedinatinho",
+      "nedinatinhos"
+    ]
+  },
+  "nedocromil": {
+    "R": [
+      "nedocromilzinho",
+      "nedocromiizinhos"
+    ],
+    "V": [
+      "nedocromilzão",
+      "nedocromilzões"
+    ]
+  },
+  "neerlandês": {
+    "O": [
+      "neerlandesinha",
+      "neerlandesinhas"
+    ],
+    "P": [
+      "neerlandesinho",
+      "neerlandesezinhos"
+    ]
+  },
+  "neerlando-espanhol": {
+    "R": [
+      "neerlando-espanholzinho",
+      "neerlando-espanhoizinhos"
+    ]
+  },
+  "neerlando-francês": {
+    "O": [
+      "neerlando-francesinha",
+      "neerlando-francesinhas"
+    ],
+    "P": [
+      "neerlando-francesinho",
+      "neerlando-francesezinhos"
+    ]
+  },
+  "neerlando-inglês": {
+    "O": [
+      "neerlando-inglesinha",
+      "neerlando-inglesinhas"
+    ],
+    "P": [
+      "neerlando-inglesinho",
+      "neerlando-inglesezinhos"
+    ]
+  },
+  "neerlando-português": {
+    "O": [
+      "neerlando-portuguesinha",
+      "neerlando-portuguesinhas"
+    ],
+    "P": [
+      "neerlando-portuguesinho",
+      "neerlando-portuguesezinhos"
+    ]
+  },
+  "neerlandofalante": {
+    "P": [
+      "neerlandofalantinho",
+      "neerlandofalantinhos"
+    ]
+  },
+  "neerlandoparlante": {
+    "P": [
+      "neerlandoparlantinho",
+      "neerlandoparlantinhos"
+    ]
+  },
+  "nefalite": {
+    "O": [
+      "nefalitinha",
+      "nefalitinhas"
+    ],
+    "P": [
+      "nefalitinho",
+      "nefalitinhos"
+    ]
+  },
+  "nefelinite": {
+    "P": [
+      "nefelinitinho",
+      "nefelinitinhos"
+    ]
+  },
+  "nefelinização": {
+    "Q": [
+      "nefelinizaçãozinha",
+      "nefelinizaçõezinhas"
+    ],
+    "W": [
+      "nefelinizaçona",
+      "nefelinizaçonas"
+    ]
+  },
+  "nefelite": {
+    "O": [
+      "nefelitinha",
+      "nefelitinhas"
+    ],
+    "P": [
+      "nefelitinho",
+      "nefelitinhos"
+    ]
+  },
+  "nefelitite": {
+    "O": [
+      "nefelititinha",
+      "nefelititinhas"
+    ],
+    "P": [
+      "nefelititinho",
+      "nefelititinhos"
+    ]
+  },
+  "nefelomante": {
+    "P": [
+      "nefelomantinho",
+      "nefelomantinhos"
+    ]
+  },
+  "nefrabdominal": {
+    "R": [
+      "nefrabdominalzinho",
+      "nefrabdominaizinhos"
+    ],
+    "V": [
+      "nefrabdominalzão",
+      "nefrabdominalzões"
+    ]
+  },
+  "nefrelite": {
+    "O": [
+      "nefrelitinha",
+      "nefrelitinhas"
+    ],
+    "P": [
+      "nefrelitinho",
+      "nefrelitinhos"
+    ]
+  },
+  "nefridial": {
+    "R": [
+      "nefridialzinho",
+      "nefridiaizinhos"
+    ],
+    "V": [
+      "nefridialzão",
+      "nefridialzões"
+    ]
+  },
+  "nefrite": {
+    "P": [
+      "nefritinho",
+      "nefritinhos"
+    ],
+    "Ú+P": [
+      "pseudonefritinho",
+      "pseudonefritinhos"
+    ]
+  },
+  "nefrocistite": {
+    "P": [
+      "nefrocistitinho",
+      "nefrocistitinhos"
+    ]
+  },
+  "nefropielite": {
+    "P": [
+      "nefropielitinho",
+      "nefropielitinhos"
+    ]
+  },
+  "nefrostomal": {
+    "R": [
+      "nefrostomalzinho",
+      "nefrostomaizinhos"
+    ],
+    "V": [
+      "nefrostomalzão",
+      "nefrostomalzões"
+    ]
+  },
+  "neftite": {
+    "P": [
+      "neftitinho",
+      "neftitinhos"
+    ]
+  },
+  "negação": {
+    "Q": [
+      "negaçãozinha",
+      "negaçõezinhas"
+    ],
+    "W": [
+      "negaçona",
+      "negaçonas"
+    ],
+    "À+Q": [
+      "renegaçãozinha",
+      "renegaçõezinhas"
+    ],
+    "Ã+Q": [
+      "autonegaçãozinha",
+      "autonegaçõezinhas"
+    ],
+    "È+Q": [
+      "subnegaçãozinha",
+      "subnegaçõezinhas"
+    ],
+    "À+W": [
+      "renegaçona",
+      "renegaçonas"
+    ],
+    "Ã+W": [
+      "autonegaçona",
+      "autonegaçonas"
+    ],
+    "È+W": [
+      "subnegaçona",
+      "subnegaçonas"
+    ]
+  },
+  "negacioso": {
+    "O": [
+      "negaciosinha",
+      "negaciosinhas"
+    ],
+    "P": [
+      "negaciosinho",
+      "negaciosinhos"
+    ]
+  },
+  "negão": {
+    "R": [
+      "negãozinho",
+      "negõezinhos"
+    ],
+    "V": [
+      "negãozão",
+      "negãozões"
+    ]
+  },
+  "negativação": {
+    "Q": [
+      "negativaçãozinha",
+      "negativaçõezinhas"
+    ],
+    "W": [
+      "negativaçona",
+      "negativaçonas"
+    ]
+  },
+  "negativização": {
+    "Q": [
+      "negativizaçãozinha",
+      "negativizaçõezinhas"
+    ],
+    "W": [
+      "negativizaçona",
+      "negativizaçonas"
+    ]
+  },
+  "negativos": {
+    "P": [
+      "negativinho",
+      "negativinhos"
+    ]
+  },
+  "negatrão": {
+    "R": [
+      "negatrãozinho",
+      "negatrõezinhos"
+    ],
+    "V": [
+      "negatrãozão",
+      "negatrãozões"
+    ]
+  },
+  "negelador": {
+    "R": [
+      "negeladorezinhos",
+      "negeladorzinho"
+    ]
+  },
+  "negligenciação": {
+    "Q": [
+      "negligenciaçãozinha",
+      "negligenciaçõezinhas"
+    ],
+    "W": [
+      "negligenciaçona",
+      "negligenciaçonas"
+    ]
+  },
+  "negociação": {
+    "Q": [
+      "negociaçãozinha",
+      "negociaçõezinhas"
+    ],
+    "W": [
+      "negociaçona",
+      "negociaçonas"
+    ],
+    "À+Q": [
+      "renegociaçãozinha",
+      "renegociaçõezinhas"
+    ],
+    "À+W": [
+      "renegociaçona",
+      "renegociaçonas"
+    ]
+  },
+  "negocial": {
+    "R": [
+      "negocialzinho",
+      "negociaizinhos"
+    ],
+    "V": [
+      "negocialzão",
+      "negocialzões"
+    ]
+  },
+  "negocião": {
+    "R": [
+      "negociãozinho",
+      "negociõezinhos"
+    ],
+    "V": [
+      "negociãozão",
+      "negociãozões"
+    ]
+  },
+  "negociarrão": {
+    "R": [
+      "negociarrãozinho",
+      "negociarrõezinhos"
+    ],
+    "V": [
+      "negociarrãozão",
+      "negociarrãozões"
+    ]
+  },
+  "negocioso": {
+    "O": [
+      "negociosinha",
+      "negociosinhas"
+    ],
+    "P": [
+      "negociosinho",
+      "negociosinhos"
+    ]
+  },
+  "negral": {
+    "R": [
+      "negralzinho",
+      "negraizinhos"
+    ],
+    "V": [
+      "negralzão",
+      "negralzões"
+    ]
+  },
+  "negralhão": {
+    "R": [
+      "negralhãozinho",
+      "negralhõezinhos"
+    ],
+    "V": [
+      "negralhãozão",
+      "negralhãozões"
+    ]
+  },
+  "negralização": {
+    "Q": [
+      "negralizaçãozinha",
+      "negralizaçõezinhas"
+    ],
+    "W": [
+      "negralizaçona",
+      "negralizaçonas"
+    ]
+  },
+  "negrante": {
+    "P": [
+      "negrantinho",
+      "negrantinhos"
+    ]
+  },
+  "negrão": {
+    "R": [
+      "negrãozinho",
+      "negrõezinhos"
+    ],
+    "V": [
+      "negrãozão",
+      "negrãozões"
+    ]
+  },
+  "negredão": {
+    "R": [
+      "negredãozinho",
+      "negredõezinhos"
+    ],
+    "V": [
+      "negredãozão",
+      "negredãozões"
+    ]
+  },
+  "negregoso": {
+    "O": [
+      "negregosinha",
+      "negregosinhas"
+    ],
+    "P": [
+      "negregosinho",
+      "negregosinhos"
+    ]
+  },
+  "negrete": {
+    "P": [
+      "negretinho",
+      "negretinhos"
+    ]
+  },
+  "negridão": {
+    "R": [
+      "negridãozinho",
+      "negridõezinhos"
+    ],
+    "V": [
+      "negridãozão",
+      "negridãozões"
+    ]
+  },
+  "negrilhal": {
+    "R": [
+      "negrilhalzinho",
+      "negrilhaizinhos"
+    ],
+    "V": [
+      "negrilhalzão",
+      "negrilhalzões"
+    ]
+  },
+  "negritudinal": {
+    "R": [
+      "negritudinalzinho",
+      "negritudinaizinhos"
+    ],
+    "V": [
+      "negritudinalzão",
+      "negritudinalzões"
+    ]
+  },
+  "negro-francês": {
+    "O": [
+      "negro-francesinha",
+      "negro-francesinhas"
+    ],
+    "P": [
+      "negro-francesinho",
+      "negro-francesezinhos"
+    ]
+  },
+  "negro-inglês": {
+    "O": [
+      "negro-inglesinha",
+      "negro-inglesinhas"
+    ],
+    "P": [
+      "negro-inglesinho",
+      "negro-inglesezinhos"
+    ]
+  },
+  "negro-português": {
+    "O": [
+      "negro-portuguesinha",
+      "negro-portuguesinhas"
+    ],
+    "P": [
+      "negro-portuguesinho",
+      "negro-portuguesezinhos"
+    ]
+  },
+  "negro": {
+    "O": [
+      "negrinha",
+      "negrinhas"
+    ],
+    "P": [
+      "negrinho",
+      "negrinhos"
+    ]
+  },
+  "negromante": {
+    "P": [
+      "negromantinho",
+      "negromantinhos"
+    ]
+  },
+  "negror": {
+    "R": [
+      "negrorezinhos",
+      "negrorzinho"
+    ]
+  },
+  "negrote": {
+    "P": [
+      "negrotinho",
+      "negrotinhos"
+    ]
+  },
+  "negrumoso": {
+    "O": [
+      "negrumosinha",
+      "negrumosinhas"
+    ],
+    "P": [
+      "negrumosinho",
+      "negrumosinhos"
+    ]
+  },
+  "Neiva": {
+    "O": [
+      "Neivinha",
+      "Neivinhas"
+    ]
+  },
+  "neixente": {
+    "P": [
+      "neixentinho",
+      "neixentinhos"
+    ]
+  },
+  "nelfinavir": {
+    "R": [
+      "nelfinavirezinhos",
+      "nelfinavirzinho"
+    ]
+  },
+  "nelsonite": {
+    "O": [
+      "nelsonitinha",
+      "nelsonitinhas"
+    ],
+    "P": [
+      "nelsonitinho",
+      "nelsonitinhos"
+    ]
+  },
+  "nemalional": {
+    "R": [
+      "nemalionalzinho",
+      "nemalionaizinhos"
+    ],
+    "V": [
+      "nemalionalzão",
+      "nemalionalzões"
+    ]
+  },
+  "nematelminte": {
+    "P": [
+      "nematelmintinho",
+      "nematelmintinhos"
+    ]
+  },
+  "nematociste": {
+    "P": [
+      "nematocistinho",
+      "nematocistinhos"
+    ]
+  },
+  "nematolite": {
+    "O": [
+      "nematolitinha",
+      "nematolitinhas"
+    ],
+    "P": [
+      "nematolitinho",
+      "nematolitinhos"
+    ]
+  },
+  "nematomicete": {
+    "P": [
+      "nematomicetinho",
+      "nematomicetinhos"
+    ]
+  },
+  "nematopogão": {
+    "R": [
+      "nematopogãozinho",
+      "nematopogõezinhos"
+    ],
+    "V": [
+      "nematopogãozão",
+      "nematopogãozões"
+    ]
+  },
+  "nemerte": {
+    "P": [
+      "nemertinho",
+      "nemertinhos"
+    ]
+  },
+  "nemofante": {
+    "P": [
+      "nemofantinho",
+      "nemofantinhos"
+    ]
+  },
+  "nemoral": {
+    "R": [
+      "nemoralzinho",
+      "nemoraizinhos"
+    ],
+    "V": [
+      "nemoralzão",
+      "nemoralzões"
+    ]
+  },
+  "nemoroso": {
+    "O": [
+      "nemorosinha",
+      "nemorosinhas"
+    ],
+    "P": [
+      "nemorosinho",
+      "nemorosinhos"
+    ]
+  },
+  "nenhetil": {
+    "R": [
+      "nenhetilzinho",
+      "nenhetiizinhos"
+    ],
+    "V": [
+      "nenhetilzão",
+      "nenhetilzões"
+    ]
+  },
+  "nenúfar": {
+    "R": [
+      "nenúfarezinhos",
+      "nenúfarzinho"
+    ]
+  },
+  "neocolonizador": {
+    "R": [
+      "neocolonizadorezinhos",
+      "neocolonizadorzinho"
+    ]
+  },
+  "neocolonizante": {
+    "P": [
+      "neocolonizantinho",
+      "neocolonizantinhos"
+    ]
+  },
+  "neocomungante": {
+    "P": [
+      "neocomungantinho",
+      "neocomungantinhos"
+    ]
+  },
+  "neoconservador": {
+    "R": [
+      "neoconservadorezinhos",
+      "neoconservadorzinho"
+    ]
+  },
+  "neoformante": {
+    "P": [
+      "neoformantinho",
+      "neoformantinhos"
+    ]
+  },
+  "neol": {
+    "R": [
+      "neolzinho",
+      "neoizinhos"
+    ],
+    "V": [
+      "neolzão",
+      "neolzões"
+    ]
+  },
+  "neolitização": {
+    "Q": [
+      "neolitizaçãozinha",
+      "neolitizaçõezinhas"
+    ],
+    "W": [
+      "neolitizaçona",
+      "neolitizaçonas"
+    ]
+  },
+  "neologismos": {
+    "P": [
+      "neologisminho",
+      "neologisminhos"
+    ]
+  },
+  "neopapal": {
+    "R": [
+      "neopapalzinho",
+      "neopapaizinhos"
+    ],
+    "V": [
+      "neopapalzão",
+      "neopapalzões"
+    ]
+  },
+  "neoprotestante": {
+    "P": [
+      "neoprotestantinho",
+      "neoprotestantinhos"
+    ]
+  },
+  "neornite": {
+    "P": [
+      "neornitinho",
+      "neornitinhos"
+    ]
+  },
+  "neotocite": {
+    "O": [
+      "neotocitinha",
+      "neotocitinhas"
+    ],
+    "P": [
+      "neotocitinho",
+      "neotocitinhos"
+    ]
+  },
+  "nepal": {
+    "R": [
+      "nepalzinho",
+      "nepaizinhos"
+    ],
+    "V": [
+      "nepalzão",
+      "nepalzões"
+    ]
+  },
+  "nepalês": {
+    "O": [
+      "nepalesinha",
+      "nepalesinhas"
+    ],
+    "P": [
+      "nepalesinho",
+      "nepalesezinhos"
+    ]
+  },
+  "nepalofalante": {
+    "P": [
+      "nepalofalantinho",
+      "nepalofalantinhos"
+    ]
+  },
+  "nepaloparlante": {
+    "P": [
+      "nepaloparlantinho",
+      "nepaloparlantinhos"
+    ]
+  },
+  "nepente": {
+    "O": [
+      "nepentinha",
+      "nepentinhas"
+    ],
+    "P": [
+      "nepentinho",
+      "nepentinhos"
+    ]
+  },
+  "nepicastate": {
+    "P": [
+      "nepicastatinho",
+      "nepicastatinhos"
+    ]
+  },
+  "nepote": {
+    "P": [
+      "nepotinho",
+      "nepotinhos"
+    ]
+  },
+  "nequinate": {
+    "P": [
+      "nequinatinho",
+      "nequinatinhos"
+    ]
+  },
+  "neral": {
+    "R": [
+      "neralzinho",
+      "neraizinhos"
+    ],
+    "V": [
+      "neralzão",
+      "neralzões"
+    ]
+  },
+  "neraminol": {
+    "R": [
+      "neraminolzinho",
+      "neraminoizinhos"
+    ],
+    "V": [
+      "neraminolzão",
+      "neraminolzões"
+    ]
+  },
+  "nerbacadol": {
+    "R": [
+      "nerbacadolzinho",
+      "nerbacadoizinhos"
+    ],
+    "V": [
+      "nerbacadolzão",
+      "nerbacadolzões"
+    ]
+  },
+  "nereociste": {
+    "P": [
+      "nereocistinho",
+      "nereocistinhos"
+    ]
+  },
+  "nerol": {
+    "R": [
+      "nerolzinho",
+      "neroizinhos"
+    ],
+    "V": [
+      "nerolzão",
+      "nerolzões"
+    ]
+  },
+  "nerolidol": {
+    "R": [
+      "nerolidolzinho",
+      "nerolidoizinhos"
+    ],
+    "V": [
+      "nerolidolzão",
+      "nerolidolzões"
+    ]
+  },
+  "nervação": {
+    "Q": [
+      "nervaçãozinha",
+      "nervaçõezinhas"
+    ],
+    "W": [
+      "nervaçona",
+      "nervaçonas"
+    ],
+    "Â+Q": [
+      "desnervaçãozinha",
+      "desnervaçõezinhas"
+    ],
+    "Â+W": [
+      "desnervaçona",
+      "desnervaçonas"
+    ]
+  },
+  "nerval": {
+    "R": [
+      "nervalzinho",
+      "nervaizinhos"
+    ],
+    "V": [
+      "nervalzão",
+      "nervalzões"
+    ]
+  },
+  "nervimoção": {
+    "Q": [
+      "nervimoçãozinha",
+      "nervimoçõezinhas"
+    ],
+    "W": [
+      "nervimoçona",
+      "nervimoçonas"
+    ]
+  },
+  "nervimuscular": {
+    "R": [
+      "nervimuscularezinhos",
+      "nervimuscularzinho"
+    ]
+  },
+  "nervol": {
+    "R": [
+      "nervolzinho",
+      "nervoizinhos"
+    ],
+    "V": [
+      "nervolzão",
+      "nervolzões"
+    ]
+  },
+  "nervoso": {
+    "O": [
+      "nervosinha",
+      "nervosinhas"
+    ],
+    "P": [
+      "nervosinho",
+      "nervosinhos"
+    ],
+    "Á+O": [
+      "antinervosinha",
+      "antinervosinhas"
+    ],
+    "Ì+O": [
+      "supernervosinha",
+      "supernervosinhas"
+    ],
+    "Î+O": [
+      "hipernervosinha",
+      "hipernervosinhas"
+    ],
+    "Á+P": [
+      "antinervosinho",
+      "antinervosinhos"
+    ],
+    "Ì+P": [
+      "supernervosinho",
+      "supernervosinhos"
+    ],
+    "Î+P": [
+      "hipernervosinho",
+      "hipernervosinhos"
+    ]
+  },
+  "nervudo": {
+    "O": [
+      "nervudinha",
+      "nervudinhas"
+    ],
+    "P": [
+      "nervudinho",
+      "nervudinhos"
+    ]
+  },
+  "nervulação": {
+    "Q": [
+      "nervulaçãozinha",
+      "nervulaçõezinhas"
+    ],
+    "W": [
+      "nervulaçona",
+      "nervulaçonas"
+    ]
+  },
+  "nervular": {
+    "R": [
+      "nervularezinhos",
+      "nervularzinho"
+    ]
+  },
+  "nervuloso": {
+    "O": [
+      "nervulosinha",
+      "nervulosinhas"
+    ],
+    "P": [
+      "nervulosinho",
+      "nervulosinhos"
+    ]
+  },
+  "nesapidil": {
+    "R": [
+      "nesapidilzinho",
+      "nesapidiizinhos"
+    ],
+    "V": [
+      "nesapidilzão",
+      "nesapidilzões"
+    ]
+  },
+  "nesgão": {
+    "R": [
+      "nesgãozinho",
+      "nesgõezinhos"
+    ],
+    "V": [
+      "nesgãozão",
+      "nesgãozões"
+    ]
+  },
+  "neste": {
+    "O": [
+      "nestinha",
+      "nestinhas"
+    ],
+    "P": [
+      "nestinho",
+      "nestinhos"
+    ]
+  },
+  "nestor": {
+    "R": [
+      "nestorezinhos",
+      "nestorzinho"
+    ]
+  },
+  "neticonazol": {
+    "R": [
+      "neticonazolzinho",
+      "neticonazoizinhos"
+    ],
+    "V": [
+      "neticonazolzão",
+      "neticonazolzões"
+    ]
+  },
+  "neto": {
+    "O": [
+      "netinha",
+      "netinhas"
+    ],
+    "P": [
+      "netinho",
+      "netinhos"
+    ]
+  },
+  "netunal": {
+    "R": [
+      "netunalzinho",
+      "netunaizinhos"
+    ],
+    "V": [
+      "netunalzão",
+      "netunalzões"
+    ]
+  },
+  "neurarterial": {
+    "R": [
+      "neurarterialzinho",
+      "neurarteriaizinhos"
+    ],
+    "V": [
+      "neurarterialzão",
+      "neurarterialzões"
+    ]
+  },
+  "neuraxite": {
+    "P": [
+      "neuraxitinho",
+      "neuraxitinhos"
+    ]
+  },
+  "neurilemal": {
+    "R": [
+      "neurilemalzinho",
+      "neurilemaizinhos"
+    ],
+    "V": [
+      "neurilemalzão",
+      "neurilemalzões"
+    ]
+  },
+  "neurilemite": {
+    "P": [
+      "neurilemitinho",
+      "neurilemitinhos"
+    ]
+  },
+  "neurístor": {
+    "R": [
+      "neurístorezinhos",
+      "neurístorzinho"
+    ]
+  },
+  "neuristor": {
+    "R": [
+      "neuristorezinhos",
+      "neuristorzinho"
+    ]
+  },
+  "neurite": {
+    "P": [
+      "neuritinho",
+      "neuritinhos"
+    ],
+    "ö+P": [
+      "polineuritinho",
+      "polineuritinhos"
+    ],
+    "Ú+P": [
+      "pseudoneuritinho",
+      "pseudoneuritinhos"
+    ]
+  },
+  "neurocerebral": {
+    "R": [
+      "neurocerebralzinho",
+      "neurocerebraizinhos"
+    ],
+    "V": [
+      "neurocerebralzão",
+      "neurocerebralzões"
+    ]
+  },
+  "neurocomputacional": {
+    "R": [
+      "neurocomputacionalzinho",
+      "neurocomputacionaizinhos"
+    ],
+    "V": [
+      "neurocomputacionalzão",
+      "neurocomputacionalzões"
+    ]
+  },
+  "neurocondrite": {
+    "P": [
+      "neurocondritinho",
+      "neurocondritinhos"
+    ]
+  },
+  "neurocoriorretinite": {
+    "P": [
+      "neurocoriorretinitinho",
+      "neurocoriorretinitinhos"
+    ]
+  },
+  "neurodermatite": {
+    "P": [
+      "neurodermatitinho",
+      "neurodermatitinhos"
+    ]
+  },
+  "neurodermite": {
+    "P": [
+      "neurodermitinho",
+      "neurodermitinhos"
+    ]
+  },
+  "neurodocite": {
+    "P": [
+      "neurodocitinho",
+      "neurodocitinhos"
+    ]
+  },
+  "neuroepitelial": {
+    "R": [
+      "neuroepitelialzinho",
+      "neuroepiteliaizinhos"
+    ],
+    "V": [
+      "neuroepitelialzão",
+      "neuroepitelialzões"
+    ]
+  },
+  "neuroespinhal": {
+    "R": [
+      "neuroespinhalzinho",
+      "neuroespinhaizinhos"
+    ],
+    "V": [
+      "neuroespinhalzão",
+      "neuroespinhalzões"
+    ]
+  },
+  "neurofibrilar": {
+    "R": [
+      "neurofibrilarezinhos",
+      "neurofibrilarzinho"
+    ]
+  },
+  "neurofibrilhar": {
+    "R": [
+      "neurofibrilharezinhos",
+      "neurofibrilharzinho"
+    ]
+  },
+  "neuroganglionar": {
+    "R": [
+      "neuroganglionarezinhos",
+      "neuroganglionarzinho"
+    ]
+  },
+  "neuroganglite": {
+    "P": [
+      "neuroganglitinho",
+      "neuroganglitinhos"
+    ]
+  },
+  "neuroglandular": {
+    "R": [
+      "neuroglandularezinhos",
+      "neuroglandularzinho"
+    ]
+  },
+  "neuroglial": {
+    "R": [
+      "neuroglialzinho",
+      "neurogliaizinhos"
+    ],
+    "V": [
+      "neuroglialzão",
+      "neuroglialzões"
+    ]
+  },
+  "neurolabirintite": {
+    "P": [
+      "neurolabirintitinho",
+      "neurolabirintitinhos"
+    ]
+  },
+  "neuromielite": {
+    "P": [
+      "neuromielitinho",
+      "neuromielitinhos"
+    ]
+  },
+  "neuromiosite": {
+    "P": [
+      "neuromiositinho",
+      "neuromiositinhos"
+    ],
+    "ö+P": [
+      "polineuromiositinho",
+      "polineuromiositinhos"
+    ]
+  },
+  "neuromodulador": {
+    "R": [
+      "neuromoduladorezinhos",
+      "neuromoduladorzinho"
+    ]
+  },
+  "neuromotor": {
+    "R": [
+      "neuromotorezinhos",
+      "neuromotorzinho"
+    ]
+  },
+  "neuromuscular": {
+    "R": [
+      "neuromuscularezinhos",
+      "neuromuscularzinho"
+    ]
+  },
+  "neuronal": {
+    "R": [
+      "neuronalzinho",
+      "neuronaizinhos"
+    ],
+    "V": [
+      "neuronalzão",
+      "neuronalzões"
+    ]
+  },
+  "neuronial": {
+    "R": [
+      "neuronialzinho",
+      "neuroniaizinhos"
+    ],
+    "V": [
+      "neuronialzão",
+      "neuronialzões"
+    ]
+  },
+  "neuropapilite": {
+    "P": [
+      "neuropapilitinho",
+      "neuropapilitinhos"
+    ]
+  },
+  "neuropelte": {
+    "P": [
+      "neuropeltinho",
+      "neuropeltinhos"
+    ]
+  },
+  "neuropreservação": {
+    "Q": [
+      "neuropreservaçãozinha",
+      "neuropreservaçõezinhas"
+    ],
+    "W": [
+      "neuropreservaçona",
+      "neuropreservaçonas"
+    ]
+  },
+  "neuroreceptor": {
+    "R": [
+      "neuroreceptorezinhos",
+      "neuroreceptorzinho"
+    ]
+  },
+  "neurorretinite": {
+    "P": [
+      "neurorretinitinho",
+      "neurorretinitinhos"
+    ]
+  },
+  "neurosação": {
+    "Q": [
+      "neurosaçãozinha",
+      "neurosaçõezinhas"
+    ],
+    "W": [
+      "neurosaçona",
+      "neurosaçonas"
+    ]
+  },
+  "neurospinal": {
+    "R": [
+      "neurospinalzinho",
+      "neurospinaizinhos"
+    ],
+    "V": [
+      "neurospinalzão",
+      "neurospinalzões"
+    ]
+  },
+  "neurossecreção": {
+    "Q": [
+      "neurossecreçãozinha",
+      "neurossecreçõezinhas"
+    ],
+    "W": [
+      "neurossecreçona",
+      "neurossecreçonas"
+    ]
+  },
+  "neurossecretor": {
+    "R": [
+      "neurossecretorezinhos",
+      "neurossecretorzinho"
+    ]
+  },
+  "neurotecite": {
+    "P": [
+      "neurotecitinho",
+      "neurotecitinhos"
+    ]
+  },
+  "neurotelite": {
+    "P": [
+      "neurotelitinho",
+      "neurotelitinhos"
+    ]
+  },
+  "neurotização": {
+    "Q": [
+      "neurotizaçãozinha",
+      "neurotizaçõezinhas"
+    ],
+    "W": [
+      "neurotizaçona",
+      "neurotizaçonas"
+    ]
+  },
+  "neurotonização": {
+    "Q": [
+      "neurotonizaçãozinha",
+      "neurotonizaçõezinhas"
+    ],
+    "W": [
+      "neurotonizaçona",
+      "neurotonizaçonas"
+    ]
+  },
+  "neurotransmissão": {
+    "Q": [
+      "neurotransmissãozinha",
+      "neurotransmissõezinhas"
+    ],
+    "W": [
+      "neurotransmissona",
+      "neurotransmissonas"
+    ]
+  },
+  "neurotransmissor": {
+    "R": [
+      "neurotransmissorezinhos",
+      "neurotransmissorzinho"
+    ]
+  },
+  "neurovisceral": {
+    "R": [
+      "neurovisceralzinho",
+      "neurovisceraizinhos"
+    ],
+    "V": [
+      "neurovisceralzão",
+      "neurovisceralzões"
+    ]
+  },
+  "neurulação": {
+    "Q": [
+      "neurulaçãozinha",
+      "neurulaçõezinhas"
+    ],
+    "W": [
+      "neurulaçona",
+      "neurulaçonas"
+    ]
+  },
+  "neurumoral": {
+    "R": [
+      "neurumoralzinho",
+      "neurumoraizinhos"
+    ],
+    "V": [
+      "neurumoralzão",
+      "neurumoralzões"
+    ]
+  },
+  "neutral": {
+    "R": [
+      "neutralzinho",
+      "neutraizinhos"
+    ],
+    "V": [
+      "neutralzão",
+      "neutralzões"
+    ]
+  },
+  "neutralização": {
+    "Q": [
+      "neutralizaçãozinha",
+      "neutralizaçõezinhas"
+    ],
+    "W": [
+      "neutralizaçona",
+      "neutralizaçonas"
+    ]
+  },
+  "neutrodinização": {
+    "Q": [
+      "neutrodinizaçãozinha",
+      "neutrodinizaçõezinhas"
+    ],
+    "W": [
+      "neutrodinizaçona",
+      "neutrodinizaçonas"
+    ]
+  },
+  "nevação": {
+    "Q": [
+      "nevaçãozinha",
+      "nevaçõezinhas"
+    ],
+    "W": [
+      "nevaçona",
+      "nevaçonas"
+    ]
+  },
+  "nevadite": {
+    "P": [
+      "nevaditinho",
+      "nevaditinhos"
+    ]
+  },
+  "nevão": {
+    "R": [
+      "nevãozinho",
+      "nevõezinhos"
+    ],
+    "V": [
+      "nevãozão",
+      "nevãozões"
+    ]
+  },
+  "nevoal": {
+    "R": [
+      "nevoalzinho",
+      "nevoaizinhos"
+    ],
+    "V": [
+      "nevoalzão",
+      "nevoalzões"
+    ]
+  },
+  "nevoso": {
+    "O": [
+      "nevosinha",
+      "nevosinhas"
+    ],
+    "P": [
+      "nevosinho",
+      "nevosinhos"
+    ],
+    "Â+O": [
+      "desnevosinha",
+      "desnevosinhas"
+    ],
+    "Â+P": [
+      "desnevosinho",
+      "desnevosinhos"
+    ]
+  },
+  "nevral": {
+    "R": [
+      "nevralzinho",
+      "nevraizinhos"
+    ],
+    "V": [
+      "nevralzão",
+      "nevralzões"
+    ]
+  },
+  "nevrarterial": {
+    "R": [
+      "nevrarterialzinho",
+      "nevrarteriaizinhos"
+    ],
+    "V": [
+      "nevrarterialzão",
+      "nevrarterialzões"
+    ]
+  },
+  "nevrilemal": {
+    "R": [
+      "nevrilemalzinho",
+      "nevrilemaizinhos"
+    ],
+    "V": [
+      "nevrilemalzão",
+      "nevrilemalzões"
+    ]
+  },
+  "nevrilemite": {
+    "P": [
+      "nevrilemitinho",
+      "nevrilemitinhos"
+    ]
+  },
+  "nevrite": {
+    "P": [
+      "nevritinho",
+      "nevritinhos"
+    ],
+    "ö+P": [
+      "polinevritinho",
+      "polinevritinhos"
+    ],
+    "Ú+P": [
+      "pseudonevritinho",
+      "pseudonevritinhos"
+    ]
+  },
+  "nevrodermite": {
+    "P": [
+      "nevrodermitinho",
+      "nevrodermitinhos"
+    ]
+  },
+  "nevromielite": {
+    "P": [
+      "nevromielitinho",
+      "nevromielitinhos"
+    ]
+  },
+  "nexual": {
+    "R": [
+      "nexualzinho",
+      "nexuaizinhos"
+    ],
+    "V": [
+      "nexualzão",
+      "nexualzões"
+    ]
+  },
+  "nhanjelite": {
+    "P": [
+      "nhanjelitinho",
+      "nhanjelitinhos"
+    ]
+  },
+  "nial": {
+    "R": [
+      "nialzinho",
+      "niaizinhos"
+    ],
+    "V": [
+      "nialzão",
+      "nialzões"
+    ]
+  },
+  "nicainoprol": {
+    "R": [
+      "nicainoprolzinho",
+      "nicainoproizinhos"
+    ],
+    "V": [
+      "nicainoprolzão",
+      "nicainoprolzões"
+    ]
+  },
+  "nicate": {
+    "P": [
+      "nicatinho",
+      "nicatinhos"
+    ]
+  },
+  "niceritrol": {
+    "R": [
+      "niceritrolzinho",
+      "niceritroizinhos"
+    ],
+    "V": [
+      "niceritrolzão",
+      "niceritrolzões"
+    ]
+  },
+  "nichos": {
+    "P": [
+      "nichinho",
+      "nichinhos"
+    ]
+  },
+  "nicol": {
+    "R": [
+      "nicolzinho",
+      "nicoizinhos"
+    ],
+    "V": [
+      "nicolzão",
+      "nicolzões"
+    ]
+  },
+  "nicomol": {
+    "R": [
+      "nicomolzinho",
+      "nicomoizinhos"
+    ],
+    "V": [
+      "nicomolzão",
+      "nicomolzões"
+    ]
+  },
+  "nicopirite": {
+    "O": [
+      "nicopiritinha",
+      "nicopiritinhas"
+    ],
+    "P": [
+      "nicopiritinho",
+      "nicopiritinhos"
+    ]
+  },
+  "nicorandil": {
+    "R": [
+      "nicorandilzinho",
+      "nicorandiizinhos"
+    ],
+    "V": [
+      "nicorandilzão",
+      "nicorandilzões"
+    ]
+  },
+  "nicotinação": {
+    "Q": [
+      "nicotinaçãozinha",
+      "nicotinaçõezinhas"
+    ],
+    "W": [
+      "nicotinaçona",
+      "nicotinaçonas"
+    ]
+  },
+  "nicotol": {
+    "R": [
+      "nicotolzinho",
+      "nicotoizinhos"
+    ],
+    "V": [
+      "nicotolzão",
+      "nicotolzões"
+    ]
+  },
+  "nicoxamate": {
+    "P": [
+      "nicoxamatinho",
+      "nicoxamatinhos"
+    ]
+  },
+  "nicromite": {
+    "O": [
+      "nicromitinha",
+      "nicromitinhas"
+    ],
+    "P": [
+      "nicromitinho",
+      "nicromitinhos"
+    ]
+  },
+  "nicrosilal": {
+    "R": [
+      "nicrosilalzinho",
+      "nicrosilaizinhos"
+    ],
+    "V": [
+      "nicrosilalzão",
+      "nicrosilalzões"
+    ]
+  },
+  "nictação": {
+    "Q": [
+      "nictaçãozinha",
+      "nictaçõezinhas"
+    ],
+    "W": [
+      "nictaçona",
+      "nictaçonas"
+    ]
+  },
+  "nictemeral": {
+    "R": [
+      "nictemeralzinho",
+      "nictemeraizinhos"
+    ],
+    "V": [
+      "nictemeralzão",
+      "nictemeralzões"
+    ]
+  },
+  "nicterente": {
+    "P": [
+      "nicterentinho",
+      "nicterentinhos"
+    ]
+  },
+  "nictindol": {
+    "R": [
+      "nictindolzinho",
+      "nictindoizinhos"
+    ],
+    "V": [
+      "nictindolzão",
+      "nictindolzões"
+    ]
+  },
+  "nictitação": {
+    "Q": [
+      "nictitaçãozinha",
+      "nictitaçõezinhas"
+    ],
+    "W": [
+      "nictitaçona",
+      "nictitaçonas"
+    ]
+  },
+  "nictitante": {
+    "P": [
+      "nictitantinho",
+      "nictitantinhos"
+    ]
+  },
+  "nidação": {
+    "Q": [
+      "nidaçãozinha",
+      "nidaçõezinhas"
+    ],
+    "W": [
+      "nidaçona",
+      "nidaçonas"
+    ]
+  },
+  "nidificação": {
+    "Q": [
+      "nidificaçãozinha",
+      "nidificaçõezinhas"
+    ],
+    "W": [
+      "nidificaçona",
+      "nidificaçonas"
+    ]
+  },
+  "nidor": {
+    "R": [
+      "nidorezinhos",
+      "nidorzinho"
+    ]
+  },
+  "nidoroso": {
+    "O": [
+      "nidorosinha",
+      "nidorosinhas"
+    ],
+    "P": [
+      "nidorosinho",
+      "nidorosinhos"
+    ]
+  },
+  "nidulante": {
+    "P": [
+      "nidulantinho",
+      "nidulantinhos"
+    ]
+  },
+  "nidularial": {
+    "R": [
+      "nidularialzinho",
+      "nidulariaizinhos"
+    ],
+    "V": [
+      "nidularialzão",
+      "nidularialzões"
+    ]
+  },
+  "nifal": {
+    "R": [
+      "nifalzinho",
+      "nifaizinhos"
+    ],
+    "V": [
+      "nifalzão",
+      "nifalzões"
+    ]
+  },
+  "nifão": {
+    "R": [
+      "nifãozinho",
+      "nifõezinhos"
+    ],
+    "V": [
+      "nifãozão",
+      "nifãozões"
+    ]
+  },
+  "nifenalol": {
+    "R": [
+      "nifenalolzinho",
+      "nifenaloizinhos"
+    ],
+    "V": [
+      "nifenalolzão",
+      "nifenalolzões"
+    ]
+  },
+  "nifuratel": {
+    "R": [
+      "nifuratelzinho",
+      "nifurateizinhos"
+    ],
+    "V": [
+      "nifuratelzão",
+      "nifuratelzões"
+    ]
+  },
+  "nifurmazol": {
+    "R": [
+      "nifurmazolzinho",
+      "nifurmazoizinhos"
+    ],
+    "V": [
+      "nifurmazolzão",
+      "nifurmazolzões"
+    ]
+  },
+  "nifurpirinol": {
+    "R": [
+      "nifurpirinolzinho",
+      "nifurpirinoizinhos"
+    ],
+    "V": [
+      "nifurpirinolzão",
+      "nifurpirinolzões"
+    ]
+  },
+  "nifurquinazol": {
+    "R": [
+      "nifurquinazolzinho",
+      "nifurquinazoizinhos"
+    ],
+    "V": [
+      "nifurquinazolzão",
+      "nifurquinazolzões"
+    ]
+  },
+  "nifursol": {
+    "R": [
+      "nifursolzinho",
+      "nifursoizinhos"
+    ],
+    "V": [
+      "nifursolzão",
+      "nifursolzões"
+    ]
+  },
+  "nifurtiazol": {
+    "R": [
+      "nifurtiazolzinho",
+      "nifurtiazoizinhos"
+    ],
+    "V": [
+      "nifurtiazolzão",
+      "nifurtiazolzões"
+    ]
+  },
+  "nifurtoinol": {
+    "R": [
+      "nifurtoinolzinho",
+      "nifurtoinoizinhos"
+    ],
+    "V": [
+      "nifurtoinolzão",
+      "nifurtoinolzões"
+    ]
+  },
+  "Nigel": {
+    "R": [
+      "Nigelzinho",
+      "Nigeizinhos"
+    ],
+    "V": [
+      "Nigelzão",
+      "Nigelzões"
+    ]
+  },
+  "nigero-congolês": {
+    "O": [
+      "nigero-congolesinha",
+      "nigero-congolesinhas"
+    ],
+    "P": [
+      "nigero-congolesinho",
+      "nigero-congolesezinhos"
+    ]
+  },
+  "nigero-senegalês": {
+    "O": [
+      "nigero-senegalesinha",
+      "nigero-senegalesinhas"
+    ],
+    "P": [
+      "nigero-senegalesinho",
+      "nigero-senegalesezinhos"
+    ]
+  },
+  "nigrescente": {
+    "P": [
+      "nigrescentinho",
+      "nigrescentinhos"
+    ]
+  },
+  "nigrete": {
+    "O": [
+      "nigretinha",
+      "nigretinhas"
+    ],
+    "P": [
+      "nigretinho",
+      "nigretinhos"
+    ]
+  },
+  "nigrite": {
+    "O": [
+      "nigritinha",
+      "nigritinhas"
+    ],
+    "P": [
+      "nigritinho",
+      "nigritinhos"
+    ]
+  },
+  "nigritização": {
+    "Q": [
+      "nigritizaçãozinha",
+      "nigritizaçõezinhas"
+    ],
+    "W": [
+      "nigritizaçona",
+      "nigritizaçonas"
+    ]
+  },
+  "nigromante": {
+    "P": [
+      "nigromantinho",
+      "nigromantinhos"
+    ],
+    "Ù+P": [
+      "protonigromantinho",
+      "protonigromantinhos"
+    ]
+  },
+  "niilificação": {
+    "Q": [
+      "niilificaçãozinha",
+      "niilificaçõezinhas"
+    ],
+    "W": [
+      "niilificaçona",
+      "niilificaçonas"
+    ]
+  },
+  "niilpotente": {
+    "P": [
+      "niilpotentinho",
+      "niilpotentinhos"
+    ]
+  },
+  "nilestriol": {
+    "R": [
+      "nilestriolzinho",
+      "nilestrioizinhos"
+    ],
+    "V": [
+      "nilestriolzão",
+      "nilestriolzões"
+    ]
+  },
+  "nilo-congolês": {
+    "O": [
+      "nilo-congolesinha",
+      "nilo-congolesinhas"
+    ],
+    "P": [
+      "nilo-congolesinho",
+      "nilo-congolesezinhos"
+    ]
+  },
+  "nilpotente": {
+    "P": [
+      "nilpotentinho",
+      "nilpotentinhos"
+    ]
+  },
+  "nilprazol": {
+    "R": [
+      "nilprazolzinho",
+      "nilprazoizinhos"
+    ],
+    "V": [
+      "nilprazolzão",
+      "nilprazolzões"
+    ]
+  },
+  "nilsonial": {
+    "R": [
+      "nilsonialzinho",
+      "nilsoniaizinhos"
+    ],
+    "V": [
+      "nilsonialzão",
+      "nilsonialzões"
+    ]
+  },
+  "nimbicumular": {
+    "R": [
+      "nimbicumularezinhos",
+      "nimbicumularzinho"
+    ]
+  },
+  "nimbistratal": {
+    "R": [
+      "nimbistratalzinho",
+      "nimbistrataizinhos"
+    ],
+    "V": [
+      "nimbistratalzão",
+      "nimbistratalzões"
+    ]
+  },
+  "nimboso": {
+    "O": [
+      "nimbosinha",
+      "nimbosinhas"
+    ],
+    "P": [
+      "nimbosinho",
+      "nimbosinhos"
+    ]
+  },
+  "nimorazol": {
+    "R": [
+      "nimorazolzinho",
+      "nimorazoizinhos"
+    ],
+    "V": [
+      "nimorazolzão",
+      "nimorazolzões"
+    ]
+  },
+  "ninfal": {
+    "R": [
+      "ninfalzinho",
+      "ninfaizinhos"
+    ],
+    "V": [
+      "ninfalzão",
+      "ninfalzões"
+    ],
+    "Ú+R": [
+      "pseudoninfalzinho",
+      "pseudoninfaizinhos"
+    ],
+    "Ú+V": [
+      "pseudoninfalzão",
+      "pseudoninfalzões"
+    ]
+  },
+  "ninfete": {
+    "O": [
+      "ninfetinha",
+      "ninfetinhas"
+    ],
+    "P": [
+      "ninfetinho",
+      "ninfetinhos"
+    ]
+  },
+  "ninfite": {
+    "P": [
+      "ninfitinho",
+      "ninfitinhos"
+    ]
+  },
+  "ninhal": {
+    "R": [
+      "ninhalzinho",
+      "ninhaizinhos"
+    ],
+    "V": [
+      "ninhalzão",
+      "ninhalzões"
+    ]
+  },
+  "ninhos": {
+    "P": [
+      "ninhinho",
+      "ninhinhos"
+    ]
+  },
+  "niobite": {
+    "O": [
+      "niobitinha",
+      "niobitinhas"
+    ],
+    "P": [
+      "niobitinho",
+      "niobitinhos"
+    ]
+  },
+  "nipo-chinês": {
+    "O": [
+      "nipo-chinesinha",
+      "nipo-chinesinhas"
+    ],
+    "P": [
+      "nipo-chinesinho",
+      "nipo-chinesezinhos"
+    ]
+  },
+  "nipo-português": {
+    "O": [
+      "nipo-portuguesinha",
+      "nipo-portuguesinhas"
+    ],
+    "P": [
+      "nipo-portuguesinho",
+      "nipo-portuguesezinhos"
+    ]
+  },
+  "nipofalante": {
+    "P": [
+      "nipofalantinho",
+      "nipofalantinhos"
+    ]
+  },
+  "nipradilol": {
+    "R": [
+      "nipradilolzinho",
+      "nipradiloizinhos"
+    ],
+    "V": [
+      "nipradilolzão",
+      "nipradilolzões"
+    ]
+  },
+  "níquel": {
+    "R": [
+      "níquelzinho",
+      "níqueizinhos"
+    ],
+    "V": [
+      "níquelzão",
+      "níquelzões"
+    ]
+  },
+  "niquelação": {
+    "Q": [
+      "niquelaçãozinha",
+      "niquelaçõezinhas"
+    ],
+    "W": [
+      "niquelaçona",
+      "niquelaçonas"
+    ]
+  },
+  "niquelgimnite": {
+    "O": [
+      "niquelgimnitinha",
+      "niquelgimnitinhas"
+    ],
+    "P": [
+      "niquelgimnitinho",
+      "niquelgimnitinhos"
+    ]
+  },
+  "niquelite": {
+    "O": [
+      "niquelitinha",
+      "niquelitinhas"
+    ],
+    "P": [
+      "niquelitinho",
+      "niquelitinhos"
+    ]
+  },
+  "niquelização": {
+    "Q": [
+      "niquelizaçãozinha",
+      "niquelizaçõezinhas"
+    ],
+    "W": [
+      "niquelizaçona",
+      "niquelizaçonas"
+    ]
+  },
+  "niqueloso": {
+    "O": [
+      "niquelosinha",
+      "niquelosinhas"
+    ],
+    "P": [
+      "niquelosinho",
+      "niquelosinhos"
+    ]
+  },
+  "niridazol": {
+    "R": [
+      "niridazolzinho",
+      "niridazoizinhos"
+    ],
+    "V": [
+      "niridazolzão",
+      "niridazolzões"
+    ]
+  },
+  "nirvanação": {
+    "Q": [
+      "nirvanaçãozinha",
+      "nirvanaçõezinhas"
+    ],
+    "W": [
+      "nirvanaçona",
+      "nirvanaçonas"
+    ]
+  },
+  "nirvanização": {
+    "Q": [
+      "nirvanizaçãozinha",
+      "nirvanizaçõezinhas"
+    ],
+    "W": [
+      "nirvanizaçona",
+      "nirvanizaçonas"
+    ]
+  },
+  "nirvanol": {
+    "R": [
+      "nirvanolzinho",
+      "nirvanoizinhos"
+    ],
+    "V": [
+      "nirvanolzão",
+      "nirvanolzões"
+    ]
+  },
+  "nisbuterol": {
+    "R": [
+      "nisbuterolzinho",
+      "nisbuteroizinhos"
+    ],
+    "V": [
+      "nisbuterolzão",
+      "nisbuterolzões"
+    ]
+  },
+  "nisco": {
+    "O": [
+      "nisquinha",
+      "nisquinhas"
+    ],
+    "P": [
+      "nisquinho",
+      "nisquinhos"
+    ],
+    "V": [
+      "niscão",
+      "niscões"
+    ],
+    "W": [
+      "niscona",
+      "nisconas"
+    ]
+  },
+  "nital": {
+    "R": [
+      "nitalzinho",
+      "nitaizinhos"
+    ],
+    "V": [
+      "nitalzão",
+      "nitalzões"
+    ]
+  },
+  "nitente": {
+    "P": [
+      "nitentinho",
+      "nitentinhos"
+    ],
+    "À+P": [
+      "renitentinho",
+      "renitentinhos"
+    ]
+  },
+  "nitescente": {
+    "P": [
+      "nitescentinho",
+      "nitescentinhos"
+    ]
+  },
+  "nitidular": {
+    "R": [
+      "nitidularezinhos",
+      "nitidularzinho"
+    ]
+  },
+  "nitinol": {
+    "R": [
+      "nitinolzinho",
+      "nitinoizinhos"
+    ],
+    "V": [
+      "nitinolzão",
+      "nitinolzões"
+    ]
+  },
+  "nitonte": {
+    "P": [
+      "nitontinho",
+      "nitontinhos"
+    ]
+  },
+  "nitração": {
+    "Q": [
+      "nitraçãozinha",
+      "nitraçõezinhas"
+    ],
+    "W": [
+      "nitraçona",
+      "nitraçonas"
+    ]
+  },
+  "nitral": {
+    "R": [
+      "nitralzinho",
+      "nitraizinhos"
+    ],
+    "V": [
+      "nitralzão",
+      "nitralzões"
+    ]
+  },
+  "nitralite": {
+    "P": [
+      "nitralitinho",
+      "nitralitinhos"
+    ]
+  },
+  "nitramisol": {
+    "R": [
+      "nitramisolzinho",
+      "nitramisoizinhos"
+    ],
+    "V": [
+      "nitramisolzão",
+      "nitramisolzões"
+    ]
+  },
+  "nitratação": {
+    "Q": [
+      "nitrataçãozinha",
+      "nitrataçõezinhas"
+    ],
+    "W": [
+      "nitrataçona",
+      "nitrataçonas"
+    ]
+  },
+  "nitratite": {
+    "O": [
+      "nitratitinha",
+      "nitratitinhas"
+    ],
+    "P": [
+      "nitratitinho",
+      "nitratitinhos"
+    ]
+  },
+  "nitrefazol": {
+    "R": [
+      "nitrefazolzinho",
+      "nitrefazoizinhos"
+    ],
+    "V": [
+      "nitrefazolzão",
+      "nitrefazolzões"
+    ]
+  },
+  "nitretação": {
+    "Q": [
+      "nitretaçãozinha",
+      "nitretaçõezinhas"
+    ],
+    "W": [
+      "nitretaçona",
+      "nitretaçonas"
+    ]
+  },
+  "nitrição": {
+    "Q": [
+      "nitriçãozinha",
+      "nitriçõezinhas"
+    ],
+    "W": [
+      "nitriçona",
+      "nitriçonas"
+    ]
+  },
+  "nitrificação": {
+    "Q": [
+      "nitrificaçãozinha",
+      "nitrificaçõezinhas"
+    ],
+    "W": [
+      "nitrificaçona",
+      "nitrificaçonas"
+    ],
+    "Â+Q": [
+      "desnitrificaçãozinha",
+      "desnitrificaçõezinhas"
+    ],
+    "Â+W": [
+      "desnitrificaçona",
+      "desnitrificaçonas"
+    ]
+  },
+  "nitroalgodão": {
+    "R": [
+      "nitroalgodãozinho",
+      "nitroalgodõezinhos"
+    ],
+    "V": [
+      "nitroalgodãozão",
+      "nitroalgodãozões"
+    ]
+  },
+  "nitroamoniacal": {
+    "R": [
+      "nitroamoniacalzinho",
+      "nitroamoniacaizinhos"
+    ],
+    "V": [
+      "nitroamoniacalzão",
+      "nitroamoniacalzões"
+    ]
+  },
+  "nitrobarite": {
+    "O": [
+      "nitrobaritinha",
+      "nitrobaritinhas"
+    ],
+    "P": [
+      "nitrobaritinho",
+      "nitrobaritinhos"
+    ]
+  },
+  "nitrobenzol": {
+    "R": [
+      "nitrobenzolzinho",
+      "nitrobenzoizinhos"
+    ],
+    "V": [
+      "nitrobenzolzão",
+      "nitrobenzolzões"
+    ]
+  },
+  "nitrocalcite": {
+    "O": [
+      "nitrocalcitinha",
+      "nitrocalcitinhas"
+    ],
+    "P": [
+      "nitrocalcitinho",
+      "nitrocalcitinhos"
+    ]
+  },
+  "nitroderivação": {
+    "Q": [
+      "nitroderivaçãozinha",
+      "nitroderivaçõezinhas"
+    ],
+    "W": [
+      "nitroderivaçona",
+      "nitroderivaçonas"
+    ]
+  },
+  "nitroeritrol": {
+    "R": [
+      "nitroeritrolzinho",
+      "nitroeritroizinhos"
+    ],
+    "V": [
+      "nitroeritrolzão",
+      "nitroeritrolzões"
+    ]
+  },
+  "nitrofenol": {
+    "R": [
+      "nitrofenolzinho",
+      "nitrofenoizinhos"
+    ],
+    "V": [
+      "nitrofenolzão",
+      "nitrofenolzões"
+    ]
+  },
+  "nitrofural": {
+    "R": [
+      "nitrofuralzinho",
+      "nitrofuraizinhos"
+    ],
+    "V": [
+      "nitrofuralzão",
+      "nitrofuralzões"
+    ]
+  },
+  "nitrogenoso": {
+    "O": [
+      "nitrogenosinha",
+      "nitrogenosinhas"
+    ],
+    "P": [
+      "nitrogenosinho",
+      "nitrogenosinhos"
+    ]
+  },
+  "nitroglicerol": {
+    "R": [
+      "nitroglicerolzinho",
+      "nitrogliceroizinhos"
+    ],
+    "V": [
+      "nitroglicerolzão",
+      "nitroglicerolzões"
+    ]
+  },
+  "nitroglicol": {
+    "R": [
+      "nitroglicolzinho",
+      "nitroglicoizinhos"
+    ],
+    "V": [
+      "nitroglicolzão",
+      "nitroglicolzões"
+    ]
+  },
+  "nitrol": {
+    "R": [
+      "nitrolzinho",
+      "nitroizinhos"
+    ],
+    "V": [
+      "nitrolzão",
+      "nitrolzões"
+    ],
+    "ì+R": [
+      "prenitrolzinho",
+      "prenitroizinhos"
+    ],
+    "Ú+R": [
+      "pseudonitrolzinho",
+      "pseudonitroizinhos"
+    ],
+    "ì+V": [
+      "prenitrolzão",
+      "prenitrolzões"
+    ],
+    "Ú+V": [
+      "pseudonitrolzão",
+      "pseudonitrolzões"
+    ]
+  },
+  "nitrolunar": {
+    "R": [
+      "nitrolunarezinhos",
+      "nitrolunarzinho"
+    ]
+  },
+  "nitromagnesite": {
+    "O": [
+      "nitromagnesitinha",
+      "nitromagnesitinhas"
+    ],
+    "P": [
+      "nitromagnesitinho",
+      "nitromagnesitinhos"
+    ]
+  },
+  "nitromanite": {
+    "P": [
+      "nitromanitinho",
+      "nitromanitinhos"
+    ]
+  },
+  "nitromanitol": {
+    "R": [
+      "nitromanitolzinho",
+      "nitromanitoizinhos"
+    ],
+    "V": [
+      "nitromanitolzão",
+      "nitromanitolzões"
+    ]
+  },
+  "nitronite": {
+    "P": [
+      "nitronitinho",
+      "nitronitinhos"
+    ]
+  },
+  "nitronte": {
+    "P": [
+      "nitrontinho",
+      "nitrontinhos"
+    ]
+  },
+  "nitrosação": {
+    "Q": [
+      "nitrosaçãozinha",
+      "nitrosaçõezinhas"
+    ],
+    "W": [
+      "nitrosaçona",
+      "nitrosaçonas"
+    ]
+  },
+  "nitrosite": {
+    "P": [
+      "nitrositinho",
+      "nitrositinhos"
+    ]
+  },
+  "nitrosofenol": {
+    "R": [
+      "nitrosofenolzinho",
+      "nitrosofenoizinhos"
+    ],
+    "V": [
+      "nitrosofenolzão",
+      "nitrosofenolzões"
+    ]
+  },
+  "nitrosonaftol": {
+    "R": [
+      "nitrosonaftolzinho",
+      "nitrosonaftoizinhos"
+    ],
+    "V": [
+      "nitrosonaftolzão",
+      "nitrosonaftolzões"
+    ]
+  },
+  "nitrosos": {
+    "O": [
+      "nitrosinha",
+      "nitrosinhas"
+    ],
+    "P": [
+      "nitrosinho",
+      "nitrosinhos"
+    ]
+  },
+  "nitrossulfatiazol": {
+    "R": [
+      "nitrossulfatiazolzinho",
+      "nitrossulfatiazoizinhos"
+    ],
+    "V": [
+      "nitrossulfatiazolzão",
+      "nitrossulfatiazolzões"
+    ]
+  },
+  "nitruração": {
+    "Q": [
+      "nitruraçãozinha",
+      "nitruraçõezinhas"
+    ],
+    "W": [
+      "nitruraçona",
+      "nitruraçonas"
+    ]
+  },
+  "nivação": {
+    "Q": [
+      "nivaçãozinha",
+      "nivaçõezinhas"
+    ],
+    "W": [
+      "nivaçona",
+      "nivaçonas"
+    ]
+  },
+  "nivacortol": {
+    "R": [
+      "nivacortolzinho",
+      "nivacortoizinhos"
+    ],
+    "V": [
+      "nivacortolzão",
+      "nivacortolzões"
+    ]
+  },
+  "nival": {
+    "R": [
+      "nivalzinho",
+      "nivaizinhos"
+    ],
+    "V": [
+      "nivalzão",
+      "nivalzões"
+    ]
+  },
+  "nivator": {
+    "R": [
+      "nivatorezinhos",
+      "nivatorzinho"
+    ]
+  },
+  "niveal": {
+    "R": [
+      "nivealzinho",
+      "niveaizinhos"
+    ],
+    "V": [
+      "nivealzão",
+      "nivealzões"
+    ]
+  },
+  "nivelação": {
+    "Q": [
+      "nivelaçãozinha",
+      "nivelaçõezinhas"
+    ],
+    "W": [
+      "nivelaçona",
+      "nivelaçonas"
+    ],
+    "À+Q": [
+      "renivelaçãozinha",
+      "renivelaçõezinhas"
+    ],
+    "Â+Q": [
+      "desnivelaçãozinha",
+      "desnivelaçõezinhas"
+    ],
+    "È+Q": [
+      "subnivelaçãozinha",
+      "subnivelaçõezinhas"
+    ],
+    "À+W": [
+      "renivelaçona",
+      "renivelaçonas"
+    ],
+    "Â+W": [
+      "desnivelaçona",
+      "desnivelaçonas"
+    ],
+    "È+W": [
+      "subnivelaçona",
+      "subnivelaçonas"
+    ]
+  },
+  "nivernês": {
+    "O": [
+      "nivernesinha",
+      "nivernesinhas"
+    ],
+    "P": [
+      "nivernesinho",
+      "nivernesezinhos"
+    ]
+  },
+  "nivoglacial": {
+    "R": [
+      "nivoglacialzinho",
+      "nivoglaciaizinhos"
+    ],
+    "V": [
+      "nivoglacialzão",
+      "nivoglacialzões"
+    ]
+  },
+  "nivopluvial": {
+    "R": [
+      "nivopluvialzinho",
+      "nivopluviaizinhos"
+    ],
+    "V": [
+      "nivopluvialzão",
+      "nivopluvialzões"
+    ]
+  },
+  "nivoso": {
+    "O": [
+      "nivosinha",
+      "nivosinhas"
+    ],
+    "P": [
+      "nivosinho",
+      "nivosinhos"
+    ]
+  },
+  "nixonite": {
+    "P": [
+      "nixonitinho",
+      "nixonitinhos"
+    ]
+  },
+  "nó": {
+    "R": [
+      "nozinho",
+      "nozinhos"
+    ],
+    "Á+R": [
+      "antinozinho",
+      "antinozinhos"
+    ],
+    "Ü+R": [
+      "seminozinho",
+      "seminozinhos"
+    ]
+  },
+  "nobel": {
+    "R": [
+      "nobelzinho",
+      "nobeizinhos"
+    ],
+    "V": [
+      "nobelzão",
+      "nobelzões"
+    ]
+  },
+  "nobilitação": {
+    "Q": [
+      "nobilitaçãozinha",
+      "nobilitaçõezinhas"
+    ],
+    "W": [
+      "nobilitaçona",
+      "nobilitaçonas"
+    ]
+  },
+  "nobrecente": {
+    "P": [
+      "nobrecentinho",
+      "nobrecentinhos"
+    ]
+  },
+  "noção": {
+    "Q": [
+      "noçãozinha",
+      "noçõezinhas"
+    ],
+    "W": [
+      "noçona",
+      "noçonas"
+    ],
+    "ì+Q": [
+      "prenoçãozinha",
+      "prenoçõezinhas"
+    ],
+    "ì+W": [
+      "prenoçona",
+      "prenoçonas"
+    ]
+  },
+  "nocaute": {
+    "P": [
+      "nocautinho",
+      "nocautinhos"
+    ]
+  },
+  "nocente": {
+    "P": [
+      "nocentinho",
+      "nocentinhos"
+    ]
+  },
+  "nocerite": {
+    "O": [
+      "noceritinha",
+      "noceritinhas"
+    ],
+    "P": [
+      "noceritinho",
+      "noceritinhos"
+    ]
+  },
+  "nociceptor": {
+    "R": [
+      "nociceptorezinhos",
+      "nociceptorzinho"
+    ]
+  },
+  "nocodazol": {
+    "R": [
+      "nocodazolzinho",
+      "nocodazoizinhos"
+    ],
+    "V": [
+      "nocodazolzão",
+      "nocodazolzões"
+    ]
+  },
+  "noctambulação": {
+    "Q": [
+      "noctambulaçãozinha",
+      "noctambulaçõezinhas"
+    ],
+    "W": [
+      "noctambulaçona",
+      "noctambulaçonas"
+    ]
+  },
+  "nocticolor": {
+    "R": [
+      "nocticolorezinhos",
+      "nocticolorzinho"
+    ]
+  },
+  "noctilião": {
+    "R": [
+      "noctiliãozinho",
+      "noctiliõezinhos"
+    ],
+    "V": [
+      "noctiliãozão",
+      "noctiliãozões"
+    ]
+  },
+  "noctovisão": {
+    "Q": [
+      "noctovisãozinha",
+      "noctovisõezinhas"
+    ],
+    "W": [
+      "noctovisona",
+      "noctovisonas"
+    ]
+  },
+  "nodação": {
+    "Q": [
+      "nodaçãozinha",
+      "nodaçõezinhas"
+    ],
+    "W": [
+      "nodaçona",
+      "nodaçonas"
+    ]
+  },
+  "nodal": {
+    "R": [
+      "nodalzinho",
+      "nodaizinhos"
+    ],
+    "V": [
+      "nodalzão",
+      "nodalzões"
+    ],
+    "Á+R": [
+      "antinodalzinho",
+      "antinodaizinhos"
+    ],
+    "Õ+R": [
+      "infranodalzinho",
+      "infranodaizinhos"
+    ],
+    "Á+V": [
+      "antinodalzão",
+      "antinodalzões"
+    ],
+    "Õ+V": [
+      "infranodalzão",
+      "infranodalzões"
+    ]
+  },
+  "nodical": {
+    "R": [
+      "nodicalzinho",
+      "nodicaizinhos"
+    ],
+    "V": [
+      "nodicalzão",
+      "nodicalzões"
+    ]
+  },
+  "nodoso": {
+    "O": [
+      "nodosinha",
+      "nodosinhas"
+    ],
+    "P": [
+      "nodosinho",
+      "nodosinhos"
+    ],
+    "Â+O": [
+      "desnodosinha",
+      "desnodosinhas"
+    ],
+    "Â+P": [
+      "desnodosinho",
+      "desnodosinhos"
+    ]
+  },
+  "nodular": {
+    "R": [
+      "nodularezinhos",
+      "nodularzinho"
+    ],
+    "Ä+R": [
+      "inodularezinhos",
+      "inodularzinho"
+    ],
+    "û+R": [
+      "micronodularezinhos",
+      "micronodularzinho"
+    ]
+  },
+  "noduloso": {
+    "O": [
+      "nodulosinha",
+      "nodulosinhas"
+    ],
+    "P": [
+      "nodulosinho",
+      "nodulosinhos"
+    ]
+  },
+  "noel": {
+    "R": [
+      "noelzinho",
+      "noeizinhos"
+    ],
+    "V": [
+      "noelzão",
+      "noelzões"
+    ]
+  },
+  "noete": {
+    "P": [
+      "noetinho",
+      "noetinhos"
+    ]
+  },
+  "nogão": {
+    "R": [
+      "nogãozinho",
+      "nogõezinhos"
+    ],
+    "V": [
+      "nogãozão",
+      "nogãozões"
+    ]
+  },
+  "nogueira": {
+    "O": [
+      "nogueirinha",
+      "nogueirinhas"
+    ],
+    "W": [
+      "nogueirona",
+      "nogueironas"
+    ]
+  },
+  "nogueiral": {
+    "R": [
+      "nogueiralzinho",
+      "nogueiraizinhos"
+    ],
+    "V": [
+      "nogueiralzão",
+      "nogueiralzões"
+    ]
+  },
+  "noitão": {
+    "R": [
+      "noitãozinho",
+      "noitõezinhos"
+    ],
+    "V": [
+      "noitãozão",
+      "noitãozões"
+    ]
+  },
+  "noite": {
+    "O": [
+      "noitinha",
+      "noitinhas"
+    ],
+    "Ì+O": [
+      "supernoitinha",
+      "supernoitinhas"
+    ]
+  },
+  "noitol": {
+    "R": [
+      "noitolzinho",
+      "noitoizinhos"
+    ],
+    "V": [
+      "noitolzão",
+      "noitolzões"
+    ]
+  },
+  "noival": {
+    "R": [
+      "noivalzinho",
+      "noivaizinhos"
+    ],
+    "V": [
+      "noivalzão",
+      "noivalzões"
+    ]
+  },
+  "noivos": {
+    "O": [
+      "noivinha",
+      "noivinhas"
+    ],
+    "P": [
+      "noivinho",
+      "noivinhos"
+    ]
+  },
+  "nojeira": {
+    "O": [
+      "nojeirinha",
+      "nojeirinhas"
+    ]
+  },
+  "nojoso": {
+    "O": [
+      "nojosinha",
+      "nojosinhas"
+    ],
+    "P": [
+      "nojosinho",
+      "nojosinhos"
+    ],
+    "ò+O": [
+      "anojosinha",
+      "anojosinhas"
+    ],
+    "ò+P": [
+      "anojosinho",
+      "anojosinhos"
+    ]
+  },
+  "nolascite": {
+    "P": [
+      "nolascitinho",
+      "nolascitinhos"
+    ]
+  },
+  "nolente": {
+    "P": [
+      "nolentinho",
+      "nolentinhos"
+    ]
+  },
+  "nolição": {
+    "Q": [
+      "noliçãozinha",
+      "noliçõezinhas"
+    ],
+    "W": [
+      "noliçona",
+      "noliçonas"
+    ]
+  },
+  "nolomirol": {
+    "R": [
+      "nolomirolzinho",
+      "nolomiroizinhos"
+    ],
+    "V": [
+      "nolomirolzão",
+      "nolomirolzões"
+    ]
+  },
+  "nomadização": {
+    "Q": [
+      "nomadizaçãozinha",
+      "nomadizaçõezinhas"
+    ],
+    "W": [
+      "nomadizaçona",
+      "nomadizaçonas"
+    ]
+  },
+  "nomante": {
+    "P": [
+      "nomantinho",
+      "nomantinhos"
+    ]
+  },
+  "nomasa": {
+    "O": [
+      "nomasinha",
+      "nomasinhas"
+    ]
+  },
+  "nomeação": {
+    "Q": [
+      "nomeaçãozinha",
+      "nomeaçõezinhas"
+    ],
+    "W": [
+      "nomeaçona",
+      "nomeaçonas"
+    ],
+    "À+Q": [
+      "renomeaçãozinha",
+      "renomeaçõezinhas"
+    ],
+    "Ã+Q": [
+      "autonomeaçãozinha",
+      "autonomeaçõezinhas"
+    ],
+    "ì+Q": [
+      "prenomeaçãozinha",
+      "prenomeaçõezinhas"
+    ],
+    "Ñ+Q": [
+      "conomeaçãozinha",
+      "conomeaçõezinhas"
+    ],
+    "À+W": [
+      "renomeaçona",
+      "renomeaçonas"
+    ],
+    "Ã+W": [
+      "autonomeaçona",
+      "autonomeaçonas"
+    ],
+    "ì+W": [
+      "prenomeaçona",
+      "prenomeaçonas"
+    ],
+    "Ñ+W": [
+      "conomeaçona",
+      "conomeaçonas"
+    ]
+  },
+  "nomegestrol": {
+    "R": [
+      "nomegestrolzinho",
+      "nomegestroizinhos"
+    ],
+    "V": [
+      "nomegestrolzão",
+      "nomegestrolzões"
+    ]
+  },
+  "nomenclação": {
+    "Q": [
+      "nomenclaçãozinha",
+      "nomenclaçõezinhas"
+    ],
+    "W": [
+      "nomenclaçona",
+      "nomenclaçonas"
+    ]
+  },
+  "nomenclator": {
+    "R": [
+      "nomenclatorezinhos",
+      "nomenclatorzinho"
+    ]
+  },
+  "nomenclatural": {
+    "R": [
+      "nomenclaturalzinho",
+      "nomenclaturaizinhos"
+    ],
+    "V": [
+      "nomenclaturalzão",
+      "nomenclaturalzões"
+    ]
+  },
+  "nominação": {
+    "Q": [
+      "nominaçãozinha",
+      "nominaçõezinhas"
+    ],
+    "W": [
+      "nominaçona",
+      "nominaçonas"
+    ],
+    "î+Q": [
+      "transnominaçãozinha",
+      "transnominaçõezinhas"
+    ],
+    "Ñ+Q": [
+      "conominaçãozinha",
+      "conominaçõezinhas"
+    ],
+    "ò+Q": [
+      "anominaçãozinha",
+      "anominaçõezinhas"
+    ],
+    "Û+Q": [
+      "pronominaçãozinha",
+      "pronominaçõezinhas"
+    ],
+    "î+W": [
+      "transnominaçona",
+      "transnominaçonas"
+    ],
+    "Ñ+W": [
+      "conominaçona",
+      "conominaçonas"
+    ],
+    "ò+W": [
+      "anominaçona",
+      "anominaçonas"
+    ],
+    "Û+W": [
+      "pronominaçona",
+      "pronominaçonas"
+    ]
+  },
+  "nominal": {
+    "R": [
+      "nominalzinho",
+      "nominaizinhos"
+    ],
+    "V": [
+      "nominalzão",
+      "nominalzões"
+    ],
+    "ì+R": [
+      "prenominalzinho",
+      "prenominaizinhos"
+    ],
+    "Ï+R": [
+      "antenominalzinho",
+      "antenominaizinhos"
+    ],
+    "Û+R": [
+      "pronominalzinho",
+      "pronominaizinhos"
+    ],
+    "ì+V": [
+      "prenominalzão",
+      "prenominalzões"
+    ],
+    "Ï+V": [
+      "antenominalzão",
+      "antenominalzões"
+    ],
+    "Û+V": [
+      "pronominalzão",
+      "pronominalzões"
+    ]
+  },
+  "nominalização": {
+    "Q": [
+      "nominalizaçãozinha",
+      "nominalizaçõezinhas"
+    ],
+    "W": [
+      "nominalizaçona",
+      "nominalizaçonas"
+    ],
+    "Û+Q": [
+      "pronominalizaçãozinha",
+      "pronominalizaçõezinhas"
+    ],
+    "Û+W": [
+      "pronominalizaçona",
+      "pronominalizaçonas"
+    ]
+  },
+  "nonacosanol": {
+    "R": [
+      "nonacosanolzinho",
+      "nonacosanoizinhos"
+    ],
+    "V": [
+      "nonacosanolzão",
+      "nonacosanolzões"
+    ]
+  },
+  "nonadecanol": {
+    "R": [
+      "nonadecanolzinho",
+      "nonadecanoizinhos"
+    ],
+    "V": [
+      "nonadecanolzão",
+      "nonadecanolzões"
+    ]
+  },
+  "nonagonal": {
+    "R": [
+      "nonagonalzinho",
+      "nonagonaizinhos"
+    ],
+    "V": [
+      "nonagonalzão",
+      "nonagonalzões"
+    ]
+  },
+  "nonal": {
+    "R": [
+      "nonalzinho",
+      "nonaizinhos"
+    ],
+    "V": [
+      "nonalzão",
+      "nonalzões"
+    ]
+  },
+  "nonanal": {
+    "R": [
+      "nonanalzinho",
+      "nonanaizinhos"
+    ],
+    "V": [
+      "nonanalzão",
+      "nonanalzões"
+    ]
+  },
+  "nonanol": {
+    "R": [
+      "nonanolzinho",
+      "nonanoizinhos"
+    ],
+    "V": [
+      "nonanolzão",
+      "nonanolzões"
+    ]
+  },
+  "nonilhão": {
+    "R": [
+      "nonilhãozinho",
+      "nonilhõezinhos"
+    ],
+    "V": [
+      "nonilhãozão",
+      "nonilhãozões"
+    ]
+  },
+  "nonilião": {
+    "R": [
+      "noniliãozinho",
+      "noniliõezinhos"
+    ],
+    "V": [
+      "noniliãozão",
+      "noniliãozões"
+    ]
+  },
+  "nonilionesimal": {
+    "R": [
+      "nonilionesimalzinho",
+      "nonilionesimaizinhos"
+    ],
+    "V": [
+      "nonilionesimalzão",
+      "nonilionesimalzões"
+    ]
+  },
+  "nonoxinol": {
+    "R": [
+      "nonoxinolzinho",
+      "nonoxinoizinhos"
+    ],
+    "V": [
+      "nonoxinolzão",
+      "nonoxinolzões"
+    ]
+  },
+  "nopal": {
+    "R": [
+      "nopalzinho",
+      "nopaizinhos"
+    ],
+    "V": [
+      "nopalzão",
+      "nopalzões"
+    ]
+  },
+  "nor-nordeste": {
+    "P": [
+      "nor-nordestinho",
+      "nor-nordestinhos"
+    ]
+  },
+  "nor-noroeste": {
+    "P": [
+      "nor-noroestinho",
+      "nor-noroestinhos"
+    ]
+  },
+  "noracimetadol": {
+    "R": [
+      "noracimetadolzinho",
+      "noracimetadoizinhos"
+    ],
+    "V": [
+      "noracimetadolzão",
+      "noracimetadolzões"
+    ]
+  },
+  "norclostebol": {
+    "R": [
+      "norclostebolzinho",
+      "norclosteboizinhos"
+    ],
+    "V": [
+      "norclostebolzão",
+      "norclostebolzões"
+    ]
+  },
+  "nordestal": {
+    "R": [
+      "nordestalzinho",
+      "nordestaizinhos"
+    ],
+    "V": [
+      "nordestalzão",
+      "nordestalzões"
+    ]
+  },
+  "norepol": {
+    "R": [
+      "norepolzinho",
+      "norepoizinhos"
+    ],
+    "V": [
+      "norepolzão",
+      "norepolzões"
+    ]
+  },
+  "noretinodrel": {
+    "R": [
+      "noretinodrelzinho",
+      "noretinodreizinhos"
+    ],
+    "V": [
+      "noretinodrelzão",
+      "noretinodrelzões"
+    ]
+  },
+  "norgestomete": {
+    "P": [
+      "norgestometinho",
+      "norgestometinhos"
+    ]
+  },
+  "norgestrel": {
+    "R": [
+      "norgestrelzinho",
+      "norgestreizinhos"
+    ],
+    "V": [
+      "norgestrelzão",
+      "norgestrelzões"
+    ]
+  },
+  "norite": {
+    "P": [
+      "noritinho",
+      "noritinhos"
+    ]
+  },
+  "norletimol": {
+    "R": [
+      "norletimolzinho",
+      "norletimoizinhos"
+    ],
+    "V": [
+      "norletimolzão",
+      "norletimolzões"
+    ]
+  },
+  "norlevorfanol": {
+    "R": [
+      "norlevorfanolzinho",
+      "norlevorfanoizinhos"
+    ],
+    "V": [
+      "norlevorfanolzão",
+      "norlevorfanolzões"
+    ]
+  },
+  "norma": {
+    "O": [
+      "norminha",
+      "norminhas"
+    ]
+  },
+  "normação": {
+    "Q": [
+      "normaçãozinha",
+      "normaçõezinhas"
+    ],
+    "W": [
+      "normaçona",
+      "normaçonas"
+    ],
+    "Ü+Q": [
+      "seminormaçãozinha",
+      "seminormaçõezinhas"
+    ],
+    "Ü+W": [
+      "seminormaçona",
+      "seminormaçonas"
+    ]
+  },
+  "normador": {
+    "R": [
+      "normadorezinhos",
+      "normadorzinho"
+    ]
+  },
+  "normal": {
+    "R": [
+      "normalzinho",
+      "normaizinhos"
+    ],
+    "V": [
+      "normalzão",
+      "normalzões"
+    ],
+    "È+R": [
+      "subnormalzinho",
+      "subnormaizinhos"
+    ],
+    "ò+R": [
+      "anormalzinho",
+      "anormaizinhos"
+    ],
+    "ô+R": [
+      "supranormalzinho",
+      "supranormaizinhos"
+    ],
+    "Ô+R": [
+      "extranormalzinho",
+      "extranormaizinhos"
+    ],
+    "ú+R": [
+      "pré-normalzinho",
+      "pré-normaizinhos"
+    ],
+    "Ü+R": [
+      "seminormalzinho",
+      "seminormaizinhos"
+    ],
+    "È+V": [
+      "subnormalzão",
+      "subnormalzões"
+    ],
+    "ò+V": [
+      "anormalzão",
+      "anormalzões"
+    ],
+    "ô+V": [
+      "supranormalzão",
+      "supranormalzões"
+    ],
+    "Ô+V": [
+      "extranormalzão",
+      "extranormalzões"
+    ],
+    "ú+V": [
+      "pré-normalzão",
+      "pré-normalzões"
+    ],
+    "Ü+V": [
+      "seminormalzão",
+      "seminormalzões"
+    ]
+  },
+  "normalização": {
+    "Q": [
+      "normalizaçãozinha",
+      "normalizaçõezinhas"
+    ],
+    "W": [
+      "normalizaçona",
+      "normalizaçonas"
+    ],
+    "À+Q": [
+      "renormalizaçãozinha",
+      "renormalizaçõezinhas"
+    ],
+    "Î+Q": [
+      "hipernormalizaçãozinha",
+      "hipernormalizaçõezinhas"
+    ],
+    "À+W": [
+      "renormalizaçona",
+      "renormalizaçonas"
+    ],
+    "Î+W": [
+      "hipernormalizaçona",
+      "hipernormalizaçonas"
+    ]
+  },
+  "normante": {
+    "P": [
+      "normantinho",
+      "normantinhos"
+    ]
+  },
+  "normas-padrão": {
+    "R": [
+      "normas-padrãozinho",
+      "normas-padrõezinhos"
+    ],
+    "V": [
+      "normas-padrãozão",
+      "normas-padrãozões"
+    ]
+  },
+  "normatização": {
+    "Q": [
+      "normatizaçãozinha",
+      "normatizaçõezinhas"
+    ],
+    "W": [
+      "normatizaçona",
+      "normatizaçonas"
+    ],
+    "Á+Q": [
+      "antinormatizaçãozinha",
+      "antinormatizaçõezinhas"
+    ],
+    "Á+W": [
+      "antinormatizaçona",
+      "antinormatizaçonas"
+    ]
+  },
+  "normotensão": {
+    "Q": [
+      "normotensãozinha",
+      "normotensõezinhas"
+    ],
+    "W": [
+      "normotensona",
+      "normotensonas"
+    ]
+  },
+  "nortão": {
+    "R": [
+      "nortãozinho",
+      "nortõezinhos"
+    ],
+    "V": [
+      "nortãozão",
+      "nortãozões"
+    ]
+  },
+  "norte-irlandês": {
+    "O": [
+      "norte-irlandesinha",
+      "norte-irlandesinhas"
+    ],
+    "P": [
+      "norte-irlandesinho",
+      "norte-irlandesezinhos"
+    ]
+  },
+  "norteação": {
+    "Q": [
+      "norteaçãozinha",
+      "norteaçõezinhas"
+    ],
+    "W": [
+      "norteaçona",
+      "norteaçonas"
+    ],
+    "Â+Q": [
+      "desnorteaçãozinha",
+      "desnorteaçõezinhas"
+    ],
+    "Â+W": [
+      "desnorteaçona",
+      "desnorteaçonas"
+    ]
+  },
+  "noruegal": {
+    "R": [
+      "noruegalzinho",
+      "noruegaizinhos"
+    ],
+    "V": [
+      "noruegalzão",
+      "noruegalzões"
+    ]
+  },
+  "noruegofalante": {
+    "P": [
+      "noruegofalantinho",
+      "noruegofalantinhos"
+    ]
+  },
+  "noruegoparlante": {
+    "P": [
+      "noruegoparlantinho",
+      "noruegoparlantinhos"
+    ]
+  },
+  "norueguês": {
+    "O": [
+      "norueguesinha",
+      "norueguesinhas"
+    ],
+    "P": [
+      "norueguesinho",
+      "norueguesezinhos"
+    ]
+  },
+  "noselite": {
+    "O": [
+      "noselitinha",
+      "noselitinhas"
+    ],
+    "P": [
+      "noselitinho",
+      "noselitinhos"
+    ]
+  },
+  "nosite": {
+    "O": [
+      "nositinha",
+      "nositinhas"
+    ],
+    "P": [
+      "nositinho",
+      "nositinhos"
+    ],
+    "Ä+O": [
+      "inositinha",
+      "inositinhas"
+    ],
+    "Ä+P": [
+      "inositinho",
+      "inositinhos"
+    ]
+  },
+  "nosocomial": {
+    "R": [
+      "nosocomialzinho",
+      "nosocomiaizinhos"
+    ],
+    "V": [
+      "nosocomialzão",
+      "nosocomialzões"
+    ]
+  },
+  "nosoconial": {
+    "R": [
+      "nosoconialzinho",
+      "nosoconiaizinhos"
+    ],
+    "V": [
+      "nosoconialzão",
+      "nosoconialzões"
+    ]
+  },
+  "nosomante": {
+    "P": [
+      "nosomantinho",
+      "nosomantinhos"
+    ]
+  },
+  "notabilização": {
+    "Q": [
+      "notabilizaçãozinha",
+      "notabilizaçõezinhas"
+    ],
+    "W": [
+      "notabilizaçona",
+      "notabilizaçonas"
+    ]
+  },
+  "notação": {
+    "Q": [
+      "notaçãozinha",
+      "notaçõezinhas"
+    ],
+    "W": [
+      "notaçona",
+      "notaçonas"
+    ],
+    "ì+Q": [
+      "prenotaçãozinha",
+      "prenotaçõezinhas"
+    ],
+    "Ñ+Q": [
+      "conotaçãozinha",
+      "conotaçõezinhas"
+    ],
+    "ò+Q": [
+      "anotaçãozinha",
+      "anotaçõezinhas"
+    ],
+    "ì+W": [
+      "prenotaçona",
+      "prenotaçonas"
+    ],
+    "Ñ+W": [
+      "conotaçona",
+      "conotaçonas"
+    ],
+    "ò+W": [
+      "anotaçona",
+      "anotaçonas"
+    ]
+  },
+  "notacional": {
+    "R": [
+      "notacionalzinho",
+      "notacionaizinhos"
+    ],
+    "V": [
+      "notacionalzão",
+      "notacionalzões"
+    ]
+  },
+  "notambulação": {
+    "Q": [
+      "notambulaçãozinha",
+      "notambulaçõezinhas"
+    ],
+    "W": [
+      "notambulaçona",
+      "notambulaçonas"
+    ]
+  },
+  "notarial": {
+    "R": [
+      "notarialzinho",
+      "notariaizinhos"
+    ],
+    "V": [
+      "notarialzão",
+      "notarialzões"
+    ]
+  },
+  "noticiação": {
+    "Q": [
+      "noticiaçãozinha",
+      "noticiaçõezinhas"
+    ],
+    "W": [
+      "noticiaçona",
+      "noticiaçonas"
+    ]
+  },
+  "noticioso": {
+    "O": [
+      "noticiosinha",
+      "noticiosinhas"
+    ],
+    "P": [
+      "noticiosinho",
+      "noticiosinhos"
+    ]
+  },
+  "notificação": {
+    "Q": [
+      "notificaçãozinha",
+      "notificaçõezinhas"
+    ],
+    "W": [
+      "notificaçona",
+      "notificaçonas"
+    ]
+  },
+  "notite": {
+    "O": [
+      "notitinha",
+      "notitinhas"
+    ],
+    "P": [
+      "notitinho",
+      "notitinhos"
+    ]
+  },
+  "notodonte": {
+    "P": [
+      "notodontinho",
+      "notodontinhos"
+    ]
+  },
+  "notomielite": {
+    "P": [
+      "notomielitinho",
+      "notomielitinhos"
+    ]
+  },
+  "notornite": {
+    "P": [
+      "notornitinho",
+      "notornitinhos"
+    ]
+  },
+  "noturnal": {
+    "R": [
+      "noturnalzinho",
+      "noturnaizinhos"
+    ],
+    "V": [
+      "noturnalzão",
+      "noturnalzões"
+    ]
+  },
+  "noutão": {
+    "R": [
+      "noutãozinho",
+      "noutõezinhos"
+    ],
+    "V": [
+      "noutãozão",
+      "noutãozões"
+    ]
+  },
+  "noute": {
+    "P": [
+      "noutinho",
+      "noutinhos"
+    ]
+  },
+  "nova-orleanês": {
+    "O": [
+      "nova-orleanesinha",
+      "nova-orleanesinhas"
+    ],
+    "P": [
+      "nova-orleanesinho",
+      "nova-orleanesezinhos"
+    ]
+  },
+  "novação": {
+    "Q": [
+      "novaçãozinha",
+      "novaçõezinhas"
+    ],
+    "W": [
+      "novaçona",
+      "novaçonas"
+    ],
+    "À+Q": [
+      "renovaçãozinha",
+      "renovaçõezinhas"
+    ],
+    "ò+Q": [
+      "anovaçãozinha",
+      "anovaçõezinhas"
+    ],
+    "À+W": [
+      "renovaçona",
+      "renovaçonas"
+    ],
+    "ò+W": [
+      "anovaçona",
+      "anovaçonas"
+    ]
+  },
+  "novacular": {
+    "R": [
+      "novacularezinhos",
+      "novacularzinho"
+    ]
+  },
+  "novaculite": {
+    "P": [
+      "novaculitinho",
+      "novaculitinhos"
+    ]
+  },
+  "noval": {
+    "R": [
+      "novalzinho",
+      "novaizinhos"
+    ],
+    "V": [
+      "novalzão",
+      "novalzões"
+    ]
+  },
+  "novalente": {
+    "P": [
+      "novalentinho",
+      "novalentinhos"
+    ]
+  },
+  "novelão": {
+    "R": [
+      "novelãozinho",
+      "novelõezinhos"
+    ],
+    "V": [
+      "novelãozão",
+      "novelãozões"
+    ]
+  },
+  "novenal": {
+    "R": [
+      "novenalzinho",
+      "novenaizinhos"
+    ],
+    "V": [
+      "novenalzão",
+      "novenalzões"
+    ]
+  },
+  "novendecilhão": {
+    "R": [
+      "novendecilhãozinho",
+      "novendecilhõezinhos"
+    ],
+    "V": [
+      "novendecilhãozão",
+      "novendecilhãozões"
+    ]
+  },
+  "novendecilião": {
+    "R": [
+      "novendeciliãozinho",
+      "novendeciliõezinhos"
+    ],
+    "V": [
+      "novendeciliãozão",
+      "novendeciliãozões"
+    ]
+  },
+  "novendial": {
+    "R": [
+      "novendialzinho",
+      "novendiaizinhos"
+    ],
+    "V": [
+      "novendialzão",
+      "novendialzões"
+    ]
+  },
+  "novercal": {
+    "R": [
+      "novercalzinho",
+      "novercaizinhos"
+    ],
+    "V": [
+      "novercalzão",
+      "novercalzões"
+    ]
+  },
+  "novial": {
+    "R": [
+      "novialzinho",
+      "noviaizinhos"
+    ],
+    "V": [
+      "novialzão",
+      "novialzões"
+    ]
+  },
+  "novilho": {
+    "O": [
+      "novilhinha",
+      "novilhinhas"
+    ],
+    "P": [
+      "novilhinho",
+      "novilhinhos"
+    ]
+  },
+  "novilhote": {
+    "O": [
+      "novilhotinha",
+      "novilhotinhas"
+    ],
+    "P": [
+      "novilhotinho",
+      "novilhotinhos"
+    ]
+  },
+  "novilunar": {
+    "R": [
+      "novilunarezinhos",
+      "novilunarzinho"
+    ]
+  },
+  "novimensal": {
+    "R": [
+      "novimensalzinho",
+      "novimensaizinhos"
+    ],
+    "V": [
+      "novimensalzão",
+      "novimensalzões"
+    ]
+  },
+  "novo-oriental": {
+    "R": [
+      "novo-orientalzinho",
+      "novo-orientaizinhos"
+    ],
+    "V": [
+      "novo-orientalzão",
+      "novo-orientalzões"
+    ]
+  },
+  "novo-testamental": {
+    "R": [
+      "novo-testamentalzinho",
+      "novo-testamentaizinhos"
+    ],
+    "V": [
+      "novo-testamentalzão",
+      "novo-testamentalzões"
+    ]
+  },
+  "novos": {
+    "O": [
+      "novinha",
+      "novinhas"
+    ],
+    "P": [
+      "novinho",
+      "novinhos"
+    ],
+    "À+O": [
+      "renovinha",
+      "renovinhas"
+    ],
+    "À+P": [
+      "renovinho",
+      "renovinhos"
+    ]
+  },
+  "noxal": {
+    "R": [
+      "noxalzinho",
+      "noxaizinhos"
+    ],
+    "V": [
+      "noxalzão",
+      "noxalzões"
+    ]
+  },
+  "nozelha": {
+    "O": [
+      "nozelhinha",
+      "nozelhinhas"
+    ],
+    "W": [
+      "nozelhona",
+      "nozelhonas"
+    ]
+  },
+  "nozilhão": {
+    "R": [
+      "nozilhãozinho",
+      "nozilhõezinhos"
+    ],
+    "V": [
+      "nozilhãozão",
+      "nozilhãozões"
+    ]
+  },
+  "nozul": {
+    "R": [
+      "nozulzinho",
+      "nozuizinhos"
+    ],
+    "V": [
+      "nozulzão",
+      "nozulzões"
+    ]
+  },
+  "nua": {
+    "O": [
+      "nuinha",
+      "nuinhas"
+    ],
+    "Ü+O": [
+      "seminuinha",
+      "seminuinhas"
+    ]
+  },
+  "nubeloso": {
+    "O": [
+      "nubelosinha",
+      "nubelosinhas"
+    ],
+    "P": [
+      "nubelosinho",
+      "nubelosinhos"
+    ]
+  },
+  "nubente": {
+    "P": [
+      "nubentinho",
+      "nubentinhos"
+    ]
+  },
+  "nubilar": {
+    "R": [
+      "nubilarezinhos",
+      "nubilarzinho"
+    ]
+  },
+  "nubiloso": {
+    "O": [
+      "nubilosinha",
+      "nubilosinhas"
+    ],
+    "P": [
+      "nubilosinho",
+      "nubilosinhos"
+    ]
+  },
+  "nubloso": {
+    "O": [
+      "nublosinha",
+      "nublosinhas"
+    ],
+    "P": [
+      "nublosinho",
+      "nublosinhos"
+    ]
+  },
+  "nucal": {
+    "R": [
+      "nucalzinho",
+      "nucaizinhos"
+    ],
+    "V": [
+      "nucalzão",
+      "nucalzões"
+    ]
+  },
+  "nução": {
+    "Q": [
+      "nuçãozinha",
+      "nuçõezinhas"
+    ],
+    "W": [
+      "nuçona",
+      "nuçonas"
+    ]
+  },
+  "nucelar": {
+    "R": [
+      "nucelarezinhos",
+      "nucelarzinho"
+    ]
+  },
+  "nucicultor": {
+    "R": [
+      "nucicultorezinhos",
+      "nucicultorzinho"
+    ]
+  },
+  "nucleação": {
+    "Q": [
+      "nucleaçãozinha",
+      "nucleaçõezinhas"
+    ],
+    "W": [
+      "nucleaçona",
+      "nucleaçonas"
+    ]
+  },
+  "nucleal": {
+    "R": [
+      "nuclealzinho",
+      "nucleaizinhos"
+    ],
+    "V": [
+      "nuclealzão",
+      "nuclealzões"
+    ]
+  },
+  "nucleão": {
+    "R": [
+      "nucleãozinho",
+      "nucleõezinhos"
+    ],
+    "V": [
+      "nucleãozão",
+      "nucleãozões"
+    ]
+  },
+  "nuclear": {
+    "R": [
+      "nuclearezinhos",
+      "nuclearzinho"
+    ],
+    "Á+R": [
+      "antinuclearezinhos",
+      "antinuclearzinho"
+    ],
+    "Ã+R": [
+      "autonuclearezinhos",
+      "autonuclearzinho"
+    ],
+    "È+R": [
+      "subnuclearezinhos",
+      "subnuclearzinho"
+    ],
+    "Í+R": [
+      "internuclearezinhos",
+      "internuclearzinho"
+    ],
+    "Î+R": [
+      "hipernuclearezinhos",
+      "hipernuclearzinho"
+    ],
+    "Ô+R": [
+      "extranuclearezinhos",
+      "extranuclearzinho"
+    ],
+    "õ+R": [
+      "macronuclearezinhos",
+      "macronuclearzinho"
+    ],
+    "Ö+R": [
+      "intranuclearezinhos",
+      "intranuclearzinho"
+    ],
+    "û+R": [
+      "micronuclearezinhos",
+      "micronuclearzinho"
+    ],
+    "Û+R": [
+      "pronuclearezinhos",
+      "pronuclearzinho"
+    ]
+  },
+  "nuclearização": {
+    "Q": [
+      "nuclearizaçãozinha",
+      "nuclearizaçõezinhas"
+    ],
+    "W": [
+      "nuclearizaçona",
+      "nuclearizaçonas"
+    ],
+    "Â+Q": [
+      "desnuclearizaçãozinha",
+      "desnuclearizaçõezinhas"
+    ],
+    "Â+W": [
+      "desnuclearizaçona",
+      "desnuclearizaçonas"
+    ]
+  },
+  "nucleolar": {
+    "R": [
+      "nucleolarezinhos",
+      "nucleolarzinho"
+    ],
+    "ö+R": [
+      "polinucleolarezinhos",
+      "polinucleolarzinho"
+    ]
+  },
+  "nucular": {
+    "R": [
+      "nucularezinhos",
+      "nucularzinho"
+    ]
+  },
+  "nuculoso": {
+    "O": [
+      "nuculosinha",
+      "nuculosinhas"
+    ],
+    "P": [
+      "nuculosinho",
+      "nuculosinhos"
+    ]
+  },
+  "nudação": {
+    "Q": [
+      "nudaçãozinha",
+      "nudaçõezinhas"
+    ],
+    "W": [
+      "nudaçona",
+      "nudaçonas"
+    ],
+    "Â+Q": [
+      "desnudaçãozinha",
+      "desnudaçõezinhas"
+    ],
+    "Â+W": [
+      "desnudaçona",
+      "desnudaçonas"
+    ]
+  },
+  "nudo": {
+    "O": [
+      "nudinha",
+      "nudinhas"
+    ],
+    "P": [
+      "nudinho",
+      "nudinhos"
+    ]
+  },
+  "nuel": {
+    "R": [
+      "nuelzinho",
+      "nueizinhos"
+    ],
+    "V": [
+      "nuelzão",
+      "nuelzões"
+    ]
+  },
+  "núfar": {
+    "R": [
+      "núfarezinhos",
+      "núfarzinho"
+    ]
+  },
+  "nufenoxol": {
+    "R": [
+      "nufenoxolzinho",
+      "nufenoxoizinhos"
+    ],
+    "V": [
+      "nufenoxolzão",
+      "nufenoxolzões"
+    ]
+  },
+  "nugação": {
+    "Q": [
+      "nugaçãozinha",
+      "nugaçõezinhas"
+    ],
+    "W": [
+      "nugaçona",
+      "nugaçonas"
+    ]
+  },
+  "nujol": {
+    "R": [
+      "nujolzinho",
+      "nujoizinhos"
+    ],
+    "V": [
+      "nujolzão",
+      "nujolzões"
+    ]
+  },
+  "nulificação": {
+    "Q": [
+      "nulificaçãozinha",
+      "nulificaçõezinhas"
+    ],
+    "W": [
+      "nulificaçona",
+      "nulificaçonas"
+    ]
+  },
+  "nulivalente": {
+    "P": [
+      "nulivalentinho",
+      "nulivalentinhos"
+    ]
+  },
+  "numenal": {
+    "R": [
+      "numenalzinho",
+      "numenaizinhos"
+    ],
+    "V": [
+      "numenalzão",
+      "numenalzões"
+    ]
+  },
+  "numeração": {
+    "Q": [
+      "numeraçãozinha",
+      "numeraçõezinhas"
+    ],
+    "W": [
+      "numeraçona",
+      "numeraçonas"
+    ],
+    "À+Q": [
+      "renumeraçãozinha",
+      "renumeraçõezinhas"
+    ],
+    "Ã+Q": [
+      "autonumeraçãozinha",
+      "autonumeraçõezinhas"
+    ],
+    "Ñ+Q": [
+      "conumeraçãozinha",
+      "conumeraçõezinhas"
+    ],
+    "ò+Q": [
+      "anumeraçãozinha",
+      "anumeraçõezinhas"
+    ],
+    "À+W": [
+      "renumeraçona",
+      "renumeraçonas"
+    ],
+    "Ã+W": [
+      "autonumeraçona",
+      "autonumeraçonas"
+    ],
+    "Ñ+W": [
+      "conumeraçona",
+      "conumeraçonas"
+    ],
+    "ò+W": [
+      "anumeraçona",
+      "anumeraçonas"
+    ]
+  },
+  "numeral": {
+    "R": [
+      "numeralzinho",
+      "numeraizinhos"
+    ],
+    "Ô+R": [
+      "extranumeralzinho",
+      "extranumeraizinhos"
+    ]
+  },
+  "numeroso": {
+    "O": [
+      "numerosinha",
+      "numerosinhas"
+    ],
+    "P": [
+      "numerosinho",
+      "numerosinhos"
+    ],
+    "Ä+O": [
+      "inumerosinha",
+      "inumerosinhas"
+    ],
+    "Ä+P": [
+      "inumerosinho",
+      "inumerosinhos"
+    ]
+  },
+  "numinoso": {
+    "O": [
+      "numinosinha",
+      "numinosinhas"
+    ],
+    "P": [
+      "numinosinho",
+      "numinosinhos"
+    ]
+  },
+  "numismal": {
+    "R": [
+      "numismalzinho",
+      "numismaizinhos"
+    ],
+    "V": [
+      "numismalzão",
+      "numismalzões"
+    ]
+  },
+  "numulação": {
+    "Q": [
+      "numulaçãozinha",
+      "numulaçõezinhas"
+    ],
+    "W": [
+      "numulaçona",
+      "numulaçonas"
+    ]
+  },
+  "numular": {
+    "R": [
+      "numularezinhos",
+      "numularzinho"
+    ]
+  },
+  "numulite": {
+    "P": [
+      "numulitinho",
+      "numulitinhos"
+    ]
+  },
+  "nunação": {
+    "Q": [
+      "nunaçãozinha",
+      "nunaçõezinhas"
+    ],
+    "W": [
+      "nunaçona",
+      "nunaçonas"
+    ]
+  },
+  "nunciação": {
+    "Q": [
+      "nunciaçãozinha",
+      "nunciaçõezinhas"
+    ],
+    "W": [
+      "nunciaçona",
+      "nunciaçonas"
+    ],
+    "À+Q": [
+      "renunciaçãozinha",
+      "renunciaçõezinhas"
+    ],
+    "ì+Q": [
+      "prenunciaçãozinha",
+      "prenunciaçõezinhas"
+    ],
+    "ò+Q": [
+      "anunciaçãozinha",
+      "anunciaçõezinhas"
+    ],
+    "Û+Q": [
+      "pronunciaçãozinha",
+      "pronunciaçõezinhas"
+    ],
+    "À+W": [
+      "renunciaçona",
+      "renunciaçonas"
+    ],
+    "ì+W": [
+      "prenunciaçona",
+      "prenunciaçonas"
+    ],
+    "ò+W": [
+      "anunciaçona",
+      "anunciaçonas"
+    ],
+    "Û+W": [
+      "pronunciaçona",
+      "pronunciaçonas"
+    ]
+  },
+  "nuncupação": {
+    "Q": [
+      "nuncupaçãozinha",
+      "nuncupaçõezinhas"
+    ],
+    "W": [
+      "nuncupaçona",
+      "nuncupaçonas"
+    ]
+  },
+  "nundinação": {
+    "Q": [
+      "nundinaçãozinha",
+      "nundinaçõezinhas"
+    ],
+    "W": [
+      "nundinaçona",
+      "nundinaçonas"
+    ]
+  },
+  "nundinal": {
+    "R": [
+      "nundinalzinho",
+      "nundinaizinhos"
+    ],
+    "V": [
+      "nundinalzão",
+      "nundinalzões"
+    ]
+  },
+  "nupafante": {
+    "P": [
+      "nupafantinho",
+      "nupafantinhos"
+    ]
+  },
+  "nupcial": {
+    "R": [
+      "nupcialzinho",
+      "nupciaizinhos"
+    ],
+    "V": [
+      "nupcialzão",
+      "nupcialzões"
+    ],
+    "Á+R": [
+      "antinupcialzinho",
+      "antinupciaizinhos"
+    ],
+    "Ï+R": [
+      "antenupcialzinho",
+      "antenupciaizinhos"
+    ],
+    "ú+R": [
+      "pré-nupcialzinho",
+      "pré-nupciaizinhos"
+    ],
+    "Á+V": [
+      "antinupcialzão",
+      "antinupcialzões"
+    ],
+    "Ï+V": [
+      "antenupcialzão",
+      "antenupcialzões"
+    ],
+    "ú+V": [
+      "pré-nupcialzão",
+      "pré-nupcialzões"
+    ]
+  },
+  "nutação": {
+    "Q": [
+      "nutaçãozinha",
+      "nutaçõezinhas"
+    ],
+    "W": [
+      "nutaçona",
+      "nutaçonas"
+    ],
+    "À+Q": [
+      "renutaçãozinha",
+      "renutaçõezinhas"
+    ],
+    "À+W": [
+      "renutaçona",
+      "renutaçonas"
+    ]
+  },
+  "nutacional": {
+    "R": [
+      "nutacionalzinho",
+      "nutacionaizinhos"
+    ],
+    "V": [
+      "nutacionalzão",
+      "nutacionalzões"
+    ]
+  },
+  "nutrição": {
+    "Q": [
+      "nutriçãozinha",
+      "nutriçõezinhas"
+    ],
+    "W": [
+      "nutriçona",
+      "nutriçonas"
+    ],
+    "Â+Q": [
+      "desnutriçãozinha",
+      "desnutriçõezinhas"
+    ],
+    "È+Q": [
+      "subnutriçãozinha",
+      "subnutriçõezinhas"
+    ],
+    "Ë+Q": [
+      "sobrenutriçãozinha",
+      "sobrenutriçõezinhas"
+    ],
+    "Ì+Q": [
+      "supernutriçãozinha",
+      "supernutriçõezinhas"
+    ],
+    "Â+W": [
+      "desnutriçona",
+      "desnutriçonas"
+    ],
+    "È+W": [
+      "subnutriçona",
+      "subnutriçonas"
+    ],
+    "Ë+W": [
+      "sobrenutriçona",
+      "sobrenutriçonas"
+    ],
+    "Ì+W": [
+      "supernutriçona",
+      "supernutriçonas"
+    ]
+  },
+  "nutriceptor": {
+    "R": [
+      "nutriceptorezinhos",
+      "nutriceptorzinho"
+    ]
+  },
+  "nutricional": {
+    "R": [
+      "nutricionalzinho",
+      "nutricionaizinhos"
+    ],
+    "V": [
+      "nutricionalzão",
+      "nutricionalzões"
+    ]
+  },
+  "nutriente": {
+    "P": [
+      "nutrientinho",
+      "nutrientinhos"
+    ],
+    "Â+P": [
+      "desnutrientinho",
+      "desnutrientinhos"
+    ],
+    "õ+P": [
+      "macronutrientinho",
+      "macronutrientinhos"
+    ],
+    "û+P": [
+      "micronutrientinho",
+      "micronutrientinhos"
+    ]
+  },
+  "nutrimental": {
+    "R": [
+      "nutrimentalzinho",
+      "nutrimentaizinhos"
+    ],
+    "V": [
+      "nutrimentalzão",
+      "nutrimentalzões"
+    ]
+  },
+  "nutritivomuscular": {
+    "R": [
+      "nutritivomuscularezinhos",
+      "nutritivomuscularzinho"
+    ]
+  },
+  "nutriz": {
+    "Q": [
+      "nutrizinha",
+      "nutrizezinhas"
+    ]
+  },
+  "nutromuscular": {
+    "R": [
+      "nutromuscularezinhos",
+      "nutromuscularzinho"
+    ]
+  },
+  "nuvarrão": {
+    "R": [
+      "nuvarrãozinho",
+      "nuvarrõezinhos"
+    ],
+    "V": [
+      "nuvarrãozão",
+      "nuvarrãozões"
+    ]
+  },
+  "nuvem": {
+    "Q": [
+      "nuvenzinha",
+      "nuvenzinhas"
+    ]
+  },
+  "nuvioso": {
+    "O": [
+      "nuviosinha",
+      "nuviosinhas"
+    ],
+    "P": [
+      "nuviosinho",
+      "nuviosinhos"
+    ]
+  },
+  "nuvistor": {
+    "R": [
+      "nuvistorezinhos",
+      "nuvistorzinho"
+    ]
+  },
+  "nuvol": {
+    "R": [
+      "nuvolzinho",
+      "nuvoizinhos"
+    ],
+    "V": [
+      "nuvolzão",
+      "nuvolzões"
+    ]
+  },
+  "nuvrejão": {
+    "R": [
+      "nuvrejãozinho",
+      "nuvrejõezinhos"
+    ],
+    "V": [
+      "nuvrejãozão",
+      "nuvrejãozões"
+    ]
+  }
+}
