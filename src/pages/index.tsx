@@ -110,7 +110,7 @@ export default function HomePage() {
                       )}
                       {!esperar && (inputNorm === '' || inputNorm === undefined) && (
                         <div>
-                          Digite o texto para ver palavras que contêm a última palavra digitada
+                          Digite o texto para ver palavras que contêm a última unidade digitada
                         </div>
                       )}
                       {inputNorm && inputNorm.length >= 3 && ["s", "c", "e"].map((type) => {
