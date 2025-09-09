@@ -114,12 +114,7 @@ export function getPTExtended(
 
 // Função para embaralhar o array
 const shuffleArray = (array: string[]): string[] => {
-  const shuffled = array.slice();
-  for (let i = shuffled.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
-  }
-  return shuffled;
+  return array.slice().sort((a, b) => a.length - b.length);
 };
 
 // getPTExtended("num_gen_Flags", "ter", "e", true);

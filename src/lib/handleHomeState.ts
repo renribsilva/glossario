@@ -4,7 +4,6 @@ import { GlosaEntry, GlosaData, SinData, AnalogData } from "../types";
 import { getGlosaEntries, getGlosaData } from "../lib/getGlosaData";
 import { getAnalogKeyData, getAnalogData } from "../lib/getAnalogData";
 import { getSynonymsKeysData } from "../lib/getSynonymData";
-import { hifenizador } from "./hifenizador";
 
 export function handleHomeState() {
   const [input, setInput] = useState<string | undefined>(undefined);
@@ -28,7 +27,9 @@ export function handleHomeState() {
   const [activeSug, setActiveSug] = useState<string | null>(null);
   const [activeFlag, setActiveFlag] = useState<string | null>(null);
   const [flagGroup, setFlagGroup] = useState<string>("adv_adj_sub_Flags");
-  const [silaba, setSilaba] = useState<string>(null)
+  const [silaba, setSilaba] = useState<string>(null);
+  const [esperar, setEsperar] = useState<boolean | null>(null);
+  const [lastHifenized, setLastHifenized] = useState<string | null>(null);
 
   const keys = ["exp", "conj", "gram", "def", "dif"];
   const categories = ["sub", "verb", "adj", "adv", "phr"];
@@ -41,23 +42,47 @@ export function handleHomeState() {
 
   const previousInputNorm = useRef<string | undefined>(undefined);
 
+  const getPTExtendedCacheKey = (
+    flagGroup: string,
+    searchTerm: string,
+    searchType: "s" | "c" | "e",
+    full: boolean
+  ): string => {
+    return `${flagGroup}::${searchTerm}::${searchType}::${full}`;
+  };
+
+  const ptExtendedCache = useRef<Record<string, any>>({});
+
   const fetchPTExtended = async (
     flagGroup: string, 
     searchTerm: string, 
     searchType: "s" | "c" | "e", 
     full: boolean
   ) => {
+    const cacheKey = getPTExtendedCacheKey(flagGroup, searchTerm, searchType, full);
+    if (ptExtendedCache.current[cacheKey]) {
+      return ptExtendedCache.current[cacheKey];
+    }
     const response = await fetch(`/api/loadData?flagGroup=${flagGroup}&searchTerm=${searchTerm}&searchType=${searchType}&full=${full}`);
     const data = await response.json();
+    ptExtendedCache.current[cacheKey] = data;
     return data;
   };
 
-  const fetchHifenizador = async (word: string) => {
+  const hifenizadorCache = useRef<Record<string, string>>({});
+
+  const fetchHifenizador = async (word: string): Promise<{ word: string }> => {
+    if (hifenizadorCache.current[word]) {
+      const cachedResult = hifenizadorCache.current[word];
+      setLastHifenized(ni(word));
+      return { word: cachedResult };
+    }
     const response = await fetch(`/api/loadHifenizador?word=${encodeURIComponent(word)}`);
     const data = await response.json();
+    hifenizadorCache.current[word] = data.word;
+    setLastHifenized(ni(word));
     return data;
   };
-
 
   const handleInputChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
     const fullText = e.target.value;
@@ -79,7 +104,7 @@ export function handleHomeState() {
         .replace(/[!"#$%&'()*+,.ºª/:;¨´<=>?´@[\\\]^_`{|}~]+/g, "")
         .split(/\s+/);
       const validWords = words.filter(word => word.trim() !== "");
-      if((validWords[validWords?.length - 1]).trim().length >= 3 ) {
+      if((validWords[validWords?.length - 1])?.trim().length >= 3 ) {
         setInput((validWords[validWords.length - 1]).toLowerCase());
       }
       setInputNorm(ni(validWords[validWords.length - 1]));
@@ -98,13 +123,14 @@ export function handleHomeState() {
   const handleSuggestionClick = (input: "s"|"c"|"e") => {
     setMethod(input);
     setActiveSug(input);
+    setEsperar(true)
   };
 
   const handleFlagsClick = (input: string) => {
   if (activeFlag === input) {
     setActiveFlag(null);
   } else {
-    // ativa novo
+    setEsperar(true)
     setFlagGroup(input);
     setActiveFlag(input);
   }
@@ -154,6 +180,7 @@ export function handleHomeState() {
         input !== undefined && 
         (input.length >= 3 || inputNorm.length >= 3)
       ) {
+        setEsperar(true)
         if (method === null) {
           setMethod("e");
         }
@@ -167,13 +194,14 @@ export function handleHomeState() {
           setActiveSug(method)
           setIsSugDisabled(false);
         }
+        const silabas = await fetchHifenizador(input)
+        setSilaba(silabas.word.replace(/-/g, "·"))
+        setEsperar(false)
       }
       if (input?.length < 3 || inputNorm?.length < 3) {
         setIsSugDisabled(true)
         setActiveSug(null)
       }
-      const silabas = await fetchHifenizador(input)
-      setSilaba(silabas.word.replace(/-/g, "·"))
     }, 400);
     return () => clearTimeout(timer);
   }, [input, method, inputNorm, flagGroup, activeFlag]);
@@ -258,6 +286,8 @@ export function handleHomeState() {
     flagGroup,
     activeFlag,
     silaba,
+    esperar,
+    lastHifenized,
     handleInputChange,
     handleKeyDown,
     handleAnalogClick,

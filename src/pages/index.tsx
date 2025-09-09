@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useRef, useState } from "react";
 import styles from "../styles/index.module.css";
 import { handleHomeState } from "../lib/handleHomeState";
 
@@ -29,6 +29,8 @@ export default function HomePage() {
     activeSug,
     activeFlag,
     silaba,
+    esperar,
+    lastHifenized,
     handleInputChange,
     handleKeyDown,
     handleAnalogClick,
@@ -39,14 +41,23 @@ export default function HomePage() {
     handleFlagsClick
   } = handleHomeState();
 
+  console.log(inputNorm)
+  console.log(lastHifenized)
+
   return (
     <section className={styles.home}>
       <section className={styles.home_left}>
         <div className={styles.textarea_container}>
           <div className={styles.textarea_container_first}>
             <div className={styles.silaba}>
-              {silaba && (
-                <div>{silaba}</div>
+              {esperar && lastHifenized !== inputNorm ? (
+                <div>. . .</div>
+              ) : (
+                <>
+                  {silaba && (
+                    <div>{silaba}</div>
+                  )}
+                </>
               )}
             </div>
             <div>
@@ -88,47 +99,43 @@ export default function HomePage() {
               </div>
               <div className={styles.suggestions_list}>
                 <div className={styles.suggestions_list}>
-                  {inputNorm && inputNorm.length < 3 && (
-                    <div><i>Sugestões para palavras com três letras ou mais</i></div>
-                  )}
-                  {activeSug === "s" && ptBRExtendedS && ptBRExtendedS.length > 0 ? (
-                    ptBRExtendedS.map((entry, index) => (
-                      <div key={index}>{entry}</div>
-                    ))
-                  ) : (activeSug === "s" && (!ptBRExtendedS || ptBRExtendedS.length === 0)) && (
-                    <div>
-                      <span>Sem sugestões para palavras que começam com </span>
-                      <i>{input}</i>
-                      {activeFlag !== null && (
-                        <span> para a flag <i>{activeFlag}</i></span>
-                      )} 
-                    </div>
-                  )}
-                  {activeSug === "c" && ptBRExtendedC && ptBRExtendedC.length > 0 ? (
-                    ptBRExtendedC.map((entry, index) => (
-                      <div key={index}>{entry}</div>
-                    ))
-                  ) : (activeSug === "c" && (!ptBRExtendedC || ptBRExtendedC.length === 0)) && (
-                    <div>
-                      <span>Sem sugestões para palavras que contêm </span>
-                      <i>{input}</i>
-                      {activeFlag !== null && (
-                        <span> para a flag <i>{activeFlag}</i></span>
-                      )} 
-                    </div>
-                  )}
-                  {activeSug === "e" && ptBRExtendedE && ptBRExtendedE.length > 0 ? (
-                    ptBRExtendedE.map((entry, index) => (
-                      <div key={index}>{entry}</div>
-                    ))
-                  ) : (activeSug === "e" && (!ptBRExtendedE || ptBRExtendedE.length === 0)) && (
-                    <div>
-                      <span>Sem sugestões para palavras que começam com </span>
-                      <i>{input}</i>
-                      {activeFlag !== null && (
-                        <span> para a flag <i>{activeFlag}</i></span>
-                      )} 
-                    </div>
+                  {esperar ? (
+                    <div>aguarde...</div>
+                  ) : (
+                    <>
+                      {!esperar && inputNorm && inputNorm.length < 3 && (
+                        <div>
+                          <i>Sugestões para palavras com três letras ou mais</i>
+                        </div>
+                      )}
+                      {["s", "c", "e"].map((type) => {
+                        const suggestions = {
+                          s: ptBRExtendedS,
+                          c: ptBRExtendedC,
+                          e: ptBRExtendedE,
+                        }[type];
+                        const label = {
+                          s: "palavras que começam com",
+                          c: "palavras que contêm",
+                          e: "palavras que começam com",
+                        }[type];
+                        if (!esperar && activeSug !== type) return null;
+                        if (!esperar && suggestions && suggestions.length > 0) {
+                          return suggestions.map((entry, index) => (
+                            <div key={index}>{entry}</div>
+                          ));
+                        }
+                        return (
+                          <div key={type}>
+                            <span>Sem sugestões para {label} </span>
+                            <i>{input}</i>
+                            {!esperar && activeFlag !== null && (
+                              <span> na flag <i>{activeFlag}</i></span>
+                            )}
+                          </div>
+                        );
+                      })}
+                    </>
                   )}
                 </div>
               </div>
