@@ -50,7 +50,10 @@ export default function HomePage() {
         <div className={styles.textarea_container}>
           <div className={styles.textarea_container_first}>
             <div className={styles.silaba}>
-              {esperar && lastHifenized !== inputNorm ? (
+              {inputNorm === undefined ? (
+                <div>glos·sá·rio</div>
+              ) : (
+                esperar && lastHifenized !== inputNorm && inputNorm === '' ? (
                 <div>. . .</div>
               ) : (
                 <>
@@ -58,6 +61,7 @@ export default function HomePage() {
                     <div>{silaba}</div>
                   )}
                 </>
+              )
               )}
             </div>
             <div>
