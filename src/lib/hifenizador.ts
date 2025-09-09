@@ -148,9 +148,9 @@ export function hifenizador(word: string, rawPatterns: string[]) {
     console.log("Palavra reconstruída:", reconstructed); 
   }
 
-  return { getWord: getWord, word: reconstructed };
+  // return { getWord: getWord, word: reconstructed };
 
 }
 
 // Exemplo
-hifenizador("glossário", rawPatterns);
+// hifenizador("glossário", rawPatterns);
