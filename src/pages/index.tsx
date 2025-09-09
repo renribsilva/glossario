@@ -96,21 +96,39 @@ export default function HomePage() {
                       <div key={index}>{entry}</div>
                     ))
                   ) : (activeSug === "s" && (!ptBRExtendedS || ptBRExtendedS.length === 0)) && (
-                    <div>Sem sugestões para palavras que começam com <i>{input}</i></div>
+                    <div>
+                      <span>Sem sugestões para palavras que começam com </span>
+                      <i>{input}</i>
+                      {activeFlag !== null && (
+                        <span> para a flag <i>{activeFlag}</i></span>
+                      )} 
+                    </div>
                   )}
                   {activeSug === "c" && ptBRExtendedC && ptBRExtendedC.length > 0 ? (
                     ptBRExtendedC.map((entry, index) => (
                       <div key={index}>{entry}</div>
                     ))
                   ) : (activeSug === "c" && (!ptBRExtendedC || ptBRExtendedC.length === 0)) && (
-                    <div>Sem sugestões para palavras que contêm <i>{input}</i></div>
+                    <div>
+                      <span>Sem sugestões para palavras que contêm </span>
+                      <i>{input}</i>
+                      {activeFlag !== null && (
+                        <span> para a flag <i>{activeFlag}</i></span>
+                      )} 
+                    </div>
                   )}
                   {activeSug === "e" && ptBRExtendedE && ptBRExtendedE.length > 0 ? (
                     ptBRExtendedE.map((entry, index) => (
                       <div key={index}>{entry}</div>
                     ))
                   ) : (activeSug === "e" && (!ptBRExtendedE || ptBRExtendedE.length === 0)) && (
-                    <div>Sem sugestões para palavras terminadas em <i>{input}</i></div>
+                    <div>
+                      <span>Sem sugestões para palavras que começam com </span>
+                      <i>{input}</i>
+                      {activeFlag !== null && (
+                        <span> para a flag <i>{activeFlag}</i></span>
+                      )} 
+                    </div>
                   )}
                 </div>
               </div>
