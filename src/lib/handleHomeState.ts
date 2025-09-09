@@ -181,18 +181,23 @@ export function handleHomeState() {
         (input.length >= 3 || inputNorm.length >= 3)
       ) {
         setEsperar(true)
+        setIsSugDisabled(true)
         if (method === null) {
           setMethod("e");
         }
-        const ptBRDataS = await fetchPTExtended(flagGroup, input, "s", activeFlag ? true : false);
-        const ptBRDataC = await fetchPTExtended(flagGroup, input, "c", activeFlag ? true : false);
-        const ptBRDataE = await fetchPTExtended(flagGroup, input, "e", activeFlag ? true : false);
+        const ptBRDataS = await fetchPTExtended(flagGroup, String(input), "s", activeFlag ? true : false);
+        const ptBRDataC = await fetchPTExtended(flagGroup, String(input), "c", activeFlag ? true : false);
+        const ptBRDataE = await fetchPTExtended(flagGroup, String(input), "e", activeFlag ? true : false);
         setptBRExtendedS(ptBRDataS);
         setptBRExtendedC(ptBRDataC);
         setptBRExtendedE(ptBRDataE);
         if (ptBRDataE?.length > 0 || ptBRDataS?.length > 0 || ptBRDataC?.length > 0) {
           setActiveSug(method)
           setIsSugDisabled(false);
+        }
+        if (ptBRDataE?.length === 0 && ptBRDataS?.length === 0 && ptBRDataC?.length === 0) {
+          setActiveSug(method)
+          setIsSugDisabled(true);
         }
         const silabas = await fetchHifenizador(input)
         setSilaba(silabas.word.replace(/-/g, "·"))

@@ -103,12 +103,17 @@ export default function HomePage() {
                     <div>aguarde...</div>
                   ) : (
                     <>
-                      {!esperar && inputNorm && inputNorm.length < 3 && (
+                      {!esperar && isSugDisabled && inputNorm && inputNorm.length < 3 && (
                         <div>
                           <i>Sugestões para palavras com três letras ou mais</i>
                         </div>
                       )}
-                      {["s", "c", "e"].map((type) => {
+                      {!esperar && isSugDisabled && (inputNorm === '' || inputNorm === undefined) && (
+                        <div>
+                          Digite o texto para ver palavras que contêm a última palavra digitada
+                        </div>
+                      )}
+                      {inputNorm && inputNorm.length >= 3 && ["s", "c", "e"].map((type) => {
                         const suggestions = {
                           s: ptBRExtendedS,
                           c: ptBRExtendedC,
