@@ -68,6 +68,9 @@ export default function HomePage() {
                   placeholder="Digite o texto..."
                 />
             </div>
+            {/* <div className={styles.suggestion_description}>
+              <div></div>
+            </div> */}
           </div>
           <div className={styles.textarea_container_second}>
             <div className={styles.flag_button}>
@@ -97,7 +100,7 @@ export default function HomePage() {
                   </button>
                 ))}
               </div>
-              <div className={styles.suggestions_list}>
+              <div>
                 <div className={styles.suggestions_list}>
                   {esperar ? (
                     <div>aguarde...</div>
@@ -143,6 +146,9 @@ export default function HomePage() {
                     </>
                   )}
                 </div>
+              </div>
+              <div className={styles.suggestion_description}>
+                <div></div>
               </div>
             </div>
           </div>
