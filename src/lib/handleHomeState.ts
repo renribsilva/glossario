@@ -123,7 +123,10 @@ export function handleHomeState() {
   const handleSuggestionClick = (input: "s"|"c"|"e") => {
     setMethod(input);
     setActiveSug(input);
-    setEsperar(true)
+    // if (esperar === false) {
+    //   return
+    // }
+    // setEsperar(true)
   };
 
   const handleFlagsClick = (input: string) => {
@@ -181,7 +184,7 @@ export function handleHomeState() {
         (input.length >= 3 || inputNorm.length >= 3)
       ) {
         setEsperar(true)
-        setIsSugDisabled(true)
+        setIsSugDisabled(false)
         if (method === null) {
           setMethod("e");
         }
@@ -193,11 +196,11 @@ export function handleHomeState() {
         setptBRExtendedE(ptBRDataE);
         if (ptBRDataE?.length > 0 || ptBRDataS?.length > 0 || ptBRDataC?.length > 0) {
           setActiveSug(method)
-          setIsSugDisabled(false);
+          // setIsSugDisabled(false);
         }
         if (ptBRDataE?.length === 0 && ptBRDataS?.length === 0 && ptBRDataC?.length === 0) {
           setActiveSug(method)
-          setIsSugDisabled(true);
+          // setIsSugDisabled(true);
         }
         const silabas = await fetchHifenizador(input)
         setSilaba(silabas.word.replace(/-/g, "·"))

@@ -103,12 +103,12 @@ export default function HomePage() {
                     <div>aguarde...</div>
                   ) : (
                     <>
-                      {!esperar && isSugDisabled && inputNorm && inputNorm.length < 3 && (
+                      {!esperar && inputNorm && inputNorm.length < 3 && (
                         <div>
                           <i>Sugestões para palavras com três letras ou mais</i>
                         </div>
                       )}
-                      {!esperar && isSugDisabled && (inputNorm === '' || inputNorm === undefined) && (
+                      {!esperar && (inputNorm === '' || inputNorm === undefined) && (
                         <div>
                           Digite o texto para ver palavras que contêm a última palavra digitada
                         </div>
@@ -122,7 +122,7 @@ export default function HomePage() {
                         const label = {
                           s: "palavras que começam com",
                           c: "palavras que contêm",
-                          e: "palavras que começam com",
+                          e: "palavras que terminam em",
                         }[type];
                         if (!esperar && activeSug !== type) return null;
                         if (!esperar && suggestions && suggestions.length > 0) {
