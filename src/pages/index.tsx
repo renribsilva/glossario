@@ -50,14 +50,14 @@ export default function HomePage() {
         <div className={styles.textarea_container}>
           <div className={styles.textarea_container_first}>
             <div className={styles.silaba}>
-              {inputNorm === undefined ? (
+              {inputNorm === undefined || inputNorm === '' ? (
                 <div>glos·sá·rio</div>
               ) : (
-                esperar && lastHifenized !== inputNorm && inputNorm === '' ? (
+                esperar || silaba?.replace("·","") !== inputNorm ? (
                 <div>. . .</div>
               ) : (
                 <>
-                  {silaba && (
+                  {silaba && silaba?.replace("·","") === inputNorm && (
                     <div>{silaba}</div>
                   )}
                 </>
