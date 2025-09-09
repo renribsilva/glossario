@@ -145,10 +145,10 @@ export function hifenizador(word: string, rawPatterns: string[]) {
       .replace(/^-+|-+$/g, '')
       .replace(/-{2,}/g, '-');
 
-    console.log("Palavra reconstruída:", reconstructed); 
+    // console.log("Palavra reconstruída:", reconstructed); 
   }
 
-  // return { getWord: getWord, word: reconstructed };
+  return { getWord: getWord, word: reconstructed };
 
 }
 
