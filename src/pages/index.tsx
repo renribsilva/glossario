@@ -30,7 +30,6 @@ export default function HomePage() {
     activeFlag,
     silaba,
     esperar,
-    lastHifenized,
     handleInputChange,
     handleKeyDown,
     handleAnalogClick,
@@ -41,9 +40,6 @@ export default function HomePage() {
     handleFlagsClick
   } = handleHomeState();
 
-  console.log(inputNorm)
-  console.log(lastHifenized)
-
   return (
     <section className={styles.home}>
       <section className={styles.home_left}>
@@ -53,11 +49,11 @@ export default function HomePage() {
               {inputNorm === undefined || inputNorm === '' ? (
                 <div>glos·sá·rio</div>
               ) : (
-                esperar || silaba?.replace("·","") !== inputNorm ? (
+                (inputNorm.length < 3 || silaba?.replace(/·/g,"") !== input) ? (
                 <div>. . .</div>
               ) : (
                 <>
-                  {silaba && silaba?.replace("·","") === inputNorm && (
+                  {silaba && (
                     <div>{silaba}</div>
                   )}
                 </>
