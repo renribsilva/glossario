@@ -219,6 +219,8 @@ export function handleHomeState() {
     if (inputNorm === undefined || inputNorm === '') {
       sethasInput(false);
       setShowGlosaDef(false);
+      setIsSugDisabled(true)
+      setActiveSug(null)
     } else {
       sethasInput(true);
     }
