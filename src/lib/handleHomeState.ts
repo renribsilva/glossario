@@ -216,7 +216,7 @@ export function handleHomeState() {
 
   useEffect(() => {
 
-    if (inputNorm === undefined) {
+    if (inputNorm === undefined || inputNorm === '') {
       sethasInput(false);
       setShowGlosaDef(false);
     } else {

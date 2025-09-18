@@ -283,7 +283,7 @@ export default function HomePage() {
             </div>
             <div className={styles.analog_groups}>
               <div className={styles.analog_groups_1}>
-                {!hasInput && (
+                {!hasInput && inputNorm === "" && (
                   <p>Aqui são listados os grupos analógicos para cada palavra digitada</p>
                 )}
                 {hasInput && analogKeyData === null && (
