@@ -5,7 +5,7 @@ import { ni } from "./normalizedEntry";
 
 export function getGlosaEntries(inputValue: string, inputFullText: string) {
   const entries: GlosaEntry[] = [];
-  const regex = new RegExp(`(^|\\s)${inputValue}($|\\s)`, "i");
+  const regex = new RegExp(`(^|\\s+)${inputValue}($|\\s+)`, "i");
 
   for (const [chave, valor] of Object.entries(Glossario)) {
     if (regex.test(ni(chave))) {
