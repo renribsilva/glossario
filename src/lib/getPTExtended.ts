@@ -103,16 +103,12 @@ export function getPTExtended(
       }
     }
   }
-
-  // Converte para array, embaralha e armazena no cache
   const resultArray = Array.from(resultSet);
   const shuffledResults = shuffleArray(resultArray);
   cache.set(cacheKey, shuffledResults);
   // console.log(shuffledResults);
   return shuffledResults;
 }
-
-// Função para embaralhar o array
 const shuffleArray = (array: string[]): string[] => {
   return array.slice().sort((a, b) => a.length - b.length);
 };
