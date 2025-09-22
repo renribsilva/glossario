@@ -1,6 +1,5 @@
-import React, { useEffect, useRef, useState } from "react";
 import styles from "../styles/index.module.css";
-import { handleHomeState } from "../lib/handleHomeState";
+import { handleHomeState } from "../lib/flowOfReact";
 
 export default function HomePage() {
 

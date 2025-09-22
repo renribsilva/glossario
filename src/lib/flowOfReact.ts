@@ -1,9 +1,9 @@
 import { useState, useEffect, useRef } from "react";
-import { ni } from "../lib/normalizedEntry";
+import { ni } from "./normalizedEntry";
 import { GlosaEntry, GlosaData, SinData, AnalogData } from "../types";
-import { getGlosaEntries, getGlosaData } from "../lib/getGlosaData";
-import { getAnalogKeyData, getAnalogData } from "../lib/getAnalogData";
-import { getSynonymsKeysData } from "../lib/getSynonymData";
+import { getGlosaEntries, getGlosaData } from "./getGlosaData";
+import { getAnalogKeyData, getAnalogData } from "./getAnalogData";
+import { getSynonymsKeysData } from "./getSynonymData";
 
 export function handleHomeState() {
   const [input, setInput] = useState<string | undefined>(undefined);
