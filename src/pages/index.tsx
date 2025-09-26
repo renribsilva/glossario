@@ -72,82 +72,84 @@ export default function HomePage() {
             </div> */}
           </div>
           <div className={styles.textarea_container_second}>
-            <div className={styles.flag_button}>
-              {flags.map((item, index) => (
-                <button 
-                  key={item}
-                  className={`${styles.flag_button_child} ${activeFlag === item ? styles.active : styles.inactive}`}
-                  onClick={() => handleFlagsClick(item)}
-                  title={item}
-                  disabled={isSugDisabled}
-                >
-                  {String(index+1)}
-                </button>
-              ))}
+            <div className={styles.suggestion_description}>
+              <div>Sugestões de palavras</div>
             </div>
-            <div className={styles.suggestions}>
-              <div className={styles.suggestions_button}>
-                {methods.map((item: "s" | "c" | "e") => (
+            <div className={styles.suggestion_box}>
+              <div className={styles.flag_button}>
+                {flags.map((item, index) => (
                   <button 
                     key={item}
-                    className={`${styles.suggestions_button_child} ${activeSug === item ? styles.active : styles.inactive}`}
-                    onClick={() => handleSuggestionClick(item)}
+                    className={`${styles.flag_button_child} ${activeFlag === item ? styles.active : styles.inactive}`}
+                    onClick={() => handleFlagsClick(item)}
                     title={item}
                     disabled={isSugDisabled}
                   >
-                    {item}
+                    {String(index+1)}
                   </button>
                 ))}
               </div>
-              <div>
-                <div className={styles.suggestions_list}>
-                  {esperar ? (
-                    <div>aguarde...</div>
-                  ) : (
-                    <>
-                      {!esperar && inputNorm && inputNorm.length < 3 && (
-                        <div>
-                          <i>Sugestões para palavras com três letras ou mais</i>
-                        </div>
-                      )}
-                      {!esperar && (inputNorm === '' || inputNorm === undefined) && (
-                        <div>
-                          Digite o texto para ver palavras que contêm a última unidade digitada
-                        </div>
-                      )}
-                      {inputNorm && inputNorm.length >= 3 && ["s", "c", "e"].map((type) => {
-                        const suggestions = {
-                          s: ptBRExtendedS,
-                          c: ptBRExtendedC,
-                          e: ptBRExtendedE,
-                        }[type];
-                        const label = {
-                          s: "palavras que começam com",
-                          c: "palavras que contêm",
-                          e: "palavras que terminam em",
-                        }[type];
-                        if (!esperar && activeSug !== type) return null;
-                        if (!esperar && suggestions && suggestions.length > 0) {
-                          return suggestions.map((entry, index) => (
-                            <div key={index}>{entry}</div>
-                          ));
-                        }
-                        return (
-                          <div key={type}>
-                            <span>Sem sugestões para {label} </span>
-                            <i>{input}</i>
-                            {!esperar && activeFlag !== null && (
-                              <span> na flag <i>{activeFlag}</i></span>
-                            )}
-                          </div>
-                        );
-                      })}
-                    </>
-                  )}
+              <div className={styles.suggestions}>
+                <div className={styles.suggestions_button}>
+                  {methods.map((item: "s" | "c" | "e") => (
+                    <button 
+                      key={item}
+                      className={`${styles.suggestions_button_child} ${activeSug === item ? styles.active : styles.inactive}`}
+                      onClick={() => handleSuggestionClick(item)}
+                      title={item}
+                      disabled={isSugDisabled}
+                    >
+                      {item}
+                    </button>
+                  ))}
                 </div>
-              </div>
-              <div className={styles.suggestion_description}>
-                <div></div>
+                <div>
+                  <div className={styles.suggestions_list}>
+                    {esperar ? (
+                      <div>aguarde...</div>
+                    ) : (
+                      <>
+                        {!esperar && inputNorm && inputNorm.length < 3 && (
+                          <div>
+                            <i>Sugestões para palavras com três letras ou mais</i>
+                          </div>
+                        )}
+                        {!esperar && (inputNorm === '' || inputNorm === undefined) && (
+                          <div>
+                            Digite o texto para ver palavras que contêm a última unidade digitada
+                          </div>
+                        )}
+                        {inputNorm && inputNorm.length >= 3 && ["s", "c", "e"].map((type) => {
+                          const suggestions = {
+                            s: ptBRExtendedS,
+                            c: ptBRExtendedC,
+                            e: ptBRExtendedE,
+                          }[type];
+                          const label = {
+                            s: "palavras que começam com",
+                            c: "palavras que contêm",
+                            e: "palavras que terminam em",
+                          }[type];
+                          if (!esperar && activeSug !== type) return null;
+                          if (!esperar && suggestions && suggestions.length > 0) {
+                            return suggestions.map((entry, index) => (
+                              <div key={index}>{entry}</div>
+                            ));
+                          }
+                          return (
+                            <div key={type}>
+                              <span>Sem sugestões para {label} </span>
+                              <i>{input}</i>
+                              {!esperar && activeFlag !== null && (
+                                <span> na flag <i>{activeFlag}</i></span>
+                              )}
+                            </div>
+                          );
+                        })}
+                      </>
+                    )}
+                  </div>
+                </div>
               </div>
             </div>
           </div>

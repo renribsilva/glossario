@@ -50,6 +50,7 @@
 .textarea_container_second {
   /* background-color: blue; */
   display: flex;
+  flex-direction: column;
   flex:1;
 }
 
@@ -79,17 +80,39 @@
   width: 100%;
 }
 
+/*SUGGESTION_CONTAINER*/
+
+.suggestion_box {
+  /* background-color:blueviolet; */
+  display:flex;
+  flex-direction: row;
+}
+
+/*SUGGESTION_DESCRIPTION*/
+
+.suggestion_description {
+  /* background-color: aqua; */
+  height: 45px;
+  margin: 5px;
+  margin-left: 0px;
+  display: flex;
+  align-items: center;
+  justify-items: left;
+  font-weight: 400;
+}
+
 /*FLAGS*/
 
 .flag_button {
   /* background-color: aqua; */
-  margin-top: 55px;
+  margin-top: 40px;
   margin-right: 10px;
   min-width: 40px;
   height: 180px;
   display: flex;
   flex-direction: column;
   gap: 5px;
+  flex:1
 }
 
 .flag_button button {
@@ -126,28 +149,29 @@
   .suggestions {
     max-width: 160px;
     min-width: 160px;
-    flex: 1;
+    /* flex: 1; */
   }
 }
 
 .suggestions_list {
   /* background-color: aqua; */
-  padding: 5px;
+  /* padding: 5px; */
+  margin-top: 10px;
   margin-right: 5px;
-  min-height: 160px;
-  max-height: 160px;
+  min-height: 170px;
+  max-height: 170px;
   overflow: auto;
 }
 
 .suggestions_button {
   /* background-color:aqua; */
   display: flex;
-  height: 55px;
+  /* height: 55px; */
   justify-content:space-between;
   align-items: center;
   min-width: 110px;
   max-width: 120px;
-  gap:5px
+  gap:5px;
 }
 
 .suggestions_button button {
@@ -175,13 +199,6 @@
 
 .suggestions_button_child.inactive {
   background-color: var(--panels)
-}
-
-.suggestion_description {
-  /* background-color: aqua; */
-  height: 35px;
-  margin: 5px;
-  margin-left: 0px;
 }
 
 /*GLOSSÁRIO CONTAINER*/
