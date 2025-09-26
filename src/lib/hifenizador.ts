@@ -2,10 +2,20 @@ import fs from 'fs'
 import path from 'path'
 
 const hyph_path = path.join(process.cwd(), 'public', 'hyph_pt_BR.dic')
-const rawPatterns = fs.readFileSync(hyph_path, 'utf-8')
+const my_hyph_path = path.join(process.cwd(), 'public', 'my_hyph.dic')
+
+const myRules = fs.readFileSync(my_hyph_path, 'utf-8')
+  .split(/\r?\n/)
+  .map(line => line.trim())
+const libreRules = fs.readFileSync(hyph_path, 'utf-8')
   .split(/\r?\n/)
   .map(line => line.trim())
   .filter(line => line.length > 0 && !line.match("UTF-8") && !line.match("4'4"));
+
+const rawPatterns = Array.from(new Set([
+  ...myRules,
+  ...libreRules
+]));
 
 export function hifenizador(word: string, rawPatterns: string[]) {
 
@@ -128,10 +138,10 @@ export function hifenizador(word: string, rawPatterns: string[]) {
     matrix.push(maxRow.map((v, col) => 
       v === Number.NEGATIVE_INFINITY ? matrix[0][col] : v.toString()));
 
-    // console.log("Matriz final:");
-    // matrix.forEach(row => {
-    //   console.log(row.map(v => (v === null ? '.' : v)).join(' '));
-    // });
+    console.log("Matriz final:");
+    matrix.forEach(row => {
+      console.log(row.map(v => (v === null ? '.' : v)).join(' '));
+    });
 
     const lastRow = matrix[matrix.length - 1];
 
@@ -145,7 +155,7 @@ export function hifenizador(word: string, rawPatterns: string[]) {
       .replace(/^-+|-+$/g, '')
       .replace(/-{2,}/g, '-');
 
-    // console.log("Palavra reconstruída:", reconstructed); 
+    console.log("Palavra reconstruída:", reconstructed); 
   }
 
   return { getWord: getWord, word: reconstructed };
@@ -153,4 +163,4 @@ export function hifenizador(word: string, rawPatterns: string[]) {
 }
 
 // Exemplo
-// hifenizador("glossário", rawPatterns);
+hifenizador("compreender", rawPatterns);
