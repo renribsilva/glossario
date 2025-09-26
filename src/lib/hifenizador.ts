@@ -12,12 +12,12 @@ const libreRules = fs.readFileSync(hyph_path, 'utf-8')
   .map(line => line.trim())
   .filter(line => line.length > 0 && !line.match("UTF-8") && !line.match("4'4"));
 
-const rawPatterns = Array.from(new Set([
+const allPatterns = Array.from(new Set([
   ...myRules,
   ...libreRules
 ]));
 
-export function hifenizador(word: string, rawPatterns: string[]) {
+export function hifenizador(word: string, allPatterns: string[]) {
 
   let getWord = false
   let reconstructed = ''
@@ -36,7 +36,7 @@ export function hifenizador(word: string, rawPatterns: string[]) {
   for (let size = 1; size <= w1.length; size++) {
     for (let start = 0; start <= w1.length - size; start++) {
       const segment = w1.slice(start, start + size);
-      rawPatterns.forEach(p => {
+      allPatterns.forEach(p => {
         if (p?.replace(/\d+/g, '') === segment) {
           matches.push({
             pattern: segment,
@@ -163,4 +163,4 @@ export function hifenizador(word: string, rawPatterns: string[]) {
 }
 
 // Exemplo
-hifenizador("compreender", rawPatterns);
+hifenizador("compreender", allPatterns);
