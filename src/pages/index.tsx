@@ -264,8 +264,8 @@ export default function HomePage() {
             </div>
             <div className={styles.glossario_container_second}>
               <div className={styles.glossario_title}>
-                <strong>Glosa de </strong>
-                <span><strong>&quot;{glosaData.original}&quot;</strong></span>
+                <strong>Glosa</strong>
+                {(hasInput && showGlosaDef) && <span><strong>&nbsp;de &quot;{glosaData.original}&quot;</strong></span>}
               </div>
               <div className={styles.definitions_panel}>
                 {hasInput && !showGlosaDef && glosaEntries.length !== 0 && (
