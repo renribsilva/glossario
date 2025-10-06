@@ -3,18 +3,26 @@
 /************************************************/
 
 .navbar {
+  /* background-color: aqua; */
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 
-.silaba {
+.navbar_left {
   /* background-color: var(--grid); */
   height: 40px;
   display: flex;
   align-items: center;
   font-size: 30px;
   padding: 5px;
+}
+
+.navbar_right  {
+  /* background-color: aqua; */
+  display: flex;
+  align-items: center;
+  gap: 10px;
 }
 
 /*************************************************/

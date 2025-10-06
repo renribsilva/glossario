@@ -1,6 +1,7 @@
 import styles from "../styles/index.module.css";
 import { handleHomeState } from "../lib/flowOfReact";
 import Theme from "../components/theme";
+import InstallPWA from "../components/install";
 
 export default function HomePage() {
 
@@ -43,7 +44,7 @@ export default function HomePage() {
   return (
     <div>
       <section className={styles.navbar}>
-        <div className={styles.silaba}>
+        <div className={styles.navbar_left}>
           {inputNorm === undefined || inputNorm === '' ? (
             <div>glos·sá·rio</div>
           ) : (
@@ -58,7 +59,8 @@ export default function HomePage() {
           )
           )}
         </div>
-        <div>
+        <div className={styles.navbar_right}>
+          <InstallPWA/>
           <Theme/>
         </div>
       </section>
