@@ -48,6 +48,13 @@
   gap: 5px
 }
 
+@media (max-width: 800px) {
+  .grid_container {
+    grid-template-columns: 1fr; /* uma coluna */
+    grid-template-rows: repeat(4, 300px); /* quatro linhas fixas */
+  }
+}
+
 /*************************************************/
 /**********************[1, 1]*********************/
 /*************************************************/
