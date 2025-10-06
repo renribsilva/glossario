@@ -257,7 +257,7 @@
 
 .definitions_panel {
   background-color: var(--panels);
-  width: 100%;
+  width: 97%;
   flex:1;
   min-height: 0; 
   overflow-y: auto;
