@@ -1,5 +1,6 @@
 import styles from "../styles/index.module.css";
 import { handleHomeState } from "../lib/flowOfReact";
+import Theme from "../components/theme";
 
 export default function HomePage() {
 
@@ -56,6 +57,9 @@ export default function HomePage() {
             </>
           )
           )}
+        </div>
+        <div>
+          <Theme/>
         </div>
       </section>
       <section className={styles.grid_container}>
@@ -349,7 +353,7 @@ export default function HomePage() {
                       return (
                         <button
                           key={list}
-                          className={`${styles.analog_button_child} ${activeList === list ? styles.active : styles.inactive}`}
+                          className={`${styles.analog_button_child} ${(activeList === list && hasInput && showAnalogDef) ? styles.active : styles.inactive}`}
                           onClick={() => handleNavbarClick(list)}
                           disabled={!hasInput || !showAnalogDef}
                         >
