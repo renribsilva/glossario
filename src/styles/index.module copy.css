@@ -1,0 +1,565 @@
+/*********************************************/
+/*******************HOME**********************/
+/*********************************************/
+
+.home {
+  /* background-color: brown; */
+  display: flex;
+  gap: 5px
+}
+
+@media (max-width: 700px) {
+  .home {
+    flex-direction: column;
+  }
+}
+
+/***************************************************/
+/********************HOME LEFT**********************/
+/***************************************************/
+
+.home_left {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  flex:1
+}
+
+/*TEXTAREA CONTAINER*/
+
+.textarea_container {
+  background-color: var(--background);
+  display: flex;
+  gap: 5px;
+}
+
+@media (max-width: 700px) {
+  .textarea_container {
+    display: block;
+  }
+}
+
+
+.textarea_container_first{
+  /* background-color: aqua; */
+  display: flex;
+  flex-direction: column;
+  flex:2;
+}
+
+.textarea_container_second {
+  /* background-color: blue; */
+  display: flex;
+  flex-direction: column;
+  flex:1;
+}
+
+.silaba {
+  /* background-color: var(--panels); */
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+}
+
+.textarea {
+  background-color:var(--background);
+  border: none;
+  font-size: 16px;
+  min-height: 210px;
+  max-height: 210px;
+  font-family: "Ubuntu";
+  font-weight: 300;
+  font-size: 14px;
+  min-width: 180px;
+  padding: 20px;
+  margin: 0;
+  box-sizing: border-box;
+  flex: 2;
+  width: 100%;
+}
+
+/*SUGGESTION_CONTAINER*/
+
+.suggestion_box {
+  /* background-color:blueviolet; */
+  display:flex;
+  flex-direction: row;
+  padding-left: 10px;
+}
+
+/*SUGGESTION_DESCRIPTION*/
+
+.suggestion_description {
+  /* background-color: aqua; */
+  height: 45px;
+  margin: 5px;
+  margin-left: 0px;
+  display: flex;
+  align-items: center;
+  justify-items: left;
+  font-weight: 400;
+  padding-left: 10px;
+}
+
+/*FLAGS*/
+
+.flag_button {
+  /* background-color: aqua; */
+  margin-top: 40px;
+  margin-right: 10px;
+  min-width: 40px;
+  max-width: 40px;
+  /* height: 180px; */
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  flex:1
+}
+
+.flag_button button {
+  background-color: var(--panels);
+  border: none;
+  height: 30px;
+}
+
+.flag_button :hover, .suggestions_button :hover {
+  background-color: var(--button) !important;
+  color:var(--background)!important;
+  cursor: pointer;
+}
+
+.flag_button_child.active {
+  background-color: var(--button) !important;
+  color:var(--background)!important;
+}
+
+.flag_button_child.inactive {
+  background-color: var(--panels)
+}
+
+/*SUGGESTIONS*/
+
+.suggestions {
+  background-color:var(--background);
+  max-width: 200px;
+  min-width: 200px;
+  flex: 2;
+}
+
+@media (max-width: 700px) {
+  .suggestions {
+    max-width: 100%;
+    min-width: 160px;
+    /* flex: 1; */
+  }
+}
+
+.suggestions_list {
+  /* background-color: aqua; */
+  /* padding: 5px; */
+  margin-top: 10px;
+  margin-right: 5px;
+  min-height: 170px;
+  max-height: 170px;
+  overflow: auto;
+}
+
+.suggestions_button {
+  /* background-color:aqua; */
+  display: flex;
+  /* height: 55px; */
+  justify-content:space-between;
+  align-items: center;
+  min-width: 110px;
+  max-width: 120px;
+  gap:5px;
+}
+
+.suggestions_button button {
+  background-color: var(--panels);
+  width: 50px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Ubuntu";
+  font-weight: 400;
+  border: none;
+}
+
+.suggestions_button :hover{
+  background-color: var(--button) !important;
+  color:var(--background)!important;
+  cursor: pointer;
+}
+
+.suggestions_button_child.active {
+  background-color: var(--button) !important;
+  color:var(--background)!important;
+}
+
+.suggestions_button_child.inactive {
+  background-color: var(--panels)
+}
+
+/*GLOSSÁRIO CONTAINER*/
+
+.glossario_container {
+  background-color: var(--background);
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.glossario_title {
+  /* background-color: aquamarine; */
+  height: 30px;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+}
+
+.glossario_content {
+  background: var(--background);
+  display: flex;
+  gap: 5px;
+}
+
+@media (max-width: 700px) {
+  .glossario_content {
+    flex-direction: column;
+    height: 500px;
+  }
+}
+
+.glossario_content p {
+  margin: 0;
+}
+
+/*EXPRESSIONS CONTAINER*/
+
+.expressions_container {
+  /* background-color:aquamarine; */
+  height: 260px;
+  overflow: auto;
+  flex:1;
+  padding: 5px;
+  max-width: 250px;
+  min-width: 150px;
+}
+
+@media (max-width: 700px) {
+  .expressions_container {
+    max-width: 100%;
+  }
+}
+
+.button {
+  background-color: var(--background);
+  border: none;
+  height: 20px;
+  font-size: 14px;
+  font-family: "Ubuntu";
+  font-weight: 300;
+  cursor: pointer;
+  text-align: left;
+  padding: 0;
+  display: block;
+  max-width: 100%;
+  overflow: hidden;
+  white-space: nowrap; 
+  text-overflow: ellipsis;
+}
+
+/*DEFINITIONS CONTAINER*/
+
+.definitions_container {
+  background-color:var(--background);
+  flex:1.4;
+}
+
+.definitions_panel {
+  background-color:var(--panels);
+  max-width: 350px;
+  min-width: 150px;
+  height: 260px;
+  overflow: auto;
+  padding: 5px;
+}
+
+@media (max-width: 700px) {
+  .definitions_panel {
+    max-width: 100%;
+  }
+}
+
+.definitions_panel p {
+  margin: 0;
+}
+
+.definitions_title, .definitions_dicio {
+  margin-bottom: 10px;
+}
+
+/****************************************************/
+/********************HOME RIGTH**********************/
+/****************************************************/
+
+.home_rigth {
+  /* background-color: aquamarine; */
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  flex:1.1
+}
+
+/*ANALOG CONTAINER*/
+
+.analog_container {
+  background-color: var(--background);
+  display: flex;
+  gap: 5px;
+  padding: 5px;
+}
+
+.analog_container_1 {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  gap: 5px;
+}
+
+.analog_container_2 {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  gap: 5px;
+}
+
+@media (max-width: 700px) {
+  .analog_container {
+    flex-direction: column;
+    height: max-content;
+  }
+}
+
+.analog_header {
+  display: flex;
+  height: 40;
+}
+
+.analog_header_1{
+  /* background-color: aquamarine; */
+  flex: 2;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  height: 30px;
+  min-width: 80px;
+}
+
+.analog_header_2{
+  /* background-color: aquamarine; */
+  flex: 2;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  height: 30px;
+  min-width: 80px;
+}
+
+.analog_header_3{
+  /* background-color: aquamarine; */
+  flex: 4;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  height: 30px;
+  min-width: 250px;
+}
+
+@media (max-width: 700px) {
+  .analog_header_3 {
+    margin-top: 10px;
+  }
+}
+
+.analog_navbar {
+  background-color: var(--background);
+  border: 0px;
+  height: 20px;
+  cursor: pointer !important;
+  width: 35px !important;
+  font-family: "Ubuntu";
+  font-weight: 450;
+  font-size: 14px;
+  text-align: center;
+  margin-inline: 5px;
+}
+
+.analog_navbar.active {
+  text-decoration-line:underline !important;
+}
+
+.analog_groups {
+  display: flex;
+  gap: 5px;
+  height: 270px;
+}
+
+.analog_groups_1 {
+  /* background-color: aquamarine; */
+  flex: 2;
+  padding: 5px;
+  overflow: auto;
+  max-width: 150px;
+  min-width: 80px;
+}
+
+.analog_groups_1 p {
+  margin: 0;
+}
+
+.analog_groups_2 {
+  background-color: var(--panels);
+  flex: 2;
+  padding: 5px;
+  overflow: auto;
+  min-width: 80px;
+}
+
+.analog_groups_2 p {
+  margin: 0;
+}
+
+.analog_groups_3 {
+  background-color:var(--panels);
+  flex:4;
+  padding: 5px;
+  overflow: auto;
+  min-width: 250px;
+}
+
+.analog_groups_3 > div > div{
+  max-width: 300px;
+  overflow: auto;
+  white-space: nowrap; 
+  text-overflow: ellipsis;
+}
+
+/*SYNONYM CONTAINER*/
+
+.synonym_container {
+  background-color: var(--background);
+  display: flex;
+  gap: 5px;
+  padding: 5px;
+}
+
+.synonym_container_1 {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  gap: 5px;
+}
+
+.synonym_container_2 {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  gap: 5px;
+}
+
+@media (max-width: 700px) {
+  .synonym_container {
+    flex-direction: column;
+    height: max-content;
+  }
+}
+
+.synonym_header {
+  display: flex;
+  height: 40px;
+}
+
+.synonym_header_1{
+  /* background-color: aquamarine; */
+  flex: 2;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  height: 30px;
+  min-width: 80px;
+  min-width: 80px;
+}
+
+.synonym_header_2{
+  /* background-color: aquamarine; */
+  flex: 2;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  height: 30px;
+}
+
+.synonym_header_3{
+  /* background-color: aquamarine; */
+  flex: 4;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  height: 30px;
+  min-width: 250px;
+}
+
+.synonym_groups {
+  display: flex;
+  gap: 5px;
+  height: 215px;
+}
+
+.synonym_groups_1 {
+  /* background-color:aquamarine; */
+  flex:2;
+  padding: 5px;
+  overflow: auto;
+  max-width: 150px;
+  min-width: 80px;
+}
+
+.synonym_groups_1 p {
+  margin: 0;
+}
+
+.synonym_groups_2 {
+  background-color:var(--panels);
+  flex:2;
+  padding: 5px;
+  overflow: auto;
+  min-width: 80px;
+}
+
+.synonym_groups_2 p {
+  margin: 0;
+}
+
+.synonym_groups_2 > div {
+  max-width: 100%;
+  overflow: hidden;
+  white-space: nowrap; 
+  text-overflow: ellipsis;
+}
+
+.synonym_groups_3 {
+  background-color:var(--panels);
+  flex:4;
+  padding: 5px;
+  overflow: auto;
+  min-width: 250px;
+}
+
+
+

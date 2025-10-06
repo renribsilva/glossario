@@ -1,191 +1,159 @@
-/*********************************************/
-/*******************HOME**********************/
-/*********************************************/
+/************************************************/
+/********************NAVBAR**********************/
+/************************************************/
 
-.home {
-  /* background-color: brown; */
+.silaba {
+  /* background-color: var(--panels); */
+  height: 40px;
+  display: flex;
+  align-items: center;
+  font-size: 30px;
+  padding: 5px;
+}
+
+/*************************************************/
+/*****************GRID_CONTAINER******************/
+/*************************************************/
+
+.grid_container {
+  /* background-color: #4CAF50; */
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* 2 colunas de tamanho igual */
+  grid-template-rows: 1fr 1fr;    /* 2 linhas de tamanho igual */
+  gap: 5px;
+  width: 100%;
+  height: calc(100svh - 70px)
+  /* margin: 50px auto; */
+}
+
+.grid_item {
+  background-color:var(--background);
+  /* garante que o conteúdo não expanda a célula */
+  overflow: hidden;
   display: flex;
   gap: 5px
 }
 
-@media (max-width: 700px) {
-  .home {
-    flex-direction: column;
-  }
-}
+/*************************************************/
+/**********************[1, 1]*********************/
+/*************************************************/
 
-/***************************************************/
-/********************HOME LEFT**********************/
-/***************************************************/
+/******************LADO ESQUERDO******************/
 
-.home_left {
+.textarea_container_first {
+  /* background-color: brown; */
+  flex: 1;       /* ocupa o espaço disponível */
+  min-height: 0; /* essencial para overflow em flex funcionar */
   display: flex;
   flex-direction: column;
-  gap: 5px;
-  flex:1
+  padding: 5px;
 }
-
-/*TEXTAREA CONTAINER*/
 
 .textarea_container {
-  background-color: var(--background);
-  display: flex;
-  gap: 5px;
-}
-
-@media (max-width: 700px) {
-  .textarea_container {
-    display: block;
-  }
-}
-
-
-.textarea_container_first{
-  /* background-color: aqua; */
-  display: flex;
-  flex-direction: column;
-  flex:2;
-}
-
-.textarea_container_second {
-  /* background-color: blue; */
-  display: flex;
-  flex-direction: column;
-  flex:1;
-}
-
-.silaba {
-  /* background-color: var(--panels); */
-  height: 60px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 30px;
-}
-
-.textarea {
-  background-color:var(--background);
-  border: none;
-  font-size: 16px;
-  min-height: 210px;
-  max-height: 210px;
-  font-family: "Ubuntu";
-  font-weight: 300;
-  font-size: 14px;
-  min-width: 180px;
-  padding: 20px;
-  margin: 0;
-  box-sizing: border-box;
-  flex: 2;
+  height: 100%;
   width: 100%;
 }
 
-/*SUGGESTION_CONTAINER*/
-
-.suggestion_box {
-  /* background-color:blueviolet; */
-  display:flex;
-  flex-direction: row;
-  padding-left: 10px;
+.textarea {
+  background-color: var(--background);
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  outline: none;
+  resize: none;
+  padding: 5px;
+  padding-top: 15px;
+  font-family: "Ubuntu";
+  font-weight: 300;
+  font-size: 14px;
+  border: none;
 }
 
-/*SUGGESTION_DESCRIPTION*/
+/******************LADO DIREITO******************/
 
-.suggestion_description {
-  /* background-color: aqua; */
-  height: 45px;
-  margin: 5px;
-  margin-left: 0px;
+.textarea_container_second {
+  /* background-color: brown; */
+  flex: 1;       /* ocupa o espaço disponível */
+  min-height: 0; /* essencial para overflow em flex funcionar */
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+}
+
+/*PARTE SUPERIOR*/
+
+.suggestion_title {
+  /* background-color: rgb(64, 156, 126); */
+  height: 50px;
   display: flex;
   align-items: center;
   justify-items: left;
-  font-weight: 400;
-  padding-left: 10px;
 }
 
-/*FLAGS*/
+/*PARTE INFERIOR*/
 
-.flag_button {
-  /* background-color: aqua; */
-  margin-top: 40px;
-  margin-right: 10px;
-  min-width: 40px;
-  max-width: 40px;
-  /* height: 180px; */
+.suggestion_box {
+  background-color:var(--panels);
+  display: flex;
+  flex: 1;
+  min-height: 0; /* permite que os filhos façam overflow */
+  gap: 5px;
+  padding: 5px;
+}
+
+/*Lado esquerdo da PARTE INFERIOR*/
+
+.flag_box {
+  /* background-color: var(--background); */
   display: flex;
   flex-direction: column;
   gap: 5px;
-  flex:1
+  padding-top: 40px;
 }
 
-.flag_button button {
+.flag_box button {
   background-color: var(--panels);
   border: none;
   height: 30px;
+  width: 40px;
 }
 
-.flag_button :hover {
+.flag_box :hover {
   background-color: var(--button) !important;
   color:var(--background)!important;
   cursor: pointer;
 }
 
-.flag_button_child.active {
+.flag_box_child.active {
   background-color: var(--button) !important;
   color:var(--background)!important;
 }
 
-.flag_button_child.inactive {
+.flag_box_child.inactive {
   background-color: var(--panels)
 }
 
-/*SUGGESTIONS*/
+/*Lado direito da PARTE INFERIOR*/
 
-.suggestions {
-  background-color:var(--background);
-  max-width: 200px;
-  min-width: 200px;
-  flex: 2;
-}
-
-@media (max-width: 700px) {
-  .suggestions {
-    max-width: 100%;
-    min-width: 160px;
-    /* flex: 1; */
-  }
-}
-
-.suggestions_list {
-  /* background-color: aqua; */
-  /* padding: 5px; */
-  margin-top: 10px;
-  margin-right: 5px;
-  min-height: 170px;
-  max-height: 170px;
-  overflow: auto;
+.suggestion_list_box {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
 }
 
 .suggestions_button {
   /* background-color:aqua; */
   display: flex;
-  /* height: 55px; */
-  justify-content:space-between;
-  align-items: center;
-  min-width: 110px;
-  max-width: 120px;
-  gap:5px;
+  gap: 5px;
 }
 
 .suggestions_button button {
   background-color: var(--panels);
-  width: 50px;
   height: 30px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-family: "Ubuntu";
-  font-weight: 400;
+  width: 40px;
   border: none;
 }
 
@@ -204,60 +172,63 @@
   background-color: var(--panels)
 }
 
-/*GLOSSÁRIO CONTAINER*/
+.suggestions_list_container {
+  flex: 1;          /* ocupa todo o espaço restante do pai */
+  min-height: 0;    /* fundamental para overflow funcionar */
+  overflow-x: auto;
+  overflow-y: auto;
+  display: flex;
+}
 
-.glossario_container {
-  background-color: var(--background);
-  padding: 5px;
+.suggestions_list {
+  /* background-color: aqua; */
+  flex: 1;             /* ocupa todo o container */
+  min-height: 0;       /* garante scroll dentro do flex */
   display: flex;
   flex-direction: column;
+}
+
+/*************************************************/
+/**********************[2, 1]*********************/
+/*************************************************/
+
+.glossario_container {
+  /* background-color: blue; */
+  height: 100%;
+  display: flex;
+  width: 100%;
   gap: 5px;
+}
+
+/******************LADO ESQUERDO******************/
+
+.glossario_container_first {
+  flex: 1;       /* ocupa o espaço disponível */
+  min-height: 0; /* essencial para overflow em flex funcionar */
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
 }
 
 .glossario_title {
-  /* background-color: aquamarine; */
-  height: 30px;
+  /* background-color: rgb(64, 156, 126); */
+  height: 50px;
   display: flex;
   align-items: center;
-  padding: 5px;
 }
-
-.glossario_content {
-  background: var(--background);
-  display: flex;
-  gap: 5px;
-}
-
-@media (max-width: 700px) {
-  .glossario_content {
-    flex-direction: column;
-    height: 500px;
-  }
-}
-
-.glossario_content p {
-  margin: 0;
-}
-
-/*EXPRESSIONS CONTAINER*/
 
 .expressions_container {
-  /* background-color:aquamarine; */
-  height: 260px;
-  overflow: auto;
-  flex:1;
-  padding: 5px;
-  max-width: 250px;
-  min-width: 150px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;          /* ocupa todo o espaço restante do pai */
+  min-height: 0;    /* fundamental para overflow funcionar */
+  min-width: 0;
+  overflow-x: auto;
+  overflow-y: auto;
 }
 
-@media (max-width: 700px) {
-  .expressions_container {
-    max-width: 100%;
-  }
-}
-
-.button {
+.expression_itens {
   background-color: var(--background);
   border: none;
   height: 20px;
@@ -269,297 +240,285 @@
   padding: 0;
   display: block;
   max-width: 100%;
-  overflow: hidden;
+  overflow: auto;
   white-space: nowrap; 
   text-overflow: ellipsis;
 }
 
-/*DEFINITIONS CONTAINER*/
+/******************LADO DIREITO******************/
 
-.definitions_container {
-  background-color:var(--background);
-  flex:1.4;
+.glossario_container_second {
+  flex: 1;       /* ocupa o espaço disponível */
+  min-height: 0; /* essencial para overflow em flex funcionar */
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
 }
 
 .definitions_panel {
-  background-color:var(--panels);
-  max-width: 350px;
-  min-width: 150px;
-  height: 260px;
-  overflow: auto;
-  padding: 5px;
-}
-
-@media (max-width: 700px) {
-  .definitions_panel {
-    max-width: 100%;
-  }
-}
-
-.definitions_panel p {
-  margin: 0;
-}
-
-.definitions_title, .definitions_dicio {
-  margin-bottom: 10px;
-}
-
-/****************************************************/
-/********************HOME RIGTH**********************/
-/****************************************************/
-
-.home_rigth {
-  /* background-color: aquamarine; */
-  display: flex;
-  flex-direction: column;
-  gap: 5px;
-  flex:1.1
-}
-
-/*ANALOG CONTAINER*/
-
-.analog_container {
-  background-color: var(--background);
-  display: flex;
-  gap: 5px;
-  padding: 5px;
-}
-
-.analog_container_1 {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  gap: 5px;
-}
-
-.analog_container_2 {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  gap: 5px;
-}
-
-@media (max-width: 700px) {
-  .analog_container {
-    flex-direction: column;
-    height: max-content;
-  }
-}
-
-.analog_header {
-  display: flex;
-  height: 40;
-}
-
-.analog_header_1{
-  /* background-color: aquamarine; */
-  flex: 2;
-  display: flex;
-  align-items: center;
-  padding: 5px;
-  height: 30px;
-  min-width: 80px;
-}
-
-.analog_header_2{
-  /* background-color: aquamarine; */
-  flex: 2;
-  display: flex;
-  align-items: center;
-  padding: 5px;
-  height: 30px;
-  min-width: 80px;
-}
-
-.analog_header_3{
-  /* background-color: aquamarine; */
-  flex: 4;
-  display: flex;
-  align-items: center;
-  padding: 5px;
-  height: 30px;
-  min-width: 250px;
-}
-
-@media (max-width: 700px) {
-  .analog_header_3 {
-    margin-top: 10px;
-  }
-}
-
-.analog_navbar {
-  background-color: var(--background);
-  border: 0px;
-  height: 20px;
-  cursor: pointer !important;
-  width: 35px !important;
-  font-family: "Ubuntu";
-  font-weight: 450;
-  font-size: 14px;
-  text-align: center;
-  margin-inline: 5px;
-}
-
-.analog_navbar.active {
-  text-decoration-line:underline !important;
-}
-
-.analog_groups {
-  display: flex;
-  gap: 5px;
-  height: 270px;
-}
-
-.analog_groups_1 {
-  /* background-color: aquamarine; */
-  flex: 2;
-  padding: 5px;
-  overflow: auto;
-  max-width: 150px;
-  min-width: 80px;
-}
-
-.analog_groups_1 p {
-  margin: 0;
-}
-
-.analog_groups_2 {
   background-color: var(--panels);
-  flex: 2;
+  width: 100%;
+  flex:1;
+  min-height: 0; 
+  overflow-y: auto;
   padding: 5px;
-  overflow: auto;
-  min-width: 80px;
 }
 
-.analog_groups_2 p {
-  margin: 0;
-}
-
-.analog_groups_3 {
-  background-color:var(--panels);
-  flex:4;
-  padding: 5px;
-  overflow: auto;
-  min-width: 250px;
-}
-
-.analog_groups_3 > div > div{
-  max-width: 300px;
-  overflow: auto;
-  white-space: nowrap; 
-  text-overflow: ellipsis;
-}
-
-/*SYNONYM CONTAINER*/
+/*************************************************/
+/**********************[1, 2]*********************/
+/*************************************************/
 
 .synonym_container {
+  /* background-color: brown; */
+  height: 100%;
+  display: flex;
+  width: 100%;
+  gap: 5px;
+}
+
+.shared_synonym_title {
+  /* background-color: rgb(64, 156, 126); */
+  height: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.shared_synonym_div {
+  flex: 1;
+  min-height: 0; 
+  min-width: 0;
+  overflow: auto;
+  height: 100%;
+}
+
+.shared_synonym_itens {
+  /* background-color: var(--panels); */
+  flex: 1; 
+  min-height: 0; 
+  min-width: 0;
+  overflow: auto;
+  height: 95%;
+  padding: 5px;
+}
+
+/******************LADO ESQUERDO******************/
+
+.synonym_container_first {
+  /* background-color: blueviolet; */
+  flex: 1;       /* ocupa o espaço disponível */
+  min-height: 0; /* essencial para overflow em flex funcionar */
+  min-width: 0;
+  display: flex;
+  flex-direction: row;
+  padding: 5px;
+  gap: 5px;
+}
+
+/*LEFT*/
+
+.synonym_container_first_left {
+  /* background-color: blueviolet; */
+  flex: 1;       /* ocupa o espaço disponível */
+  min-height: 0; /* essencial para overflow em flex funcionar */
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.synonym_itens {
   background-color: var(--background);
-  display: flex;
-  gap: 5px;
-  padding: 5px;
-}
-
-.synonym_container_1 {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  gap: 5px;
-}
-
-.synonym_container_2 {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  gap: 5px;
-}
-
-@media (max-width: 700px) {
-  .synonym_container {
-    flex-direction: column;
-    height: max-content;
-  }
-}
-
-.synonym_header {
-  display: flex;
-  height: 40px;
-}
-
-.synonym_header_1{
-  /* background-color: aquamarine; */
-  flex: 2;
-  display: flex;
-  align-items: center;
-  padding: 5px;
-  height: 30px;
-  min-width: 80px;
-  min-width: 80px;
-}
-
-.synonym_header_2{
-  /* background-color: aquamarine; */
-  flex: 2;
-  display: flex;
-  align-items: center;
-  padding: 5px;
-  height: 30px;
-}
-
-.synonym_header_3{
-  /* background-color: aquamarine; */
-  flex: 4;
-  display: flex;
-  align-items: center;
-  padding: 5px;
-  height: 30px;
-  min-width: 250px;
-}
-
-.synonym_groups {
-  display: flex;
-  gap: 5px;
-  height: 215px;
-}
-
-.synonym_groups_1 {
-  /* background-color:aquamarine; */
-  flex:2;
-  padding: 5px;
-  overflow: auto;
-  max-width: 150px;
-  min-width: 80px;
-}
-
-.synonym_groups_1 p {
-  margin: 0;
-}
-
-.synonym_groups_2 {
-  background-color:var(--panels);
-  flex:2;
-  padding: 5px;
-  overflow: auto;
-  min-width: 80px;
-}
-
-.synonym_groups_2 p {
-  margin: 0;
-}
-
-.synonym_groups_2 > div {
+  border: none;
+  height: 20px;
+  font-size: 14px;
+  font-family: "Ubuntu";
+  font-weight: 300;
+  cursor: pointer;
+  text-align: left;
+  padding: 0;
+  display: block;
   max-width: 100%;
-  overflow: hidden;
+  overflow: auto;
   white-space: nowrap; 
   text-overflow: ellipsis;
 }
 
-.synonym_groups_3 {
-  background-color:var(--panels);
-  flex:4;
-  padding: 5px;
-  overflow: auto;
-  min-width: 250px;
+/*RIGHT*/
+
+.synonym_container_first_right {
+  /* background-color: blueviolet; */
+  flex: 1;       /* ocupa o espaço disponível */
+  min-height: 0; /* essencial para overflow em flex funcionar */
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
 }
 
+/******************LADO DIREITO******************/
 
+.synonym_container_second {
+  /* background-color: blueviolet; */
+  flex: 1;       /* ocupa o espaço disponível */
+  min-height: 0; /* essencial para overflow em flex funcionar */
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+}
 
+.synonym_plain_text {
+  background-color: var(--panels);
+  flex: 1; 
+  min-height: 0; 
+  min-width: 0;
+  overflow: auto;
+  height: 95%;
+  padding: 5px;
+}
+
+/*************************************************/
+/**********************[2, 2]*********************/
+/*************************************************/
+
+.analog_container {
+  /* background-color: brown; */
+  height: 100%;
+  display: flex;
+  width: 100%;
+  gap: 5px;
+}
+
+.shared_analog_title {
+  /* background-color: rgb(64, 156, 126); */
+  height: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.shared_analog_div {
+  flex: 1;
+  min-height: 0; 
+  min-width: 0;
+  overflow: auto;
+  height: 100%;
+}
+
+.shared_analog_itens {
+  /* background-color: var(--panels); */
+  flex: 1; 
+  min-height: 0; 
+  min-width: 0;
+  overflow: auto;
+  height: 95%;
+  padding: 5px;
+}
+
+/******************LADO ESQUERDO******************/
+
+.analog_container_first {
+  /* background-color: blueviolet; */
+  flex: 1;       /* ocupa o espaço disponível */
+  min-height: 0; /* essencial para overflow em flex funcionar */
+  min-width: 0;
+  display: flex;
+  flex-direction: row;
+  padding: 5px;
+  gap: 5px;
+}
+
+/*LEFT*/
+
+.analog_container_first_left {
+  /* background-color: blueviolet; */
+  flex: 1;       /* ocupa o espaço disponível */
+  min-height: 0; /* essencial para overflow em flex funcionar */
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.analog_itens {
+  background-color: var(--background);
+  border: none;
+  height: 20px;
+  font-size: 14px;
+  font-family: "Ubuntu";
+  font-weight: 300;
+  cursor: pointer;
+  text-align: left;
+  padding: 0;
+  display: block;
+  max-width: 100%;
+  overflow: auto;
+  white-space: nowrap; 
+  text-overflow: ellipsis;
+}
+
+/*RIGHT*/
+
+.analog_container_first_right {
+  /* background-color: blueviolet; */
+  flex: 1;       /* ocupa o espaço disponível */
+  min-height: 0; /* essencial para overflow em flex funcionar */
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+/******************LADO DIREITO******************/
+
+.analog_container_second {
+  /* background-color: blueviolet; */
+  flex: 1;       /* ocupa o espaço disponível */
+  min-height: 0; /* essencial para overflow em flex funcionar */
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+}
+
+.analog_lists {
+  background-color: var(--panels);
+  /* flex: 1;  */
+  /* min-height: 0;  */
+  /* min-width: 0; */
+  /* overflow: auto; */
+  height: 82%;
+  /* padding: 5px; */
+}
+
+.analog_button div {
+  padding: 5px;
+  display: flex;
+  gap: 5px;
+}
+
+.analog_plain {
+  flex: 1; 
+  min-height: 0; 
+  min-width: 0;
+  overflow: auto;
+  height: 72%;
+  padding: 5px;
+}
+
+.analog_button div button {
+  background-color: var(--panels);
+  height: 30px;
+  width: 40px;
+  border: none;
+}
+
+.analog_button div :hover{
+  background-color: var(--button) !important;
+  color:var(--background)!important;
+  cursor: pointer;
+}
+
+.analog_button_child.active {
+  background-color: var(--button) !important;
+  color:var(--background)!important;
+}
+
+.analog_button_child.inactive {
+  background-color: var(--panels)
+}

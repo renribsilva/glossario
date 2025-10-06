@@ -5,6 +5,9 @@
 }
 
 body {
+  margin: 0px;
+  padding: 5px;
   font-weight: 300;
   font-size: 14px;
+  min-width: 220px;
 }
