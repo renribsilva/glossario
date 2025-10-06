@@ -5,11 +5,11 @@
   --color-panel-light: rgb(219, 210, 186);
   --color-button-light: rgba(77, 48, 48);
   
-  --color-fill-dark: rgb(25, 25, 25);
-  --color-text-base-dark: rgb(243, 241, 228);
-  --color-grid-dark: rgb(250, 245, 229);
-  --color-panel-dark: rgba(122, 105, 66, 0.2);
-  --color-button-dark: rgba(77, 48, 48, 0.877);
+  --color-fill-dark: rgb(0, 0, 0);
+  --color-text-base-dark: rgb(248, 247, 242);
+  --color-grid-dark: rgb(30, 30, 30);
+  --color-panel-dark: rgb(48, 47, 45);
+  --color-button-dark: rgb(218, 186, 139);
 }
 
 .dark {
