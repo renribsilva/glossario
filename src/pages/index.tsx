@@ -42,7 +42,7 @@ export default function HomePage() {
   } = handleHomeState();
 
   return (
-    <div>
+    <div className={styles.home}>
       <section className={styles.navbar}>
         <div className={styles.navbar_left}>
           {inputNorm === undefined || inputNorm === '' ? (
