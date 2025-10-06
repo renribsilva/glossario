@@ -138,10 +138,10 @@ export function hifenizador(word: string, allPatterns: string[]) {
     matrix.push(maxRow.map((v, col) => 
       v === Number.NEGATIVE_INFINITY ? matrix[0][col] : v.toString()));
 
-    console.log("Matriz final:");
-    matrix.forEach(row => {
-      console.log(row.map(v => (v === null ? '.' : v)).join(' '));
-    });
+    // console.log("Matriz final:");
+    // matrix.forEach(row => {
+    //   console.log(row.map(v => (v === null ? '.' : v)).join(' '));
+    // });
 
     const lastRow = matrix[matrix.length - 1];
 
@@ -163,4 +163,4 @@ export function hifenizador(word: string, allPatterns: string[]) {
 }
 
 // Exemplo
-hifenizador("compreender", allPatterns);
+// hifenizador("compreender", allPatterns);

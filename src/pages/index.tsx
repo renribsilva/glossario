@@ -168,10 +168,10 @@ export default function HomePage() {
                 </div>
                 <div className={styles.shared_synonym_itens}>
                   {!hasInput && (
-                    <p>Aqui são listados os grupos de sinônimos da última palavra digitada</p>
+                    <div>Aqui são listados os grupos de sinônimos da última palavra digitada</div>
                   )} 
                   {hasInput && synonymKeyData.length === 0 && (
-                    <p>Não há sinônimos para a palavra: &quot;{inputNorm}&quot;</p>
+                    <div>Não há sinônimos para a palavra: &quot;{inputNorm}&quot;</div>
                   )}  
                   {hasInput && synonymKeyData && synonymKeyData.map((item, index) => {
                     const entriesString = item.entries.join(", ");
@@ -196,7 +196,7 @@ export default function HomePage() {
                 <div className={styles.shared_synonym_div}>
                   <div className={styles.shared_synonym_itens}>
                     {hasInput && synonymKeyData.length > 0 && synonymData.entries.length === 0 && (
-                      <p>Clique em algum item para ver seus sinônimos</p>
+                      <div>Clique em algum item para ver seus sinônimos</div>
                     )}
                     {hasInput && synonymData && Array.from(synonymData.entries).map((item, index) => (
                       <div key={index}>{item}</div>
@@ -228,11 +228,11 @@ export default function HomePage() {
               <div className={styles.expressions_container}>
                 <div>
                   {!hasInput && (
-                    <p>Digite o texto para ver expressões relacionadas a cada palavra digitada</p>
+                    <div>Digite o texto para ver expressões relacionadas a cada palavra digitada</div>
                   )}
                   {hasInput && glosaEntries.length === 0 && (
                     <>
-                      <p>Nenhuma glosa que contém:</p>
+                      <div>Nenhuma glosa que contém:</div>
                       <span><strong>{inputNorm}</strong></span>
                     </>
                   )}
@@ -269,7 +269,7 @@ export default function HomePage() {
               </div>
               <div className={styles.definitions_panel}>
                 {hasInput && !showGlosaDef && glosaEntries.length !== 0 && (
-                  <p>Clique em algum item para ver a sua glosa</p>
+                  <div>Clique em algum item para ver a sua glosa</div>
                 )}
                 {showGlosaDef && (
                   <>
@@ -299,10 +299,10 @@ export default function HomePage() {
                 <div className={styles.shared_analog_div}>
                   <div className={styles.shared_analog_itens}>
                     {!hasInput && inputNorm === "" && (
-                      <p>Aqui são listados os grupos analógicos para cada palavra digitada</p>
+                      <div>Aqui são listados os grupos analógicos para cada palavra digitada</div>
                     )}
                     {hasInput && analogKeyData === null && (
-                      <p>Não há grupos analógicos para a palavra &quot;{inputNorm}&quot;</p>
+                      <div>Não há grupos analógicos para a palavra &quot;{inputNorm}&quot;</div>
                     )}
                     {hasInput && analogKeyData && analogKeyData.length > 0 
                     && analogKeyData.map((item: string, index) => (
@@ -326,7 +326,7 @@ export default function HomePage() {
                 <div className={styles.shared_analog_div}>
                   <div className={styles.shared_analog_itens}>
                     {hasInput && analogKeyData !== null && !showAnalogDef && (
-                      <p>Clique em algum item para ver o seu campo analógico</p>
+                      <div>Clique em algum item para ver o seu campo analógico</div>
                     )}
                     {hasInput && analogData && showAnalogDef && analogData.group && (
                       <>
