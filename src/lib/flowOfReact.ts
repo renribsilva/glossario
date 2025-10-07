@@ -189,7 +189,7 @@ export function handleHomeState() {
 
   useEffect(() => {
     const fetchData = async () => {
-      const result = await fetchPTExtended("num_gen_Flags", "orla", "e", false);
+      const result = await fetchPTExtended("adv_adj_sub_Flags", "orla", "e", false);
       // console.log(result);
       return result;
     };
