@@ -332,34 +332,32 @@ export default function HomePage() {
               <div className={styles.shared_analog_title}>
                 <strong>Lista por classe de palavras</strong>
               </div>
-              <div className={styles.analog_lists}>
-                <div className={styles.analog_button}>
-                  <div>
-                    {classes.map((list) => {
-                      return (
-                        <button
-                          key={list}
-                          className={`${styles.analog_button_child} ${(state.activeList === list && state.hasInput && state.showAnalogDef) ? styles.active : styles.inactive}`}
-                          onClick={() => handleNavbarClick(list)}
-                          disabled={!state.hasInput || !state.showAnalogDef}
-                        >
-                          {list}
-                        </button>
-                      );
-                    })}
-                  </div>
+              <div className={styles.analog_button}>
+                <div>
+                  {classes.map((list) => {
+                    return (
+                      <button
+                        key={list}
+                        className={`${styles.analog_button_child} ${(state.activeList === list && state.hasInput && state.showAnalogDef) ? styles.active : styles.inactive}`}
+                        onClick={() => handleNavbarClick(list)}
+                        disabled={!state.hasInput || !state.showAnalogDef}
+                      >
+                        {list}
+                      </button>
+                    );
+                  })}
                 </div>
-                <div className={styles.analog_plain}>
-                  {categories.map((category) =>
-                    state.activeList === category && state.analogData !== null && state.analogData[category] && (
-                      <div key={category}>
-                        {state.hasInput && state.analogData[category].map((item, index) => (
-                          <div key={index}>{item}</div>
-                        ))}
-                      </div>
-                    )
-                  )}
-                </div>
+              </div>
+              <div className={styles.analog_plain}>
+                {categories.map((category) =>
+                  state.activeList === category && state.analogData !== null && state.analogData[category] && (
+                    <div key={category}>
+                      {state.hasInput && state.analogData[category].map((item, index) => (
+                        <div key={index}>{item}</div>
+                      ))}
+                    </div>
+                  )
+                )}
               </div>
             </div>
           </div>

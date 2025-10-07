@@ -443,6 +443,7 @@
 }
 
 .shared_analog_div {
+  /* background-color: aqua; */
   flex: 1;
   min-height: 0; 
   min-width: 0;
@@ -451,7 +452,7 @@
 }
 
 .shared_analog_itens {
-  /* background-color: var(--grid); */
+  /* background-color:aqua; */
   flex: 1; 
   min-height: 0; 
   min-width: 0;
@@ -525,18 +526,15 @@
   padding: 5px;
 }
 
-.analog_lists {
-  background-color: var(--panels);
-  height: 100%;
-}
-
 .analog_button div {
+  background-color: var(--panels);
   padding: 5px;
   display: flex;
   gap: 5px;
 }
 
 .analog_plain {
+  background-color: var(--panels);
   flex: 1; 
   min-height: 0; 
   min-width: 0;
