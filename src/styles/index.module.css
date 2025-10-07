@@ -51,7 +51,13 @@
 @media (max-width: 800px) {
   .grid_container {
     grid-template-columns: 1fr; /* uma coluna */
-    grid-template-rows: repeat(4, 300px); /* quatro linhas fixas */
+    grid-template-rows: repeat(4, 500px); /* quatro linhas fixas */
+  }
+}
+
+@media (max-width: 600px) {
+  .grid_item {
+    flex-direction: column;
   }
 }
 
@@ -221,6 +227,12 @@
   gap: 5px;
 }
 
+@media (max-width: 600px) {
+  .glossario_container {
+    flex-direction: column;
+  }
+}
+
 /******************LADO ESQUERDO******************/
 
 .glossario_container_first {
@@ -295,6 +307,12 @@
   display: flex;
   width: 100%;
   gap: 5px;
+}
+
+@media (max-width: 600px) {
+  .synonym_container {
+    flex-direction: column;
+  }
 }
 
 .shared_synonym_title {
@@ -392,7 +410,7 @@
   min-height: 0; 
   min-width: 0;
   overflow: auto;
-  height: 95%;
+  height: 100%;
   padding: 5px;
 }
 
@@ -406,6 +424,12 @@
   display: flex;
   width: 100%;
   gap: 5px;
+}
+
+@media (max-width: 600px) {
+  .analog_container {
+    flex-direction: column;
+  }
 }
 
 .shared_analog_title {
@@ -499,7 +523,7 @@
 
 .analog_lists {
   background-color: var(--panels);
-  height: 82%;
+  height: 100%;
 }
 
 .analog_button div {
@@ -513,7 +537,6 @@
   min-height: 0; 
   min-width: 0;
   overflow: auto;
-  height: 72%;
   padding: 5px;
 }
 
