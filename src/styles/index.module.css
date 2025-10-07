@@ -290,10 +290,11 @@
 
 .definitions_panel {
   background-color: var(--panels);
-  width: 97%;
+  width: 100%;
   flex:1;
   min-height: 0; 
   overflow-y: auto;
+  box-sizing: border-box;
   padding: 5px;
 }
 
