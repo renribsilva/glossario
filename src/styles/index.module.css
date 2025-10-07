@@ -323,6 +323,7 @@
 }
 
 .shared_synonym_div {
+  /* background-color: aqua; */
   flex: 1;
   min-height: 0; 
   min-width: 0;
@@ -331,12 +332,13 @@
 }
 
 .shared_synonym_itens {
-  /* background-color: var(--grid); */
+  background-color: var(--grid);
   flex: 1; 
   min-height: 0; 
   min-width: 0;
   overflow: auto;
-  height: 95%;
+  box-sizing: border-box;
+  height: 100%;
   padding: 5px;
 }
 
@@ -410,7 +412,8 @@
   min-height: 0; 
   min-width: 0;
   overflow: auto;
-  height: 95%;
+  box-sizing: border-box;
+  height: 100%;
   padding: 5px;
 }
 
@@ -453,7 +456,8 @@
   min-height: 0; 
   min-width: 0;
   overflow: auto;
-  height: 95%;
+  box-sizing: border-box;
+  height: 100%;
   padding: 5px;
 }
 
