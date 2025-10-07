@@ -124,7 +124,8 @@ export function handleHomeState() {
     setState(prev =>({
       ...prev,
       method: input,
-      activeSug: input
+      activeSug: input,
+      esperar: true,
     }))
   };
 
