@@ -56,6 +56,7 @@ export default function HomePage() {
                   onChange={handleInputChange}
                   onKeyDown={handleKeyDown}
                   placeholder="Digite o texto..."
+                  spellCheck={false}
                 />
             </div>
           </div>
