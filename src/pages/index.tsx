@@ -22,7 +22,7 @@ export default function HomePage() {
     handleFlagsClick
   } = handleHomeState();
 
-  console.log(state.method)
+  // console.log(state.method)
 
   return (
     <div className={styles.home}>
