@@ -120,7 +120,7 @@ export function handleHomeState() {
     }))
   };
 
-  const handleSuggestionClick = (input: "s"|"c"|"e") => {
+  const handleSuggestionClick = async (input: "s"|"c"|"e") => {
     setState(prev =>({
       ...prev,
       method: input,
@@ -198,11 +198,15 @@ export function handleHomeState() {
   useEffect(() => {
 
     const timer = setTimeout(async () => {
-
       if (
         state.input !== undefined && 
         (state.input.length >= 3 || state.inputNorm.length >= 3)
       ) {
+
+        let E: string[] | null = null
+        let C: string[] | null = null
+        let S: string[] | null = null
+
         setState (prev => ({
           ...prev,
           esperar: true,
@@ -213,23 +217,41 @@ export function handleHomeState() {
             ...prev,
             method: "e"
           }))
+          E = await fetchPTExtended(state.flagGroup, String(state.input), "e", state.activeFlag ? true : false);
+          setState (prev => ({
+            ...prev,
+            ptBRExtendedE: E,
+          }))
+          return
         }
-        const ptBRDataS = await fetchPTExtended(state.flagGroup, String(state.input), "s", state.activeFlag ? true : false);
-        const ptBRDataC = await fetchPTExtended(state.flagGroup, String(state.input), "c", state.activeFlag ? true : false);
-        const ptBRDataE = await fetchPTExtended(state.flagGroup, String(state.input), "e", state.activeFlag ? true : false);
-        setState (prev => ({
-          ...prev,
-          ptBRExtendedC: ptBRDataC,
-          ptBRExtendedE: ptBRDataE,
-          ptBRExtendedS: ptBRDataS
-        }))
-        if (ptBRDataE?.length > 0 || ptBRDataS?.length > 0 || ptBRDataC?.length > 0) {
+        if (state.method === "e") {
+          E = await fetchPTExtended(state.flagGroup, String(state.input), "e", state.activeFlag ? true : false);
+          setState (prev => ({
+            ...prev,
+            ptBRExtendedE: E
+          }))
+        }
+        if (state.method === "s") {
+          S = await fetchPTExtended(state.flagGroup, String(state.input), "s", state.activeFlag ? true : false);
+          setState (prev => ({
+            ...prev,
+            ptBRExtendedE: S
+          }))
+        }
+        if (state.method === "c") {
+          C = await fetchPTExtended(state.flagGroup, String(state.input), "c", state.activeFlag ? true : false);
+          setState (prev => ({
+            ...prev,
+            ptBRExtendedE: C
+          }))
+        }
+        if (E?.length > 0 || S?.length > 0 || C?.length > 0) {
           setState (prev => ({
             ...prev,
             activeSug: state.method
           }))
         }
-        if (ptBRDataE?.length === 0 && ptBRDataS?.length === 0 && ptBRDataC?.length === 0) {
+        if (E?.length === 0 && S?.length === 0 && C?.length === 0) {
           setState (prev => ({
             ...prev,
             activeSug: state.method
