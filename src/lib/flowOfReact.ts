@@ -133,7 +133,8 @@ export function handleHomeState() {
   if (state.activeFlag === input) {
     setState(prev =>({
       ...prev,
-      activeFlag: null
+      activeFlag: null,
+      flagGroup: "adv_adj_sub_Flags"
     }))
   } else {
     setState(prev =>({
@@ -193,10 +194,16 @@ export function handleHomeState() {
       // console.log(result);
       return result;
     };
-    fetchData();
+    void fetchData();
   }, []);
 
   useEffect(() => {
+
+    setState (prev => ({
+      ...prev,
+      esperar: true,
+      isSugDisabled: false
+    }))
 
     const timer = setTimeout(async () => {
       if (
@@ -208,11 +215,6 @@ export function handleHomeState() {
         let C: string[] | null = null
         let S: string[] | null = null
 
-        setState (prev => ({
-          ...prev,
-          esperar: true,
-          isSugDisabled: false
-        }))
         if (state.method === null) {
           setState (prev => ({
             ...prev,

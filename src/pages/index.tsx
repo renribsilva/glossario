@@ -22,7 +22,7 @@ export default function HomePage() {
     handleFlagsClick
   } = handleHomeState();
 
-  // console.log(state.method)
+  console.log(state.activeFlag, state.flagGroup)
 
   return (
     <div className={styles.home}>
@@ -100,7 +100,7 @@ export default function HomePage() {
                       <>
                         {!state.esperar && state.inputNorm && state.inputNorm.length < 3 && (
                           <div>
-                            <i>Sugestões para palavras com três letras ou mais</i>
+                            <i>Sugestões para termos com três letras ou mais</i>
                           </div>
                         )}
                         {!state.esperar && (state.inputNorm === '' || state.inputNorm === undefined) && (
