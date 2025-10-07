@@ -51,7 +51,7 @@
 @media (max-width: 800px) {
   .grid_container {
     grid-template-columns: 1fr; /* uma coluna */
-    grid-template-rows: repeat(4, 500px); /* quatro linhas fixas */
+    grid-template-rows: repeat(4, 550px); /* quatro linhas fixas */
   }
 }
 
