@@ -329,7 +329,6 @@
   min-height: 0; 
   min-width: 0;
   overflow: auto;
-  height: 100%;
 }
 
 .shared_synonym_itens {
@@ -368,7 +367,7 @@
 }
 
 .synonym_itens {
-  background-color: var(--grid);
+  background-color:var(--grid);
   border: none;
   height: 20px;
   font-size: 14px;
