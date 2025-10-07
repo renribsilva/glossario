@@ -10,27 +10,8 @@ export default function HomePage() {
     categories,
     classes,
     methods,
-    input,
     flags,
-    showGlosaDef,
-    showAnalogDef,
-    hasInput,
-    inputNorm,
-    glosaEntries,
-    glosaData,
-    synonymKeyData,
-    analogKeyData,
-    analogData,
-    activeList,
-    synonymData,
-    ptBRExtendedS,
-    ptBRExtendedC,
-    ptBRExtendedE,
-    isSugDisabled,
-    activeSug,
-    activeFlag,
-    silaba,
-    esperar,
+    state,
     handleInputChange,
     handleKeyDown,
     handleAnalogClick,
@@ -41,19 +22,21 @@ export default function HomePage() {
     handleFlagsClick
   } = handleHomeState();
 
+  console.log(state.activeList)
+
   return (
     <div className={styles.home}>
       <section className={styles.navbar}>
         <div className={styles.navbar_left}>
-          {inputNorm === undefined || inputNorm === '' ? (
+          {state.inputNorm === undefined || state.inputNorm === '' ? (
             <div>glos·sá·rio</div>
           ) : (
-            (inputNorm.length < 3 || silaba?.replace(/·/g,"") !== input) ? (
+            (state.inputNorm.length < 3 || state.silaba?.replace(/·/g,"") !== state.input) ? (
             <div>. . .</div>
           ) : (
             <>
-              {silaba && (
-                <div>{silaba}</div>
+              {state.silaba && (
+                <div>{state.silaba}</div>
               )}
             </>
           )
@@ -85,10 +68,10 @@ export default function HomePage() {
                 {flags.map((item, index) => (
                   <button 
                     key={item}
-                    className={`${styles.flag_box_child} ${activeFlag === item ? styles.active : styles.inactive}`}
+                    className={`${styles.flag_box_child} ${state.activeFlag === item ? styles.active : styles.inactive}`}
                     onClick={() => handleFlagsClick(item)}
                     title={item}
-                    disabled={isSugDisabled}
+                    disabled={state.isSugDisabled}
                   >
                     {String(index+1)}
                   </button>
@@ -99,10 +82,10 @@ export default function HomePage() {
                   {methods.map((item: "s" | "c" | "e") => (
                     <button 
                       key={item}
-                      className={`${styles.suggestions_button_child} ${activeSug === item ? styles.active : styles.inactive}`}
+                      className={`${styles.suggestions_button_child} ${state.activeSug === item ? styles.active : styles.inactive}`}
                       onClick={() => handleSuggestionClick(item)}
                       title={item}
-                      disabled={isSugDisabled}
+                      disabled={state.isSugDisabled}
                     >
                       {item}
                     </button>
@@ -110,33 +93,33 @@ export default function HomePage() {
                 </div>
                 <div className={styles.suggestions_list_container}>
                   <div className={styles.suggestions_list}>
-                    {esperar ? (
+                    {state.esperar ? (
                       <div>aguarde...</div>
                     ) : (
                       <>
-                        {!esperar && inputNorm && inputNorm.length < 3 && (
+                        {!state.esperar && state.inputNorm && state.inputNorm.length < 3 && (
                           <div>
                             <i>Sugestões para palavras com três letras ou mais</i>
                           </div>
                         )}
-                        {!esperar && (inputNorm === '' || inputNorm === undefined) && (
+                        {!state.esperar && (state.inputNorm === '' || state.inputNorm === undefined) && (
                           <div>
                             Digite o texto para ver palavras que contêm a última unidade digitada
                           </div>
                         )}
-                        {inputNorm && inputNorm.length >= 3 && ["s", "c", "e"].map((type) => {
+                        {state.inputNorm && state.inputNorm.length >= 3 && ["s", "c", "e"].map((type) => {
                           const suggestions = {
-                            s: ptBRExtendedS,
-                            c: ptBRExtendedC,
-                            e: ptBRExtendedE,
+                            s: state.ptBRExtendedS,
+                            c: state.ptBRExtendedC,
+                            e: state.ptBRExtendedE,
                           }[type];
                           const label = {
                             s: "palavras que começam com",
                             c: "palavras que contêm",
                             e: "palavras que terminam em",
                           }[type];
-                          if (!esperar && activeSug !== type) return null;
-                          if (!esperar && suggestions && suggestions.length > 0) {
+                          if (!state.esperar && state.activeSug !== type) return null;
+                          if (!state.esperar && suggestions && suggestions.length > 0) {
                             return suggestions.map((entry, index) => (
                               <div key={index}>{entry}</div>
                             ));
@@ -144,9 +127,9 @@ export default function HomePage() {
                           return (
                             <div key={type}>
                               <span>Sem sugestões para {label} </span>
-                              <i>{input}</i>
-                              {!esperar && activeFlag !== null && (
-                                <span> na flag <i>{activeFlag}</i></span>
+                              <i>{state.input}</i>
+                              {!state.esperar && state.activeFlag !== null && (
+                                <span> na flag <i>{state.activeFlag}</i></span>
                               )}
                             </div>
                           );
@@ -167,13 +150,13 @@ export default function HomePage() {
                   <strong>Grupos</strong>
                 </div>
                 <div className={styles.shared_synonym_itens}>
-                  {!hasInput && (
+                  {!state.hasInput && (
                     <div>Aqui são listados os grupos de sinônimos da última palavra digitada</div>
                   )} 
-                  {hasInput && synonymKeyData.length === 0 && (
-                    <div>Não há sinônimos para a palavra: &quot;{inputNorm}&quot;</div>
+                  {state.hasInput && state.synonymKeyData.length === 0 && (
+                    <div>Não há sinônimos para a palavra: &quot;{state.inputNorm}&quot;</div>
                   )}  
-                  {hasInput && synonymKeyData && synonymKeyData.map((item, index) => {
+                  {state.hasInput && state.synonymKeyData && state.synonymKeyData.map((item, index) => {
                     const entriesString = item.entries.join(", ");
                     return (
                       <div className={styles.shared_synonym_div} key={index}>
@@ -195,10 +178,10 @@ export default function HomePage() {
                 </div>
                 <div className={styles.shared_synonym_div}>
                   <div className={styles.shared_synonym_itens}>
-                    {hasInput && synonymKeyData.length > 0 && synonymData.entries.length === 0 && (
+                    {state.hasInput && state.synonymKeyData.length > 0 && state.synonymData.entries.length === 0 && (
                       <div>Clique em algum item para ver seus sinônimos</div>
                     )}
-                    {hasInput && synonymData && Array.from(synonymData.entries).map((item, index) => (
+                    {state.hasInput && state.synonymData && Array.from(state.synonymData.entries).map((item, index) => (
                       <div key={index}>{item}</div>
                     ))}
                   </div>
@@ -211,8 +194,8 @@ export default function HomePage() {
               </div>
               <div className={styles.shared_synonym_div}>
                 <div className={styles.synonym_plain_text}>
-                  {hasInput && synonymData && (
-                    <div>{synonymData.plain_text}</div>
+                  {state.hasInput && state.synonymData && (
+                    <div>{state.synonymData.plain_text}</div>
                   )}
                 </div>
               </div>
@@ -227,19 +210,19 @@ export default function HomePage() {
               </div>
               <div className={styles.expressions_container}>
                 <div>
-                  {!hasInput && (
+                  {!state.hasInput && (
                     <div>Digite o texto para ver expressões relacionadas a cada palavra digitada</div>
                   )}
-                  {hasInput && glosaEntries.length === 0 && (
+                  {state.hasInput && state.glosaEntries.length === 0 && (
                     <>
                       <div>Nenhuma glosa que contém:</div>
-                      <span><strong>{inputNorm}</strong></span>
+                      <span><strong>{state.inputNorm}</strong></span>
                     </>
                   )}
                 </div>
                 <div>
-                  {hasInput && glosaEntries.length > 0 && (
-                    glosaEntries.map((entry, index) => {
+                  {state.hasInput && state.glosaEntries.length > 0 && (
+                    state.glosaEntries.map((entry, index) => {
                       const maxLength = 100;
                       const truncatedText = entry.original.length > maxLength
                         ? entry.original.slice(0, maxLength) + "..."
@@ -265,20 +248,20 @@ export default function HomePage() {
             <div className={styles.glossario_container_second}>
               <div className={styles.glossario_title}>
                 <strong>Glosa</strong>
-                {(hasInput && showGlosaDef) && <span><strong>&nbsp;de &quot;{glosaData.original}&quot;</strong></span>}
+                {(state.hasInput && state.showGlosaDef) && <span><strong>&nbsp;de &quot;{state.glosaData.original}&quot;</strong></span>}
               </div>
               <div className={styles.definitions_panel}>
-                {hasInput && !showGlosaDef && glosaEntries.length !== 0 && (
+                {state.hasInput && !state.showGlosaDef && state.glosaEntries.length !== 0 && (
                   <div>Clique em algum item para ver a sua glosa</div>
                 )}
-                {showGlosaDef && (
+                {state.showGlosaDef && (
                   <>
                     <div>
                       {keys.map((key) => 
-                        glosaData[key] && (
+                        state.glosaData[key] && (
                           <div key={key} className={styles.definitions_dicio}>
                             <strong>{key.charAt(0).toUpperCase() 
-                            + key.slice(1)}:</strong> {glosaData[key]}
+                            + key.slice(1)}:</strong> {state.glosaData[key]}
                           </div>
                         )
                       )}
@@ -298,14 +281,14 @@ export default function HomePage() {
                 </div>
                 <div className={styles.shared_analog_div}>
                   <div className={styles.shared_analog_itens}>
-                    {!hasInput && inputNorm === "" && (
+                    {!state.hasInput && state.inputNorm === "" && (
                       <div>Aqui são listados os grupos analógicos para cada palavra digitada</div>
                     )}
-                    {hasInput && analogKeyData === null && (
-                      <div>Não há grupos analógicos para a palavra &quot;{inputNorm}&quot;</div>
+                    {state.hasInput && state.analogKeyData === null && (
+                      <div>Não há grupos analógicos para a palavra &quot;{state.inputNorm}&quot;</div>
                     )}
-                    {hasInput && analogKeyData && analogKeyData.length > 0 
-                    && analogKeyData.map((item: string, index) => (
+                    {state.hasInput && state.analogKeyData && state.analogKeyData.length > 0 
+                    && state.analogKeyData.map((item: string, index) => (
                       <>
                         <button 
                           key={index}
@@ -325,18 +308,18 @@ export default function HomePage() {
                 </div>
                 <div className={styles.shared_analog_div}>
                   <div className={styles.shared_analog_itens}>
-                    {hasInput && analogKeyData !== null && !showAnalogDef && (
+                    {state.hasInput && state.analogKeyData !== null && !state.showAnalogDef && (
                       <div>Clique em algum item para ver o seu campo analógico</div>
                     )}
-                    {hasInput && analogData && showAnalogDef && analogData.group && (
+                    {state.hasInput && state.analogData && state.showAnalogDef && state.analogData.group && (
                       <>
-                        <strong>{analogData.original}: </strong>
+                        <strong>{state.analogData.original}: </strong>
                         <span>
-                          {analogData.group.sub0}{" "}
-                          {analogData.group.sub1}{" "}
-                          {analogData.group.sub2}{" "}
-                          {analogData.group.sub3}{" "}
-                          {analogData.group.sub4}
+                          {state.analogData.group.sub0}{" "}
+                          {state.analogData.group.sub1}{" "}
+                          {state.analogData.group.sub2}{" "}
+                          {state.analogData.group.sub3}{" "}
+                          {state.analogData.group.sub4}
                         </span>
                       </>
                     )}
@@ -355,9 +338,9 @@ export default function HomePage() {
                       return (
                         <button
                           key={list}
-                          className={`${styles.analog_button_child} ${(activeList === list && hasInput && showAnalogDef) ? styles.active : styles.inactive}`}
+                          className={`${styles.analog_button_child} ${(state.activeList === list && state.hasInput && state.showAnalogDef) ? styles.active : styles.inactive}`}
                           onClick={() => handleNavbarClick(list)}
-                          disabled={!hasInput || !showAnalogDef}
+                          disabled={!state.hasInput || !state.showAnalogDef}
                         >
                           {list}
                         </button>
@@ -367,9 +350,9 @@ export default function HomePage() {
                 </div>
                 <div className={styles.analog_plain}>
                   {categories.map((category) =>
-                    activeList === category && analogData !== null && analogData[category] && (
+                    state.activeList === category && state.analogData !== null && state.analogData[category] && (
                       <div key={category}>
-                        {hasInput && analogData[category].map((item, index) => (
+                        {state.hasInput && state.analogData[category].map((item, index) => (
                           <div key={index}>{item}</div>
                         ))}
                       </div>

@@ -38,3 +38,30 @@ export type ExtendedWordMap = {
     [flag: string]: string[];
   };
 };
+
+export type initialFlowType = {
+  input: string | undefined,
+  inputNorm: string | undefined,
+  inputFullText: string | undefined,
+  showGlosaDef: boolean,
+  showAnalogDef: boolean,
+  hasInput: boolean,
+  glosaEntries: GlosaEntry[],
+  glosaData: GlosaData,
+  synonymKeyData: SinData[],
+  analogKeyData: string[] | null,
+  analogData: AnalogData | null,
+  activeList: string | null,
+  synonymData: SinData,
+  ptBRExtendedS: string[] | null,
+  ptBRExtendedC: string[] | null,
+  ptBRExtendedE: string[] | null,
+  method: "s" | "c" | "e" | null,
+  isSugDisabled: boolean,
+  activeSug: string | null,
+  activeFlag: string | null,
+  flagGroup: string,
+  silaba: string | null,
+  esperar: boolean | null,
+  lastHifenized: string | null
+}

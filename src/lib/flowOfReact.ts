@@ -1,35 +1,17 @@
 import { useState, useEffect, useRef } from "react";
 import { ni } from "./normalizedEntry";
-import { GlosaEntry, GlosaData, SinData, AnalogData } from "../types";
 import { getGlosaEntries, getGlosaData } from "./getGlosaData";
 import { getAnalogKeyData, getAnalogData } from "./getAnalogData";
 import { getSynonymsKeysData } from "./getSynonymData";
+import { initialFlowObject } from "./initialFlow";
+import { initialFlowType } from "../types";
 
 export function handleHomeState() {
-  const [input, setInput] = useState<string | undefined>(undefined);
-  const [inputNorm, setInputNorm] = useState<string | undefined>(undefined);
-  const [inputFullText, setInputFullText] = useState<string | undefined>(undefined);
-  const [showGlosaDef, setShowGlosaDef] = useState<boolean>(false);
-  const [showAnalogDef, setShowAnalogDef] = useState<boolean>(false);
-  const [hasInput, sethasInput] = useState<boolean>(false);
-  const [glosaEntries, setGlosaEntries] = useState<GlosaEntry[]>([]);
-  const [glosaData, setGlosaData] = useState<GlosaData>({});
-  const [synonymKeyData, setSynonymKeyData] = useState<SinData[]>([]);
-  const [analogKeyData, setAnalogKeyData] = useState<string[] | null>(null);
-  const [analogData, setAnalogData] = useState<AnalogData>(null);
-  const [activeList, setActiveButton] = useState<string | null>(null);
-  const [synonymData, setSynonymData] = useState<SinData>({ plain_text: "", entries: [] });
-  const [ptBRExtendedS, setptBRExtendedS] = useState<string[] | null>(null);
-  const [ptBRExtendedC, setptBRExtendedC] = useState<string[] | null>(null);
-  const [ptBRExtendedE, setptBRExtendedE] = useState<string[] | null>(null);
-  const [method, setMethod] = useState<"s" | "c" | "e" | null>(null);
-  const [isSugDisabled, setIsSugDisabled] = useState<boolean>(true);
-  const [activeSug, setActiveSug] = useState<string | null>(null);
-  const [activeFlag, setActiveFlag] = useState<string | null>(null);
-  const [flagGroup, setFlagGroup] = useState<string>("adv_adj_sub_Flags");
-  const [silaba, setSilaba] = useState<string>(null);
-  const [esperar, setEsperar] = useState<boolean | null>(null);
-  const [lastHifenized, setLastHifenized] = useState<string | null>(null);
+  
+  const [state, setState] = useState<initialFlowType>(initialFlowObject)
+  const previousInputNorm = useRef<string | undefined>(undefined);
+  const ptExtendedCache = useRef<Record<string, any>>({});
+  const hifenizadorCache = useRef<Record<string, string>>({});
 
   const keys = ["exp", "conj", "gram", "def", "dif"];
   const categories = ["sub", "verb", "adj", "adv", "phr"];
@@ -40,8 +22,6 @@ export function handleHomeState() {
     "aum_dim_Flags", "verbos_conj_Flags"
   ];
 
-  const previousInputNorm = useRef<string | undefined>(undefined);
-
   const getPTExtendedCacheKey = (
     flagGroup: string,
     searchTerm: string,
@@ -50,8 +30,6 @@ export function handleHomeState() {
   ): string => {
     return `${flagGroup}::${searchTerm}::${searchType}::${full}`;
   };
-
-  const ptExtendedCache = useRef<Record<string, any>>({});
 
   const fetchPTExtended = async (
     flagGroup: string, 
@@ -69,18 +47,22 @@ export function handleHomeState() {
     return data;
   };
 
-  const hifenizadorCache = useRef<Record<string, string>>({});
-
   const fetchHifenizador = async (word: string): Promise<{ word: string }> => {
     if (hifenizadorCache.current[word]) {
       const cachedResult = hifenizadorCache.current[word];
-      setLastHifenized(ni(word));
+      setState(prev => ({
+        ...prev,
+        lastHifenized: ni(word)
+      }))
       return { word: cachedResult };
     }
     const response = await fetch(`/api/loadHifenizador?word=${encodeURIComponent(word)}`);
     const data = await response.json();
     hifenizadorCache.current[word] = data.word;
-    setLastHifenized(ni(word));
+    setState(prev => ({
+      ...prev,
+      lastHifenized: ni(word)
+    }))
     return data;
   };
 
@@ -91,10 +73,16 @@ export function handleHomeState() {
       .split(/\s+/);
     const validWords = words.filter(word => word.trim() !== "");
     if((validWords[validWords?.length - 1])?.trim().length >= 3 ) {
-        setInput((validWords[validWords.length - 1]).toLowerCase());
+        setState(prev => ({
+          ...prev,
+          input: (validWords[validWords.length - 1]).toLowerCase()
+        }))
       }
-      setInputNorm(ni(validWords[validWords.length - 1]));
-      setInputFullText(fullText);
+      setState(prev =>({
+        ...prev,
+        inputNorm: ni(validWords[validWords.length - 1]),
+        inputFullText: fullText
+      }))
   };
 
   const handleKeyDown = (e: React.KeyboardEvent<HTMLTextAreaElement>) => {
@@ -105,65 +93,97 @@ export function handleHomeState() {
         .split(/\s+/);
       const validWords = words.filter(word => word.trim() !== "");
       if((validWords[validWords?.length - 1])?.trim().length >= 3 ) {
-        setInput((validWords[validWords.length - 1]).toLowerCase());
+        setState(prev => ({
+          ...prev,
+          input: (validWords[validWords.length - 1]).toLowerCase()
+        }))
       }
-      setInputNorm(ni(validWords[validWords.length - 1]));
-      setInputFullText(fullText);
+      setState(prev =>({
+        ...prev,
+        inputNorm: ni(validWords[validWords.length - 1]),
+        inputFullText: fullText
+      }))
     }
   };
 
   const handleAnalogClick = (input: string) => {
-    setAnalogData(null);
+    setState(prev =>({
+        ...prev,
+        analogData: null
+      }))
     const analogData = getAnalogData(ni(input));
-    setAnalogData(analogData);
-    setActiveButton("sub");
-    setShowAnalogDef(true);
+    setState(prev =>({
+      ...prev,
+      analogData: analogData,
+      activeList: "sub",
+      showAnalogDef: true
+    }))
   };
 
   const handleSuggestionClick = (input: "s"|"c"|"e") => {
-    setMethod(input);
-    setActiveSug(input);
-    // if (esperar === false) {
-    //   return
-    // }
-    // setEsperar(true)
+    setState(prev =>({
+      ...prev,
+      method: input,
+      activeSug: input
+    }))
   };
 
   const handleFlagsClick = (input: string) => {
-  if (activeFlag === input) {
-    setActiveFlag(null);
+  if (state.activeFlag === input) {
+    setState(prev =>({
+      ...prev,
+      activeFlag: null
+    }))
   } else {
-    setEsperar(true)
-    setFlagGroup(input);
-    setActiveFlag(input);
+    setState(prev =>({
+      ...prev,
+      esperar: true,
+      flagGroup: input,
+      activeFlag: input
+    }))
   }
 };
 
   const handleSynonymClick = (input: string) => {
     const inputArray = input.split(",").map((item) => item.trim());
-    const filteredData = synonymKeyData.filter((entry) => {
+    const filteredData = state.synonymKeyData.filter((entry) => {
       return JSON.stringify(entry.entries) === JSON.stringify(inputArray);
     });
     if (filteredData.length > 0) {
-      setSynonymData({
-        plain_text: filteredData[0].plain_text,
-        entries: filteredData[0].entries
-      });
+      setState(prev =>({
+        ...prev,
+        synonymData: {
+          plain_text: filteredData[0].plain_text,
+          entries: filteredData[0].entries
+        }
+      }))
     } else {
-      setSynonymData({ plain_text: "", entries: [] });
+      setState(prev =>({
+        ...prev,
+        synonymData: { plain_text: "", entries: [] }
+      }))
     }
   };
 
   const handleShowGlosaDef = (input: string) => {
-    setShowGlosaDef(true);
+    setState (prev => ({
+      ...prev,
+      showGlosaDef: true
+    }))
     const data = getGlosaData(ni(input));
     if (data) {
-      setGlosaData(data);
+      setState (prev => ({
+        ...prev,
+        glosaData: data
+      }))
     }
   };
 
   const handleNavbarClick = (list: string) => {
-    setActiveButton(list);
+    setState (prev => ({
+      ...prev,
+      activeList: list
+    }))
   };
 
   useEffect(() => {
@@ -180,77 +200,108 @@ export function handleHomeState() {
     const timer = setTimeout(async () => {
 
       if (
-        input !== undefined && 
-        (input.length >= 3 || inputNorm.length >= 3)
+        state.input !== undefined && 
+        (state.input.length >= 3 || state.inputNorm.length >= 3)
       ) {
-        setEsperar(true)
-        setIsSugDisabled(false)
-        if (method === null) {
-          setMethod("e");
+        setState (prev => ({
+          ...prev,
+          esperar: true,
+          isSugDisabled: false
+        }))
+        if (state.method === null) {
+          setState (prev => ({
+            ...prev,
+            method: "e"
+          }))
         }
-        const ptBRDataS = await fetchPTExtended(flagGroup, String(input), "s", activeFlag ? true : false);
-        const ptBRDataC = await fetchPTExtended(flagGroup, String(input), "c", activeFlag ? true : false);
-        const ptBRDataE = await fetchPTExtended(flagGroup, String(input), "e", activeFlag ? true : false);
-        setptBRExtendedS(ptBRDataS);
-        setptBRExtendedC(ptBRDataC);
-        setptBRExtendedE(ptBRDataE);
+        const ptBRDataS = await fetchPTExtended(state.flagGroup, String(state.input), "s", state.activeFlag ? true : false);
+        const ptBRDataC = await fetchPTExtended(state.flagGroup, String(state.input), "c", state.activeFlag ? true : false);
+        const ptBRDataE = await fetchPTExtended(state.flagGroup, String(state.input), "e", state.activeFlag ? true : false);
+        setState (prev => ({
+          ...prev,
+          ptBRExtendedC: ptBRDataC,
+          ptBRExtendedE: ptBRDataE,
+          ptBRExtendedS: ptBRDataS
+        }))
         if (ptBRDataE?.length > 0 || ptBRDataS?.length > 0 || ptBRDataC?.length > 0) {
-          setActiveSug(method)
-          // setIsSugDisabled(false);
+          setState (prev => ({
+            ...prev,
+            activeSug: state.method
+          }))
         }
         if (ptBRDataE?.length === 0 && ptBRDataS?.length === 0 && ptBRDataC?.length === 0) {
-          setActiveSug(method)
-          // setIsSugDisabled(true);
+          setState (prev => ({
+            ...prev,
+            activeSug: state.method
+          }))
         }
-        const silabas = await fetchHifenizador(input)
-        setSilaba(silabas.word.replace(/-/g, "·"))
-        setEsperar(false)
+        const silabas = await fetchHifenizador(state.input)
+        setState (prev => ({
+          ...prev,
+          silaba: silabas.word.replace(/-/g, "·"),
+          esperar: false
+        }))
       }
-      if (input?.length < 3 || inputNorm?.length < 3) {
-        setIsSugDisabled(true)
-        setActiveSug(null)
+      if (state.input?.length < 3 || state.inputNorm?.length < 3) {
+        setState (prev => ({
+          ...prev,
+          isSugDisabled: true,
+          activeSug: null
+        }))
       }
     }, 400);
     return () => clearTimeout(timer);
-  }, [input, method, inputNorm, flagGroup, activeFlag]);
+  }, [state.input, state.method, state.inputNorm, state.flagGroup, state.activeFlag]);
 
   useEffect(() => {
 
-    if (inputNorm === undefined || inputNorm === '') {
-      sethasInput(false);
-      setShowGlosaDef(false);
-      setIsSugDisabled(true)
-      setActiveSug(null)
+    if (state.inputNorm === undefined || state.inputNorm === '') {
+      setState (prev => ({
+        ...prev,
+        hasInput: false,
+        showGlosaDef: false,
+        isSugDisabled: true,
+        activeSug: null
+      }))
     } else {
-      sethasInput(true);
+      setState (prev => ({
+        ...prev,
+        hasInput: true
+      }))
     }
 
-    if (!inputNorm || inputNorm === previousInputNorm.current) {
+    if (!state.inputNorm || state.inputNorm === previousInputNorm.current) {
       return;
     }
 
-    previousInputNorm.current = inputNorm;
+    previousInputNorm.current = state.inputNorm;
 
     const timer = setTimeout(() => {
 
-      const entries = getGlosaEntries(inputNorm, inputFullText);
-      setGlosaEntries(entries);
-
-      const analog = getAnalogKeyData(ni(inputNorm));
-      setAnalogKeyData(analog);
-
-      const synonymKeyData = getSynonymsKeysData(ni(inputNorm));
-      setSynonymKeyData(synonymKeyData);
-
-      setShowAnalogDef(false);
-      setShowGlosaDef(false);
-      setActiveButton(null);
-      setSynonymData({ plain_text: "", entries: [] });
+      const entries = getGlosaEntries(state.inputNorm, state.inputFullText);
+      setState (prev => ({
+        ...prev,
+        glosaEntries: entries
+      }))
+      const analog = getAnalogKeyData(ni(state.inputNorm));
+      setState (prev => ({
+        ...prev,
+        analogKeyData: analog
+      }))
+      const synonymKeyData = getSynonymsKeysData(ni(state.inputNorm));
+      setState (prev => ({
+        ...prev,
+        synonymKeyData: synonymKeyData,
+        showAnalogDef: false,
+        showGlosaDef: false,
+        activeList: null,
+        synonymData: { plain_text: "", entries: [] }
+      }))
 
       let longestOriginal = "";
 
       for (const entrie of entries) {
-        if (ni(inputFullText).endsWith(ni(entrie.original))) {
+        if (ni(state.inputFullText).endsWith(ni(entrie.original))) {
           if (entrie.original.length > longestOriginal.length) {
             longestOriginal = entrie.original;
           }
@@ -258,46 +309,31 @@ export function handleHomeState() {
       }
 
       if (longestOriginal) {
-        setShowGlosaDef(true);
+        setState (prev => ({
+        ...prev,
+        showGlosaDef: true
+      }))
         const data = getGlosaData(ni(longestOriginal));
         if (data) {
-          setGlosaData(data);
+          setState (prev => ({
+            ...prev,
+            glosaData: data
+          }))
         }
       }
 
     }, 300);
     return () => clearTimeout(timer);
-  }, [inputNorm, input]);
+  }, [state.inputNorm, state.input]);
 
   return {
     keys,
     categories,
+    state,
     classes,
-    method,
     methods,
-    input,
-    inputNorm,
     flags,
-    showGlosaDef,
-    showAnalogDef,
-    hasInput,
-    glosaEntries,
-    glosaData,
-    synonymKeyData,
-    analogKeyData,
-    analogData,
-    activeList,
-    synonymData,
-    ptBRExtendedS,
-    ptBRExtendedC,
-    ptBRExtendedE,
-    isSugDisabled,
-    activeSug,
-    flagGroup,
-    activeFlag,
-    silaba,
-    esperar,
-    lastHifenized,
+    setState,
     handleInputChange,
     handleKeyDown,
     handleAnalogClick,
