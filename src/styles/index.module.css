@@ -540,6 +540,8 @@
   min-width: 0;
   overflow: auto;
   padding: 5px;
+  max-width: 100%;
+  white-space: nowrap;
 }
 
 .analog_button div button {
