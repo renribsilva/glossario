@@ -22,9 +22,12 @@ export default function HomePage() {
     handleFlagsClick
   } = handleHomeState();
 
-  console.log(state.activeFlag)
-  console.log(state.activeSug)
-  console.log(state.input)
+  console.log("input:", state.input)
+  console.log("inputNorm:", state.inputNorm)
+  // console.log("activeFlag:", state.activeFlag)
+  // console.log("activeSug:", state.activeSug)
+  // console.log("method:", state.method)
+  // console.log("isSugDisabled:", state.isSugDisabled)
 
   return (
     <div className={styles.home}>
@@ -54,12 +57,12 @@ export default function HomePage() {
           <div className={styles.textarea_container_first}>
             <div className={styles.textarea_container}>
               <textarea
-                  className={styles.textarea}
-                  onChange={handleInputChange}
-                  onKeyDown={handleKeyDown}
-                  placeholder="Digite o texto..."
-                  spellCheck={false}
-                />
+                className={styles.textarea}
+                onChange={handleInputChange}
+                onKeyDown={handleKeyDown}
+                placeholder="Digite o texto..."
+                spellCheck={false}
+              />
             </div>
           </div>
           <div className={styles.textarea_container_second}>
@@ -96,7 +99,7 @@ export default function HomePage() {
                 </div>
                 <div className={styles.suggestions_list_container}>
                   <div className={styles.suggestions_list}>
-                    {state.esperar && state.inputNorm.length >= 3? (
+                    {state.esperar && state.activeSug !== null && state.inputNorm.length >= 3? (
                       <div>aguarde...</div>
                     ) : (
                       <>
