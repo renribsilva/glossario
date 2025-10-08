@@ -282,14 +282,6 @@ export function handleHomeState() {
           esperar: false
         }))
       }
-      if (state.input?.length < 3 || state.inputNorm?.length < 3) {
-        setState (prev => ({
-          ...prev,
-          isSugDisabled: true,
-          activeSug: null,
-          esperar: false
-        }))
-      }
     }, 400);
     return () => clearTimeout(timer);
   }, [state.input, state.method, state.activeSug, state.inputNorm, state.flagGroup, state.activeFlag]);
