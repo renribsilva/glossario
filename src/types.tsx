@@ -56,7 +56,7 @@ export type initialFlowType = {
   ptBRExtendedS: string[] | null,
   ptBRExtendedC: string[] | null,
   ptBRExtendedE: string[] | null,
-  method: "s" | "c" | "e" | null,
+  method: "s" | "c" | "e" | null | undefined,
   isSugDisabled: boolean,
   activeSug: string | null,
   activeFlag: string | null,

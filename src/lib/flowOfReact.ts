@@ -101,7 +101,7 @@ export function handleHomeState() {
       setState(prev =>({
         ...prev,
         inputNorm: ni(validWords[validWords.length - 1]),
-        inputFullText: fullText
+        inputFullText: fullText,
       }))
     }
   };
@@ -121,30 +121,38 @@ export function handleHomeState() {
   };
 
   const handleSuggestionClick = async (input: "s"|"c"|"e") => {
-    setState(prev =>({
-      ...prev,
-      method: input,
-      activeSug: input,
-      esperar: true,
-    }))
+    if (state.activeSug === input) {
+      setState(prev =>({
+        ...prev,
+        activeSug: null,
+        method: null
+      }))
+    } else {
+      setState(prev =>({
+        ...prev,
+        method: input,
+        activeSug: input,
+        esperar: true,
+      }))
+    }
   };
 
   const handleFlagsClick = (input: string) => {
-  if (state.activeFlag === input) {
-    setState(prev =>({
-      ...prev,
-      activeFlag: null,
-      flagGroup: "adv_adj_sub_Flags"
-    }))
-  } else {
-    setState(prev =>({
-      ...prev,
-      esperar: true,
-      flagGroup: input,
-      activeFlag: input
-    }))
-  }
-};
+    if (state.activeFlag === input) {
+      setState(prev =>({
+        ...prev,
+        activeFlag: null,
+        flagGroup: "adv_adj_sub_Flags"
+      }))
+    } else {
+      setState(prev =>({
+        ...prev,
+        esperar: true,
+        flagGroup: input,
+        activeFlag: input
+      }))
+    }
+  };
 
   const handleSynonymClick = (input: string) => {
     const inputArray = input.split(",").map((item) => item.trim());
@@ -199,15 +207,16 @@ export function handleHomeState() {
 
   useEffect(() => {
 
-    setState (prev => ({
-      ...prev,
-      esperar: true,
-      isSugDisabled: false
-    }))
+    if (state.input !== undefined && state.input !== '') {
+      setState (prev => ({
+        ...prev,
+        esperar: true,
+      }))
+    }
 
     const timer = setTimeout(async () => {
       if (
-        state.input !== undefined && 
+        state.input !== undefined &&
         (state.input.length >= 3 || state.inputNorm.length >= 3)
       ) {
 
@@ -215,7 +224,7 @@ export function handleHomeState() {
         let C: string[] | null = null
         let S: string[] | null = null
 
-        if (state.method === null) {
+        if (state.method === undefined) {
           setState (prev => ({
             ...prev,
             method: "e"
@@ -224,6 +233,7 @@ export function handleHomeState() {
           setState (prev => ({
             ...prev,
             ptBRExtendedE: E,
+            isSugDisabled: false
           }))
           return
         }
@@ -231,33 +241,38 @@ export function handleHomeState() {
           E = await fetchPTExtended(state.flagGroup, String(state.input), "e", state.activeFlag ? true : false);
           setState (prev => ({
             ...prev,
-            ptBRExtendedE: E
+            ptBRExtendedE: E,
+            isSugDisabled: false
           }))
         }
         if (state.method === "s") {
           S = await fetchPTExtended(state.flagGroup, String(state.input), "s", state.activeFlag ? true : false);
           setState (prev => ({
             ...prev,
-            ptBRExtendedE: S
+            ptBRExtendedE: S,
+            isSugDisabled: false
           }))
         }
         if (state.method === "c") {
           C = await fetchPTExtended(state.flagGroup, String(state.input), "c", state.activeFlag ? true : false);
           setState (prev => ({
             ...prev,
-            ptBRExtendedE: C
+            ptBRExtendedE: C,
+            isSugDisabled: false
           }))
         }
         if (E?.length > 0 || S?.length > 0 || C?.length > 0) {
           setState (prev => ({
             ...prev,
-            activeSug: state.method
+            activeSug: state.method,
+            isSugDisabled: false
           }))
         }
         if (E?.length === 0 && S?.length === 0 && C?.length === 0) {
           setState (prev => ({
             ...prev,
-            activeSug: state.method
+            activeSug: state.method,
+            isSugDisabled: false
           }))
         }
         const silabas = await fetchHifenizador(state.input)
@@ -271,12 +286,13 @@ export function handleHomeState() {
         setState (prev => ({
           ...prev,
           isSugDisabled: true,
-          activeSug: null
+          activeSug: null,
+          esperar: false
         }))
       }
     }, 400);
     return () => clearTimeout(timer);
-  }, [state.input, state.method, state.inputNorm, state.flagGroup, state.activeFlag]);
+  }, [state.input, state.method, state.activeSug, state.inputNorm, state.flagGroup, state.activeFlag]);
 
   useEffect(() => {
 

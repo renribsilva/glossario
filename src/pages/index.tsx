@@ -22,7 +22,9 @@ export default function HomePage() {
     handleFlagsClick
   } = handleHomeState();
 
-  console.log(state.activeFlag, state.flagGroup)
+  console.log(state.activeFlag)
+  console.log(state.activeSug)
+  console.log(state.input)
 
   return (
     <div className={styles.home}>
@@ -94,19 +96,22 @@ export default function HomePage() {
                 </div>
                 <div className={styles.suggestions_list_container}>
                   <div className={styles.suggestions_list}>
-                    {state.esperar ? (
+                    {state.esperar && state.inputNorm.length >= 3? (
                       <div>aguarde...</div>
                     ) : (
                       <>
-                        {!state.esperar && state.inputNorm && state.inputNorm.length < 3 && (
+                        {state.inputNorm && state.inputNorm.length < 3 && (
                           <div>
                             <i>Sugestões para termos com três letras ou mais</i>
                           </div>
                         )}
-                        {!state.esperar && (state.inputNorm === '' || state.inputNorm === undefined) && (
+                        {(state.inputNorm === '' || state.inputNorm === undefined) && (
                           <div>
                             Digite o texto para ver palavras que contêm a última unidade digitada
                           </div>
+                        )}
+                        {state.inputNorm && state.inputNorm.length >= 3 && state.activeSug === null && (
+                          <div>Escolha uma forma de sugestão: s, c, e</div>
                         )}
                         {state.inputNorm && state.inputNorm.length >= 3 && ["s", "c", "e"].map((type) => {
                           const suggestions = {
@@ -119,8 +124,8 @@ export default function HomePage() {
                             c: "palavras que contêm",
                             e: "palavras que terminam em",
                           }[type];
-                          if (!state.esperar && state.activeSug !== type) return null;
-                          if (!state.esperar && suggestions && suggestions.length > 0) {
+                          if (state.activeSug !== type) return null;
+                          if (suggestions && suggestions.length > 0) {
                             return suggestions.map((entry, index) => (
                               <div key={index}>{entry}</div>
                             ));
@@ -129,7 +134,7 @@ export default function HomePage() {
                             <div key={type}>
                               <span>Sem sugestões para {label} </span>
                               <i>{state.input}</i>
-                              {!state.esperar && state.activeFlag !== null && (
+                              {state.activeFlag !== null && (
                                 <span> na flag <i>{state.activeFlag}</i></span>
                               )}
                             </div>

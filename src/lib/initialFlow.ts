@@ -15,7 +15,7 @@ export const initialFlowObject = {
   ptBRExtendedS: null,
   ptBRExtendedC: null,
   ptBRExtendedE: null,
-  method: null,
+  method: undefined,
   isSugDisabled: true,
   activeSug: null,
   activeFlag: null,
