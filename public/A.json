@@ -1,0 +1,247 @@
+{
+  "a": {
+    "1": {
+      "class": "abrev.",
+      "plain_text": "De autor.",
+      "comment": ""
+    },
+    "2": {
+      "class": "m.",
+      "plain_text": "Primeira letra do alphabeto portuguˆes.",
+      "comment": ""
+    },
+    "3": {
+      "class": "mús.",
+      "plain_text": "Primeira nota da escala na denomina¸c˜ao alphab´etica dos sons.",
+      "comment": ""
+    },
+    "4": {
+      "class": "adj.",
+      "plain_text": "Primeiro, (falando-se de um n´umero ou de um objecto que faz parte de uma s´erie). Que ´e de primeira classe, (falando-se de carruagens de caminho de ferro).",
+      "comment": ""
+    },
+    "5": {
+      "class": "art.",
+      "plain_text": "(fem. de o). Ant. la. (Do lat. illa).",
+      "comment": ""
+    },
+    "6": {
+      "class": "prep.",
+      "plain_text": "Que indica v´arias rela¸c˜oes. (Lat. ad).",
+      "comment": ""
+    },
+    "7": {
+      "class": "pron.",
+      "plain_text": "Flex˜ao fem. do pron. o.",
+      "comment": ""
+    } 
+  },
+  "à": {
+    "1": {
+      "class": "contr.",
+      "plain_text": "da prep. a com o art. a).",
+      "comment": ""
+    }
+  },
+  "á": {
+    "1": {
+      "class": "interj.",
+      "plain_text": "O mesmo que ah!.",
+      "comment": ""
+    }
+  },
+  "a.c.": {
+    "1": {
+      "class": "abrev.",
+      "plain_text": "(que acompanha certas datas, significando: antes de Christo)",
+      "comment": ""
+    }
+  },
+  "´a cˆerca" : {
+    "1": {
+      "class": "loc. prep.",
+      "plain_text": "(seg. da prep. de) A respeito de; relativamente a; sˆobre. (Do lat. circa).",
+      "comment": "Ver 'acerca de'."
+    }
+  },
+  "a final" : {
+    "1": {
+      "class": "adv.",
+      "plain_text": "Em-fim, finalmente. (De final).",
+      "comment": "Ver 'afinal'."
+    }
+  },
+  "a.m." : {
+    "1": {
+      "class": "abrev.",
+      "plain_text": "muito us. em c´alculos astron´omicos, e que designa ante meridiem, (antes do meio dia).",
+      "comment": ""
+    }
+  },
+  "á!" :{
+    "1": {
+      "class": "interj.",
+      "plain_text": "(design. de admira¸c˜ao, dˆor, alegria, etc.) (T. commum a muitas l´ınguas)",
+      "comment": ""
+    }
+  },
+  "á! á! á!": {
+    "1": {
+      "class": "interj.",
+      "plain_text": "(correspondente ao riso franco, ´a gargalhada)",
+      "comment": ""
+    }
+  },
+  "a-cantaros": {
+    "1": {
+      "class": "loc. adv.",
+      "plain_text": "Copiosamente, com abundˆancia.",
+      "comment": "Ver 'a cantaros'."
+    }
+  },
+  "´a-cima": {
+    "1": {
+      "class": "loc. adv.",
+      "plain_text": "Ant. Por fim, afinal.",
+      "comment": ""
+    }
+  },
+  "´a-clara": {
+    "1": {
+      "class": "loc. adv.",
+      "plain_text": "Des. O mesmo que ´as-claras.",
+      "comment": "Ver 'às claras'."
+    }
+  },
+  "a-d’el-rei": {
+    "1": {
+      "class": "m.",
+      "plain_text": "Grito de soccorro, o mesmo que aqui-d’el-rei: “os a-d’el-reis rara noite se n˜ao ouviam”. Camillo, Cavar em Ruin., 222.",
+      "comment": ""
+    }
+  },
+  "a-de-mais": {
+    "1": {
+      "class": "adv.",
+      "plain_text": "Al´em. Demais.",
+      "comment": "Ver 'ademais'."
+    }
+  },
+  "´a-derradeira": {
+    "1": {
+      "class": "loc. adv.",
+      "plain_text": "Ant. Em-fim, a final.",
+      "comment": ""
+    }
+  },
+  "a-deshoras": {
+    "1": {
+      "class": "loc. adv.",
+      "plain_text": "Tarde. Inopportunamente.",
+      "comment": ""
+    }
+  },
+  "a-desoras": {
+    "1": {
+      "class": "loc. adv.",
+      "plain_text": "Tarde. Inopportunamente.",
+      "comment": ""
+    }
+  },
+  "´a-dica": {
+    "1": {
+      "class": "loc. adv.",
+      "plain_text": "G´ır. Perto. Donde se vˆe bem. (Cp. adicar )",
+      "comment": ""
+    }
+  },
+  "a-feito": {
+    "1": {
+      "class": "loc. adv.",
+      "plain_text": "Prov. minh. A eito, a fio, seguidamente.",
+      "comment": ""
+    }
+  },
+  "a-flux": {
+    "1": {
+      "class": "loc. adv.",
+      "plain_text": "Em abundˆancia. Totalmente. (De fluxo)",
+      "comment": ""
+    }
+  },
+  "a-froixo": {
+    "1": {
+      "class": "adv.",
+      "plain_text": "O mesmo que a-flux.",
+      "comment": ""
+    }
+  },
+  "´a-futelifate": {
+    "1": {
+      "class": "loc. adv.",
+      "plain_text": "Prov. extrem. Des. Furtivamente, subrepticiamente, ´as escondidas. (Dizem sˆer talvez contr. e alter. de furta-lhe o fato)",
+      "comment": ""
+    }
+  },
+  "a-l’obra!": {
+    "1": {
+      "class": "loc. interj.",
+      "plain_text": "M˜aos ´a obra! Trabalhemos! Cf. Castilho, Fausto, 197. (Contr. de a la obra)",
+      "comment": "Ver 'à obra!'"
+    }
+  },
+  "a-la-grande": {
+    "1": {
+      "class": "loc. adv.",
+      "plain_text": "Ant. ´A grande, com grandeza; ostentosamente. Cf. Filinto, D. Manuel, III, 212.",
+      "comment": ""
+    }
+  },
+  "a-la-una": {
+    "1": {
+      "class": "adv.",
+      "plain_text": "´A uma. Juntamente. * M. Prov. alent. Jˆogo de rapazes, em que se emprega o salto e certos estribilhos. (Loc. cast.)",
+      "comment": ""
+    }
+  },
+  "a-lugares": {
+    "1": {
+      "class": "loc. adv.",
+      "plain_text": "Ant. Parcialmente.",
+      "comment": ""
+    }
+  },
+  "a-mi´udo": {
+    "1": {
+      "class": "adv.",
+      "plain_text": "Corr. de ami´ude). Cf. Camillo, Retr. de Ricard., 11.",
+      "comment": "Ver 'a miúdo' ou 'amiúde'."
+    }
+  },
+  "a-nado": {
+    "1": {
+      "class": "loc. adv.",
+      "plain_text": "Nadando: Passar um rio a-nado.",
+      "comment": ""
+    }
+  },
+  "a-par": {
+    "1": {
+      "class": "loc. prep.",
+      "plain_text": "Junto; ao lado; ao p´e: passou a-par ˆelle. *",
+      "comment": ""
+    },
+    "2": {
+      "class": "Loc. adv.",
+      "plain_text": "Parallelamente. Ao lado um do outro: os dois passaram a-par. (De a + par )",
+      "comment": ""
+    }
+  },
+  "´a-parte": {
+    "1": {
+      "class": "adv.",
+      "plain_text": "Separadamente. M. Interrup¸c˜ao; palavra ou phrase, pronunciada emquanto outrem est´a discursando. (De parte)",
+      "comment": ""
+    }
+  }
+}
