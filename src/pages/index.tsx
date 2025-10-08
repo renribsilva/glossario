@@ -22,8 +22,8 @@ export default function HomePage() {
     handleFlagsClick
   } = handleHomeState();
 
-  console.log("input:", state.input)
-  console.log("inputNorm:", state.inputNorm)
+  // console.log("input:", state.input)
+  // console.log("inputNorm:", state.inputNorm)
   // console.log("activeFlag:", state.activeFlag)
   // console.log("activeSug:", state.activeSug)
   // console.log("method:", state.method)
