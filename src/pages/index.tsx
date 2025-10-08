@@ -99,7 +99,7 @@ export default function HomePage() {
                 </div>
                 <div className={styles.suggestions_list_container}>
                   <div className={styles.suggestions_list}>
-                    {state.esperar && state.activeSug !== null && state.inputNorm.length >= 3? (
+                    {state.esperar ? (
                       <div>aguarde...</div>
                     ) : (
                       <>

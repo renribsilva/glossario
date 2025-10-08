@@ -207,10 +207,12 @@ export function handleHomeState() {
 
   useEffect(() => {
 
-    setState(prev => ({
-      ...prev,
-      esperar: true
-    }))
+    if (state.inputNorm !== undefined && state.inputNorm !== '' && state.inputNorm.length >= 3){
+      setState (prev => ({
+        ...prev,
+        esperar: true,
+      })) 
+    }
 
     const timer = setTimeout(async () => {
 
@@ -225,16 +227,14 @@ export function handleHomeState() {
       }
 
       if (state.inputNorm !== undefined && state.inputNorm !== '') {
-        setState (prev => ({
-          ...prev,
-          esperar: true,
-        }))
+
         if (state.inputNorm.length < 3) {
           setState (prev => ({
             ...prev,
             isSugDisabled: true,
             activeFlag: null,
-            activeSug: null
+            activeSug: null,
+            esperar: false
           }))
         } else if (state.inputNorm.length >= 3) {
 
@@ -254,7 +254,8 @@ export function handleHomeState() {
             setState (prev => ({
               ...prev,
               ptBRExtendedE: E,
-              isSugDisabled: false
+              isSugDisabled: false,
+              esperar: false
             }))
             return
           }
@@ -268,7 +269,8 @@ export function handleHomeState() {
             setState (prev => ({
               ...prev,
               ptBRExtendedE: E,
-              isSugDisabled: false
+              isSugDisabled: false,
+              esperar: false
             }))
           }
           if (state.method === "s") {
@@ -281,7 +283,8 @@ export function handleHomeState() {
             setState (prev => ({
               ...prev,
               ptBRExtendedE: S,
-              isSugDisabled: false
+              isSugDisabled: false,
+              esperar: false
             }))
           }
           if (state.method === "c") {
@@ -294,7 +297,8 @@ export function handleHomeState() {
             setState (prev => ({
               ...prev,
               ptBRExtendedE: C,
-              isSugDisabled: false
+              isSugDisabled: false,
+              esperar: false
             }))
           }
           if (E?.length > 0 || S?.length > 0 || C?.length > 0) {
