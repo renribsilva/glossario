@@ -3,8 +3,8 @@ import { hifenizador } from "../../lib/hifenizador";
 import fs from 'fs';
 import path from 'path';
 
-const hyph_path = path.join(process.cwd(), 'public', 'hyph_pt_BR.dic')
-const my_hyph_path = path.join(process.cwd(), 'public', 'my_hyph.dic')
+const hyph_path = path.join(process.cwd(), 'public', "libre", 'hyph_pt_BR.dic')
+const my_hyph_path = path.join(process.cwd(), 'public', "libre", 'my_hyph.dic')
 
 const myRules = fs.readFileSync(my_hyph_path, 'utf-8')
   .split(/\r?\n/)

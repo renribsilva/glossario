@@ -3,7 +3,7 @@ import path from "path";
 import { ExtendedWordMap } from "../types";
 
 const jsonDir = path.join(process.cwd(), "src", "json", "ptBRExtendedJson", "flagsJson");
-const dicPath = path.join(process.cwd(), "public", "pt_BR.dic");
+const dicPath = path.join(process.cwd(), "public", "libre", "pt_BR.dic");
 
 const extendedDataCache: { [key: string]: { data: ExtendedWordMap } } = {};
 let dicWordsCache: string[] | null = null;

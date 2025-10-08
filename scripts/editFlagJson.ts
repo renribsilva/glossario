@@ -1,8 +1,8 @@
 import fs from "fs";
 import path from "path";
 
-const affPath = path.join(process.cwd(), "public", "pt_BR.aff");
-const dicPath = path.join(process.cwd(), "public", "pt_BR.dic");
+const affPath = path.join(process.cwd(), "public", "libre", "pt_BR.aff");
+const dicPath = path.join(process.cwd(), "public", "libre", "pt_BR.dic");
 const outputDir = path.join(process.cwd(), "src", "json", "ptBRExtendedJson", "flagsJson");
 
 const rawAff = fs.readFileSync(affPath, "utf-8");
