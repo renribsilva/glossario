@@ -271,7 +271,7 @@ export function handleHomeState() {
           S = await fetchPTExtended(state.flagGroup, String(state.input), "s", state.activeFlag ? true : false);
           setState (prev => ({
             ...prev,
-            ptBRExtendedE: S,
+            ptBRExtendedS: S,
             isSugDisabled: false,
           }))
         }
@@ -284,7 +284,7 @@ export function handleHomeState() {
           C = await fetchPTExtended(state.flagGroup, String(state.input), "c", state.activeFlag ? true : false);
           setState (prev => ({
             ...prev,
-            ptBRExtendedE: C,
+            ptBRExtendedC: C,
             isSugDisabled: false,
           }))
         }
@@ -321,7 +321,7 @@ export function handleHomeState() {
         esperar: false,
       }))
     })();
-  }, [state.input, state.method, state.activeSug, state.inputNorm, state.flagGroup, state.activeFlag]);
+  }, [state.input, state.method, state.activeSug, state.flagGroup, state.activeFlag]);
 
   useEffect(() => {
 

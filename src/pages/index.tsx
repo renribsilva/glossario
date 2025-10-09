@@ -28,6 +28,7 @@ export default function HomePage() {
   // console.log("activeSug:", state.activeSug)
   // console.log("method:", state.method)
   // console.log("isSugDisabled:", state.isSugDisabled)
+  // console.log(state.ptBRExtendedC)
 
   return (
     <div className={styles.home}>

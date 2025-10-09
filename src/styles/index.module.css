@@ -101,8 +101,9 @@
 
 .textarea_container_second {
   /* background-color:var(--panels); */
-  flex: 1;       /* ocupa o espaço disponível */
-  min-height: 0; /* essencial para overflow em flex funcionar */
+  flex: 1;    
+  min-height: 0;
+  min-width: 0;
   display: flex;
   flex-direction: column;
   padding: 5px;
@@ -166,6 +167,7 @@
 .suggestion_list_box {
   flex: 1;
   min-height: 0;
+  min-width: 0;
   display: flex;
   flex-direction: column;
   gap: 5px;
@@ -200,19 +202,16 @@
 }
 
 .suggestions_list_container {
-  flex: 1;          /* ocupa todo o espaço restante do pai */
-  min-height: 0;    /* fundamental para overflow funcionar */
-  overflow-x: auto;
-  overflow-y: auto;
+  flex: 1;
+  min-height: 0;  
+  min-width: 0; 
   display: flex;
 }
 
 .suggestions_list {
   /* background-color: aqua; */
   flex: 1;             /* ocupa todo o container */
-  min-height: 0;       /* garante scroll dentro do flex */
-  display: flex;
-  flex-direction: column;
+  overflow: auto;
 }
 
 /*************************************************/
