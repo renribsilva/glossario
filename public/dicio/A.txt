@@ -1,6 +1,7 @@
 //ignorar tudo que estiver dentro de ##
 //considerar que algumas entradas são duplicadas
 //arrumar crase para 'á ' e 'ás'
+//prefixos ...
 
 a#.#| abrev.| De autor.
 a#,1 (á)#| m.| Primeira letra do alphabeto português. 
@@ -46,117 +47,71 @@ a-propósito |loc. adv.| Em occasião opportuna; convenientemente; a talho de fo
 a-tempo |loc. adv.| Opportunamente. Em bôa hora. M. Opportunidade, ensejo.
 á-tôa |loc. adv.| Sem reflexão. Ao acaso.
 á-xis |m.| Ant. O abecê, o princı́pio das coisas: “farteei tornar ao axis”. Chiado, Obras, 187. “Quando V. M. pegou no a. x., já eu tinha de cór...” J. Daniel, Casa de Pasto.
+aa#, (ás)# |m.| pl. Caracteres, que pluralizam a representação phonética da primeira letra do alphabeto.
+aacima |adv.| Ant. Finalmente; em conclusão.
+aal |m.| Árvore terebinthácea, cuja casca aromatiza o vinho.
+aalênio |m.| Geol. O terreno que predomina nas cercanias de Aalen, (Alemanha).
+aalênio |adj.| Geol. Diz-se desse terreno.
+aata |f.| Bras. Canôa de casca de madeira, com as extremidades achatadas em fórma de bico de pato. (Do tupi aa, mal e atá, andar).
+aaz |f.| Ant. Ala, acampamento. Companhia, communidade. (Do lat. acies).
+ab... |pref.| (que designa intensão, separação, opposição). (Do lat. ab).
+abá |m.| Manto de beduinos.
+aba#,1# |f.| Extremidade (de alguns vestidos). Prolongamento dos lados de um corpo ou superfı́cie: a aba do chapéu. Peça saliente, em certas obras de carpintaria, alvenaria e serralharia. Vizinhança, sopé: na aba da serra.
+aba#,2#| m.| Tı́tulo do Bispo em algumas Igrejas orientaes. (Do syr. abba).
+ababás |m.| pl. Aborigenes do Brasil, que habitaram Mato-Grosso.
+abacá |m.| Espécie de bananeira, também conhecida por côfo. Fibra dessa planta.
+abacamartado |adj.| Parecido com um bacamarte: “uma cravina abacamartada.” (De um testamento de 1693)
+abaçanar |v. t.| (V. abacinar ).
+abacate |m.| Fruto do abacateiro. * O mesmo que abacateiro.
+abacateiro |m.| Árvore tropical, de fruto comestı́vel.
+abacatina |f.| Peixe do Brasil.
+abacatirana |f.| Arvore laurácea do Brasil.
+abacaxi |m.| Espécie de ananás, (bromelia ananas, Lin.)
+abacelado |adj.| Convertido em bacello. Plantado de bacello: encosta abacellada.
+abacelamento |m.| Acto ou effeito de abacellar.
+abacelar |v. t.| Converter em bacello. Plantar de bacello.
+abacellado |adj.| Convertido em bacello. Plantado de bacello: encosta abacellada.
+abacellamento |m.| Acto ou effeito de abacellar.
+abacellar |v. t.| Converter em bacello. Plantar de bacello.
+abaceto#, (cê)#| m.| Gênero de coleópteros pentâmeros.
+abacial |adj.| Que diz respeito ao abbade ou á abbadia. (Do b. lat. abbatialis).
+abacinar |v. t.| Tornar escuro, privar da claridade. Arroxear (a pelle). (Do b. lat. abacinare).
+abacista |m.| O que trabalhava ou estudava no ábaco. (B. lat. abacista).
+ábaco |m.| Archit. Parte superior do capitel, em que assenta a architrave. Quadro antigo, em que se inscreviam os algarismos, para ensinar a calcular. Antigo bufete ou aparador. * Artilh. Desenho, para se fazerem certos cálculos, em problemas de tiro, não por números, mas por linhas. (Lat. abacus).
+abactor |m.| Ladrão de gados. (Lat. abactor ).
+abáculo |m.| Pequeno ábaco, antiga mesa pequena. Pedra variegada, usada pelos Romanos em certos jogos. Cubo de tijolo ou vidro, pintado e embutido em pavimentos de mosaico.
+abacutaia |f.| Peixe do Brasil.
+abada#,1# |f.| Aba cheia; grande quantidade: trazia abadas de rosas. (De aba).
+abada#,2#| f.| Fêmea do rhinoceronte; pachiderme, análogo àquelle. (Do mal. badaq, rhinoceronte).
+abadado |m.| Ant. O mesmo que abbadia.
+abadágio |m.| Refeição, que os parochianos eram obrigados a dar ao abbade.
+abadalassa |m.| Jôgo antigo. Cf. Cancion. Ger., I, 146.
+abadar |v. t.| Prover de abbade.
+abadavina |f.| Pássaro conirostro.
+abade |m.| Prelado de ordem monástica. Aquelle que governa uma abbadia. Cura de almas, párocho. (Do b. lat. abbas).
+abadecı́dio |m.| Assassinio de abbade. Cf. B. Pato, Ciprestes, 107.
+abadejo |m.| O mesmo que badejo. Prov. O mesmo que vaca-loira.
+abadengo |m.| Ant. Legado pio ou esmola, que se dava em vida ou se deixava por morte ao confessor. O antigo direito de sêr abbade de alguma igreja. Adj. Relativo ao território ou á jurisdicção de abbade.
+abadernar |v. t.| Náut. Apertar com badernas.
+abadesco |adj.| Próprio de abbade.
+abadessa |f.| Prelada de communidade religiosa. (Do b. lat. abbatissa).
+abadessado |m.| Cargo de abbadessa. O tempo que dura esse cargo. As festas, com que se elege a abbadessa.
+abadessona |f.| Fam. Abbadessa muito encorpada. Cf. Garrett, Flores, 95.
+abadia |f.| Igreja, regida por abbade. Paróchia. Rendimento do abbade.
+abadiado |m.| O mesmo que abbadia.
+abadim |m.| Ant. Lugar, habitado por observantes religiosos. (De abbade).
+abadir |m.| Pedra, que, segundo a Mythologia, Saturno enguliu, enganado por sua mulher. Cf. Castilho, Fastos, II, 251. O mesmo que bétylo. (Lat. abadir ).
+abado#, (àbá)#| adj.| Que tem abas grandes: chapéu abado.
+abaetado#, (baê)#| adj.| Semelhante a baêta.
+abaetar#, (baê)#| v. t.| Vestir com baêta. Fabricar (tecido que imite a baêta).
+abafa! |interj.| Grito imperativo, para os marinheiros ferrarem as velas.
+abafação |f.| Acto de abafar : “Tenho ataques de abafação”. Camillo, Mulher Fatal, p. 210.
+abafadamente |adv.| De modo abafado.
+abafadela |f.| O mesmo que abafação. O mesmo que abafarete.
+abafadiço |adj.| Susceptı́vel de se suffocar. Que suffoca: tempo abafadiço. Irascı́vel.
 
 
-aa, (ás) m. pl. Caracteres, que pluralizam a representação
-phonética da primeira letra do alphabeto.
-aacima adv. Ant. Finalmente; em conclusão.
-aal m. Árvore terebinthácea, cuja casca aromatiza o vinho.
-aalênio m. e adj. Geol. Diz-se do terreno que predomina
-nas cercanias de Aalen, (Alemanha).
-aata f. Bras. Canôa de casca de madeira, com as extremi-
-dades achatadas em fórma de bico de pato. (Do tupi aa,
-mal e atá, andar).
-aaz f. Ant. Ala, acampamento. Companhia, communidade.
-(Do lat. acies).
-ab... pref. (que designa intensão, separação, opposição).
-(Do lat. ab).
-abá m. Manto de beduinos.
-aba,1 f. Extremidade (de alguns vestidos). Prolongamento
-dos lados de um corpo ou superfı́cie: a aba do chapéu.
-Peça saliente, em certas obras de carpintaria, alvenaria e
-serralharia. Vizinhança, sopé: na aba da serra.
-aba,2 m. Tı́tulo do Bispo em algumas Igrejas orientaes. (Do
-syr. abba).
-ababás m. pl. Aborigenes do Brasil, que habitaram Mato-
-Grosso.
-abacá m. Espécie de bananeira, também conhecida por côfo.
-Fibra dessa planta.
-abacamartado adj. Parecido com um bacamarte: “uma
-cravina abacamartada.” (De um testamento de 1693)
-abaçanar v. t. (V. abacinar ).
-abacate m. Fruto do abacateiro. * O mesmo que abacateiro.
-abacateiro m. Árvore tropical, de fruto comestı́vel.
-abacatina f. Peixe do Brasil.
-abacatirana f. Arvore laurácea do Brasil.
-abacaxi m. Espécie de ananás, (bromelia ananas, Lin.)
-abacelado adj. Convertido em bacello. Plantado de bacello:
-encosta abacellada.
-abacelamento m. Acto ou effeito de abacellar.
-abacelar v. t. Converter em bacello. Plantar de bacello.
-abacellado adj. Convertido em bacello. Plantado de ba-
-cello: encosta abacellada.
-abacellamento m. Acto ou effeito de abacellar.
-abacellar v. t. Converter em bacello. Plantar de bacello.
-abaceto, (cê) m. Gênero de coleópteros pentâmeros.
-abacial adj. Que diz respeito ao abbade ou á abbadia. (Do
-b. lat. abbatialis).
-abacinar v. t. Tornar escuro, privar da claridade. Arroxear
-(a pelle). (Do b. lat. abacinare).
-abacista m. O que trabalhava ou estudava no ábaco. (B.
-lat. abacista).
-ábaco m. Archit. Parte superior do capitel, em que as-
-2
-senta a architrave. Quadro antigo, em que se inscreviam
-os algarismos, para ensinar a calcular. Antigo bufete ou
-aparador. * Artilh. Desenho, para se fazerem certos cál-
-culos, em problemas de tiro, não por números, mas por
-linhas. (Lat. abacus).
-abactor m. Ladrão de gados. (Lat. abactor ).
-abáculo m. Pequeno ábaco, antiga mesa pequena. Pedra
-variegada, usada pelos Romanos em certos jogos. Cubo
-de tijolo ou vidro, pintado e embutido em pavimentos de
-mosaico.
-abacutaia f. Peixe do Brasil.
-abada,1 f. Aba cheia; grande quantidade: trazia abadas de
-rosas. (De aba).
-abada,2 f. Fêmea do rhinoceronte; pachiderme, análogo
-àquelle. (Do mal. badaq, rhinoceronte).
-abadado m. Ant. O mesmo que abbadia.
-abadágio m. Refeição, que os parochianos eram obrigados
-a dar ao abbade.
-abadalassa m. Jôgo antigo. Cf. Cancion. Ger., I, 146.
-abadar v. t. Prover de abbade.
-abadavina f. Pássaro conirostro.
-abade m. Prelado de ordem monástica. Aquelle que governa
-uma abbadia. Cura de almas, párocho. (Do b. lat. abbas).
-abadecı́dio m. Assassinio de abbade. Cf. B. Pato, Cipres-
-tes, 107.
-abadejo m. O mesmo que badejo. Prov. O mesmo que
-vaca-loira.
-abadengo m. Ant. Legado pio ou esmola, que se dava em
-vida ou se deixava por morte ao confessor. O antigo direito
-de sêr abbade de alguma igreja. Adj. Relativo ao território
-ou á jurisdicção de abbade.
-abadernar v. t. Náut. Apertar com badernas.
-abadesco adj. Próprio de abbade.
-abadessa f. Prelada de communidade religiosa. (Do b. lat.
-abbatissa).
-abadessado m. Cargo de abbadessa. O tempo que dura
-esse cargo. As festas, com que se elege a abbadessa.
-abadessona f. Fam. Abbadessa muito encorpada. Cf. Gar-
-rett, Flores, 95.
-abadia f. Igreja, regida por abbade. Paróchia. Rendimento
-do abbade.
-abadiado m. O mesmo que abbadia.
-abadim m. Ant. Lugar, habitado por observantes religiosos.
-(De abbade).
-abadir m. Pedra, que, segundo a Mythologia, Saturno en-
-guliu, enganado por sua mulher. Cf. Castilho, Fastos, II,
-251. O mesmo que bétylo. (Lat. abadir ).
-abado, (àbá) adj. Que tem abas grandes: chapéu abado.
-abaetado, (baê) adj. Semelhante a baêta.
-abaetar, (baê) v. t. Vestir com baêta. Fabricar (tecido
-que imite a baêta).
-abafa! interj. Grito imperativo, para os marinheiros ferra-
-rem as velas.
-abafação f. Acto de abafar : “Tenho ataques de abafação”.
-Camillo, Mulher Fatal, p. 210.
-abafadamente adv. De modo abafado.
-abafadela f. O mesmo que abafação. O mesmo que abafa-
-rete.
-abafadiço adj. Susceptı́vel de se suffocar. Que suffoca:
-tempo abafadiço. Irascı́vel.
+
 abafado adj. Que se respira com difficuldade: ar abafado.3
 Pouco ou mal ventilado: casa abafada. Diz-se do vinho, de
 cujo mosto se impediu a fermentação. (De abafar ).
