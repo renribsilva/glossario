@@ -205,124 +205,122 @@ export function handleHomeState() {
     void fetchData();
   }, []);
 
-  useEffect(() => {
+  const processSugList = async () => {
 
-    if (state.inputNorm !== undefined && state.inputNorm !== '' && state.inputNorm.length >= 3){
+    if (state.inputNorm === '' || state.inputNorm === undefined) {
+      setState (prev => ({
+        ...prev,
+        isSugDisabled: true,
+        method: undefined,
+        activeFlag: null,
+        activeSug: null
+      }))
+    }
+
+    if (state.inputNorm !== undefined && state.inputNorm !== '') {
+
+      if (state.inputNorm.length < 3) {
+        setState (prev => ({
+          ...prev,
+          isSugDisabled: true,
+          activeFlag: null,
+          activeSug: null,
+          esperar: false
+        }))
+      } else if (state.inputNorm.length >= 3) {
+
+        // console.log(state.method)
+
+        let S: string[] | null = null
+        let C: string[] | null = null
+        let E: string[] | null = null
+
+        if (state.method === undefined) {
+          setState (prev => ({
+            ...prev,
+            method: "e",
+            activeSug: "e"
+          }))
+          E = await fetchPTExtended(state.flagGroup, String(state.input), "e", state.activeFlag ? true : false);
+          setState (prev => ({
+            ...prev,
+            ptBRExtendedE: E,
+            isSugDisabled: false,
+          }))
+          return
+        }
+        if (state.method === "e") {
+          setState (prev => ({
+            ...prev,
+            method: "e",
+            activeSug: "e"
+          }))
+          E = await fetchPTExtended(state.flagGroup, String(state.input), "e", state.activeFlag ? true : false);
+          setState (prev => ({
+            ...prev,
+            ptBRExtendedE: E,
+            isSugDisabled: false,
+          }))
+        }
+        if (state.method === "s") {
+          setState (prev => ({
+            ...prev,
+            method: "s",
+            activeSug: "s"
+          }))
+          S = await fetchPTExtended(state.flagGroup, String(state.input), "s", state.activeFlag ? true : false);
+          setState (prev => ({
+            ...prev,
+            ptBRExtendedE: S,
+            isSugDisabled: false,
+          }))
+        }
+        if (state.method === "c") {
+          setState (prev => ({
+            ...prev,
+            method: "c",
+            activeSug: "c"
+          }))
+          C = await fetchPTExtended(state.flagGroup, String(state.input), "c", state.activeFlag ? true : false);
+          setState (prev => ({
+            ...prev,
+            ptBRExtendedE: C,
+            isSugDisabled: false,
+          }))
+        }
+        if (E?.length > 0 || S?.length > 0 || C?.length > 0) {
+          setState (prev => ({
+            ...prev,
+            isSugDisabled: false
+          }))
+        }
+        if (E?.length === 0 && S?.length === 0 && C?.length === 0) {
+          setState (prev => ({
+            ...prev,
+            isSugDisabled: false
+          }))
+        }
+        const silabas = await fetchHifenizador(state.input)
+        setState (prev => ({
+          ...prev,
+          silaba: silabas.word.replace(/-/g, "·"),
+        }))
+      }
+    }
+  }
+
+  useEffect(() => {
+    (async () => {
       setState (prev => ({
         ...prev,
         esperar: true,
       })) 
-    }
-
-    const timer = setTimeout(async () => {
-
-      if (state.inputNorm === '' || state.inputNorm === undefined) {
-        setState (prev => ({
-          ...prev,
-          isSugDisabled: true,
-          method: undefined,
-          activeFlag: null,
-          activeSug: null
-        }))
-      }
-
-      if (state.inputNorm !== undefined && state.inputNorm !== '') {
-
-        if (state.inputNorm.length < 3) {
-          setState (prev => ({
-            ...prev,
-            isSugDisabled: true,
-            activeFlag: null,
-            activeSug: null,
-            esperar: false
-          }))
-        } else if (state.inputNorm.length >= 3) {
-
-          // console.log(state.method)
-
-          let S: string[] | null = null
-          let C: string[] | null = null
-          let E: string[] | null = null
-
-          if (state.method === undefined) {
-            setState (prev => ({
-              ...prev,
-              method: "e",
-              activeSug: "e"
-            }))
-            E = await fetchPTExtended(state.flagGroup, String(state.input), "e", state.activeFlag ? true : false);
-            setState (prev => ({
-              ...prev,
-              ptBRExtendedE: E,
-              isSugDisabled: false,
-              esperar: false
-            }))
-            return
-          }
-          if (state.method === "e") {
-            setState (prev => ({
-              ...prev,
-              method: "e",
-              activeSug: "e"
-            }))
-            E = await fetchPTExtended(state.flagGroup, String(state.input), "e", state.activeFlag ? true : false);
-            setState (prev => ({
-              ...prev,
-              ptBRExtendedE: E,
-              isSugDisabled: false,
-              esperar: false
-            }))
-          }
-          if (state.method === "s") {
-            setState (prev => ({
-              ...prev,
-              method: "s",
-              activeSug: "s"
-            }))
-            S = await fetchPTExtended(state.flagGroup, String(state.input), "s", state.activeFlag ? true : false);
-            setState (prev => ({
-              ...prev,
-              ptBRExtendedE: S,
-              isSugDisabled: false,
-              esperar: false
-            }))
-          }
-          if (state.method === "c") {
-            setState (prev => ({
-              ...prev,
-              method: "c",
-              activeSug: "c"
-            }))
-            C = await fetchPTExtended(state.flagGroup, String(state.input), "c", state.activeFlag ? true : false);
-            setState (prev => ({
-              ...prev,
-              ptBRExtendedE: C,
-              isSugDisabled: false,
-              esperar: false
-            }))
-          }
-          if (E?.length > 0 || S?.length > 0 || C?.length > 0) {
-            setState (prev => ({
-              ...prev,
-              isSugDisabled: false
-            }))
-          }
-          if (E?.length === 0 && S?.length === 0 && C?.length === 0) {
-            setState (prev => ({
-              ...prev,
-              isSugDisabled: false
-            }))
-          }
-          const silabas = await fetchHifenizador(state.input)
-          setState (prev => ({
-            ...prev,
-            silaba: silabas.word.replace(/-/g, "·"),
-            esperar: false
-          }))
-        }
-      }
-    }, 400);
-    return () => clearTimeout(timer);
+      await processSugList();
+      setState (prev => ({
+        ...prev,
+        esperar: false,
+      }))
+    })();
   }, [state.input, state.method, state.activeSug, state.inputNorm, state.flagGroup, state.activeFlag]);
 
   useEffect(() => {
