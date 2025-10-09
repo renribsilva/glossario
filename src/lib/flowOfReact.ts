@@ -72,6 +72,7 @@ export function handleHomeState() {
       .replace(/[!"#$%&'()*+,.ºª/:;¨´<=>?´@[\\\]^_`{|}~]+/g, "")
       .split(/\s+/);
     const validWords = words.filter(word => word.trim() !== "");
+    // console.log(validWords[validWords?.length - 1])
     if((validWords[validWords?.length - 1])?.trim().length >= 3 ) {
       setState(prev => ({
         ...prev,
@@ -92,6 +93,7 @@ export function handleHomeState() {
         .replace(/[!"#$%&'()*+,.ºª/:;¨´<=>?´@[\\\]^_`{|}~]+/g, "")
         .split(/\s+/);
       const validWords = words.filter(word => word.trim() !== "");
+      // console.log((validWords[validWords?.length - 1]))
       if((validWords[validWords?.length - 1])?.trim().length >= 3 ) {
         setState(prev => ({
           ...prev,
