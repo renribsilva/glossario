@@ -199,12 +199,14 @@ export function handleHomeState() {
   };
 
   useEffect(() => {
-    const fetchData = async () => {
-      const result = await fetchPTExtended("adv_adj_sub_Flags", "orla", "e", false);
-      // console.log(result);
-      return result;
-    };
-    void fetchData();
+    setTimeout(() => {
+      const fetchData = async () => {
+        const result = await fetchPTExtended("adv_adj_sub_Flags", "orla", "e", false);
+        // console.log(result);
+        return result;
+      };
+      void fetchData();
+    }, 2000)
   }, []);
 
   const processSugList = async () => {
