@@ -3,13 +3,7 @@
 //arrumar crase para 'á ' e 'ás'
 //prefixos ...
 
-a#.#| abrev.| De autor.
-a#,1 (á)#| m.| Primeira letra do alphabeto português. 
-a | Mús.| Primeira nota da escala na denominação alphabética dos sons. 
-a |Adj.| Primeiro, (falando-se de um número ou de um objecto que faz parte de uma série).# * Adj.# Que é de primeira classe, (falando-se de carruagens de caminho de ferro).
-a#,2 (á) #|art.| (fem. de o). Ant. la. (Do lat. illa).
-a#,3 (â)# |prep.| Que indica várias relações. (Lat. ad ).
-a#,4 (â)# |pron.| Flexão fem. do pron. o.
+a#.#| abrev.| De autor. #,1 (á)#| m.| Primeira letra do alphabeto português. | Mús.| Primeira nota da escala na denominação alphabética dos sons. |Adj.| Primeiro, (falando-se de um número ou de um objecto que faz parte de uma série).# * Adj.# Que é de primeira classe, (falando-se de carruagens de caminho de ferro). #,2 (á) #|art.| (fem. de o). Ant. la. (Do lat. illa). #,3 (â)# |prep.| Que indica várias relações. (Lat. ad ). #,4 (â)# |pron.| Flexão fem. do pron. o.
 à#,1 # |prep.| (contr. da prep. a com o art. a).
 á#,2#| interj.| O mesmo que ah!.
 a. c. |abrev.| (que acompanha certas datas, significando: antes de Christo)
@@ -37,8 +31,7 @@ a-la-una |adv.| Á uma. Juntamente. * M. Prov. alent. Jôgo de rapazes, em que s
 a-lugares |loc.| adv. Ant. Parcialmente.
 a-miúdo |adv.| (Corr. de amiúde). Cf. Camillo, Retr. de Ricard., 11.
 a-nado |loc. adv.| Nadando: Passar um rio a-nado.
-a-par |loc. prep.| Junto; ao lado; ao pé: passou a-par êlle. *
-a-par |Loc. adv. |Parallelamente. Ao lado um do outro: os dois passaram a-par. (De a + par )
+a-par |loc. prep.| Junto; ao lado; ao pé: passou a-par êlle. |Loc. adv. |Parallelamente. Ao lado um do outro: os dois passaram a-par. (De a + par )
 á-parte |adv.| Separadamente. M. Interrupção; palavra ou phrase, pronunciada emquanto outrem está discursando. (De parte)á-pela-manhan
 á-pela-manhan |adv.| Prov. trasm. O mesmo que amanhan.
 a-primas |loc. adv.| Ant. Em primeiro lugar.
@@ -50,14 +43,12 @@ a-tempo |loc. adv.| Opportunamente. Em bôa hora. M. Opportunidade, ensejo.
 aa#, (ás)# |m.| pl. Caracteres, que pluralizam a representação phonética da primeira letra do alphabeto.
 aacima |adv.| Ant. Finalmente; em conclusão.
 aal |m.| Árvore terebinthácea, cuja casca aromatiza o vinho.
-aalênio |m.| Geol. O terreno que predomina nas cercanias de Aalen, (Alemanha).
-aalênio |adj.| Geol. Diz-se desse terreno.
+aalênio |m.| Geol. O terreno que predomina nas cercanias de Aalen, (Alemanha). |adj.| Geol. Diz-se desse terreno.
 aata |f.| Bras. Canôa de casca de madeira, com as extremidades achatadas em fórma de bico de pato. (Do tupi aa, mal e atá, andar).
 aaz |f.| Ant. Ala, acampamento. Companhia, communidade. (Do lat. acies).
 ab... |pref.| (que designa intensão, separação, opposição). (Do lat. ab).
 abá |m.| Manto de beduinos.
-aba#,1# |f.| Extremidade (de alguns vestidos). Prolongamento dos lados de um corpo ou superfı́cie: a aba do chapéu. Peça saliente, em certas obras de carpintaria, alvenaria e serralharia. Vizinhança, sopé: na aba da serra.
-aba#,2#| m.| Tı́tulo do Bispo em algumas Igrejas orientaes. (Do syr. abba).
+aba#,1# |f.| Extremidade (de alguns vestidos). Prolongamento dos lados de um corpo ou superfı́cie: a aba do chapéu. Peça saliente, em certas obras de carpintaria, alvenaria e serralharia. Vizinhança, sopé: na aba da serra. #,2#| m.| Tı́tulo do Bispo em algumas Igrejas orientaes. (Do syr. abba).
 ababás |m.| pl. Aborigenes do Brasil, que habitaram Mato-Grosso.
 abacá |m.| Espécie de bananeira, também conhecida por côfo. Fibra dessa planta.
 abacamartado |adj.| Parecido com um bacamarte: “uma cravina abacamartada.” (De um testamento de 1693)
@@ -81,8 +72,7 @@ abacista |m.| O que trabalhava ou estudava no ábaco. (B. lat. abacista).
 abactor |m.| Ladrão de gados. (Lat. abactor ).
 abáculo |m.| Pequeno ábaco, antiga mesa pequena. Pedra variegada, usada pelos Romanos em certos jogos. Cubo de tijolo ou vidro, pintado e embutido em pavimentos de mosaico.
 abacutaia |f.| Peixe do Brasil.
-abada#,1# |f.| Aba cheia; grande quantidade: trazia abadas de rosas. (De aba).
-abada#,2#| f.| Fêmea do rhinoceronte; pachiderme, análogo àquelle. (Do mal. badaq, rhinoceronte).
+abada#,1# |f.| Aba cheia; grande quantidade: trazia abadas de rosas. (De aba). #,2#| f.| Fêmea do rhinoceronte; pachiderme, análogo àquelle. (Do mal. badaq, rhinoceronte).
 abadado |m.| Ant. O mesmo que abbadia.
 abadágio |m.| Refeição, que os parochianos eram obrigados a dar ao abbade.
 abadalassa |m.| Jôgo antigo. Cf. Cancion. Ger., I, 146.
@@ -109,421 +99,245 @@ abafação |f.| Acto de abafar : “Tenho ataques de abafação”. Camillo, Mul
 abafadamente |adv.| De modo abafado.
 abafadela |f.| O mesmo que abafação. O mesmo que abafarete.
 abafadiço |adj.| Susceptı́vel de se suffocar. Que suffoca: tempo abafadiço. Irascı́vel.
-
-
-
-abafado adj. Que se respira com difficuldade: ar abafado.3
-Pouco ou mal ventilado: casa abafada. Diz-se do vinho, de
-cujo mosto se impediu a fermentação. (De abafar ).
-abafador adj. Que abafa, que suffoca: calor abafador. M.
-Peça, que em certos instrumentos abafa o som, suspen-
-dendo a vibração das cordas. * M. Aquelle que, em certas
-seitas, apressava a morte ao moribundo, afogando-o com
-almofadas, para que não peccasse, depois de consolado pelo
-sacerdote. * Prov. Pano, com que se cobre o bule do chá,
-para que êste não arrefeça.
-abafadura f. O mesmo que abafamento.
-abafamento m. Acto de abafar. Falta de ar. Abafante.
-Adj. O mesmo que abafador.
-abafar,1 v. t. Tirar o bafo a; suffocar: o calor abafava os
-espectadores. Suffocar; asphyxiar. Impedir a combustão
-de: abafar o lume. Dissimular, conter: abafar um grito.
-Impedir a continuação de: abafar a questão. Esconder:
-abafar uma carta. Agasalhar com roupas: abafar a criança.
-Vin. Impedir a fermentação de (mosto). V. i. Respirar a
-custo: eu abafo. V. p. Agasalhar-se com roupas. * Prov.
-Cavar e preparar (o terreno), para a sementeira do milho.
-(Colhido em Alcanena)
-abafar,2 m. Peixe plagióstomo, cinzento por cima e esbran-
-quiçado por baixo.
-abafarete, (farê) m. Neol. Acto de abafar (uma questão
-parlamentar). No voltarete, acto de não mostrar na mesa
-a espadilha e o basto, quando há obrigação de os mostrar.
-abafas f. pl. Ant. Bravatas, ameaças arrogantes.
-abafeira f. Paúl, charco. Abafo. M. Acto de abafar. Aquillo
-que abafa ou resguarda. Aconchego, carinho.
-abafo m. Roupa ou pelles, que servem de agasalho. (De
-abafar )
-abagoar v. t. Prov. minh. Desengranzar; desenfiar. (De
-bago).
-abagum m. Ave tropical.
-abahuladamente, (ba-u) adv. De modo abahulado, á
-maneira de bahu.
-abahulado, (baú) adj. Que tem fórma de bahu.
-abahulador, (baú) m. O que abahula.
-abahulamento, (baú) m. Acto ou effeito de abahular.
-Arco abatido nas abóbadas. Superfı́cie curva das ruas cal-
-çadas, para se facilitar o escoamento das águas. Convexi-
-dade.
-abahular, (baú) v. t. Dar fórma de bahu a; tornar con-
-vexo.
-abainhar, (ba-i ) v. t. Fazer a baı́nha de. Impropriamente,
-o mesmo que embainhar.
-abaionetar v. t. Ferir ou trespassar com baioneta.
-abairramento m. Acto ou effeito de abairrar.
-abairrar v. t. Dividir em bairros.
-abaixa f. Espécie de fisga, usada na pesca da lampreia, ao
-norte de Portugal.
-abaixadela f. O mesmo que abaixadura.
-abaixador m. O que abaixa.
-abaixadura f. Acto ou effeito de abaixar.
-abaixamento m. Acto ou effeito de abaixar.
-abaixante m. O mesmo que abaixador.
-abaixar v. t. Dirigir para baixo, abater: abaixou os olhos.
-Fazer descer. Fig. Conter, reprimir. Aviltar. V. p.
-Humilhar-se. * Prov. Defecar. * Deminuir (altura, preço,
-temperatura, etc.). * Traçar (linha perpendicular), par-
-tindo de um ponto para uma recta ou plano. * Loc.
-abaluartar
-fam. Abaixar a prôa, submeter-se, humilhar-se, sujeitar-se.
-Abaixar a prôa a alguém, submetê-lo, reprimi-lo, humilhá-
-lo.
-abaixo adv. Para a parte inferior; na parte inferior, inferior-
-mente. * M. Um abaixo-assignado, petição, representação,
-ou documento subscrito por várias pessoas.
-abajoujamento m. Acto de abajoujar-se.
-abajoujar-se v. p. Fazer-se bajoujo.
-abaju,1 m. (V. Quebra-luz ; pantalha). (Do fr. abat-jour ).
-abaju,2 m. Raça mestiça do Brasil.
-abajúrdio m. Voc. us. por Garrett, em vez do francesismo
-abaju 1 .
-abalada f. Acto de abalar, partida. Direcção tomada pela
-caça que se levanta.
-abalado adj. Pouco firme, mal seguro: um dente abalado.
-Commovido, impressionado: fiquei abalado com a noticia.
-abaladura f. Prov. minh. O mesmo que abôrto.
-abalamento m. O mesmo que abalo: “abalamento de do-
-ença”. Galvão, Chrón. de Aff. H.
-abalançamento m. Acto de abalançar.
-abalançar v. t. Pesar com balança. Dar movimento libera-
-tório a. Arrojar, impellir.
-abalar v. t. Sacudir, tornando menos firme; fazer tremer.
-Deminuir: abalar o crédito. Impressionar, commover. V.
-i. Partir ou fugir com pressa.
-abalaustramento, (la-us) m. Acto de abalaustrar.
-abalaustrar, (la-us) v. t. Adornar com balaústres.
-abalável adj. Que póde sêr abalado.
-abaldear v. t. O mesmo que baldear.
-abalienação f. Transferência de gados, escravos ou terras
-a quem tinha o direito de os adquirir, entre os Romanos.
-(Do lat. abalienatio).
-abalienar v. t. Transferir por abalienação. (Do lat. abalie-
-nare).
-abalistar v. t. Atacar com tiros de balista.
-abalizadamente adv. De modo abalizado, com distincção.
-abalizado adj. Muito illustrado. Distinto. (De abalizar ).
-abalizador m. Aquelle que abaliza. * m. Vara, com que se
-medem as terras.
-abalizamento m. Acto ou effeito de abalizar.
-abalizar v. t. Marcar com balizas, balizar.
-abalo m. Acto ou effeito de abalar. Terremoto. Commoção.
-Fuga, partida.
-abaloar v. t. Dar fórma de balão a.
-abalofar v. t. Tornar balofo.
-abalonado adj. Neol. Que tem fórma de balão. Cf. Val.
-Magalhães, Contos.
-abaloso adj. Bras. de Minas. Pouco cômmodo, (falando-se
-do andar do cavallo). (De abalo)
-abalrôa f. O mesmo que balrôa.
-abalroação f. O mesmo que abalroamento.
-abalroada f. (V. abalroamento).
-abalroadela f. (V. abalroamento).
-abalroador m. e adj. O que abalrôa.
-abalroamento m. Acto ou effeito de abalroar.
-abalroar v. t. Atracar com balrôas. Ir de encontro a.
-abalsar v. t. Meter na balsa ou no balseiro.
-abalseirar v. t. O mesmo que abalsar.
-abaluartamento m. Acto de abaluartar.
-abaluartar v. t. Guarnecer de baluartes. Dar fórma de
-baluarte a.abama
-abama f. Planta liliácea, (anthericum ossifragum, Lin.)
-abâmeas f. pl. Grupo de plantas, que têm por typo a
-abama.
-abanadela f. Fam. Acto de abanar.
-abanador m. O mesmo que abano.
-abanadura f. O mesmo que abanadela.
-abanamoscas m. Enxotamoscas. Fig. Pequeno valor, in-
-significância.
-abananado adj. Fam. Aparvalhado, apalermado. Atur-
-dido. * Prov. alent. O mesmo que adoentado. (De abana-
-nar ).
-abananar v. t. Fam. Tornar palerma, aparvalhar. Aturdir.
-abanante adj. Que abana: “calção de abanante orelha”,
-Garrett, Fáb.
-abanão m. Pop. Acto de abanar ou agitar com fôrça.
-abanar v. t. Ventilar com abano. Agitar. Sacudir. * Fam.
-Aproximar-se de (alguém), para que êste satisfaça um pe-
-dido, ou dê a conhecer intenções. * Loc. fam. Abanar as
-orelhas, não annuir a um pedido ou proposta.
-abancado m. Pedra de abancado, a pedra arrancada do
-último banco inferior da pedreira. (De abancar ).
-abancar v. t. Distribuir por lugares á roda da banca. V. i.
-Sentar-se á banca.
-abandalhado adj. Que se abandalhou. (De abandalhar ).
-abandalhar v. t. Tornar bandalho, reles.
-abandar,1 v. t. Reunir em bando. V. p. Formar bando,
-bandear-se.
-abandar,2 v. t. Pôr de banda, separar, dar como quinhão:
-na partilha, o pai abandou-lhe duas belgas. Pôr bandas em:
-abandar de velludo um capote. Cf. Camillo, Narcót., II,
-304.
-abandear v. t. O mesmo que bandear.
-abandeirar v. t. O mesmo que embandeirar.
-abandejar v. t. Dar fórma de bandeja a. Limpar (cereaes),
-separando com bandeja o grão e a palha.
-abandoar v. t. (V. bandear ).
-abandonadamente adv. Com abandono, solitariamente.
-Desamparadamente.
-abandonado adj. Que ficou ao abandono. Desamparado.
-Solitário. (De abandonar ).
-abandonamento m. (V. abandono).
-abandonar v. t. Deixar ao abandono. Desamparar. Lar-
-gar. Renunciar. V. p. Entregar-se.
-abandonatário m. Neol. Indivı́duo, que adquiriu direito
-ou coisa abandonada por outrem. (De abandonar )
-abandonável adj. Que deve sêr abandonado. Que se póde
-abandonar.
-abandono m. Desamparo, desabrigo. Desleixo. Desistên-
-cia, renúncia.
-abaneenga m. Bras. Guarani ou tupi do sul.
-abanga f. Fruto de certa palmeira das Antilhas. Designação
-genérica, que nalguns povos da América do Sul se dá á
-bananeira. O mesmo que bango.
-abanheenga m. Bras. Guarani ou tupi do sul.
-abanicar v. i. Diz-se do toireiro, quando move o capote de
-um lado para o outro. * Abanar com leque. (De abanico).
-abanico m. Pequeno abano. Leque. * Ant. Gorjeira ou
-enfeite para o pescoço.
-abaninho m. (V. abanico).
-abano m. O mesmo que ventarola. Utensı́lio, em fórma de
-leque, para activar a combustão, agitando o ar. * m. Modo
-4
-de pesca, usado no Algarve, pondo-se no anzol um pedaço
-de pano branco, em vez de isca. Guarnição de vestuário,
-espécie de folho pregueado.
-abantesma, (tês) f. Pop. O mesmo que fantasma. Appa-
-rição medonha. * Fig. Objecto muito grande, espantoso.
-abanto m. Espécie de abutre. Adj. Cobarde, (falando-se do
-toiro).
-abapo m. Planta exótica, amaryllidea.
-abaquetar v. t. Dar fórma de baqueta a.
-abar v. t. Formar as abas de (um chapéu).
-abará m. Bras. Iguaria, feita de massa de feijão, pimenta e
-pijericum. (T. tupi).
-abaratar v. t. Tornar barato, abaixar o preço de, baratear.
-abarbado adj. Sobrecarregado, afrontado. (De abarbar ).
-abarbar v. t. Tocar com a barba, attingir. Igualar. Afron-
-tar. * Igualar em altura. * V. i. Diz-se das abelhas,
-quando se reúnem em massa, fóra da colmeia, formando
-cacho.
-abarbarado adj. Bras. Temerário. Valente. Terrivel. (De
-bárbaro).
-abarbarizar v. t. (V. barbarizar ).
-abarbear v. t. Pôr barbilho em.
-abarbelar v. t. Prender com barbella. Abarbetar. Levan-
-tar (a âncora) á altura da barbeta.
-abarbellar v. t. Prender com barbella. Abarbetar. Levan-
-tar (a âncora) á altura da barbeta.
-abarca f. Calçado, feito de uma sola, ligada ao pé por cor-
-reias. Tamanco. Calçado largo e mal feito. (Cp. abarcar ).
-abarcador m. Aquelle que abarca.
-abarcamento m. Acto ou effeito de abarcar.
-abarcante adj. Que abarca.
-abarcar v. t. Abranger, cingir. Conter. Monopolizar. (Do
-cast. abarcar ?)
-abarcas f. pl. Prov. alg. Luta, braço a braço, para experi-
-ência de fôrças. (De abarcar ).
-abarém m. Bras. Espécie de bolo de milho ou de arroz
-moı́do.
-abaremo-temo m. Árvore leguminosa do Brasil.
-abarga f. Ant. Espécie de nassa.
-abaritonado adj. Semelhante a barı́tono: um tenor abari-
-tonado.
-abarracado adj. Que tem fórma de barraca: casa abarra-
-cada. (De abarracar ).
-abarracamento m. Acto ou effeito de abarracar. Série de
-barracas. Lugar onde há barracas.
-abarracar v. t. Formar barracas em. Meter em barracas.
-Dar fórma de barraca a.
-abarrancar v. i. Fazer barrancos em. V. p. Meter-se em
-barrancos.
-abarregado adj. Topogr. Diz-se do casal ou herdade, em
+abafado |adj. |Que se respira com difficuldade: ar abafado. Pouco ou mal ventilado: casa abafada. Diz-se do vinho, de cujo mosto se impediu a fermentação. (De abafar ).
+abafador |adj.| Que abafa, que suffoca: calor abafador. M. Peça, que em certos instrumentos abafa o som, suspendendo a vibração das cordas. * M. Aquelle que, em certas seitas, apressava a morte ao moribundo, afogando-o com almofadas, para que não peccasse, depois de consolado pelo sacerdote. * Prov. Pano, com que se cobre o bule do chá, para que êste não arrefeça.
+abafadura |f.| O mesmo que abafamento.
+abafamento |m.| Acto de abafar. Falta de ar. Abafante. |Adj.| O mesmo que abafador.
+abafar#,1 #|v. t.| Tirar o bafo a; suffocar: o calor abafava os espectadores. Suffocar; asphyxiar. Impedir a combustão de: abafar o lume. Dissimular, conter: abafar um grito. Impedir a continuação de: abafar a questão. Esconder: abafar uma carta. Agasalhar com roupas: abafar a criança. Vin. Impedir a fermentação de (mosto). V. i. Respirar a custo: eu abafo. V. p. Agasalhar-se com roupas. * Prov. Cavar e preparar (o terreno), para a sementeira do milho. (Colhido em Alcanena) #,2# |m.| Peixe plagióstomo, cinzento por cima e esbranquiçado por baixo.
+abafarete#, (farê)#| m.| Neol. Acto de abafar (uma questão parlamentar). No voltarete, acto de não mostrar na mesa a espadilha e o basto, quando há obrigação de os mostrar.
+abafas |f.| pl. Ant. Bravatas, ameaças arrogantes.
+abafeira |f.| Paúl, charco. Abafo. M. Acto de abafar. Aquillo que abafa ou resguarda. Aconchego, carinho.
+abafo |m.| Roupa ou pelles, que servem de agasalho. (De abafar)
+abagoar |v. t.| Prov. minh. Desengranzar; desenfiar. (De bago).
+abagum |m.| Ave tropical.
+abahuladamente#, (ba-u)#| adv.| De modo abahulado, á maneira de bahu.
+abahulado#, (baú)#| adj.| Que tem fórma de bahu.
+abahulador#, (baú)#| m.| O que abahula.
+abahulamento#, (baú)#| m.| Acto ou effeito de abahular. Arco abatido nas abóbadas. Superfı́cie curva das ruas calçadas, para se facilitar o escoamento das águas. Convexidade.
+abahular#, (baú)#| v. t.| Dar fórma de bahu a; tornar convexo.
+abainhar#, (ba-i )#| v. t.| Fazer a baı́nha de. Impropriamente, o mesmo que embainhar.
+abaionetar |v. t.| Ferir ou trespassar com baioneta.
+abairramento |m.| Acto ou effeito de abairrar.
+abairrar |v. t.| Dividir em bairros.
+abaixa |f.| Espécie de fisga, usada na pesca da lampreia, ao norte de Portugal.
+abaixadela |f.| O mesmo que abaixadura.
+abaixador |m.| O que abaixa.
+abaixadura |f.| Acto ou effeito de abaixar.
+abaixamento |m.| Acto ou effeito de abaixar.
+abaixante |m.| O mesmo que abaixador.
+abaixar |v. t.| Dirigir para baixo, abater: abaixou os olhos. Fazer descer. Fig. Conter, reprimir. Aviltar. V. p. Humilhar-se. * Prov. Defecar. * Deminuir (altura, preço, temperatura, etc.). * Traçar (linha perpendicular), partindo de um ponto para uma recta ou plano. * Loc. fam. Abaixar a prôa, submeter-se, humilhar-se, sujeitar-se. Abaixar a prôa a alguém, submetê-lo, reprimi-lo, humilhá- lo.
+abaixo |adv.| Para a parte inferior; na parte inferior, inferiormente. * M. Um abaixo-assignado, petição, representação, ou documento subscrito por várias pessoas.
+abajoujamento |m.| Acto de abajoujar-se.
+abajoujar-se| v. p.| Fazer-se bajoujo.
+abaju#,1#| m.| (V. Quebra-luz ; pantalha). (Do fr. abat-jour ). #,2#| m.| Raça mestiça do Brasil.
+abajúrdio |m.| Voc. us. por Garrett, em vez do francesismo abaju.
+abalada |f.| Acto de abalar, partida. Direcção tomada pela caça que se levanta.
+abalado |adj.| Pouco firme, mal seguro: um dente abalado. Commovido, impressionado: fiquei abalado com a noticia.
+abaladura |f.| Prov. minh. O mesmo que abôrto.
+abalamento |m.| O mesmo que abalo: “abalamento de doença”. Galvão, Chrón. de Aff. H.
+abalançamento |m.| Acto de abalançar.
+abalançar |v. t.| Pesar com balança. Dar movimento liberatório a. Arrojar, impellir.
+abalar |v. t.| Sacudir, tornando menos firme; fazer tremer. Deminuir: abalar o crédito. Impressionar, commover. |V. i.| Partir ou fugir com pressa.
+abalaustramento#, (la-us)# |m.| Acto de abalaustrar.
+abalaustrar#, (la-us)#| v. t.| Adornar com balaústres.
+abalável |adj.| Que póde sêr abalado.
+abaldear |v. t.| O mesmo que baldear.
+abalienação |f.| Transferência de gados, escravos ou terras a quem tinha o direito de os adquirir, entre os Romanos. (Do lat. abalienatio).
+abalienar |v. t.| Transferir por abalienação. (Do lat. abalienare).
+abalistar |v. t.| Atacar com tiros de balista.
+abalizadamente |adv.| De modo abalizado, com distincção.
+abalizado |adj.| Muito illustrado. Distinto. (De abalizar ).
+abalizador |m.| Aquelle que abaliza. * m. Vara, com que se medem as terras.
+abalizamento |m.| Acto ou effeito de abalizar.
+abalizar |v. t.| Marcar com balizas, balizar.
+abalo| m.| Acto ou effeito de abalar. Terremoto. Commoção. Fuga, partida.
+abaloar |v. t. |Dar fórma de balão a.
+abalofar| v. t.| Tornar balofo.
+abalonado |adj.| Neol. Que tem fórma de balão. Cf. Val. Magalhães, Contos.
+abaloso |adj.| Bras. de Minas. Pouco cômmodo, (falando-se do andar do cavallo). (De abalo)
+abalrôa |f.| O mesmo que balrôa.
+abalroação |f.| O mesmo que abalroamento.
+abalroada |f.| (V. abalroamento).
+abalroadela |f.| (V. abalroamento).
+abalroador |m.| e adj. O que abalrôa.
+abalroamento| m.| Acto ou effeito de abalroar.
+abalroar| v. t. |Atracar com balrôas. Ir de encontro a.
+abalsar |v. t.| Meter na balsa ou no balseiro.
+abalseirar |v. t.| O mesmo que abalsar.
+abaluartamento |m.| Acto de abaluartar.
+abaluartar| v. t.| Guarnecer de baluartes. Dar fórma de baluarte a.
+abama |f.| Planta liliácea, (anthericum ossifragum, Lin.)
+abâmeas |f.| pl. Grupo de plantas, que têm por typo a abama.
+abanadela |f.| Fam. Acto de abanar.
+abanador |m.| O mesmo que abano.
+abanadura |f.| O mesmo que abanadela.
+abanamoscas |m.| Enxotamoscas. Fig. Pequeno valor, insignificância.
+abananado |adj.| Fam. Aparvalhado, apalermado. Aturdido. * Prov. alent. O mesmo que adoentado. (De abananar).
+abananar |v. t.| Fam. Tornar palerma, aparvalhar. Aturdir.
+abanante |adj.| Que abana: “calção de abanante orelha”, Garrett, Fáb.
+abanão |m.| Pop. Acto de abanar ou agitar com fôrça.
+abanar |v. t.| Ventilar com abano. Agitar. Sacudir. * Fam. Aproximar-se de (alguém), para que êste satisfaça um pedido, ou dê a conhecer intenções. * Loc. fam. Abanar as orelhas, não annuir a um pedido ou proposta.
+abancado |m.| Pedra de abancado, a pedra arrancada do último banco inferior da pedreira. (De abancar ).
+abancar |v. t.| Distribuir por lugares á roda da banca. |V. i.| Sentar-se á banca.
+abandalhado |adj.| Que se abandalhou. (De abandalhar ).
+abandalhar |v. t.| Tornar bandalho, reles.
+abandar#,1# | v. t.| Reunir em bando. V. p. Formar bando, bandear-se.
+abandar#,2 #|v. t.| Pôr de banda, separar, dar como quinhão: na partilha, o pai abandou-lhe duas belgas. Pôr bandas em: abandar de velludo um capote. Cf. Camillo, Narcót., II, 304.
+abandear| v. t.| O mesmo que bandear.
+abandeirar |v. t.| O mesmo que embandeirar.
+abandejar |v. t.| Dar fórma de bandeja a. Limpar (cereaes), separando com bandeja o grão e a palha.
+abandoar |v. t. |(V. bandear ).
+abandonadamente| adv.| Com abandono, solitariamente. Desamparadamente.
+abandonado |adj. |Que ficou ao abandono. Desamparado. Solitário. (De abandonar ).
+abandonamento |m.| (V. abandono).
+abandonar |v. t.| Deixar ao abandono. Desamparar. Largar. Renunciar.| V. p.| Entregar-se.
+abandonatário |m.| Neol. Indivı́duo, que adquiriu direito ou coisa abandonada por outrem. (De abandonar )
+abandonável| adj.| Que deve sêr abandonado. Que se póde abandonar.
+abandono| m.| Desamparo, desabrigo. Desleixo. Desistência, renúncia.
+abaneenga |m. |Bras. Guarani ou tupi do sul.
+abanga |f.| Fruto de certa palmeira das Antilhas. Designação genérica, que nalguns povos da América do Sul se dá á bananeira. O mesmo que bango.
+abanheenga |m.| Bras. Guarani ou tupi do sul.
+abanicar |v. i.| Diz-se do toireiro, quando move o capote de um lado para o outro. * Abanar com leque. (De abanico).
+abanico |m.| Pequeno abano. Leque. * Ant. Gorjeira ou enfeite para o pescoço.
+abaninho |m.| (V. abanico).
+abano |m.| O mesmo que ventarola. Utensı́lio, em fórma de leque, para activar a combustão, agitando o ar. * m. Modo de pesca, usado no Algarve, pondo-se no anzol um pedaço de pano branco, em vez de isca. Guarnição de vestuário, espécie de folho pregueado.
+abantesma#, (tês)#| f.| Pop. O mesmo que fantasma. Apparição medonha. * Fig. Objecto muito grande, espantoso.
+abanto |m.| Espécie de abutre. |Adj. |Cobarde, (falando-se do toiro).
+abapo |m. |Planta exótica, amaryllidea.
+abaquetar |v. t.| Dar fórma de baqueta a.
+abar| v. t. |Formar as abas de (um chapéu).
+abará |m. |Bras. Iguaria, feita de massa de feijão, pimenta e pijericum. (T. tupi).
+abaratar |v. t.| Tornar barato, abaixar o preço de, baratear.
+abarbado |adj.| Sobrecarregado, afrontado. (De abarbar ).
+abarbar |v. t.| Tocar com a barba, attingir. Igualar. Afrontar. * Igualar em altura. * V. i. Diz-se das abelhas, quando se reúnem em massa, fóra da colmeia, formando cacho.
+abarbarado |adj.| Bras. Temerário. Valente. Terrivel. (De bárbaro).
+abarbarizar| v. t.| (V. barbarizar ).
+abarbear |v. t.| Pôr barbilho em.
+abarbelar |v. t.| Prender com barbella. Abarbetar. Levantar (a âncora) á altura da barbeta.
+abarbellar |v. t.|Prender com barbella. Abarbetar. Levantar (a âncora) á altura da barbeta.
+abarca |f.| Calçado, feito de uma sola, ligada ao pé por correias. Tamanco. Calçado largo e mal feito. (Cp. abarcar ).
+abarcador |m. |Aquelle que abarca.
+abarcamento |m.| Acto ou effeito de abarcar.
+abarcante |adj.| Que abarca.
+abarcar |v. t.| Abranger, cingir. Conter. Monopolizar. (Do cast. abarcar ?)
+abarcas |f.| pl. Prov. alg. Luta, braço a braço, para experiência de fôrças. (De abarcar ).
+abarém |m. |Bras. Espécie de bolo de milho ou de arroz moı́do.
+abaremo-temo |m.| Árvore leguminosa do Brasil.
+abarga |f. |Ant. Espécie de nassa.
+abaritonado| adj.| Semelhante a barı́tono: um tenor abaritonado.
+abarracado |adj.| Que tem fórma de barraca: casa abarracada. (De abarracar ).
+abarracamento |m.| Acto ou effeito de abarracar. Série de barracas. Lugar onde há barracas.
+abarracar |v. t.| Formar barracas em. Meter em barracas. Dar fórma de barraca a.
+abarrancar |v. i.| Fazer barrancos em. |V. p.|Meter-se em barrancos.
+abarregado| adj. |Topogr. Diz-se do casal ou herdade, em
 que o dono não reside e que por isso está exposto ao roubo.
-abarregamento m. Acto ou effeito de abarregar.
-abarregar v. t. Ant. Amancebar. V. p. Têr relações
-illicitas com pessôa de outro sexo. (Cp. barregan).
-abarreirar v. t. Cercar de barreiras. Entrincheirar.
-abarretar v. t. Cobrir com barrete.
-abarroado adj. Ant. Malcriado. Indecente. (De barrão).
-abarrotado adj. Muito cheio. Empanzinado. Ant. Contu-
-maz, renitente, teimoso. (De abarrotar ).
-abarrotamento m. Acto ou effeito de abarrotar.
-abarrotar v. t. Cobrir de barrotes. Encher muito. Empan-5
-abdalita
-turrar.
-abarruntar v. t. Prov. trasm. Lobrigar, dar fé de. (De
-barruntar ).
-abarticular adj. Med. Diz-se do rheumatismo, que ataca os
-órgãos, os músculos, os nervos, sem atacar as articulações.
-(Do lat. ab + articulus)
-abaruna m. Bras. Homem, vestido de negro; padre. Cf.
-Alencar, Minas de Prata, 111.
-abasia f. Med. Impossibilidade da marcha. (Do gr. a priv.
-+ basis, o andar).
-abasicarpo m. Planta crucı́fera (Do gr. a + basis + kar-
-pos).
-abásico adj. Relativo a abasia. M. Aquelle que soffre abasia.
-abassis m. pl. Ant. O mesmo que abexins. Cf. Lusiadas,
-X, 95.
-abassor adj. Anat. Diz-se de vários músculos, que abaixam.
-(Do gr. bassus).
-abastadamente adv. De modo abastado, com abastança.
-abastado adj. Que tem o bastante ou o que é necessário.
-Rico. (De abastar ).
-abastamente adv. O mesmo que abastadamente.
-abastamento m. Acto ou effeito de abastar. Grande for-
-necimento.
-abastança f. Sufficiência. Fartura; riqueza. (De abastar ).
-abastar v. t. Prover do que é bastante ou necessário. Abas-
-tecer. Fartar. * V. i. Sêr bastante: “um coxim abastará.”
-Camões. Seleuco.
-abastardado adj. Degenerado. Fig. Que não é puro ou
-correcto. (De abastardar )
-abastardamento m. Acto ou effeito de abastardar. Dege-
-nerescência.
-abastardar v. t. Alterar. Fazer degenerar. (De bastardo)
-abastardear v. t. O mesmo que abastardar. Cf. Garrett,
-Port. na Bal., 33.
-abastecedor m. Aquelle que abastece.
-abastecer v. t. O mesmo que abastar.
-abastecimento m. Acto de abastecer. Abastança.
-abastimento m. Prov. trasm. Aviamento, execução.
-abasto m. Ant. O mesmo que abastança.
-abastosamente adv. De modo abastoso, com abundância.
-abastoso adj. Rico. Abundante. (De abasto).
-abatatado adj. Que tem fórma de batata. Grosso, largo:
-nariz abatatado. (De abatatar ).
-abatatar v. t. Dar fórma de batata a. Tornar largo, dis-
-forme.
-abate m. O mesmo que abatimento.
-abatedor m. Aquelle que abate.
-abater v. t. Abaixar. Prostrar. Humilhar. * Deminuir
-(preço, altura, etc.). * V. i. Têr abatimento. * Desabar:
-o telhado abateu. (Do lat. adbattere).
-abátia f. Gênero de plantas arbustivas da América.
-abatidamente adv. Do modo abatido.
-abatido adj. Enfraquecido, definhado. (De abater ).
-abatimento m. Acto ou effeito de abater. Prostração, fra-
-queza. Desconto, reducção. * Náut. Ângulo, feito pela
-quilha com a esteira, indicando quanto o navio se desvia
-para o través.
-abatina f. O mesmo que batina.
-abatinar v. t. Vestir com batina.
-abatirás m. pl. Aborı́genes brasileiros, que dominaram na
-antiga capitania de Porto-Seguro.
-abatis,1 m. Trincheira, formada de árvores cortadas.
-abatis,2 m. Bras. Espécie de cabidela, feita de entranhas
-de aves.
-abatixi m. Bras. Planta aquática do Amazonas.
-abatocar v. t. Fechar com batoque. Arrolhar.
-abatufado adj. Prov. trasm. Que tem gordura balofa,
-mormente na cara. (Cp. empantufado).
-abauladamente, (ba-u) adv. De modo abahulado, á ma-
-neira de bahu.
-abaulado, (baú) adj. Que tem fórma de bahu.
-abaulador, (baú) m. O que abahula.
-abaulamento, (baú) m. Acto ou effeito de abahular. Arco
-abatido nas abóbadas. Superfı́cie curva das ruas calçadas,
-para se facilitar o escoamento das águas. Convexidade.
-abaular, (baú) v. t. Dar fórma de bahu a; tornar convexo.
-abaúna adj. f. Diz-se de uma raça autóchthone do Brasil.
-abaxial adj. Ópt. Que não está no eixo. (De ab priv. + lat.
-axis, eixo).
-abba m. Tı́tulo do Bispo em algumas Igrejas orientaes. (Do
-syr. abba).
-abbacial adj. Que diz respeito ao abbade ou á abbadia. (Do
-b. lat. abbatialis).
-abbadado m. Ant. O mesmo que abbadia.
-abbadágio m. Refeição, que os parochianos eram obrigados
-a dar ao abbade.
-abbadar v. t. Prover de abbade.
-abbade m. Prelado de ordem monástica. Aquelle que go-
-verna uma abbadia. Cura de almas, párocho. (Do b. lat.
-abbas).
-abbadecı́dio m. Assassinio de abbade. Cf. B. Pato, Ci-
-prestes, 107.
-abbadengo m. Ant. Legado pio ou esmola, que se dava
-em vida ou se deixava por morte ao confessor. O antigo
-direito de sêr abbade de alguma igreja. Adj. Relativo ao
-território ou á jurisdicção de abbade.
-abbadesco adj. Próprio de abbade.
-abbadessa f. Prelada de communidade religiosa. (Do b.
-lat. abbatissa).
-abbadessado m. Cargo de abbadessa. O tempo que dura
-esse cargo. As festas, com que se elege a abbadessa.
-abbadessona f. Fam. Abbadessa muito encorpada. Cf.
-Garrett, Flores, 95.
-abbadia f. Igreja, regida por abbade. Paróchia. Rendi-
-mento do abbade.
-abbadiado m. O mesmo que abbadia.
-abbadim m. Ant. Lugar, habitado por observantes religio-
-sos. (De abbade).
-abbatina f. O mesmo que batina.
-abc, (á-bê-cê) m. Abecedário; cartinha para aprender a
-lêr. Primeiras noções de qualquer coisa. (Das primeiras
-letras do alphabeto).
-abceder v. i. Degenerar em abcesso. Supurar. (Do lat.
-abscedere).
-abcesso m. Tumor. Inchação, produzida pela formação do
-pus. Pus, acumulado no tumor. (Do lat. abscessus).
-abcisão f. Córte na parte carnosa do corpo. (Do lat. absci-
-sio).
-abcissa f. Geom. Uma das coordenadas que servem para
-fixar um ponto num plano. (Do lat. abscissa).
-abdala Pai de Mafoma. (Ár. Abd-allah)
-abdalita m. Membro de uma seita indiana. (Do ar. abol,abdelcáder
-servo, e Allah, Deus).
-abdelcáder Guerreiro marroquino. (Ár. Abd-el-kádir )
-abdelcádir Guerreiro marroquino. (Ár. Abd-el-kádir )
-abderiano m. e adj. De Abdera.
-abderita m. e adj. De Abdera.
-abdicação f. Acto ou effeito de abdicar. (Do lat. abdicatio).
-abdicador m. Aquelle que abdica.
-abdicante m. O mesmo que abdicador.
-abdicar v. t. Renunciar. Abandonar (um cargo). Ceder.
-(Do lat. abdicare.)
-abdicatário m. e adj. O que fez abdicação.
-abdicativo adj. Relativo a abdicação. Que envolve abdica-
-ção: declaração abdicativa.
-abdicavel adj. Que se póde abdicar.
-ábdito adj. Des. Escondido. Afastado. (Do lat. abditus).
-abdome, (dô) m. Uma das cavidades do tronco do ho-
-mem, limitada inferiormente pela bacia e superiormente
-pelo diaphragma. Ventre, barriga. (Do lat. abdomen).
-abdômen m. (V. abdome).
-abdominaes m. pl. Ichthyol. Ordem de peixes malacop-
-terygios, de barbatanas suspensas abaixo do abdome.
-abdominais m. pl. Ichthyol. Ordem de peixes malacop-
-terygios, de barbatanas suspensas abaixo do abdome.
-abdominal adj. Relativo ao abdome. (Do lat. abdomina-
-lis).
-abdominoscopia f. Observação do abdome pelo tacto e
-pela percussão. (Do lat. abdomen + gr. skopein, ver).
-abdominoso adj. Que tem grande abdome. Barrigudo.
-abdominothorácico adj. Anat. Relativo ao abdome e ao
-thórax.
-abdominotorácico adj. Anat. Relativo ao abdome e ao
-thórax.
-abdução f. Anat. Movimento, com que, do plano médio,
-que se suppõe dividir o corpo humano em duas partes
-iguaes, se afasta um membro ou qualquer parte. (Do lat.
-abductio).
-abducção f. Anat. Movimento, com que, do plano mé-
-dio, que se suppõe dividir o corpo humano em duas partes
-iguaes, se afasta um membro ou qualquer parte. (Do lat.
-abductio).
-abducente adj. Que produz a abducção. (Do lat. abdu-
-cens).
+abarregamento |m.| Acto ou effeito de abarregar.
+abarregar |v. t.| Ant. Amancebar. V. p. Têr relações illicitas com pessôa de outro sexo. (Cp. barregan).
+abarreirar |v. t.| Cercar de barreiras. Entrincheirar.
+abarretar |v. t.| Cobrir com barrete.
+abarroado |adj.| Ant. Malcriado. Indecente. (De barrão).
+abarrotado |adj.| Muito cheio. Empanzinado. Ant. Contumaz, renitente, teimoso. (De abarrotar ).
+abarrotamento |m.| Acto ou effeito de abarrotar.
+abarrotar |v. t.| Cobrir de barrotes. Encher muito. Empanturrar.
+abarruntar |v. t.| Prov. trasm. Lobrigar, dar fé de. (De barruntar).
+abarticular |adj.| Med. Diz-se do rheumatismo, que ataca os órgãos, os músculos, os nervos, sem atacar as articulações. (Do lat. ab + articulus)
+abaruna |m.| Bras. Homem, vestido de negro; padre. Cf. Alencar, Minas de Prata, 111.
+abasia |f.| Med. Impossibilidade da marcha. (Do gr. a priv. + basis, o andar).
+abasicarpo |m. |Planta crucı́fera (Do gr. a + basis + karpos).
+abásico |adj. |Relativo a abasia. M. Aquelle que soffre abasia.
+abassis |m.| pl. Ant. O mesmo que abexins. Cf. Lusiadas, X, 95.
+abassor |adj.| Anat. Diz-se de vários músculos, que abaixam. (Do gr. bassus).
+abastadamente |adv.| De modo abastado, com abastança.
+abastado |adj.| Que tem o bastante ou o que é necessário. Rico. (De abastar).
+abastamente |adv.| O mesmo que abastadamente.
+abastamento |m.| Acto ou effeito de abastar. Grande fornecimento.
+abastança |f.| Sufficiência. Fartura; riqueza. (De abastar ).
+abastar |v. t.| Prover do que é bastante ou necessário. Abastecer. Fartar. * V. i. Sêr bastante: “um coxim abastará.” Camões. Seleuco.
+abastardado |adj.| Degenerado. Fig. Que não é puro ou correcto. (De abastardar)
+abastardamento |m.| Acto ou effeito de abastardar. Degenerescência.
+abastardar |v. t.| Alterar. Fazer degenerar. (De bastardo)
+abastardear |v. t.| O mesmo que abastardar. Cf. Garrett, Port. na Bal., 33.
+abastecedor |m.| Aquelle que abastece.
+abastecer |v. t.| O mesmo que abastar.
+abastecimento |m.| Acto de abastecer. Abastança.
+abastimento |m.| Prov. trasm. Aviamento, execução.
+abasto |m.| Ant. O mesmo que abastança.
+abastosamente |adv.| De modo abastoso, com abundância.
+abastoso| adj.| Rico. Abundante. (De abasto).
+abatatado |adj.| Que tem fórma de batata. Grosso, largo: nariz abatatado. (De abatatar ).
+abatatar |v. t.| Dar fórma de batata a. Tornar largo, disforme.
+abate |m. |O mesmo que abatimento.
+abatedor| m.| Aquelle que abate.
+abater |v. t.| Abaixar. Prostrar. Humilhar. * Deminuir (preço, altura, etc.). * |V. i.| Têr abatimento. * Desabar: o telhado abateu. (Do lat. adbattere).
+abátia |f. |Gênero de plantas arbustivas da América.
+abatidamente| adv.| Do modo abatido.
+abatido |adj. |Enfraquecido, definhado. (De abater ).
+abatimento |m.| Acto ou effeito de abater. Prostração, fraqueza. Desconto, reducção. * Náut. Ângulo, feito pela quilha com a esteira, indicando quanto o navio se desvia para o través.
+abatina |f.| O mesmo que batina.
+abatinar |v. t.| Vestir com batina.
+abatirás |m.| pl. Aborı́genes brasileiros, que dominaram na antiga capitania de Porto-Seguro.
+abatis#,1#| m.| Trincheira, formada de árvores cortadas.
+abatis#,2 #|m.| Bras. Espécie de cabidela, feita de entranhas de aves.
+abatixi| m.| Bras. Planta aquática do Amazonas.
+abatocar |v. t.| Fechar com batoque. Arrolhar.
+abatufado |adj.| Prov. trasm. Que tem gordura balofa, mormente na cara. (Cp. empantufado).
+abauladamente#, (ba-u)#| adv.| De modo abahulado, á maneira de bahu.
+abaulado#, (baú) #|adj.| Que tem fórma de bahu.
+abaulador#, (baú)# |m. |O que abahula.
+abaulamento#, (baú)#| m.| Acto ou effeito de abahular. Arco abatido nas abóbadas. Superfı́cie curva das ruas calçadas, para se facilitar o escoamento das águas. Convexidade.
+abaular#, (baú)#| v. t.| Dar fórma de bahu a; tornar convexo.
+abaúna |adj.| f. Diz-se de uma raça autóchthone do Brasil.
+abaxial |adj.| Ópt. Que não está no eixo. (De ab priv. + lat. axis, eixo).
+abba |m.| Tı́tulo do Bispo em algumas Igrejas orientaes. (Do syr. abba).
+abbacial |adj.| Que diz respeito ao abbade ou á abbadia. (Do b. lat. abbatialis).
+abbadado |m.| Ant. O mesmo que abbadia.
+abbadágio |m.| Refeição, que os parochianos eram obrigados a dar ao abbade.
+abbadar |v. t.| Prover de abbade.
+abbade |m.| Prelado de ordem monástica. Aquelle que governa uma abbadia. Cura de almas, párocho. (Do b. lat. abbas).
+abbadecı́dio | m.| Assassinio de abbade. Cf. B. Pato, Ciprestes, 107.
+abbadengo |m. |Ant. Legado pio ou esmola, que se dava em vida ou se deixava por morte ao confessor. O antigo direito de sêr abbade de alguma igreja. Adj. Relativo ao território ou á jurisdicção de abbade.
+abbadesco |adj.| Próprio de abbade.
+abbadessa |f.| Prelada de communidade religiosa. (Do b. lat. abbatissa).
+abbadessado |m.| Cargo de abbadessa. O tempo que dura esse cargo. As festas, com que se elege a abbadessa.
+abbadessona| f.| Fam. Abbadessa muito encorpada. Cf. Garrett, Flores, 95.
+abbadia |f.| Igreja, regida por abbade. Paróchia. Rendimento do abbade.
+abbadiado |m.| O mesmo que abbadia.
+abbadim |m.| Ant. Lugar, habitado por observantes religiosos. (De abbade).
+abbatina |f.| O mesmo que batina.
+abc#, (á-bê-cê)#| m.| Abecedário; cartinha para aprender a lêr. Primeiras noções de qualquer coisa. (Das primeiras letras do alphabeto).
+abceder |v. i.| Degenerar em abcesso. Supurar. (Do lat. abscedere).
+abcesso |m.| Tumor. Inchação, produzida pela formação do pus. Pus, acumulado no tumor. (Do lat. abscessus).
+abcisão |f.| Córte na parte carnosa do corpo. (Do lat. abscisio).
+abcissa |f.| Geom. Uma das coordenadas que servem para fixar um ponto num plano. (Do lat. abscissa). 
+abdala | m.| Pai de Mafoma. (Ár. Abd-allah)
+abdalita |m.| Membro de uma seita indiana. (Do ar. abol, servo, e Allah, Deus).
+abdelcáder |m.| Guerreiro marroquino. (Ár. Abd-el-kádir )
+abdelcádir |m. | Guerreiro marroquino. (Ár. Abd-el-kádir )
+abderiano| m. |e adj. De Abdera.
+abderita |m. |e adj. De Abdera.
+abdicação |f. |Acto ou effeito de abdicar. (Do lat. abdicatio).
+abdicador |m.| Aquelle que abdica.
+abdicante |m.| O mesmo que abdicador.
+abdicar |v. t.| Renunciar. Abandonar (um cargo). Ceder. (Do lat. abdicare.)
+abdicatário |m. | O que fez abdicação. |adj.| Diz-se do que fez abdicação.
+abdicativo |adj. |Relativo a abdicação. Que envolve abdicação: declaração abdicativa.
+abdicavel |adj.| Que se póde abdicar.
+ábdito |adj.| Des. Escondido. Afastado. (Do lat. abditus).
+abdome#, (dô)#| m.| Uma das cavidades do tronco do homem, limitada inferiormente pela bacia e superiormente pelo diaphragma. Ventre, barriga. (Do lat. abdomen).
+abdômen| m.| (V. abdome).
+abdominaes |m. |pl. Ichthyol. Ordem de peixes malacopterygios, de barbatanas suspensas abaixo do abdome.
+abdominais |m.| pl. Ichthyol. Ordem de peixes malacopterygios, de barbatanas suspensas abaixo do abdome.
+abdominal |adj.| Relativo ao abdome. (Do lat. abdominalis).
+abdominoscopia |f. |Observação do abdome pelo tacto e pela percussão. (Do lat. abdomen + gr. skopein, ver).
+abdominoso |adj.| Que tem grande abdome. Barrigudo.
+abdominothorácico |adj.| Anat. Relativo ao abdome e ao thórax.
+abdominotorácico |adj.| Anat. Relativo ao abdome e ao thórax.
+abdução |f.| Anat. Movimento, com que, do plano médio, que se suppõe dividir o corpo humano em duas partes iguaes, se afasta um membro ou qualquer parte. (Do lat. abductio).
+abducção |f. |Anat. Movimento, com que, do plano médio, que se suppõe dividir o corpo humano em duas partes iguaes, se afasta um membro ou qualquer parte. (Do lat. abductio).
+abducente |adj.| Que produz a abducção. (Do lat. abducens).
+
+
+
 abductivo adj. Que serve para abduzir; que abduz. Que se
 abduz.
 abductor m. Anat. Músculo, que produz a abducção. (Do
