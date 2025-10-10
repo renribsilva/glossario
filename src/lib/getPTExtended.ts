@@ -76,7 +76,7 @@ export function getPTExtended(
         const variationLower = variation.toLowerCase().trim();
         if (
           (searchType === "s" && variationLower.startsWith(searchLower)) ||
-          (searchType === "c" && variationLower.includes(searchLower) && !variationLower.startsWith(searchLower) && !variationLower.endsWith(searchLower)) ||
+          (searchType === "c" && variationLower.includes(searchLower)) ||
           (searchType === "e" && variationLower.endsWith(searchLower))
         ) {
           resultSet.add(variation);
@@ -95,7 +95,7 @@ export function getPTExtended(
       const wordLower = word.toLowerCase().split("/")[0].trim();
       if (
         (searchType === "s" && wordLower.startsWith(searchLower)) ||
-        (searchType === "c" && wordLower.includes(searchLower) && !wordLower.startsWith(searchLower) && !wordLower.endsWith(searchLower)) ||
+        (searchType === "c" && wordLower.includes(searchLower)) ||
         (searchType === "e" && wordLower.endsWith(searchLower)) ||
         (searchType === "e" && wordLower.slice(-searchLower.length) === searchLower)
       ) {
