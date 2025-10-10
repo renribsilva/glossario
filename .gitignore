@@ -11,3 +11,7 @@
 
 # workspace
 glossário.code-workspace
+
+# Serwist
+public/sw*
+public/swe-worker*
