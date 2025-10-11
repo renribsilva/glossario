@@ -4,7 +4,10 @@ import path from 'path';
 function editarArquivoComPipe() {
   const txtPath = path.join(process.cwd(), "public", "dicio", "A.txt");
   const conteudo = fs.readFileSync(txtPath, 'utf-8');
-  const linhas = conteudo.split('\n');
+  const linhas = conteudo.split('\n').filter(linha => {
+    const conteudo = linha.trim();
+    return !/^\d+$/.test(conteudo);
+  });
 
   // Etapa 1: Juntar linhas que terminam com "-"
   for (let i = 0; i < linhas.length - 1; i++) {
@@ -16,6 +19,25 @@ function editarArquivoComPipe() {
       // Remove a próxima linha (já foi usada)
       linhas.splice(i + 1, 1);
       // Volta uma posição para checar se ainda tem hífen (casos consecutivos)
+      i--;
+    }
+  }
+
+  // Etapa 2: Subir linhas que começam com ( e terminam com ) ou ).
+  for (let i = 1; i < linhas.length; i++) {
+    const linhaAtual = linhas[i].trim();
+    if (
+      linhaAtual.startsWith('(') ||
+      linhaAtual.startsWith('*') ||
+      linhaAtual.startsWith('+') ||
+      (linhaAtual.startsWith('(') &&
+      (linhaAtual.endsWith(')') || linhaAtual.endsWith(').')))
+    ) {
+      // Junta com a linha anterior, adicionando espaço
+      linhas[i - 1] = linhas[i - 1].trimEnd() + ' ' + linhaAtual;
+      // Remove a linha atual
+      linhas.splice(i, 1);
+      // Volta uma posição para verificar a próxima linha após a junção
       i--;
     }
   }
@@ -73,7 +95,7 @@ function editarArquivoComPipe() {
       }
     })
     .replace(/\s+\)/g, ')')
-    
+
     return linhaFinal
   });
 
