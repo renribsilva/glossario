@@ -42,9 +42,33 @@ function editarArquivoComPipe() {
     }
   }
 
-  const prefixos = [' m. ', ' f. ', ' v. t. ', ' v. i. ', 
-    ' v. p. ', ' adj. ', ' adv. ', ' interj. ', ' mús. ', ' prov. ',
-    ' gram. '];
+  for (let i = 1; i < linhas.length; i++) {
+    const linhaAtual = linhas[i].trim();
+    if (linhaAtual.length === 0) continue;
+
+    // Regex para detectar se o primeiro caractere é "a" ou "á" (maiúsculo ou minúsculo)
+    const comecaComA = /^[aáàãâäAÁÀÃÂÄ]/.test(linhaAtual);
+
+    // Se NÃO começa com "a" (com ou sem acento)
+    if (!comecaComA) {
+      linhas[i - 1] = linhas[i - 1].trimEnd() + ' ' + linhaAtual;
+      linhas.splice(i, 1);
+      i--;
+    }
+  }
+
+  const prefixosList = [
+    ' loc. adv. ', ' loc. conj. ', ' loc. prep. ', ' loc. pron. ',
+    ' m. ', ' f. ', ' v. t. ', ' v. i. ', ' v. p. ',
+    ' adj. ', ' adv. ', ' interj. ', ' mús. ', ' prov. ',
+    ' gram. ', ' pref. ', ' abrev. ', ' prep. ', ' pron. ',
+    ' art. '
+  ];
+
+  const prefixos = [
+    ...prefixosList.filter(p => p.includes('loc.')),
+    ...prefixosList.filter(p => !p.includes('loc.'))
+  ];
 
   const linhasEditadas = linhas.map(linha => {
     // Ignorar linhas sem espaço OU já processadas (contêm "|")
@@ -95,6 +119,26 @@ function editarArquivoComPipe() {
       }
     })
     .replace(/\s+\)/g, ')')
+
+    // Regex:
+    // (.*?)           → tudo antes
+    // \|([^|]+)\|     → primeira categoria
+    // [ ]*e[ ]*       → apenas espaços + 'e' + espaços
+    // \|([^|]+)\|     → segunda categoria
+    // (.*)            → definição (resto da linha)
+    const regex = /^(.*?)\|([^|]+)\|\s*(?:e|ou|\s)\s*\|([^|]+)\|(.*)$/i;
+
+    const match = linhaFinal.match(regex);
+
+    if (match) {
+      const prefixo = match[1].trim();   // antes das categorias (ex: "absconso")
+      const cat1 = match[2].trim();      // primeira categoria (ex: "m.")
+      const cat2 = match[3].trim();      // segunda categoria (ex: "adj.")
+      const definicao = match[4].trim(); // resto da linha
+
+      // Monta a linha duplicada
+      linhaFinal = `${prefixo} |${cat1}| ${definicao} |${cat2}|${definicao}`;
+    }
 
     return linhaFinal
   });
