@@ -129,6 +129,9 @@ function editarArquivoComPipe() {
     }
   }
 
+  //TERCEIRO TRATAMENTO
+
+  // Colocar os pipes
   const prefixosList = [
     ' loc. adv. ', ' loc. conj. ', ' loc. prep. ', ' loc. pron. ',
     ' loc. interj. ', ' m. ', ' f. ', ' v. t. e i. ', ' v. t. ', ' v. i. ', ' v. p. ',
@@ -191,6 +194,7 @@ function editarArquivoComPipe() {
       }
     }
 
+    // Colocar os ##
     let linhaFinal = antes + depois
     linhaFinal = linhaFinal
     .replace(/\s{2,}/g, ' ')
@@ -217,6 +221,7 @@ function editarArquivoComPipe() {
     )
     .normalize('NFC')
 
+    // Duplicar casos em que há mais que uma classe de palavras no verbete
     // Regex:
     // (.*?)           → tudo antes
     // \|([^|]+)\|     → primeira categoria
@@ -240,24 +245,7 @@ function editarArquivoComPipe() {
     return linhaFinal
   });
 
-  for (let i = 1; i < linhasEditadas.length; i++) {
-    // Pega tudo antes do primeiro pipe e limpa hashes
-    const antesPipeAtual = limparHashes(linhasEditadas[i].split('|')[0]);
-    const antesPipeAnterior = limparHashes(linhasEditadas[i - 1].split('|')[0]);
-
-    if (antesPipeAtual === antesPipeAnterior) {
-      // Pega a parte **após o prefixo repetido**, incluindo o pipe
-      const aposPrefixo = linhasEditadas[i].substring(linhasEditadas[i].indexOf('|'));
-
-      // Concatena na linha anterior
-      linhasEditadas[i - 1] = linhasEditadas[i - 1].trimEnd() + ' ' + aposPrefixo.trim();
-
-      // Remove a linha atual
-      linhasEditadas.splice(i, 1);
-      i--; // volta uma posição para continuar checando
-    }
-  }
-
+  // Sobe linhas sem espaço que terminam com ) ou ).
   for (let i = 1; i < linhasEditadas.length; i++) {
     const linhaAtual = linhasEditadas[i].trim();
 
@@ -270,19 +258,36 @@ function editarArquivoComPipe() {
     }
   }
 
-  // for (let i = 1; i < linhasEditadas.length; i++) {
-  //   // Remove #coisa# e reduz espaços duplos antes de testar
-  //   const linhaAtual = linhasEditadas[i].replace(/#.*?#/g, '').replace(/\s{2,}/g, ' ').trim();
-  //   if (!linhaAtual) continue;
+  // Sobe linhas que a 2ª unidade não começa com |
+  for (let i = 0; i < linhasEditadas.length; i++) {
+    const linhaAtual = linhasEditadas[i].trim();
+    const primeiroEspaco = linhaAtual.indexOf(' ');
+    const depois = linhaAtual.slice(primeiroEspaco);
+    if (!depois.trim().startsWith("|")) {
+      linhas[i - 1] = linhas[i - 1].trimEnd() + ' ' + linhaAtual;
+      linhas.splice(i, 1);
+      i--;
+    }
+  }
 
-  //   const primeiroEspaco = linhaAtual.indexOf(' ');
-  //   // Se não contém espaço, ou o caractere após o primeiro espaço NÃO é '|', sobe a linha
-  //   if (primeiroEspaco === -1 || linhaAtual[primeiroEspaco + 1] !== '|') {
-  //     linhasEditadas[i - 1] = linhasEditadas[i - 1].trimEnd() + ' ' + linhasEditadas[i].trim();
-  //     linhasEditadas.splice(i, 1);
-  //     i--; // volta uma posição para continuar checando
-  //   }
-  // }
+  // Sobe linhas cujas as entradas são iguais
+  for (let i = 1; i < linhasEditadas.length; i++) {
+    // Pega tudo antes do primeiro pipe e limpa hashes
+    const linhaAtual = limparHashes(linhasEditadas[i].split('|')[0]);
+    const linhaAnterior = limparHashes(linhasEditadas[i - 1].split('|')[0]);
+
+    if (linhaAtual === linhaAnterior) {
+      // Pega a parte **após o prefixo repetido**, incluindo o pipe
+      const aposPrefixo = linhasEditadas[i].substring(linhasEditadas[i].indexOf('|'));
+
+      // Concatena na linha anterior
+      linhasEditadas[i - 1] = linhasEditadas[i - 1].trimEnd() + ' ' + aposPrefixo.trim();
+
+      // Remove a linha atual
+      linhasEditadas.splice(i, 1);
+      i--; // volta uma posição para continuar checando
+    }
+  }
 
   const novoConteudo = linhasEditadas.join('\n');
   fs.writeFileSync(outputPath, novoConteudo, 'utf-8');

@@ -43,6 +43,7 @@ export type initialFlowType = {
   input: string | undefined,
   inputNorm: string | undefined,
   inputRaw: string | undefined,
+  inputPrevRaw: string | undefined,
   inputFullText: string | undefined,
   showGlosaDef: boolean,
   showAnalogDef: boolean,

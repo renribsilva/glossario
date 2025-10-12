@@ -27,15 +27,6 @@ function dicioJsonCreator() {
       .map(l => l.normalize('NFC')) // ✅ normaliza cada linha individualmente
       .filter(l => l.trim() !== '');
 
-    for (let i = 0; i < linhas.length; i++) {
-      const linhaAtual = linhas[i].trim();
-      if (!linhaAtual.includes("|")) {
-        linhas[i - 1] = linhas[i - 1].trimEnd() + ' ' + linhaAtual;
-        linhas.splice(i, 1);
-        i--;
-      }
-    }
-
     const resultado: Record<string, string> = {};
 
     for (const linhaBruta of linhas) {
