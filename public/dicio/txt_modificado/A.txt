@@ -136,7 +136,7 @@ abaixador |m.| O que abaixa.
 abaixadura |f.| Acto ou effeito de abaixar.
 abaixamento |m.| Acto ou effeito de abaixar.
 abaixante |m.| O mesmo que abaixador.
-abaixar |v. t.| Dirigir para baixo, abater: abaixou os olhos. Fazer descer. Fig. Conter, reprimir. Aviltar. |v. p.| Humilhar-se. * |prov.| Defecar. * Deminuir (altura, preço, temperatura, etc.). * Traçar (linha perpendicular), partindo de um ponto para uma recta ou plano. * Loc. fam. Abaixar a prôa, submeter-se, humilhar-se, sujeitar-se.
+abaixar |v. t.| Dirigir para baixo, abater: abaixou os olhos. Fazer descer. Fig. Conter, reprimir. Aviltar. |v. p.| Humilhar-se. * |prov.| Defecar. * Deminuir (altura, preço, temperatura, etc.). * Traçar (linha perpendicular), partindo de um ponto para uma recta ou plano. * |loc. fam.| Abaixar a prôa, submeter-se, humilhar-se, sujeitar-se.
 Abaixar a prôa a alguém, submetê-lo, reprimi-lo, humilhálo.
 abaixo |adv.| Para a parte inferior; na parte inferior, inferiormente. * |m.| Um abaixo-assignado, petição, representação, ou documento subscrito por várias pessoas.
 abajoujamento |m.| Acto de abajoujar-se.
@@ -192,7 +192,7 @@ abananar |v. t.| Fam. Tornar palerma, aparvalhar. Aturdir.
 abanante |adj.| Que abana: “calção de abanante orelha”, Garrett, Fáb.
 abanão |m.| Pop. Acto de abanar ou agitar com fôrça.
 abanar |v. t.| Ventilar com abano. Agitar. Sacudir. * Fam.
-Aproximar-se de (alguém), para que êste satisfaça um pedido, ou dê a conhecer intenções. * Loc. fam. Abanar as orelhas, não annuir a um pedido ou proposta.
+Aproximar-se de (alguém), para que êste satisfaça um pedido, ou dê a conhecer intenções. * |loc. fam.| Abanar as orelhas, não annuir a um pedido ou proposta.
 abancado |m.| Pedra de abancado, a pedra arrancada do último banco inferior da pedreira. (De abancar ).
 abancar |v. t.| Distribuir por lugares á roda da banca. |v. i.| Sentar-se á banca.
 abandalhado |adj.| Que se abandalhou. (De abandalhar ).
@@ -452,7 +452,7 @@ abeta #,(bê)# |f.| Pequena aba.
 abetarda |f.| Grande ave gallinácea, de pelle durı́ssima, (otis tarda, Lin.)
 abetardado |adj.| Que tem a côr da betarda.
 abete |m.| Árvore abietı́nea. Pinheiro alvar. (Do lat. abies)
-abeterno |adv.| Desde sempre, desde toda a eternidade. Cf. Luz e Calor, 441 e 446. (Da loc. lat. ab aeterno)
+abeterno |adv.| Desde sempre, desde toda a eternidade. Cf. Luz e Calor, 441 e 446. (Da |loc.| lat. ab aeterno)
 abeto |m.| Árvore abietı́nea. Pinheiro alvar. (Do lat. abies)
 abetoiro |m.| Ave pernalta. (botaurus stellaris. Lin.)
 abetoninha |f.| O mesmo que abitoninha.
@@ -757,7 +757,7 @@ abreptı́cio #,(ré)# |adj.| Exaltado; arrebatado. (Do lat. abreptus)
 abretanhado |adj.| Semelhante ao pano chamado bretanha.
 abreu |m.| Bras. Espécie de abelha do Piauı́.
 abrevar |v. t.| Ant. Matar a sêde a. Cf. Filinto, XIV, 139;
-abrogador #,(ro)# Usque, Tribulações; Castilho, Fastos, I, 139, e Geórgicas, 157. * |v. i.| Dessedentar-se. Cf. Usque, loc. cit. |f.| 29, v.º (Fr. abreuver )
+abrogador #,(ro)# Usque, Tribulações; Castilho, Fastos, I, 139, e Geórgicas, 157. * |v. i.| Dessedentar-se. Cf. Usque, |loc.| cit. |f.| 29, v.º (Fr. abreuver )
 abreviação |f.| Acto ou effeito de abreviar.
 abreviadamente |adj.| De modo abreviado. Em resumo.
 abreviado |adj.| Reduzido a epitome; resumido: história
@@ -3313,7 +3313,7 @@ aduchar )
 aducho |adj.| Ant. Dizia-se da testemunha adduzida ou apresentada. |m.| Conducção. (Do lat. adductus)
 adueiro |m.| Guarda de rebanho; pastor. (De adua 1 )
 aduela |f.| Cada uma das tábuas, que formam o corpo dos tonéis, pipas, dornas, selhas, etc. Cada uma das pedras do
-arco da abóbada. Madeira americana. Abertura do fôrro dos sacatrapos. * Loc. pop. Aduela de menos, mania, bolha, falta de tino. (Cast. duela)
+arco da abóbada. Madeira americana. Abertura do fôrro dos sacatrapos. * |loc.| pop. Aduela de menos, mania, bolha, falta de tino. (Cast. duela)
 aduelagem |f.| Execução e collocação de aduelas.
 adufa |f.| Resguardo exterior das janelas, feito de tábuas estreitas, mas não unidas. Comporta. Roda de pedra, galga, que esmaga a azeitona no lagar de azeite. (Do ár.
 ad + duffa)
@@ -3767,7 +3767,7 @@ affluente |adj.| Que aflue; que corre. Abundante. |m.| Corrente de água, que se
 affluir |v. t.| Correr para um lugar ou lado. Derivar. Concorrer. (Lat. affluere)
 affluxo |m.| Acto de affluir. (Lat. affluxus)
 affonsim |adj.| Ant. O mesmo que affonsino. Antiga moéda portuguesa.
-affonsinhos |m.| pl. Us. na loc. fam. era dos affonsinhos, (falando-se de coisa antiga ou fóra da moda). (Cp. affonsino)
+affonsinhos |m.| pl. Us. na |loc. fam.| era dos affonsinhos, (falando-se de coisa antiga ou fóra da moda). (Cp. affonsino)
 affonsino |adj.| Relativo á 1.ª dynastia dos reis portugueses. Também se diz das Ordenações, publicadas por Affonso V. * Antiquado, obsoleto: “termos affonsinos”. Filinto, I, 5.
 affonsista |m.| Partidário de Affonso XII, em Espanha.
 affricata |f.| Gram. Dithongo consonântico, cujo principal elemento é uma explosiva e o segundo uma fricativa do mesmo órgão. Cf. G. Viana, Pronúncia Norm., 21.
@@ -3838,7 +3838,7 @@ afinar |v. t.| Tornar fino. Apurar. Pôr no devido tom. * Purificar, depurar (um
 afincadamente |adv.| Com afinco.afinhar |v. t.| Prov. trasm. Importunar; fatigar. |v. i.| O Chul. Têr cópula (um homem). mesmo que emmagrecer. (Cp. afinar )
 afinheiro |adj.| Prov. trasm. Que afinha, que mortifica. Importuno. Teimoso. (De afinhar )
 afinidade |f.| Parentesco, que um cônjuge contrái com a famı́lia do outro cônjuge. Relação. Semelhança; analogia. Conformidade. Chı́m. Attracção molecular. Relações orgânicas, (entre os vegetaes e os animaes). (Lat. affinitas)
-áfio |adj.| Fam. Successivo, que não tem interrupção: “dois dias áfios”. Camillo, Volcoens, 108. (Alter. da loc. a fio)
+áfio |adj.| Fam. Successivo, que não tem interrupção: “dois dias áfios”. Camillo, Volcoens, 108. (Alter. da |loc.| a fio)
 afirmação |f.| Acto de afirmar. (Lat. affirmatio)
 afirmadamente |adv.| Com afirmação.
 afirmador |m.| O que afirma. (Lat. affirmator )
@@ -3931,7 +3931,7 @@ afomear |v. t.| Causar fome a. Cf. Filinto, XI, 123.
 afonia |f.| O mesmo que afasia.
 afónico |adj.| Que tem afonia.
 afonsim |adj.| Ant. O mesmo que afonsino. Antiga moéda portuguesa.
-afonsinhos |m.| pl. Us. na loc. fam. era dos afonsinhos, (falando-se de coisa antiga ou fóra da moda). (Cp. affonsino)
+afonsinhos |m.| pl. Us. na |loc. fam.| era dos afonsinhos, (falando-se de coisa antiga ou fóra da moda). (Cp. affonsino)
 afonsino |adj.| Relativo á 1.ª dynastia dos reis portugueses. Também se diz das Ordenações, publicadas por Affonso V. * Antiquado, obsoleto: “termos affonsinos”. Filinto, I, 5.
 afonsista |m.| Partidário de Affonso XII, em Espanha.
 afora |prep.| Á excepção de. Além de. (De a + fora)
@@ -7772,7 +7772,7 @@ amarradoiro |m.| Lugar, onde se amarra alguma coisa.
 amarrador |m.| Aquelle que amarra.
 amarradouro |m.| Lugar, onde se amarra alguma coisa.
 amarradura |f.| Cabo, com que se amarra a embarcação. Amarração.
-amarrar |v. t.| Segurar com amarra. Acorrentar. Ligar. * Bras. Contratar ou ajustar (transporte ou carreiras). * Loc. da Guiné Port. Amarrar pano, casar. |v. i.| Fundear. Parar. * Bras. do S. Ajustar ou apostar (corridas de cavallos). * Cyn. Diz-se do cão que, ao descobrir caça, pára, fixando nella a vista, até que o caçador se aproxime para a matar: de súbito, o cão amarrou uma perdiz. (Do
+amarrar |v. t.| Segurar com amarra. Acorrentar. Ligar. * Bras. Contratar ou ajustar (transporte ou carreiras). * |loc.| da Guiné Port. Amarrar pano, casar. |v. i.| Fundear. Parar. * Bras. do S. Ajustar ou apostar (corridas de cavallos). * Cyn. Diz-se do cão que, ao descobrir caça, pára, fixando nella a vista, até que o caçador se aproxime para a matar: de súbito, o cão amarrou uma perdiz. (Do
 ár. marr )
 amarreta #,(rê)# |f.| Pequena amarra.
 amarrilho |m.| Cordão, fio, com que se ata alguma coisa. (De amarra)
@@ -8218,7 +8218,7 @@ amigdalótomo |m.| Instrumento cirúrgico, para cortar as
 amı́gdalas. (Do gr. amugdale + tome)
 amigdofinina |f.| Producto pharmacêutico, antiséptico, antireumático e antineurálgico.
 amigo |m.| O que ama; o que tem amizade: os nossos |adj.| O que ama; o que tem amizade: os nossos
-amigos. Aquelle que estima, aprecia: amigo de gulodices. Benévolo. Aliado. * |prov.| Amante. Amásio. * Loc. fam.
+amigos. Aquelle que estima, aprecia: amigo de gulodices. Benévolo. Aliado. * |prov.| Amante. Amásio. * |loc.| fam.
 Amigo de Peniche, amigo que não é certo. (Lat. amicus)
 amigo-fechado |m.| O mesmo que chamuar.
 amigote |m.| O mesmo que amigalhote.
@@ -8452,7 +8452,7 @@ amonturar |v. t.| Juntar em monturo.
 amoorado |adj.| Ant. O mesmo que enfermo. Cf. Fern. Lopes, Chrón. de D. Fern.
 amor |m.| * Conjunto de phenómenos cerebraes e affectivos, que constituem o instincto sexual. Affeição profunda de
 alguém a indivı́duo de sexo differente. Objecto dessa affeição: és o meu amor. Affecto a pessôas ou coisas: amor
-ás riquezas. Paixão. Enthusiasmo. * Ant. Favor, graça, mercê. * Fam. Loc. prepos. Por amor de, por causa de: fugiu logo, por amor de evitar a polı́cia. (Lat. amor )
+ás riquezas. Paixão. Enthusiasmo. * Ant. Favor, graça, mercê. * Fam. |loc.| prepos. Por amor de, por causa de: fugiu logo, por amor de evitar a polı́cia. (Lat. amor )
 amor-de-hortelão |m.| Planta rubiácea, (galium aparine, Lin.).
 amor-do-campo |m.| Bras. Desmódio rasteiro.
 amor-perfeito |m.| Espécie de violáceas, que abrange plantas, cujas flôres, de cinco pétalas, apresentam as mais variadas côres.
@@ -9388,7 +9388,7 @@ andóbia |f.| Pedra, sôbre que gira a mó, em certos engenhos.
 andolo |m.| Pequeno insecto africano, que vive no sub-solo e é comestı́vel para os indı́genas.
 andongos |m.| pl. O mesmo que angolas.
 andor |m.| Padiola ornamentada, em que se levam imagens nas procissões. Ant. Liteira. Andas. (Conc. andor, do sanscr. hindola)
-andor-império |m.| Loc. de Ílhavo. Pessôa froixa, mollangueira.
+andor-império m. |loc.| de Ílhavo. Pessôa froixa, mollangueira.
 andorinha #,1 # |f.| Pássaro de arribação, da fam. dos fissirostros. (Do lat. hyp. hirundinea, de hirundo, com metáth.)
 andorinha #,2 # |f.| Bras. Carro, para transporte de mobı́lia. Bras. Lancha a vapor. (Talvez do rad. de andor )
 andorinha-da-serra |f.| Mad. Espécie de ave, (micropusunicolor, Jard.).
@@ -10663,7 +10663,7 @@ anterófago |m.| Gênero de insectos coleópteros. (Do gr.
 antheros + phagein)
 anterosoide |m.| O mesmo que zoósporo. (Do gr. antheros + eidos)
 anterura |f.| Gênero de rubiáceas. (Do gr. antheros + oura)
-antes |adv.| Em tempo anterior; precedentemente: para saber, estudou antes. De preferência: antes suar que tremer. Pelo contrario: não lhe tenho ódio, antes o estimo. Loc. prep.
+antes |adv.| Em tempo anterior; precedentemente: para saber, estudou antes. De preferência: antes suar que tremer. Pelo contrario: não lhe tenho ódio, antes o estimo. |loc.| prep.
 Antes de, primeiro que. |loc. adv.| De antes ou d’antes,
 antigamente. * |loc. adv.| Em antes, o mesmo que dantes, ou antes. Cf. Júl. Dinis, Pupillas, 21. * Pop. Antes que,
 ainda que: há de negar sempre, antes que o matem. (Lat. ante)
@@ -11909,7 +11909,7 @@ apelativamente |adv.| De modo apelativo.
 apelativo |adj.| Gram. Diz-se do nome que é commum aos indivı́duos de uma espécie ou classe. (Lat. appellativus)
 apelatório |adj.| Relativo á apelação. (Lat. appellatorius)
 apelável |adj.| De que se póde apelar.
-apelho #,(pê)# |m.| Prov. alent. e alg. Usa-se na loc. andar157
+apelho #,(pê)# |m.| Prov. alent. e alg. Usa-se na |loc.| andar157
 aos apelhos, como quem diz andar em desordem, guerrear. (Por apêgo?)
 apelidação |f.| Acto de apelidar.
 apelidar |v. t.| Designar por apelido. Cognominar; nomear;
@@ -12758,7 +12758,7 @@ aprimorador |m.| Aquelle que aprimora. Cf. Castilho, Fausto, X.
 aprimorar |v. t.| Fazer com primor. Tornar primoroso.
 Aperfeiçoar. Acompanhar de delicadeza.
 aprincesar-se |v. p.| Tomar modos de princesa.
-apriorismo |m.| Systema dos que argumentam a priori, por hypóthese, independentemente dos factos. (Da loc. lat. a priori)
+apriorismo |m.| Systema dos que argumentam a priori, por hypóthese, independentemente dos factos. (Da |loc.| lat. a priori)
 apriscar |v. t.| Des. Meter no aprisco.
 aprisco |m.| Curral. Albergue. Choupana. Caverna. Abegoaria. * |prov.| trasm. Propriedade insignificante, nas
 arribas. (Cast. aprisco) jeito. (De aprisionar )
@@ -14375,7 +14375,7 @@ arrastador |m.| Mad. O mesmo que ascensor.
 arrastadura |f.| O mesmo que arrastamento.
 arrastamento |m.| Acto de arrastar.
 arrastão |m.| Esfôrço impetuoso para arrastar. Repellão. * Pesc. Saco de rede, que se arrasta pelo fundo da água, a reboque dos vapores de pesca.
-arrastar |v. t.| Levar de rastos. Conduzir á fôrça. Attrahir. Mover com difficuldade. Compelir. |v. i.| Ir de rojo; rastejar. * Loc. fam. Arrastar a asa, galantear, fazer namôro. Cf. B. Pato, Paquita, 165.
+arrastar |v. t.| Levar de rastos. Conduzir á fôrça. Attrahir. Mover com difficuldade. Compelir. |v. i.| Ir de rojo; rastejar. * |loc. fam.| Arrastar a asa, galantear, fazer namôro. Cf. B. Pato, Paquita, 165.
 arraste |m.| O mesmo que arrasto.
 arrasto |m.| Acto de arrastar. Miséria. * Apparelho volante da rede de arrastar, composto de saco e alares.
 arrastrar |v. t.| (e der.) O mesmo que arrastar. Cf. Cast., Metam. 124; Eufrosina, 338; Luz e Calor, 13.
@@ -16708,7 +16708,7 @@ audaz |adj.| Que tem audácia: homem audaz. Em que há
 audácia: procedimento audaz. (Lat. audax )
 audazmente |adv.| De modo audaz.
 aúde |f.| Prov. beir. O mesmo que agude.
-aúdes |interj.| (Voz expletiva, us. na loc. fam. aúdes, que é coisa leve, como quem diz: passe por lá muito bem) (Colhido em Lamego)
+aúdes |interj.| (Voz expletiva, us. na |loc. fam.| aúdes, que é coisa leve, como quem diz: passe por lá muito bem) (Colhido em Lamego)
 audição |f.| Percepção dos sons por meio do ouvido. Acto de ouvir, de escutar: audição de uma leitura. (Lat. auditio)
 audiença |f.| Ant. O mesmo que audiência: “vem todos cá á
 audiença”. G. Vicente, Juiz da Beira.

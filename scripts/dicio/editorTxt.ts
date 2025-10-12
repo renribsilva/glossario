@@ -132,19 +132,14 @@ function editarArquivoComPipe() {
 
   //TERCEIRO TRATAMENTO
 
-  const prefixosList = [
+  const prefixos = [
     ' loc. adv. ', ' loc. conj. ', ' loc. prep. ', ' loc. pron. ',
-    ' loc. interj. ', ' loc. fam. ', 
+    ' loc. interj. ', ' loc. fam. ', ' loc. ',
     ' m. ', ' f. ', ' v. t. e i. ', ' v. t. ', ' v. i. ', ' v. p. ',
     ' v. pron. ', ' adj. ', ' adv. ', ' interj. ', ' mús. ', ' prov. ',
     ' gram. ', ' pref. ', ' abrev. ', ' prep. ', ' pron. ',
     ' art. ', ' fem. ', ' adj. f. ', ' art. def. ', ' aum. ',
     ' conj. ', ' dem. ', ' n. p. ', ' num. ', ' suf. ', ' el. comp. '
-  ];
-
-  const prefixos = [
-    ...prefixosList.filter(p => p.includes('loc.')),
-    ...prefixosList.filter(p => !p.includes('loc.'))
   ];
 
   const linhasEditadas = linhas.map(linha => {
