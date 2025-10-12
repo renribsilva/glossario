@@ -5,6 +5,7 @@ import { getAnalogKeyData, getAnalogData } from "./getAnalogData";
 import { getSynonymsKeysData } from "./getSynonymData";
 import { initialFlowObject } from "./initialFlow";
 import { initialFlowType } from "../types";
+import { getDicioData } from "./getDicioData";
 
 export function handleHomeState() {
   
@@ -81,10 +82,26 @@ export function handleHomeState() {
     }
     setState(prev =>({
       ...prev,
+      inputRaw: (validWords[validWords.length - 1]),
       inputNorm: ni(validWords[validWords.length - 1]),
       inputFullText: fullText
     }))
   };
+
+  const handlePalavrasClick = () => {
+    if (state.showSuggestion && !state.showDicio)
+    setState(prev =>({
+      ...prev,
+      showSuggestion: false,
+      showDicio: true
+    }))
+    if (!state.showSuggestion && state.showDicio)
+    setState(prev =>({
+      ...prev,
+      showSuggestion: true,
+      showDicio: false
+    }))
+  }
 
   const handleKeyDown = (e: React.KeyboardEvent<HTMLTextAreaElement>) => {
     const fullText = e.currentTarget.value;
@@ -371,6 +388,12 @@ export function handleHomeState() {
         activeList: null,
         synonymData: { plain_text: "", entries: [] }
       }))
+      const dicioData = getDicioData(state.inputRaw)
+      setState (prev => ({
+        ...prev,
+        dicioData: dicioData
+      }))
+      // console.log(dicioData)
 
       let longestOriginal = "";
 
@@ -398,7 +421,7 @@ export function handleHomeState() {
 
     }, 300);
     return () => clearTimeout(timer);
-  }, [state.inputNorm, state.input]);
+  }, [state.inputNorm, state.input, state.inputRaw]);
 
   return {
     keys,
@@ -415,6 +438,7 @@ export function handleHomeState() {
     handleShowGlosaDef,
     handleNavbarClick,
     handleSuggestionClick,
-    handleFlagsClick
+    handleFlagsClick,
+    handlePalavrasClick
   };
 }

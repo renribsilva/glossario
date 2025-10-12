@@ -8,7 +8,7 @@ function limparHashes(linha: string) {
 
 function editarArquivoComPipe() {
 
-  // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "A.txt");
+  const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "A.txt");
   // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "B.txt");
   // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "C.txt");
   // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "D.txt");
@@ -33,7 +33,7 @@ function editarArquivoComPipe() {
   // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "W.txt");
   // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "X.txt");
   // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "Y.txt");
-  const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "Z.txt");
+  // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "Z.txt");
 
   const conteudo = fs.readFileSync(txtPath, 'utf-8');
   const linhas = conteudo.split('\n').filter(linha => {
@@ -89,7 +89,7 @@ function editarArquivoComPipe() {
     const linhaAtual = linhas[i].trim();
     if (linhaAtual.length === 0) continue;
 
-    // const comecaComA = /^[aáàãâäAÁÀÃÂÄ]/.test(linhaAtual);
+    const comecaComA = /^[aáàãâäAÁÀÃÂÄ]/.test(linhaAtual);
     // const comecaComA = /^[bB]/.test(linhaAtual);
     // const comecaComA = /^[cC]/.test(linhaAtual);
     // const comecaComA = /^[dD]/.test(linhaAtual);
@@ -114,7 +114,7 @@ function editarArquivoComPipe() {
     // const comecaComA = /^[wW]/.test(linhaAtual);
     // const comecaComA = /^[xX]/.test(linhaAtual);
     // const comecaComA = /^[yY]/.test(linhaAtual);
-    const comecaComA = /^[zZ]/.test(linhaAtual);
+    // const comecaComA = /^[zZ]/.test(linhaAtual);
 
     // Se NÃO começa com "letra"
     if (!comecaComA) {
@@ -126,11 +126,11 @@ function editarArquivoComPipe() {
 
   const prefixosList = [
     ' loc. adv. ', ' loc. conj. ', ' loc. prep. ', ' loc. pron. ',
-    ' loc. interj. ', ' m. ', ' f. ', ' v. t. ', ' v. i. ', ' v. p. ',
+    ' loc. interj. ', ' m. ', ' f. ', ' v. t. e i. ', ' v. t. ', ' v. i. ', ' v. p. ',
     ' v. pron. ', ' adj. ', ' adv. ', ' interj. ', ' mús. ', ' prov. ',
     ' gram. ', ' pref. ', ' abrev. ', ' prep. ', ' pron. ',
     ' art. ', ' fem. ', ' adj. f. ', ' art. def. ', ' aum. ',
-    ' conj. ', ' dem. ', ' n. p. ', ' num. ', ' suf. '
+    ' conj. ', ' dem. ', ' n. p. ', ' num. ', ' suf. ', ' el. comp. '
   ];
 
   const prefixos = [

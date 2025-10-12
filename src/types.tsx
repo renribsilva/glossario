@@ -42,6 +42,7 @@ export type ExtendedWordMap = {
 export type initialFlowType = {
   input: string | undefined,
   inputNorm: string | undefined,
+  inputRaw: string | undefined,
   inputFullText: string | undefined,
   showGlosaDef: boolean,
   showAnalogDef: boolean,
@@ -64,4 +65,7 @@ export type initialFlowType = {
   silaba: string | null,
   esperar: boolean | null,
   lastHifenized: string | null
+  showSuggestion: boolean;
+  showDicio: boolean;
+  dicioData: string | null
 }

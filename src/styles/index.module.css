@@ -109,17 +109,52 @@
   padding: 5px;
 }
 
+/******************LADO DIREITO******************/
+
 /*PARTE SUPERIOR*/
 
-.suggestion_title {
-  /* background-color: rgb(64, 156, 126); */
+.textarea_button_title {
+  /* background-color: aqua; */
   height: 50px;
+  min-height: 0;
+  min-width: 0;
   display: flex;
-  align-items: center;
-  justify-items: left;
 }
 
-/*PARTE INFERIOR*/
+/*palavras*/
+
+.palavras_button_title {
+  /* background-color: rgb(64, 156, 126); */
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  flex: 1;
+}
+
+.palavras_button_title button {
+  width: 100%;
+  font-size: 14px;
+  font-family: "Ubuntu";
+  font-weight: 400;
+  border: none;
+}
+
+.palavras_button_title :hover{
+  background-color: var(--panels) !important;
+  color:var(--foreground)!important;
+  cursor: pointer;
+}
+
+.palavras_button_child.active {
+  background-color: var(--panels) !important;
+  color:var(--foreground)!important;
+}
+
+.palavras_button_child.inactive {
+  background-color: var(--grid)
+}
+
+/*PARTE INFERIOR DE PALAVRAS*/
 
 .suggestion_box {
   background-color:var(--panels);
@@ -130,7 +165,7 @@
   padding: 5px;
 }
 
-/*Lado esquerdo da PARTE INFERIOR*/
+/*Lado esquerdo da PARTE INFERIOR DE PALAVRAS*/
 
 .flag_box {
   /* background-color: var(--background); */
@@ -162,7 +197,7 @@
   background-color: var(--grid)
 }
 
-/*Lado direito da PARTE INFERIOR*/
+/*Lado direito da PARTE INFERIOR DE PALAVRAS*/
 
 .suggestion_list_box {
   flex: 1;
@@ -212,6 +247,23 @@
   /* background-color: aqua; */
   flex: 1;             /* ocupa todo o container */
   overflow: auto;
+}
+
+/*PARTE INFERIOR DE PALAVRAS DE DICIONÁRIO*/
+
+.dicio_box {
+  flex: 1;
+  height: 100%;
+  min-width: 0;
+}
+
+.dicio_plain {
+  background-color: var(--panels);
+  flex: 1;
+  height: 100%;  
+  min-width: 0; 
+  padding: 5px;
+
 }
 
 /*************************************************/

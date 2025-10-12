@@ -1,6 +1,7 @@
 export const initialFlowObject = {
   input: undefined,
   inputNorm: undefined,
+  inputRaw: undefined,
   inputFullText: undefined,
   showGlosaDef: false,
   showAnalogDef: false,
@@ -23,4 +24,7 @@ export const initialFlowObject = {
   silaba: null,
   esperar: null,
   lastHifenized: null,
+  showSuggestion: false,
+  showDicio: true,
+  dicioData: null
 }

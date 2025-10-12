@@ -19,7 +19,8 @@ export default function HomePage() {
     handleShowGlosaDef,
     handleNavbarClick,
     handleSuggestionClick,
-    handleFlagsClick
+    handleFlagsClick,
+    handlePalavrasClick
   } = handleHomeState();
 
   // console.log("input:", state.input)
@@ -29,6 +30,8 @@ export default function HomePage() {
   // console.log("method:", state.method)
   // console.log("isSugDisabled:", state.isSugDisabled)
   // console.log(state.ptBRExtendedC)
+
+  const partes = state.dicioData ? state.dicioData.split(/(\|[^|]+\|)/g).filter(Boolean) : null
 
   return (
     <div className={styles.home}>
@@ -67,89 +70,127 @@ export default function HomePage() {
             </div>
           </div>
           <div className={styles.textarea_container_second}>
-            <div className={styles.suggestion_title}>
-              <strong>Sugestões de palavras</strong>
-            </div>
-            <div className={styles.suggestion_box}>
-              <div className={styles.flag_box}>
-                {flags.map((item, index) => (
-                  <button 
-                    key={item}
-                    className={`${styles.flag_box_child} ${state.activeFlag === item ? styles.active : styles.inactive}`}
-                    onClick={() => handleFlagsClick(item)}
-                    title={item}
-                    disabled={state.isSugDisabled}
-                  >
-                    {String(index+1)}
-                  </button>
-                ))}
+            <div className={styles.textarea_button_title}>
+              <div className={styles.palavras_button_title}>
+                <button
+                  className={`${styles.palavras_button_child} ${state.showDicio ? styles.active : styles.inactive}`}
+                  onClick={() => handlePalavrasClick()}
+                  title="Dicionário"
+                  // disabled={state.isSugDisabled}
+                >
+                  dicionário
+                </button>
               </div>
-              <div className={styles.suggestion_list_box}>
-                <div className={styles.suggestions_button}>
-                  {methods.map((item: "s" | "c" | "e") => (
-                    <button 
-                      key={item}
-                      className={`${styles.suggestions_button_child} ${state.activeSug === item ? styles.active : styles.inactive}`}
-                      onClick={() => handleSuggestionClick(item)}
-                      title={item}
-                      disabled={state.isSugDisabled}
-                    >
-                      {item}
-                    </button>
-                  ))}
-                </div>
-                <div className={styles.suggestions_list_container}>
-                  <div className={styles.suggestions_list}>
-                    {state.esperar ? (
-                      <div>aguarde...</div>
-                    ) : (
-                      <>
-                        {state.inputNorm && state.inputNorm.length < 3 && (
-                          <div>
-                            <i>Sugestões para termos com três letras ou mais</i>
-                          </div>
-                        )}
-                        {(state.inputNorm === '' || state.inputNorm === undefined) && (
-                          <div>
-                            Digite o texto para ver palavras que contêm a última unidade digitada
-                          </div>
-                        )}
-                        {state.inputNorm && state.inputNorm.length >= 3 && state.activeSug === null && (
-                          <div>Escolha uma forma de sugestão: s, c, e</div>
-                        )}
-                        {state.inputNorm && state.inputNorm.length >= 3 && ["s", "c", "e"].map((type) => {
-                          const suggestions = {
-                            s: state.ptBRExtendedS,
-                            c: state.ptBRExtendedC,
-                            e: state.ptBRExtendedE,
-                          }[type];
-                          const label = {
-                            s: "palavras que começam com",
-                            c: "palavras que contêm",
-                            e: "palavras que terminam em",
-                          }[type];
-                          if (state.activeSug !== type) return null;
-                          if (suggestions && suggestions.length > 0) {
-                            return suggestions.map((entry, index) => (
-                              <div key={index}>{entry}</div>
-                            ));
-                          }
-                          return (
-                            <div key={type}>
-                              <span>Sem sugestões para {label} </span>
-                              <i>{state.input}</i>
-                              {state.activeFlag !== null && (
-                                <span> na flag <i>{state.activeFlag}</i></span>
-                              )}
-                            </div>
-                          );
-                        })}
-                      </>
-                    )}
+              <div className={styles.palavras_button_title}>
+                <button
+                  className={`${styles.palavras_button_child} ${state.showSuggestion ? styles.active : styles.inactive}`}
+                  onClick={() => handlePalavrasClick()}
+                  title="Palavras"
+                  // disabled={state.isSugDisabled}
+                >
+                  palavras
+                </button>
+              </div>
+            </div>  
+            {state.showDicio && (
+              <>
+                <div className={styles.dicio_box}>
+                  <div className={styles.dicio_plain}>
+                    {partes && partes.map((parte, index) => {
+                      if (parte.startsWith("|") && parte.endsWith("|")) {
+                        // Remove os pipes e coloca em <strong>
+                        return <strong key={index}>{parte.slice(1, -1)}</strong>;
+                      }
+                      return parte; // texto normal
+                    })}
                   </div>
                 </div>
-              </div>
-            </div>
+              </>
+            )}
+            {state.showSuggestion && (
+              <>
+                <div className={styles.suggestion_box}>
+                  <div className={styles.flag_box}>
+                    {flags.map((item, index) => (
+                      <button 
+                        key={item}
+                        className={`${styles.flag_box_child} ${state.activeFlag === item ? styles.active : styles.inactive}`}
+                        onClick={() => handleFlagsClick(item)}
+                        title={item}
+                        disabled={state.isSugDisabled}
+                      >
+                        {String(index+1)}
+                      </button>
+                    ))}
+                  </div>
+                  <div className={styles.suggestion_list_box}>
+                    <div className={styles.suggestions_button}>
+                      {methods.map((item: "s" | "c" | "e") => (
+                        <button 
+                          key={item}
+                          className={`${styles.suggestions_button_child} ${state.activeSug === item ? styles.active : styles.inactive}`}
+                          onClick={() => handleSuggestionClick(item)}
+                          title={item}
+                          disabled={state.isSugDisabled}
+                        >
+                          {item}
+                        </button>
+                      ))}
+                    </div>
+                    <div className={styles.suggestions_list_container}>
+                      <div className={styles.suggestions_list}>
+                        {state.esperar ? (
+                          <div>aguarde...</div>
+                        ) : (
+                          <>
+                            {state.inputNorm && state.inputNorm.length < 3 && (
+                              <div>
+                                <i>Sugestões para termos com três letras ou mais</i>
+                              </div>
+                            )}
+                            {(state.inputNorm === '' || state.inputNorm === undefined) && (
+                              <div>
+                                Digite o texto para ver palavras que contêm a última unidade digitada
+                              </div>
+                            )}
+                            {state.inputNorm && state.inputNorm.length >= 3 && state.activeSug === null && (
+                              <div>Escolha uma forma de sugestão: s, c, e</div>
+                            )}
+                            {state.inputNorm && state.inputNorm.length >= 3 && ["s", "c", "e"].map((type) => {
+                              const suggestions = {
+                                s: state.ptBRExtendedS,
+                                c: state.ptBRExtendedC,
+                                e: state.ptBRExtendedE,
+                              }[type];
+                              const label = {
+                                s: "palavras que começam com",
+                                c: "palavras que contêm",
+                                e: "palavras que terminam em",
+                              }[type];
+                              if (state.activeSug !== type) return null;
+                              if (suggestions && suggestions.length > 0) {
+                                return suggestions.map((entry, index) => (
+                                  <div key={index}>{entry}</div>
+                                ));
+                              }
+                              return (
+                                <div key={type}>
+                                  <span>Sem sugestões para {label} </span>
+                                  <i>{state.input}</i>
+                                  {state.activeFlag !== null && (
+                                    <span> na flag <i>{state.activeFlag}</i></span>
+                                  )}
+                                </div>
+                              );
+                            })}
+                          </>
+                        )}
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </>
+            )}
           </div>
         </div>
         <div className={styles.grid_item}>
