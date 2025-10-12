@@ -82,7 +82,7 @@ function editarArquivoComPipe() {
   // Sobe linha que só contém números
   for (let i = 1; i < linhas.length; i++) {
     const linhaAtual = linhas[i].trim();
-    const soTemNum = /^\d+\.?$/.test(linhaAtual);
+    const soTemNum = /^\d+$/.test(linhaAtual);
     if (soTemNum) {
       linhas.splice(i, 1);
       i--;
