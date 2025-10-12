@@ -81,14 +81,6 @@ function editarArquivoComPipe() {
     }
   }
 
-  for (let i = 0; i < linhas.length; i++) {
-    const linhaAtual = linhas[i].trim();
-    if (linhaAtual.startsWith("deletar_esta_linha")) {
-      linhas.splice(i, 1); // remove a linha
-      i--; // volta o índice para checar a nova linha na mesma posição
-    }
-  }
-
   for (let i = 1; i < linhas.length; i++) {
     const linhaAtual = linhas[i].trim();
     if (linhaAtual.length === 0) continue;
@@ -122,15 +114,6 @@ function editarArquivoComPipe() {
 
     // Se NÃO começa com "letra"
     if (!comecaComA) {
-      linhas[i - 1] = linhas[i - 1].trimEnd() + ' ' + linhaAtual;
-      linhas.splice(i, 1);
-      i--;
-    }
-  }
-
-  for (let i = 0; i < linhas.length; i++) {
-    const linhaAtual = linhas[i].trim();
-    if (linhaAtual.startsWith("subir_esta_linha")) {
       linhas[i - 1] = linhas[i - 1].trimEnd() + ' ' + linhaAtual;
       linhas.splice(i, 1);
       i--;
