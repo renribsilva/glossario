@@ -29,18 +29,22 @@ function editarArquivoComPipe() {
       const index = linhaNum - 1;
 
       if (index >= 0 && index < linhas.length) {
-        if (novoConteudo === '') {
-          // Remove a linha se o novo conteúdo estiver vazio
-          linhas.splice(index, 1);
-        } else {
-          // Substitui normalmente
-          linhas[index] = novoConteudo;
-        }
+        linhas[index] = novoConteudo;
       }
     }
   });
 
   //SEGUNDO TRATAMENTO
+
+
+  // Remove linhas vazias
+  for (let i = 0; i < linhas.length; i++) {
+    let linhaAtual = linhas[i].trim();
+    if (linhaAtual.trim() === '') {
+      linhas.splice(i, 1);
+      i--;
+    }
+  }
 
   // Remove "..."" das linhas que assim começam
   for (let i = 0; i < linhas.length; i++) {
@@ -132,7 +136,7 @@ function editarArquivoComPipe() {
 
   //TERCEIRO TRATAMENTO
 
-  const prefixos = [
+  const prefixosList = [
     ' loc. adv. ', ' loc. conj. ', ' loc. prep. ', ' loc. pron. ',
     ' loc. interj. ', ' loc. fam. ', ' loc. ',
     ' m. ', ' f. ', ' v. t. e i. ', ' v. t. ', ' v. i. ', ' v. p. ',
@@ -140,6 +144,11 @@ function editarArquivoComPipe() {
     ' gram. ', ' pref. ', ' abrev. ', ' prep. ', ' pron. ',
     ' art. ', ' fem. ', ' adj. f. ', ' art. def. ', ' aum. ',
     ' conj. ', ' dem. ', ' n. p. ', ' num. ', ' suf. ', ' el. comp. '
+  ];
+
+  const prefixos = [
+    ...prefixosList.filter(p => p.includes('loc.')),
+    ...prefixosList.filter(p => !p.includes('loc.'))
   ];
 
   const linhasEditadas = linhas.map(linha => {
