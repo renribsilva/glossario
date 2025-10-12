@@ -184,12 +184,6 @@ function editarArquivoComPipe(letra: string) {
     .replace(/\s{2,}/g, ' ')
 
     // Duplicar casos em que há mais que uma classe de palavras no verbete
-    // Regex:
-    // (.*?)           → tudo antes
-    // \|([^|]+)\|     → primeira categoria
-    // [ ]*e[ ]*       → apenas espaços + 'e' + espaços
-    // \|([^|]+)\|     → segunda categoria
-    // (.*)            → definição (resto da linha)
     const regex = /^(.*?)\|([^|]+)\|\s*(?:e|ou|\s)\s*\|([^|]+)\|(.*)$/i;
 
     const match = linhaFinal.match(regex);

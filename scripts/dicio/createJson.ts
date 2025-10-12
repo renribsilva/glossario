@@ -20,11 +20,11 @@ function dicioJsonCreator() {
     const outputPath = path.join(baseOutputDir, `${letra}.json`);
 
     if (!fs.existsSync(inputPath)) {
-      console.warn(`⚠️ Arquivo não encontrado: ${inputPath}`);
+      console.warn(`Arquivo não encontrado: ${inputPath}`);
       continue;
     }
 
-    // ✅ Normaliza o conteúdo completo do arquivo (para corrigir diacríticos)
+    // Normaliza o conteúdo completo do arquivo (para corrigir diacríticos)
     const conteudo = fs.readFileSync(inputPath, 'utf-8').normalize('NFC');
 
     const linhas = conteudo
@@ -65,7 +65,7 @@ function dicioJsonCreator() {
     const resultado: Record<string, string> = {};
 
     for (const linhaBruta of linhas) {
-      const linha = linhaBruta.normalize('NFC'); // ✅ garante normalização dentro do loop
+      const linha = linhaBruta.normalize('NFC'); // garante normalização dentro do loop
       const indicePipe = linha.indexOf('|');
       if (indicePipe === -1) continue; // ignora se não tiver '|'
 
@@ -92,12 +92,12 @@ function dicioJsonCreator() {
       resultado[entrada] = texto;
     }
 
-    // ✅ Escreve o JSON com strings já normalizadas
+    //Escreve o JSON com strings já normalizadas
     fs.writeFileSync(outputPath, JSON.stringify(resultado, null, 2), 'utf-8');
-    console.log(`✅ Gerado: ${outputPath}`);
+    console.log(`Gerado: ${outputPath}`);
   }
 
-  console.log("🎉 Todos os arquivos de A a Z foram processados!");
+  console.log("Todos os arquivos de A a Z foram processados!");
 }
 
 // Executa
