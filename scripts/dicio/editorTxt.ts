@@ -158,8 +158,6 @@ function editarArquivoComPipe() {
     // Colocar os ##
     let linhaFinal = antes + depois
     linhaFinal = linhaFinal
-    .replace(/\s\)/g, ')')
-    .replace(/\(\s/g, '(')
     .replace(
       /^([\p{L}\p{M}0-9-_]+),(\s*\d+\s*)?\s*(\(\s*[^)]*?\s*\))?/gu,
       (match, p1, numero, parens) => {

@@ -81,7 +81,13 @@ function dicioJsonCreator() {
       .normalize('NFC');
 
       // Tudo a partir do pipe (inclusive) é o texto
-      const texto = linha.slice(indicePipe).trim().normalize('NFC');
+      const texto = linha
+      .slice(indicePipe)
+      .trim()
+      .replace(/\s\)/g, ')')
+      .replace(/\(\s/g, '(')
+      .replace(/\s{2,}/g, ' ')
+      .normalize('NFC');
 
       resultado[entrada] = texto;
     }
