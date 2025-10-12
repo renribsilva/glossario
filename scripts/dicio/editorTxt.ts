@@ -148,51 +148,16 @@ function editarArquivoComPipe() {
     const primeiroEspaco = linha.indexOf(' ');
     const antes = linha.slice(0, primeiroEspaco + 1).replace("...", "");
     let depois = linha.slice(primeiroEspaco);
-    let depoisLower = depois.toLowerCase();
 
     for (const prefixo of prefixos) {
-      const prefixTrim = prefixo.trim().toLowerCase();
-      let indice = depoisLower.indexOf(prefixo);
-
-      let pipeInserido = false;
-
-      while (indice !== -1) {
-        if (pipeInserido) break; 
-        // Verifica se o prefixo está dentro de parênteses em 'depois'
-        const antesDoPrefixo = depois.slice(0, indice);
-        const abreAntes = (antesDoPrefixo.match(/\(/g) || []).length;
-        const fechaAntes = (antesDoPrefixo.match(/\)/g) || []).length;
-        const dentroDeParenteses = abreAntes > fechaAntes;
-
-        if (!dentroDeParenteses) {
-          // Substitui na string original (mantendo capitalização)
-          const originalPrefix = depois.slice(indice, indice + prefixo.length).trim();
-
-          // console.log("1:", depois.slice(0, indice))
-          // console.log("2:", ` |${originalPrefix}| `)
-          // console.log("3:", depois.slice(indice + prefixo.length))
-
-          depois =
-            depois.slice(0, indice) +
-            ` |${originalPrefix}| ` +
-            depois.slice(indice + prefixo.length);
-
-          // Atualiza a string "depoisLower" para manter busca case-insensitive
-          depoisLower =
-            depoisLower.slice(0, indice) +
-            ` |${prefixTrim}| ` +
-            depoisLower.slice(indice + prefixo.length);
-        }
-
-        pipeInserido = true; // marca que já inseriu
-      // break; 
-      }
+      const prefixTrim = prefixo.toLocaleLowerCase().trim();
+      const regex = new RegExp(`(?<!\\|)\\s${prefixTrim}\\s(?!\\|)`, 'gi');
+      depois = depois.replace(regex, ` |${prefixTrim}| `);
     }
 
     // Colocar os ##
     let linhaFinal = antes + depois
     linhaFinal = linhaFinal
-    .replace(/\s{2,}/g, ' ')
     .replace(/\s\)/g, ')')
     .replace(/\(\s/g, '(')
     .replace(
@@ -215,6 +180,7 @@ function editarArquivoComPipe() {
       }
     )
     .normalize('NFC')
+    .replace(/\s{2,}/g, ' ')
 
     // Duplicar casos em que há mais que uma classe de palavras no verbete
     // Regex:

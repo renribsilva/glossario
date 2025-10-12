@@ -8,7 +8,7 @@ A24 à_cima loc. adv. Ant. Por fim, afinal.
 A25 à_clara f. Loc. adv. Des. O mesmo que 'às claras'.
 A29 ademais adv. e prep. Além. Demais.
 A30 à_derradeira loc. adv. Ant. Em-fim, a final.
-A31 a_deshoras loc. adv. (ver desoras)
+A31 a_deshoras loc. adv. (ver a desoras)
 A32 a_desoras loc. adv. Tarde. Inopportunamente.
 A33 à_dica loc. adv. Gı́r. Perto. Donde se vê bem. (Cp. adicar )
 A34 a_feito loc. adv. Prov. minh. A eito, a fio, seguidamente.
