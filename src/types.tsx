@@ -67,5 +67,10 @@ export type initialFlowType = {
   lastHifenized: string | null
   showSuggestion: boolean;
   showDicio: boolean;
-  dicioData: string | null
+  dicioData: dicioData | null
+}
+
+export type dicioData = {
+  verbete: string,
+  definição: string
 }

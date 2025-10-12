@@ -103,14 +103,14 @@ export function handleHomeState() {
     }))
   };
 
-  const handlePalavrasClick = () => {
-    if (state.showSuggestion && !state.showDicio)
+  const handlePalavrasClick = (tag: string) => {
+    if (tag === "dicionario")
     setState(prev =>({
       ...prev,
       showSuggestion: false,
       showDicio: true
     }))
-    if (!state.showSuggestion && state.showDicio)
+    if (tag === "palavras")
     setState(prev =>({
       ...prev,
       showSuggestion: true,

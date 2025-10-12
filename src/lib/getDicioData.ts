@@ -24,6 +24,7 @@ import W from "../json/dicioJson/W.json";
 import X from "../json/dicioJson/X.json";
 import Y from "../json/dicioJson/Y.json";
 import Z from "../json/dicioJson/Z.json";
+import { dicioData } from "../types";
 
 let DICIO_JSON_CACHE: Record<string, Record<string, string>> | null = null;
 
@@ -34,10 +35,10 @@ function carregarDicioJson(): Record<string, Record<string, string>> {
   return DICIO_JSON_CACHE;
 }
 
-export function getDicioData(termo: string): string | null {
+export function getDicioData(termo: string): dicioData | null {
 
-  if (/^[\u0300-\u036f]+$/.test(termo)) return null
-  // const termoNormalizado = termo.normalize("NFD").normalize("NFC").trim();
+  if (/^[\u0300-\u036f]+$/.test(termo) || termo === undefined) return null
+  const termoNormalizado = termo.toLowerCase().normalize("NFC")
   const DICIO_JSON = carregarDicioJson();
 
   // percorre cada letra
@@ -45,9 +46,12 @@ export function getDicioData(termo: string): string | null {
     // percorre cada entrada dentro da letra
     for (const [entrada, valor] of Object.entries(letraObj)) {
       // console.log(entrada, termo)
-      if (entrada === termo) {
+      if (entrada === termoNormalizado) {
         // console.log(valor)
-        return valor;
+        return {
+          verbete: termoNormalizado, 
+          definição: valor
+        };
       }
     }
   }

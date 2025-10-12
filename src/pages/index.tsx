@@ -32,7 +32,17 @@ export default function HomePage() {
   // console.log(state.ptBRExtendedC)
   // console.log("Home:", state.inputRaw)
 
-  const partes = state.dicioData ? state.dicioData.split(/(\|[^|]+\|)/g).filter(Boolean) : null
+  const partes = state.dicioData?.definição 
+  ? state.dicioData.definição
+  .split(/(\|[^|]+\|)/g)
+  .filter(Boolean)
+  .map(parte =>
+        parte.startsWith('|') && parte.endsWith('|')
+          ? `|${parte.slice(1, -1).toLowerCase()}|`
+          : parte
+      )
+  : null
+  console.log(partes)
 
   return (
     <div className={styles.home}>
@@ -75,7 +85,7 @@ export default function HomePage() {
               <div className={styles.palavras_button_title}>
                 <button
                   className={`${styles.palavras_button_child} ${state.showDicio ? styles.active : styles.inactive}`}
-                  onClick={() => handlePalavrasClick()}
+                  onClick={() => handlePalavrasClick("dicionario")}
                   title="Dicionário"
                   // disabled={state.isSugDisabled}
                 >
@@ -85,7 +95,7 @@ export default function HomePage() {
               <div className={styles.palavras_button_title}>
                 <button
                   className={`${styles.palavras_button_child} ${state.showSuggestion ? styles.active : styles.inactive}`}
-                  onClick={() => handlePalavrasClick()}
+                  onClick={() => handlePalavrasClick("palavras")}
                   title="Palavras"
                   // disabled={state.isSugDisabled}
                 >
@@ -97,16 +107,35 @@ export default function HomePage() {
               <>
                 <div className={styles.dicio_box}>
                   <div className={styles.dicio_plain}>
-                    {!partes && (
-                      <div>Aqui é mostrado o verbete da última palavar digitada, se houver  </div>
+                    {!partes && (state.inputRaw === undefined || state.inputRaw === '') && (
+                      <div>
+                        <span>
+                          Aqui é mostrado o verbete da última palavar digitada, se houver
+                        </span>
+                      </div>
                     )}
-                    {partes && partes.map((parte, index) => {
-                      if (parte.startsWith("|") && parte.endsWith("|")) {
-                        // Remove os pipes e coloca em <strong>
-                        return <strong key={index}>{parte.slice(1, -1)}</strong>;
-                      }
-                      return parte; // texto normal
-                    })}
+                    {!partes && (state.inputRaw !== undefined && state.inputRaw !== '') && (
+                      <div>
+                        <span>Nenhum verbete para </span>
+                        <span><i>{state.inputRaw}</i></span>
+                      </div>
+                    )}
+                    {partes && (
+                      <div>
+                        <div className={styles.dicio_plain_title}>
+                          <span>Verbete de </span><strong><i>{state.dicioData.verbete}</i></strong>
+                        </div>
+                        {partes.map((parte, index) => {
+                          if (parte.startsWith("|") && parte.endsWith("|")) {
+                            // Remove os pipes e coloca em <strong>
+                            return (
+                              <strong key={index}>{parte.slice(1, -1)}</strong> 
+                            );
+                          }
+                          return parte; // texto normal
+                        })}
+                      </div>
+                    )}
                   </div>
                 </div>
               </>
