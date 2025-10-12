@@ -136,19 +136,14 @@ function editarArquivoComPipe() {
 
   //TERCEIRO TRATAMENTO
 
-  const prefixosList = [
-    ' loc. adv. ', ' loc. conj. ', ' loc. prep. ', ' loc. pron. ',
-    ' loc. interj. ', ' loc. fam. ', ' loc. ',
-    ' m. ', ' f. ', ' v. t. e i. ', ' v. t. ', ' v. i. ', ' v. p. ',
-    ' v. pron. ', ' adj. ', ' adv. ', ' interj. ', ' mús. ', ' prov. ',
-    ' gram. ', ' pref. ', ' abrev. ', ' prep. ', ' pron. ',
-    ' art. ', ' fem. ', ' adj. f. ', ' art. def. ', ' aum. ',
-    ' conj. ', ' dem. ', ' n. p. ', ' num. ', ' suf. ', ' el. comp. '
-  ];
-
   const prefixos = [
-    ...prefixosList.filter(p => p.includes('loc.')),
-    ...prefixosList.filter(p => !p.includes('loc.'))
+    'loc. adv.', 'loc. conj.', 'loc. prep.', 'loc. pron.',
+    'loc. interj.', 'loc. fam.', 'loc.', 'fam.',
+    'm.', 'f.', 'v. t. e i.', 'v. t.', 'v. i.', 'v. p.',
+    'v. pron.', 'adj.', 'adv.', 'interj.', 'mús.', 'prov.',
+    'gram.', 'pref.', 'abrev.', 'prep.', 'pron.',
+    'art.', 'fem.', 'adj. f.', 'art. def.', 'aum.',
+    'conj.', 'dem.', 'n. p.', 'num.', 'suf.', 'el. comp.'
   ];
 
   const linhasEditadas = linhas.map(linha => {
@@ -161,9 +156,10 @@ function editarArquivoComPipe() {
 
     // Colocar os pipes
     for (const prefixo of prefixos) {
-      const prefixTrim = prefixo.toLocaleLowerCase().trim();
-      const regex = new RegExp(`(?<!\\|)\\s${prefixTrim}\\s(?!\\|)`, 'gi');
-      depois = depois.replace(regex, ` |${prefixTrim}| `);
+      const trimmed = prefixo.trim().replace(/\./g, '\\$&');
+      const regex = new RegExp(`(?<!\\|)\\s${trimmed}\\s?(?!\\|)`, 'gi');
+      // console.log(regex)
+      depois = depois.replace(regex, match => ` |${match.trim()}| `);
     }
 
     // Colocar os ##
