@@ -36,13 +36,8 @@ export default function HomePage() {
   ? state.dicioData.definição
   .split(/(\|[^|]+\|)/g)
   .filter(Boolean)
-  .map(parte =>
-        parte.startsWith('|') && parte.endsWith('|')
-          ? `|${parte.slice(1, -1).toLowerCase()}|`
-          : parte
-      )
   : null
-  console.log(partes)
+  // console.log(partes)
 
   return (
     <div className={styles.home}>
@@ -123,16 +118,15 @@ export default function HomePage() {
                     {partes && (
                       <div>
                         <div className={styles.dicio_plain_title}>
-                          <span>Verbete de </span><strong><i>{state.dicioData.verbete}</i></strong>
+                          <span>Verbete de </span><i>{state.dicioData.verbete}</i>
                         </div>
                         {partes.map((parte, index) => {
                           if (parte.startsWith("|") && parte.endsWith("|")) {
-                            // Remove os pipes e coloca em <strong>
                             return (
-                              <strong key={index}>{parte.slice(1, -1)}</strong> 
+                              <strong key={index}>{parte.toLowerCase().slice(1, -1)}</strong> 
                             );
                           }
-                          return parte; // texto normal
+                          return parte;
                         })}
                       </div>
                     )}
@@ -178,7 +172,7 @@ export default function HomePage() {
                           <>
                             {state.inputNorm && state.inputNorm.length < 3 && (
                               <div>
-                                <i>Sugestões para termos com três letras ou mais</i>
+                                Sugestões para termos com três letras ou mais
                               </div>
                             )}
                             {(state.inputNorm === '' || state.inputNorm === undefined) && (
@@ -238,7 +232,7 @@ export default function HomePage() {
                     <div>Aqui são listados os grupos de sinônimos da última palavra digitada</div>
                   )} 
                   {state.hasInput && state.synonymKeyData.length === 0 && (
-                    <div>Não há sinônimos para a palavra: &quot;{state.inputNorm}&quot;</div>
+                    <div>Não há sinônimos para a palavra: <i>{state.inputNorm}</i></div>
                   )}  
                   {state.hasInput && state.synonymKeyData && state.synonymKeyData.map((item, index) => {
                     const entriesString = item.entries.join(", ");
@@ -300,7 +294,7 @@ export default function HomePage() {
                   {state.hasInput && state.glosaEntries.length === 0 && (
                     <>
                       <div>Nenhuma glosa que contém:</div>
-                      <span><strong>{state.inputNorm}</strong></span>
+                      <span><i>{state.inputNorm}</i></span>
                     </>
                   )}
                 </div>
@@ -332,7 +326,7 @@ export default function HomePage() {
             <div className={styles.glossario_container_second}>
               <div className={styles.glossario_title}>
                 <strong>Glosa</strong>
-                {(state.hasInput && state.showGlosaDef) && <span><strong>&nbsp;de &quot;{state.glosaData.original}&quot;</strong></span>}
+                {(state.hasInput && state.showGlosaDef) && <span><strong>&nbsp;de <i>{state.glosaData.original}</i></strong></span>}
               </div>
               <div className={styles.definitions_panel}>
                 {state.hasInput && !state.showGlosaDef && state.glosaEntries.length !== 0 && (
@@ -369,7 +363,7 @@ export default function HomePage() {
                       <div>Aqui são listados os grupos analógicos para cada palavra digitada</div>
                     )}
                     {state.hasInput && state.analogKeyData === null && (
-                      <div>Não há grupos analógicos para a palavra &quot;{state.inputNorm}&quot;</div>
+                      <div>Não há grupos analógicos para a palavra: <i>{state.inputNorm}</i></div>
                     )}
                     {state.hasInput && state.analogKeyData && state.analogKeyData.length > 0 
                     && state.analogKeyData.map((item: string, index) => (

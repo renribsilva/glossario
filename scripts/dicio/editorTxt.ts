@@ -8,40 +8,36 @@ function limparHashes(linha: string) {
 
 function editarArquivoComPipe() {
 
-  const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "A.txt");
-  // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "B.txt");
-  // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "C.txt");
-  // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "D.txt");
-  // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "E.txt");
-  // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "F.txt");
-  // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "G.txt");
-  // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "H.txt");
-  // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "I.txt");
-  // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "J.txt");
-  // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "K.txt");
-  // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "L.txt");
-  // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "M.txt");
-  // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "N.txt");
-  // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "O.txt");
-  // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "P.txt");
-  // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "Q.txt");
-  // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "R.txt");
-  // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "S.txt");
-  // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "T.txt");
-  // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "U.txt");
-  // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "V.txt");
-  // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "W.txt");
-  // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "X.txt");
-  // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "Y.txt");
-  // const txtPath = path.join(process.cwd(), "public", "dicio", "txt_modificado", "Z.txt");
+  const inputTxt = "txt_original"
+  const outputTxt = "txt_modificado"
+  const letra = "A"
 
-  const conteudo = fs.readFileSync(txtPath, 'utf-8');
-  const linhas = conteudo.split('\n').filter(linha => {
-    const conteudo = linha.trim();
-    return !/^\d+$/.test(conteudo);
+  //PRIMEIRO TRATAMENTO
+  const inputPath = path.join(process.cwd(), "public", "dicio", inputTxt, `${letra}.txt`);
+  const outputPath = path.join(process.cwd(), "public", "dicio", outputTxt, `${letra}.txt`);
+
+  const conteudo = fs.readFileSync(inputPath, 'utf-8');
+  const linhas = conteudo.split('\n')
+
+  const corrPath = path.join(process.cwd(), "public", "dicio", "correções_manuais.txt");
+  
+  const corrConteudo = fs.readFileSync(corrPath, "utf-8")
+  .split('\n')
+  .filter(linha => new RegExp(`^${letra}\\d+\\s`).test(linha));
+  // console.log(linhas[10])
+
+  corrConteudo.forEach(linha => {
+    const match = linha.match(/^A(\d+)\s+(.*)$/);
+    if (match) {
+      const linhaNum = parseInt(match[1], 10); 
+      const novoConteudo = match[2];           
+      const index = linhaNum - 1;
+
+      if (index >= 0 && index < linhas.length) {
+        linhas[index] = novoConteudo; // Substitui a linha original pela corrigida
+      }
+    }
   });
-
-  // if (linhas.map(linha => {if (!linha.includes('|')) return true;})) return
 
   for (let i = 0; i < linhas.length; i++) {
     let linhaAtual = linhas[i].trim();
@@ -85,6 +81,14 @@ function editarArquivoComPipe() {
     }
   }
 
+  for (let i = 0; i < linhas.length; i++) {
+    const linhaAtual = linhas[i].trim();
+    if (linhaAtual.startsWith("deletar_esta_linha")) {
+      linhas.splice(i, 1); // remove a linha
+      i--; // volta o índice para checar a nova linha na mesma posição
+    }
+  }
+
   for (let i = 1; i < linhas.length; i++) {
     const linhaAtual = linhas[i].trim();
     if (linhaAtual.length === 0) continue;
@@ -124,6 +128,15 @@ function editarArquivoComPipe() {
     }
   }
 
+  for (let i = 0; i < linhas.length; i++) {
+    const linhaAtual = linhas[i].trim();
+    if (linhaAtual.startsWith("subir_esta_linha")) {
+      linhas[i - 1] = linhas[i - 1].trimEnd() + ' ' + linhaAtual;
+      linhas.splice(i, 1);
+      i--;
+    }
+  }
+
   const prefixosList = [
     ' loc. adv. ', ' loc. conj. ', ' loc. prep. ', ' loc. pron. ',
     ' loc. interj. ', ' m. ', ' f. ', ' v. t. e i. ', ' v. t. ', ' v. i. ', ' v. p. ',
@@ -143,7 +156,7 @@ function editarArquivoComPipe() {
     if (!linha.includes(' ')) return linha;
 
     const primeiroEspaco = linha.indexOf(' ');
-    const antes = linha.slice(0, primeiroEspaco + 1);
+    const antes = linha.slice(0, primeiroEspaco + 1).replace("...", "");
     let depois = linha.slice(primeiroEspaco);
     let depoisLower = depois.toLowerCase();
 
@@ -279,9 +292,8 @@ function editarArquivoComPipe() {
   //   }
   // }
 
-
   const novoConteudo = linhasEditadas.join('\n');
-  fs.writeFileSync(txtPath, novoConteudo, 'utf-8');
+  fs.writeFileSync(outputPath, novoConteudo, 'utf-8');
 }
 
 editarArquivoComPipe();

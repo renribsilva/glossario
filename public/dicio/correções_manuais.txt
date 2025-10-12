@@ -1,14 +1,10 @@
-A
-
-à #,1 # |prep.| contr. da |prep.| a com o |art.| a
-acerca |loc. prep.| (seg. da prep. de) A respeito de; relativamente a; sôbre. (Do lat. circa)
-afinal |adv.| Em-fim, finalmente. (De final)
-a. m. |Abrev.| muito us. em cálculos astronómicos, e que designa ante meridiem, (antes do meio dia).
-abdala |m.| Pai de Mafoma. (Ár. Abd-allah)
-abdelcáder |m.| Guerreiro marroquino. (Ár. Abd-el-kádir)
-abdelcádir |m.| Guerreiro marroquino. (Ár. Abd-el-kádir)
-abegôa |f.| (fem. de abegão).
-abissal |adj.| Relativo ao abysso. Relativo ás profundidades marı́timas. Que vive na profundidade do mar. (De abysso)
-abyssal |adj.| Relativo ao abysso. Relativo ás profundidades marı́timas. Que vive na profundidade do mar. (De abysso)
-aca #,1 # |m.| Bras. de Minas. Mau cheiro; fétido.
-acc... |el. comp.| O mesmo que ac..., excepto quando o primeiro c determina a modulação aberta da vogal que o precede, como em acção, redacção, etc.
+A11 à,1 prep. contr. da prep. a com o art. a
+A15 acerca loc. prep. (seg. da prep. de) A respeito de; relati-
+A17 afinal adv. Em-fim, finalmente. (De final )
+A18 a.m. Abrev. muito us. em cálculos astronómicos, e que
+A23 a cantaros loc. adv. Copiosamente, com abundância.
+A24 à cima loc. adv. Ant. Por fim, afinal (Desusado).
+A25 à clara f. Loc. adv. Des. O mesmo que às claras.
+A29 ademais adv. e prep. Além. Demais.
+A55 à parte adv. Separadamente. M. Interrupção; palavra ou
+A57 (De parte)
