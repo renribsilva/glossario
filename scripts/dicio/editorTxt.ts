@@ -12,20 +12,20 @@ function editarArquivoComPipe() {
   const outputTxt = "txt_modificado"
   const letra = "A"
 
-  //PRIMEIRO TRATAMENTO
   const inputPath = path.join(process.cwd(), "public", "dicio", inputTxt, `${letra}.txt`);
   const outputPath = path.join(process.cwd(), "public", "dicio", outputTxt, `${letra}.txt`);
+  const corrPath = path.join(process.cwd(), "public", "dicio", "correções_manuais.txt");
 
   const conteudo = fs.readFileSync(inputPath, 'utf-8');
   const linhas = conteudo.split('\n')
-
-  const corrPath = path.join(process.cwd(), "public", "dicio", "correções_manuais.txt");
   
   const corrConteudo = fs.readFileSync(corrPath, "utf-8")
   .split('\n')
   .filter(linha => new RegExp(`^${letra}\\d+\\s`).test(linha));
-  // console.log(linhas[10])
 
+   //PRIMEIRO TRATAMENTO
+
+  // Substitui a linha original pela corrigida
   corrConteudo.forEach(linha => {
     const match = linha.match(/^A(\d+)\s+(.*)$/);
     if (match) {
@@ -34,21 +34,22 @@ function editarArquivoComPipe() {
       const index = linhaNum - 1;
 
       if (index >= 0 && index < linhas.length) {
-        linhas[index] = novoConteudo; // Substitui a linha original pela corrigida
+        linhas[index] = novoConteudo;
       }
     }
   });
 
+  //SEGUNDO TRATAMENTO
+
+  // Remove "..."" das linhas que assim começam
   for (let i = 0; i < linhas.length; i++) {
     let linhaAtual = linhas[i].trim();
-
-    // IF independente: remove "..." do início da linha
     if (linhaAtual.startsWith('...')) {
       linhas[i] = linhaAtual.slice(3).trim();
     }
   }
 
-  // Etapa 1: Juntar linhas que terminam com "-"
+  // Junta linhas que terminam com "-"
   for (let i = 0; i < linhas.length - 1; i++) {
     const linhaAtual = linhas[i].trimEnd();
     if (linhaAtual.endsWith('-')) {
@@ -62,7 +63,7 @@ function editarArquivoComPipe() {
     }
   }
 
-  // Etapa 2: Subir linhas que começam com ( e terminam com ) ou ).
+  // Sobe linhas que começam com ( e terminam com ) ou ).
   for (let i = 1; i < linhas.length; i++) {
     const linhaAtual = linhas[i].trim();
     if (
@@ -72,15 +73,13 @@ function editarArquivoComPipe() {
       (linhaAtual.startsWith('(') &&
       (linhaAtual.endsWith(')') || linhaAtual.endsWith(').')))
     ) {
-      // Junta com a linha anterior, adicionando espaço
       linhas[i - 1] = linhas[i - 1].trimEnd() + ' ' + linhaAtual;
-      // Remove a linha atual
       linhas.splice(i, 1);
-      // Volta uma posição para verificar a próxima linha após a junção
       i--;
     }
   }
 
+  // Sobe linha que só contém números
   for (let i = 1; i < linhas.length; i++) {
     const linhaAtual = linhas[i].trim();
     const soTemNum = /^\d+\.?$/.test(linhaAtual);
@@ -90,6 +89,7 @@ function editarArquivoComPipe() {
     }
   }
 
+  // Sobe todas as linhas que não começam com a letra em tratamento
   for (let i = 1; i < linhas.length; i++) {
     const linhaAtual = linhas[i].trim();
     if (linhaAtual.length === 0) continue;
