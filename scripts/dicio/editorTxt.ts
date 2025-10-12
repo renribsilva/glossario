@@ -25,11 +25,17 @@ function editarArquivoComPipe() {
     const match = linha.match(/^A(\d+)\s+(.*)$/);
     if (match) {
       const linhaNum = parseInt(match[1], 10); 
-      const novoConteudo = match[2];           
+      const novoConteudo = match[2].trim();           
       const index = linhaNum - 1;
 
       if (index >= 0 && index < linhas.length) {
-        linhas[index] = novoConteudo;
+        if (novoConteudo === '') {
+          // Remove a linha se o novo conteúdo estiver vazio
+          linhas.splice(index, 1);
+        } else {
+          // Substitui normalmente
+          linhas[index] = novoConteudo;
+        }
       }
     }
   });
@@ -128,7 +134,8 @@ function editarArquivoComPipe() {
 
   const prefixosList = [
     ' loc. adv. ', ' loc. conj. ', ' loc. prep. ', ' loc. pron. ',
-    ' loc. interj. ', ' m. ', ' f. ', ' v. t. e i. ', ' v. t. ', ' v. i. ', ' v. p. ',
+    ' loc. interj. ', ' loc. fam. ', 
+    ' m. ', ' f. ', ' v. t. e i. ', ' v. t. ', ' v. i. ', ' v. p. ',
     ' v. pron. ', ' adj. ', ' adv. ', ' interj. ', ' mús. ', ' prov. ',
     ' gram. ', ' pref. ', ' abrev. ', ' prep. ', ' pron. ',
     ' art. ', ' fem. ', ' adj. f. ', ' art. def. ', ' aum. ',
