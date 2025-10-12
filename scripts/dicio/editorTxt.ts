@@ -8,7 +8,7 @@ function editarArquivoComPipe(letra: string) {
 
   const inputPath = path.join(process.cwd(), "public", "dicio", inputTxt, `${letra}.txt`);
   const outputPath = path.join(process.cwd(), "public", "dicio", outputTxt, `${letra}.txt`);
-  const corrPath = path.join(process.cwd(), "public", "dicio", "correções_manuais.txt");
+  const corrPath = path.join(process.cwd(), "public", "dicio", "correções.txt");
 
   const conteudo = fs.readFileSync(inputPath, 'utf-8');
   const linhas = conteudo.split('\n')
