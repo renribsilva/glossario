@@ -29,7 +29,7 @@ function dicioJsonCreator() {
 
     const linhas = conteudo
       .split(/\r?\n/)
-      .filter(l => l.trim() !== '');
+      .filter(Boolean)
 
     // Sobe linhas em que a segunda unidade não começa com |
     for (let i = 0; i < linhas.length; i++) {
