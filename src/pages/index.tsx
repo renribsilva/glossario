@@ -30,7 +30,7 @@ export default function HomePage() {
   // console.log("method:", state.method)
   // console.log("isSugDisabled:", state.isSugDisabled)
   // console.log(state.ptBRExtendedC)
-  console.log("Home:", state.inputRaw)
+  // console.log("Home:", state.inputRaw)
 
   const partes = state.dicioData ? state.dicioData.split(/(\|[^|]+\|)/g).filter(Boolean) : null
 
