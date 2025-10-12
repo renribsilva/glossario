@@ -1,11 +1,10 @@
 import fs from 'fs';
 import path from 'path';
 
-function editarArquivoComPipe() {
+function editarArquivoComPipe(letra: string) {
 
   const inputTxt = "txt_original"
   const outputTxt = "txt_modificado"
-  const letra = "A"
 
   const inputPath = path.join(process.cwd(), "public", "dicio", inputTxt, `${letra}.txt`);
   const outputPath = path.join(process.cwd(), "public", "dicio", outputTxt, `${letra}.txt`);
@@ -98,36 +97,36 @@ function editarArquivoComPipe() {
   for (let i = 1; i < linhas.length; i++) {
     const linhaAtual = linhas[i].trim();
     if (linhaAtual.length === 0) continue;
-
-    const comecaComA = /^[aáàãâäAÁÀÃÂÄ]/.test(linhaAtual);
-    // const comecaComA = /^[bB]/.test(linhaAtual);
-    // const comecaComA = /^[cC]/.test(linhaAtual);
-    // const comecaComA = /^[dD]/.test(linhaAtual);
-    // const comecaComA = /^[eéèẽêëEÉÈẼÊË]/.test(linhaAtual);
-    // const comecaComA = /^[fF]/.test(linhaAtual);
-    // const comecaComA = /^[gG]/.test(linhaAtual);
-    // const comecaComA = /^[hH]/.test(linhaAtual);
-    // const comecaComA = /^[iíìĩîïIÍÌĨÎÏ]/.test(linhaAtual);
-    // const comecaComA = /^[jJ]/.test(linhaAtual);
-    // const comecaComA = /^[kK]/.test(linhaAtual);
-    // const comecaComA = /^[lL]/.test(linhaAtual);
-    // const comecaComA = /^[mM]/.test(linhaAtual);
-    // const comecaComA = /^[nN]/.test(linhaAtual);
-    // const comecaComA = /^[oóòõôöOÓÒÕÔÖ]/.test(linhaAtual);
-    // const comecaComA = /^[pP]/.test(linhaAtual);
-    // const comecaComA = /^[qQ]/.test(linhaAtual);
-    // const comecaComA = /^[rR]/.test(linhaAtual);
-    // const comecaComA = /^[sS]/.test(linhaAtual);
-    // const comecaComA = /^[tT]/.test(linhaAtual);
-    // const comecaComA = /^[uúùũûüUÚÙÛÜ]/.test(linhaAtual);
-    // const comecaComA = /^[vV]/.test(linhaAtual);
-    // const comecaComA = /^[wW]/.test(linhaAtual);
-    // const comecaComA = /^[xX]/.test(linhaAtual);
-    // const comecaComA = /^[yY]/.test(linhaAtual);
-    // const comecaComA = /^[zZ]/.test(linhaAtual);
+    let comecaCom: boolean | null = null
+    if (letra === "A") comecaCom = /^[aáàãâäAÁÀÃÂÄ]/.test(linhaAtual);
+    if (letra === "B") comecaCom = /^[bB]/.test(linhaAtual);
+    if (letra === "C") comecaCom = /^[cC]/.test(linhaAtual);
+    if (letra === "D") comecaCom = /^[dD]/.test(linhaAtual);
+    if (letra === "E") comecaCom = /^[eéèẽêëEÉÈẼÊË]/.test(linhaAtual);
+    if (letra === "F") comecaCom = /^[fF]/.test(linhaAtual);
+    if (letra === "G") comecaCom = /^[gG]/.test(linhaAtual);
+    if (letra === "H") comecaCom = /^[hH]/.test(linhaAtual);
+    if (letra === "I") comecaCom = /^[iíìĩîïIÍÌĨÎÏ]/.test(linhaAtual);
+    if (letra === "J") comecaCom = /^[jJ]/.test(linhaAtual);
+    if (letra === "K") comecaCom = /^[kK]/.test(linhaAtual);
+    if (letra === "L") comecaCom = /^[lL]/.test(linhaAtual);
+    if (letra === "M") comecaCom = /^[mM]/.test(linhaAtual);
+    if (letra === "N") comecaCom = /^[nN]/.test(linhaAtual);
+    if (letra === "O") comecaCom = /^[oóòõôöOÓÒÕÔÖ]/.test(linhaAtual);
+    if (letra === "P") comecaCom = /^[pP]/.test(linhaAtual);
+    if (letra === "Q") comecaCom = /^[qQ]/.test(linhaAtual);
+    if (letra === "R") comecaCom = /^[rR]/.test(linhaAtual);
+    if (letra === "S") comecaCom = /^[sS]/.test(linhaAtual);
+    if (letra === "T") comecaCom = /^[tT]/.test(linhaAtual);
+    if (letra === "U") comecaCom = /^[uúùũûüUÚÙÛÜ]/.test(linhaAtual);
+    if (letra === "V") comecaCom = /^[vV]/.test(linhaAtual);
+    if (letra === "W") comecaCom = /^[wW]/.test(linhaAtual);
+    if (letra === "X") comecaCom = /^[xX]/.test(linhaAtual);
+    if (letra === "Y") comecaCom = /^[yY]/.test(linhaAtual);
+    if (letra === "Z") comecaCom = /^[zZ]/.test(linhaAtual);
 
     // Se NÃO começa com "letra"
-    if (!comecaComA) {
+    if (!comecaCom) {
       linhas[i - 1] = linhas[i - 1].trimEnd() + ' ' + linhaAtual;
       linhas.splice(i, 1);
       i--;
@@ -223,4 +222,8 @@ function editarArquivoComPipe() {
   fs.writeFileSync(outputPath, novoConteudo, 'utf-8');
 }
 
-editarArquivoComPipe();
+const alfabeto = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+
+for (const letra of alfabeto) {
+  editarArquivoComPipe(letra);
+}
