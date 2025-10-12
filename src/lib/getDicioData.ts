@@ -38,18 +38,17 @@ function carregarDicioJson(): Record<string, Record<string, string>> {
 export function getDicioData(termo: string): dicioData | null {
 
   if (/^[\u0300-\u036f]+$/.test(termo) || termo === undefined) return null
-  const termoNormalizado = termo.toLowerCase().normalize("NFC")
+  const termoNorm = termo.toLowerCase().normalize("NFC")
   const DICIO_JSON = carregarDicioJson();
 
   // percorre cada letra
   for (const letraObj of Object.values(DICIO_JSON)) {
     // percorre cada entrada dentro da letra
     for (const [entrada, valor] of Object.entries(letraObj)) {
-      // console.log(entrada, termo)
-      if (entrada === termoNormalizado) {
-        // console.log(valor)
+      const entradaNorm = entrada.split(" ")
+      if (entradaNorm[entradaNorm.length - 1] === termoNorm) {
         return {
-          verbete: termoNormalizado, 
+          verbete: entrada, 
           definição: valor
         };
       }
