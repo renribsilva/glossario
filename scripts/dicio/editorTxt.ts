@@ -144,7 +144,7 @@ function editarArquivoComPipe(letra: string) {
     'interj.',
     'aum.', 'dem.',
     'conj.',
-    'n. p.',  'gram.', 'abrev.', 'interj.', 'mús.', 'fam.',
+    'n. p.',  'gram.', 'abrev.', 'interj.', 'mús.', 'fam.', 'ext.'
   ];
 
   const linhasEditadas = linhas.map(linha => {
