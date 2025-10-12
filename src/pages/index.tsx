@@ -30,6 +30,7 @@ export default function HomePage() {
   // console.log("method:", state.method)
   // console.log("isSugDisabled:", state.isSugDisabled)
   // console.log(state.ptBRExtendedC)
+  console.log("Home:", state.inputRaw)
 
   const partes = state.dicioData ? state.dicioData.split(/(\|[^|]+\|)/g).filter(Boolean) : null
 
@@ -96,6 +97,9 @@ export default function HomePage() {
               <>
                 <div className={styles.dicio_box}>
                   <div className={styles.dicio_plain}>
+                    {!partes && (
+                      <div>Aqui é mostrado o verbete da última palavar digitada, se houver  </div>
+                    )}
                     {partes && partes.map((parte, index) => {
                       if (parte.startsWith("|") && parte.endsWith("|")) {
                         // Remove os pipes e coloca em <strong>

@@ -25,35 +25,33 @@ import X from "../json/dicioJson/X.json";
 import Y from "../json/dicioJson/Y.json";
 import Z from "../json/dicioJson/Z.json";
 
-const DICIO_JSON: Record<string, Record<string, string>> = {
-  A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z,
-};
+let DICIO_JSON_CACHE: Record<string, Record<string, string>> | null = null;
 
-// Cache para resultados já buscados
-const cache: Record<string, string | null> = {};
+function carregarDicioJson(): Record<string, Record<string, string>> {
+  if (DICIO_JSON_CACHE) return DICIO_JSON_CACHE;
+
+  DICIO_JSON_CACHE = { A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z };
+  return DICIO_JSON_CACHE;
+}
 
 export function getDicioData(termo: string): string | null {
-  const termoNormalizado = termo.normalize("NFC").trim();
 
-  // Verifica cache primeiro
-  if (cache[termoNormalizado] !== undefined) {
-    return cache[termoNormalizado];
-  }
+  if (/^[\u0300-\u036f]+$/.test(termo)) return null
+  // const termoNormalizado = termo.normalize("NFD").normalize("NFC").trim();
+  const DICIO_JSON = carregarDicioJson();
 
   // percorre cada letra
   for (const letraObj of Object.values(DICIO_JSON)) {
     // percorre cada entrada dentro da letra
     for (const [entrada, valor] of Object.entries(letraObj)) {
-      const entradaNorm = entrada.normalize("NFC").trim();
-      if (entradaNorm === termoNormalizado) {
-        cache[termoNormalizado] = valor; // salva no cache
-        console.log(valor)
+      // console.log(entrada, termo)
+      if (entrada === termo) {
+        // console.log(valor)
         return valor;
       }
     }
   }
-  cache[termoNormalizado] = null; // salva no cache
-  return null;
+  return null
 }
 
 // 🔍 Exemplo de uso

@@ -72,6 +72,7 @@ export function handleHomeState() {
     const words = fullText
       .replace(/[!"#$%&'()*+,.ºª/:;¨´<=>?´@[\\\]^_`{|}~]+/g, "")
       .split(/\s+/);
+    const raw = fullText.split(/\s+/).filter(word => word.trim() !== "")
     const validWords = words.filter(word => word.trim() !== "");
     // console.log(validWords[validWords?.length - 1])
     if((validWords[validWords?.length - 1])?.trim().length >= 3 ) {
@@ -80,9 +81,23 @@ export function handleHomeState() {
         input: (validWords[validWords.length - 1]).toLowerCase()
       }))
     }
+
+    let lastRaw = raw[raw.length - 1];
+    // Se o último caractere for diacrítico, compõe NFC com o próximo
+    if (lastRaw) {
+      const lastChar = lastRaw[lastRaw.length - 1];
+      // Testa se é um diacrítico isolado
+      if (lastChar.normalize('NFD').match(/[\u0300-\u036f]/)) {
+        // Junta com a próxima palavra
+        const secondLast = raw[raw.length - 2] || "";
+        const compound = (secondLast + lastRaw).normalize('NFC');
+        lastRaw = compound[compound.length-1]
+      }
+    }
+    // console.log("last:", lastRaw)
     setState(prev =>({
       ...prev,
-      inputRaw: (validWords[validWords.length - 1]),
+      inputRaw: lastRaw,
       inputNorm: ni(validWords[validWords.length - 1]),
       inputFullText: fullText
     }))
@@ -346,6 +361,12 @@ export function handleHomeState() {
 
   useEffect(() => {
 
+    const dicioData = getDicioData(state.inputRaw)
+    setState (prev => ({
+      ...prev,
+      dicioData: dicioData
+    }))
+
     if (state.inputNorm === undefined || state.inputNorm === '') {
       setState (prev => ({
         ...prev,
@@ -388,12 +409,6 @@ export function handleHomeState() {
         activeList: null,
         synonymData: { plain_text: "", entries: [] }
       }))
-      const dicioData = getDicioData(state.inputRaw)
-      setState (prev => ({
-        ...prev,
-        dicioData: dicioData
-      }))
-      // console.log(dicioData)
 
       let longestOriginal = "";
 
