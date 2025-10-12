@@ -83,6 +83,15 @@ function editarArquivoComPipe() {
 
   for (let i = 1; i < linhas.length; i++) {
     const linhaAtual = linhas[i].trim();
+    const soTemNum = /^\d+\.?$/.test(linhaAtual);
+    if (soTemNum) {
+      linhas.splice(i, 1);
+      i--;
+    }
+  }
+
+  for (let i = 1; i < linhas.length; i++) {
+    const linhaAtual = linhas[i].trim();
     if (linhaAtual.length === 0) continue;
 
     const comecaComA = /^[aáàãâäAÁÀÃÂÄ]/.test(linhaAtual);

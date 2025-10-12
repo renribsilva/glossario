@@ -193,7 +193,7 @@ abancar |v. t.| Distribuir por lugares á roda da banca. |V. i.| Sentar-se á ba
 abandalhado |adj.| Que se abandalhou. (De abandalhar).
 abandalhar |v. t.| Tornar bandalho, reles.
 abandar #,1 # |v. t.| Reunir em bando. |V. p.| Formar bando, bandear-se. |v. t.| Pôr de banda, separar, dar como quinhão: na partilha, o pai abandou-lhe duas belgas. Pôr bandas em:
-abandar de velludo um capote. Cf. Camillo, Narcót., II, 304.
+abandar de velludo um capote. Cf. Camillo, Narcót., II,
 abandear |v. t.| O mesmo que bandear.
 abandeirar |v. t.| O mesmo que embandeirar.
 abandejar |v. t.| Dar fórma de bandeja a. Limpar (cereaes), separando com bandeja o grão e a palha.
@@ -211,7 +211,7 @@ abanheenga |m.| Bras. Guarani ou tupi do sul.
 abanicar |v. i.| Diz-se do toireiro, quando move o capote de um lado para o outro. * Abanar com leque. (De abanico).
 abanico |m.| Pequeno abano. Leque. * Ant. Gorjeira ou enfeite para o pescoço.
 abaninho |m.| (V. abanico).
-abano |m.| O mesmo que ventarola. Utensı́lio, em fórma de leque, para activar a combustão, agitando o ar. * m. Modo 4 de pesca, usado no Algarve, pondo-se no anzol um pedaço de pano branco, em vez de isca. Guarnição de vestuário, espécie de folho pregueado.
+abano |m.| O mesmo que ventarola. Utensı́lio, em fórma de leque, para activar a combustão, agitando o ar. * m. Modo de pesca, usado no Algarve, pondo-se no anzol um pedaço de pano branco, em vez de isca. Guarnição de vestuário, espécie de folho pregueado.
 abantesma #,(tês)#  |f.| Pop. O mesmo que fantasma. Apparição medonha. * Fig. Objecto muito grande, espantoso.
 abanto |m.| Espécie de abutre. |Adj.| Cobarde, (falando-se do toiro).
 abapo |m.| Planta exótica, amaryllidea.
@@ -362,7 +362,7 @@ abeberar |v. t.| Dar de beber a. Regar. Ensopar. (Corresponde ao cast. abrevar, 
 ad + bibere. Cf. Viana, Apost., vb. baforeira).
 abebra #,(bê)#  |f.| (V. bêbera).
 abecar |v. t.| Bras. Segurar pela golla, prender.
-abecê |m.| O mesmo ou melhor que abc. 6
+abecê |m.| O mesmo ou melhor que abc.
 abecedário |m.| Alphabeto. Livrinho para aprender a lêr. (Do lat. abecedarius).
 abechedo |m.| trasm. O mesmo que abicheiro. |Prov.| trasm. O mesmo que abicheiro.
 abechucho |m.| trasm. Pessoa muito encorpada e desageitada. |Prov.| trasm. Pessoa muito encorpada e desageitada.
@@ -513,7 +513,7 @@ abjuração |f.| Acto ou effeito de abjurar. (Do lat. abjuratio)
 abjurador |m.| Aquelle que abjura.
 abjurante |m.| Aquelle que abjura. |adj.| Aquelle que abjura.
 abjurar |v. t.| Abandonar. Renunciar (crenças, especialmente). (Do lat. abjurare)
-abjuratório |adj.| Relativo á abjuração. 8
+abjuratório |adj.| Relativo á abjuração.
 abjurgar |v. t.| Tirar judicialmente. (Do lat. abjurgare)
 ablação |f.| Acto de tirar. Acto de cortar: ablação de um tumor. |Gram.| Aphérese. (Do lat. ablatio)
 ablactação |f.| O desmamar das crianças. (Do lat. ablactatio)
@@ -667,7 +667,7 @@ abostelado |adj.| Que tem bostellas.
 abostelar |v. i.| Criar bostella.
 abostellado |adj.| Que tem bostellas.
 abostellar |v. i.| Criar bostella.
-abotinado |adj.| Que tem fórma de botina. 10
+abotinado |adj.| Que tem fórma de botina.
 abotinar |v. t.| Dar fórma de botina a.
 abotoação |m.| Formação de botões (na planta) (De abotoar)
 abotoadeira |f.| Instrumento para abotoar.
@@ -767,7 +767,7 @@ abrigoı́r |v. i.| Açor. Contender, disputar.
 abrigoso |adj.| Que fornece ou dá abrigo. Cf. Th. Ribeiro, Jornadas, I, 123.
 abril |m.| Quarto mês do anno gregoriano. Fig. Idade da
 alegria e da innocência; juventude. (Lat. aprilis)
-abrilada |f.| Acontecimento em Abril. Revolta de Abril de 1824.
+abrilada |f.| Acontecimento em Abril. Revolta de Abril de
 abrilhantar |v. t.| Tornar brilhante.
 abrimento |m.| O mesmo que abertura. Abrimento de boca, bocejo.
 abrir |v. t.| Desunir, descerrar: abrir a janela. Romper, cortar: abrir as veias. Desimpedir, desobstruir: abrir caminho. Começar. Devassar. Escavar: abrir um poço. Gravar:
@@ -823,7 +823,7 @@ abruptamente #,(ru)#  |adv.| Em grande declive. De repente. (De abrupto)
 abruptela #,(ru)#  |f.| Terra desbravada. (De abrupto)
 abrupto #,(ru)#  |adj.| Íngreme; com grande inclinação. Repentino. (Lat. abruptus)
 abruso |m.| Planta papilionácea, semelhante á acácia. (Do gr. abros)
-abrutadamente |adv.| De modo abrutado. 12
+abrutadamente |adv.| De modo abrutado.
 abrutado |adj.| Que tem modos grosseiros. Bruto. Brutal. (De abrutar)
 abrutalhado |adj.| Grosseiro. Brusco. (De bruto)
 abrutalhar-se |v. p.| Tornar-se abrutalhado.
@@ -978,13 +978,13 @@ abuzinar |v. i.| Tocar buzina. Fazer barulho incómmodo.
 abysmo |m.| (e der.) (V. abismo, etc.)
 abyssal adj Relativo ao abysso. Relativo ás profundidades marı́timas. Que vive na profundidade do mar. (De abysso)
 abyssı́nio |m.| O mesmo que abexim.
-abysso |m.| O mesmo que abismo. * Gênero de plantas de 14 jardim. (Gr. abussos)
+abysso |m.| O mesmo que abismo. * Gênero de plantas de jardim. (Gr. abussos)
 acá |m.| Árvore silvestre do Brasil.
 aca #,1 # m., Bras. de Minas. Mau cheiro; fétido.
 aca #,2 # |f.| T. da Índia Port. Pensão pecuniária, vitalicia e hereditária, dada pela autoridade soberana, em compensação de serviços públicos.
 acabaçar |v. t.| Dar feitio de cabaça a.
 acabadamente |adv.| De modo acabado, com perfeição. Inteiramente.
-acabadiço |adj.| Doentio, acanaveado. Cf. Cenáculo, Visita, 37.
+acabadiço |adj.| Doentio, acanaveado. Cf. Cenáculo, Visita,
 acabado |adj.| Abatido. Fam. Muito magro, avelhentado. * |M.| O mesmo que acabamento: é trabalho de óptimo acabado. (De acabar)
 acabador |m.| Aquelle que acaba. * m. Operário, encarregado do acabamento numa peça de tecido de lan.
 acabadote |adj.| Um tanto acabado, avelhentado, (falandose de alguém). (De acabado)
@@ -1031,7 +1031,7 @@ acadêmico |adj.| Relativo a academia. |M.| Membro de academia. Estudante. (Lat.
 academista |m.| Estudante, que frequenta uma academia. Especialmente, quem frequenta uma academia recreativa.
 acadianos |m.| pl. Povos, que habitaram a região de Babylónia, antes da dominação dos Assýrios.
 acadimar-se |v. p.| Habituar-se a certo trabalho; tornar-se perito nelle. (De cadimo) |Prov.| Habituar-se a certo trabalho; tornar-se perito nelle. (De cadimo)
-acadrimar-se |v. p.| O mesmo que acadimar-se. Affeiçoarse: “não se acadrimou a nenhum”. Camillo, Myst. de Fafe, 10.
+acadrimar-se |v. p.| O mesmo que acadimar-se. Affeiçoarse: “não se acadrimou a nenhum”. Camillo, Myst. de Fafe,
 acaecente |adj.| Ant. Que acaéce.
 acaecer |v. i.| Ant. Acontecêr. (Cp. lat. cadere)
 acaecimento |m.| Acto de acaecer.
@@ -1088,7 +1088,7 @@ acalanto |m.| Nôme scientı́fico do tentilhão. (Gr. akalanthos)
 acalar |v. i.| Submergir-se, (falando-se de barcos). (Cp. calar) |Prov.| Submergir-se, (falando-se de barcos). (Cp. calar)
 acalcanhado |adj.| Torto, (falando-se de calçado maltratado ou com muito uso). * Fig. Abatido, decadente: “a freira estava completamente acalcanhada e desgraciada”. Camillo, Caveira, 276. (De acalcanhar)
 acalcanhamento |m.| Acto de acalcanhar.
-acalcanhar |v. t.| Pisar com o calcanhar. |V. i.| Entortar o calçado, andando. * Esmagar, aniquilar: “quando as injustiças dêste planeta o acalcanharem...” Camillo, Volcoens, 82.
+acalcanhar |v. t.| Pisar com o calcanhar. |V. i.| Entortar o calçado, andando. * Esmagar, aniquilar: “quando as injustiças dêste planeta o acalcanharem...” Camillo, Volcoens,
 acalcar |v. t.| O mesmo que calcar.
 acalefologia |f.| Parte da Zoologia, que trata dos acalephos.
 acalefos |m.| pl. Zool. Classe de zoóphytos, a que pertence
@@ -1132,7 +1132,7 @@ acamonia |f.| Bras. Espécie de doce, em que se emprega o gengibre.
 açamoucado |m.| Mau emprêgo de materiaes de construcçâo, sem arte, sem gôsto e sem segurança.
 acampainhar #,(pa-i)#  |v. t.| Dar fórma de campaı́nha a.
 acampamento |m.| Acto de acampar. Lugar, onde se acampou. Arraial.
-acampar |v. t.| Estabelecer em campo. |V. i.| e p. 16 Estabelecer-se no campo. Assentar arraial. Estacionar, (falando-se de muita gente).
+acampar |v. t.| Estabelecer em campo. |V. i.| e p. Estabelecer-se no campo. Assentar arraial. Estacionar, (falando-se de muita gente).
 acampsia |f.| Med. Inflexibilidade das articulações. Anquilose.
 acampto |m.| Phýs. Que não reflecte luz. (Do gr. a priv. + kamptein, dobrar)
 acamptosomos #,(tossô)#  |m.| pl. Zool. Famı́lia dos animaes da classe dos cirrı́pedes. (Do gr. a priv. + kampto, dóbro + soma, corpo)
@@ -1145,7 +1145,7 @@ acanalador |adj.| Que acanala.
 acanaladura |f.| Estria, cavidade ou rêgo longitudinal. (De acanalar)
 acanalar |v. t.| Abrir estrias em. Cavar longitudinalmente. (De canal)
 acanalhado |adj.| Que tem modos de canalha. (De acanalhar)
-acanalhar |v. t.| Dar modos de canalha a. Tornar canalha. |V. p.| Fazer-se canalha, aviltar-se. Cf. Camillo, Narcót, II, 80.
+acanalhar |v. t.| Dar modos de canalha a. Tornar canalha. |V. p.| Fazer-se canalha, aviltar-se. Cf. Camillo, Narcót, II,
 acanaveado |adj.| Fig. Abatido, magro. (De acanavear)
 acanaveadura |f.| Acto ou effeito de acanavear.
 acanavear |v. t.| Suppliciar, metendo puas de cana, entre as unhas e a carne. Fam. Tornar abatido, magro. (De cana)
@@ -1272,7 +1272,7 @@ acaridar-se |v. p.| Têr caridade, compadecer-se.
 acarı́deos |m.| pl. Ordem de arachnı́deos, a que os ácaros dão o nome. (Do gr. akari + eidos)
 acarima |m.| Macaco da Guiana, semelhante ao saguim.
 acarinhar |v. t.| Tratar com carinho, acariciar.
-acário |m.| Planta resinosa do Cabo da Bôa-Esperança. 18
+acário |m.| Planta resinosa do Cabo da Bôa-Esperança.
 acarlinga |f.| Náut. Des. O mesmo que carlinga.
 acarminado |adj.| Tirante a carmim.
 acarna |m.| Planta exótica, da fam. das compostas. (Gr. akarna)
@@ -1285,8 +1285,8 @@ acárpio |adj.| Diz-se das plantas que não dão fruto. (Do gr.
 a priv. + karpos)
 acarraçado |adj.| Agarrado, apegado como a carraça.
 acarrado |adj.| Que acarrou.
-acarradoiro |m.| Lugar, onde o gado passa as horas do calor, ordinariamente nas lapas. Cf. Rev. Lus., XI, 146. |Prov.| Lugar, onde o gado passa as horas do calor, ordinariamente nas lapas. Cf. Rev. Lus., XI, 146.
-acarradouro |m.| Lugar, onde o gado passa as horas do calor, ordinariamente nas lapas. Cf. Rev. Lus., XI, 146. |Prov.| Lugar, onde o gado passa as horas do calor, ordinariamente nas lapas. Cf. Rev. Lus., XI, 146.
+acarradoiro |m.| Lugar, onde o gado passa as horas do calor, ordinariamente nas lapas. Cf. Rev. Lus., XI, |Prov.| Lugar, onde o gado passa as horas do calor, ordinariamente nas lapas. Cf. Rev. Lus., XI,
+acarradouro |m.| Lugar, onde o gado passa as horas do calor, ordinariamente nas lapas. Cf. Rev. Lus., XI, |Prov.| Lugar, onde o gado passa as horas do calor, ordinariamente nas lapas. Cf. Rev. Lus., XI,
 acarrapatado |adj.| Semelhante ao carrapato.
 acarrar |v. i.| Deixar de mover-se. Estar no chôco. * |Prov.| Estar no acarro. * Fig. Dormir a sesta, descansar. * Estar doente de cama.
 acarrear |v. t.| O mesmo que carrear. Occasionar, causar: “a angústia que a memória de tuas felicidades passadas te
@@ -1392,7 +1392,7 @@ acceitação |f.| Acto ou effeito de acceitar. Applauso. Bemquerença.
 acceitador |m.| Aquelle que acceita.
 acceitamento |m.| O mesmo que acceitação. * Ant. Desafio
 acceitado. Duello.
-acceitante |m.| Aquelle que acceita: o acceitante de uma letra commercial. 20 |adj.| Aquelle que acceita: o acceitante de uma letra commercial. 20
+acceitante |m.| Aquelle que acceita: o acceitante de uma letra commercial. |adj.| Aquelle que acceita: o acceitante de uma letra commercial.
 acceptuar |v. i.| trasm. Fazer combinação. Combinar os meios ou o modo de fazer alguma coisa. (Cp. acceptar) |Prov.| trasm. Fazer combinação. Combinar os meios ou o modo de fazer alguma coisa. (Cp. acceptar)
 accesamente |adv.| O mesmo que accendidamente.
 acceso |adj.| Que se accendeu. Inflammado. Fig. Excitado. (Lat. accensus)
@@ -1431,7 +1431,7 @@ acceptilação |f.| Des. Acto, em que um crèdor dá quitação
 a um devedor, sem que êste pague a dı́vida. (Lat. acceptilatio)pathológico que, a espaços, cessa e recrudesce. (Lat. accessus)
 accessoriamente |adv.| De modo accessório.
 accessório |adj.| Que está junto a alguma coisa, sem della fazer parte integrante. (De acceder)
-acciano |adj.| Diz-se dos jogos públicos, instituı́dos por César, em memória da batalha de Áccio. Cf. Castilho, Fastos, I, 606.
+acciano |adj.| Diz-se dos jogos públicos, instituı́dos por César, em memória da batalha de Áccio. Cf. Castilho, Fastos, I,
 accidentação |f.| Qualidade de um terreno accidentado. (De accidentar)
 accidentado |adj.| Que não é plano: região accidentada.
 accidental |adj.| Fortuito, casual, imprevisto. Acessório. * |Mús.| Diz-se de cada uma das notas, que não fazem parte integrante dos acordes. (De accidente)
@@ -1575,7 +1575,7 @@ acendalha |f.| Substância combustı́vel, com que se ateia o lume, (aparas, cav
 acendedalha |f.| O mesmo que acendalha. Cf. Amador Arráiz.
 acendedor |m.| O que accende.
 acender |v. t.| Fazer arder: accender uma vela. Pôr fogo a:
-accender a lenha. Atear. Illuminar. Fig. Enthusiasmar. 22 Estimular: accender os brios. (Lat. accendere)
+accender a lenha. Atear. Illuminar. Fig. Enthusiasmar. Estimular: accender os brios. (Lat. accendere)
 acendidamente |adv.| Fig. Com enthusiasmo, com excitação.
 acendimento |m.| Acto de accender.
 acendı́vel |adj.| Que se póde accender.
@@ -1722,7 +1722,7 @@ acetonia |f.| (V. acetona)
 acetónico |adj.| Diz-se de um ácido, derivado de acetatos
 alcalinos. (De acetonia)
 acetonina |f.| Álcali orgânico, solúvel na água, no álcool e no éther. (De acetonia)
-acetonuria |f.| Med. Eliminação de acetona, pela urina. (De 24
+acetonuria |f.| Med. Eliminação de acetona, pela urina. (De
 acetona + gr. ouron)
 acetosa |f.| Des. Planta, o mesmo que labaça.
 acetosamina |f.| Substância alcalina, insolúvel no éther, solúvel no álcool e na água. (De acetoso)
@@ -1800,7 +1800,7 @@ achavascar |v. t.| Tornar grosseiro, tôsco.
 achega #,(chê)#  |f.| Aditamento. Subsı́dio, auxı́lio. * Fam. Pequeno lucro. Rendimento accessório ou eventual. M.
 Ant. Cada um dos partı́cipes de um casal, cuja pensão total era paga por um cabecel. (De achegar)
 achegadamente |adv.| Muito de perto. Proximamente.
-achegado |m.| Ant. Amigo. Partidário. Cf. Rev. Lus., XVI, 1.
+achegado |m.| Ant. Amigo. Partidário. Cf. Rev. Lus., XVI,
 achegador |m.| O que achega. * |Prov.| minh. O mesmo que
 alcoviteiro. * Ant. Official de justiça.
 achegamento |m.| Acto de achegar.
@@ -1808,7 +1808,7 @@ achegança |f.| Ant. Pertença. Foragem, pensão. (De acheachiro, (qui) gar)
 achegar |v. t.| Aproximar. Conchegar. * Ant. Ajuntar,
 adquirir. Cf. Rev. Lus., XVI, 1. (De chegar)
 acheguilho |m.| O mesmo que accessório. (De achêga) |Prov.| O mesmo que accessório. (De achêga)
-acheira |f.| O mesmo que acha. Cf. Rev. Lus., XIII, 89. |Prov.| O mesmo que acha. Cf. Rev. Lus., XIII, 89.
+acheira |f.| O mesmo que acha. Cf. Rev. Lus., XIII, |Prov.| O mesmo que acha. Cf. Rev. Lus., XIII,
 achêmenes #,(quê)#  Primeiro Rei da Pérsia. (Lat. Archaémenes[1])
 achênio #,(quê)#  |adj.| Diz-se de um perı́odo geológico, criado por Dumond. |M.| Terreno na base da série infra-cretácea, constituı́do por um conjunto de areias brancas ou ferruginosas e de argila, que cobrem directamente as camadas carbonı́feras. (Por aachênio, de Aachen, n. p. al. de Aix-la-Chapelle)
 achens |m.| pl. Habitantes do antigo reino de Achém. Cf. Peregrinação.
@@ -1878,7 +1878,7 @@ akhuron + sperma)
 aciano |m.| Designação de uma flôr, (acianus maior).
 acianoblepsia |f.| Med. Insensibilidade visual para a côr
 azul. (Do gr. a priv. + kuanos + blepsis)
-aciantho |m.| Planta, da famı́lia das orchı́deas. (Do gr. akis + anthe) 26
+aciantho |m.| Planta, da famı́lia das orchı́deas. (Do gr. akis + anthe)
 acianto |m.| Planta, da famı́lia das orchı́deas. (Do gr. akis + anthe)
 acicalar |v. t.| (V. açacalar)
 acicárfio |m.| Planta da América do Sul. (Do gr. akis + karphos)
@@ -1919,7 +1919,7 @@ acidose |f.| Med. Impregnação ácida dos tecidos, que se observa especialmente
 acleia coma. (De ácido)
 acidotão |m.| Planta euphorbiácea da Jamaica. (Do gr. akidotos)
 acidrado |adj.| Semelhante á cidra.
-acidulacão |f.| Acto de acidular. Cf. F. Lapa, Techn. Rur., 477.
+acidulacão |f.| Acto de acidular. Cf. F. Lapa, Techn. Rur.,
 acidulante |adj.| Que acidula.
 acidular |v. t.| Tornar acı́dulo.
 acı́dulo |adj.| Levemente ácido. (Lat. acidulus)
@@ -2037,7 +2037,7 @@ acobilhar |v. t.| (V. acovilhar)
 acobreação |f.| Acto de acobrear.
 acobreado |adj.| Que tem aspecto ou côr de cobre.
 acobrear |v. t.| Dar aspecto de cobre a.
-acocéfalo |m.| Insecto hemı́ptero. (Do gr. akoe + kephale) 28
+acocéfalo |m.| Insecto hemı́ptero. (Do gr. akoe + kephale)
 acocéphalo |m.| Insecto hemı́ptero. (Do gr. akoe + kephale)
 acochar |v. t.| Bras. Conchegar, apertando ou calcando. (De cochar)
 acochichar |v. t.| Agachar; acocorar, encolher: ficou para alli, acochichado a um canto. (Colhido na Bairrada) |Prov.| Agachar; acocorar, encolher: ficou para alli, acochichado a um canto. (Colhido na Bairrada)
@@ -2196,7 +2196,7 @@ acorcundado |adj.| Que é um tanto corcunda.
 açorda |f.| Sôpa de pão, alhos, azeite, etc. Fig. Pessôa molle, negligente. * Gı́r. Bebedeira. (Do ár. ath-thorda)
 acordação |f.| Ant. (V. acôrdo)
 acordadamente |adv.| Com acôrdo.
-acordam |m.| Sentença, resolução de recursos em tribunaes collectivos, administrativos ou judiciaes. (Da 3.ª pess. do 30 pl. do pres. do ind. do v. acordar).
+acordam |m.| Sentença, resolução de recursos em tribunaes collectivos, administrativos ou judiciaes. (Da 3.ª pess. do pl. do pres. do ind. do v. acordar).
 açordamento |m.| Acto de acordar.
 acordança |f.| O mesmo que acôrdo. Melodia; consonância.
 acordante |adj.| Harmonioso, acorde. (De acordar)
@@ -2361,7 +2361,7 @@ akris + phagein)
 acridótero |m.| Ave que come gafanhotos; gaivão. (Do gr.
 akris + therao)
 acrı́fico |adj.| Des. Que se tornou acre. Azêdo. Que tem
-acrescente |m.| 32 mau humor. Cf. Anat. Joc., I, 358.
+acrescente |m.| mau humor. Cf. Anat. Joc., I, 358.
 acrimancia |f.| Supposta arte de adivinhar, por meio do fogo. Cf. Castilho, Fastos, III, 311.
 acriminar |v. t.| O mesmo que criminar.
 acrimónia |f.| O mesmo que acridez. Azedume. Aspereza. (Lat. acrimonia)
@@ -2385,7 +2385,7 @@ acrobacia |f.| Arte de acrobata.
 acróbata |m.| O que dança em corda. Saltimbanco. Palhaço. Equilibrista. (Do gr. akros + batein)
 acrobaticão |m.| Palanque, tablado, que os antigos construı́am, para melhor observar o que se passava nas praças. (Do gr. akrobatikon)
 acrobático |adj.| Relativo a acrobata.
-acrobatismo |m.| Profissão ou exercicios de acrobata. * m. Difficuldade do equilibrio. Fig. Instabilidade de opiniões. Cf. Castilho, Fastos, I, 137; e Camillo, Cavar em Ruin., 110.
+acrobatismo |m.| Profissão ou exercicios de acrobata. * m. Difficuldade do equilibrio. Fig. Instabilidade de opiniões. Cf. Castilho, Fastos, I, 137; e Camillo, Cavar em Ruin.,
 acrobustite |f.| Inflammação na pelle dos animaes. (Do gr. akrobustia)
 acrocarpo |m.| Espécie de musgo, que frutifica na extremidade dos ramos. (Do gr. akron + karpos)
 acrocefalia |f.| Estado ou qualidade de acrocéfalo.
@@ -2499,7 +2499,7 @@ actinocarpo |m.| Gênero de plantas alismácias. (Do gr.
 aktin + karpos)
 actinocéfalo |m.| Gênero de algas.
 actinocéphalo |m.| Gênero de algas.
-actinodafno |m.| Gênero de plantas laurı́neas. 34
+actinodafno |m.| Gênero de plantas laurı́neas.
 actinodaphno |m.| Gênero de plantas laurı́neas.
 actinodendro |m.| Gênero de celenterados.
 actinodermo |m.| Espécie de cogumelo. (Do gr. aktin + derma)
@@ -2756,7 +2756,7 @@ adeantamento |m.| Acto de adeantar, ou de se adeantar. Progresso. Abono de dinhe
 adeantar |v. t.| Fazer com antecedência. Pagar antecipadamente. Fazer progredir. Accelerar: adeantar o relógio. |V. p.| Avançar. Avantajar-se. Fam. Atrever-se.
 adeante |adv.| Na frente. Em primeiro lugar. No lugar immediato. No futuro. Successivamente. Na página ou páginas seguintes. (De a + deante)
 adecto |adj.| Diz-se do medicamento brando, que acalma o effeito de um medicamento enérgico. |M.| Gênero de fêtos, proposto por Link. (Gr. adektos)
-adedentro |adv.| Interiormente. Cf. Rui Barbosa, Répl., 157.
+adedentro |adv.| Interiormente. Cf. Rui Barbosa, Répl.,
 adefagia |f.| Med. Voracidade; apetite insaciável. (Do gr.
 aden + phagein)
 adefora |adv.| Ant. Exteriormente. Apparentemente. (De fóra)
@@ -2775,7 +2775,7 @@ adelaidinha |f.| Designação pop. da planta, também conhecida por bons-dias.
 adeleira |f.| Mulher, que compra e vende fato e outros objectos, usados. T. do Porto. Mulher, que inculca criadas de servir. (De adeleiro)
 adeleiro |m.| dur. O mesmo que adelo. T. do Porto. Inculcador de criadas. |Prov.| dur. O mesmo que adelo. T. do Porto. Inculcador de criadas.
 adelfa |f.| O mesmo que loendro. (Do ár. addifla)
-adelfeira |f.| Bot. O mesmo que adelfa. Cf. Coutinho, Flora, 462.
+adelfeira |f.| Bot. O mesmo que adelfa. Cf. Coutinho, Flora,
 adelfia |f.| Bot. União dos estames por meio dos seus filetes. (De adelpho)
 adelfo |adj.| Bot. Que tem ligados entre si os filetes dos estames. * |M.| Gênero de insectos coleópteros heterómenos. (Gr. adelphos)
 adelgaçadamente |adv.| De modo adelgaçado.
@@ -2800,7 +2800,7 @@ adelobrânquio |adj.| Que tem as brânchias visı́veis. |M.| pl. Grupo de mollu
 adelópode |adj.| Zool. Que não tem pés apparentes. (Do gr.
 adelos + pous, podos)
 adelopódio |adj.| Zool. Que não tem pés apparentes. (Do gr. adelos + pous, podos)
-adelosa |f.| Gênero de plantas verbenáceas. (Do gr. adelos) 38
+adelosa |f.| Gênero de plantas verbenáceas. (Do gr. adelos)
 adelphia |f.| Bot. União dos estames por meio dos seus filetes. (De adelpho)
 adelpho |adj.| Bot. Que tem ligados entre si os filetes dos estames. * |M.| Gênero de insectos coleópteros heterómenos. (Gr. adelphos)
 adem |f.| Ave palmipede, lamellirostra. (Do lat. anas, anatis)
@@ -2963,7 +2963,7 @@ adinâmico |adj.| Relativo á adinamia.
 adinamizar |v. t.| Tornar adı́namo.
 adı́namo |adj.| Débil, enfraquecido. (De adynamia)
 adinheirado |adj.| O mesmo que endinheirado.
-adinho |m.| Filho pequeno do adem. Cf. Peregrinação, c. XCVII. 40
+adinho |m.| Filho pequeno do adem. Cf. Peregrinação, c. XCVII.
 adino |m.| Gênero de plantas rubiáceas das regiões quentes da América e da Ásia.
 ádipe |m.| Gordura. (Lat. adeps, adipis)
 ádipo |m.| O mesmo que ádipe. Cf. Camillo, Narcót., II, 210.
@@ -3120,7 +3120,7 @@ adonai |m.| Um dos nomes que os Hebreus davam á Divindade. Um dos nomes que os 
 adonairar |v. t.| Dar donaire a. Cf. Arn. Gama, Ultima Dona, 39.; Idem, Segr. do Abbade, 6, 76, 96, 118.
 adonde |adv.| Ant. (V. aonde) * Pop. O mesmo que onde.
 adónico |adj.| O mesmo que adónio.
-adónida |f.| Planta ranunculácea. 42
+adónida |f.| Planta ranunculácea.
 adónide Formoso prı́ncipe mythológico. (Lat. Adónis)
 adonidina |f.| Princı́pio activo vegetal, empregado como tónico cardı́aco.
 adónio |adj.| Diz-se do verso, em que entra um dáctylo e um espondeu. (Lat. adonius)
@@ -3180,7 +3180,7 @@ adquirimento |m.| O mesmo que acquisição.
 adquirir |v. t.| Obter; alcançar; conseguir. Receber. Ganhar. (Do lat. ad + quaerere)
 adquirı́vel |adj.| Que se póde adquirir.
 adquisição |f.| (V. acquisição)
-adquisitivo |adj.| Relativo a acquisicão. Cf. Assis, Águas, 324.
+adquisitivo |adj.| Relativo a acquisicão. Cf. Assis, Águas,
 adrachne |f.| Arbusto, semelhante ao medronheiro, e de que se faz papel na China. (Gr. adrakhne)
 adracne |f.| Arbusto, semelhante ao medronheiro, e de que se faz papel na China. (Gr. adrakhne)
 adraganta |f.| O mesmo que tragacantha.
@@ -3287,13 +3287,13 @@ adultério |m.| Infidelidade conjugal. Falsificação; adulteração. (Lat. adul
 adulterioso |adj.| Adulteroso. Que tem o carácter de adultério.
 adulterismo |m.| Palavra ou nome adulterado.
 adúltero |m.| O que violou a fé conjugal. (Lat. adulter)
-adulteroso |adj.| Em que há adultério. Propenso ao adultério. (De adúltero) 44
+adulteroso |adj.| Em que há adultério. Propenso ao adultério. (De adúltero)
 adulto |m.| Homem, que passou a época da puberdade e está na idade da adolescência ou da virilidade. |Adj.| Que chegou á idade madura e vigorosa. (Lat. adultus)
 adumar |v. i.| minh. Dormir em pé. |Prov.| minh. Dormir em pé.
 adumbrar |v. t.| Sombrear, assombrear. (Lat. adumbrare)
 adunação |f.| Acto de adunar.
 adunar |v. t.| Reunir em um. Congregar. Coadunar. (Lat. adunare)
-aduncado |adj.| O mesmo que adunco. Cf. Camillo, Caveira, 415.
+aduncado |adj.| O mesmo que adunco. Cf. Camillo, Caveira,
 aduncidade |f.| Qualidade de adunco.
 aduncirostro #,(rós)#  |adj.| Que tem bico adunco. (Do lat.
 aduncus + rostrum)
@@ -3346,7 +3346,7 @@ advindo |adj.| Que adveio, que sobreveio.
 advir |v. i.| Chegar. Succeder. Accrescer. (Lat. advenire)
 advocação |f.| Des. Invocação. (Lat. advocatio)
 advocacia |f.| Profissão de advogado. (Do lat. advocatus)
-advocar |v. t.| Des. O mesmo que chamar. Cf. Vieira, II, 212.
+advocar |v. t.| Des. O mesmo que chamar. Cf. Vieira, II,
 advocatura |f.| (V. advocacia)
 advogacia |f.| (V. advocacia)
 advogado |m.| O que advoga em juizo. Patrono. Protector. (Lat. advocatus)
@@ -3442,7 +3442,7 @@ aeronaugrafia #,(a-e)#  |f.| Tratado de aeronáutica.
 aeronaugráfico #,(a-e)#  |adj.| Relativo á aeronaugraphia.
 aeronaugraphia #,(a-e)#  |f.| Tratado de aeronáutica.
 aeronaugráphico #,(a-e)#  |adj.| Relativo á aeronaugraphia.
-aeronauta #,(a-e)#  |m.| O que navega no ar. O que sobe e 46
+aeronauta #,(a-e)#  |m.| O que navega no ar. O que sobe e
 anda no ar, em aeróstato. (Do gr. aer + nautes)
 aeronáutica #,(a-e)#  |f.| Arte de aeronauta.
 aeronáutico #,(a-e)#  |adj.| Relativo á aeronáutica.
@@ -3566,7 +3566,7 @@ afear |v. t.| Tornar feio. (Do ant. fêo==feio)afecção
 afecção |f.| Phenómeno mórbido do organismo animal. (Lat. affectio)
 afectação |f.| Acto ou effeito de afectar. Fingimento. Presumpção, vaidade. (Lat. affectatio)
 afectadamente |adv.| De modo afectado.
-afectado |adj.| Que tem afectação. Presumido. Pretensioso. * Bras. Tı́sico, tuberculoso. 48
+afectado |adj.| Que tem afectação. Presumido. Pretensioso. * Bras. Tı́sico, tuberculoso.
 aferido |m.| Cale do moinho, caneiro de água para mover a azenha.
 aferidor |m.| O que afere.
 aferimento |m.| O mesmo que aferição.
@@ -3603,7 +3603,7 @@ afemear |v. t.| Des. O mesmo que effeminar.
 afemençar |v. t.| Ant. Avistar, vêr.
 afemia |f.| O mesmo que afasia.
 afeminar |v. t.| (e der.) (V. effeminar, etc.)
-aferência |f.| Qualidade de aferente. Cf. Castilho, Fastos, I, 139.
+aferência |f.| Qualidade de aferente. Cf. Castilho, Fastos, I,
 aferente |adj.| Que conduz, que leva. (Lat. afferens)
 aférese |f.| Suppressão de sýllaba ou letra no princı́pio de palavra: batina, por abbatina. (Do gr. aphairesis) |Gram.| Suppressão de sýllaba ou letra no princı́pio de palavra: batina, por abbatina. (Do gr. aphairesis)
 afergulhar-se |v. t.| trasm. O mesmo que afarvar-se. |Prov.| trasm. O mesmo que afarvar-se.
@@ -3624,7 +3624,7 @@ aferrolhar |v. t.| Fechar com ferrolho. Meter na prisão. Guardar com cuidado: a
 aferventação |f.| Acto de aferventar.
 aferventamento |m.| O mesmo que aferventação. Calor.
 aferventar |v. t.| Fazer ferver pouco. Cozer com uma só fervura. (De fervente)
-afervescido |adj.| Que se aferventou. Cf. Filinto, XVIII, 114.
+afervescido |adj.| Que se aferventou. Cf. Filinto, XVIII,
 afervoradamente |adv.| Com fervor. Fervorosamente.
 afervorar |v. t.| Pôr em fervura. Communicar fervor, ardor,
 a. Estimular: afervorar o zêlo de alguém.
@@ -3724,7 +3724,7 @@ afidalgamento |m.| Acto de afidalgar ou de se afidalgar.
 afidalgar |v. t.| Tornar fidalgo. Dar semelhança de fidalgo a.
 afidı́fagos |m.| pl. Insectos coleópteros da secção dos trı́me-afı́dios ros. (Do gr. aphis + phagein)
 afı́dios |m.| pl. Nome scientifico dos pulgões, que vivem nos vegetaes e os damnificam. (Do gr. aphis + eidos)
-afifano |m.| Homem natural de Afife, no termo do Porto. Fig. Trolha, caiador. 50
+afifano |m.| Homem natural de Afife, no termo do Porto. Fig. Trolha, caiador.
 afincamento |m.| (V. afinco)
 afincância |f.| alent. Persistência no trabalho, no esfôrço. (De afincar) |Prov.| alent. Persistência no trabalho, no esfôrço. (De afincar)
 afincar |v. t.| Plantar de estaca. * Pop. Afinfar. V. i.
@@ -3892,7 +3892,7 @@ afortunadamente |adv.| De modo afortunado.
 afortunado |adj.| Favorecido pela fortuna. Feliz. (De afortunar)
 afortunar |v. t.| Dar fortuna a; tornar feliz. (Lat. fortunare)
 afortunoso |adj.| O mesmo que afortunado.
-afosseirado |adj.| Ant. Onerado com o imposto ou encargo de fossadeira. Cf. Herculano, Hist. de Port., III, 323 e 327.
+afosseirado |adj.| Ant. Onerado com o imposto ou encargo de fossadeira. Cf. Herculano, Hist. de Port., III, 323 e
 afouto |adj.| Ousado. Corajoso. Audaz.
 afracado |adj.| Que está fraco.
 afracamento |m.| Acto de afracar.
@@ -3917,7 +3917,7 @@ afreimar |v. t.| O mesmo que afleumar. Tornar apressado, impaciente. Cf. Castilh
 afrentar |v. i.| Ant. Confinar, convizinhar, sêr contı́guo. (De frente)
 afrescar |v. t.| (e der.) (V. refrescar, etc.)
 afretar |v. t.| (e der.) (V. fretar, etc.)
-áfrica |f.| Pop. Proêza, façanha. (Lat. África, n. p.) 52
+áfrica |f.| Pop. Proêza, façanha. (Lat. África, n. p.)
 africanada |f.| Açor. Fanfarronada. (De africano)
 africanamente |adv.| Á maneira de africano. Como na África.
 africanas |f.| pl. Argolas de oiro para as orelhas, á semelhança das que usam indı́genas da África.
@@ -3969,7 +3969,7 @@ afugentar |v. t.| Pôr em fuga. Repellir: afugentar os inimigos. (De fugente)
 afumados |m.| pl. T. de Moncorvo. Arredores, cercanias.
 afumadura |f.| Acto ou effeito de afumar.
 afumar |v. t.| Tornar escuro; esfumar. Ant. Tornar cultivado e habitado (um terreno). Cf. Garrett, Camões. (De fumo)
-afumear |v. t.| O mesmo que afumar. Cf. Filinto, XVIII, 232.
+afumear |v. t.| O mesmo que afumar. Cf. Filinto, XVIII,
 afumegar |v. i.| O mesmo que fumegar. Cf. Herculano, Hist. de Port., III, 369.
 afundamento |m.| Repressão. Acto ou effeito de afundar.
 afundar |v. t.| Meter no fundo. Escavar. Examinar: afundar um problema. * |V. i.| Ir ao fundo. Cf. Filinto, IV, 101.
@@ -4043,7 +4043,7 @@ aganistos |m.| pl. Gênero de insectos lepidópteros.
 ágapa |f.| O mesmo que ágape. Cf. Herculano, Lendas, II, 197.agapânthia
 agapânthia |f.| Insecto coleóptero tetrâmero. (Do gr. agapao + anthos)
 agapantho |m.| Planta liliácea, de origem africana, raiz bulbosa, e flôres azues. (Do gr. agape + anthos)
-agapântia |f.| Insecto coleóptero tetrâmero. (Do gr. agapao 54
+agapântia |f.| Insecto coleóptero tetrâmero. (Do gr. agapao
 agarrante |m.| Aquelle que agarra. Cf. Herculano, M. de Cister, II, 90. |adj.| Aquelle que agarra. Cf. Herculano, M. de Cister, II, 90.
 agarrar |v. t.| Segurar com garra. Prender. Apanhar. (De garra)
 agapetas #,(pê)#  |f.| pl. Virgens ou viúvas, que, nos primei-agarrochar |v. t.| Picar com garrocha. Estimular, incitar.
@@ -4181,7 +4181,7 @@ aggédula |f.| Cúpula de alguns cogumelos. Urnário de certos musgos.
 agglomeração |f.| Ajuntamento. Acto de agglomerar.
 agglomerado * |M.| Conjunto de cimento e pedras, que imita mármore. * Argamassa hydráulica de cimento e pedra britada. * Pl. Zool. Fragmentos, que constituem uma rocha elástica, sem que se lhes interponha substância alguma, estranha. (Cp. conglomerados)
 agglomerar |v. t.| Ajuntar; acumular. (Lat. agglomerare)
-agglutinabilidade |f.| Qualidade de agglutinável: “a agglutinabilidade das bactérias”. Rev. da Univ. de Coı́mbra, II, 67.
+agglutinabilidade |f.| Qualidade de agglutinável: “a agglutinabilidade das bactérias”. Rev. da Univ. de Coı́mbra, II,
 agglutinação |f.| Acto de agglutinar. (Lat. agglutinatio)
 agglutinante |adj.| Que agglutina. (Lat. agglutinans)
 agglutinar |v. t.| Collar. Unir. Reunir (palavras) a outra, principal, para formar um todo. (Lat. agglutinare)
@@ -4230,7 +4230,7 @@ agı́nico |adj.| Bot. Diz-se da inserção dos estames, quando estes não adher
 agiografia |f.| História de santos. (De agiógrapho)
 agiógrafo |m.| Aquelle que descreve vidas de santos. (Do gr.
 agios + graphein)
-agiographia |f.| História de santos. (De agiógrapho) 56
+agiographia |f.| História de santos. (De agiógrapho)
 agiógrapho |m.| Aquelle que descreve vidas de santos. (Do gr. agios + graphein)
 agiólogico |adj.| Relativo ao agiológio.
 agiológio |m.| Tratado de santos. (Do gr. agios + logion)
@@ -4269,7 +4269,7 @@ aglossa |f.| Gênero de insectos lepidópteros, que se alimentam de manteiga e t
 aglossia |f.| Estado ou qualidade de aglosso.
 aglosso |adj.| Que não tem lı́ngua. Que fala barbaramente. * |M.| O mesmo que aglossa. (Gr. aglossos)
 aglutição |f.| Impossibilidade de engulir. (De a priv. + lat. glutitio)
-aglutinabilidade |f.| Qualidade de aglutinável: “a aglutinabilidade das bactérias”. Rev. da Univ. de Coı́mbra, II, 67.
+aglutinabilidade |f.| Qualidade de aglutinável: “a aglutinabilidade das bactérias”. Rev. da Univ. de Coı́mbra, II,
 aglutinação |f.| Acto de aglutinar. (Lat. agglutinatio)
 aglutinante |adj.| Que aglutina. (Lat. agglutinans)
 aglutinar |v. t.| Collar. Unir. Reunir (palavras) a outra, principal, para formar um todo. (Lat. agglutinare)
@@ -4309,7 +4309,7 @@ agoireiro |adj.| Que agoira.
 agoirentar |v. t.| Tornar agoirento. Fazer mau agoiro sôbre.
 Ameaçar com desgraça.
 agoirento |adj.| Que envolve mau agoiro.
-agoirice |f.| Mania ou hábito de agoirar. Cf. Filinto, VI, 238.
+agoirice |f.| Mania ou hábito de agoirar. Cf. Filinto, VI,
 agoiro |m.| Predicção. Preságio; sinal que presagia. (Lat. augurium)
 agolfinhado |adj.| Que tem feitio ou ares de golfinho. Cf. Camillo, N. de Insómn., X, 43.
 agolpear |v. t.| (e der.) (V. golpear, etc.)
@@ -4376,9 +4376,9 @@ agourar #,1 # |v. t.| Fazer agouro de. Antever; predizer. |v. i.| Archit. Colloc
 agoureiro |adj.| Que agoura.
 agourentar |v. t.| Tornar agourento. Fazer mau agouro sôbre. Ameaçar com desgraça.
 agourento |adj.| Que envolve mau agouro.
-agourice |f.| Mania ou hábito de agourar. Cf. Filinto, VI, 238.
+agourice |f.| Mania ou hábito de agourar. Cf. Filinto, VI,
 agouro |m.| Predicção. Preságio; sinal que presagia. (Lat. augurium)
-agra #,1 # |Prov.| e ant. Campo. Brejo, pântano. (V. agro) |m.| Gênero de insectos coleópteros pentâmeros, da fam. dos carábicos. 58
+agra #,1 # |Prov.| e ant. Campo. Brejo, pântano. (V. agro) |m.| Gênero de insectos coleópteros pentâmeros, da fam. dos carábicos.
 agracarambo |m.| Madeira odorı́fera da China.
 agraciação |f.| Acto de agraciar.
 agraciadamente |adv.| De bom grado. Cf. Pacheco, Promptuário, 79.
@@ -4469,7 +4469,7 @@ agricultor |m.| O que agriculta. |Adj.| Que agriculta. (Lat. agricultor)
 agricultura |f.| Arte de cultivar os campos. Cultivo da terra. (Lat. agricultura)
 agridoce |adj.| Agro e doce.
 agridoçura |f.| Qualidade de agridoce. Cf. Lapa, Processos de Vin., 9.
-agridulce |adj.| O mesmo que agridoce. Cf. Castilho, Fausto, 11.
+agridulce |adj.| O mesmo que agridoce. Cf. Castilho, Fausto,
 agrigentino |m.| O que é natural de Agrigento. Cf. Latino, Or. da Corôa, CXCII. |adj.| O que é natural de Agrigento. Cf. Latino, Or. da Corôa, CXCII.
 agrilhoamento |m.| Acto de agrilhoar.
 agrilhoar |v. t.| Prender com grilhões. Prender. Comprimir.
@@ -4535,7 +4535,7 @@ agrónomo |m.| Aquelle que tem diploma official de agronomia. Aquelle que é ver
 agropila |m.| Bezoar das cabras e de outros animaes.
 agropiro |m.| Gênero de planta gramı́neas.
 agropyla |m.| Bezoar das cabras e de outros animaes.
-agropyro |m.| Gênero de planta gramı́neas. 60
+agropyro |m.| Gênero de planta gramı́neas.
 agror |m.| Azedume. Amargura. Cf. Crespo, Miniaturas, 21. (Lat. acror)
 agrósteas |f.| pl. O mesmo que agrostı́deas.
 agrostema |f.| Gênero de plantas, que crescem entre o trigo.
@@ -4636,7 +4636,7 @@ aguarelista #,(á-gu)#  |m.| Aquelle que pinta aguarelas.
 aguarella #,(á-gu)#  |f.| Tinta diluı́da em água. Lavadura de gesso moı́do e colla de baldreu. Pintura com tintas diluı́das em água, sem sobreposição de umas a outras. (It.
 acquarella)aguarentador
 aguarentador |m.| Aquelle que aguarenta. Detractor.
-aguarentar |v. t.| Cercear, aparar em roda. Murmurar de; desacreditar. Dissaborear. Cf. J. Dinis, Morgadinha, 114. 62
+aguarentar |v. t.| Cercear, aparar em roda. Murmurar de; desacreditar. Dissaborear. Cf. J. Dinis, Morgadinha, 114.
 aguerridamente |adv.| De modo aguerrido.
 aguerrido |adj.| Inclinado á guerra. Que tem modos bellicosos. Valente. (De aguerrir)
 aguariço |m.| Planta, de fôlhas semelhantes ás do zimbro.
@@ -4795,7 +4795,7 @@ ais |m.| pl. (?) “...Cupido, cercado de huma rosa de jacintos, com os ays da m
 ãis #,1 # |suf.| pl. O mesmo que ães. |suf.| pl. de vários subst. e |adj.| terminados em ão.
 aissana |m.| Homem incrédulo? “Assim como os fanáticos e os aissanas se excitam mutuamente...” Camillo, Freira no Subt., 109.
 aitão |m.| Antigo magistrado chinês, que parece superintendia em negócios commerciaes.
-aito |m.| Ant. O mesmo que auto. 64
+aito |m.| Ant. O mesmo que auto.
 aitona! |interj.| (Design. de alegria): “aitona! vai haver aqui partida rija”. Camillo, Corja, 166.
 aitónia |f.| Gênero de plantas sapindáceas.
 aiua! |interj.| Bras. (Designa gracejo ou mofa)
@@ -4946,12 +4946,12 @@ alacremente |adv.| De modo álacre.
 alacridade |f.| Vigor. Alegria. Enthusiasmo. (Lat. alacritas)
 alado |adj.| Que tem asas. (De ala)
 aladroado |adj.| Que tem tendência para ladrão. Que furta
-alguma coisa. * Cerceado ou deminuido com fraude: “o Carneiro tem os pesos muito aladroados”. Macedo, Burros, 225.
+alguma coisa. * Cerceado ou deminuido com fraude: “o Carneiro tem os pesos muito aladroados”. Macedo, Burros,
 aladroar |v. t.| Cercear ou deminuir com fraude.
 alaela |f.| Arraial moirisco. (Do ár. al-hila)
 alafé |adj.| Ant. Á fé; em verdade; certamente. (De a + la + fé)
 alagadeira |f.| Des. Mulher gastadora. (De alagar)
-alagadela |f.| Acto de alagar ou encher de água. Cf. Museu 66 Techn., 90.
+alagadela |f.| Acto de alagar ou encher de água. Cf. Museu Techn., 90.
 alagadiceiro |adj.| Bras. Que pasta em terreno alagadiço.
 alagadiço |adj.| Sujeito a sêr alagado. Pantanoso; encharcado.
 alagador |m.| O que alaga.
@@ -5069,7 +5069,7 @@ alapoado |adj.| Que tem modos de lapão; grosseiro.
 alaptos |m.| pl. Gênero de insectos hymenópteros, cuja única espécie se encontra na Inglaterra.
 alaque |m.| O mesmo que plintho.
 alaqueca |f.| O mesmo que laqueca. Cf. Castanheda, liv. I, c. 13.
-alar #,1 # |v. t.| Formar em alas. Dar asas a. Fazer voar. Içar; levantar. * |Prov.| dur. Arrastar ou guiar (barcos) á sirga. |v. i.| Gı́r. Viver.alar,3 68 |v. i.| Gı́r. Ir. (Fr. aller) |adj.| Que tem fórma de asa. (Do lat. ala)
+alar #,1 # |v. t.| Formar em alas. Dar asas a. Fazer voar. Içar; levantar. * |Prov.| dur. Arrastar ou guiar (barcos) á sirga. |v. i.| Gı́r. Viver.alar,3 |v. i.| Gı́r. Ir. (Fr. aller) |adj.| Que tem fórma de asa. (Do lat. ala)
 alara |f.| Ant. Leque, com que os acólytos, nas festas dealastramento |m.| Acto de alastrar.
 alastrar |v. t.| Cobrir com lastro, lastrar. Cobrir, espaigreja, enxotavam as môscas da cabeça e da cara dos celebrantes. (B. lat. alare)
 alárabe |m.| Ant. Árabe beduı́no. (Cp. alarve)
@@ -5110,7 +5110,7 @@ alarve |m.| Aquelle que é brutal, selvagem, rude. Comilão.
 Ant. Árabe beduı́no. (Ár. al-arabi)
 alarvia |f.| Multidão de alarves.
 alarvice |f.| P. us. Qualidade ou acção de alarve.
-alarvidade |f.| Qualidade de alarve. Cf. Arn. Gama, Motim, 21.
+alarvidade |f.| Qualidade de alarve. Cf. Arn. Gama, Motim,
 alassar |v. i.| Marn. Destacar-se facilmente (o sal) do casco da marinha. Cf. Museu Techn., 21.
 alastrado |adj.| Disposto como lastro. (De alastrar)alastrim |m.| Bras. O mesmo que varı́ola-mansa. (Cp. alaslhando. Espalhar; derramar. Alargar gradualmente. trar)
 alaterna |f.| Designação scientı́fica do aderno. (Lat. alaternus)
@@ -5244,7 +5244,7 @@ albugı́neo |adj.| O mesmo que albuginoso.
 albuginite |f.| Phlegması̈a aguda ou chrónica do tecido albugı́neo ou fibroso. (De albugineo)
 albuginoso |adj.| Esbranquiçado. * adj. Que, pela côr, mostra ter icterı́cia. (Lat. albuginosus)
 albugo |m.| O mesmo que albugem.
-álbum |m.| Livro, cujas fôlhas são molduras de cartão para guardar retratos. Livro, cujas fôlhas são destinadas a desenhos, versos, lembranças de famı́lia e de amigos. Ant. Tábua branca, em que se publicavam os edictos do pretor 70 romano. (Lat. album)
+álbum |m.| Livro, cujas fôlhas são molduras de cartão para guardar retratos. Livro, cujas fôlhas são destinadas a desenhos, versos, lembranças de famı́lia e de amigos. Ant. Tábua branca, em que se publicavam os edictos do pretor romano. (Lat. album)
 albume |m.| Substância, que envolve e alimenta o embryão, em algumas sementes. Clara do ovo. (Lat. albumen)
 albumen |m.| Substância, que envolve e alimenta o embryão, em algumas sementes. Clara do ovo. (Lat. albumen)
 albumina |f.| Um dos princı́pios immediatos dos corpos organizados, e que tem a propriedade de se coagular com o calor.–É matéria viscosa e esbranquiçada, composta de carbono, hydrogênio, azote, oxygênio, phósphoro e enxôfre. (Do lat. albumen)
@@ -5361,7 +5361,7 @@ alcândor |m.| O mesmo que alcândora; lugar alcantilado. Cf. C. Neto, Saldunes.
 alcândora |f.| Poleiro do falcão. (Ár. alcandara)
 alcandoradamente |adv.| Em lugar elevado. (De alcandorado)
 alcandorado |adj.| Collocado em lugar alto.
-alcandorar-se |v. p.| Poisar em alcândora. Colocar-se alto. Guindar-se. 72
+alcandorar-se |v. p.| Poisar em alcândora. Colocar-se alto. Guindar-se.
 alcanela |f.| Rede, para a pesca da sardinha.
 alcânfor |m.| Des. (V. cânfora) |f.| Des. (V. cânfora)
 alcânfora |m.| Des. (V. cânfora) |f.| Des. (V. cânfora)
@@ -5491,7 +5491,7 @@ alcoolismo |m.| Estado mórbido, resultante do abuso de bebidas alcoólicas.
 alcoolista |m.| Aquelle que soffre alcoolismo.
 alcoolito |m.| Solução alcoólica, que não deixa resı́duo.
 alcoolizar |v. t.| Misturar com álcool (um lı́quido qualquer) Embriagar.
-alcoolizável |adj.| Que se póde alcoolizar. Cf. Techn. Rur., 181.
+alcoolizável |adj.| Que se póde alcoolizar. Cf. Techn. Rur.,
 alcoolomania |f.| Perı́odo latente da entoxicação alcoólica chrónica, durante o qual a acção do álcool apenas se manifesta pelo hábito e necessidade de o usar.
 alcoolómetro |m.| O mesmo que alcoómetro.
 alcoomel |m.| Excipiente pharmacêutico, formado de uma parte de álcool e três de mel.
@@ -5502,7 +5502,7 @@ alcor |m.| Pequena estrêlla na cauda da Ursa-Maior.
 alcoranista |m.| Aquelle que é entendido nas doutrinas do
 Alcorão. Sectário do Alcorão.
 alcorão #,1 # |m.| Livro sagrado dos Mahometanos. Religião mahometana. * Ant. Tôrre, de onde se chamam os muçulmanos á oração. Cf. Tombo do Estado da Índia, 225, nos Subsidios de Felner. (Do ár. al-coran) |m.| Dá-se este nome, em algumas povoações do Alentejo, (Estremoz, Évora, etc.), ao sótão que serve para arrecadação de trastes velhos. (Por alcovão, de |Prov.| Dá-se este nome, em algumas povoações do Alentejo, (Estremoz, Évora, etc.), ao sótão que serve para arrecadação de trastes velhos. (Por alcovão, de
-alcova, infl. por alcorão 1 ?) 74
+alcova, infl. por alcorão 1 ?)
 alcorça #,(côr)#  |f.| Massa de açúcar, para fazer ou cobrir doce.
 alcorce #,(côr)#  |m.| O mesmo que alcorça.
 alcórcova |f.| Ant. Fôsso dos vallados, com que se tapam as propriedades rústicas. (Do ár. ?)
@@ -5650,7 +5650,7 @@ aleiloar |v. t.| Pôr em leilão.
 aleiona |f.| Ant. Adúltera. |adj.| Ant. Adúltera.
 aleirado |adj.| Dividido em leiras. (De aleirar)
 aleirar |v. t.| Dividir em leiras.
-aleitação |f.| Acto de ou effeito de aleitar 1 . 76
+aleitação |f.| Acto de ou effeito de aleitar 1 .
 aleitado |adj.| Constr. Diz-se da pedra, a que se preparou a face para leito. (De aleitar 2)
 aleitamento |m.| O mesmo que aleitação.
 aleitar #,1 # |v. t.| Criar com leite; amamentar. Tornar claro, como o leite. (Lat. lactare) |v. t.| Constr. Ajustar e preparar a superfı́cie de (uma pedra), para receber outra em cima.
@@ -5667,7 +5667,7 @@ aleluiático |adj.| Relativo á aleluia.
 aleluı́tico #,(á-lé-lu-ı́)#  |adj.| Que louva, saúda ou celebra. (De alleluia)
 além #,(á-lém)#  |adv.| Mais adeante. Acolá. Da parte de lá:
 além da ponte. Longe; mais longe. Para mais. Ainda em cima. Afóra. (Contr. de alli + ant. ende)
-além-eras |loc. adv.| Na eternidade. Cf. Castilho, Fastos, I, 308.
+além-eras |loc. adv.| Na eternidade. Cf. Castilho, Fastos, I,
 além-mar |adv.| No ultramar; além do mar.
 além-mundo |m.| A outra vida, a eternidade. Cf. Castilho, Fastos, I, p. XXIX.
 alemagem |f.| (?) “...dous fermosos bateis dalemagens...” (Ms. do séc. XVII, em poder de Sousa Viterbo).
@@ -5784,7 +5784,7 @@ alfaiar |v. t.| Guarnecer com alfaias. Mobilar. Adornar.
 alfaiata |f.| De alfaiate.
 alfaiatar |v. t.| Coser ou talhar (peças de vestuário). |V. i.| Exercer o offı́cio de alfaiate.
 alfaiataria |f.| Officina de alfaiate.
-alfaiate |m.| Aquelle que faz vestuário para homens. * Áve ribeirinha, (recurvirostra avocetta, Lin.). * Pop. Insecto, o mesmo que joaninha. * T. da Bairrada. Insecto aquático, de compridas pernas, chamado também cabra. (Do ár. alcaiate) 78
+alfaiate |m.| Aquelle que faz vestuário para homens. * Áve ribeirinha, (recurvirostra avocetta, Lin.). * Pop. Insecto, o mesmo que joaninha. * T. da Bairrada. Insecto aquático, de compridas pernas, chamado também cabra. (Do ár. alcaiate)
 alfaifa |f.| Ant. O mesmo que alfafa.
 alfaique |m.| O mesmo que alfaque. Cf. Peregrinação, XLVIII.
 alfaizar |m.| (V. alfeizar)
@@ -5925,7 +5925,7 @@ alforreca |f.| Mollusco, do feitio de umbrella e de tecı́dos semi-transparente
 alforria |f.| Liberdade, dada ao escravo pelo senhor. Libertação. (Do ár. ?)
 alforriar |v. t.| Dar alforria a. Libertar.
 alforva #,(fôr)#  |f.| O mesmo que alfarva.
-alforza |f.| Ant. O mesmo que alfurja. 80
+alforza |f.| Ant. O mesmo que alfurja.
 alfós |m.| Ant. Distrito autónomo. Arrabalde, aros de uma povoação. Terreno plano. (Do ár. alhauz)
 alfóstico |m.| O mesmo que alfóstigo.
 alfóstigo |m.| Árvore resinosa, da fam. das terebintháceas, (pistacia vera). (Do ár. al-fostaq)
@@ -6080,7 +6080,7 @@ alguidar |m.| Vaso de barro ou metal, em fórma de cone invertido, e cuja boca t
 alguidarada |f.| O que um alguidar póde conter.
 alguirradeira |f.| Apparelho das officinas de cardação, nas fábricas de tecidos. Cf. Inquér. Industr., 2.ª p., 152.
 algum |adj.| Um, entre dois ou mais. Qualquer. Medı́ocre. (Do lat. aliquis + unus)
-algum-tanto |loc. adv.| Medianamente. 82
+algum-tanto |loc. adv.| Medianamente.
 algumia |adj.| Ant. Pequeno vaso de barro, espécie de púcara ou caneca. Cf. Marreca, Conde Sober. de Cast.
 alguno |adj.| Ant. O mesmo que algum.
 algur |m.| Ant. O mesmo que algures. |adv.| Ant. O mesmo que algures.
@@ -6235,7 +6235,7 @@ alı́nea |f.| Nova linha escrita, cuja primeira palavra abre parágrapho. Uma d
 a), b), c), etc. (Fr. alinéa)
 alinegro #,(nê)#  |adj.| Que tem asas negras. (De ala + negro)
 alinfia |f.| Med. Falta de linfa. (Do gr. a priv. + lumphe)
-alinguetado #,(gu-e)#  |adj.| Que tem fórma de lı́ngua ou lingueta. 84
+alinguetado #,(gu-e)#  |adj.| Que tem fórma de lı́ngua ou lingueta.
 alinhado |adj.| Pôsto em linha. Enfileirado.
 alinhador |m.| Aquelle que alinha.
 alinhamento |m.| Acto de alinhar. * Direcção do eixo de uma estrada, de um caminho de ferro, de um canal, etc.
@@ -6285,7 +6285,7 @@ alitarco |m.| Chefe dos officiaes, encarregados da manutenção da ordem nos jog
 alite #,1 # |m.| Gênero de batrácios. |m.| Primeira estrêlla da cauda da Ursa-Maior.
 aliteração |f.| Philol. Emprêgo de vocábulo que começa pela mesma letra que outro já empregado. (De aliterar)
 aliterar |v. t.| Dispor em aliteração. |V. i.| Formar aliteração. (Do lat. ad + literam)
-aliteratado |adj.| Um tanto literato. Cf. Camillo, Serões, I, 8.
+aliteratado |adj.| Um tanto literato. Cf. Camillo, Serões, I,
 alitronco #,(áli)#  |m.| Parte posterior do tronco dos insectos, onde estão as asas. (De ala + tronco)
 alitúrgico |adj.| Diz-se do dia, que não tem offı́cio próprio na Igreja. (De a priv. + litúrgico)
 alivar |v. t.| Ant. O mesmo que alliviar.
@@ -6310,9 +6310,9 @@ aljafra |f.| Bôlso ou seio das redes de arrastar. (Do ár. aljafna?)
 aljama |f.| Ant. Confraria. Synagoga. Ajuntamento de moradores moiros ou judeus, que, á custa de impostos, formavam bairros ou povoações em terra portuguesa. (Ár. al-jama)
 aljamia |f.| O mesmo que algemia. Cf. D. Lopes, Textos em Aljamia.
 aljamiado |adj.| Ant. Instruido, erudito. (De aljamia)
-aljarabia |f.| Ant. Espécie de túnica moirisca, ou roupão de meias mangas, com capuz. Cf. Herculano, Lendas, I, 18 e 35.
+aljarabia |f.| Ant. Espécie de túnica moirisca, ou roupão de meias mangas, com capuz. Cf. Herculano, Lendas, I, 18 e
 aljarás |m.| trasm. Guizo de cão. |Prov.| trasm. Guizo de cão.
-aljaravia |f.| Ant. Espécie de túnica moirisca, ou roupão de meias mangas, com capuz. Cf. Herculano, Lendas, I, 18 e 35.
+aljaravia |f.| Ant. Espécie de túnica moirisca, ou roupão de meias mangas, com capuz. Cf. Herculano, Lendas, I, 18 e
 aljarós |m.| (V. algerós)
 aljava |f.| Carcaz ou estojo, em que se metiam as setas, e que se levava ao ombro. * |Prov.| alent. Recipiente, em que se leva a negaça para a caça de armadilha. (Do ár. al-jaba)
 aljaveira |f.| Ant. O mesmo que aljava? Cf. Carta de Pero Vaz de Caminha a D. Man.
@@ -6385,7 +6385,7 @@ alliciente |adj.| Que allicia. * |M.| Coisa que allicia. Seducção. (Lat. allic
 alligatór |m.| Gênero de reptis sáurios, em cujas espécies entra o caimão, (lacerta alligator, Lin.). (Fórma ingl., corr. do cast. el lagarto)
 allilena |f.| Gás incolor, inflammável, de cheiro desagradável. (De allilo)
 allileno |m.| O mesmo que allilena.
-allilo |m.| Lı́quido volátil, de cheiro análogo ao do rábão. Um aos radicaes chı́micos, descoberto primeiramente na essência da mostarda e do alho. (Do lat. allium) 86
+allilo |m.| Lı́quido volátil, de cheiro análogo ao do rábão. Um aos radicaes chı́micos, descoberto primeiramente na essência da mostarda e do alho. (Do lat. allium)
 alliónia |f.| Gênero de plantas nyctagı́neas da América. (De
 Allioni, n. p.)
 allith |m.| Primeira estrêlla da cauda da Ursa-Maior.
@@ -6528,7 +6528,7 @@ almas |f.| pl. |Prov.| O mesmo que alminhas.
 almassa |f.| Casta de uva branca da Arruda.
 almástiga |f.| alent. Alfobre. (Da mesma or. que |Prov.| alent. Alfobre. (Da mesma or. que
 almácega 1)
-almatrixa |f.| Almofada embastada, que se põe sobre o albardão. * |Prov.| alent. Cobertura de pelles, com que se 88
+almatrixa |f.| Almofada embastada, que se põe sobre o albardão. * |Prov.| alent. Cobertura de pelles, com que se
 apparelham burros e que é ligada por uma silha grosseira de baraço. (Cp. almadraquexa)
 almazém |m.| Fórma pop. e mais exacta que armazem. Cf. Ethiópia Or., II, 323; Carta de Guia de Casados, 21; Peregrinação, LXXXVIII; Livro das Monções, n.º 13. (Cp. cast. almacén)
 almazona |f.| (Corr. de amazona)
@@ -6632,7 +6632,7 @@ almojávena |f.| Espécie de belhó, de farinha e queijo. (Do
 ár. al-mojábana)
 almolina |f.| Jôgo antigo, espécie de cabra-cega. Cf. G. Vicente, I, 133.
 almôndega |f.| Bolo de carne picada, com ovos e outros
-adubos. (Do ár. al-bondoca)almonjava 90
+adubos. (Do ár. al-bondoca)almonjava
 almonjava |f.| Ant. Iguaria de carneiro picado, com toicinhoda região, que hoje se chama Saboia. (Do lat. allobrox) e outros temperos. (Corr. de almojâvena?)
 almoqueire |m.| Ant. O mesmo que almocreve.
 almorabitino |m.| Moéda moirisca. Cf. Herculano, Bobo, 128 e 165.
@@ -6648,7 +6648,7 @@ almotaçar |v. t.| Ant. Taxar o preço de. (De almotacé)
 almotaçaria |f.| Ant. Cargo de almotacé. Fixação do preço dos gêneros alimentı́cios, feita pelo almotacé.
 almotacé |m.| Ant. Inspector de pesos e medidas, que taxava o preço dos gêneros alimentı́cios. (Do ár. al-mohtacib)
 almotacel |m.| Ant. Inspector de pesos e medidas, que taxava o preço dos gêneros alimentı́cios. (Do ár. almohtacib)
-almotalia |f.| Ant. O mesmo que almotolia. Cf. Eufrosina, 278.
+almotalia |f.| Ant. O mesmo que almotolia. Cf. Eufrosina,
 almotolia |f.| Pequeno vaso, de fórma cónica, para azeite e outros lı́quidos, principalmente oleosos. (Do ár. al-motli)
 almotriga |f.| beir. e trasm. O mesmo que almotolia. |Prov.| beir. e trasm. O mesmo que almotolia.
 almoxarifado |m.| Cargo de almoxarife; área da sua jurisdição.
@@ -6829,7 +6829,7 @@ alpergata |f.| O mesmo que alpargata.
 alpes |m.| pl. Ant. Pastagens entre montes. (Parece relacionar-se com Alpes, n. p.)
 alpestre |adj.| Relativo ou semelhante aos Alpes. Fragoso; cheio de montes e despenhadeiros. Que cresce nas montanhas. (Lat. alpestris)
 alpéstrico |adj.| (V. alpestre)
-alpestrino |adj.| O mesmo que alpestre. Cf. Viriato Trág., I, 20. 92
+alpestrino |adj.| O mesmo que alpestre. Cf. Viriato Trág., I, 20.
 alpha |m.| Primeira letra do alphabeto syrı́aco e grego. Fig. Principio. * |Mús.| Figura, que, na antiga notação, abrangia dois lugares de um pentagramma e representava duas notas ligadas.
 alphabetação |f.| Acto de alphabetar.
 alphabetadamente |adv.| De modo alphabetado; pela ordem alphabética.
@@ -6973,7 +6973,7 @@ altear |v. t.| Tornar alto, mais alto. Elevar, elevar mais. |V. i.| Tornar-se ma
 alteastro |m.| Subgênero de altheia, em que se comprehende o malvaı́sco.
 alteia |f.| Planta medicinal, da fam. das malváceas. (Lat. althaea)
 altenado |m.| Gı́r. ant. Amo. (De alto. Cp. altanado)
-altênia |f.| Planta, da fam. das naiádeas. (De Althen, n. p.) 94
+altênia |f.| Planta, da fam. das naiádeas. (De Althen, n. p.)
 altér |m.| Raça fina de cavallos portugueses. (De Altér, n. p.)
 alter-ego #,(áltèr égò)#  |m.| Outro eu. Pessôa, em quem eu deposito a maior confiança. (Loc. lat.)
 alterábil |adj.| Fórma alat. de alterável.
@@ -7046,7 +7046,7 @@ altı́como |adj.| Bot. Que tem folhagem elevada. (De altocoma)
 altı́copo |m.| Insecto coleóptero tetrâmero. (Do gr. altikos)
 alticornı́gero |adj.| Que tem cornos muito altos. (De alto + cornı́gero)
 altiechoante #,(e-co)#  |adj.| Que echôa alto. Cf. Castilho, Fastos, II, 85.
-altiecoante |adj.| Que echôa alto. Cf. Castilho, Fastos, II, 85.
+altiecoante |adj.| Que echôa alto. Cf. Castilho, Fastos, II,
 altigritante |adj.| Que grita em tom muito elevado.
 altiloquência #,(cu-en)#  |f.| Estı́lo elevado. Locução sublime. (De alto + eloquência)
 altiloquente #,(cu-en)#  |adj.| Que tem altiloquência.
@@ -7120,7 +7120,7 @@ alugar |v. t.| Dar ou tomar de aluguer. Assalariar. (Lat. locare)
 alugatriz |f.| Mulher que aluga. Cf. Filinto, II, 204 e 262; IX, 107 e 163.
 alugueiro |m.| Ant. Aquelle que tomava uma coisa de aluguer. O mesmo que alugador. (De alugar)
 aluguel |m.| O mesmo que aluguer.
-aluguer |m.| Cessão ou acquisição de um serviço ou objecto por tempo e preço determinado: o aluguer de uma casa; o aluguer de uma casaca. Preço da cessão temporária: o 96
+aluguer |m.| Cessão ou acquisição de um serviço ou objecto por tempo e preço determinado: o aluguer de uma casa; o aluguer de uma casaca. Preço da cessão temporária: o
 aluguer é 100$000 reis. (Do cast. ant. aloguer)
 aluimento #,(lu-i)#  |m.| Acto de aluir.
 aluir |v. t.| Abalar. Arruinar. V. i.
@@ -7279,7 +7279,7 @@ alviçarar |v. t.| Noticiar, para receber alvı́çaras. Referir (factos inda n�
 Anjo #, 196# .
 alvı́çaras |f.| pl. Prêmio, que se dá a quem traz boas novas ou entrega coisa que se tinha perdido. (Ár. al-bixara)
 alviçareiro |m.| Aquelle que pede ou recebe alvı́çaras.
-Aquelle que as dá ou as promete. Aquelle que dá bôas novas, pedindo alvı́çaras. Aquelle que vigia a chegada dos navios á barra, para dar notı́cia aos interessados e receber 98 alvı́çaras.
+Aquelle que as dá ou as promete. Aquelle que dá bôas novas, pedindo alvı́çaras. Aquelle que vigia a chegada dos navios á barra, para dar notı́cia aos interessados e receber alvı́çaras.
 alvidrador |m.| Aquelle que alvidra. * Ant. O mesmo que avaliador.
 alvidrar |v. t.| Ant. O mesmo que arbitrar. (De álvidro)
 álvidro |m.| Ant. O mesmo que árbitro. (Cp. alvedrio)
@@ -7342,7 +7342,7 @@ alzátia |f.| Planta do Peru. (De Alzate, n. p.)
 ama #,1 # |f.| Mulher, que amamenta criança alheia. Aia. Dona de casa, em relação aos criados. Governanta. * Ama sêca, criada que trata de crianças de peito, sem as amamentar. |f.| Arvore da ilha de San-Thomé.
 amábil |adj.| (Fórma alat. de amável)
 amabilidade |f.| Qualidade do que é amável. Delicadeza; urbanidade. (Lat. amabilitas)
-amable |adj.| P. us. O mesmo que amável. Cf. Filinto, IX, 143.
+amable |adj.| P. us. O mesmo que amável. Cf. Filinto, IX,
 amacacado |adj.| Que tem modos ou feições de macaco. Próprio de macaco: nariz amacacado.
 amaçarocado |adj.| Que tem fórma de maçaroca.
 amaçarocar |v. t.| Dar fórma de maçaroca a.
@@ -7425,7 +7425,7 @@ amança |f.| Ant. Qualidade de amante. Amor. (De amar)
 amancebado |adj.| Que vive em mancebia.
 amancebar-se |v. p.| Juntar-se, em mancebia, com alguém. Tomar concubina. (De mancebo)
 amanchar-se |v. p.| Estar na mancha ou cama, (falando-se do javali). (De mancha)
-amândala |f.| Nome vulgar de várias conchas. 100
+amândala |f.| Nome vulgar de várias conchas.
 amanduri |m.| Espécie de algodão de Alexandria.
 amaneirado |adj.| Afectado. Presumido. (De amaneirar)
 amaneirar-se |v. p.| Tomar modos afectados, modos de presumido.–Expressão afrancesada, quanto ao sentido. (De maneira)
@@ -7477,7 +7477,7 @@ amaracarpo |m.| Arbusto japonês, da fam. das rubiáceas. (Do gr. amara + karpos
 amaraceno |m.| Des. Emplasto, composto de muitas drogas. (De amáraco)
 amáraco |m.| O mesmo que mangerona. (Gr. amarakos)
 amarado |adj.| * Cheio de muita água; inundado: “olhos
-amarados de pranto.” Camillo, Mulher Fatal, 139; Corja, 136.
+amarados de pranto.” Camillo, Mulher Fatal, 139; Corja,
 amaral |f.| Casta de uva preta, serôdia e muito abundante de
 ácidos, cultivada na Beira, Minho e Doiro. (De amaro)
 amarália |f.| Gênero de plantas rubiáceas da África tropical. (De Amaral, n. p.)
@@ -7490,7 +7490,7 @@ amarantino |adj.| Semelhante ao amaranto.
 amaranto |m.| Planta herbácea. A flôr vermelha e avelludada do amaranto. (Gr. amarantos)
 amarar |v. t.| Ant. Afastar para o mar largo. |V. i.| Fazerse ao mar largo. * |V. p.| Arrasar-se de água, inundar-se:
 amararam-se-me os olhos. (De mar)
-amarasmear |v. i.| Mostrar marasmo. Cf. Camillo, Volcões, 207.
+amarasmear |v. i.| Mostrar marasmo. Cf. Camillo, Volcões,
 amareado |adj.| trasm. Que começa a murchar e |Prov.| trasm. Que começa a murchar e
 a descorar. Que começa a secar (falando-se de roupa no
 amargoso estendedoiro). (De amarear)
@@ -7571,7 +7571,7 @@ amaripa |m.| Dialecto da Guiana inglesa.
 amarı́sias |f.| pl. Festas gregas, em honra de Ceres. Cf. Castilho, Fastos, I, 544.
 amaritude |f.| O mesmo que amargura. (Lat. maritudo)
 amarlotar |v. t.| Ant. O mesmo que amarrotar. (De marlota)
-amaro |adj.| Poét. O mesmo que amargo. (Lat. amarus) 102
+amaro |adj.| Poét. O mesmo que amargo. (Lat. amarus)
 amarória |f.| Gênero de plantas rutáceas.
 amarotado |adj.| Que tem modos de maroto.
 amarotar-se |v. p.| Fazer-se maroto. Tomar modos de maroto.
@@ -7681,7 +7681,7 @@ ambaló |m.| T. de Gôa. O mesmo que munguengue.
 ambaquista |adj.| Relativo a Ambaca ou aos seus habitantes. Habitante ou indı́gena de Ambaca.
 âmbar |m.| Substância sólida, parda ou preta, de cheiro semelhante ao do almı́scar. Resina fóssil, semi-transparente e quebradiça, de côr amarela, e usada em boquilhas, rosários, etc. (Do ár. anbar)
 ambar-cinzento |m.| Concreção, formada no tubo digestivoambarages de um cetáceo, (physeter macrocephalus, Lin.)
-ambarages |m.| pl. Nome, que se dava aos servidores ou escravos dos reis de Malaca. Cf. Barros, Déc. II, l. VI, c. 6.
+ambarages |m.| pl. Nome, que se dava aos servidores ou escravos dos reis de Malaca. Cf. Barros, Déc. II, l. VI, c.
 ambárico |adj.| Relativo a âmbar. Feito de âmbar.
 ambarina |f.| Substância, que se extrai do âmbar pardo.
 ambarino |adj.| Relativo ao âmbar.
@@ -7715,7 +7715,7 @@ ambidextrismo |m.| O mesmo que ambidextreza.
 ambidextro |adj.| Que se serve de ambas as mãos, com destreza igual. (Do lat. ambi + dexter)
 ambiente |adj.| Que anda ou está á roda de alguma coisa ou pessôa. |M.| O ar que se respira. Roda, esphera, em que se vive. (Lat. ambiens)
 ambiesquerdo |adj.| Desajeitado de ambas as mãos. Inhábil. (De ambi... + esquerdo)
-ambigênia |f.| Geom. Espécie de hypérbole, de cujos ramos um cái fóra e outro dentro da asimptota. (Do gr. amphi + genos) 104
+ambigênia |f.| Geom. Espécie de hypérbole, de cujos ramos um cái fóra e outro dentro da asimptota. (Do gr. amphi + genos)
 ambı́geno |adj.| Procedente de duas espécies differentes. (Do lat. ambo + genus)
 ambiguamente |adj.| Com ambiguidade.
 ambiguidade #,(gu-i)#  |f.| Qualidade do que é ambı́guo. (Lat. ambiguitas)
@@ -7723,7 +7723,7 @@ ambiguifloro #,(gu-i)#  |adj.| Que tem flôres de corolla ambı́gua. (De ambı�
 ambı́guo |adj.| Que póde têr mais que um sentido: expressão
 ambı́gua. Duvidoso. Incerto. (Lat. ambiguus)
 ambinhos |adj.| pl. Fórma carinhosa de ambos: “só entre nós ambinhos”. Castilho, Mil e um Myst., 61.
-âmbios |m.| pl. Antigo povo cafreal. Cf. Couto, Déc. X, c. 14.
+âmbios |m.| pl. Antigo povo cafreal. Cf. Couto, Déc. X, c.
 ambı́paro |adj.| Bot. Diz-se dos botões, de que saem fôlhas e flôres. (Do lat. ambo + pavere)
 ambira |f.| Instrumento musical dos Ethı́opes.
 ambiséxuo #,(sé)#  |adj.| Que participa dos dois sexos: “...um corpo único e ambiséxuo”. Castilho, Metam., 164.
@@ -7744,7 +7744,7 @@ amblýope |m.| Aquelle que soffre amblyopia.
 amblyopia |f.| Enfraquecimento, perturbação, da vista. (Gr. ambluopia)
 amblyúros |m.| pl. Gênero de peixes fósseis. (Do gr. amblus + oura)
 ambo |m.| Árvore da Índia portuguesa.
-ambolina |f.| Espécie de tabaco. Cf. Inquér. Industr., II, p. 320.
+ambolina |f.| Espécie de tabaco. Cf. Inquér. Industr., II, p.
 ambolismal |adj.| Astrol. Diz-se do anno composto de treze luas.
 ambom |m.| Ant. Espécie de tribuna ou púlpito e pedra, com duas escadas em sentido opposto, á entrada da capellamór, nalgumas igrejas do século XII. (B. lat. ambo, do lat. ambire)
 ambos |adj.| pl. Um e outro; os dois: “ambos de dois”. Garrett, Catão, 73. “Nós viemos ambos de dous”. Prestes,
@@ -7769,7 +7769,7 @@ ambrosı́aco |adj.| Relativo á ambrósia. Delicioso, doce, como a ambrósia do
 ambrosiano |adj.| Relativo a Santo-Ambrósio.
 ambrosı́nia |f.| Gênero de plantas aroı́deas.
 ambrosino |adj.| O mesmo que ambrosı́aco.
-ambrósio |adj.| O mesmo que ambrosı́aco. Cf. Filinto, IX, 186.
+ambrósio |adj.| O mesmo que ambrosı́aco. Cf. Filinto, IX,
 ambrosnato |m.| Bras. Espécie de creme.
 ambroso |m.| Bras. Iguaria de farinha de milho, azeite e outros temperos. (De ambre?)
 ambu |m.| Fruta silvestre do Brasil, de que se faz doce. Árvore, que dá esse fruto.
@@ -7847,7 +7847,7 @@ ameju |m.| (V. ameiju)
 amejuba |f.| Nome de duas espécies de árvores, no Brasil, uma de madeira branca, e outra de madeira escura.
 amela |f.| Planta ornamental, da fam. das compostas. (Do lat. amellus)
 amelaçar |v. t.| Dar côr de melaço a. Tornar doce, adocicar: “ficou-lhe dessas leituras uma linguagem amelaçada”. Camillo, Brasileira, 335.
-amelado |adj.| Que tem côr de mel. Cf. Arn. Gama, Motim, 51.
+amelado |adj.| Que tem côr de mel. Cf. Arn. Gama, Motim,
 amelı́a |f.| Terat. Ausência congênita dos quatros membros. (Do gr. a priv. + melos)
 amelida |f.| Substância branca amorpha, obtida pela acção dos álcalis e dos ácidos sôbre a amelina.
 amelina |f.| Base chı́mica, obtida pela acção dos ácidos sobre o melam.
@@ -7856,7 +7856,7 @@ amella |f.| Planta ornamental, da fam. das compostas. (Do lat. amellus)
 ameloado |adj.| Semelhante ao melão, no feitio, na côr, no cheiro, ou no gôsto.
 amelopia |f.| Deminuição ou perda parcial da vista. (Do gr.
 a priv., melas, negro, e ops, ôlho)
-amelópico |adj.| Relativo á amelopia. Que soffre amelopia. 106
+amelópico |adj.| Relativo á amelopia. Que soffre amelopia.
 amelroado |adj.| Que tem a côr do melro.
 amembranado |adj.| Que se parece a uma membrana.
 ámen #,(ámên’)#  |adv.| Assim seja. |M.| pl. Fam. Demasiada condescendência. Approvação ou acôrdo incondicional. (T. hebr.)
@@ -7872,7 +7872,7 @@ amendoim |m.| Planta leguminosa. O fruto desta planta. (De amêndoa)
 amendoı́na |f.| Espécie de cosmético, preparado com suco de amêndoas.
 amendoirana |f.| Pequeno arbusto medicinal do Brasil.
 amenidade |f.| Qualidade do que é ameno. (Lat. amoenitas)
-amenidão |f.| O mesmo que amenidade. Cf. J. Dinis, Serões, 266.
+amenidão |f.| O mesmo que amenidade. Cf. J. Dinis, Serões,
 ameninado |adj.| Que tem a apparência de menino.
 ameninar-se |v. p.| Tomar a apparência de menino. Remoçar. Fazer-se mimoso.
 amenista |m.| Aquelle que diz ámen a tudo. Aquelle que é condescendente. (De ámen)
@@ -7885,7 +7885,7 @@ amenorrheia |f.| Supressão do catamênio. (Do gr. a priv. + men + rhein)
 amenoso |adj.| (V. ameno)
 amenótep Nome de vários Reis do antigo Egýpto.
 amenta |f.| Acção de amentar. Reza por um defunto. O que se paga ao padre pelas preces, em dia de finados. * Espécie de canto mágico, com que se suppunha attrahir os lobos.
-amentação |f.| Acto de amentar. Cf. Ferrer, Direito Natural, 47.
+amentação |f.| Acto de amentar. Cf. Ferrer, Direito Natural,
 amentáceas |f.| pl. Ordem de plantas, que têm amentilhos. (Do lat. amentum)
 amentáceo |adj.| Bot. Diz-se das plantas, cujas flores, ordinariamente unisexuaes, estão dispostas em amentilhos. (Do lat. amentum)
 amentador |m.| Aquelle que amenta. (De amentar)
@@ -8005,7 +8005,7 @@ amigdalato |m.| Chı́m. Sal, resultante da combinação do
 amigdáleas |f.| pl. O mesmo que amigdaláceas.
 amigdálico |adj.| Diz-se do ácido, em que entra uma solução
 aquosa de amigdalina.
-amigdalı́fero |adj.| Que apresenta partes, semelhantes a 108
+amigdalı́fero |adj.| Que apresenta partes, semelhantes a
 amêndoas. (Do lat. amygdala + ferre)
 amigdalina |f.| Substância, que se extrái das amêndoas
 amargas. (De amýgdala)
@@ -8157,7 +8157,7 @@ amódromo |m.| Pássaro conirostro, que vive em ilhotas, nas costas do Atlântic
 amoedação #,(mo-e)#  |f.| Acto de amoedar. Cf. Castilho, Fastos, I, 352.
 amoedar #,(mo-e)#  |v. t.| Reduzir a moéda. Cunhar. (De moéda)
 amoedável #,(mo-e)#  |adj.| Que se póde amoedar.
-amoestar #,(mo-es)#  |v. t.| (e der.) O mesmo que admoestar, etc. 110
+amoestar #,(mo-es)#  |v. t.| (e der.) O mesmo que admoestar, etc.
 amófila |f.| Planta leguminosa, muito vulgar em médãos, á beira-mar. (Do gr. ammos + philos)
 amofinação |f.| Acto de amofinar.
 amofinador |m.| Aquelle que amofina.
@@ -8300,7 +8300,7 @@ amorrinhar-se |v. p.| Adoecer de morrinha. Ext. Enfraquecer; alquebrar-se.
 amorsegar |v. t.| O mesmo que morsegar.
 amortalhadeira |f.| Mulher, que amortalha defuntos.
 amortalhador |m.| O que amortalha. |adj.| O que amortalha.
-amortalhar |v. t.| Envolver em mortalha. Vestir com hábito grosseiro, por penitência ou desprendimento. 112
+amortalhar |v. t.| Envolver em mortalha. Vestir com hábito grosseiro, por penitência ou desprendimento.
 amorteamento |m.| Acto ou effeito de amortear.
 amortear |v. t.| Des. Desalentar, desanimar. (De morte)
 amortecer |v. t.| Fazer ficar como morto. Enfraquecer;
@@ -8316,7 +8316,7 @@ amortizável |adj.| Que se póde amortizar; que deve sêr amortizado.
 amorudo |adj.| Chul. Apaixonado. Inclinado ao amor.
 amossar |v. t.| Fazer mossas em.
 amossegar |v. t.| (e der.) O mesmo que amorsegar, etc.
-amostado |adj.| Que sabe a mosto. Cf. Techn. Rur., 156 e 161.
+amostado |adj.| Que sabe a mosto. Cf. Techn. Rur., 156 e
 amostardado |adj.| Temperado com mostarda. Cf. Th. Ribeiro, Jornadas, I, 309.
 amostra |f.| Acto de amostrar. Sinal. Modêlo. Exposição.
 amostradora |f.| Gı́r. Lanterna. (De amostrar)
@@ -8449,7 +8449,7 @@ amphipira |f.| Gênero de lepidópteros.
 amphipneustos |m.| pl. Classe de reptis, com dois apparelhos respiratórios. (Do gr. amphi + pneo)
 amphı́podes |m.| pl. Ordem ou sub-ordem de crustáceos, que têm duas qualidades de pés, para nadar e saltar. (Do gr. amphi + pous, podos)
 amphipogão |m.| Gênero de gramı́neas.
-amphipróstylo |m.| Diz-se de alguns templos antigos, com 114 duas ordens de columnas, uma na parte anterior e outra na posterior. (Do gr.)
+amphipróstylo |m.| Diz-se de alguns templos antigos, com duas ordens de columnas, uma na parte anterior e outra na posterior. (Do gr.)
 amphı́ptero |m.| Heráld. Dragão ou serpente com asas de morcego.
 amphisarca |m.| Fruto plurilocular, indehiscente, exteriormente duro e interiormente carnudo.
 amphisbena |f.| P. us. Serpente, que parece têr duas cabeças, uma em cada extremidade. (Do gr. amphi + bainein)
@@ -8542,7 +8542,7 @@ amuralhar |v. t.| Cercar de muralhas.
 amurar #,1 # |v. t. e i.| Retesar; prender a amura. |v. t.| O mesmo que amuralhar.
 amurca |f.| Almofeira, água escura, que escorre da talha das
 azeitonas. (Lat. amurca)
-amurchecer-se |v. p.| Murchar. Cf. Usque, Tribulações, 22.
+amurchecer-se |v. p.| Murchar. Cf. Usque, Tribulações,
 amurilhar-se |v. p.| trasm. |Prov.| trasm.
 Acantonar-se,
 amesendar-se em qualquer canto. Retrahir-se silencioso. (Cp. murilho)
@@ -8601,7 +8601,7 @@ ana-velha |f.| Pequena ave pernalta do Brasil.
 anabaptismo |m.| Doutrina dos anabaptistas.
 anabaptista |m.| Membro de uma seita religiosa, que prègava a repetição do baptismo para quem o tivesse recebido
 antes do uso da razão. (Do gr. ana + baptistes)
-anabasa |f.| Pequena planta da Espanha e das margens do Cáspio. (Do gr. anabasis) 116
+anabasa |f.| Pequena planta da Espanha e das margens do Cáspio. (Do gr. anabasis)
 anabase |m.| O mesmo ou melhor que anabasa.
 anabáseas |f.| pl. Sub-tribo de plantas salsoláceas. (De anabase)
 anábasis Obra de Xenophonte. (Lat. Anábasis)
@@ -8749,7 +8749,7 @@ anaglı́fico |adj.| Diz-se do plano ou superficie, em que se
 acham figuras esculpidas ou cinzeladas, ou outros objectos, em baixo relêvo. (De anaglypho)
 anaglifo |m.| Obra em relêvo. (Gr. anagluphos)
 anagliptico |adj.| O mesmo que anaglı́fico.
-anaglipto |m.| Gênero de insectos coleópteros longicórneos. 118
+anaglipto |m.| Gênero de insectos coleópteros longicórneos.
 anagliptografia |f.| Processo de sinaes gráphicos em relêvo, descoberto por Braille, para leitura dos cegos. (Do gr.
 anagluptos, relêvo, e graphein, traçar)
 anagliptográfico |adj.| Relativo á anagliptografia.
@@ -8889,7 +8889,7 @@ ananicar |v. t.| Tornar anão, pequeno, desprezı́vel.
 anânico |adj.| Que tem fórma de anão.
 ananim |m.| O mesmo que anani.
 ananismo |m.| Desenvolvimento mesquinho e anormal de uma planta. (De anão)
-anano |adj.| O mesmo que anânico. Cf. Viriato Trág., XVII, 91.
+anano |adj.| O mesmo que anânico. Cf. Viriato Trág., XVII,
 ananquite |f.| Pedra preciosa, hoje desconhecida, e da qual, segundo Plı́nio, se servem os feiticeiros para invocar os demónios. (Lat. ananchitis)
 ananta |f.| Planta indiana, medicinal.
 anantho |adj.| Que não deita flôr. (Do gr. an priv. + anthos)
@@ -8924,7 +8924,7 @@ anaptisia |f.| Med. Corrimento mucoso.
 anaptixe #,(cse)#  |f.| Philol. Intercalação de uma vogal, que desune duas consoantes.
 anaptı́xico |adj.| (V. anaptictico)
 anarca |m.| O mesmo que anarchista. Cf. Filinto, IV, 243. |f.| O mesmo que anarchista. Cf. Filinto, IV, 243.
-anarcha |m.| O mesmo que anarchista. Cf. Filinto, IV, 243. |f.| O mesmo que anarchista. Cf. Filinto, IV, 243.
+anarcha |m.| O mesmo que anarchista. Cf. Filinto, IV, |f.| O mesmo que anarchista. Cf. Filinto, IV,
 anarchia #,(qui)#  |f.| Falta de govêrno, de chefe. Negação do princı́pio de autoridade. Desordem; confusão. (Gr. anarkhia)
 anárchico #,(qui)#  |adj.| Em que há anarchia. Que excita á
 anarchia. Desordenado, confuso.
@@ -9140,7 +9140,7 @@ andarego #,(da-ré)# |adj.| trasm. Que anda bem. Ligeiro. (Cast. andariego) |Pro
 andaresa |f.| Arbusto verbernáceo da Índia. (T. malgache)
 andarilhar |v. i.| Servir de andarilho. Vaguear. Cf. Gama, Segr. do Ab., 241.
 andarilho |m.| O mesmo que andadeiro. Aquelle que leva cartas ou notı́cias. Ant. Lacaio, que a pé acompanhava os amos, que iam de carro ou a cavallo. Rapazito, que, nas toiradas, depois de corrido o animal, percorre a arena, para recolher farpas caı́das ou outros objectos. (De andar)
-andarim |m.| Des. O mesmo que andarilho. Cf. Anat. Joc., 13.
+andarim |m.| Des. O mesmo que andarilho. Cf. Anat. Joc.,
 andarovel |m.| Ant. O mesmo que andrebello.
 andas |f.| pl. Pernas ou muletas de pau, que têm um estribo ou resalto, em que se apoiam os pés. Ant. Espécie de cama ou liteira, sóbre varaes. Varaes, em que se colloca a tumba. Charola. (Do lat. amites)
 andavaes |m.| pl. |Prov.| Esqueleto desconjuntado de animal, cuja carne foi devorada por cães ou lobos. (Colhido em Turquel)andavais
@@ -9179,7 +9179,7 @@ andorinhão |m.| O mesmo que gaivão, (micropus murinus, Brehm). (De andorinha)
 andorinho |m.| Pequena corda, para pear os estribos das vêrgas dos navios. Pequena andorinha. * Náut. Peça do polcame.
 andorrano |m.| Habitante de Andorra. |Adj.| Relativo á cidade de Andorra.
 andradinho |m.| Arbusto do Brasil. (De Andrade, n. p.)
-andradite |f.| Variedade de granada (pedra fina). 124
+andradite |f.| Variedade de granada (pedra fina).
 andradito |m.| Variedade de granada (pedra fina).
 andrães |m.| trasm. Homem gordo e apalermado. |Prov.| trasm. Homem gordo e apalermado.
 andraguires |m.| pl. Antigo povo da Malásia. Cf. Peregrinação, c. XVI.
@@ -9333,7 +9333,7 @@ anemographia |f.| Descripção dos ventos. (Cp. anemógrapho)
 anemógrapho |m.| Aquelle que descreve os ventos. (Do gr.
 anemos + graphein)
 anêmola |f.| Pop. O mesmo que anêmona. Cf. Regul. Pharm.
-anemologia |f.| Tratado á cêrca dos ventos. (De anemólogo) 126
+anemologia |f.| Tratado á cêrca dos ventos. (De anemólogo)
 anemólogo |m.| Aquelle que scientificamente trata dos ventos. (Do gr. anemos + logos)
 anemometria |f.| Medida da velocidade e fôrça dos ventos. (De anemómetro)
 anemométrico |adj.| Relativo á anemometria.
@@ -9473,7 +9473,7 @@ anfı́loco #,1 # |m.| Gênero de coleópteros.
 anfı́loco #,2 # Escritor atheniense. (Lat. Amphı́lochus)
 anfı́lofo |m.| Planta americana, da fam. das begoniáceas. (Do gr. amphi + lophos)
 anfı́macro |m.| Pé de verso grego ou latino com uma sýllaba breve entre duas longas. (Do gr. amphi + makros)
-anfı́meno |m.| Gênero de leguminosas. 128
+anfı́meno |m.| Gênero de leguminosas.
 anfimétrico |adj.| Diz-se de qualquer substância mineral, cujos crystaes offerecem incidência igual em certas faces. (Do gr. amphi + metron)
 anfimónia |f.| Gênero de leguminosas.
 anfiodonte |m.| Gênero de peixes da América do Norte.
@@ -9627,7 +9627,7 @@ anglizar |v. t.| Dar feição inglesa a. Cf. Garrett, Viagens. (De anglo)
 anglo |m.| O que é da Inglaterra. (Cp. anglos) |adj.| O que é da Inglaterra. (Cp. anglos)
 anglo-americano |adj.| Relativo aos Estados-Unidos da
 América do Norte. |M.| Habitante da América do Norte, mas de origem inglesa.
-anglo-árabe |adj.| Relativo a Árabes e Ingleses. E diz-se 130 especialmente dos cavallos importados da Arábia para a Inglaterra.
+anglo-árabe |adj.| Relativo a Árabes e Ingleses. E diz-se especialmente dos cavallos importados da Arábia para a Inglaterra.
 anglo-brasileiro |adj.| Relativo á Inglaterra e ao Brasil.
 anglo-bretão |adj.| De raça inglesa e bretan.
 anglo-canadense |adj.| Diz-se dos Ingleses que habitam o Canadá.
@@ -9780,7 +9780,7 @@ anhisto #,(nis)#  |adj.| Anat. Que não tem textura determinada. Bot. Diz-se dos
 an priv. + histos, tecido)
 anhistorico #,(nis)#  |adj.| Contrário á história. (De an priv. + historico)
 anho |m.| Cordeiro. (Lat. agnus)
-anhoto #,(nhô)#  |adj.| Ant. Dizia-se do navio, que sustava o seu curso, por qualquer incidente imprevisto. Vagaroso, ronceiro. 132
+anhoto #,(nhô)#  |adj.| Ant. Dizia-se do navio, que sustava o seu curso, por qualquer incidente imprevisto. Vagaroso, ronceiro.
 anhuma |f.| Nome de duas aves ribeirinhas do Brasil.
 anhuma-poca |f.| Espécie de anhuma.
 anhupoca |f.| Bras. Pássaro com esporões nas asas, e cujo canto se faz ouvir, da meia-noite em deante. O mesmo que
@@ -9930,7 +9930,7 @@ anisocéphalo |adj.| Bot. Diz-se das plantas, cujas flôres fórmam capı́tulos
 anisócera |f.| O mesmo que anisócero.
 anisócero |m.| Gênero de insectos coleópteros pentâmeros. (Do gr. an priv. + isos + keras)
 anisochromático |adj.| Med. Em que há anisochromia.
-anisochromia |f.| Med. Desigualdade de coloração nos glóbulos rubros do sangue. (Do gr. an priv. + isos + khroma) 134
+anisochromia |f.| Med. Desigualdade de coloração nos glóbulos rubros do sangue. (Do gr. an priv. + isos + khroma)
 anisociclo |m.| Máquina de guerra, com que a milı́cia byzantina despedia frechas. (Do gr. an priv. + isos + kuklos)
 anisocoria |f.| Phenómeno mórbido, caracterizado pela desigualdade das pupillas. (Do gr. an priv. + isos + kore)
 anisocrépida |f.| Gênero de insectos coleópteros heterómeros.
@@ -10028,7 +10028,7 @@ annotino |adj.| Des. O mesmo que annual. (Lat. annotinus)
 ânnua |f.| Ant. Chamavam-se assim as cartas, em que se referiam os successos de um anno: “em uma ânnua da Companhia de Jesus, se refere...” Luz e Calor, 256. (De ânnuo)
 annual |adj.| Que dura um anno. Que succede uma vez por anno. * Quantia, que se paga annualmente; prestação
 annual. (Lat. annualis)
-annualidade |f.| Qualidade do que é annual. Pagamento, que se faz todos os annos.annualmente 136
+annualidade |f.| Qualidade do que é annual. Pagamento, que se faz todos os annos.annualmente
 annualmente |adv.| De modo annual. Todos os annos. Deanodontes |m.| pl. Molluscos de água doce, caracterizados
 anno a anno.
 annuário |m.| Publicação annual. (De anno)
@@ -10266,7 +10266,7 @@ ante |suf.| (que se junta ao thema dos v. da 1.ª conjug.). Suf. |m.| (indic. de
 ante-acto |m.| Termo proposto para substituir, em linguagem nossa, o fr. lever-de-rideau, pequena peça theatral, que se representa antes da peça principal do espectáculo.
 ante-alcova |f.| Compartimento á frente da alcova. Cf. Th. Ribeiro, Jornadas, I, 295.
 ante-bem |m.| minh. Pequena refeição de pão e vinho, que os trabalhadores do campo tomam entre o almoço e o jantar. |Prov.| minh. Pequena refeição de pão e vinho, que os trabalhadores do campo tomam entre o almoço e o jantar.
-ante-céu |m.| Fig. Grande ventura. Cf. Castilho, Tartufo, 21.
+ante-céu |m.| Fig. Grande ventura. Cf. Castilho, Tartufo,
 ante-com-ante |loc. adv.| Ant. Depressa. Cf. Jer. Cardoso, Diction.
 ante-conto |loc. adv.| minh. Rapidamente, em menos tempo que o preciso para se contar. |Prov.| minh. Rapidamente, em menos tempo que o preciso para se contar.
 ante-olhos |m.| pl. Placas de coiro, que se collocam ao lado dos olhos das cavalgaduras.
@@ -10332,7 +10332,7 @@ antefôsso |m.| Fôsso, em volta da esplanada.
 antegalha |f.| Náut. Tomadoiro, com que se amarra a vela, em occasião de temporal.
 antegostar |v. t.| O mesmo que antegozar.
 antegôsto |m.| O mesmo que antegôzo.
-antegozar |v. t.| Gozar antes; prelibar. Cf. Castilho, Fausto, 210.
+antegozar |v. t.| Gozar antes; prelibar. Cf. Castilho, Fausto,
 antegôzo |m.| Gôzo antecipado. Acto de antegozar.
 anteguarda |f.| O mesmo que vanguarda.
 antehistórico |adj.| O mesmo que prehistórico.
@@ -10367,7 +10367,7 @@ antemuro |m.| Parapeito de fortaleza. Barbacan. Obra
 avançada de fortificação.
 antena |f.| Náut. Vêrga, fixa ao mastro, na qual se prende a vela triangular, (vela latina). * Náut. Ligeiro tabique, que determina, em sentido vertical, as divisões interiores do navio, especialmente a dos alojamentos. Zool. Appêndice móvel na cabeça de animaes articulados. (Lat. antenna)
 antenado |adj.| Zool. Que tem antenas.
-antenal |adj.| Zool. Relativo ás antenas. * |M.| Ave marı́tima do Cabo da Bôa-Esperança. Cf. Viana, Apostilas. Cp. 140 entenal.
+antenal |adj.| Zool. Relativo ás antenas. * |M.| Ave marı́tima do Cabo da Bôa-Esperança. Cf. Viana, Apostilas. Cp. entenal.
 antenária |f.| Gênero de plantas, da fam. das compostas. (De antenna)
 antenı́fero |adj.| O mesmo que antenado. (Do lat. antenna + ferre)
 anteniforme |adj.| Semelhante á antena. (Do lat. antenna + forma)
@@ -10458,7 +10458,7 @@ antevéspera |f.| Dia anterior á vespera.
 antevidência |f.| Acto de antever.
 antevidente |adj.| Que vê antes. Previdente. (Do lat. ante + videns)
 antevieiro |adj.| Metediço, intrometido. (De ante + via)
-antevisão |f.| Acto de antever. Cf. Serpa, Da Nacionalidade, 34.
+antevisão |f.| Acto de antever. Cf. Serpa, Da Nacionalidade,
 antevoar |v. i.| Voar á frente. Cf. Filinto, IX, 281.
 antevocálico |adj.| Que está antes de uma vogal. |Gram.| Que está antes de uma vogal.
 anthélia |f.| O mesmo que anthelio.
@@ -10525,7 +10525,7 @@ anthos + stema)
 anthóstomo |adj.| Hist. Nat. Que tem, á volta da boca,
 apendices que dão aspecto de flôr. (Do gr. anthos + stoma)
 anthoxantheı́na |f.| O mesmo que anthoxanthina.
-anthoxanthina |f.| Substância còrante das flôres amarelas. 142
+anthoxanthina |f.| Substância còrante das flôres amarelas.
 anthoxhantho |m.| Nome scientifico de uma planta gramı́nea, vulgarmente conhecida por feno-de-cheiro. (Do gr.
 anthos + xanthos)
 anthozoários |m.| pl. Famı́lia de polypeiros. (Do gr. anthos + zoarion)
@@ -10712,7 +10712,7 @@ anticosmético |m.| O que destrói a belleza. |adj.| O que destrói a belleza.
 anticosta |f.| Contracosta.
 anticrepúsculo |m.| Claridade, manifestada no ponto opposto ao do crepúsculo real.
 anticrese |f.| Jur. O mesmo que contrato de consignação de rendimentos. (Gr. antikhresis)
-anticrético |adj.| Relativo á anticrese. Cf. Ferrer, Dir. Nat., 153.
+anticrético |adj.| Relativo á anticrese. Cf. Ferrer, Dir. Nat.,
 anticristandade |f.| Conjunto dos paı́ses que não professam o cristianismo.
 anticristão |m.| Inimigo do cristianismo; contrário aos cristãos. |adj.| Inimigo do cristianismo; contrário aos cristãos.
 anticristianismo |m.| Doutrina, opposta ao cristianismo.
@@ -10847,7 +10847,7 @@ antiiberismo |m.| Partido ou systema, contrário á união ibérica.
 antiiberista |m.| Partidário do antiiberismo.
 antiictérico |adj.| Applicável contra a icterı́cia.
 antiindustrial |adj.| Contrário á prosperidade e melhoramentos da indústria.
-antilactagogo |adj.| Que deminue ou suspende a secreção 146 do leite.
+antilactagogo |adj.| Que deminue ou suspende a secreção do leite.
 antilegal |adj.| O mesmo que illegal. Cf. Herculano, Quest. Pub., I, 241.
 antileitoso |adj.| O mesmo que antigaláctico.
 antiletárgico |adj.| Próprio para combater a letargia.
@@ -11168,9 +11168,9 @@ antografia |f.| Linguagem das flôres. (Do gr. anthos + graphein)
 antográfico |adj.| Relativo á antografia.
 antógrafo |m.| Aquelle que é versado em antografia.
 antojadiço |adj.| Ant. Que tem appetites. Cf. Eufrosina, 218. (De antojar)
-antojador |m.| Aquelle que antoja. Cf. Garrett, D. Branca, 133.
+antojador |m.| Aquelle que antoja. Cf. Garrett, D. Branca,
 antojar |v. t.| Pôr á vista. Representar na imaginação. Figurar. Appetecer. (De antojo 1)
-antojo #,1 # |m.| Apparência; figuração. Appetite; capricho. (Cast. antojo, de ante + ojo) 150 |m.| O mesmo que entejo, nojo, repugnância: “já toma antojo ao leite”. D. Franc. Manuel, Apólogos. Cf. Garção, II, 55.
+antojo #,1 # |m.| Apparência; figuração. Appetite; capricho. (Cast. antojo, de ante + ojo) |m.| O mesmo que entejo, nojo, repugnância: “já toma antojo ao leite”. D. Franc. Manuel, Apólogos. Cf. Garção, II, 55.
 antolhar |v. t.| O mesmo ou melhor que antojar.
 antôlho |m.| O mesmo que antojo 1 .
 antolhos |m.| pl. Espécie de pala, com que se resguardam da luz os olhos doentes de alguém. Palas accessórias dos cabrestos, postas de modo que os animaes só possam vêr em frente e para baixo. O mesmo que ante-olhos. (De ante + ôlho)
@@ -11319,7 +11319,7 @@ anualidade |f.| Qualidade do que é anual. Pagamento, que se faz todos os anos.
 anualmente |adv.| De modo anual. Todos os anos. De ano
 a ano.
 anuário |m.| Publicação anual. (De anno)
-anúdiva |f.| O mesmo que anaduva. 152
+anúdiva |f.| O mesmo que anaduva.
 anúduva |f.| O mesmo que anaduva. Cf. Herculano, Quest. Púb., II, 28; Idem, Hist. de Port. (Passim)
 anuência |f.| Acto de anuir. (De annuente)
 anuente |adj.| Que anue. (Lat. annuens)
@@ -11371,7 +11371,7 @@ anzol |m.| Pequeno gancho, terminado em farpa, para segurar
 a isca, com que se pesca. Fig. Ardil, engano.
 anzolado |adj.| Em fórma de anzol.
 anzoleiro |m.| Fabricante ou vendedor de anzóes.
-anzolo |m.| Bracelete de contas, vidrilhos, ou de outras coisas vistosas, mas de pequeno valor: “com anzolos na boca por não falar ”. G. Resende, Chrón. de D. João II, 2.ª p., c. 188.
+anzolo |m.| Bracelete de contas, vidrilhos, ou de outras coisas vistosas, mas de pequeno valor: “com anzolos na boca por não falar ”. G. Resende, Chrón. de D. João II, 2.ª p., c.
 anzom |m.| Árvore da Índia Portuguesa.
 anzonice |f.| Des. O mesmo que onzenice. Cf. Camillo, Sc. da Foz, 167.
 ao #,(âú)#  (palavra composta da prep. a e do art. o)
@@ -11401,7 +11401,7 @@ apadesar |v. t.| (V. empavesar)
 apadrinhador |m.| O que apadrinha. |adj.| O que apadrinha.
 apadrinhamento |m.| Acto ou effeito de apadrinhar. Cf. Camillo, Quéda de um Anjo, 143.
 apadrinhar |v. t.| Sêr padrinho de. Proteger. Defender.
-apadroar |v. t.| Sêr padroeiro de: “...de todos os patriarchas que apadroavam conventos”. Camillo, Neta do Arcediago, 77.
+apadroar |v. t.| Sêr padroeiro de: “...de todos os patriarchas que apadroavam conventos”. Camillo, Neta do Arcediago,
 apaga |f.| Náut. Cada um dos cabos que servem para carregar
 as testas dos papafigos. (De apagar)
 apagadamente |adv.| Froixamente. Sem brilho.
@@ -11431,7 +11431,7 @@ apalaçar |v. t.| Dar fórma ou grandeza de palácio a.
 apalache |m.| Uma das linguas autóchtonas da América.
 apalachina |f.| Arbusto, que cresce principalmente nos Apalaches, e cujas fôlhas se empregam em infusões medicinaes.
 apalacianar |v. t.| Tornar palaciano.
-apaladar |v. t.| Dar bom sabor a. Cf. Techn. Rur., 17 e 264.
+apaladar |v. t.| Dar bom sabor a. Cf. Techn. Rur., 17 e
 apalancado #,1 # |adj.| Semelhante a palanque. |adj.| Fechado com palancas.
 apalancar #,1 # |v. t.| Fechar com palancas. |v. t.| Guarnecer com palanques. |v. t.| trasm. Cavar no verão (a terra), para destruir as ervas nocivas. |Prov.| trasm. Cavar no verão (a terra), para destruir as ervas nocivas. |v. t.| T. do Fundão. Fazer oscillar (um objecto mal seguro em uma das suas extremidades): anda sempre
 a apalancar um dente que lhe está quási a cair.
@@ -11456,7 +11456,7 @@ apalpo |m.| (V. apalpadela)
 apalytros |m.| pl. Famı́lia de insectos coleópteros, de antennas filiformes e elytros molles.
 apan |m.| Marisco de Cabo-Verde e Senegal.
 apanado |adj.| Ant. Dizia-se dos terrenos, applicados á cultura de cereaes. (Do lat. panis)
-apanagem |f.| O mesmo que apanágio. Cf. Macedo, Burros, 274.
+apanagem |f.| O mesmo que apanágio. Cf. Macedo, Burros,
 apanágio |m.| Attributo; propriedade caracterı́stica. Ant. Pensão, ou propriedade, donde se tirava a pensão, que se dava a filhos segundos e viúvas nobres, em vida. (B. lat. apanagium)
 apanar |v. t.| Ant. O mesmo que apanhar.
 apanascado |adj.| minh. Parvo, atoleimado. (De panasco?) |Prov.| minh. Parvo, atoleimado. (De panasco?)
@@ -11479,7 +11479,7 @@ apanhamento |m.| O mesmo que apanha. O mesmo que apanhado.
 apanhamôscas |f.| Planta droserácea, (dionaea muscipula), que fecha as fôlhas, quando nellas poisam insectos, e os mata. Planta cariophyllácea, que, com a sua viscosidade, prende os insectos, (silene muscipula). (De apanhar + môsca)
 apanhar |v. t.| Colher: apanhar a fruta. Levantar do chão:
 apanhar um lenço. Dobrar, arregaçar: apanhar o vestido.
-Alcançar; obter: apanhar um emprêgo. Surprehender; supportar: apanhar uma sova. Aproveitar. Roubar. Pescar com rêde: apanhar peixe. Caçar com armadilha: apanhar um pisco. * Amparar ou tapar (com as mãos): “...com o rosto apanhado nas mãos”. Camillo, Brasileira, 164. * Bras. de Minas. Comprar: por que preço apanhaste êsse cavallo? (B. lat. apanare) 154
+Alcançar; obter: apanhar um emprêgo. Surprehender; supportar: apanhar uma sova. Aproveitar. Roubar. Pescar com rêde: apanhar peixe. Caçar com armadilha: apanhar um pisco. * Amparar ou tapar (com as mãos): “...com o rosto apanhado nas mãos”. Camillo, Brasileira, 164. * Bras. de Minas. Comprar: por que preço apanhaste êsse cavallo? (B. lat. apanare)
 apanhia |f.| T. de Aveiro. Apanha (da sardinha que sai da rêde rebentada).
 apanho |m.| O mesmo que apanha.
 apanicar |v. t.| beir. Agasalhar com carinho. Animar. Mezinhar. Tratar com desvelo exaggerado. (De pano) |Prov.| beir. Agasalhar com carinho. Animar. Mezinhar. Tratar com desvelo exaggerado. (De pano)
@@ -11603,7 +11603,7 @@ Ab., 201.
 apavoramento |m.| Acto ou effeito de apavorar.
 apavorante |adj.| O mesmo que apavorador.
 apavorar |v. t.| Causar pavor a; assustar; aterrar.
-apaxitar |v. t.| (?) “Meus bons annos apaxito”. Aulegrafia, 42.
+apaxitar |v. t.| (?) “Meus bons annos apaxito”. Aulegrafia,
 apazigar |v. t.| Ant. O mesmo que apaziguar. Cf. Luz e Calor, 543.
 apazigo |m.| Acto ou effeito de apaziguar. Cf. Camillo, Doze Cas., 120. (De apazigar)
 apaziguadamente |adv.| Com sossêgo; em paz. (De apaziguado)
@@ -11627,7 +11627,7 @@ apedar |v. t.| Ant. Segurar pelos pés; pear. Cf. Anat. Joc., 41. (Do lat. pes, 
 apedeuta |m.| Indivı́duo ignorante, homem sem instrucção. (Do gr. a. priv. + paideuein, ensinar)
 apedeutismo |m.| O mesmo que ignorância. (De apedeuta)
 apedicelado |adj.| Que tem pedúnculo ou pedicelo.
-apedicellado |adj.| Que tem pedúnculo ou pedicello. 156
+apedicellado |adj.| Que tem pedúnculo ou pedicello.
 apedoirar |v. t.| Ajuntar em mealheiro; enthesoirar. (De pedoiro 2) |Prov.| Ajuntar em mealheiro; enthesoirar. (De pedoiro 2)
 apedourar |v. t.| Ajuntar em mealheiro; enthesoirar. (De pedoiro 2) |Prov.| Ajuntar em mealheiro; enthesoirar. (De pedoiro 2)
 apedramento |m.| Acto de apedrar.
@@ -11768,12 +11768,12 @@ apertar |v. t.| Estreitar: apertar a mão. Unir muito; comprimir. Apressar: aper
 apertinente |adj.| Conciliador: “sois atilada e apertinente”. Garrett, Arco de Sant’Anna, I, 114.
 apêrto |m.| Acção de apertar. Multidão compacta de gente. Pressa. Avareza. Desgraça: ninguém se veja em tal apêrto.
 apertucho |m.| Bras. O mesmo que apêrto.
-apertura |f.| O mesmo que apêrto. Cf. Camillo, Caveira, 242.
+apertura |f.| O mesmo que apêrto. Cf. Camillo, Caveira,
 apesar |adv.| (seguido da prep. de) Não obstante. (De pesar)
 apesarar |v. t.| Tornar pesaroso. (De pesar)
 apesentar |v. t.| Tornar pesado. (De péso)
 apesinhar |v. t.| O mesmo que espesinhar.
-apespontar |v. t.| O mesmo que pespontar. Cf. Arn. Gama, Últ. Dona, 9 e 262. 158
+apespontar |v. t.| O mesmo que pespontar. Cf. Arn. Gama, Últ. Dona, 9 e 262.
 apessoado |adj.| (precedido de bem) Que tem bôa estatura, bôa figura, galhardia, gentileza. (De pessôa)
 apestanado |adj.| Que tem pestanas. Que é de pestanas fartas.
 apestar |v. t.| (V. empestar)
@@ -11788,7 +11788,7 @@ apetecı́vel |adj.| Digno de sêr apetecido.
 apetência |f.| O mesmo que apetite. (Lat. appetentia)
 apetente |adj.| Que apetece. (Lat. appetens)
 apetibilidade |f.| P. us. Qualidade do que é apetecı́vel.
-apetir |v. t.| Ant. O mesmo que apetecer. Cf. Aulegrafia, 182.
+apetir |v. t.| Ant. O mesmo que apetecer. Cf. Aulegrafia,
 apetitar |v. t.| Causar apetite a. Tentar, cativar. (De appetite)
 apetite |m.| Desejo. Ambição. Predilecção. Sensualidade. (Lat. appetitus)
 apetitı́vel |adj.| P. us. O mesmo que apetecı́vel.
@@ -11934,7 +11934,7 @@ aplaudidor |m.| O que aplaude. |adj.| O que aplaude.
 aplaudir |v. t.| Dar aplauso a. Louvar; elogiar. |V. i.| Bater palmas, festejando: da plateia, ninguém aplaudiu. (Lat. applaudere)
 aplausı́vel |adj.| Plausı́vel; digno de aplauso.
 aplauso |m.| Acto de aplaudir. Acclamação. Elogio público. Louvor. Demonstração alegre e ruidosa de approvação: o orador recebeu muitos aplausos. (Lat. applausus)
-aplebear-se |v. p.| Tomar modos de plebeu. Rebaixar-se. (De plebe) 160
+aplebear-se |v. p.| Tomar modos de plebeu. Rebaixar-se. (De plebe)
 aples |prep.| Ant. O mesmo que apres.
 aplestia |f.| Fome insaciável. (Gr. aplestia)
 aplicabilidade |f.| Qualidade do que é aplicável.
@@ -12066,7 +12066,7 @@ apojadura |f.| Grande afluência de leite no seio da mulher. (De apojar)
 apojar |v. i.| Encher-se de leite ou de outro lı́quido. * Prov.
 alg. Demorar-se. Bras. Fazer chegar (o novilho), segunda vez, á teta da mãe, para se tirar o apojo. (Do lat. podium)
 apojo |m.| Bras. O leite mais grosso que se tira da vaca, depois de se tirar o primeiro, que é pouco espesso. Cf. Coruja, Coll. de Vocáb.
-apolainado |adj.| Que traz polainas. Cf. Camillo, Quéda, 111.
+apolainado |adj.| Que traz polainas. Cf. Camillo, Quéda,
 apolar |adj.| Zool. Diz-se da céllula nervosa arredondada. Cf. Max. Lemos, Zool. (De a priv. + polar)
 apoldrada |adj.| Diz-se da égua que cria poldros. |f.| Diz-se da égua que cria poldros.
 apoleação |f.| Acto de apolear.
@@ -12090,7 +12090,7 @@ apollejar |v. t.| Amassar com os dedos. (Do lat. pollex)
 apollı́neo |adj.| Relativo a Apollo. Formoso como Apollo. (Lat. apollineus)
 apollı́nico |adj.| Relativo a Apollo; apollı́neo. Cf. Castilho, Fastos, II, 619.
 apollóneas |f.| pl. Antigas festas gregas em honra de Apollo.
-apollónicon |m.| Órgão de manivela, espécie de grande realejo, inventado em 1824. 162
+apollónicon |m.| Órgão de manivela, espécie de grande realejo, inventado em 1824.
 apollónion |m.| Espécie desusada de piano de dois teclados, com alguns registos de órgão e, na parte superior, uma figura automática que tocava frauta.
 apolodoro (dó e não ló) Gramático atheniense. (Lat. Appollodórus)
 apologal |adj.| Relativo a apólogos. Que contém apólogo.
@@ -12110,7 +12110,7 @@ apomecometria |f.| Arte de medir a distância e avaliar a natureza dos objectos 
 apomecómetro |m.| Instrumento, para medir a distância de objectos muito afastados. (Do gr. apo + mekos + metron)
 apomorfina |f.| Medicamento, que se emprega como vomitivo, em caso de envenenamento.
 apomorphina |f.| Medicamento, que se emprega como vomitivo, em caso de envenenamento.
-apompar |v. t.| Tornar pomposo. Cf. Camillo, Canc. Al., 173.
+apompar |v. t.| Tornar pomposo. Cf. Camillo, Canc. Al.,
 aponeurologia |f.| Parte da Anatomia, que trata das aponeuroses. (Do gr. aponeurosis + logos)
 aponeurose |f.| Membrana consistente e fibrosa, que envolve os músculos ou lhes serve de intersecção. (Gr. aponeurosis)
 aponeurótico |m.| Relativo a aponeurose.
@@ -12227,7 +12227,7 @@ Apóstolos. Que depende da Santa-Sé, ou é relativo a ella. * |M.| Papa; Pontı
 apostolinos |m.| pl. Ordem religiosa de Gênova, supprimida por Xisto V.
 apostolizar |v. t.| O mesmo que apostolar.
 apóstolo |m.| Cada um dos doze discı́pulos de Jesus. Aquelle que primeiro prègou o Christianismo num paı́s. O propagador de uma doutrina. Missionário exemplar. * M. pl. Certos herejes que, inculcando virtude e abnegação, usavam hábito de frades e se entregavam a todos os vı́cios. * Dimissórias, dadas pelos Bispos aos seus diocesanos. * Delegados, embaixadores, núncios. * Jur. Certidão authêntica de appellação ou recurso.
-apostrofar #,1 # |v. t.| Interromper com apóstrofe. Dirigir apóstrofes a. |v. t.| Pôr apóstrofo em. 164 |Gram.| Pôr apóstrofo em. 164
+apostrofar #,1 # |v. t.| Interromper com apóstrofe. Dirigir apóstrofes a. |v. t.| Pôr apóstrofo em. |Gram.| Pôr apóstrofo em.
 apóstrofe #,1 # |f.| Rhet. Interrupção, que o orador faz, dirigindo-se a coisas ou pessôas, reaes ou ficticias. Interpellação directa e imprevista. (Gr. apostrophe) |f.| Sinal gráphico, que na escrita designa elisão de letra ou letras. (Gr. apostrophos)
 apóstrofo |m.| Sinal gráphico, que na escrita designa elisão de letra ou letras. (Gr. apostrophos)
 apostrophar #,1 # |v. t.| Interromper com apóstrophe. Dirigir
@@ -12338,7 +12338,7 @@ appetecı́vel |adj.| Digno de sêr appetecido.
 appetência |f.| O mesmo que appetite. (Lat. appetentia)
 appetente |adj.| Que appetece. (Lat. appetens)
 appetibilidade |f.| P. us. Qualidade do que é appetecı́vel.
-appetir |v. t.| Ant. O mesmo que appetecer. Cf. Aulegrafia, 182.
+appetir |v. t.| Ant. O mesmo que appetecer. Cf. Aulegrafia,
 appetitar |v. t.| Causar appetite a. Tentar, cativar. (De appetite)
 appetite |m.| Desejo. Ambição. Predilecção. Sensualidade. (Lat. appetitus)
 appetitı́vel |adj.| P. us. O mesmo que appetecı́vel.
@@ -12350,7 +12350,7 @@ applaudente |adj.| Que applaude. (Lat. applaudens)
 applaudidamente |adv.| Com applauso.
 applaudidor |m.| O que applaude. |adj.| O que applaude.
 applaudir |v. t.| Dar applauso a. Louvar; elogiar. |V. i.| Bater palmas, festejando: da plateia, ninguém applaudiu. (Lat. applaudere)
-applausı́vel |adj.| Plausı́vel; digno de applauso. 166
+applausı́vel |adj.| Plausı́vel; digno de applauso.
 applauso |m.| Acto de applaudir. Acclamação. Elogio público. Louvor. Demonstração alegre e ruidosa de approvação: o orador recebeu muitos applausos. (Lat. applausus)
 applicabilidade |f.| Qualidade do que é applicável.
 applicação |f.| Acto ou effeito de applicar. Adaptação. Destino. Concentração de espirito: estudar com applicação. Obra de passamanaria. (Lat. applicatio)
@@ -12428,7 +12428,7 @@ aprazı́vel |adj.| Que apraz.
 aprazivelmente |adv.| De modo aprazivel.
 apre! |interj.| Irra! Fóra! Vai-te! Apage! oh!
 apreá |m.| Zool. Bras. Espécie de roedor.
-aprear |v. t.| O mesmo que prear. Cf. Filinto, D. Man., I, 238.
+aprear |v. t.| O mesmo que prear. Cf. Filinto, D. Man., I,
 apreçador |m.| Aquelle que apreça.
 apreçamento |m.| Acto de apreçar.
 apreçar |v. t.| Marcar o preço de. Perguntar o preço de. Avaliar.
@@ -12482,7 +12482,7 @@ aprestamar |v. t.| Ant. Dar em apréstamo.
 aprestamento |m.| Acto de aprestar.
 apréstamo |m.| Jur. Consignação de frutos, imposta nalguma herdade, para pagamento de certos encargos. Herdade, sujeita a êsse ónus. O mesmo que préstamo.
 aprestar |v. t.| Apparelhar; apromptar. Fazer prestes. Aperceber. (De presto)
-apreste |m.| O mesmo que apresto. Cf. Castilho, Fastos, III, 153.
+apreste |m.| O mesmo que apresto. Cf. Castilho, Fastos, III,
 aprestes |adj.| Ant. O mesmo que prestes.
 apresto |m.| Preparativo. Tudo que serve de instrumento ou meio para a realização de certos actos. (De aprestar)
 apricar |v. t.| Ant. O mesmo que applicar.
@@ -12653,7 +12653,7 @@ aqueivar-se |v. p.| Ant. Aquietar-se, serenar.
 aqueixar-se |v. p.| Ant. Queixar-se. Cf. Eufrosina, 340.
 aquela |f.| Fam. Manı́a. Ideia, opinião. Acanhamento, ceremónia. (De aquelle)
 aquelar |v. t.| minh. Arranjar; fazer. Atinar com. (De aquella) |Prov.| minh. Arranjar; fazer. Atinar com. (De aquella)
-aquele |pron.| (designativo da pessôa ou objecto que está um 170 pouco distante de quem fala) (Do lat. eccum + ille)
+aquele |pron.| (designativo da pessôa ou objecto que está um pouco distante de quem fala) (Do lat. eccum + ille)
 aquelho |pron.| Ant. Aquillo.
 aquella |f.| Fam. Manı́a. Ideia, opinião. Acanhamento, ceremónia. (De aquelle)
 aquellar |v. t.| minh. Arranjar; fazer. Atinar com. (De aquella) |Prov.| minh. Arranjar; fazer. Atinar com. (De aquella)
@@ -12958,7 +12958,7 @@ arauaris |m.| pl. Indı́genas do norte do Brasil.
 araucânio |m.| Lı́ngua holophrástica dos Araucanos ou Chilenos.
 araucano |m.| Lı́ngua holophrástica dos Araucanos ou Chilenos.
 araucanos |m.| pl. Aborı́genes do Chile. (De Araucânia, n. p.)
-araucária |f.| Planta conı́fera das regiões tropicaes. (De 174
+araucária |f.| Planta conı́fera das regiões tropicaes. (De
 Arauco, n. p.)
 araucariado |adj.| Parecido á araucária.
 araucaritas |f.| pl. Gênero de conı́feras fósseis. (De araucária)
@@ -13110,7 +13110,7 @@ Arca de bufarinheiro. (De arca, sob infl. do fr. arche)
 archete #,1  (chê)#  |m.| Pequena arca. Urna cinerária. (De
 arca, sob infl. do fr. arche)
 archete #,2  (chê)#  |m.| Ornato, em fórma de arco, nas tapeçarias antigas. Instrumento cirúrgico, usado na lithotrı́cia. |Prov.| alent. Vêrga de porta ou janela, feita de tijolo e em
-arco. * Constr. Contrapadieira, ou a pedra que perfaz o 176 resto da espessura da parede, atrás da padieira de madeira de porta ou de janela. (Fr. archet).
+arco. * Constr. Contrapadieira, ou a pedra que perfaz o resto da espessura da parede, atrás da padieira de madeira de porta ou de janela. (Fr. archet).
 archétypo #,(qué)#  |m.| Modêlo dos seres criados. Exemplar. Padrão. (Lat. archetypum)
 archeu #,(queu)#  |m.| Des. Vigor, energia. Cf. Cortesão, Subs. (Do gr. arkheios)
 archi #,(qui)#  |pref.| de superioridade: conheço-o: é um jornalista architolo. (Do gr. arkhein)
@@ -13256,7 +13256,7 @@ ardileza |f.| (V. ardil)
 ardilosamente |adj.| De modo ardiloso. Com ardil; astuciosamente.
 ardiloso |adj.| Que usa de ardis. Astucioso. Sagaz. Velhaco.
 ardimento #,1 # |m.| O mesmo que ardência. |m.| Coragem. (Cp. ardido 2)
-ardina |f.| Gı́r. O mesmo que ardose. |M.| Gı́r. de Lisbôa. Rapaz, especialmente o que pelas ruas vende bilhetes postaes, papel, etc. 178
+ardina |f.| Gı́r. O mesmo que ardose. |M.| Gı́r. de Lisbôa. Rapaz, especialmente o que pelas ruas vende bilhetes postaes, papel, etc.
 ardingo |m.| Antigo magistrado na Lusitânia, talvez o mesmo que gardingo.
 ardı́sia |f.| Gênero de plantas ardisiáceas, segundo Jussieu. Secção de primuláceas, segundo Payer.
 ardisiáceas |f.| pl. Familia de plantas dicotyledóneas, encorporada hoje nas mirsineáceas. (De ardı́sia)
@@ -13305,7 +13305,7 @@ arelhana |f.| Cinturão asiático, em que se leva dinheiro ou se penduram adagas
 arena |f.| Parte areada do amphitheatro, onde combatiam gladiadores, feras, etc. Terreno circular, fechado, onde se correm toiros e se dão outros espectáculos. Lugar de contenda. Discussão. (Lat. arena)
 arenação |f.| O mesmo que areação. Med. Acto de cobrir com areia quente e sêca um membro, cuja artéria principal foi laqueada, ou a totalidade do corpo.
 arenáceo |adj.| Relativo á areia. (Lat. arenaceus)
-arenado |adj.| Coberto de areia. Cf. Arn. Gama, Motim, 185.
+arenado |adj.| Coberto de areia. Cf. Arn. Gama, Motim,
 arenária |f.| Gênero de plantas caryophylláceas. (De arenário)
 arenário |adj.| Que cresce em terrenos arenosos. (Lat. arenarius)
 arenata |f.| Terreno areento e estéril. (Lat. arenata)
@@ -13388,7 +13388,7 @@ arganéo |m.| Argola, em que se prendem as cordas da artilharia. Argola da ânco
 arganéu |m.| Argola, em que se prendem as cordas da artilharia. Argola da âncora. * |Prov.| Peça de ferro flexı́vel, que se espeta no focinho do porco, torcendo as duas extremidades uma na outra, para que o animal não possa fossar. (Dem. do hyp. argano, do lat. arganum)
 argânia |f.| Gênero de plantas sapotáceas.
 argão #,1 # |f.| Ant. Espécie de alforge. |m.| O mesmo que argau 1 .
-argau #,1 # |m.| Canudo de folha ou de cana, com que se tiram 180 lı́quidos de vasilhas. (Do b. lat. arganum) |m.| Ant. Roupão de luto. Espécie de garnacha, que os ecclesiásticos regulares usavam de inverno sôbre o hábito.
+argau #,1 # |m.| Canudo de folha ou de cana, com que se tiram lı́quidos de vasilhas. (Do b. lat. arganum) |m.| Ant. Roupão de luto. Espécie de garnacha, que os ecclesiásticos regulares usavam de inverno sôbre o hábito.
 argavaço |m.| trasm. O mesmo que gravato. |Prov.| trasm. O mesmo que gravato.
 argel #,1 # |adj.| Diz-se do cavallo que tem pés brancos. * Bras. do N. Desajeitado, desmazelado. * Ant. Desgraçado, mofino. * |M.| Pop. ant. Barulho, ajuntamento tumultuoso. (Cast. argel)
 argelino |m.| Relativo a Argel. M. Habitante de Argel.
@@ -13528,7 +13528,7 @@ argumento |m.| Raciocı́nio, que de uma ou mais preposições tira uma consequ�
 argutamente |adv.| De modo arguto. Com argúcia.
 arguto |adj.| Afinado. De som agudo. Subtil. Espirituoso. (Lat. argutus)
 argýlia |f.| Gênero de plantas bignoniáceas.
-argynna |f.| Gênero de insectos lepidópteros diurnos. 182
+argynna |f.| Gênero de insectos lepidópteros diurnos.
 argyra |f.| Gênero de insectos dı́pteros. (Do gr. arguros)
 argyrânthemo |adj.| Que tem flôres brancas como a prata. (Do gr. arguros + anthema)
 argyráspides |m.| pl. Soldados de Alexandre Magno, que usavam escudos brancos. (Do gr. arguros + aspis)
@@ -13640,7 +13640,7 @@ aristofaniano |adj.| Diz-se dos versos de sete pés e meio, por terem sido muito
 aristofânico |adj.| Relativo a Aristófanes. Feito, segundo o gôsto ou o estylo de Aristófanes.
 aristogı́ton Antigo conspirador atheniense. (Lat. Aristogı́ton)
 aristol |m.| Medicamento, obtido pela acção do iodo em solução alcalina, ou pelo iodeto de potássio, em presença dos hipochloritos sobre o thymol.aristolóchia, (qui)
-aristolóchia #,(qui)#  |f.| Planta dicotyledónea, medicinal. (Lat. aristolochia) 184 mógrapho)
+aristolóchia #,(qui)#  |f.| Planta dicotyledónea, medicinal. (Lat. aristolochia) mógrapho)
 aritmógrafo |m.| Instrumento, para operar mecanicamente
 aristolochiáceas #,(qui)#  |f.| pl. Familia de plantas, que temoperações arithméticas. (Do gr. arithmos + graphein) por typo a aristolóchia.
 aristolóquia |f.| Planta dicotyledónea, medicinal. (Lat. aristolochia)
@@ -13925,7 +13925,7 @@ arquinhos |m.| pl. Espécie de jôgo popular, o mesmo que paus-mandados.
 arquinotário |m.| Ant. Chefe dos notários. (De archi... + notário)
 arquipélago |m.| Grupo de ilhas, pouco distantes umas das outras: o arquipélago dos Açores. (Do gr. arkhi + pelagos)
 arquipirata |m.| Chefe de piratas. Fig. Agiota, usurário. (Lat. archipirata)arquipotente
-arquipotente |adj.| Poderosı́ssimo. Cf. Castilho, Fausto, 275.
+arquipotente |adj.| Poderosı́ssimo. Cf. Castilho, Fausto,
 arquipresbı́tero |m.| (e der.) O mesmo que arcipreste, etc.
 arquiprior |m.| Tı́tulo do Grão-Mestre dos Templários. (De
 archi + prior)
@@ -13962,7 +13962,7 @@ arrabaça |f.| Pop. e ant. Planta, o mesmo que rabaça.
 arrabal |m.| Ant. O mesmo que arrabalde.
 arrabalde |m.| Cercanias; arredores. Parte extrema de uma povoação. Vizinhanças; aro. (Do ár. ar-rabadh)
 arrabaldeiro |m.| Aquelle, que vive no arrabalde. |Adj.| Relativo a arrabalde.
-arrabeca |f.| Ant. O mesmo que rabeca. 188
+arrabeca |f.| Ant. O mesmo que rabeca.
 arrabeirar |v. t.| trasm. Tirar as rabeiras a (os cereaes na eira). Ext. Concluir. |Prov.| trasm. Tirar as rabeiras a (os cereaes na eira). Ext. Concluir.
 arrabel |m.| O mesmo que arrabil.
 arrábido |m.| Frade do convento da Arrábida. * Frade da mesma Ordem, mas noutro convento.
@@ -13982,7 +13982,7 @@ arraçoar |v. t.| Dar ração a. Dividir em rações. Alimentar.
 arraes |m.| (V. arráis)
 arrafim |m.| Ant. Presumpção de valente.
 arraia #,1 # |f.| Peixe, o mesmo que raia 1 . |f.| Fronteira de um paı́s, o mesmo que raia 2 . |f.| Plebe. (Ár. ar-rai)
-arraiada |f.| Acto de arraiar; aurora. Cf. Garrett, D. Branca, 106.
+arraiada |f.| Acto de arraiar; aurora. Cf. Garrett, D. Branca,
 arraial |m.| Acampamento. Agglomeração festiva de povo. Lugar, em que se juntam romeiros e em que há tendas provisórias, abarracamentos de comestı́veis, ornamentações, música, etc. * Bras. da Baı́a. Aldeóla, lugarejo. * Prov.
 alg. Conjunto de barracas ou pequenas casas á beira do mar ou de um rio, nas quaes se abrigam pescadores e os respectivos apparelhos. Cf. Baldaque, Pesc. em Portugal.
 arraialesco |adj.| Relativo a arraial. Próprio de arraial.
@@ -14097,7 +14097,7 @@ arre! |Interj.| pleb. (designativa de cólera ou enfado, e expressão com que se
 arre-dom-macho |m.| Planta da serra de Cintra.
 arreador |m.| Bras. O mesmo que arreeiro.
 arreamento |m.| Mobı́lia. Adereços. Acto de arrear 1 .
-arrear #,1 # |v. t.| Pôr os arreios a; apparelhar. Adereçar. Mobilar. |v. t.| Baixar. Amainar: arrear velas. * Náut. 190 Largar successivamente, a pouco e pouco, (um cabo, uma linha, uma rede). * |V. i.| Desviar, inclinar: “o chapéu
+arrear #,1 # |v. t.| Pôr os arreios a; apparelhar. Adereçar. Mobilar. |v. t.| Baixar. Amainar: arrear velas. * Náut. Largar successivamente, a pouco e pouco, (um cabo, uma linha, uma rede). * |V. i.| Desviar, inclinar: “o chapéu
 arreado para a nuca”. Camillo, Hom. de Brios, 54.
 arrearia |f.| Casa de arreeiros. Arreeirada. Vida de arreeiros. Cf. J. Castilho, Lisb. Ant.
 arreata |f.| Correia, corda ou cabresto, com que se conduzem
@@ -14180,7 +14180,7 @@ arredoiça |f.| O mesmo que redoiça.
 arredoma |f.| Des. O mesmo que redoma. Cf. Usque, Tribulações, 24, v.º
 arredonda |adv.| Ant. Em redór; em tôrno. (De redondo)
 arredondado |adj.| Que tem fórma circular ou fórma de bóla. (De arredondar)
-arredondamento |m.| Acto de arredondar. * Divisão administrativa, em França. Cf. Castilho, Colóq. Ald., 307 e 390.
+arredondamento |m.| Acto de arredondar. * Divisão administrativa, em França. Cf. Castilho, Colóq. Ald., 307 e
 arredondar |v. t.| Tornar redondo. Dar fórma circular a. Completar, dar número redondo a: arredondar uma quantia. Aperfeiçoar. Pôr em relêvo. Tornar harmonioso (o perı́odo, a phrase).
 arredór |adv.| Ao redór, em redór, em volta. * |Adj.| Circunvizinho: “os campos arredores de Safim”. Filinto, D. Man., II, 304. Pl. Arrabaldes; aros; subúrbios: nos arredóres da cidade. (De redór)
 arredrar |v. t.| (V. redrar)
@@ -14191,7 +14191,7 @@ arreeiro |m.| Aquelle que conduz ou guia bêstas de aluguel;
 almocreve. Alquilador. Fig. Homem mal educado, que usa palavras indecorosas ou insultantes. (De arre)
 arrefanhar |v. t.| Tirar das mãos de outrem com violência. (Cp. arrepanhar)
 arrefeçar |v. t.| Aviltar. Vender por baixo preço. (De refece)
-arrefecedor |adj.| Que faz arrefecer. Cf. Eça, P. Amaro, 306.
+arrefecedor |adj.| Que faz arrefecer. Cf. Eça, P. Amaro,
 arrefecer #,(fé-cêr)#  |v. i.| Tornar-se frio; perder o calor: o tempo arrefeceu. Desanimar. Perder a energia: arrefeceulhe o entusiasmo. |V. t.| Moderar (o zêlo, o enthusiasmo, a
 actividade de). (Do lat. refrigescere)
 arrefecido #,(fé)#  |adj.| Que arrefeceu.
@@ -14242,7 +14242,7 @@ arremansar-se |v. p.| Ficar em remanso.
 arrematação |f.| Acto de arrematar.
 arrematador |m.| Aquelle que arremata. |Adj.| Que arremata.
 arrematante |m.| Arrematador; que arremata. |adj.| Arrematador; que arremata.
-arrematar #,1 # |v. t.| O mesmo que rematar ; concluir. Fazer remate de pontos em (costura). Atar em nó (o cabello) Sachar pela segunda vez (milho). |V. i.| Acabar. (Cp. rematar) 192 |v. t.| Adjudicar em leilão a quem mais dá. Comprar em leilão. Tomar de arrendamento em almoéda. * Berrar como leiloeiro. Cf. Filinto, X, 128. * |Prov.| alg.
+arrematar #,1 # |v. t.| O mesmo que rematar ; concluir. Fazer remate de pontos em (costura). Atar em nó (o cabello) Sachar pela segunda vez (milho). |V. i.| Acabar. (Cp. rematar) |v. t.| Adjudicar em leilão a quem mais dá. Comprar em leilão. Tomar de arrendamento em almoéda. * Berrar como leiloeiro. Cf. Filinto, X, 128. * |Prov.| alg.
 Amaldiçoar, rogar pragas a. * |V. i.| alg. Rogar pragas; dizer palavras injuriosas ou obscenas. (Por arramatar, de ramo) |Prov.| alg. Rogar pragas; dizer palavras injuriosas ou obscenas. (Por arramatar, de ramo)
 arremate |m.| Acto de arrematar 1 . Remate. Cf. Garrett, Camões, 43.
 arremeção |m.| Ant. Medida agrária de 19 {1/2} palmos, ou 4m ,30.
@@ -14385,7 +14385,7 @@ arrinconar |v. t.| Bras. O mesmo que arrincoar.
 arringa-iba |f.| Planta venenosa da Índia.
 arringar |v. t.| (e der.) (V. arraigar, etc.)
 arrinho |m.| Ant. Enseada, onde é facil e copiosa a pesca dos sáveis e lampreias.
-arrió |m.| O mesmo que arriós. 194
+arrió |m.| O mesmo que arriós.
 arriol |m.| (V. arriós)
 arriós |m.| Pedrinha redonda, com que se jogava o alguergue. Peloiros de arcabuz. * Fava amargosa do Brasil, de casca grossa e cinzenta. (Talvez do vasc. Cp. Viana, Apostilas)
 arriosca |f.| Lôgro; esparrela. Cilada, falcatrua.
@@ -14689,7 +14689,7 @@ artificiar |v. t.| Fazer com artifı́cio. Máquinar.
 artifı́cio |m.| Meios, com que se obtém um artefacto. Producto de arte. Habilidade. Astúcia. Fingimento. Trabalho pyrotéchnico. (Lat. artificium)
 artificiosamente |adv.| De modo artificioso. Com artifı́cio.
 artificioso |adj.| Que tem artifı́cio. Em que há artifı́cio. (Lat. artificiosus)
-artigar |v. t.| dur. Allegar, deduzindo por artigos; 198 |Prov.| dur. Allegar, deduzindo por artigos; 198 articular.
+artigar |v. t.| dur. Allegar, deduzindo por artigos; |Prov.| dur. Allegar, deduzindo por artigos; articular.
 artigo |m.| Palavra, que precede os substantivos ou palavras substantivadas, para lhes dar feição definida ou indefinida. Cada um dos assumptos, em que se divide um escrito. Cada um dos parágraphos, em que se dividem certas petições, contestações e outros escritos forenses. Conjunctura: em artigo de morte. Cada um dos escritos de uma fôlha periódica, mais extensos que uma simples notı́cia. Cada uma das divisões de um trabalho, numeradas. Objecto de mercadoria: estabelecimento com muitos artigos. Cada um dos pontos doutrinários do Credo. (Lat. articulus)
 artiguelho #,(guê)#  |m.| Deprec. Artigo insignificante; insignificante escrito, publicado em gazeta.
 artilhado |adj.| Guarnecido de peças de artilharia: navio artilhado.
@@ -14798,7 +14798,7 @@ arveliça |f.| O mesmo que alvéloa.
 arvelicha |f.| Espécie de alvéola. (De arvela) |Prov.| Espécie de alvéola. (De arvela)
 arvelinha |f.| Espécie de alvéola, (motacilla sulphurea, Bechst.). (Cp. arvela)arvéloa
 arvéloa |f.| O mesmo que alvéloa.
-arvense |adj.| Que cresce em terras semeadas. (Do lat. arvum) 200 taina + eidos)
+arvense |adj.| Que cresce em terras semeadas. (Do lat. arvum) taina + eidos)
 arythmia #,(ri)#  |f.| Med. Irregularidade e desigualdade das contracções do coração. (Do gr. a priv. + ruthmos)
 arvião |m.| O mesmo que gaivão.
 arvı́cola |m.| Habitante do campo. Lavrador. Zool. Mam-arýthmico, (ri) |adj.| Que tem falta de rythmo. Med. Que mı́fero roedor, da fam. dos murı́deos. (Do lat. arvum + colere)
@@ -14932,7 +14932,7 @@ ascorosamente |adv.| (V. asquerosamente)
 ascoroso |adj.| (V. asqueroso)
 áscua |f.| Brasa viva. (T. cast.)
 ascuma |f.| Pequena lança antiga, para arremêsso.
-ascumada |f.| Golpe de ascuma. Cf. R. Barbosa, Réplica, 157.
+ascumada |f.| Golpe de ascuma. Cf. R. Barbosa, Réplica,
 ascuna |f.| O mesmo que ascunha.
 ascunha |f.| Ant. O mesmo que ascuma.
 ascyro |m.| Arruda brava. (Gr. askuron)
@@ -14975,8 +14975,7 @@ asiarcha #,(ca)#  |m.| Grão-sacerdote e presidente dos espectáculos e combates
 asiática |f.| Espécie de anêmona. (De asiático)
 asiaticamente |adj.| De módo asiático; á maneira dos Asiáticos. Magnificentemente.
 asiaticismo |m.| Vocábulo, procedente de lı́ngua asiatica.
-asiático |adj.| Relativo á Ásia. Diffuso e pomposo, (falandose do estilo). |M.| Aquelle que é natural da Ásia. (Lat.
-asiaticus) 202
+asiático |adj.| Relativo á Ásia. Diffuso e pomposo, (falandose do estilo). |M.| Aquelle que é natural da Ásia. (Lat. asiaticus)
 asiatismo |m.| Estı́lo pomposo e diffuso. (Cp. asiático)
 asictos |m.| Pedra preciosa, conhecida dos antigos.
 asidas |f.| pl. |Prov.| minh. Peguilhos, que há no fundo do rio Minho, e em que as redes se podem prender e rasgar. (De asir)
@@ -15116,8 +15115,7 @@ aspirar |v. t.| Attrahir (o ar) aos pulmões. Absorver; chupar. |Gram.| Pronunci
 aspirativo |adj.| Que deve pronunciar-se com aspiração. (De aspirar)
 aspirina |f.| Medicamento antipyrético e analgésico.
 asplênia |f.| Gênero de fêtos. (Gr. asplenon)
-aspleniáceas |f.| pl. Gênero de fêtos, segundo Presl. (De
-asplênia) 204
+aspleniáceas |f.| pl. Gênero de fêtos, segundo Presl. (De asplênia)
 asplênio |m.| O mesmo que asplênia.
 asplenioide |adj.| Semelhante á asplênia.
 aspondı́lico |adj.| Que não tem natureza de vértebra. (De a priv. e espondýlico)
@@ -15148,7 +15146,7 @@ assam castanhas.
 assadura |f.| Acção de assar. Pedaço de carne assada, ou que póde assar-se de uma vez. * |Prov.| Pedaço de carne de porco, que se dá de presente por occasião da matança. * Prov. trasm. Lombo de porco. (B. lat. assatura)
 assafiado |adj.| trasm. Opprimido com trabalho. (De safio?) |Prov.| trasm. Opprimido com trabalho. (De safio?)
 assafio |m.| T. de Aveiro. O mesmo que safio.
-assalariação |f.| Acto de assalariar. Cf. Arn. Gama, Motim, 266.
+assalariação |f.| Acto de assalariar. Cf. Arn. Gama, Motim,
 assalariado |adj.| Que trabalha por salário.
 assalariador |m.| Aquelle que assalaria.
 assalariamento |m.| Acção de assalariar.
@@ -15276,7 +15274,7 @@ asserio |m.| Uva branca da Extremadura, Alentejo e Algarve.
 Adj. |Prov.| alent. Diz-se de certos legumes, quando são de bôa qualidade. (Cp. assario)
 assertivo |adj.| O mesmo que affirmativo.
 asserto |m.| O mesmo que affirmação. (Lat. assertum)
-assertoar |v. t.| Talhar, dispor (coletes, casacos, etc.), de fórma que uma banda se sobreponha a outra. (De sertum?) 206
+assertoar |v. t.| Talhar, dispor (coletes, casacos, etc.), de fórma que uma banda se sobreponha a outra. (De sertum?)
 assertor |m.| Des. Aquelle que assevera. (Lat. assertor)
 assertório |adj.| (V. assertivo)
 assertuar |v. t.| O mesmo ou melhor que assertoar.
@@ -15349,7 +15347,7 @@ assinável |adj.| Que se póde assinar.
 assindético |adj.| Que tem assı́ndeto, ou em que há assı́ndeto.
 assı́ndeton |m.| Suppressão da conjuncção copulativa entre phrases, ou entre partes de uma phrase. (Gr. |Gram.| Suppressão da conjuncção copulativa entre phrases, ou entre partes de uma phrase. (Gr. asundetos)
 assinergia |f.| Falta de energia.
-assingelar |v. t.| Tornar singelo, simplificar. Cf. Filinto, XI, 279.
+assingelar |v. t.| Tornar singelo, simplificar. Cf. Filinto, XI,
 assipôndio |m.| Moéda romana, de cobre. (Lat. assipondium)
 assiriano |adj.| O mesmo que assı́rico.
 assı́rico |adj.| Relativo á Assı́ria.
@@ -15445,7 +15443,7 @@ assonar-se |v. p.| Des. Reunir-se para fazer assuada. (Cp. lat. sonare)
 assonjo |m.| Ant. Catadupa. Cataracta.
 assono |m.| Planta indiana, o mesmo que mareta.
 assonsar |v. i.| Bras. do S. Abombar um pouco.
-assopeado |adj.| trasm. Acabrunhado. Afrontado. Perseguido por crèdores. (Cp. sopear) 208 |Prov.| trasm. Acabrunhado. Afrontado. Perseguido por crèdores. (Cp. sopear) 208
+assopeado |adj.| trasm. Acabrunhado. Afrontado. Perseguido por crèdores. (Cp. sopear) |Prov.| trasm. Acabrunhado. Afrontado. Perseguido por crèdores. (Cp. sopear)
 assopear |v. t.| O mesmo que sopear.
 assopradela |f.| Acção de assoprar.
 assoprador |m.| Aquelle que assopra.
@@ -15464,7 +15462,7 @@ assovinhar |v. t.| trasm. Coser mal, dando ponto |Prov.| trasm. Coser mal, dando
 aquém e ponto além, para apressar o trabalho. (Relacionase com assovinar ?)
 assuada |f.| Reunião de gente armada. Desordem; motim. Pessôas, que se agrupam, para a perpetração de um crime. Vozearia. Arruaça; gritaria insultuosa. (B. lat. assunata)
 assuar |v. t.| Des. Insultar com vaias. Amotinar para desordem ou crime. (B. lat. assunare)
-assubir |v. i.| O mesmo que subir. Cf. Castilho, Outono, 249.
+assubir |v. i.| O mesmo que subir. Cf. Castilho, Outono,
 assucceder |v. i.| Pop. e ant. O mesmo que succeder.
 assuceder |v. i.| Pop. e ant. O mesmo que suceder.
 assujeitar |v. t.| (e der.) (Fórma pop. de sujeitar, etc.)
@@ -15598,7 +15596,7 @@ astrocynológico |adj.| Relativo á astrocynologia.
 astrodendro |m.| O mesmo que estercúlia.
 astroderme |m.| Gênero de peixes.
 astrodinâmica |f.| Sciência das fôrças que movem os astros. (De astro + dynámica)
-astrodynâmica |f.| Sciência das fôrças que movem os astros. (De astro + dynámica) 210
+astrodynâmica |f.| Sciência das fôrças que movem os astros. (De astro + dynámica)
 astrofı́sica |f.| Fı́sica dos astros.
 astrofobia |f.| Medo mórbido dos relâmpagos e trovões. (Do gr. astron + phobein)
 astrófobo |m.| Aquelle que soffre astrofobia.
@@ -15719,7 +15717,7 @@ atafulhamento |m.| Acção de atafulhar.
 atafulhar |v. t.| Pop. Encher muito. (Corr. de atapulhar)
 ataganhar |v. t.| trasm. Afogar, apertando a garganta; estrangular. Tirar a respiração a, obstruindo a larynge. |Prov.| trasm. Afogar, apertando a garganta; estrangular. Tirar a respiração a, obstruindo a larynge.
 atagantar #,1 # |v. t.| Maltratar com tagante. Opprimir. |v. t.| O mesmo que atarantar. |Prov.| O mesmo que atarantar.
-ataimado |adj.| Fino? ardiloso?: “estes muito ataimados caem em piores atoleiros”. Aulegrafia, 63.atal 212
+ataimado |adj.| Fino? ardiloso?: “estes muito ataimados caem em piores atoleiros”. Aulegrafia, 63.atal
 atal |adv.| Ant. Sob condição; contanto que. (De a + tal)
 atalaia |f.| Sentinela, vigia. Ponto elevado, donde se vigia.atapulhar |v. t.| Meter tapulho em. Tapar. Encher muito.
 ataque |m.| Acçao de atacar. Investida; assalto. Injúria. Observação; precaução: estar de atalaia. * M. Homem que vigia. (Do ár. at-talia)
@@ -15770,7 +15768,7 @@ atardar |v. t.| Demorar, atrasar. Cf. Filinto, X, 261. (De tarde)
 atarefado |adj.| Occupado em tarefa. Azafamado.
 atarefar |v. t.| Dar tarefa a. Sobrecarregar de trabalho.
 ataroucado |adj.| Adoidado, apalermado. (De ataroucar)
-ataroucar |v. t.| Tornar idiota. Fazer tolamente: “fez um soneto chapado! assim os ataroucava eu...” Filinto, VIII, 49.
+ataroucar |v. t.| Tornar idiota. Fazer tolamente: “fez um soneto chapado! assim os ataroucava eu...” Filinto, VIII,
 atarracado |adj.| Baixo e grosso. Achaparrado.
 atarracar |v. t.| Preparar (ferradura), apertando-a com martelo. Apertar. Confundir, perturbar. (Do ár. at-taraca)
 atarrachador |m.| Instrumento, para atarrachar.
@@ -15847,7 +15845,7 @@ atempar |v. t.| Marcar prazo a. (De tempo)
 atemperar #,1 # |v. t.| (V. temperar) |v. i.| e p. Atempar; contemporizar: “como
 a graça do Senhor se atempera e acommoda ao nosso modo...”. Luz e Calor, 400.
 atenazar |v. t.| O mesmo que atazanar.
-atença #,1 # |f.| Confiança. Acção de ater-se. Cf. Filinto, XII, 254. |f.| Espera; expectativa: “...na attença de outras galas”. Filinto, XII, 254.
+atença #,1 # |f.| Confiança. Acção de ater-se. Cf. Filinto, XII, |f.| Espera; expectativa: “...na attença de outras galas”. Filinto, XII, 254.
 atenção |f.| Acto de applicar o espı́rito a. Cuidado. Estudo. Urbanidade: tratar alguém com atenção. (Lat. attentio)
 atenciosamente |adv.| De modo atencioso. Delicadamente, urbanamente.
 atencioso |adj.| Feito com atenção: estudo atencioso. Que presta atenção. Delicado, urbano.
@@ -15876,7 +15874,7 @@ applicado. (Lat. attentus)
 atenuação |f.| Acção de atenuar. (Lat. attenuatio)
 atenuadamente |adv.| Com atenuação.
 atenuante |adj.| Que atenua. |F.| Circunstância atenuante. (Lat. attenuans)
-atenuar |v. t.| Fazer tênue. Adelgaçar. Deminuir: atenuar necessidades. Debilitar. (Lat. attenuare)atenuativo 214
+atenuar |v. t.| Fazer tênue. Adelgaçar. Deminuir: atenuar necessidades. Debilitar. (Lat. attenuare)atenuativo
 atenuativo |adj.| Que serve para atenuar.
 atenuável |adj.| Que se póde atenuar.
 atequipera #,(pê)#  |f.| Variedade de pêra, também conhecidaatetósico |adj.| Relativo á atetose.
@@ -16057,7 +16055,7 @@ atolamento |m.| Acto de atolar.
 atolar |v. t.| Meter em atoleiros. Enterrar no lodo; atascar. (Cast. atollar)
 atoleco |adj.| Pop. O mesmo que atoleimado. Cf. Castilho, Sabichonas.
 atoledo |m.| Bras. do S. O mesmo que atoleiro.
-atoleimado |adj.| O mesmo que atolado 2 . 216
+atoleimado |adj.| O mesmo que atolado 2 .
 atoleimar-se |v. p.| Têr maneiras de tolo. (De toleima)
 atoleiro |m.| Lodaçal; pântano. Rebaixamento. Embaraço, de que é diffı́cil sair. (De atolar)
 atólico |adj.| (Fórma pop. de attónito)
@@ -16207,7 +16205,7 @@ atrever-se |v. p.| Têr ousadı́a. Afoitar-se. Arrostar: atreverse com um lobo.
 atreves-te |m.| trasm. Um jôgo de conca. |Prov.| trasm. Um jôgo de conca.
 atrevidaço |adj.| Pop. Muito atrevido.
 atrevidamente |adv.| De modo atrevido. Com atrevimento.
-atrevidas |f.| pl. Us. na |loc. adv.| ás atrevidas, atrevidamente: “mais ás claras e atrevidas”. Filinto, D. Man., II, 172.
+atrevidas |f.| pl. Us. na |loc. adv.| ás atrevidas, atrevidamente: “mais ás claras e atrevidas”. Filinto, D. Man., II,
 atrevidete #,(dê)#  |adj.| (Dem. fam. de atrevido)
 atrevido |adj.| Que se atreve. Ousado. Petulante. Insolente.
 atrevimento |m.| Petulância. Insolência. Acção de atreverse.
@@ -16319,12 +16317,12 @@ atulhadamente |adv.| Com atulhamento.
 atulhado |adj.| Entulhado, cheio.
 atulhamento |m.| Acto ou effeito de atulhar.atulhar
 atulhar |v. t.| O mesmo que entulhar.
-atulho |m.| Acto de atulhar ; atulhamento. Cf. Filinto, IX, 146.
+atulho |m.| Acto de atulhar ; atulhamento. Cf. Filinto, IX,
 atum |m.| Peixe, da fam. dos escômbridas. (Do lat. thunnus)
 atumultuador |m.| Aquelle que atumultua.
 atumultuar |v. t.| Pôr em tumulto; amotinar.
 atundir |v. t.| (V. contundir)
-atundo |m.| Espécie de gaiola africana. Cf. Serpa Pinto, I, 233.
+atundo |m.| Espécie de gaiola africana. Cf. Serpa Pinto, I,
 atuneira |f.| Dorna grande, para salgar atum.
 atupir |v. t.| (V. entupir)
 aturá |m.| Bras. do N. Grande cêsto cylı́ndrico, muito alto, para transporte de productos ruraes. (Do tupi)
@@ -16522,7 +16520,7 @@ ausia |f.| O mesmo que ousio. |Prov.| O mesmo que ousio.
 ausio |m.| T. de Lanhoso. Ausência. Solidão. Tristeza.
 auso |m.| (V. ousio) (Lat. ausus)
 ausões |m.| pl. Antigo povo da Itália. Ext. O mesmo que Italianos. (Lat. ausones)
-ausónio |adj.| O mesmo que itálico. Cf. Viriato Trág., XI, 31.
+ausónio |adj.| O mesmo que itálico. Cf. Viriato Trág., XI,
 auspicar |v. t.| Des. Prognosticar; predizer. (Lat. auspicari)
 áuspice |m.| Áugure; arúspice. (Lat. auspex)
 auspiciar |v. t.| Fazer auspı́cio de; prognosticar, augurar.
@@ -16672,7 +16670,7 @@ automaticamente |adv.| De modo automático.
 automático |adj.| Inconsciente, próprio de autómato: movimento automático.
 automatismo |m.| (V. automatia)
 automatista |m.| O mesmo que automatário.
-automatizar |v. t.| Tornar automático. Cf. Museu Techn., 21.
+automatizar |v. t.| Tornar automático. Cf. Museu Techn.,
 autómato |m.| Figura, que imita os movimentos dos seres
 animados. Maquinismo, posto em movimento por meios mecânicos. Pessôa inconsciente, cujos actos obedecem á vontade alheia ou não são precedidos de reflexão. (Gr. automatos)
 automaturgo |m.| (V. automatário)
@@ -16785,7 +16783,7 @@ avaliação |f.| Apreciação. Valor, determinado por quem avalia: avaliação d
 avaliador |m.| Aquelle que avalia.
 avaliamento |m.| O mesmo que avaliação.
 avaliança |f.| Ant. O mesmo que avaliação.
-avaliar |v. t.| Determinar a valia ou o valor de: avaliar um relógio. Apreciar o merecimento de: avaliar um escritor. Reconhecer a força de. Estimar; calcular. (De valı́a) 226
+avaliar |v. t.| Determinar a valia ou o valor de: avaliar um relógio. Apreciar o merecimento de: avaliar um escritor. Reconhecer a força de. Estimar; calcular. (De valı́a)
 avalladar |v. t.| Rodear com vallados.
 avaluar |v. t.| (e der.) O mesmo que avaliar, etc.
 avambraços |m.| pl. Parte da antiga armadura, para livrar dos golpes os braços. (Do fr. avant + bras)
@@ -16908,7 +16906,7 @@ avença |f.| Ajuste: o taberneiro pagou por avença a contribuição. Conciliaç
 avençadura |f.| Náut. ant. Enxárcia real.
 avençal m., |f.| Pessôa, que está avençada. (De avença) |adj.| Pessôa, que está avençada. (De avença)
 avencão |m.| Gênero de plantas, da mesma fam. da avenca.
-avençar |v. i.| Fazer contracto de avença. |V. p.| Obrigar-se por avença: avençar-se com a Companhia das Aguas. 228
+avençar |v. i.| Fazer contracto de avença. |V. p.| Obrigar-se por avença: avençar-se com a Companhia das Aguas.
 averdugada |f.| Ant. Sáia larga, com arcos. Crinolina; merinaque.
 averdugado |adj.| alent. Flexı́vel; que se dobra facilmente. (De averdugar) |Prov.| alent. Flexı́vel; que se dobra facilmente. (De averdugar)
 averdugar |v. i.| alent. Sêr flexı́vel. Vergar ao pêso da fruta, (falando-se de árvores). (De verde) |Prov.| alent. Sêr flexı́vel. Vergar ao pêso da fruta, (falando-se de árvores). (De verde)
@@ -16973,7 +16971,7 @@ avessas. (De avesso)
 avessedo #,(sê)# |m.| trasm. Encosta de montanha, do lado do norte. (Cp. avesso. V. soalheiro) |Prov.| trasm. Encosta de montanha, do lado do norte. (Cp. avesso. V. soalheiro)
 avesseiro |adj.| dur. Diz-se do terreno, húmido ou frio, em que não dá o sol. (Cp. avessedo e abicheiro)229 |Prov.| dur. Diz-se do terreno, húmido ou frio, em que não dá o sol. (Cp. avessedo e abicheiro)229
 avessia |f.| Qualidade do que é avesso.
-avessidade |f.| Qualidade de avesso. Cf. Alex. Lobo, III, 311.
+avessidade |f.| Qualidade de avesso. Cf. Alex. Lobo, III,
 avesso #,(vê)#  |m.| A parte opposta á superfı́cie ou parte principal de um objecto. O que há de occulto num carácter. Reverso. O lado mau. Defeito; êrro. |Adj.| Contrário. Opposto ao que deve sêr. Mau. (Lat. adversus)
 avestruz |f.| (m., segundo outros) Grande ave, da ordem das pernaltas. (Do lat. avis + struthio)
 avetoninha |f.| O mesmo que abibe. |Prov.| O mesmo que abibe.
@@ -16982,7 +16980,7 @@ avezadamente |adv.| Por vezo. (De avesado)
 avezado |adj.| Acostumado, habituado.
 avezamente |adv.| O mesmo que avezadamente. Cf. Filinto, D. Man., I, 61.
 avezar #,1 # |v. t.| Produzir vezo em; acostumar. |V. p.| Adquirir vezo, acostumar-se: avezou-se a dormir muito. * |Prov.| trasm. Apparecer, estar presente. |v. t.| Gı́r. Têr, possuir: não aveza cheta. (Alter. de haver)
-avezimão |m.| Ant. Avejão? abantesma? Cf. G. Vicente, I, 254.
+avezimão |m.| Ant. Avejão? abantesma? Cf. G. Vicente, I,
 avezinha |f.| (Dem. de ave)
 aviação |f.| Navegação aérea. (Fr. aviation, do lat. avis)
 aviado |m.| Bras. Negociante por conta alheia. Mascate, que, por conta dos negociantes da costa, vai fazer negócio no sertão.–É também t. afr. Cf. Capello, Benguella, I, 15, 17, 363. (De aviar)
@@ -17028,7 +17026,7 @@ aviltoso |adj.| Que avilta. Cf. Filinto, XVIII, 247.
 avinagradamente |adv.| Com azedume; de modo avinagrado.
 avinagrado |adj.| Que tem vinagre. Temperado com vinagre. Azêdo.
 avinagrar |v. t.| Temperar com vinagre. Dar sabor de vinagre a. Azedar. Irritar. Constranger.
-avincar |v. t.| O mesmo que vincar. Cf. Crespo, Nocturnos, 132.
+avincar |v. t.| O mesmo que vincar. Cf. Crespo, Nocturnos,
 avincu |m.| T. da Guarda. O mesmo que pyrilampo.
 avincular |v. t.| O mesmo que vincular. Cf. Filinto, D. Man., I, 143.
 avindador |adj.| Ant. Avindor. (De avindo)
@@ -17043,7 +17041,7 @@ avir |v. t.| Ajustar; acordar em; combinar. |V. i.| * Ant. Succeder; acontecer. 
 avisadamente |adv.| Com acêrto. (De avisar)
 avisado |adj.| Prudente, discreto, ajuizado. Que tomou uma resolução. (De aviso 2)
 avisador |m.| O que avisa. |adj.| O que avisa.
-avisamento |m.| Ant. Parecer; conselho. Precaução. Provisão. O mesmo que aviso: “dai avisamento a todos que çarrem muito bem as portas”. Azurara, Crón. de D. João I, C. LXXII.avisança 230
+avisamento |m.| Ant. Parecer; conselho. Precaução. Provisão. O mesmo que aviso: “dai avisamento a todos que çarrem muito bem as portas”. Azurara, Crón. de D. João I, C. LXXII.avisança
 avisança |f.| Ant. O mesmo que aviso.
 avisar |v. t.| Noticiar, annunciar; fazer saber. (Do b. lat.avoengo adj. Que procede dos avós: relativo aos avós. advisare)
 aviso #,1 # |m.| Acto de avisar. Embarcação, para troca de communicações ou para descobrimento dos inimigos. |m.| Opinião; conceito. Conselho. (Do lat. ad + visum)
@@ -17063,7 +17061,7 @@ avivar o passo. Realçar. Guarnecer de vivos.
 aviventador |m.| Aquelle que aviventa. |Adj.| Que aviventa.
 aviventar |v. t.| Fomentar a vida em. Reanimar; fortalecer. (De vivo)
 avizinhamento |m.| Acção de avizinhar.
-avizinhar |v. t.| Tornar vizinho; aproximar. Confinar com. * |V. i.| Aproximar-se. Confinar. Cf. Garrett, Romanc., I, 48.
+avizinhar |v. t.| Tornar vizinho; aproximar. Confinar com. * |V. i.| Aproximar-se. Confinar. Cf. Garrett, Romanc., I,
 avó |f.| Mãe do pae ou da mãe. (Do lat. hyp. abola. Cf. cast. abuela)
 avóa |f.| Ant. O mesmo que avó.
 avoaçar |v. i.| (V. esvoaçar)
@@ -17085,8 +17083,8 @@ avoenga |f.| Ant. Herança. Direito de succeder em bens de
 ascendentes. (De avoengo)
 avoengado |adj.| Relativo a avoengos. Próprio de tempos
 afastados. Cf. Filinto, D. Man., I, 324.avogacia |f.| Ant. O mesmo que advocacia. Cf. Luz e Calor,
-Avito. |M.| pl. Antepassados. (De avô) 524.
-avogado |m.| Ant. O mesmo que advogado. Cf. Eufrosina, 36.
+Avito. |M.| pl. Antepassados. (De avô)
+avogado |m.| Ant. O mesmo que advogado. Cf. Eufrosina,
 avogar |v. t. e i.| Ant. O mesmo que advogar. Cf. B. Pereira, Prosódia, vb. sophocles.
 avol |adj.| Ant. O mesmo que mau. Cf. Port. Mon. Hist., Script., 248 e 249.
 avolumar |v. t.| Aumentar em volume. Tornar maior. Aumentar. Engrandecer.
@@ -17221,7 +17219,7 @@ azebrar |v. t.| Cobrir de azebre.
 azebre #,(zê)#  |m.| Aloés. Mistura de hydrato e de carbonato de cobre, que se fórma na superfı́cie dos objectos de cobre, por effeito da humidade do ar ou dos liquidos; verdete. Pop. Finura. Malicia: gaiatice. (Do ár. aç-cibrar)
 azeche |m.| Terra escura, também chamada terra de Sevilha. Cp. terra. (Do ár. az-zej)
 azêda |f.| Designação de várias plantas oxalı́deas. Planta hortı́cola, de gôsto ácido, de que se extrai o chamado salde-azêdas. (De azêdo)
-azêda-brava |f.| Planta africana, de fôlhas comestı́veis, que 232 habita terrenos arenosos.
+azêda-brava |f.| Planta africana, de fôlhas comestı́veis, que habita terrenos arenosos.
 azedador |m.| Aquelle que azéda. |Adj.| Que azéda.
 azedamente #,(zê)#  |adv.| Com azedume. (De azêdo)
 azedamento |m.| Effeito de azedar.
@@ -17317,7 +17315,7 @@ aziúme |m.| Azedia. Má disposição de espı́rito. (Alter. de azedume)
 azmo |adj.| Pop. O mesmo que ázymo.
 azoada |f.| O mesmo que azoamento. Cf. Filinto, X, 134.
 azoado |adj.| Atordoado. Zangado. (De azoar)
-azoamento |m.| Acto de azoar. Cf. Filinto, IX, 106; XIX, 78.
+azoamento |m.| Acto de azoar. Cf. Filinto, IX, 106; XIX,
 azoar |v. t.| Atordoar. Enfadar; tornar zangado. * |V. i.| Zangar-se. (Do lat. ad-sonare)
 azodol |m.| Preparação chı́mica, espécie de pasta, para limpar os dentes.
 azoico |adj.| Geol. Que não é fossilı́fero, (falando-se de terrenos primitivos, isto é, formados antes dos seres organizados, embora em alguns terrenos, denominados azoicos, tenham apparecı́do vestı́gios do corpos organizados). (Do gr. a priv. + zoon)
