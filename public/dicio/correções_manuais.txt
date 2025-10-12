@@ -3,26 +3,26 @@ A13 a.c. abrev. (que acompanha certas datas, significando: antes
 A15 acerca loc. prep. (seg. da prep. de) A respeito de; relati-
 A17 afinal adv. Em-fim, finalmente. (De final )
 A18 a.m. Abrev. muito us. em cálculos astronómicos, e que
-A23 a cântaros loc. adv. Copiosamente, com abundância.
-A24 à cima loc. adv. Ant. Por fim, afinal.
-A25 à clara f. Loc. adv. Des. O mesmo que 'às claras'.
+A23 a_cântaros loc. adv. Copiosamente, com abundância.
+A24 à_cima loc. adv. Ant. Por fim, afinal.
+A25 à_clara f. Loc. adv. Des. O mesmo que 'às claras'.
 A29 ademais adv. e prep. Além. Demais.
-A30 à derradeira loc. adv. Ant. Em-fim, a final.
-A31 a deshoras loc. adv. (ver desoras)
-A32 a desoras loc. adv. Tarde. Inopportunamente.
-A33 à dica loc. adv. Gı́r. Perto. Donde se vê bem. (Cp. adicar )
-A34 a feito loc. adv. Prov. minh. A eito, a fio, seguidamente.
-A35 a flux, (aflus) loc. adv. Em abundância. Totalmente. (De
-A37 a froixo Loc. adv. O mesmo que 'a flux'.
-A38 à futelifate loc. adv. Prov. extrem. Des. Furtivamente,
-A48 a lugares loc. adv. Ant. Parcialmente.
-A51 a nado loc. adv. Nadando (Passar um rio a nado.)
-A52 a par loc. prep. Junto; ao lado; ao pé: passou a-par êlle. *
+A30 à_derradeira loc. adv. Ant. Em-fim, a final.
+A31 a_deshoras loc. adv. (ver desoras)
+A32 a_desoras loc. adv. Tarde. Inopportunamente.
+A33 à_dica loc. adv. Gı́r. Perto. Donde se vê bem. (Cp. adicar )
+A34 a_feito loc. adv. Prov. minh. A eito, a fio, seguidamente.
+A35 a_flux, (aflus) loc. adv. Em abundância. Totalmente. (De
+A37 a_froixo Loc. adv. O mesmo que 'a flux'.
+A38 à_futelifate loc. adv. Prov. extrem. Des. Furtivamente,
+A48 a_lugares loc. adv. Ant. Parcialmente.
+A51 a_nado loc. adv. Nadando (Passar um rio a nado.)
+A52 a_par loc. prep. Junto; ao lado; ao pé: passou a-par êlle. *
 A55 aparte M. Interrupção; palavra ou
 A57 (De parte). Não confundir com a loc.adv. 'à parte', que significa: Separadamente.
-A60 a primas loc. adv. Ant. Em primeiro lugar.
-A61 a propósito loc. adv. Em occasião opportuna; convenien-
-A63 à qui-qui, (cu-i-cu-i ) adv. Chul. Isso mesmo, exacta-
-A65 a tempo loc. adv. Opportunamente. Em bôa hora. M.
-A67 à tôa loc. adv. Sem reflexão. Ao acaso.
-A68 à xis m. Ant. O abecê, o princı́pio das coisas: “farteei tornar
+A60 a_primas loc. adv. Ant. Em primeiro lugar.
+A61 a_propósito loc. adv. Em occasião opportuna; convenien-
+A63 à_qui-qui, (cu-i-cu-i ) adv. Chul. Isso mesmo, exacta-
+A65 a_tempo loc. adv. Opportunamente. Em bôa hora. M.
+A67 à_tôa loc. adv. Sem reflexão. Ao acaso.
+A68 à_xis m. Ant. O abecê, o princı́pio das coisas: “farteei tornar

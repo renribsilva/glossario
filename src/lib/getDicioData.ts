@@ -25,6 +25,7 @@ import X from "../json/dicioJson/X.json";
 import Y from "../json/dicioJson/Y.json";
 import Z from "../json/dicioJson/Z.json";
 import { dicioData } from "../types";
+import { ni } from "./normalizedEntry";
 
 let DICIO_JSON_CACHE: Record<string, Record<string, string>> | null = null;
 
@@ -35,22 +36,31 @@ function carregarDicioJson(): Record<string, Record<string, string>> {
   return DICIO_JSON_CACHE;
 }
 
-export function getDicioData(termo: string): dicioData | null {
+export function getDicioData(lastRaw: string, prevLastRaw?: string): dicioData | null {
 
-  if (/^[\u0300-\u036f]+$/.test(termo) || termo === undefined) return null
-  const termoNorm = termo.toLowerCase().normalize("NFC")
+  if (/^[\u0300-\u036f]+$/.test(lastRaw) || lastRaw === undefined) return null
+  const lastRawNorm = lastRaw.toLowerCase().normalize("NFC")
   const DICIO_JSON = carregarDicioJson();
 
   // percorre cada letra
   for (const letraObj of Object.values(DICIO_JSON)) {
     // percorre cada entrada dentro da letra
     for (const [entrada, valor] of Object.entries(letraObj)) {
-      const entradaNorm = entrada.split(" ")
-      if (entradaNorm[entradaNorm.length - 1] === termoNorm) {
-        return {
-          verbete: entrada, 
-          definição: valor
-        };
+      const entradaArray = entrada.split(' ')
+      if (entradaArray.length === 2 && prevLastRaw) {
+        console.log(`${prevLastRaw} ${lastRaw}`)
+        if (ni(entrada) === ni(`${prevLastRaw} ${lastRaw}`))
+          return {
+            verbete: entrada, 
+            definição: valor
+          };
+      } else if (entradaArray.length === 1) {
+        if (entrada === lastRawNorm) {
+          return {
+            verbete: entrada, 
+            definição: valor
+          };
+      }
       }
     }
   }

@@ -2,6 +2,7 @@ export const initialFlowObject = {
   input: undefined,
   inputNorm: undefined,
   inputRaw: undefined,
+  inputPrevRaw: undefined,
   inputFullText: undefined,
   showGlosaDef: false,
   showAnalogDef: false,

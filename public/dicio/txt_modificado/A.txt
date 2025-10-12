@@ -8,34 +8,34 @@ afinal |adv.| Em-fim, finalmente. (De final)
 a.m. |Abrev.| muito us. em cálculos astronómicos, e que designa ante meridiem, (antes do meio dia).
 á! |interj.| (design. de admiração, dôr, alegria, etc.) (T. commum a muitas lı́nguas)
 á! á! á! |interj.| (correspondente ao riso franco, á gargalhada)
-a cântaros |loc. adv.| Copiosamente, com abundância.
-à cima |loc. adv.| Ant. Por fim, afinal.
-à clara |f.| Des. O mesmo que 'às claras'. |Loc. adv.| Des. O mesmo que 'às claras'.
+a_cântaros |loc. adv.| Copiosamente, com abundância.
+à_cima |loc. adv.| Ant. Por fim, afinal.
+à_clara |f.| Des. O mesmo que 'às claras'. |Loc. adv.| Des. O mesmo que 'às claras'.
 a-d’el-rei |m.| Grito de soccorro, o mesmo que aqui-d’el-rei: “os a-d’el-reis rara noite se não ouviam”. Camillo, Cavar em Ruin., 222.
 ademais |adv.| Além. Demais. |prep.| Além. Demais.
-à derradeira |loc. adv.| Ant. Em-fim, a final.
-a deshoras |loc. adv.| (ver desoras)
-a desoras |loc. adv.| Tarde. Inopportunamente.
-à dica |loc. adv.| Gı́r. Perto. Donde se vê bem. (Cp. adicar)
-a feito |loc. adv.| minh. A eito, a fio, seguidamente. |Prov.| minh. A eito, a fio, seguidamente.
-a flux, (aflus) |loc. adv.| Em abundância. Totalmente. (De fluxo)
-a froixo |Loc. adv.| O mesmo que 'a flux'.
-à futelifate |loc. adv.| extrem. Des. Furtivamente, subrepticiamente, ás escondidas. (Dizem sêr talvez contr. e alter. de furta-lhe o fato) |Prov.| extrem. Des. Furtivamente, subrepticiamente, ás escondidas. (Dizem sêr talvez contr. e alter. de furta-lhe o fato)
+à_derradeira |loc. adv.| Ant. Em-fim, a final.
+a_deshoras |loc. adv.| (ver desoras)
+a_desoras |loc. adv.| Tarde. Inopportunamente.
+à_dica |loc. adv.| Gı́r. Perto. Donde se vê bem. (Cp. adicar)
+a_feito |loc. adv.| minh. A eito, a fio, seguidamente. |Prov.| minh. A eito, a fio, seguidamente.
+a_flux #,(aflus)#  |loc. adv.| Em abundância. Totalmente. (De fluxo)
+a_froixo |Loc. adv.| O mesmo que 'a flux'.
+à_futelifate |loc. adv.| extrem. Des. Furtivamente, subrepticiamente, ás escondidas. (Dizem sêr talvez contr. e alter. de furta-lhe o fato) |Prov.| extrem. Des. Furtivamente, subrepticiamente, ás escondidas. (Dizem sêr talvez contr. e alter. de furta-lhe o fato)
 a-l’obra! |loc. interj.| Mãos á obra! Trabalhemos! Cf. Castilho, Fausto, 197. (Contr. de a la obra)
 a-la-grande |loc. adv.| Ant. Á grande, com grandeza; ostentosamente. Cf. Filinto, D. Manuel, III, 212.
 a-la-una |adv.| Á uma. Juntamente. * |M.| alent. Jôgo de rapazes, em que se emprega o salto e certos estribilhos. (Loc. cast.) |Prov.| alent. Jôgo de rapazes, em que se emprega o salto e certos estribilhos. (Loc. cast.)
-a lugares |loc. adv.| Ant. Parcialmente.
+a_lugares |loc. adv.| Ant. Parcialmente.
 a-miúdo |adv.| (Corr. de amiúde). Cf. Camillo, Retr. de Ricard., 11.
-a nado |loc. adv.| Nadando (Passar um rio a nado.)
-a par |loc. prep.| Junto; ao lado; ao pé: passou a-par êlle. * |Loc. adv.| Parallelamente. Ao lado um do outro: os dois passaram a-par. (De a + par)
+a_nado |loc. adv.| Nadando (Passar um rio a nado.)
+a_par |loc. prep.| Junto; ao lado; ao pé: passou a-par êlle. * |Loc. adv.| Parallelamente. Ao lado um do outro: os dois passaram a-par. (De a + par)
 aparte |M.| Interrupção; palavra ou phrase, pronunciada emquanto outrem está discursando. (De parte). Não confundir com a loc.adv. 'à parte', que significa: Separadamente.
 á-pela-manhan |adv.| trasm. O mesmo que amanhan. |Prov.| trasm. O mesmo que amanhan.
-a primas |loc. adv.| Ant. Em primeiro lugar.
-a propósito |loc. adv.| Em occasião opportuna; convenientemente; a talho de foice.
-à qui-qui, (cu-i-cu-i) |adv.| Chul. Isso mesmo, exactamente.
-a tempo |loc. adv.| Opportunamente. Em bôa hora. |M.| Opportunidade, ensejo.
-à tôa |loc. adv.| Sem reflexão. Ao acaso.
-à xis |m.| Ant. O abecê, o princı́pio das coisas: “farteei tornar
+a_primas |loc. adv.| Ant. Em primeiro lugar.
+a_propósito |loc. adv.| Em occasião opportuna; convenientemente; a talho de foice.
+à_qui-qui #,(cu-i-cu-i)#  |adv.| Chul. Isso mesmo, exactamente.
+a_tempo |loc. adv.| Opportunamente. Em bôa hora. |M.| Opportunidade, ensejo.
+à_tôa |loc. adv.| Sem reflexão. Ao acaso.
+à_xis |m.| Ant. O abecê, o princı́pio das coisas: “farteei tornar
 ao axis”. Chiado, Obras, 187. “Quando V. |M.| pegou no a. x., já eu tinha de cór...” J. Daniel, Casa de Pasto.
 aa #,(ás)#  |m.| pl. Caracteres, que pluralizam a representação phonética da primeira letra do alphabeto.
 aacima |adv.| Ant. Finalmente; em conclusão.

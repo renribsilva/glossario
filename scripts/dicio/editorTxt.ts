@@ -197,7 +197,7 @@ function editarArquivoComPipe() {
     .replace(/\s\)/g, ')')
     .replace(/\(\s/g, '(')
     .replace(
-      /^([\p{L}\p{M}0-9-]+),(\s*\d+\s*)?\s*(\(\s*[^)]*?\s*\))?/gu,
+      /^([\p{L}\p{M}0-9-_]+),(\s*\d+\s*)?\s*(\(\s*[^)]*?\s*\))?/gu,
       (match, p1, numero, parens) => {
         // console.log(match)
         if (numero && parens) {

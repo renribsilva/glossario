@@ -83,21 +83,13 @@ export function handleHomeState() {
     }
 
     let lastRaw = raw[raw.length - 1];
-    // Se o último caractere for diacrítico, compõe NFC com o próximo
-    if (lastRaw) {
-      const lastChar = lastRaw[lastRaw.length - 1];
-      // Testa se é um diacrítico isolado
-      if (lastChar.normalize('NFD').match(/[\u0300-\u036f]/)) {
-        // Junta com a próxima palavra
-        const secondLast = raw[raw.length - 2] || "";
-        const compound = (secondLast + lastRaw).normalize('NFC');
-        lastRaw = compound[compound.length-1]
-      }
-    }
+    let prevLastRaw = raw[raw.length - 2];
     // console.log("last:", lastRaw)
+    // console.log("last:", prevLastRaw)
     setState(prev =>({
       ...prev,
       inputRaw: lastRaw,
+      inputPrevRaw: prevLastRaw,
       inputNorm: ni(validWords[validWords.length - 1]),
       inputFullText: fullText
     }))
@@ -361,7 +353,7 @@ export function handleHomeState() {
 
   useEffect(() => {
 
-    const dicioData = getDicioData(state.inputRaw)
+    const dicioData = getDicioData(state.inputRaw, state.inputPrevRaw)
     setState (prev => ({
       ...prev,
       dicioData: dicioData
