@@ -105,7 +105,7 @@ export default function HomePage() {
                     {!partes && (state.inputRaw === undefined || state.inputRaw === '') && (
                       <div>
                         <span>
-                          Aqui é mostrado o verbete da última palavar digitada, se houver
+                          Aqui é mostrado o verbete da última palavra digitada, se houver
                         </span>
                       </div>
                     )}
