@@ -140,18 +140,19 @@
 }
 
 .palavras_button_title :hover{
-  background-color: var(--panels) !important;
+  /* background-color: var(--panels) !important; */
   color:var(--foreground)!important;
   cursor: pointer;
 }
 
 .palavras_button_child.active {
-  background-color: var(--panels) !important;
-  color:var(--foreground)!important;
+  background-color: var(--grid);
+  color:var(--foreground)
 }
 
 .palavras_button_child.inactive {
-  background-color: var(--grid)
+  background-color: var(--grid);  
+  color:rgba(197, 145, 76, 0.493)
 }
 
 /*PARTE INFERIOR DE PALAVRAS*/
@@ -262,7 +263,7 @@
   flex: 1;
   height: 100%;  
   min-width: 0; 
-  padding: 5px;
+  padding: 10px;
 
 }
 
