@@ -1,11 +1,6 @@
 import fs from 'fs';
 import path from 'path';
 
-// Função auxiliar para remover tudo entre #...#
-function limparHashes(linha: string) {
-  return linha.replace(/#.*?#/g, '').trim();
-}
-
 function editarArquivoComPipe() {
 
   const inputTxt = "txt_original"
@@ -255,37 +250,6 @@ function editarArquivoComPipe() {
       linhasEditadas[i - 1] = linhasEditadas[i - 1].trimEnd() + ' ' + linhaAtual;
       linhasEditadas.splice(i, 1); // Remove a linha atual
       i--; // Volta uma posição para continuar checando
-    }
-  }
-
-  // Sobe linhas que a 2ª unidade não começa com |
-  for (let i = 0; i < linhasEditadas.length; i++) {
-    const linhaAtual = linhasEditadas[i].trim();
-    const primeiroEspaco = linhaAtual.indexOf(' ');
-    const depois = linhaAtual.slice(primeiroEspaco);
-    if (!depois.trim().startsWith("|")) {
-      linhas[i - 1] = linhas[i - 1].trimEnd() + ' ' + linhaAtual;
-      linhas.splice(i, 1);
-      i--;
-    }
-  }
-
-  // Sobe linhas cujas as entradas são iguais
-  for (let i = 1; i < linhasEditadas.length; i++) {
-    // Pega tudo antes do primeiro pipe e limpa hashes
-    const linhaAtual = limparHashes(linhasEditadas[i].split('|')[0]);
-    const linhaAnterior = limparHashes(linhasEditadas[i - 1].split('|')[0]);
-
-    if (linhaAtual === linhaAnterior) {
-      // Pega a parte **após o prefixo repetido**, incluindo o pipe
-      const aposPrefixo = linhasEditadas[i].substring(linhasEditadas[i].indexOf('|'));
-
-      // Concatena na linha anterior
-      linhasEditadas[i - 1] = linhasEditadas[i - 1].trimEnd() + ' ' + aposPrefixo.trim();
-
-      // Remove a linha atual
-      linhasEditadas.splice(i, 1);
-      i--; // volta uma posição para continuar checando
     }
   }
 
