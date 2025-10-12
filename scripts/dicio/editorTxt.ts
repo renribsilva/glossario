@@ -126,7 +126,6 @@ function editarArquivoComPipe() {
 
   //TERCEIRO TRATAMENTO
 
-  // Colocar os pipes
   const prefixosList = [
     ' loc. adv. ', ' loc. conj. ', ' loc. prep. ', ' loc. pron. ',
     ' loc. interj. ', ' m. ', ' f. ', ' v. t. e i. ', ' v. t. ', ' v. i. ', ' v. p. ',
@@ -149,6 +148,7 @@ function editarArquivoComPipe() {
     const antes = linha.slice(0, primeiroEspaco + 1).replace("...", "");
     let depois = linha.slice(primeiroEspaco);
 
+    // Colocar os pipes
     for (const prefixo of prefixos) {
       const prefixTrim = prefixo.toLocaleLowerCase().trim();
       const regex = new RegExp(`(?<!\\|)\\s${prefixTrim}\\s(?!\\|)`, 'gi');
@@ -163,18 +163,13 @@ function editarArquivoComPipe() {
     .replace(
       /^([\p{L}\p{M}0-9-_]+),(\s*\d+\s*)?\s*(\(\s*[^)]*?\s*\))?/gu,
       (match, p1, numero, parens) => {
-        // console.log(match)
         if (numero && parens) {
-          // Número + parênteses
           return `${p1} #,${numero} ${parens}# `;
         } else if (numero) {
-          // Só número
           return `${p1} #,${numero}# `;
         } else if (parens) {
-          // Só parênteses
           return `${p1} #,${parens}# `;
         } else {
-          // fallback
           return match;
         }
       }
