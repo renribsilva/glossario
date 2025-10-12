@@ -30,7 +30,7 @@ labello |m.| Pequeno lábio. Bot. Segmento inferior de um invólucro floral. (La
 labelo |m.| Pequeno lábio. Bot. Segmento inferior de um invólucro floral. (Lat. labellum)
 labéo |f.| Mancha na reputação; desdoiro; deshonra. (Do lat. hyp. labellum, de labes)
 labéu |f.| Mancha na reputação; desdoiro; deshonra. (Do lat. hyp. labellum, de labes)
-lábia #,1 # |f.| Astúcia; ronha; manha; solércia. Falas mellı́fluas ou adocicadas, para captar agrado ou favores. (Parece relacionar-se com o vocabulário dos ciganos em França) |Fam.| Astúcia; ronha; manha; solércia. Falas mellı́fluas ou adocicadas, para captar agrado ou favores. (Parece relacionar-se com o vocabulário dos ciganos em França)
+lábia #,1 # |f.| Fam. Astúcia; ronha; manha; solércia. Falas mellı́fluas ou adocicadas, para captar agrado ou favores. (Parece relacionar-se com o vocabulário dos ciganos em França)
 lábia #,2 # |f.| T. de Vianna. O mesmo que relicário.
 labiadas |f.| pl. Bot. Famı́lia de plantas, de corollas monopétalas. (De labiado)
 labiado |adj.| Hist. Nat. Que tem fórma de lábio; que é formado de lábios.
@@ -124,7 +124,7 @@ lacaiesco #,(ês)# |adj.| Relativo a lacaio; próprio de lacaio. Cf. Castilho, D
 lacaio #,1 # |m.| Criado, que acompanha o amo, com libré ou sem ella. * Trintanário ou criado, que vai ao lado do cocheiro ou na traseira da sege. * Casta de uva. Fig. Homem desprezı́vel. * Homem servil, amouco. (Cp. fr. laquais)
 lacaio #,2 # |m.| Prov. trasm. O mesmo que lacrau. (Colhido em |V. P.| de Aguiar)
 lacanhal |m.| Prov. trasm. O mesmo que atoleiro. (Cp. lacoso)
-lacão |m.| Ant. e |prov.| O mesmo que presunto. * Pernil de porco.
+lacão |m.| Ant. e prov. O mesmo que presunto. * Pernil de porco.
 laçar |v. t.| Prender com laço. Fazer laço em. Enlaçar.
 laçarada |f.| Conjunto de laços para enfeite.
 lacı́nula
@@ -270,7 +270,7 @@ lada #,1 # |f.| Corrente navegável. Pequena corrente. Ant. Beira do rio, margem
 lada #,2 # |f.| Planta, o mesmo que estevão. (Lat. lada)
 ladaı́nha |f.| Oração, em que se invoca a Vı́rgem ou os santos, pelos seus nomes ou attributos symbólicos. Fig. Relação fastidiosa; lenga-lenga. (Do lat. litania)
 ladrão
-ladairo |m.| Procissão de penitência, por voto a algum santuário; clamor, cı́rio. * |Prov.| minh. Parlenga, aranzel. (Port. ant. ledaairo, do lat. hyp. litanarius, de litania)
+ladairo |m.| Procissão de penitência, por voto a algum santuário; clamor, cı́rio. * Prov. minh. Parlenga, aranzel. (Port. ant. ledaairo, do lat. hyp. litanarius, de litania)
 ladam |m.| Planta, o mesmo que ládano e lada 2 . (Lat. ladanus)
 ladania |f.| Fórma obsoleta de ladaı́nha. Cf. Frei Fortun., Inéditos, 309.
 ladanı́fero |adj.| Que produz ládano. (Do lat. ladanum + ferre)
@@ -298,9 +298,9 @@ ladrado |m.| Pop. O mesmo que latido. Fig. Maledicência. (De ladrar )
 ladrador |adj.| Que ladra. |M.| Aquelle que ladra. (Lat.
 latrator )
 ladradura |f.| O mesmo que latido. (De ladrar 1 )
-ladral |m.| Prov. minh. Cada um dos dois costaes de madeira, que se levantam sôbre a cheda, para conducção de objectos mais ou menos soltos, como espigas de milho, batatas, etc. |Prov.| trasm. O mesmo que taipal. (Do lat. lateralis)
+ladral |m.| Prov. minh. Cada um dos dois costaes de madeira, que se levantam sôbre a cheda, para conducção de objectos mais ou menos soltos, como espigas de milho, batatas, etc. Prov. trasm. O mesmo que taipal. (Do lat. lateralis)
 ladrante |adj.| Que ladra. (Do lat. latrans)
-ladrão |adj.| Que furta ou rouba. |M.| Aquelle que furta ou rouba. Fig. Tratante. Biltre. Homem sem consciência. |Fam.| Brejeiro, maganão. Agr. Rebento vegetal, que prejudica o desenvolvimento da planta, roubando-lhe parte daladrar,1 seiva. * |Prov.| alent. Abertura na levada do moı́nho, por onde se escôa a água que sobeja. * |Prov.| alent. Baile de roda e espectivo canto. * Morrão de torcida, que se inclina acceso para um dos lados da vela, consumindo-a nesse ponto, com prejuı́zo. (Do lat. latro)
+ladrão |adj.| Que furta ou rouba. |M.| Aquelle que furta ou rouba. Fig. Tratante. Biltre. Homem sem consciência. |Fam.| Brejeiro, maganão. Agr. Rebento vegetal, que prejudica o desenvolvimento da planta, roubando-lhe parte daladrar,1 seiva. * Prov. alent. Abertura na levada do moı́nho, por onde se escôa a água que sobeja. * Prov. alent. Baile de roda e espectivo canto. * Morrão de torcida, que se inclina acceso para um dos lados da vela, consumindo-a nesse ponto, com prejuı́zo. (Do lat. latro)
 ladrar #,1 # |v. i.| Dar latidos. Fig. e pop. Gritar desentoadamente. (Lat. latrare)
 ladrar #,2 # |v. i.| Ant. Fazer alarde ou ostentação de seus méritos. (Corr. de alardear )
 ladraria |f.| Doença dos porcos, produzida pelos vermes, chamados ladras. (De ladras)
@@ -374,7 +374,7 @@ lageoso |adj.| Des. Em que há lages: terreno lageoso.
 lagerstrêmia |f.| Arbusto ornamental, (lagerstroemia indica, Lin.).
 lágidas |m.| pl. Dynastia egýpcia, fundada por Ptolomeu Lago.
 lago |m.| Grande espaço de água, rodeado de terra. Ext. Tanque. Fig. Pop. Grande quantidade de lı́quido, entornado no solo. (Do lat. lacus)
-lagôa |f.| Pequeno lago. Charco. * |Prov.| minh. Belga grande, com água de lima. Lameiro. * Ant. O mesmo que galé. Cf. Conquista do Peru, IV. (B. lat. lagona, do lat. lacuna)
+lagôa |f.| Pequeno lago. Charco. * Prov. minh. Belga grande, com água de lima. Lameiro. * Ant. O mesmo que galé. Cf. Conquista do Peru, IV. (B. lat. lagona, do lat. lacuna)
 lagocéfalo |adj.| Zool. Que tem cabeça semelhante á da
 lebre, isto é, que tem fendido o lábio superior. (Do gr.
 lagos + kephale)
@@ -398,7 +398,7 @@ lagreta #,(grê)# |f.| Peixe de Portugal.
 lágria |f.| Gênero de insectos coleópteros heterómeros.
 lagriário |adj.| Relativo ou semelhante á lágria. |M.| pl. Trı́bo de insectos, que tem por typo a lágria.
 lagrifas |f.| pl. Gı́r. do Pôrto. Olhos.
-lágrima |f.| Gota de humor lı́mpido, que sái do ôlho e é delaivo terminada por uma causa phýsica ou por um abalo moral. Ext. Gota de um lı́quido. Objecto, que tem a forma dessa gota. * Fig. Pequena porção; um tudonada. * Resina ou goma, que apparece no tronco de algumas árvores, resultante da picada de certos insectos, e que prejudica as mesmas árvores. * |Prov.| alent. Vinho, que se faz com o sumo, produzido só pelo pêso da uva, quando amontoada. * Pop. O mesmo que fúchsia. (Do lat. lacrima)
+lágrima |f.| Gota de humor lı́mpido, que sái do ôlho e é delaivo terminada por uma causa phýsica ou por um abalo moral. Ext. Gota de um lı́quido. Objecto, que tem a forma dessa gota. * Fig. Pequena porção; um tudonada. * Resina ou goma, que apparece no tronco de algumas árvores, resultante da picada de certos insectos, e que prejudica as mesmas árvores. * Prov. alent. Vinho, que se faz com o sumo, produzido só pelo pêso da uva, quando amontoada. * Pop. O mesmo que fúchsia. (Do lat. lacrima)
 lágrima-de-sangue |f.| Bot. Planta ranunculácea, (baeticus, Coss.).
 lagrimação |f.| (V. lacrimação)
 lagrimal #,1 # |m.| (V. lacrimal ) |adj.| (V. lacrimal )
@@ -416,7 +416,7 @@ lagueiro #,(gu-ei )# |m.| Mólho de linho, com as raı́zes todas para um lado, 
 lagumeiro |m.| Prov. O mesmo que lamegueiro.
 laguna |f.| Canal entre ilhas ou entre bancos de areia. * Variedade de cafeeiro. (Do lat. lacuna)
 laia #,1 # |f.| Pop. Qualidade; casta; modo; feitio: amigos desta
-laia, dispenso-os. Ant. Lan. * |Prov.| minh. Tecido de lan, semelhante ao fio de Escócia. (Do germ.?)
+laia, dispenso-os. Ant. Lan. * Prov. minh. Tecido de lan, semelhante ao fio de Escócia. (Do germ.?)
 laia #,2 # |f.| Gı́r. Prata.
 laical |adj.| Relativo a leigo, próprio de leigo. Que não diz respeito á classe ecclesiástica: ensino laical. (De laico)
 laicalismo |m.| Procedimento laical. Attriuições estranhas ao poder ecclesiástico.
@@ -482,7 +482,7 @@ lambarejar |v. i.| Pop. Provar comidas, remexendo-as, e deixando os restos embod
 lambari |m.| Peixe do Brasil.
 lambarice |f.| Gulodice. Qualidade de quem é lambareiro. (Do rad. de lambareiro)
 lambariscar |v. i.| Prov. O mesmo que lambarejar.
-lambaz |adj.| Chul. Que é lambão; glotão. Vassoiro de cordas, usado a bordo. |Prov.| Tejolo grosso. (Do rad. de
+lambaz |adj.| Chul. Que é lambão; glotão. Vassoiro de cordas, usado a bordo. Prov. Tejolo grosso. (Do rad. de
 lamber )
 lambazar |v. t.| Náut. Enxugar ou varrer com o lambaz ou vassoiro de bordo.
 lambda |m.| Nome da letra, que no alphabeto grego corresponde ao nosso l. Anat. A sutura lambdoı́dea.
@@ -492,13 +492,13 @@ lâmbdico |adj.| Anat. Diz-se do ângulo póstero superior dos parietaes. (De la
 lambdoide |adj.| Diz-se da sutura occı́pito-parietal. (Do gr. lambda + eidos) |f.| Diz-se da sutura occı́pito-parietal. (Do gr. lambda + eidos)
 lambdoı́dea |adj.| Diz-se da sutura occı́pito-parietal. (Do gr. lambda + eidos) |f.| Diz-se da sutura occı́pito-parietal. (Do gr. lambda + eidos)
 lambe-lhe-os-dedos |f.| Variedade de pêra, também conhecida por amorim ou amerim.
-lambe-pratos |m.| Indivı́duo guloso; glotão; lambaz. |Fam.| Indivı́duo guloso; glotão; lambaz.
+lambe-pratos |m.| Fam. Indivı́duo guloso; glotão; lambaz.
 lambear |v. t.| Chul. Comer soffregamente; devorar. (Do rad. de lamber )
 lambeato |m.| Ant. Lambarice, guloseima. (Do rad. de
 lamber )
 lambeche |m.| Espécie de charrua, no Riba-Tejo.
 lambedela |f.| Acto ou effeito de lamber. Fig. Lisonja. Gorgeta; pechincha.
-lambédine |m.| Guloseima; bom petisco. (Relacionase com lamber ) |Fam.| Guloseima; bom petisco. (Relacionase com lamber )
+lambédine |m.| Fam. Guloseima; bom petisco. (Relacionase com lamber )
 lambedor |adj.| Que lambe. |M.| Aquelle que lambe. Xarope, feito de açúcar dissolvido em suco de flôres ou frutos. Coisa dôce.
 lambedura |f.| O mesmo que lambedela.
 lambefe |m.| Prov. trasm. Tabefe; lambada.
@@ -550,8 +550,8 @@ lobishomem, sob a infl. de lambaz ?)
 lambuzar |v. t.| Pôr nódoas de gordura em. Emporcalhar. (Do rad. de lamber )
 lambuzo |m.| Arbusto africano, sarmentoso, de fôlhas oppostas, e flôres em longas espigas axillares. (T. lund.)
 lamecense |adj.| Relativo a Lamego. |M.| Habitante de Lamego. (Do lat. Lameca, |n. p.| )
-lamecha |m.| |Fam.| O mesmo que bajojo. Namorador ridı́culo. |adj.| |Fam.| O mesmo que bajojo. Namorador ridı́culo.
-lamechismo |m.| Qualidade de lamecha. |Fam.| Qualidade de lamecha.
+lamecha |m.| Fam. O mesmo que bajojo. Namorador ridı́culo. |adj.| Fam. O mesmo que bajojo. Namorador ridı́culo.
+lamechismo |m.| Fam. Qualidade de lamecha.
 lamécula |f.| Neol. Pequena lâmina. (Dem. pouco acceitável, formado sôbre o fr. lame)
 lamecular |adj.| Que tem fórma de lamécula.
 lameda #,(mê)# |f.| (Corr. de alameda)
@@ -609,7 +609,7 @@ lami |m.| Turco nobre, que, nas cidades da Palestina, desempenhava as funcções
 lâmia |f.| Espécie de feiticeira ou vampı́ro, que os Gregos representavam com rosto de mulher e corpo de serpente, e de quem se dizia que devorava crianças. Gênero de insectos
 longicórneos. Grande peixe cartilaginoso. (Lat. lamia)
 lamigueiro |m.| (V. lamegueı́ro)
-lâmina |f.| Chapa delgada de metal. Tira delgada e pouco espêssa de qualquer substância. Lasca. Fôlha de certos instrumentos cortantes. Parte plana das fôlhas das plantas gramı́neas. * Chapa de vidro, sôbre que se deita a substância que se deseja examinar com o microscópio. * |Prov.| e ant. O mesmo que quadro. Cf. |M.| Bernárdez, Nova Floresta, V, 31. Fig. e pop. Pessôa estúpida. (Lat. lamina)
+lâmina |f.| Chapa delgada de metal. Tira delgada e pouco espêssa de qualquer substância. Lasca. Fôlha de certos instrumentos cortantes. Parte plana das fôlhas das plantas gramı́neas. * Chapa de vidro, sôbre que se deita a substância que se deseja examinar com o microscópio. * Prov. e ant. O mesmo que quadro. Cf. |M.| Bernárdez, Nova Floresta, V, 31. Fig. e pop. Pessôa estúpida. (Lat. lamina)
 laminação |f.| Acto ou effeito de laminar1 .
 laminador |adj.| Aquelle que lamina. Máquina para laminar.
 laminagem |f.| O mesmo que laminação.
@@ -653,7 +653,7 @@ lâmpedo |adj.| Bras. O mesmo que lampo 2 .
 lampeiro |adj.| O mesmo que lampo 1 . Fig. Metediço. Espevitado. Que procura levar as lampas a outrem. (De1153
 lampa 2 )
 lampejante |adj.| Que lampeja.
-lampejar |v. i.| Scintillar, brilhar como relâmpago. * |Prov.| minh. O mesmo que relampaguear. (De lampo 2 )
+lampejar |v. i.| Scintillar, brilhar como relâmpago. * Prov. minh. O mesmo que relampaguear. (De lampo 2 )
 lampejo |m.| Acto ou effeito de lampejar. Fig. Manifestação rápida e brilhante de uma ideia ou de um sentimento.
 lampianista |m.| O encarregado de accender, apagar e limpar os lampiões da illuminação pública. (De lampião)
 lampião |m.| Grande lanterna portátil, ou fixa num tecto, esquina ou parede. (Cp. cast. lampión)
@@ -728,7 +728,7 @@ lanceta #,(cê)# |f.| Pequena lâmina lanceolada, com dois gumes, para operaçõ
 lancetada |f.| Acto ou effeito de lancetar.
 lancetar |v. t.| Ferir com lanceia; esvurmar: lancetar um tumor.
 lanceteira |f.| Espécie de lima, usada por espingardeiros e serralheiros. (De lanceta)
-lancha #,1 # |f.| Prov. trasm. Pedra xistosa e grosseira. |Prov.| beir. O mesmo que lage. (Cast. lancha, lage)
+lancha #,1 # |f.| Prov. trasm. Pedra xistosa e grosseira. Prov. beir. O mesmo que lage. (Cast. lancha, lage)
 lancha #,2 # |f.| Pequeno barco, para serviço de navios. Embarcação maior que êsse barco, própria para navegação costeira ou para pesca. (Cast. lancha)
 lanchada |f.| Carga de uma lancha. * Chul. da Covilhan. Bofetada.
 lanchal |m.| Prov. beir. O mesmo que lagedo. (De lancha 1 )
@@ -749,9 +749,9 @@ lancinar |v. t.| Picar ou golpear. Pungir; atormentar. (Lat. lancinare)
 lançó |m.| Ant. O mesmo que lanceta. Cf. Mestre Geraldo, 25. (Do lat. lanceola)
 lançol |m.| (V. lençol )
 landagogolo |m.| (V. rulamala)
-landainas |f.| pl. |Prov.| trasm. Lérias; paleio, lábia. Histórias da carochinha. (Relaciona-se com ladainha?)
+landainas |f.| pl. Prov. trasm. Lérias; paleio, lábia. Histórias da carochinha. (Relaciona-se com ladainha?)
 landaineiro |m.| Prov. trasm. Aquelle que anda sempre com landainas.
-landainices |f.| pl. |Prov.| trasm. Balelas, ditos; o mesmo que landainas.
+landainices |f.| pl. Prov. trasm. Balelas, ditos; o mesmo que landainas.
 lande |m.| Bolota, glande. (Do lat. glans, glandis)
 landeira |f.| Montado de sobreiros. (De lande)
 landeiro |adj.| T. de Turquel Diz-se do carvalho e de outras árvores, quando são muito productivas. (De lande)
@@ -770,11 +770,11 @@ landirana |f.| Bras. Árvore silvestre.
 lândoa |f.| Prov. Fenda natural nos troncos dos carvalhos, dos castanheiros, etc.
 landólfia |f.| Colossal árvore africana, que produz borracha.
 landólphia |f.| Colossal árvore africana, que produz borracha.
-landonas |f.| pl. |Prov.| alent. Adulação, lisonja. (Cp. landainas)
+landonas |f.| pl. Prov. alent. Adulação, lisonja. (Cp. landainas)
 landoque |m.| Prov. alent. Mistura, amálgama, salgalhada.
 landra |f.| O mesmo que lande.
 landraia |f.| Prov. trasm. Mulher de má ı́ndole, antipáthica.
-landre |f.| Ant. e |prov.| minh. O mesmo que lande. Cp. Sim. Mach., 68.
+landre |f.| Ant. e prov. minh. O mesmo que lande. Cp. Sim. Mach., 68.
 landreiro |m.| Prov. minh. Cacete; varapau. (De landre)
 landro |m.| Prov. alent. O mesmo que loendro.
 landúkia |f.| Um dos gêneros de videiras, em que se dividiu a |fam.| das ampelı́deas. (De Landuk, |n. p.| )
@@ -783,8 +783,8 @@ lanedo #,(nê)# |m.| T. de Odemira. Algazarra. Desordem. (Cp. laneiro 1 )
 laneiro #,1 # |m.| Prov. alent. Altercação, disputa. (Cp. lat. laniarius)
 laneiro #,2 # |m.| Prov. alent. Casa, onde se guarda lan. (Do cast. lanero?)
 lâneo |m.| Ant. Cobertor ou vestido de lan. (Lat. laneus)
-langará |m.| O mesmo que arriosca ou esparrela. |Prov.| trasm. Embrulhada, barulho, questões. |Fam.| O mesmo que arriosca ou esparrela. |Prov.| trasm. Embrulhada, barulho, questões.
-langaré |m.| Linguado ou manuscrito, feito á pressa ou sem cuidado. Cf. Camillo, Mar. da Fonte, 189. |Fam.| Linguado ou manuscrito, feito á pressa ou sem cuidado. Cf. Camillo, Mar. da Fonte, 189.
+langará |m.| Fam. O mesmo que arriosca ou esparrela. Prov. trasm. Embrulhada, barulho, questões.
+langaré |m.| Fam. Linguado ou manuscrito, feito á pressa ou sem cuidado. Cf. Camillo, Mar. da Fonte, 189.
 langarear |v. i.| Fazer langará, altercar.
 lângia |f.| Planta amarantácea, do Cabo da Bôa-Esperança. (De Lang, |n. p.| )
 langóia |f.| Nome, que nalguns pontos da África portuguesa se dá á doença do somno. Cf. Capello e Ivens, I, 125.
@@ -874,7 +874,7 @@ laos |m.| pl. Antigo povo, ao norte do Sião. Cf. Barros, Déc. II, l. VI, c. 6.
 laossinacta |m.| Empregado que, na Igreja grega, tinha por dever o convocar o povo para as assembleias. (Gr. laosunaktes)
 laosynacta #,(si )# |m.| Empregado que, na Igreja grega, tinha por dever o convocar o povo para as assembleias. (Gr. laosunaktes)
 lapa #,1 # |f.| Cavidade em rochedo; gruta. Grande pedra ou
-laja, que, resaı́ndo de um rochedo, fórma debaixo de si um abrigo para gente ou animaes. Mollúsco gasterópode, univalve. * |Prov.| Pedra solta, calhau. * Bras do N. Pedaço; fatia. (Do gr. lapados, seg. Diez)
+laja, que, resaı́ndo de um rochedo, fórma debaixo de si um abrigo para gente ou animaes. Mollúsco gasterópode, univalve. * Prov. Pedra solta, calhau. * Bras do N. Pedaço; fatia. (Do gr. lapados, seg. Diez)
 lapa #,2 # |f.| Pop. O mesmo que bofetada. (Do germ. lappa, seg. Körting)
 lapáceo |adj.| Bot. Diz-se das brácteas, que se curvam em ponta de anzol. (Lat. lappaceus)
 lapada |f.| Prov. trasm. O mesmo que pedrada. * Bras. do N. Chicotada; vergastada. (De lapa 1 )
@@ -882,7 +882,7 @@ lapagéria |f.| Espécie de espargo do Chile.
 lapantana |m.| , |f.| Pessôa simplória, idiota. Cf. Camillo, Corja, 199. |adj.| Pessôa simplória, idiota. Cf. Camillo, Corja, 199.
 lapantanamente |adv.| Á maneira de lapantana; tolamente. Cf. Camillo, Mar. da Fonte. 22.
 lapão #,1 # |m.| Habitante da Lapónia. Idioma dos Lapões. (Do rad. de Lapónia, |n. p.| )
-lapão #,2 # |m.| Chul. Labrego; lanzudo. * |M.| Lapa grande. Lasca de pedra, em parede de alvenaria. |Prov.| trasm. Armadilha, feita de uma lapa, para caçar teixugos. (De lapa 1 ) |adj.| Chul. Labrego; lanzudo. * |M.| Lapa grande. Lasca de pedra, em parede de alvenaria. |Prov.| trasm. Armadilha, feita de uma lapa, para caçar teixugos. (De lapa 1 )
+lapão #,2 # |m.| Chul. Labrego; lanzudo. * |M.| Lapa grande. Lasca de pedra, em parede de alvenaria. Prov. trasm. Armadilha, feita de uma lapa, para caçar teixugos. (De lapa 1 ) |adj.| Chul. Labrego; lanzudo. * |M.| Lapa grande. Lasca de pedra, em parede de alvenaria. Prov. trasm. Armadilha, feita de uma lapa, para caçar teixugos. (De lapa 1 )
 lapara |f.| Ant. Iguaria, própria dos banquetes reaes, entre os povos da Indo-China. Cf. Conquista do Peru, XIII.
 laparão #,1 # |m.| Inflammação dos gânglios e vasos lympháticos. (Do gr. lapara, flanco)
 laparão #,2 # |m.| Pesc. Lapa grande, mollusco.
@@ -960,11 +960,11 @@ larachear |v. i.| Chul. Dizer larachas.
 larachento |adj.| Em que há laracha. Motejador. Cf. Camillo, Volcões, 88.
 larachista |m.| Pessôa, que laracheia. |f.| Pessôa, que laracheia.
 larada |f.| Cinza do lar. Mancha larga, produzida por um
-lı́quido entornado. * |Prov.| Communidade immoral, em que vivem os pescadores unhantes da ria de Aveiro. * |Fam.| Porção de coisas, com que se cobre a lareira: uma
+lı́quido entornado. * Prov. Communidade immoral, em que vivem os pescadores unhantes da ria de Aveiro. * |Fam.| Porção de coisas, com que se cobre a lareira: uma
 larada de castanhas. * Famı́lia ou pessôas que cercam toda a lareira: “Fulano tem uma larada de filhos.” * Serão, á
 lardoeirada
-lareira: “...nas laradas de inverno, agora é que é recontar.” Júl. Castilho, Manuelinas, 67. * |Prov.| alg. Porção de excremento, um tanto lı́quido. (De lar )
-laraita |f.| Prov. trasm. Porca grande e magra; galdrapa. |Prov.| beir. Fome, larica.
+lareira: “...nas laradas de inverno, agora é que é recontar.” Júl. Castilho, Manuelinas, 67. * Prov. alg. Porção de excremento, um tanto lı́quido. (De lar )
+laraita |f.| Prov. trasm. Porca grande e magra; galdrapa. Prov. beir. Fome, larica.
 laranja |f.| Fruto da laranjeira. Bras. Laranjeira azeda. * Variedade de pêra portuguesa. * Meia laranja, meia volta, num caminho ou numa viagem marı́tima: “navegámos á meia laranja rodando o Cabo.” Roteiro do Mar-Vermelho. (Do ár. naranj )
 laranjada |f.| Bebida, em que entra o sumo da laranja. Grande porção de laranjas. Arremêsso de laranja: dantes, no Carnaval, jogava-se a laranjada.
 laranjal |m.| Pomar de laranjeiras. (De laranja)
@@ -994,19 +994,19 @@ lardizabáleas |f.| pl. Famı́lia de plantas sarmentosas, originárias da China
 lardizabáleo |adj.| Semelhante ao lardizabal.
 lardo |m.| Toicinho, especialmente toicinho em tiras ou talhadinhas, para entremear peças de carne. * Fig. Condimento; ornato: “sem lardo de história nem de mythos.” Camillo, Corja, 183. (Lat. lardum)
 lardoeirada |f.| Prov. trasm. O mesmo que pancada.laré
-laré |m.| * |Prov.| alent. Pessôa, que dança mal. |Loc. adv.| Ao
+laré |m.| * Prov. alent. Pessôa, que dança mal. |Loc. adv.| Ao
 laré, á tuna; vadiando. De gorra ou de patuscada.
 larear |v. i.| Pop. Andar ao laré; vadiar.
 larecer |v. i.| Prov. minh. Falar muito, tagarelar. (Por
 lerecer, relacionado com léria?)
-laredo #,(larê)# |Prov.| alg. Conjunto de recifes cascalhosos.
+laredo #,(larê)# Prov. alg. Conjunto de recifes cascalhosos.
 larega |f.| Prov. trasm. Pequena porca. Fig. Mulher gorda e atarracada.
 larego |m.| Prov. trasm. Pequeno porco, entre leitão e cevado.
 lareira |f.| Laja, em que se accende o fogo; lar. (De lar )
 lareiras |m.| Prov. trasm. O mesmo que langueiras.
 lareiro #,1 # |adj.| Relativo a lar ou a lareira.
 lareiro #,2 # |m.| Prov. trasm. Cacete grande, o mesmo que jarundo.
-lares #,1 # |f.| pl. |Prov.| trasm. O mesmo que lárias.
+lares #,1 # |f.| pl. Prov. trasm. O mesmo que lárias.
 lares #,2 # |f.| pl. Deuses familiares, deuses protectores do lar ou da famı́lia, entre os Etruscos e entre os Romanos. (Lat. lares)
 lareta #,(larê)# |m.| , |f.| Prov. beir. O mesmo que traquina. (Colhido no Fundão) |adj.| Prov. beir. O mesmo que traquina. (Colhido no Fundão)
 larétia |f.| Gênero de plantas umbellı́feras.
@@ -1032,7 +1032,7 @@ largueza |f.| O mesmo que largura. Fig. Generosidade; bizarria. Dissipação.
 largura |f.| Qualidade daquilllo que é largo. A mais pequena das duas dimensões, (tratando-se de uma superfı́cie).
 laria |f.| Gı́r. Laranja.
 larião |m.| Prov. alg. O mesmo que leirão.
-lárias |f.| pl. |Prov.| trasm. Cadeia de ferro, que pende do tecto na cozinha; cremalheira. (De lar )
+lárias |f.| pl. Prov. trasm. Cadeia de ferro, que pende do tecto na cozinha; cremalheira. (De lar )
 larica |f.| Joio. |Fam.| Fome.
 lárice |f.| Árvore conifera, (pinus larix, Lin.).
 ları́cio |m.| Árvore conifera, (pinus larix, Lin.).
@@ -1058,7 +1058,7 @@ laringóstomo |adj.| Zool. Diz-se do animal articulado, cuja bôca é uma espéc
 laringotifo |f.| Ulceração da mucosa da laringe, constituindo um accidente secundário do tifo. (De laringe + tifo)
 laringotomia |f.| Incisão na laringe, para a extracção de um corpo estranho. (Do gr. larunx + tome)
 lárix |f.| O mesmo que lárice.
-laró |m.| Prov. Uma das peças da asna. O mesmo que léu. O mesmo que laroz. |Prov.| alent. Intersecção de duas vertentes no telhado, formando ângulo reintrante.
+laró |m.| Prov. Uma das peças da asna. O mesmo que léu. O mesmo que laroz. Prov. alent. Intersecção de duas vertentes no telhado, formando ângulo reintrante.
 larota |f.| Gı́r. trasm. O mesmo que larica.
 laroteiro |m.| Prov. trasm. Mandrião. Velhaco. |adj.| Prov. trasm. Mandrião. Velhaco.
 laroz |m.| Barrote, que sustenta a tacaniça. O mesmo que laró.
@@ -1093,9 +1093,9 @@ laryngotomia |f.| Incisão na larynge, para a extracção de um corpo estranho. 
 laryngotypho |f.| Ulceração da mucosa da larynge, constituindo um accidente secundário do typho. (De larynge + typho)
 lasanha |f.| Tiras largas de massa de trigo para sopa. (It. lasagna)
 lasca |f.| Fragmento ou estilhaço de madeira, pedra ou metal. Fragmento. Tira. Peça de madeira, na borda dos barcos de pesca, pela qual passam as linhas das rêdes. * Espécie de jôgo de asar. Cf. Man. dos Jogos, 275. (De lascar )
-lascar #,1 # |v. t.| Partir em lascas. Tirar lascas de. |V. i.| Abrir em lascas. * Gı́r. Defecar, evacuar. * |Prov.| minh. Fugir.
+lascar #,1 # |v. t.| Partir em lascas. Tirar lascas de. |V. i.| Abrir em lascas. * Gı́r. Defecar, evacuar. * Prov. minh. Fugir.
 lascar #,2 # |m.| Ant. Corpo de soldados indianos. (Persa laxcar )
-lascarim |m.| Ant. Soldado indiano ou moiro. Marinheiro, que vivia a bordo com mulher e filhos. |Prov.| trasm. Fedelho, doidelas, que gosta de andar descalço. Cavallo que faz filetes. (Persa laxcari)
+lascarim |m.| Ant. Soldado indiano ou moiro. Marinheiro, que vivia a bordo com mulher e filhos. Prov. trasm. Fedelho, doidelas, que gosta de andar descalço. Cavallo que faz filetes. (Persa laxcari)
 lascarina |m.| Prov. trasm. O mesmo que lascarim.
 lascarinho |m.| T. da Bairrada. Indivı́duo desavergonhado.
 lascarino |adj.| Larápio, ratoneiro. Cf. Rebello, Mocidade, I, 241. |Adj.| Prov. trasm. Travesso, inquieto.
@@ -1152,12 +1152,12 @@ lastrear |v. t.| O mesmo que lastrar. Cf. Oriente Conquistado, I, 85.
 lástrico |m.| Espécie do betão, usado na construção de terraços italianos. (It. lástrico)
 lastro |m.| Pêso, feito de pedra, areia, etc., que, posto no porão do navio, faz que êste se equilibre na água. Areia, que vai na barquinha dos aeróstatos, para se lançar fóra, quando seja conveniente ou preciso que o balão se eleve mais. Fig. Base. Aquillo sôbre que se acamam ou se collocam outras coisas. |Fam.| Qualquer comida, com que se prepara o estômago para melhor iguaria ou para bebidas. (Do al. last, pêso)
 lastroada |f.| Prov. minh. O mesmo que pedrada. (De lastro)
-lata #,1 # |f.| Ferro em folha ou batido e estanhado. Caixa de folha de ferro. Trave, que, atravessando a nau, sustenta a coberta superior. * Latada. Cada uma das varas ou canas transversaes da parreira. Caibro. Canudo de folha, para guardar papéis ou receber outras substâncias. Qualquer utensı́lio de fôlha. Chul. Cara. * |Prov.| minh. Latada, parreira. * Gı́r. Litro.
+lata #,1 # |f.| Ferro em folha ou batido e estanhado. Caixa de folha de ferro. Trave, que, atravessando a nau, sustenta a coberta superior. * Latada. Cada uma das varas ou canas transversaes da parreira. Caibro. Canudo de folha, para guardar papéis ou receber outras substâncias. Qualquer utensı́lio de fôlha. Chul. Cara. * Prov. minh. Latada, parreira. * Gı́r. Litro.
 lata #,2 # |m.| Prov. alg. Maçador; indivı́duo importuno.
 lata #,3 # |f.| Prov. trasm. Coirela, belga.
-latada |f.| Grade de canas ou de varas, para sustentar videiras ou outras plantas trepadeiras. Parreira. * |Prov.| alent. Quéda. * Gı́r. Bofetada. * T. de Coimbra. Estúrdia e barulho, que os estudantes de Direito fazem de noite, com
+latada |f.| Grade de canas ou de varas, para sustentar videiras ou outras plantas trepadeiras. Parreira. * Prov. alent. Quéda. * Gı́r. Bofetada. * T. de Coimbra. Estúrdia e barulho, que os estudantes de Direito fazem de noite, com
 latas, percorrendo as ruas, para festejar o ponto das aulas. (De lata 1 )
-latagão |m.| Homem novo, robusto e encorpado. |Fam.| Homem novo, robusto e encorpado.
+latagão |m.| Fam. Homem novo, robusto e encorpado.
 latamente |adv.| De modo lato; em sentido lato; com largueza.
 latana |f.| Palmeira do Brasil. O mesmo que latânia?
 latane |f.| Casa de jogo, na China.
@@ -1232,7 +1232,7 @@ latinizante |adj.| Que latiniza. Sectário do rito latino, em paı́s de herejes
 latinizar |v. t.| Dar fórma latina a. Alatinar. |V. i.| Usar de expressões latinas; falar latim. (Lat. latinizare)
 latino |adj.| Relativo ao latim: grammática latina. Dito ou escrito em latim. Relativo aos povos latinos: o mundo latino. Concernente á Igreja christan do Occidente. Que diz respeito aos povos procedentes dos Romanos, ou encorporados no Império romano. Que tem velas latinas, (falando-se de navios). E diz-se de uma vela náutica de fórma triangular. |M.| Habitante do Lácio. Aquelle que descende dos Latinos ou dos Romanos antigos. Aquelle que é versado em latim; latinista. * Vela latina. (Lat. latinus)
 latino-americano |m.| O mesmo que ibero-americano.
-latinório |m.| Mau latim. Trecho latino, mal traduzido ou mal applicado. |Adj.| Escrito em mau latim. Cf. Filinto, XI, 193. (Do rad. de latim) |Fam.| Mau latim. Trecho latino, mal traduzido ou mal applicado. |Adj.| Escrito em mau latim. Cf. Filinto, XI, 193. (Do rad. de latim)
+latinório |m.| Fam. Mau latim. Trecho latino, mal traduzido ou mal applicado. |Adj.| Escrito em mau latim. Cf. Filinto, XI, 193. (Do rad. de latim)
 latı́pede |adj.| Zool. Que tem pés largos. (Do lat. latus + pes, pedis)
 latipene |adj.| Zool. Que tem penas largas. (Do lat. latus + penna)
 latipenne |adj.| Zool. Que tem pennas largas. (Do lat. latus + penna)
@@ -1334,7 +1334,7 @@ lavadeiro |m.| Cesto, com que nalgumas praias se mede a sardinha. Fossa para dep
 lavadela |f.| Lavagem ligeira. (De lavar )
 lavadiço |adj.| P. us. Que gosta de se lavar; que anda muito
 lavado. (De lavado)
-lavado |adj.| Fig. Franco; generoso: coração lavado. Arejado: casa muito lavada (de ares). |M.| Coração de uma peça de caça, desfeito em água morna, o qual se dava aos falcões. * Gı́r. Quartilho de vinho. * |Prov.| Serviço de lavar: hoje é dia de lavados.
+lavado |adj.| Fig. Franco; generoso: coração lavado. Arejado: casa muito lavada (de ares). |M.| Coração de uma peça de caça, desfeito em água morna, o qual se dava aos falcões. * Gı́r. Quartilho de vinho. * Prov. Serviço de lavar: hoje é dia de lavados.
 lavadoira #,1 # |f.| Prov. alent. A junta de bois que, em meio do duas, ajuda a puxar um carro. (Talvez por levadoira, de levar )
 lavadoira #,2 # |f.| Marn. Córte vertical, espécie do degrau, formado pela tirada dos torrões, com que se fórma a vedação das salinas. Cf. Mus. Technol.,55. (Cp. lavadoiro)
 lavadoiro |m.| Tanque ou lugar, onde se lava roupa. * Marn. Cova, que os antigos marnotos abriam, junto ao tabuleiro do sal, e para onde era rido o producto da marinha, sendo alli remexido muitas vezes com rasoira e ugalho, para se lhe tirarem as impurezas. * |Adj.| Prov. trasm. Em que se lava roupa. Que serve para se lavar roupa: tanque lavadoiro. (De lavar )
@@ -1343,7 +1343,7 @@ lavadoura |f.| Marn. Córte vertical, espécie do degrau, for-1163 mado pela tir
 lavadouro |m.| Tanque ou lugar, onde se lava roupa. * Marn. Cova, que os antigos marnotos abriam, junto ao tabuleiro do sal, e para onde era rido o producto da marinha, sendo alli remexido muitas vezes com rasoira e ugalho, para se lhe tirarem as impurezas. * |Adj.| Prov. trasm. Em que se lava roupa. Que serve para se lavar roupa: tanque lavadouro. (De lavar )
 lavadura |f.| Acto de lavar. Água, em que se lavou loiça de mesa, e que se dá como alimento a porcos.
 lavagante |m.| Crustáceo decápode, marı́timo, um pouco mais pequeno que a lagosta e munido de duas fortes torqueses nos braços (homarus vulgaris). (Cp. cast. lobogante)
-lavagem |f.| O mesmo que lavadura. |Prov.| Comida para os porcos. Pagamento do trabalho de lavar.
+lavagem |f.| O mesmo que lavadura. Prov. Comida para os porcos. Pagamento do trabalho de lavar.
 lavajado |adj.| Prov. alent. Emporcalhado pela água do
 lavajo. Sujo pelo lodo dos charcos: o cão vinha todo lavajado. (De lavajo)
 lavajo |m.| Prov. alent. Pequeno pântano. Charco, atoleiro. (Cp. lavagem)
@@ -1376,16 +1376,16 @@ lavegar |v. t.| Lavrar com lavêgo. (Do lat. laevigare?)
 laxar
 lavêgo |m.| Arado com varredoiro, o mesmo que labego. (De
 lavegar )
-laverca |f.| Ave, espécie de cotovı́a. Calhandra, (alauda arvensis, Lin.). * |Prov.| minh. Pessôa muito magra.
+laverca |f.| Ave, espécie de cotovı́a. Calhandra, (alauda arvensis, Lin.). * Prov. minh. Pessôa muito magra.
 laverco |m.| Macho da laverca. Cf. B. Pato, Livro do Monte. Homem finório e trapaceiro. Cf. Hyssope, 52.
 lavoeira |f.| Prov. trasm. O mesmo que lavoura.
-lavoira |f.| Preparação do terreno para sementeira ou plantação. Agricultura. Acto de cultivar a terra. Terra cultivada. * |Prov.| alent. Exploração agricola e pecuária de uma herdade ou grupo de herdades. (Do b. lat. laboria. Cf. B. Pereira, Prosódia)
+lavoira |f.| Preparação do terreno para sementeira ou plantação. Agricultura. Acto de cultivar a terra. Terra cultivada. * Prov. alent. Exploração agricola e pecuária de uma herdade ou grupo de herdades. (Do b. lat. laboria. Cf. B. Pereira, Prosódia)
 lavoisiéreas |f.| pl. Bot. Trı́bo de melastomáceas, na classificação de De-Candolle. (De Lavoisier, |n. p.| )
 lavor |m.| Trabalho manual. Labor. Ext. Trabalho. Ornato em relêvo. Obra do agulha, feita por desenho: a pequena é hábil em lavores. Lavrado. * Crystallização superficial nas salinas, que impede a evaporação e, portanto, a formação do sal. (Lat. labor )
 lavorar |v. t.| Fazer lavores em; lavrar. (Lat. laborare)
 lavorear |v. t.| Prov. trasm. Adornar muito, tornar primoroso. (De lavor )
 lavoso |adj.| Relativo a lava; que é da natureza da lava.
-lavoura |f.| Preparação do terreno para sementeira ou plantação. Agricultura. Acto de cultivar a terra. Terra cultivada. * |Prov.| alent. Exploração agricola e pecuária de uma herdade ou grupo de herdades. (Do b. lat. laboria. Cf. B. Pereira, Prosódia)
+lavoura |f.| Preparação do terreno para sementeira ou plantação. Agricultura. Acto de cultivar a terra. Terra cultivada. * Prov. alent. Exploração agricola e pecuária de uma herdade ou grupo de herdades. (Do b. lat. laboria. Cf. B. Pereira, Prosódia)
 lavra |f.| Acto de lavrar. Lavoira.
 lavração |f.| T. de Ceilão. O mesmo que lavoira. (De lavrar )
 lavrada |f.| O mesmo que lavra.
@@ -1571,7 +1571,7 @@ legı́vel |adj.| Que se póde ler. Que está escrito em caracteres bem visı́v
 legivelmente |adj.| De modo legı́vel.
 légoa |f.| Medida itenerária, equivalente, no systema métrico, a 5 kilómetros. |Fam.| Grande distância. * Légua da Póvoa, grande distância. |Loc. adv.| Á légoa, até de longe; perfeitamente, nitidamente. Apressadamente. * De légoa e meia, muito grande, muito extenso: fez um discurso de
 légoa e meia. (Do lat. leuca.)
-legra |f.| Instrumento, para observar as fracturas do crânio. * |Prov.| alent. Lâmina curva e cortante, para escavar madeira, e com a qual os cabreiros fazem colheres de pau e outros objectos. (Cast. legra)
+legra |f.| Instrumento, para observar as fracturas do crânio. * Prov. alent. Lâmina curva e cortante, para escavar madeira, e com a qual os cabreiros fazem colheres de pau e outros objectos. (Cast. legra)
 legração |f.| Acto de legrar.
 legradura |f.| O mesmo que legração. Acto de raspar ou limpar com goiva apropriada os ossos cariados ou fracturados.
 legrar |v. t.| Operar ou examinar com a legra.
@@ -1630,7 +1630,7 @@ leira #,2 # |f.| Casta de uva branca algarvia.
 leira #,3 # |f.| Prov. minh. Mania, telha.
 leiran |f.| Variedade de uva branca. (De Leiria, |n. p.| ? De
 leira 1 ?)
-leirão #,1 # |m.| Prov. trasm. Rato grande. * |Prov.| minh. Castanheiro muito alto.
+leirão #,1 # |m.| Prov. trasm. Rato grande. * Prov. minh. Castanheiro muito alto.
 leirão #,2 # |m.| Prov. beir. Leira pequena; espaço de terreno cultivado.
 leirar |v. t.| Dividir em leiras; lavrar, formando leiras: “o Formoso e o Galante iam leirando o chão”. Júl. Castilho, Ermitério, 108.
 leiria |adj.| O mesmo que leirôa. |f.| O mesmo que leirôa.
@@ -1662,18 +1662,18 @@ leitoado |adj.| Nédio; gordo. (De leitão)
 leitor #,1 # |m.| Aquelle que lê. Aquelle que, nos seminários ou noutras casas religiosas, lê tratados de religião ou de moral, durante as refeições da communidade. Aquelle que, na jerarchia ecclesiástica, tem o segundo grau das Ordens menores. (Do lat. lector )
 leitor #,2 # |m.| Prov. Anel de pedra, que as mulheres criadeiras trazem enfiado numa fita, ao peito, como amuleto, para evitar o mau olhado no leite. (Colhido em Cernancelhe) (De leite, ou do lat. lactor )
 leitorado |m.| Cargo de leitor. O segundo grau das Ordens menores, na jerarchia ecclesiástica. * O tempo da leitura: “...tão estendido leytorado”. Sousa, Vida do Arceb., 19.
-leitoral |adj.| Relativo a leitor: “ora, senhor, eu já não tenho paciencia leitoral ”. Anat. Joc., I, 223. |Fam.| Relativo a leitor: “ora, senhor, eu já não tenho paciencia leitoral ”. Anat. Joc., I, 223.
+leitoral |adj.| Fam. Relativo a leitor: “ora, senhor, eu já não tenho paciencia leitoral ”. Anat. Joc., I, 223.
 leitoso |adj.| Lácteo. Relativo a leite. Que tem côr ou apparência de leite: faces leitosas. (Do lat. lactosus)
-leitras |f.| pl. O mesmo que láctea. |Prov.| Leituga.
+leitras |f.| pl. O mesmo que láctea. Prov. Leituga.
 leituado |adj.| O mesmo que lactescente.
 leituário |m.| Amuleto, para dar leite e vigor ás amas.
 leituga |f.| Planta, da |fam.| das compostas, (tolpis barbata). (Do lat. lactuca)
 leitura |f.| Acto ou effeito de lêr. Arte de lêr. Lição; aquillo que se lê. (Do lat. lectura) Fôrça, 17.leiú
 leiú |m.| Espécie de borboleta do Brasil.
-leiva |f.| Elevação ou manta de terra, entre dois sulcos. Sulco aberto por arado. Gleba. * |Prov.| O mesmo que aduela. * T. de Turquel. Torrão, que se tira de uma vez com enxada. (Do lat. hyp. glebea, de gleba?)
+leiva |f.| Elevação ou manta de terra, entre dois sulcos. Sulco aberto por arado. Gleba. * Prov. O mesmo que aduela. * T. de Turquel. Torrão, que se tira de uma vez com enxada. (Do lat. hyp. glebea, de gleba?)
 leivanco |m.| O mesmo que leivão.
 leivão |m.| Prov. minh. Rato do monte.
-leixa |f.| Acto de leixar. |Prov.| Resı́duo; aquillo que ficou por colher: foi á leixa da azeitona, foi ao rebusco della.
+leixa |f.| Acto de leixar. Prov. Resı́duo; aquillo que ficou por colher: foi á leixa da azeitona, foi ao rebusco della.
 leixa-pren |m.| Antigo artifı́cio poético, que consistia em começar uma estrophe pela palavra ou phrase, em que terminou a estrophe anterior. (Provn. ant.)
 leixamento |m.| Ant. Acto de leixar.
 leixão |m.| Pedra alta e insulada, na costa marı́tima. Ilhota. (Cp. lanchão 2 )
@@ -1716,7 +1716,7 @@ lêmures |m.| pl. Nome, que os Romanos davam aos fantasmas dos mortos, dos quaes
 lemúria |f.| O mesmo que lemúrias.
 lemuriano |adj.| Relativo ou semelhante ao lêmur ou maque. Pl. Mammı́feros, o mesmo que lêmures.
 lemúrias |f.| pl. Festas, que os Romanos celebravam a 9 de Maio, para applacar os espı́ritos dos mortos ou para conjurar espectros e fantasmas nocturnos. (Lat. lemuria)
-lena #,1 # |f.| Alcoviteira. |Prov.| alg. Conversa, cavaco. (Lat. lena)
+lena #,1 # |f.| Alcoviteira. Prov. alg. Conversa, cavaco. (Lat. lena)
 lena #,2 # |f.| Vestuário, que os flâmines usavam sôbre a toga. Espécie de sobretudo, usado pelos Romanos mais distintos. (Lat. laena)
 lençalho |m.| Lenço grande e ordinário. Cf. J. de Deus, Campo de Flôres, 499.
 lencantina |f.| Prov. alg. Cantilena. Choradeira. O mesmo que alicantina.
@@ -1797,7 +1797,7 @@ lentisqueira |f.| O mesmo que lentiscal. * O mesmo que
 lentisco. * Variedade de oliveiras, (olea europaea, Lin.).
 lento |adj.| Que é pegajoso ou viscoso; molle. Froixo. Levemente humedecido. Orvalhado. Flexı́vel; brando. Que se move devagar; vagaroso; preguiçoso. Que se prolonga. Que apparece a pouco e pouco. Fraco ou espaçado, (falandose das pulsações). |Adv.| O mesmo que lentamente. (Lat. lentus)
 lentor |m.| O mesmo que lentidão. (Lat. lentor )
-lentrisca |Prov.| O mesmo que lentisca.
+lentrisca Prov. O mesmo que lentisca.
 lentrisqueira |f.| Prov. Oliveira, que dá lentrisca.
 lentura |f.| O mesmo que lentidão. Ligeira humidade. Orvalho; relento.
 léo |m.| Pop. Ócio; tuna. |Loc. adv.| Ao léu, sem chapéu; nuamente. (Do lat. levis)
@@ -1909,7 +1909,7 @@ lequéssia |f.| Bras. de Goiás. Bebedeira. Vadiação.
 léquios |m.| pl. Habitantes de um archipélago, a que deram êsse nome, e que é situado entre o mar da China e o mar da Coreia.
 lêr |v. t.| Percorrer com a vista e conhecer (letras), reunindo estas em palavras. Pronunciar em voz alta, recitar: lêr
 lesim versos. Vêr e estudar (coisa escrita): lêr um capı́tulo de história. Decifrar: lêr uma inscripção. Perceber. Explicar como professor: lêr Theologia. |V. i.| Vêr e interpretar o que está escrito: a pequena já sabe lêr. |Fam.| Devanear; disparatar: estás a lêr! * |Fam.| Lêr de cadeira, conhecer perfeitamente uma matéria e poder dar lições a respeito della. (Do lat. legere)
-lerca |f.| Pop. Vaca muito magra. * |Prov.| minh. Mulher magra.
+lerca |f.| Pop. Vaca muito magra. * Prov. minh. Mulher magra.
 lerdaço |adj.| Pop. Parvo; pacóvio; pateta. (De lerdo)
 lerdo #,(lêr )# |adj.| Tardio nos movimentos; froixo. Estúpido; acanhado. Grosseiro. (Cast. lerdo)
 lereia |f.| Bras. Conversa sem utilidade. (Corr. de léria?)
@@ -1941,7 +1941,7 @@ lésguio |m.| Lı́ngua caucásica, que não tem literatura.
 lesim |m.| Veio da madeira. Pequeno fio ou sulco natural de algumas pedras e mármores. (Do rad. do lat. laesio)lesinzado
 lesinzado |adj.| Prov. Cheio de lesins.
 lesivo |adj.| Que causa lesão. Que lesa.
-lesma #,(lês)# |f.| Mollusco gasterópode. Fig. pop. Pessôa indolente; pessôa insı́pida. * |Prov.| trasm. Pessôa magra. * Ant. Coisa muito mimosa: “doeu-vos muito a picada, minha lesma? ” |M.| Bernárdez, referindo-se, numa espécie de jaculatória, ao menino Deus circuncidado.
+lesma #,(lês)# |f.| Mollusco gasterópode. Fig. pop. Pessôa indolente; pessôa insı́pida. * Prov. trasm. Pessôa magra. * Ant. Coisa muito mimosa: “doeu-vos muito a picada, minha lesma? ” |M.| Bernárdez, referindo-se, numa espécie de jaculatória, ao menino Deus circuncidado.
 lesmida |f.| Prov. minh. Mulher presumida e nada sympáthica. (De lesma)
 leso |adj.| Confuso; ferido. Paralýtico. Offendido; violado. * Bras. de Pernambuco. Apalermado, atoleimado. (Lat. laesus)
 lessole |m.| Pano, com que os indı́genas ambaquistas cobrem as partes pudendas.
@@ -1987,7 +1987,7 @@ letões |m.| pl. Povos do noroéste da Rússia.
 letomania |f.| Des. Monomania do suicı́dio. (Do lat. letum + mania)
 letos |m.| pl. Bárbaros do Norte, os quaes, tendo entrado nos domı́nios romanos, tiveram concessões de terras, sob a condição de servirem no exército. (B. lat. leti)
 letra #,(lê)# |f.| Cada um dos caracteres do alphabeto. Fórma de escrever os caracteres alphabéticos: a Dora tem bonita
-letra. Inscripção. O som representado por cada um dos caracteres alphabéticos. Aquillo que está escrito. Sentido claramente expresso pelo que se escreve. Versos, correspondentes a uma cantiga ou música. Papel representativo de moéda: sacar uma letra. * |Prov.| Léria, bazófia. (Colhido nas Caldas da Raı́nha) * Letra redonda, letra de imprensa. Letra morta, preceito escrito, que não chegou a cumprir-se ou que deixou de se cumprir. |Loc. adv.| Á letra, |fam.| Léria, bazófia. (Colhido nas Caldas da Raı́nha) * Letra redonda, letra de imprensa. Letra morta, preceito escrito, que não chegou a cumprir-se ou que deixou de se cumprir. |Loc. adv.| Á letra,
+letra. Inscripção. O som representado por cada um dos caracteres alphabéticos. Aquillo que está escrito. Sentido claramente expresso pelo que se escreve. Versos, correspondentes a uma cantiga ou música. Papel representativo de moéda: sacar uma letra. * Prov. |fam.| Léria, bazófia. (Colhido nas Caldas da Raı́nha) * Letra redonda, letra de imprensa. Letra morta, preceito escrito, que não chegou a cumprir-se ou que deixou de se cumprir. |Loc. adv.| Á letra,
 literalmente; rigorosamente; com exactidão. Pl. Carta: cá recebi as suas letras. Literatura: tornou-se notável nas
 letras portuguesas. (Do lat. litera)
 letrache |m.| Apparelho de pesca, usado no Guadiana.
@@ -2115,7 +2115,7 @@ levantamento |m.| Acto de levantar. Accréscimo, refôrço. Insubordinação; re
 levantante |adj.| Heráld. Representado em pé. (De levantar )
 levantar |v. t.| Pôr em pé. Pôr alto; erguer. Tornar mais alto. Arvorar. Tornar erecto. Arrancar. Aprestar, apparelhar. Fig. Ennobrecer. Exaltar. Sublimar. Excitar, revoltar. Aumentar. Reforçar: medicamento, que levanta as fôrças. Originar: levantar uma calúmnia. Cobrar, arrecadar. Pôr fim a. Pôr em fuga. Afastar. Fundar, edificar:
 levantar um prédio. Suggerir. |V. i.| Subir de preço. Crescer. Pôr-se mais alto. |M.| Acto de levantar.
-levante |m.| Acto de levantar. A banda do horizonte, donde parece surgir o sol; oriente. Região asiática, banhada pelo Mediterrâneo. Povos dessa região. * |Prov.| Motim. * T. de Turquel. Tempo, immediato a um perı́odo chuvoso.
+levante |m.| Acto de levantar. A banda do horizonte, donde parece surgir o sol; oriente. Região asiática, banhada pelo Mediterrâneo. Povos dessa região. * Prov. Motim. * T. de Turquel. Tempo, immediato a um perı́odo chuvoso.
 Loc. |adv.| De levante, sem persistência. Sem descanso. Irreflectidamente. Prestes a partir: estou de levante. (Lat.
 levans, levantis)
 levântico |adj.| O mesmo que levantino.
@@ -2225,7 +2225,7 @@ liame |m.| O mesmo que liação. Aquillo que prende ou liga uma coisa ou pessoa 
 liamento |m.| Des. O mesmo que ligamento. Cf. Pant. de Aveiro, Itiner., 130, (2.ª ed.). (De liar )
 liana |f.| Gal. O mesmo que cipó. (Fr. liane)
 liança |f.| Liação; alliança; união. (De liar )
-liandras |f.| pl. |Prov.| alent. Arcos de circulo, feitos de ferro, que reforçam as pinas dos carros, sobrepondo-se-lhes com a mesma curvatura.
+liandras |f.| pl. Prov. alent. Arcos de circulo, feitos de ferro, que reforçam as pinas dos carros, sobrepondo-se-lhes com a mesma curvatura.
 lião |m.| Ant. O mesmo que leão. Cf. Eufrosina, 180.
 liar |v. t.| O mesmo que ligar.
 lias |m.| Formação do calcário argilloso. (Ingl. lias)
@@ -2316,7 +2316,7 @@ libónia |f.| Planta dos jardins no Brasil.
 libra |f.| O mesmo que arrátel. Antigo pêso de 16 onças, nas pharmácias. Moéda de oiro inglesa; esterlina. * Antiga moéda portuguesa, que começou a correr em tempo de Affonso I. (Lat. libra)
 libração |f.| Acto ou effeito de librar. Oscillação de um corpo que procura o equilı́brio. Oscillação apparente da
 Lua. (Lat. libratio)
-librame |m.| Grande porção de libras, (moédas). |Fam.| Grande porção de libras, (moédas).
+librame |m.| Fam. Grande porção de libras, (moédas).
 librar |v. t.| Equilibrar. Suspender. Basear. |V. p.| Estar suspenso no ar; pairar. (Lat. librare)
 libratório |adj.| Em que há oscillação: movimento libratório.libré (De librar )
 libré |f.| Uniforme de criados, em casas nobres. Chul. Farda, uniforme. Fato. Fig. Aspecto. (Do fr. livrée)
@@ -2360,7 +2360,7 @@ licenciatura |f.| O mesmo que licenciamento. Grau de licenciado. Acto do conferi
 licenciosamente |adv.| De modo licencioso; dissolutamente.
 licenciosidade |f.| Qualidade de licencioso.
 licencioso |adj.| Que usa de demasiada licença; desregrado. Sensual; libertino. (Lat. licentiosus)
-licenı́dios |m.| de lepidópteros. (Do gr. lukaina + eidos) |Fam.| de lepidópteros. (Do gr. lukaina + eidos)
+licenı́dios |m.| Fam. de lepidópteros. (Do gr. lukaina + eidos)
 licênios |m.| pl. Trı́bo de lepidópteros. (De licena)
 licetol |m.| Medicamento contra a diátese úrica.
 liceu |m.| Instituto oficial de instrucção secundária. Ext. Colégio ou estabelecimento particular de instrucção secundária. (Lat. lyceum)
@@ -2445,7 +2445,7 @@ lienteria |f.| Soltura ou diarreia, em que os alimentos são expellidos antes da
 lientérico |adj.| Relativo á lienteria. Que padece lienteria. |M.| Aquello que soffre lienteria.
 lierne |m.| Nervura nas abóbadas góticas ou ogivaes, em fórma de cruz. (Fr. lierne)
 ligá |m.| Bras. Coiro de boi, com que se resguardam da chuva as cargas dos animaes. (De ligar ?)
-liga #,1 # |f.| Acto ou effeito de ligar. Alliança; união; pacto. Intimidade. Combinação chimica de dois ou mais metaes. Mistura. Espécie de trança ou tira, feita com duas agulhas de meia. Fita estreita, com que se cinge a meia á perna. * |Prov.| alent. O mesmo que saburra.liga,2
+liga #,1 # |f.| Acto ou effeito de ligar. Alliança; união; pacto. Intimidade. Combinação chimica de dois ou mais metaes. Mistura. Espécie de trança ou tira, feita com duas agulhas de meia. Fita estreita, com que se cinge a meia á perna. * Prov. alent. O mesmo que saburra.liga,2
 liga #,2 # |f.| T. da Bairrada. O mesmo que lia, depósito ou fezeslignite |f.| Carvão fóssil, matéria carbonosa, que conserva do vinho.
 liga-osso |m.| Planta urticácea do Brasil.
 ligação |f.| Acto ou effeito de ligar. Coherência; connexão. * |Mús.| Execução de muitas notas com uma só arcada. Pl. Curvas, traçadas e ligadas no papel, para exercı́cio de quem apprende a escrever. (Lat. ligatio)
@@ -2459,13 +2459,13 @@ ligar |v. t.| Apertar com corda ou outro objecto flexı́vel. Dar nó em. Enlaç
 liga. (Lat. ligare)
 ligas-verdes |f.| pl. Espécie de bailado mirandês.
 ligatura |f.| O mesmo que ligadura. Conjunto de coisas ligadas. Cf. Garrett, Romanceiro, II, 156.
-ligeira |f.| Bras. do N. Espécie de chicote, com que os vaqueiros açoitam os cavallos. Corda, com que se prende a um fueiro do carro o chifre do boi novo que se quere dirigir e amansar. |Prov.| minh. e dur. Corda, com que os pedreiros seguram os paus que sustentam o calabre de içar pedras.
+ligeira |f.| Bras. do N. Espécie de chicote, com que os vaqueiros açoitam os cavallos. Corda, com que se prende a um fueiro do carro o chifre do boi novo que se quere dirigir e amansar. Prov. minh. e dur. Corda, com que os pedreiros seguram os paus que sustentam o calabre de içar pedras.
 ligeiramente |adv.| De modo ligeiro; á pressa. De leve; suavemente.
 ligeireza |f.| Qualidade daquelle ou daquillo que é ligeiro. Brevidade; rapidez. Superficialidade; leviandade.
 ligeirias |f.| pl. Ant. Chocarrices. Cf. Frei Fortun., Inéd., 309. (De ligeiro)
 ligeirice |f.| O mesmo que ligeireza. Cf. Camillo, Narcóticos, II, 15.
 ligeiro |adj.| Leve. Desembaraçado. Rápido; que anda com rapidez: barco ligeiro. Esperto. Veloz; repentino. Tênue; delgado: ligeiro fio de seda. Transparente: tecido ligeiro. Vago: ligeiras apparências. Leviano. Pouco importante:
-ligeiras noções de Poética. |Adv.| Ligeiramente. * |M.| Bras. Remador de igarité. * |Prov.| extrem. O carneiro, que serve de guia a um rebanho por um atalho. (Talvez do fr. léger )
+ligeiras noções de Poética. |Adv.| Ligeiramente. * |M.| Bras. Remador de igarité. * Prov. extrem. O carneiro, que serve de guia a um rebanho por um atalho. (Talvez do fr. léger )
 ligeu |m.| Gênero de insectos hemı́pteros. (Do gr. lugaios)
 lı́gio |adj.| Dizia-se do indivı́duo, que estava addido ou ligado ao seu Prı́ncipe, para em tudo o servir; e daquelle que, tendo recebido terras do soberano, ficava por isso mais obrigado a servi-lo, na paz e na guerra. (B. lat. ligius)
 lı́gneo |adj.| Lenhoso. (Lat. ligneus)
@@ -2496,7 +2496,7 @@ lilá |m.| Planta oleácea, (syringa), vulgarmente conhecida pela fórma frances
 liláceas |f.| pl. Famı́lia de plantas, que têm por typo o lilá. (De liláceo)
 liláceo |adj.| Semelhante ou relativo a lilá.
 lilacina |f.| Corpo crystallizável e amargo, que se tira dos frutos verdes e das fôlhas de lilá.
-lilailas |f.| pl. |Prov.| trasm. O mesmo que tretas.
+lilailas |f.| pl. Prov. trasm. O mesmo que tretas.
 lilaileiro |m.| Prov. trasm. Aquelle que anda sempre com lilailas.
 lilás |m.| (V. lilá)
 liliáceas |f.| pl. Famı́lias de plantas, que tem por typo o lı́rio. (De liliáceo)
@@ -2545,7 +2545,7 @@ limbı́fero |adj.| Que tem limbo ou rebôrdo colorido. (Do lat.
 limnar
 limbus + ferre)
 limbifloras |f.| pl. Ordem de plantas, que abrange as primuláceas e as gencianáceas. (De limbo + flôr )
-limbo |m.| Extremidade; fı́mbria; rebôrdo. Parte livre das sépalas e pétalas. Lugar, em que, segundo a crença christan, estão as almas das crianças que morrem sem baptismo, e em que estavam as almas dos justos, fallecidos antes da vinda de Christo. * |Prov.| trasm. Risca que, ao jôgo da péla, se faz numa parede, e na qual se não perde nem se ganha, se lhe bate a pela. (Lat. limbus)
+limbo |m.| Extremidade; fı́mbria; rebôrdo. Parte livre das sépalas e pétalas. Lugar, em que, segundo a crença christan, estão as almas das crianças que morrem sem baptismo, e em que estavam as almas dos justos, fallecidos antes da vinda de Christo. * Prov. trasm. Risca que, ao jôgo da péla, se faz numa parede, e na qual se não perde nem se ganha, se lhe bate a pela. (Lat. limbus)
 limbumbo |m.| Pequeno peixe africano.
 limeira |f.| Árvore auranciácea, (citrus limetta aurária). Planta rutácea, (citrus dulcis). (De lima 2 )
 limenarca |m.| Governador de um pôrto, na antiga Grécia. Entre os Romanos, commandante das tropas, que guardavam a fronteira. (Lat. limenarcha)
@@ -2590,7 +2590,7 @@ limoado |adj.| Que tem a côr do limão, ou côr amarelo-clara.
 limoal |m.| Pomar de limoeiros. (De limão)
 limoctonia |f.| Morte por falta de alimento. (Do gr. limos + ktonos)
 limoeiro |m.| Planta auranciácea, do gênero laranjeira. Planta rutácea, (citrus medica). (De limão)
-limões |m.| pl. |Prov.| alent. O mesmo que chedas.
+limões |m.| pl. Prov. alent. O mesmo que chedas.
 limonada |f.| Bebida refrigerante, em que entra limão ou ácido cı́trico. Ext. Bebida refrigerante.
 limonadeira |f.| Mulher, que vende limonada.
 limonadeiro |m.| Fabricante ou vendedor de limonadas.
@@ -2607,7 +2607,7 @@ limosino |adj.| Relativo a Limoges, em França. |M.| Habitante de Limoges. Diale
 limoso |adj.| Que tem limos.
 limote |m.| Lima de três quinas, representando um triângulo equilátero.
 limpa |f.| O mesmo que alimpa. Parte da charneca, onde não cresce mato; clareira. Bras. do N. Acto de mondar ou cortar ervas damninhas em terreno cultivado. (De limpar )
-limpa-botas |m.| O mesmo que engraxador. |Fam.| O mesmo que engraxador.
+limpa-botas |m.| Fam. O mesmo que engraxador.
 limpa-calhas |m.| Instrumento, com que se limpam as calhas ou carris, para a passagem de carros americanos ou de carros eléctricos. Aquelle que trabalha com êsse instrumento.
 limpa-candeeiros |m.| O mesmo que lampianista.
 limpa-chaminés |m.| Objecto, com que se limpam chaminés de fogões, de candeeiros, etc. Indivı́duo que limpa chaminés de cozinhas.
@@ -2619,14 +2619,14 @@ limpação |f.| O mesmo que limpadela.
 limpadeira |f.| Colhér muito estreita e de cabo comprido, com a qual se limpam os furos que a broca faz na pedra.
 limpadela |f.| Acto ou effeito de limpar.
 limpador |adj.| Que limpa. |M.| Aquelle que limpa. Máquina de joeirar trigo.
-limpadura |f.| O mesmo que limpadela. Alimpadura. Pl. O que sobeja da comida nos pratos. * |Prov.| beir. O mesmo que rabeiras.
+limpadura |f.| O mesmo que limpadela. Alimpadura. Pl. O que sobeja da comida nos pratos. * Prov. beir. O mesmo que rabeiras.
 limpalho |m.| pl. Agr. Restos de cereaes, que ficam no celleiro, depois de extrahidos os melhores bagos. Cf. Gazeta dos Lavr., I, 17. (De limpar )
 limpamente |adv.| Com limpeza. (De limpo)
 limpamento |m.| O mesmo que limpeza.
 limpante |m.| T. de Villa-Viçosa Rodilho, para limpar talheres, loiça, etc.
-limpar |v. i.| Tornar limpo, puro. Assear. Varrer. Enxugar. Expungir. Subtrahir. Desbastar. Arrotear. Desramar. Joeirar. Tirar ou ganhar tudo a. * |Prov.| trasm. Dar segunda espadelada a (o linho). * Bras. do N. Mondar; sachar. |V. i.| Desanuvear-se, (falando-se do tempo). Perder a lanugem, (falando-se dos frutos). E diz-se das árvores, cujas flôres vão perdendo os verticillos exteriores. (Do lat. limpidare)
+limpar |v. i.| Tornar limpo, puro. Assear. Varrer. Enxugar. Expungir. Subtrahir. Desbastar. Arrotear. Desramar. Joeirar. Tirar ou ganhar tudo a. * Prov. trasm. Dar segunda espadelada a (o linho). * Bras. do N. Mondar; sachar. |V. i.| Desanuvear-se, (falando-se do tempo). Perder a lanugem, (falando-se dos frutos). E diz-se das árvores, cujas flôres vão perdendo os verticillos exteriores. (Do lat. limpidare)
 limpeza |f.| Qualidade de limpo, de asseado, de puro. Coisa
-limpa ou perfeita. Perfeição. * |Prov.| minh. Roupas de casa; bragal.
+limpa ou perfeita. Perfeição. * Prov. minh. Roupas de casa; bragal.
 limpidez |f.| Qualidade daquillo que é limpido; transparência; nitidez.
 lı́mpido |adj.| Nı́tido; puro. Transparente: água lı́mpida. Sereno; desanuveado: atmosphera lı́mpida. Limpo. Viçoso. Polido. Ingênuo. Sonoro. (Lat. limpidus)
 lı́mpio |adj.| Ant. O mesmo que lı́mpido.
@@ -2659,7 +2659,7 @@ Lindern, |n. p.| )
 lindeza |f.| Qualidade de lindo. Belleza; formosura. Aquelle ou aquillo que é lindo.
 lindo |adj.| O mesmo que bello. Agradável: tempo lindo. Delicado; primoroso: procedimento lindo. (Do lat. limpidus)
 lindo-pardo |m.| Variedade de maçan pequena e pardacenta.
-lindote |adj.| Um tanto lindo. |Fam.| Um tanto lindo.
+lindote |adj.| Fam. Um tanto lindo.
 lı́ndsea |f.| Gênero de fêtos.
 lindseı́te |f.| Miner. Mineral análogo ao ferro oxydado.
 lineado |adj.| Bot. Diz-se das fôlhas, que apresentam linhas finas e parallelas, de côr differente da do fundo. (Do lat. linea)
@@ -2719,7 +2719,7 @@ linguarado |adj.| P. us. O mesmo que linguareiro.
 linguarão |m.| O mesmo que linguareiro: “...mais cautelosos e menos linguarões...” Corvo, Anno na Côrte, III, 39.
 linguaraz |m.| Linguareiro; maldizente. (Do rad. de |adj.| Linguareiro; maldizente. (Do rad. de lı́ngua)
 linguareiro |m.| Falador; chocalheiro. (Do rad. de |adj.| Falador; chocalheiro. (Do rad. de lı́ngua)
-linguarejar |v. i.| Tagarelar; parolar; dar á lı́ngua. |Fam.| Tagarelar; parolar; dar á lı́ngua.
+linguarejar |v. i.| Fam. Tagarelar; parolar; dar á lı́ngua.
 linguarice |f.| Tagarelice.
 linguário |m.| Multa ou castigo que, entre os antigos, se impunha aos que empregavam linguagem indecorosa ou effensiva. (Lat. linguarium)
 linguarudo |adj.| Pop. O mesmo que linguareiro.
@@ -2729,7 +2729,7 @@ lingueirão #,2 (gu-ei )# |m.| Mollúsco acéphalo, de concha bivalve. Pequeno p
 lingueirão-de-canudo |m.| Mollúsco, o mesmo que lingueirão 2 .
 lingueta #,(gu-ê)# |f.| Pequena lı́ngua. Fiel da balança. Parede entre duas chaminés. Rampa de caes. Lámina, que em certos instrumentos e máquinas é movida pelo ar ou pela água. Parte móvel da fechadura, que a chave faz entrar na chapatesta. Belho. Appêndice da corolla de algumas plantas synanthéreas. Ligadura ou compressa.
 linguete #,(gu-ê)# |m.| Peça de ferro ou madeira, que se embebe nas rodas do cabrestante, para que êste não desande. (De lı́ngua)
-linguiça #,(gu-i )# |f.| Espécie de chouriço delgado. * |Prov.| trasm. O mesmo que murra 1 . (Do lat. hyp. lucanicia, de
+linguiça #,(gu-i )# |f.| Espécie de chouriço delgado. * Prov. trasm. O mesmo que murra 1 . (Do lat. hyp. lucanicia, de
 lucanica, linguiça)
 linguice #,(gu-i )# |f.| Ant. O mesmo que linguiça. Cf. Eufrosina, act. I, sc. 3.
 linguifero #,(gu-i )# |adj.| Que tem lı́ngua, ou órgãos em fórma de lı́ngua. (Do lat. lingua + ferre)
@@ -2753,7 +2753,7 @@ linhagem #,2 # |f.| (m. em alguns clássicos) Série de gerações. Genealogia. 
 linhagista |m.| Aquelle que se dedica a investigações genealógicas. (De linhagem 2 )
 linhajudo |adj.| Que trata de linhagens ou genealogias. Cf. Camillo, Corja, 51.
 linhal |m.| Terreno, semeado de linho.
-linhar |m.| O mesmo que linhal. Cf. G. Vicente. * |Prov.| 1185 trasm. O mesmo que coirela ou belga.
+linhar |m.| O mesmo que linhal. Cf. G. Vicente. * Prov.1185 trasm. O mesmo que coirela ou belga.
 linharão |m.| Prov. trasm. Linho grosso.
 linharice |f.| Prov. minh. Terra, em que se ceifa linho. Milho da linharice, milho semeado na terra que deu linho.
 linhavão |m.| Apparelho de linha e anzol, usado pelos pescadores da costa do Algarve. (De linha. Cp. alinhavar )
@@ -2914,7 +2914,7 @@ lirioide |adj.| O mesmo que liliforme. (Do gr. leirion + eidos)
 lirismo |m.| Qualidade de lı́rico, sublime ou sentimental. Subjectivismo poético. Entusiasmo. (De lira)
 lirista |m.| Tocador de lira. Deprec. Poéta frı́volo, banal. (De lira)
 lirı́stria |f.| A mulher que tocava lira. (Lat. lyristria)
-liró |adj.| Vestido com apuro; casquilho; muito enfeitado. |Fam.| Vestido com apuro; casquilho; muito enfeitado.
+liró |adj.| Fam. Vestido com apuro; casquilho; muito enfeitado.
 lirodo |m.| Cantador que, entre os antigos, acompanhava o seu canto com o som da lira. O mesmo que citaredo. Cf. Castilho, Fastos, III, 207. (Lat. lyrodus)
 lis |m.| Lı́rio, Cp. flôr-de-lis. (Do fr. lis)
 lisamente |adv.| De modo liso.
@@ -3195,11 +3195,11 @@ livor |m.| O mesmo que lividez. (Lat. livor )
 livra |f.| Des. O mesmo que libra.
 livração |f.| Des. O mesmo que livramento.
 livrador |adj.| Que livra. |M.| Aquelle que livra; libertador.
-livralhada |f.| Montão de livros; porção de livros. |Fam.| Montão de livros; porção de livros.
+livralhada |f.| Fam. Montão de livros; porção de livros.
 livramento |m.| Acto ou effeito de livrar.
 livrança |f.| Livramento. Cédula ou ordem escrita, para pagamento. (De livrar )
 livrar |v. t.| Dar liberdade a; fazer livre. Salvar; preservar:
-livrar da peste. Defender. Tirar de difficuldades. * |Prov.| minh. Desembaraçar, despejar (uma coisa). Ant. Resolver, decidir. * |V. p.| Prov. minh. Dar á luz, parir. Cp. delivramento. (Do lat. liberare)
+livrar da peste. Defender. Tirar de difficuldades. * Prov. minh. Desembaraçar, despejar (uma coisa). Ant. Resolver, decidir. * |V. p.| Prov. minh. Dar á luz, parir. Cp. delivramento. (Do lat. liberare)
 livraria |f.| Reunião de livros, dispostos ordenadamente. Bibliotheca. Estabelecimento, em que se vendem livros. Collecção de obras de certos autores ou sôbre determinado assumpto. Pop. Grande porção de livros. * Gı́r. Repertório de cantigas.
 livre |adj.| Que tem liberdade. Que dispõe de si; independente. Solto. Absolvido: o réu ficou livre. Desembaraçado: livre de cuidados. Franqueado. Que não está preso pelos laços do matrimónio. Licencioso. Dissoluto. |Adv.| Com liberdade. (Do lat. liber )ductos ou mercadorias, independentemente de impostos aduaneiros.
 livre-cambismo |m.| Systema dos que preconizam o livrecâmbio.
@@ -3240,7 +3240,7 @@ lixoso |adj.| Que tem lixo.
 lizar |v. t.| Voltar num banho de tinta (qualquer tecido ou meada)
 lizo |adj.| (e der.) (V. liso, etc.)–Lizo seria preferı́vel, se a etym. do voc. fôsse o latim licium, como alguns suppõem.
 lo #,(lu)# |pron.| Que, em vêz de o, se appõe encliticamente ás pessôas verbaes de terminação em r, s ou z, determinando a quéda dessas consoantes: “tu applaude-lo; elle fê-lo; vais vesti-lo;”. |Art.| Ant. e mad. O mesmo que o.
-lôa |f.| Apologia. Discurso em louvor de alguém. Elogio. Composição poética em louvor da Virgem ou dos santos. Ant. Prólogo de uma composição dramática. * |Prov.| Mentira; parlenda: deixa-te de lôas. (De loar )
+lôa |f.| Apologia. Discurso em louvor de alguém. Elogio. Composição poética em louvor da Virgem ou dos santos. Ant. Prólogo de uma composição dramática. * Prov. Mentira; parlenda: deixa-te de lôas. (De loar )
 loador |m.| Ant. Aquelle que louva; lisonjeador. Cf. Cancion. da Vaticana. (De loar )
 loangos |m.| pl. Cacongos do território francês, ao norte do Congo português.
 loante |m.| Des. Aquelle que louva, aquelle que faz lôas. Cf. Garrett, Viagens, I, 43. (De loar )
@@ -3262,7 +3262,7 @@ lobato |m.| O mesmo que lobacho. (Cf. cast. lobato)
 lobaz |m.| Grande lôbo. (Do lat. lupax )
 lobecão |m.| Animal da raça do cão e lobo. (De lobo + cão)
 lobeiro #,1 # |adj.| Que é bom caçador de lôbos: cão lobeiro.
-Lobal. * Diz-se do cavallo, cujos pêlos são amarelos na base e pretos na ponta. * |Prov.| Diz-se da manta, para cama ou para agasalho, de côres variadas e listrada. * |M.| Caçador de lôbos. (Do lat. luparius)
+Lobal. * Diz-se do cavallo, cujos pêlos são amarelos na base e pretos na ponta. * Prov. Diz-se da manta, para cama ou para agasalho, de côres variadas e listrada. * |M.| Caçador de lôbos. (Do lat. luparius)
 lobeiro #,2 # |adj.| Diz se de uma espécie de trigo rijo.
 lobeiro #,3 # |adj.| Prov. alg. Favorável; agradável.
 lobélia |f.| Gênero de plantas herbáceas, que contém um suco cáustico e venenoso, (lobelia syphilitica, Lin.). (De Lobel, |n. p.| )
@@ -3400,7 +3400,7 @@ lógea |f.| (V. loja)
 lógica |f.| Sciência, que tem por objecto os processos do raciocı́nio ou as regras para o descobrimento e exposição da verdade. Coherência, ligação de ideias. Raciocı́nio. Pop. Ardil; lábia. (Lat. logica)
 logical |adj.| Des. O mesmo que lógico. Cf. Eufrosina, 189. (De lógica)
 logicamente |adv.| De modo lógico. Coherentemente. Consequentemente.
-logicar |v. i.| Discorrer logicamente. Raciocinar. Alardear lógica. Cf. Camillo, Canc. Al., 347. (De lógica) |Fam.| Discorrer logicamente. Raciocinar. Alardear lógica. Cf. Camillo, Canc. Al., 347. (De lógica)
+logicar |v. i.| Fam. Discorrer logicamente. Raciocinar. Alardear lógica. Cf. Camillo, Canc. Al., 347. (De lógica)
 lógico |adj.| Relativo a lógica. Conforme ás regras da lógica. Coherente. |Gram.| Diz-se da anályse, que recai, não na fórma e natureza das palavras, como a anályse grammatical, mas nas partes da oração ou proposição. |M.| Aquelle que estuda ou sabe lógica. * Burl. Indivı́duo finório, manhoso. (Do gr. logikos)
 logı́stica |f.| Designação antiga de uma parte da Álgebra, na qual se tratava das primeiras operações, isto é, da somma, da subtracção, etc. (De logı́stico)
 logı́stico |adj.| Mathem. Diz-se dos logarithmos, em que zero é o logarithmo correspondente ao número 3.600. * |M.| pl. Antiga seita médica, que, sem desprezar a experiência, se baseava na razão e nas theorias. (Gr. logistikos)
@@ -3439,10 +3439,10 @@ logreiro #,1 # |m.| Ant. O mesmo que usurário. (De lograr, se não é alter. de
 logreiro #,2 # |adj.| Que logra ou burla. Que faz caı́r em engano. Manhoso. Cf. Camillo, Noites de Insómn., V, 22; Filinto, VII, 249; XII, 97. (De lôgro)
 lôgro |m.| Acto ou effeito de lograr. Engano propositado, contra alguém. Burla. Des. Lucro: “pôr cabedaes a lôgro...” Camillo, Ôlho de Vidro, 96. Pop. Pulha, partida ou peça de entrudo; engano jocoso.
 lóia |f.| Ant. Manilha de oiro massiço no Oriente. Cf. Peregrinação, XXII.
-loiça |f.| Productos de cerâmica. Barro, porcelana ou outras substâncias análogas, manufacturadas por oleiro, para serviço de mesa especialmente. |Prov.| Vasilhame. Chocalho para o pescoço do gado. Pop. Coisa excellente. * Pl. Depósito geral das águas, que devem alimentar a salina, e que abrange o caldeiro, a caldeira e o pejo. (Do lat. luteus)
+loiça |f.| Productos de cerâmica. Barro, porcelana ou outras substâncias análogas, manufacturadas por oleiro, para serviço de mesa especialmente. Prov. Vasilhame. Chocalho para o pescoço do gado. Pop. Coisa excellente. * Pl. Depósito geral das águas, que devem alimentar a salina, e que abrange o caldeiro, a caldeira e o pejo. (Do lat. luteus)
 loiçaria |f.| Estabelecimento, onde se vende loiça. Loiças, conjunto de loiças.
 loiceira |f.| Vendedora de loiça. Guarda-loiça. (Cp. loiceiro)
-loiceiro |m.| Fabricante ou negociante de loiça. |Prov.| Vasilha de adega. * |Prov.| Utensı́lio, formado de um tronco vertical, com galhos, para nestes se pendurar a loiça da cozinha. * |Prov.| minh. Taboleiro, em que se põe loiça. * Armário para loiça; guarda-loiça.
+loiceiro |m.| Fabricante ou negociante de loiça. Prov. Vasilha de adega. * Prov. Utensı́lio, formado de um tronco vertical, com galhos, para nestes se pendurar a loiça da cozinha. * Prov. minh. Taboleiro, em que se põe loiça. * Armário para loiça; guarda-loiça.
 lóio #,1 # |m.| Planta, da |fam.| das compostas, (centaurea cyanus). * |Adj.| Azulado. Tirante a azul. Pertencente á Ordem de San-João Evangelista, em que o hábito dos frades era azulado. |M.| Frade dessa Ordem. (De Eloi (santo), |n. p.| , seg. Car. Michaëlis)
 lóio #,2 # |adj.| Pop. Ignorante; basbaque; leigo em qualquer assumpto. (Relaciona-se com lóio 1 ?)
 loiola |m.| Deprec. Jesuı́ta. Hypócrita. Cf. Herculano, Reacção, 19.
@@ -3489,7 +3489,7 @@ loligo + gr. eidos)
 lólio |m.| Designação scientı́fica do joio. (Lat. lolium)
 lomária |f.| Gênero de fêtos.
 lomátia |f.| Gênero de plantas proteáceas.
-lomba |f.| Cumeeira. Lombada de serra. Montı́culo de areia ou terra, formado pelo vento; médo. |Prov.| trasm. Preguiça. (Do lat. lumbus)
+lomba |f.| Cumeeira. Lombada de serra. Montı́culo de areia ou terra, formado pelo vento; médo. Prov. trasm. Preguiça. (Do lat. lumbus)
 lombada |f.| Lomba prolongada. Dorso do boi. Costas do
 livro. (De lombo)
 lombar |adj.| Relativo ao lombo: dôres lombares.
@@ -3501,9 +3501,9 @@ lombardo #,1 # |adj.| * Relativo á Lombárdia. Diz-se de uma espécie de couve.
 lombardo #,2 # |adj.| Diz-se do toiro negro com o lombo acastanhado. (Corr. de lompardo, provavelmente. V. lompardo)
 lombear |v. i.| Bras. do S. Diz-se do cavallo arisco que torce o lombo, quando montado. Diz-se da sella, quando fere o
 lombo do animal.
-lombeira |f.| Bras. e |prov.| trasm. Quebrantamento de fôrças. Molleza do corpo. (De lombo)
+lombeira |f.| Bras. e prov. trasm. Quebrantamento de fôrças. Molleza do corpo. (De lombo)
 lombeiro |adj.| O mesmo que lombar. |M.| Coiro do lombo de certos animaes. (De lombo)
-lombelo #,(bê)# |m.| Nome vulgar de um dos músculos, que se inserem na columna vertebral do gado bovino. * |Prov.| trasm. Cada um dos dois pedaços compridos de carne, que se tiram dos lados do lombo do porco e que também se chamam coêlhos. (De lombo)
+lombelo #,(bê)# |m.| Nome vulgar de um dos músculos, que se inserem na columna vertebral do gado bovino. * Prov. trasm. Cada um dos dois pedaços compridos de carne, que se tiram dos lados do lombo do porco e que também se chamam coêlhos. (De lombo)
 lombilheiro |m.| Fabricante de lombilhos.
 lombilho |m.| Bras. do S. Parte dos arreios, que póde substituir o sellim. (De lombo)
 lombinho |m.| O mesmo que lombelo.
@@ -3519,12 +3519,12 @@ lombrigar |v. t.| (Por lobrigar ). Cf. Garrett, Viagens.
 lombrigueira |f.| Nome, que os Portugueses dão a árvore, que os indı́genas do Brasil chamam guaxinguba. (De lombriga. V. guaxinguba)
 lombudo |adj.| Que tem bons lombos.
 lomear |v. t.| Ant. O mesmo que alomear.
-lomedro #,(mê)# |Prov.| minh. A parte da coxa, que fica por cima do joelho. |Prov.| trasm. Nádegas.
+lomedro #,(mê)# Prov. minh. A parte da coxa, que fica por cima do joelho. Prov. trasm. Nádegas.
 lomentáceas |f.| pl. Bot. O mesmo que cesalpı́neas. (De lomentáceo)
 lomentáceo |adj.| Bot. Que é cortado por articulações, de espaço a espaço, (falando-se de frutos ou fôlhas das leguminosas) (Do lat. lomentum)
 lompardo |adj.| Diz-se do toiro, que tem o lombo pardo e mais escuro que o resto do corpo. (De lombo + pardo)
 lona #,1 # |f.| Tecido grosseiro e forte, de que se fazem toldos, velas de navios, etc. (Talvez de Olonne, |n. p.| geogr. em França)
-lona #,2 # |f.| Burl. Léria, palanfrório. |Prov.| Mentira, lôa. |M.| Prov. trasm. Bisbórria; troca-tintas.
+lona #,2 # |f.| Burl. Léria, palanfrório. Prov. Mentira, lôa. |M.| Prov. trasm. Bisbórria; troca-tintas.
 lonca |f.| Bras. do S. Pedaço de coiro lonqueado.
 londera-angundo |m.| Ave pernalta da África occidental.
 londo |m.| Ant. Certa renda ou foro.
@@ -3538,7 +3538,7 @@ longadamente |adv.| Ant. Por muito tempo. (Do rad. de longo)
 longado |adj.| Des. Que dura muito. Muito extenso. (De longo)
 longaes |f.| Antiga variedade de pêra, hoje, desconhecida por aquelle nome. (Cp. longal )
 longais |f.| Antiga variedade de pêra, hoje, desconhecida por aquelle nome. (Cp. longal )
-longal |adj.| Longo, comprido. * |Prov.| trasm. Diz-se de uma variedade de azeitona, também conhecida por conserva, ou sevilhana, ou regalona, ou santulhana. |Prov.| beir. Diz-se de uma espécie de castanha. (De longo)
+longal |adj.| Longo, comprido. * Prov. trasm. Diz-se de uma variedade de azeitona, também conhecida por conserva, ou sevilhana, ou regalona, ou santulhana. Prov. beir. Diz-se de uma espécie de castanha. (De longo)
 longamente |adv.| Extensamente; por muito tempo. (De longo)
 longana |f.| Planta sapindácea do Brasil, (euphoria longana).
 longanimamente |adv.| De modo longânime; com generosidade.
@@ -3658,7 +3658,7 @@ losanja |f.| Des. Figura geométrica, o mesmo que losango. Pl. Preparado pharmac
 losia |f.| Ant. O mesmo que adussı́a.
 losna |f.| Nome de várias plantas, uma das quaes é o mesmo que absintho. (Do lat. aloxanum)
 lôstra |f.| Prov. beir. Mulher desmazelada, indolente.
-lota |f.| Lugar, onde se orçam os direitos que têm de sêr pagos por pescadores. Lugar, onde se vende peixe. Porção do peixe que se vende. * Certo modo de vender o peixe. * |Prov.| minh. Pequena quantidade. (Colhido em Varzim) Vender á lota, marcar o vendedor um preço alto, que vai baixando, até que convém a um comprador. (De lotar )
+lota |f.| Lugar, onde se orçam os direitos que têm de sêr pagos por pescadores. Lugar, onde se vende peixe. Porção do peixe que se vende. * Certo modo de vender o peixe. * Prov. minh. Pequena quantidade. (Colhido em Varzim) Vender á lota, marcar o vendedor um preço alto, que vai baixando, até que convém a um comprador. (De lotar )
 lotação |f.| Acto ou effeito de lotar.
 lotador |m.| Aquelle que lota. Aquelle que faz lotes. * Apparelho que, no fabrico da pólvora, distribue esta em
 lotes, com propriedades iguaes.
@@ -3675,7 +3675,7 @@ lotófago |adj.| Que se alimenta de lódão, (aludindo-se a certos indivı́duos
 lotóphago |adj.| Que se alimenta de lódão, (alludindo-se a certos indivı́duos mythológicos). (Do gr. lotos + phagein)
 lotos |m.| (V. lódão)
 lótus |m.| O mesmo que lódão.
-louça |f.| Productos de cerâmica. Barro, porcelana ou outras substâncias análogas, manufacturadas por oleiro, para serviço de mesa especialmente. |Prov.| Vasilhame. Chocalho para o pescoço do gado. Pop. Coisa excellente. * Pl. Depósito geral das águas, que devem alimentar a salina, e que abrange o caldeiro, a caldeira e o pejo. (Do lat. luteus)
+louça |f.| Productos de cerâmica. Barro, porcelana ou outras substâncias análogas, manufacturadas por oleiro, para serviço de mesa especialmente. Prov. Vasilhame. Chocalho para o pescoço do gado. Pop. Coisa excellente. * Pl. Depósito geral das águas, que devem alimentar a salina, e que abrange o caldeiro, a caldeira e o pejo. (Do lat. luteus)
 louçaı́nha |f.| Vestuário muito ataviado. Objecto garrido. Garridice; enfeite. (Cp. louçaı́nho)
 louçainhar #,(ça-i )# |v. t.| Tornar loução. Capitular de
 louçania. Cf. Filinto, XI, 196. (De louçaı́nho)
@@ -3687,7 +3687,7 @@ louçanmente |adv.| De modo loução; com garridice.
 loução |adj.| Garrido; que tem louçaı́nhas. Elegante; garboso; bello. (Cp. cast. lozano)
 louçaria |f.| Estabelecimento, onde se vende louça. Louças, conjunto de louças.
 louceira |f.| Vendedora de louça. Guarda-louça. (Cp. louceiro)
-louceiro |m.| Fabricante ou negociante de louça. |Prov.| Vasilha de adega. * |Prov.| Utensı́lio, formado de um tronco vertical, com galhos, para nestes se pendurar a louça da cozinha. * |Prov.| minh. Taboleiro, em que se põe louça. * Armário para louça; guarda-louça.1199
+louceiro |m.| Fabricante ou negociante de louça. Prov. Vasilha de adega. * Prov. Utensı́lio, formado de um tronco vertical, com galhos, para nestes se pendurar a louça da cozinha. * Prov. minh. Taboleiro, em que se põe louça. * Armário para louça; guarda-louça.1199
 louco #,1 # |adj.| Que perdeu o uso da razão. Demente. Extravagante. Imprudente; temerário. Estulto. Muito galhofeiro; estroina. Apaixonado. Furioso. |M.| Aquelle que perdeu o uso da razão. Aquelle que é extravagante. (Do lat. elucus?)
 louco #,2 # |adj.| Prov. minh. O mesmo que viçoso, (falando-se de plantas).
 loucura |f.| Estado de quem é louco. Acto próprio de louco. Falta de tino ou de prudência; insensatez. Grande extravagância. Aventura insensata.
@@ -3915,7 +3915,7 @@ lumbricário |adj.| O mesmo ou melhor que lombrical.
 lumbricida |adj.| Que mata lombrigas; anti-helmı́nthico. (Do lat. lumbricus + caedere)
 lume |m.| Desenvolvimento de calor e de luz: accender o
 lume. Substância em combustão; fogo: deitar papel no
-lume. Luz. Clarão. Cirio, vela: os lumes do altar. Fig. Brilhantismo. Guia. Perspicácia: o rapaz tem lume no ôlho. Superfı́cie: ao lume da água. * Parte do casco do cavallo, correspondente á parte anterior da ferradura. * Parte anterior da ferradura. * |Prov.| minh. Cada uma das cavidades do eixo, em que assenta o carro. * |Prov.| O mesmo que phósphoro. * Lumes de pau, phósphoros de enxôfre. Dar a lume, publicar. * |Prov.| alg. Lume em ala,
+lume. Luz. Clarão. Cirio, vela: os lumes do altar. Fig. Brilhantismo. Guia. Perspicácia: o rapaz tem lume no ôlho. Superfı́cie: ao lume da água. * Parte do casco do cavallo, correspondente á parte anterior da ferradura. * Parte anterior da ferradura. * Prov. minh. Cada uma das cavidades do eixo, em que assenta o carro. * Prov. O mesmo que phósphoro. * Lumes de pau, phósphoros de enxôfre. Dar a lume, publicar. * Prov. alg. Lume em ala,
 lume ateado. (Lat. lumen)
 lume-prompto |m.| Phósphoro ordinário de madeira, cujo uso antecedeu o dos phósphoros de cera.
 lume-pronto |m.| Fósforo ordinário de madeira, cujo uso antecedeu o dos fósforos de cera.
@@ -3946,7 +3946,7 @@ lunação |f.| Espaço, que decorre entre uma lua-nova e a luanova seguinte. (Do
 lunado |adj.| Poét. Que tem cornos, em fórma de meia-lua. Que tem cornos: “a fronte bem lunada (da vaca)” Castilho, Geórg., 147. (Do lat. luna)
 lunanco |adj.| Bras. do S. Que tem uma anca mais alta que a outra, (falando-se do cavallo). (Cast. lunanco)
 lunanquear |v. i.| Bras. Ficar lunanco; sêr lunanco.
-lunar |adj.| Relativo á Lua: eclipse lunar. |M.| Sinal, que apparece na pelle de alguns indivı́duos, e que se attribuı́a á influência da Lua. * Philol. Diz-se das letras r, s, z, e c. * |Prov.| trasm. Cada uma das peças extremas do carro1203 de bois, e mais ou menos em fórma de crescente. (Colhido em Miranda) (Lat. lunaris)
+lunar |adj.| Relativo á Lua: eclipse lunar. |M.| Sinal, que apparece na pelle de alguns indivı́duos, e que se attribuı́a á influência da Lua. * Philol. Diz-se das letras r, s, z, e c. * Prov. trasm. Cada uma das peças extremas do carro1203 de bois, e mais ou menos em fórma de crescente. (Colhido em Miranda) (Lat. lunaris)
 lunarejo |adj.| Bras. do S. Diz-se do animal, que se distingue por qualquer sinal no pêlo. (De lunar )
 lunária |f.| Planta crucı́fera, (lunaria biennis rediviva).
 lunário |m.| Calendário, em que se computa o tempo por
@@ -3985,7 +3985,7 @@ lupanário |adj.| Neol. Relativo a lupanar.
 lupanga |f.| Pequena espada, usada pelos Cafres.
 lupante |m.| Gı́r. Ôlho. (De lupar )
 lupar |v. t.| Gı́r. Vêr. (De lupa 1 )
-lúparo |m.| (Corr. de túpulo) * |Prov.| beir. Rebento ou espigo de couves velhas.
+lúparo |m.| (Corr. de túpulo) * Prov. beir. Rebento ou espigo de couves velhas.
 lupercaes |f.| pl. Festas romanas, em honra do deus Pan. (Lat. lupercalia)
 luperco |m.| Sacerdote de Pan, entre os Romanos. (Lat. lupercus)
 lúpero |m.| Gênero de insectos coleópteros tetrâmeros. (Gr. luperos)
@@ -4009,7 +4009,7 @@ lura |f.| Toca; lora. Esconderijo de certos animaes. * Utensı́lio de barro, em
 lurar |v. t.| Fazer luras em. Esburacar, escavar. Cf. Camillo, Brasileira, 104 e 190. |V. p.| Meter-se em lura, esconder-se. Us. por Camillo.
 lurda |f.| Prov. trasm. O mesmo que lóstra.
 lurgo |m.| Pequena ave, quási toda verde.
-lúria |f.| * |Prov.| trasm. Corda grossa para apertar a carga do carro de bois.
+lúria |f.| * Prov. trasm. Corda grossa para apertar a carga do carro de bois.
 lúrido |adj.| Pállido, lı́vido. Poét. Escuro. (Lat. luridus)
 lurta |f.| Prov. trasm. O mesmo que póla, sova. (Do cast.
 lurte, alude?)
@@ -4084,7 +4084,7 @@ lutumbo |m.| Arbusto africano, de caule herbáceo, piloso, de 12 a 20 fôlhas em
 lutuosa |f.| Ant. Direito, que os donatários recebiam por morte dos seus rendeiros, e os Bispos pela vagatura de uma igreja que delles dependesse. (De lutuoso)
 lutuoso |adj.| Coberto de luto. Fig. Lúgubre; triste. (Lat. luctuosus)
 luva |f.| Peça de vestuário, para cobrir a mão e cada um dos dedos separadamente. * Utensı́lio de crina, com que se
-limpam bêstas. * |Prov.| Bolsa ou rêde metállica com que se
+limpam bêstas. * Prov. Bolsa ou rêde metállica com que se
 limpam árvores. * Náut. Dar de luva, encher (a vela) pelo bordo contrário, por descuido do timoneiro ou por salto de vento. Luva de nossa-senhora, planta escrofuları́nea.
 lan estambrada e luzente.1205 Atirar a luva, accusar, reptar, provocar. Levantar a luva, acceitar o repto; tirar vingança. Pl. Recompensa, brinde em reconhecimento de um serviço ou favor: receber bôas
 luvas. (Ingl. glove)
@@ -4096,7 +4096,7 @@ luvista |m.| O mesmo que luveiro.
 luxação |f.| Saı́da da extremidade articular de um ôsso, para fóra da cavidade que lhe é própria, em virtude de um esfôrço externo ou de uma alteração orgânica. (Lat. luxatio)
 luxado |adj.| Deslocado, desarticulado. (De luxar 1 )
 luxamento |m.| Ant. Aviltamento. Perversão. (De luxar 1 )
-luxar #,1 # |v. t.| Deslocar. Desconjuntar. Tirar para fóra da cavidade ou superfı́cie própria (um osso articulado). Desarticular. * Ant. Defecar, sujando: “santinho está luxado e luxou a manta toda.” G. Vicente, Auto da Lusit. * |Prov.| alg. Sujar, emporcalhar. (Lat. luxare)
+luxar #,1 # |v. t.| Deslocar. Desconjuntar. Tirar para fóra da cavidade ou superfı́cie própria (um osso articulado). Desarticular. * Ant. Defecar, sujando: “santinho está luxado e luxou a manta toda.” G. Vicente, Auto da Lusit. * Prov. alg. Sujar, emporcalhar. (Lat. luxare)
 luxar #,2 # |v. t.| Ostentar luxo. Trajar luxuosamente. (Do lat. luxari)
 luxaria |f.| Bras. Luxo demasiado. Cf. Taunay, Innocência, 45.
 luxemburguês |adj.| Relativo ao Luxemburgo. |M.| Habitante do Luxemburgo.
@@ -4154,7 +4154,7 @@ lycanthropo |m.| Aquelle que sofre lycanthropia. (Do gr.
 lucos + anthropos)
 lyceal |adj.| Neol. Relativo a lyceu: o ensino lyceal.
 lycena |f.| Gênero de insectos lepidópteros diúrnos. (Do gr. lukaina)
-lycenı́dios |m.| de lepidópteros. (Do gr. lukaina + eidos) |Fam.| de lepidópteros. (Do gr. lukaina + eidos)
+lycenı́dios |m.| Fam. de lepidópteros. (Do gr. lukaina + eidos)
 lycênios |m.| pl. Trı́bo de lepidópteros. (De lycena)
 lycetol |m.| Medicamento contra a diáthese úrica.
 lyceu |m.| Instituto official de instrucção secundária. Ext. Collégio ou estabelecimento particular de instrucção secundária. (Lat. lyceum)

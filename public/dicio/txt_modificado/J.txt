@@ -48,7 +48,7 @@ jacarandá |f.| Bras. Nome de várias plantas bignoniáceas e leguminosas.
 jacarandá-caroba |m.| O mesmo que caroba.
 jacarandana |f.| Árvore silvestre da América.
 jacaratinga |f.| Planta myrtácea e silvestre do Brasil. Fruto dessa planta.
-jacaré |m.| Espécie de crocodilo; caimão. * |Prov.| minh. Bisbórria; pateta. Bras. Variedade de pimenta roxa. (T. tupi)
+jacaré |m.| Espécie de crocodilo; caimão. * Prov. minh. Bisbórria; pateta. Bras. Variedade de pimenta roxa. (T. tupi)
 jacaré-aru |m.| Bras. O mesmo que caferana.
 jacaré-cacau |f.| Fruto silvestre do Brasil.
 jacaré-copaı́ba |f.| Árvore clusiácea do Alto Amazonas, (calaphilum brásiliensis).
@@ -247,7 +247,7 @@ jandiroba |f.| Planta cucurbitácea e trepadeira da América do Sul.
 jando |m.| Ant. O mesmo que gente.
 janeanes |f.| Diz-se de uma espécie de uva. |M.| Ant. |adj.| Diz-se de uma espécie de uva. |M.| Ant.
 Jagodes; joão-ninguém. (De João + Eanes, |n. p.| )
-janeiradas |f.| pl. |Prov.| alent. Excursões de carácter religioso, feitas por indivı́duos que percorrem várias localidades, vestidos de opas pardas, com violas e pandeiros, tocando, cantando e pedindo para as almas. (Cp. janeiras)
+janeiradas |f.| pl. Prov. alent. Excursões de carácter religioso, feitas por indivı́duos que percorrem várias localidades, vestidos de opas pardas, com violas e pandeiros, tocando, cantando e pedindo para as almas. (Cp. janeiras)
 janeiras |f.| pl. Cantigas populares do princı́pio do anno. Bôas-festas, presentes de anno-bom. Nome popular de algumas plantas, cujas flôres se abrem em Janeiro.
 janeireiro |m.| Cantador de janeiras. Aquelle que dá bôasfestas ou presentes de anno-bom. |Adj.| Relativo a Janeiro: luar janeireiro.
 janeirento |adj.| Diz-se do gato, que em janeiro anda com cio.
@@ -255,7 +255,7 @@ janeirinho |adj.| Relativo a Janeiro. Que nasceu em Janeiro, ou que só apparece
 janeiro |m.| Primeiro mês do anno, segundo a chronologia moderna e entre os antigos Romanos. Pop. O cio dos gatos. * |Adj.| O mesmo que durázio. |M.| pl. Annos de idade: já conta sessenta janeiros. (Do lat. januarius)
 janela |f.| Abertura nas paredes dos edifı́cios, para deixar entrar nelles o ar e a luz. * A porta, com que se fecha essa abertura. |Fam.| Rasgão, buraco. Pl. Pop. Olhos. (Por
 januela, |dem.| hypoth., do lat. janua, porta)
-janelar |v. i.| Estar á janela, habitualmente. Cf. Eça, P. Bası́lio, 94. |Fam.| Estar á janela, habitualmente. Cf. Eça, P. Bası́lio, 94.
+janelar |v. i.| Fam. Estar á janela, habitualmente. Cf. Eça, P. Bası́lio, 94.
 janeleira |f.| Mulher namoradeira ou que gosta muito de1129 estar á janela. (De janeleiro)
 janeleiro |m.| Aquelle que gosta muito de estar á |adj.| Aquelle que gosta muito de estar á janela.
 janelo #,(nê)# |m.| Prov. Pequena janela; postigo.
@@ -296,7 +296,7 @@ jansónia |f.| Planta leguminosa. (De Janson, |n. p.| )
 janta |f.| Pop. Acto do jantar: vamos á janta.
 jantado |adj.| Que jantou: depois de barbeado e jantado, saiu. (De jantar )
 jantar |v. t.| Comer, por occasião da principal refeição do dia: jantar um leitão. |V. i.| Tomar a principal refeição do dia: ainda não jantei. |M.| Principal refeição diária, algumas vezes a última do dia, mas ordinariamente a que se toma entre o almôço e a ceia. * Espécie de antigo tributo emphytêutico. (Do lat. jentare)
-jantarão |m.| Jantar abundante; grande jantar. |Fam.| Jantar abundante; grande jantar.
+jantarão |m.| Fam. Jantar abundante; grande jantar.
 jantarela |f.| Prov. beir. Jantar modesto, jantar frugal.
 jantareta #,(tarê)# |f.| Prov. beir. O mesmo que jantarela.
 januadim |m.| Moéda antiga da Índia Portuguesa, correspondente a 6 reis antigos.
@@ -621,7 +621,7 @@ joana |f.| Variedade de pêra muito sucosa e pouco açucarada. Pop. Burra, jumen
 joanes |m.| pl. Aborı́genes do Pará.
 joanete #,(nê)# |m.| Náut. Vela superior á gávea, e na direcção desta. Anat. Saliência na articulação da phalange do primeiro osso do metatarso com a phalange correspondente do dedo grande do pé.
 joangá |f.| Ant. O mesmo que janga.
-joaninha |f.| Designação popular da coccinela. |Prov.| dur. Pequena angoreta.
+joaninha |f.| Designação popular da coccinela. Prov. dur. Pequena angoreta.
 joanino |adj.| Relativo ao rei D. João I, de Portugal. Relativojoão-branco ao tempo de D. João III: architectura joanina. (De Joane = João, |n. p.| )
 joão-branco |m.| Grande ave de rapina, dos Alpes e Pyrenéus. (Fr. Jean-le blanc)
 joão-congo |m.| Bras. O mesmo que guache 1 .
@@ -684,11 +684,11 @@ jogueto #,(guê)# |m.| Ant. O mesmo que joguete. Cf. Sim. Mach., |f.| 79.
 jóia |f.| Artefacto, de substância preciosa, pedra ou metal. Fig. Pessôa ou coisa, que é tida em grande valor. * Propina ou direito, que se paga, pela entrada ou admissão numa associação ou grêmio. (Cp. it. gioia)
 joı́ba |f.| Bras. Árvore silvestre, cuja madeira se emprega em construcções.
 joiça |f.| Prov. minh. e alent. O mesmo que bosta.
-jóina |f.| Erva medicinal, leguminosa. * |Prov.| alent. Lenha miúda, o mesmo que chamiço.
+jóina |f.| Erva medicinal, leguminosa. * Prov. alent. Lenha miúda, o mesmo que chamiço.
 joio |m.| Planta gramı́nea, que nasce habitualmente entre o1135 trigo e o damnifica: não há trigo sem joio. Semente dessa planta. Fig. Coisa ruı́m, que nasce ou apparece entre as bôas e as damnifica. (Do lat. lolium)
 joiosa |f.| Nome, que se deu a uma espada do Cid, e que outros attribuı́ram á de Carlos-Magno, á de Roldão e á de Reinaldo. (Do fr. joyeux ?)
 jôla |f.| Prov. minh. Gı́r. O mesmo que jôrra, vinho.
-jolda |f.| Prov. O mesmo que choldra. Súcia. Pândega. * |Prov.| alent. Bando de animaes. Qualquer ajuntamento de pessôas; rancho.
+jolda |f.| Prov. O mesmo que choldra. Súcia. Pândega. * Prov. alent. Bando de animaes. Qualquer ajuntamento de pessôas; rancho.
 joldeiro |adj.| Prov. trasm. Amigo da jolda; que gosta de andar em jolda.
 joldra |f.| O mesmo que choldra.
 joliz |adj.| Ant. Alegre. Aprazı́vel. Cf. Roteiro do MarVermelho. (Fr. joli)
@@ -715,7 +715,7 @@ jornalista |m.| Aquelle que por hábito ou profissão escreve em jornal ou jorna
 jornalı́stico |adj.| Relativo a jornalistas ou a jornaes.
 jorne |f.| Vestuário encanudado, que se usava sôbre a cota de malha, espécie de camisola, em que se bordavam as armas da famı́lia. Cf. Herculano, Cister, 165. Ant. Capa, o mesmo que palhoça.
 joropa |f.| Variedade de palmeira americana.
-jôrra |f.| Breu para vasilhas de barro. Escumalha; escória. * |Prov.| minh. Vinho. (Cast. sorra)
+jôrra |f.| Breu para vasilhas de barro. Escumalha; escória. * Prov. minh. Vinho. (Cast. sorra)
 jubilação
 jorramento |m.| O mesmo que jôrro. * Inclinação de um muro, formando bojo. (De jorrar 2 )
 jorrão |m.| O mesmo que zorra. * Utensı́lio, semelhante a um leito de carro, para aplanar a terra. Cf. Leoni, Diccion. de Artilh., inédito. (Por zorrão, de zorra)
@@ -730,7 +730,7 @@ José Bonaparte, rei de Espanha, nomeado por Napoleão I. (Do b. lat. Josephus, 
 josephino |adj.| Relativo a José, |n. p.| Relativo ao tempo de D. José I: legislação josephina ou pombalina. |M.| Partidário de José Bonaparte, rei de Espanha, nomeado por Napoleão I. (Do b. lat. Josephus, |n. p.| )
 josèzinho |m.| Pop. e ant. Capote de pouca roda, sem mangas e com cabeção.
 jota |m.| Nome da letra j. * Ant. Nada, coisa nenhuma: “...se nam fosse necessidade, de vergonha nam vos pediria
-jota.” Eufrosina, acto I, sc. 3. * |Prov.| trasm. Pouca coisa; bocado; gota.
+jota.” Eufrosina, acto I, sc. 3. * Prov. trasm. Pouca coisa; bocado; gota.
 jouça |f.| Prov. minh. e alent. O mesmo que bosta.
 jovem |m.| O mesmo ou melhor que jóven. |adj.| O mesmo ou melhor que jóven.
 jóven |adj.| Juvenil; que é moço. E diz-se do animal de tenra idade. |M.| Pessôa que está na juventude. (Do lat. |f.| Pessôa que está na juventude. (Do lat. juvenis)
@@ -811,9 +811,9 @@ judicioso. Sentencioso. (Do lat. judicium)
 judio |m.| Pop. O mesmo que judeu. |Adj.| Travêsso, maléfico. Relativo aos Judeus, judaico. Cf. Garrett, Romanceiro, I, 186.
 juerana |f.| (V. jagoirana)
 juga |f.| Cabeço; lugar alto. (Cp. jugo)
-jugada |f.| Terreno, que uma junta de bois póde lavrar num dia. Geira. Antigo tributo, que recaı́a em terras lavradias. * |Prov.| trasm. Junta de bois. (Lat. jugata)
+jugada |f.| Terreno, que uma junta de bois póde lavrar num dia. Geira. Antigo tributo, que recaı́a em terras lavradias. * Prov. trasm. Junta de bois. (Lat. jugata)
 jugadar |v. t.| Ant. Medir (o pão da jugada, tributo).
-jugadeiro |adj.| Relativo a jugada. |M.| Cultivador ou proprietário de jugada. Cf. Herculano, Hist. de Port., III, 89 e 338. * |Prov.| trasm. Pequeno lavrador, que sustenta uma
+jugadeiro |adj.| Relativo a jugada. |M.| Cultivador ou proprietário de jugada. Cf. Herculano, Hist. de Port., III, 89 e 338. * Prov. trasm. Pequeno lavrador, que sustenta uma
 junta de bois.
 jugador |m.| Instrumento, com que se abatem os carneiros, no matadoiro. (De jugar )
 jugal |adj.| Relativo a marido e mulher; matrimonial. (Lat. jugalis)
@@ -834,7 +834,7 @@ juguleiras |f.| pl. Depressões longitudinaes na garganta das bêstas. (Do lat. 
 juigar #,(ju-i )# |v. t. e i.| Ant. O mesmo que julgar. Cf. Frei Fortun., Inéditos, 309. (Do lat. judicare)
 juiz |m.| Aquelle que tem competência legal para tomar conhecimento das causas dos litigantes e julgá-las por sentença. Aquelle que julga; julgador. Árbitro. Membro do
 júry. Membro do poder judicial. Aquelle que em certos
-jogos faz cumprir a lei e regras estabelecidas a respeito dêsses jogos. Fig. Aquelle que tem a seu cargo dirigir certas festividades de igreja. * |Prov.| Juiz da fome, pessôa, que passa muita fome ou anda muito magra. (Do lat.
+jogos faz cumprir a lei e regras estabelecidas a respeito dêsses jogos. Fig. Aquelle que tem a seu cargo dirigir certas festividades de igreja. * Prov. Juiz da fome, pessôa, que passa muita fome ou anda muito magra. (Do lat.
 judex )
 juiz-do-rio |m.| Prov. O mesmo que pica-peixe, ave.
 juı́za |f.| Mulher que julga. Mulher que dirige certas festividades de igreja. Pop. des. Mulher do juiz. (Fem. de
@@ -944,7 +944,7 @@ juquirionano |m.| (V. bonduque)
 juquis |m.| pl. Indı́genas brasileiros da região do Amazonas.
 jura |f.| Acto de jurar: fazer uma jura. Praga: dizer juras.
 juradia |f.| Ant. Offı́cio do jurado.
-jurado |adj.| Que prestou juramento. Declarado; inconciliável: inimigo jurado. |M.| Membro de um júry judicial. Ant. Louvado, perito. * |Prov.| alent. Espécie de espátula, com que os macobios mexem as migas, e em que assentam as multas que, segundo o seu regulamento, são impostas a companheiros delinquentes.
+jurado |adj.| Que prestou juramento. Declarado; inconciliável: inimigo jurado. |M.| Membro de um júry judicial. Ant. Louvado, perito. * Prov. alent. Espécie de espátula, com que os macobios mexem as migas, e em que assentam as multas que, segundo o seu regulamento, são impostas a companheiros delinquentes.
 jurador |m.| O que jura. (Lat. jurator ) |adj.| O que jura. (Lat. jurator )
 juraico |adj.| O mesmo que jurássico.
 juramentar |v. t.| O mesmo que ajuramentar.

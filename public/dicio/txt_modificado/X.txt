@@ -24,7 +24,7 @@ xágara |f.| Espécie de açúcar, o mesmo que jágara.
 xaguão |m.| (Fórma preferı́vel a saguão)
 xaimão |m.| Pesc. Cabo, preso por uma extremidade na forcada da sardinheira, fixando a outra na fateixa de tanchar a rêde.
 xaimel |m.| O mesmo que enxaimel.
-xairel |m.| Cobertura da cavalgadura, sôbre que se põe o sellim ou a albarda. * |Prov.| trasm. Chale ordinário; vestido reles. |Adj.| O mesmo que xairelado. * |Prov.| trasm.xairelado Fraco, adoentado. (Cp. cast. girel, do ár. jilel )
+xairel |m.| Cobertura da cavalgadura, sôbre que se põe o sellim ou a albarda. * Prov. trasm. Chale ordinário; vestido reles. |Adj.| O mesmo que xairelado. * Prov. trasm.xairelado Fraco, adoentado. (Cp. cast. girel, do ár. jilel )
 xairelado |adj.| Diz-se do cavallo, que tem mancha branca no selladoiro. (De xairel )
 xaja |f.| Planta tinctorial da Índia.
 xal |m.| O mesmo que xaes.
@@ -116,13 +116,13 @@ xaréu #,3 # |m.| Bras. do N. Capa de coiro, com que os vaqueiros cobrem as anca
 xarifa |f.| Gı́r. Partes pudendas da mulhér.
 xarife |m.| Tı́tulo, usado por prı́ncipes moiros, descendentes de Mafoma. Tı́tulo dos Muçulmanos, que visitaram três vezes o templo de Meca, podendo por isso usar turbante verde. (T. ár.)
 xarimbote |m.| Prov. alent. Jôgo popular em que um tição vai passando de mão em mão, acompanhado por um estribilho, perdendo a pessôa, em cujas mãos êlle se apagou. (Cp. chirimbote, que é outra fórma da mesma palavra)
-xaroco #,(xarô)# |m.| Vento quente do Suéste, sôbre o Mediterrâneo. * |Prov.| alent. Vento frio, que no inverno sopra do Levante, e a que também se chama vento espanhol. (Do it. scirocco)
+xaroco #,(xarô)# |m.| Vento quente do Suéste, sôbre o Mediterrâneo. * Prov. alent. Vento frio, que no inverno sopra do Levante, e a que também se chama vento espanhol. (Do it. scirocco)
 xaropada |f.| Porção de xarope. Xarope, que se póde tomar de uma vez. Pop. Qualquer medicamento contra a tosse.
 xaropar |v. t.| Tratar com xarope; dar tisanas a.
 xarope |m.| Medicamento lı́quido e viscoso, resultante da mistura de certos lı́quidos com a porção de açúcar necessária para os saturar. |Fam.| Lambedor. Tisana. Remédio caseiro. (Do fr. sirop)
 xaroposo |adj.| Que tem a consistência do xarope.
 xarque |m.| (e der.) (V. charque, etc.)
-xarrasca |f.| Pesc. Apparelho especial de linha e anzol, para a pesca de peixes que têm beiços carnudos.pércida do Mediterrâneo. * |Prov.| alent. Dedeira, com que os ceifeiros resguardam dos golpes da foice o dedo pollegar da mão esquerda.
+xarrasca |f.| Pesc. Apparelho especial de linha e anzol, para a pesca de peixes que têm beiços carnudos.pércida do Mediterrâneo. * Prov. alent. Dedeira, com que os ceifeiros resguardam dos golpes da foice o dedo pollegar da mão esquerda.
 xarta |f.| Ant. O mesmo que enxárcia?: “...com levarmos
 xarta tomada e brandaes...” Hist. Trág. Marit. (Cp. sarta)
 xastre |m.| Ant. O mesmo que alfaiate. Cf. Garrett, Romanceiro, II, 173 e 196. (Cast. sastre)
@@ -160,7 +160,7 @@ xerasia |f.| Doença, que impede o crescimento dos cabellos e das sobrancelhas. 
 xerém |m.| Prov. alg. Farinha de milho para papas. Papas de milho. * Nome de um baile de roda.
 xerentes |m.| pl. Índios, que vivem ao norte de Goiás, no Brasil.
 xerez |m.| Espécie de uva tinta. Vinho muito estimado da Andaluzia. (De Jerez, |n. p.| )
-xerga #,(xêr )# |m.| Prov. trasm. Tecido grosseiro, espécie de burel. Bras. Espécie de almofada, que se põe por baixo da albarda das bêstas. |Prov.| trasm. O mesmo que enxêrga. * |Prov.| trasm. Manta grosseira, em que se transporta a palha trilhada das eiras, e que se estende debaixo das oliveiras quando se vareja a azeitona. (Cast. jerga)
+xerga #,(xêr )# |m.| Prov. trasm. Tecido grosseiro, espécie de burel. Bras. Espécie de almofada, que se põe por baixo da albarda das bêstas. Prov. trasm. O mesmo que enxêrga. * Prov. trasm. Manta grosseira, em que se transporta a palha trilhada das eiras, e que se estende debaixo das oliveiras quando se vareja a azeitona. (Cast. jerga)
 xergão |m.| Prov. e bras. O mesmo que enxergão. (Cast. jergon)
 xeri |m.| Ant. Moéda de prata, em Dio.
 xerife |m.| O mesmo que xarifa.
@@ -325,7 +325,7 @@ xomanas |m.| pl. Índios selvagens das margens do Japurá, no Brasil.
 xona |f.| Gı́r. O mesmo que noite.
 xòninhas |m.| Prov. minh. Indivı́duo acanhado, mollangueirão.
 xorca |f.| O mesmo que axorca.
-xorcas |f.| pl. |Prov.| Sapatos grandes, acalcanhados e mal feitos. (T. onom., do som que as xorcas produzem quando se anda com ellas?)
+xorcas |f.| pl. Prov. Sapatos grandes, acalcanhados e mal feitos. (T. onom., do som que as xorcas produzem quando se anda com ellas?)
 xordo #,(xôr )# |adj.| Prov. trasm. Manco e surdo. (Cp. surdo)
 xotar |v. t.| Prov. trasm. O mesmo que enxotar.
 xote #,1 # |interj.| O mesmo ou melhór que chote.

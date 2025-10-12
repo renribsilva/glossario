@@ -1,5 +1,5 @@
 o #,1 (ó)# |m.| Décima quinta letra do alphabeto português. Ext. Cı́rculo, anel, qualquer objecto de feitio análogo ao daquella letra. |Abrev.| de Oéste. Figura numérica, que se chama cifra ou zero. Em música, designa o orifı́cio dos instrumentos de sôpro, ou a corda que, em dado momento, não funcciona. * Como letra numeral, significou 11. * Na música também era sinal para se abrir inteiramente a bôca.
-o #,2 (u)# |Art.| def., |m.| , sing. (Ant. lo, do lat. illum)
+o #,2 (u)# |Art. def.| , |m.| , sing. (Ant. lo, do lat. illum)
 o #,3 (u)# |pron.| demonstr., |m.| , sing. (que se emprega em lugar de um substantivo ou de uma phrase considerada substantivamente)
 ó #,1 # |interj.| O mesmo que oh.
 ó #,2 # |interj.| (para chamar ou invocar)
@@ -663,7 +663,7 @@ oculinomântico |adj.| Relativo á oculinomancia. |M.| Aquelle que praticava a o
 oculista |m.| Fabricante ou vendedor de óculos. Médico, que trata especialmente das doenças de olhos. |Adj.| Que trata das doenças de olhos. (Do lat. oculus)
 oculı́stica |f.| Parte da Medicina, que trata das doenças dos
 olhos. (De oculista)
-óculo |m.| Instrumento, armado de lentes, para auxiliar a vista. Orifı́cio circular, nas paredes de alguns edifı́cios, para entrar nestes a luz e o ar. Abertura nas portinholas dos navios, pela qual se enfiam os canos das peças. Binóculo. * |Prov.| Abertura na terra, por onde se dá luz a uma mina. |M.| pl. Luneta, de cujas extremidades saem hastes, que se adaptam á parte posterior da orelha. (Lat. oculus)
+óculo |m.| Instrumento, armado de lentes, para auxiliar a vista. Orifı́cio circular, nas paredes de alguns edifı́cios, para entrar nestes a luz e o ar. Abertura nas portinholas dos navios, pela qual se enfiam os canos das peças. Binóculo. * Prov. Abertura na terra, por onde se dá luz a uma mina. |M.| pl. Luneta, de cujas extremidades saem hastes, que se adaptam á parte posterior da orelha. (Lat. oculus)
 oculo-musculoso |adj.| Anat. Relativo aos músculos oculares.
 oculoso |adj.| O mesmo que oculado.
 ocultação |f.| Acto ou efeito de ocultar. (Lat. occultatio)
@@ -1106,7 +1106,7 @@ oh! |interj.| (designativo de espanto, alegria, dôr, repugnância, etc.) (Por �
 ohmio |m.| Phýs. Unidade prática de resistência eléctrica. (De Ohm, |n. p.| )
 ohmiómetro |m.| Phýs. Apparelho, com que se avalia a intensidade do óhmio.
 oiacás |m.| pl. Indı́genas do norte do Brasil.
-oiça #,1 # |f.| Ouvido; o sentido da audição: “esgaravata as |Fam.| Ouvido; o sentido da audição: “esgaravata as
+oiça #,1 # |f.| Fam. Ouvido; o sentido da audição: “esgaravata as
 orelhas, para aguçar as ouças”. Filinto, IX, 94. (De oiço, pres. do indic. de ouvir )
 oiça #,2 # |f.| Chavelha ou peça de pau, que segura na canga o tamoeiro.
 oı́dio |m.| Gênero de cogumelos parasitos, uma espécie do qual produz uma doença das uvas, conhecida pelo nome do mesmo parasito e pelo nome de poeiro. (Dem. do gr. oon)
@@ -1148,7 +1148,7 @@ oja |f.| Ant. Nome de uma ave, talvez o mesmo que ujo. Cf.
 oiropelle |m.| O mesmo que ouropel. Cf. Castilho, Fausto, 39.
 oirudo |adj.| Bras. de Minas. O mesmo que rico. (De oiro)
 oitante |m.| Distâncı́a de 45°, entre o Sol e outro astro. Arco de 45°. Instrumento náutico para medir alturas e distâncias. (Do lat. octans)
-oitão |m.| Parte lateral de um edifı́cio. * |Prov.| minh. Pedaço de muro alto. (Do lat. hyp. altanus?)
+oitão |m.| Parte lateral de um edifı́cio. * Prov. minh. Pedaço de muro alto. (Do lat. hyp. altanus?)
 oitava |f.| Cada uma das oito partes iguaes, em que se póde dividir alguma coisa. * Antigo pêso de pharmácia, correspondente á oitava parte de uma onça. * Antigo imposto dos que pagavam ao Estado ou a uma corporação a oitava parto de certos rendimentos. Espaço do oito dias, consagrado a alguma festa religiosa. O último dia dêsse espaço de tempo. Intervallo, entre duas notas musicaes do mesmo nome e differente tom. Estrophe de oito versos. * Bras. Unidade monetária, correspondente a 1.200 reis, no Estado de Mato-Grosso. * |Mús.| Oitava real, registo de órgão, com tubos de estanho. * Oitava tapada, registo de órgão, de tubos iguaes aos da oitava real, mas tapados, resoando por isso em oitava abaixo, isto é, em unisono com o diapasão. (De oitavo)
 oitavado |adj.| Que tem oito faces contı́guas, formando ângulo contı́guo. * |M.| Dança popular, no século XVIII. * O mesmo que oitavina.
 oitavar |v. t.| Tornar oitavado; dividir em oito partes; dividir em oitavas musicaes. (De oitavo)
@@ -1282,7 +1282,7 @@ olfacto |m.| Sentido, com que se percebe o cheiro. Cheiro; faro. (Lat. olfactus)
 olfactório |adj.| Relativo ao olfacto.
 olférsia |f.| Gênero de insectos dı́pteros.
 olfortum |adj.| Ant. Que tem cheiro desagradável; que provoca náuseas. (Talvez se relacione com fartum)
-olga |f.| Belga, coirela. * |Prov.| trasm. Planı́cie entre oiteiros.
+olga |f.| Belga, coirela. * Prov. trasm. Planı́cie entre oiteiros.
 ôlha |f.| Comida, preparada com legumes e carnes substanciosas. Gordura de caldo. Caldo gordo. Panela, para se fazer ôlha. (Do lat. olla)
 olha-a-água |m.| Arbusto africano, de fôlhas alternas, glabras, e flôres axillares em grupos de duas ou três.
 olhada |f.| Lance de olhos; acto de olhar.
@@ -1682,7 +1682,7 @@ onda |f.| Água que se agita. Poét. Água do mar. Mar. Água. Fig. Grande agita
 ondaca |f.| T. de Mossámedes. Questão judicial. Processo. Julgamento.
 ondar |v. i.| (e der.) O mesmo que ondear. (De onda)
 ondatra |m.| Mammı́fero roedor, na América meridional.
-onde |adv.| No qual lugar. Em que. * |Prov.| minh. Quando aliás: minha mulher, depois daquelle olhado, ficou uma preguiçosa, onde ella era tão trabalhadeira. * O mesmo que aonde: “irei onde os outros forem.” Eufrosina, 152. (Do lat. unde)
+onde |adv.| No qual lugar. Em que. * Prov. minh. Quando aliás: minha mulher, depois daquelle olhado, ficou uma preguiçosa, onde ella era tão trabalhadeira. * O mesmo que aonde: “irei onde os outros forem.” Eufrosina, 152. (Do lat. unde)
 onde-quer-que |loc. conj.| Em qualquer lugar que. No lugar em que por acaso.
 ondeado |adj.| Que tem ondas. Disposto em curvas, á maneira de ondas: cabello ondeado. (De ondear )
 ondeamento |m.| Acto ou effeito de ondear.
@@ -2395,7 +2395,7 @@ orbivácuo |adj.| Des. O mesmo que orbı́vago.
 orbı́vago |adj.| Poét. Que vagueia pelo orbe; orbı́cola. (Do lat. orbis + vagagre)
 orbulita |f.| Gênero de conchas fósseis.
 orça #,1 # |f.| O mesmo que bolina. * Acto de orçar ou calcular. * |Loc. adv.| Á orça, calculado a ôlho, por junto, aproximadamente. (De orçar )
-orça #,2 # |f.| (V. horsa) * |Prov.| trasm. Mulher alta e desajeitada.
+orça #,2 # |f.| (V. horsa) * Prov. trasm. Mulher alta e desajeitada.
 orçador |m.| O que orça. |adj.| O que orça.
 orçamental |adj.| Relativo a orçamento.
 orçamentário |adj.| O mesmo que orçamental.
@@ -2473,7 +2473,7 @@ orear |v. t.| Bras. do S. Arejar. Expor ao ar (roupa húmida) para secar. (T. ca
 orégão |m.| Planta labiada. (Do lat. origanum)
 oregógeno |adj.| Med. Diz-se da funcção de um órgão, que activa o appetite. (Do gr. orego + genos)
 orelana |f.| O mesmo que urucu.
-orelha #,(orê)# |f.| Apparelho ou órgão da audição. Ouvido: “e vindo ás orelhas do nosso rei...” |F.| Manuel, Apólogos. Concha do ouvido. Hélice do capitel corı́nthio. Bot. Appêndice, na base das fôlhas de algumas plantas. * Carp. Córte ou chanfradura, na extremidade de vigas, escoras, etc, para as ligar a outra peça. Bot. Palavra, que faz parte do nome de várias plantas. * |Prov.| alent. Peça parallelogrâmica de madeira, que assenta sôbre as aivecas do arado. * Bras. do S. Pisar na orelha, ficar de pé (o cavalleiro), adeante do cavallo, quando êste cai. * Pl. A parte superior e bi-partida do martelo e do sacho. * As aivecas do arado. (Do b. lat. oricula)
+orelha #,(orê)# |f.| Apparelho ou órgão da audição. Ouvido: “e vindo ás orelhas do nosso rei...” |F.| Manuel, Apólogos. Concha do ouvido. Hélice do capitel corı́nthio. Bot. Appêndice, na base das fôlhas de algumas plantas. * Carp. Córte ou chanfradura, na extremidade de vigas, escoras, etc, para as ligar a outra peça. Bot. Palavra, que faz parte do nome de várias plantas. * Prov. alent. Peça parallelogrâmica de madeira, que assenta sôbre as aivecas do arado. * Bras. do S. Pisar na orelha, ficar de pé (o cavalleiro), adeante do cavallo, quando êste cai. * Pl. A parte superior e bi-partida do martelo e do sacho. * As aivecas do arado. (Do b. lat. oricula)
 orelha-de-cabra |f.| Planta plantagı́nea, (plantago lagopus, Lin.).
 orelha-de-cão |f.| Árvore, africana, de fôlhas compostas, e flôres em fórma de orelha.
 orelha-de-gato |f.| Bras. Planta hypericácea, de fôlhas vulnerárias.
@@ -2489,8 +2489,8 @@ orelhada |f.| Puxão de orelhas; orelhão.
 orelhado |adj.| Que tem orelhas ou orelhetes. * |M.| Ant. Appêndice de barrete, para cobrir as orelhas.
 orelhano |adj.| Bras. do S. Diz-se do gado vaccum, que não é marcado nas orelhas.
 orelhão |m.| Puxão de orelhas. Inflammação em tôrno das parótidas. Parte do tear, nas fábricas de seda. * Peixe dos Açores.
-orelhas-de-abbade |f.| pl. |Prov.| minh. Fritura, que se dá de presente, em dia de Anno-Bom. Cf. Castilho, Fastos, I, 349.
-orelheira |f.| Orelhas de um animal, especialmente de porco. * |Prov.| trasm. Cada um de dois paus que, no arado, convergem na relha e servem de aivecas para alargar o rêgo e voltar a leiva. * Ant. Cabeçal, travesseiro. Cp. Tombo do Estado da Índia, 52.
+orelhas-de-abbade |f.| pl. Prov. minh. Fritura, que se dá de presente, em dia de Anno-Bom. Cf. Castilho, Fastos, I, 349.
+orelheira |f.| Orelhas de um animal, especialmente de porco. * Prov. trasm. Cada um de dois paus que, no arado, convergem na relha e servem de aivecas para alargar o rêgo e voltar a leiva. * Ant. Cabeçal, travesseiro. Cp. Tombo do Estado da Índia, 52.
 orelhete #,(lhê)# |m.| Bot. Appendı́culo, em fórma de orelha, na base das fôlhas de algumas plantas, chamado também orelha.
 orelhı́ssimo |adj.| Que tem grandes orelhas. Burrical; asnático.–Nunca vi nenhures o t., a não sêr em Filinto, V, 20. “...em frente do orelhissimo francelho”. (Por orelhudı́ssimo)
 orelhudo |adj.| Pop. Que tem orelhas grandes. Fig. Estúpido; teimoso. * Bras. O mesmo que orelhano. |M.| Pop. Burro. (De orelha)
@@ -2594,7 +2594,7 @@ organotáxico #,(csi )# |adj.| Relativo á organotaxia.
 organsim |m.| O primeiro fio de seda, que se deita no tear, para formar urdidura. (De órgão)
 organsinar |v. t.| Tecer em rodas apropriadas (fios de sedaorgansino bruta), para formar o organsim. (De organsim)
 organsino |m.| O mesmo que organsim. Cf. Inquér. Industr., 3.ª p., 237.
-órgão |m.| Cada uma das partes de um maquinismo, que exercem funcção especial. Instrumento musical de vento e teclado. Parte de um organismo com funcção especial. Peça de madeira, por onde passam os fios, que entretecem a esteira. |Prov.| Cada um de dois rolos de madeira, no tear, num dos quaes se enrola o fio da teia e no outro o pano que se vai tecendo. * Des. Instrumento músico: “nos salgueiros pendurei os órgãos em que cantava”. Camões, paráphrase ao salmo 136. Fig. Meio de acção. Meio; intermediário. Periódico ou outro meio, com que se manifesta a opinião do um partido, seita, etc. * Ant. Metal de voz. (Do lat. organum)
+órgão |m.| Cada uma das partes de um maquinismo, que exercem funcção especial. Instrumento musical de vento e teclado. Parte de um organismo com funcção especial. Peça de madeira, por onde passam os fios, que entretecem a esteira. Prov. Cada um de dois rolos de madeira, no tear, num dos quaes se enrola o fio da teia e no outro o pano que se vai tecendo. * Des. Instrumento músico: “nos salgueiros pendurei os órgãos em que cantava”. Camões, paráphrase ao salmo 136. Fig. Meio de acção. Meio; intermediário. Periódico ou outro meio, com que se manifesta a opinião do um partido, seita, etc. * Ant. Metal de voz. (Do lat. organum)
 orgasmo |m.| Aumento de acção vital do um órgão, muitas vezes com turgescência. (Gr. orgasmos)
 orgástico |adj.| Relativo ao orgasmo.
 orge |f.| Ant. (V. cevada) (Fr. orge)
@@ -2875,7 +2875,7 @@ orquite |f.| Inflamação de um ou dos dois testı́culos. (Do gr. orkhis)
 orquı́tico |adj.| Relativo á orquite. Aplicável contra a orquite.
 orraca |f.| Des. Bebida alcoólica da Ásia; aguardente de coco com vinho de palma. Cf. Tombo do Estado da Índia, (passim)
 orreiro |m.| Prov. alg. Trave, que entra numa cavidade das lages que forram o poço de certos moı́nhos. Cf. Portugalia, I, 388.orreta, (rê)
-orreta #,(rê)# |f.| Prov. e ant. Valle profundo, que dá estreito espaço para plantações. * |Prov.| trasm. Atalho, através dos campos. (Refl. do lat. ora?)
+orreta #,(rê)# |f.| Prov. e ant. Valle profundo, que dá estreito espaço para plantações. * Prov. trasm. Atalho, através dos campos. (Refl. do lat. ora?)
 orseta #,(sê)# |f.| Espécie de tecido ordinário, fabricado na Hollanda.
 orsı́nia |f.| Planta brasileira, da |fam.| das compostas. (De
 Orsinı́, |n. p.| )
@@ -3112,7 +3112,7 @@ oryzóphago |adj.| Que se alimenta de arroz, (falando-se de homens). (Do gr. oru
 oryzópside |f.| Gênero de plantas monocotyledóneas. (Do gr. oruza + ops)
 orzaga |f.| Bot. Espécie de armole, cujas fôlhas são muito appetecidas pelo gado lanı́gero.
 orzuna |f.| Árvore da Índia portuguesa.
-os #,(us)# |art.| def. e |pron.| demonstr. (pl. de o 2 e o 3 )
+os #,(us)# |art. def.| demonstr. (pl. de o 2 e o 3 ) |pron.| demonstr. (pl. de o 2 e o 3 )
 osa |f.| Ant. Donativo, que o marido fazia á mulher, no dia immediato ao das núpcias, e que consistia ordinariamente numa espécie de calçado. Espécie de calçado. Aquillo que
 o emphyteuta dava ao senhor das terras, para obter dêste licença de casar. (Lat. osa)
 osada |f.| Ant. Ousadia? Cp. G. Vicente, Inês Pereira.
@@ -3471,7 +3471,7 @@ ototómico |adj.| Relativo á ototomia.
 ou #,1 # |conj.| (designativa de alternativa) (Do lat. aut)
 ou #,2 # |adv.| Ant. O mesmo que onde.
 ou #,3 # Fórma antiga, equivalente a ao, (prep. e |art.| ).
-ouça |f.| Ouvido; o sentido da audição: “esgaravata as |Fam.| Ouvido; o sentido da audição: “esgaravata as
+ouça |f.| Fam. Ouvido; o sentido da audição: “esgaravata as
 orelhas, para aguçar as ouças”. Filinto, IX, 94. (De oiço, pres. do indic. de ouvir )
 ouçandé |f.| Planta hortense da Índia portuguesa.
 oução |m.| Pequenino ácaro, (acarus siro), que se encontra nos queijos, na farinha, etc. * Ant. Lêndeas.
@@ -3532,7 +3532,7 @@ ousança |f.| Ant. O mesmo que ousadia.
 ousar |v. t.| Atrever-se a; tentar atrevidamente. Têr coragem para; emprehender. (Do lat. ausus)
 ousia |f.| O mesmo que osia.
 ousio |m.| O mesmo que ousadia: “...e tivera o ousio de dizer á mãe que não queria o Rato...” Camillo, Volcoens, 20. (Do lat. ausus)
-outão |m.| Parte lateral de um edifı́cio. * |Prov.| minh. Pedaço de muro alto. (Do lat. hyp. altanus?)
+outão |m.| Parte lateral de um edifı́cio. * Prov. minh. Pedaço de muro alto. (Do lat. hyp. altanus?)
 outar |v. t.| Joeirar. (Do lat. optare?)
 outiva |f.| Audição; ouvido. (Contr. de auditiva, |fem.| de auditivo)
 outo #,1 # |m.| (e der.) (V. oito, etc.) |adj.| Diz-se do número cardinal, formado de sete e mais um. Outavo. |M.| O algarismo representativo do número outo. Carta de jogar, que tem outo pontos. Aquillo que numa série de outo occupa o último lugar. Prolóq. Ou outo ou outenta, ou tudo |adj.| (e der.) (V. oito, etc.) |adj.| Diz-se do número cardinal, formado de sete e mais um. Outavo. |M.| O algarismo representativo do número outo. Carta de jogar, que tem outo pontos. Aquillo que numa série de outo occupa o último lugar. Prolóq. Ou outo ou outenta, ou tudo
@@ -3546,7 +3546,7 @@ outonar |v. t.| Cavar e regar com as primeiras águas do
 Outono. Alqueivar.
 outonear |v. i.| Neol. bras. Passar o Outono: outonear nas praias.
 outoniço |adj.| O mesmo que outonal. * |M.| Agr. Abôrto parcial dos bagos das uvas.
-outono |m.| Terceira estação do anno, entre o Estio e o Inverno. Colheita. Fig. Decadência; idade, que precede a velhice. * Pl. |Prov.| dur. Cereaes, que se semeiam no
+outono |m.| Terceira estação do anno, entre o Estio e o Inverno. Colheita. Fig. Decadência; idade, que precede a velhice. * Pl. Prov. dur. Cereaes, que se semeiam no
 Outono. (Do lat. autumnus)
 outorga |f.| Acto ou effeito de outorgar: a outorga da Carta Constitucional.
 outorgadamente |adv.| De modo outorgado. Com permissão, com autorização.

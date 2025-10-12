@@ -18,7 +18,7 @@ vacação |f.| Acto ou effeito de vacar. (Do lat. vacatio)
 vacada |f.| Multidão de vacas. * Corrida de vacas.
 vacância |f.| Estado do que é vago. Tempo, durante o qual está vago um lugar, cargo, dignidade, etc.; vagatura. (Lat. vacantia)
 vacante |adj.| Que está vago. * |F.| O mesmo que vagatura. Cf. Latino, Elogios, 238 e 333. (Lat. vacans)
-vacão |m.| Prov. Campónio; rústico. |Prov.| Palerma; homem estúpido. T. do Fundão. Homem inútil, indolente, mandrião. (De vaca)
+vacão |m.| Prov. Campónio; rústico. Prov. Palerma; homem estúpido. T. do Fundão. Homem inútil, indolente, mandrião. (De vaca)
 vacar |v. i.| Estar vago. Estar em férias, não têr que fazer. * Ant. Dar-se, dedicar-se. Cf. Pant. de Aveiro, Itiner., 90; (2.ª ed.). (Lat. vacare)
 vacaria |f.| Conjunto de vacas, vacada. Gado vacum. Curral de vacas. Loja, onde se tratam e recolhem vacas, para se lhes vender o leite á vista do comprador. (B. lat. vaccaria)
 vacaril |adj.| Relativo a vaca. Vacum, vacarino. |M.| pl. Ant. Coiros de bois ou de vacas. (De vaccaria)
@@ -95,7 +95,7 @@ vagamente |adv.| De modo vago, de modo indeterminado.
 vagamundear |v. i.| O mesmo que vagabundear. Cf. Camillo, Olho de Vidro, 102. (De vagamundo)
 vagamundo |m.| (e der.) (V. vagabundo, etc.). Cf. |F.| Manuel, Apólogos. Pant. de Aveiro, Itiner., 174, (2.ª ed.) |adj.| (e der.) (V. vagabundo, etc.). Cf. |F.| Manuel, Apólogos. Pant. de Aveiro, Itiner., 174, (2.ª ed.)
 vaganão |adj.| O mesmo que vadio. Cf. Arn. Gama, Última Dona, 22 e 107. (Outra fórma de vaganau)
-vaganau |m.| Ant. Maganão; mariola, vadio. * |Prov.| trasm. Indivı́duo corpulento. (Outra fórma de vagamão?)
+vaganau |m.| Ant. Maganão; mariola, vadio. * Prov. trasm. Indivı́duo corpulento. (Outra fórma de vagamão?)
 vagância |f.| O mesmo que vacância.
 vaganear |v. i.| Têr vida de vaganão. Cf. Arn. Gama,2041 Última Dona, 21 e 355.
 vaganice |f.| Acto ou vida de vaganão. Cf. Arn. Gama, Última Dona, 354.
@@ -220,7 +220,7 @@ valencianito |f.| Miner. Variedade de feldspatho.
 valenciano |m.| Casta de uva trasmontana. (De Valência, |n. p.| )
 valencina |f.| Ant. Pano de lan fina, fabricado em Valência: “...sáia de valencina.” Herculano, Lendas, I, 96.–Algumas
 vezes se escreveu valancina. Cf. S. R. Viterbo, Elucidário.
-valentaço |m.| O mesmo que valentão. |Fam.| O mesmo que valentão.
+valentaço |m.| Fam. O mesmo que valentão.
 valentão |m.| O que é muito valente; fanfarrão; gabarola. |adj.| O que é muito valente; fanfarrão; gabarola.
 valente |adj.| Que tem valor. Que não tem mêdo; intrépido. Enérgico. Rijo; resistente: pau valente. |M.| Homem esforçado, homem corajoso. Paladino, campeão. * Gı́r. Pequena alavanca de ferro. (Lat. valens)
 valentemente |f.| Com valentia. (De valente)
@@ -260,7 +260,7 @@ valhacoito |m.| Abrigo; asylo. Protecção. (De valer + coito)
 valher |v. t. e i.| Ant. O mesmo que valer.
 váli |m.| Nome, que se dava aos governadores árabes, ás vezes independentes, de territórios da Espanha. (Do ár. uali)
 valia |f.| Valor inherente a um objecto. Valor intrı́nseco.
-Valor estimativo. Valor. Mérito. Preço; valimento. * |Prov.| minh. Época das valias, o tempo em que o gado tem mais procura e sóbe de preço. (De valer )
+Valor estimativo. Valor. Mérito. Preço; valimento. * Prov. minh. Época das valias, o tempo em que o gado tem mais procura e sóbe de preço. (De valer )
 valiamento |m.| Des. O mesmo que avaliação. (De valia)
 validação |f.| Acto ou effeito de validar.
 validade |f.| Qualidade do que é válido. (Do lat. validitas)
@@ -348,7 +348,7 @@ vanádio |m.| Miner. Metal branco, que se encontra nas minas de ferro da Suécia
 vanadito |m.| Nome dos saes, em que o óxydo de vanádio representa o papel de ácido. (De vanádio)
 vanadoso |adj.| Chı́m. Que contém vanádio.
 vancão |m.| Antiga embarcação de remos, no Oriente. Cf. Peregrinação, XLIV.
-vanda |f.| Pesc. |Prov.| dur. O mesmo que tresmalho 1 , rêde.
+vanda |f.| Pesc. Prov. dur. O mesmo que tresmalho 1 , rêde.
 vandalear |v. i.| Praticar vandalismos. Cf. Filinto, III, 212. (De vândalo)
 vandálico |adj.| Relativo aos vândalos ou próprio dêlles.
 vandalismo |m.| Acto próprio de vândalo. Destruição do que é respeitável pelas suas tradições, antiguidade ou belleza.
@@ -424,7 +424,7 @@ vara-de-canôa |f.| Bras. Espécie de mandioca.
 vara-de-oiro |f.| Planta, da |fam.| das compostas, (solidagovaração
 virga-aurea, Lin.).
 varação |f.| Acto ou effeito de varar. Varadoiro.
-varada |f.| Pancada com vara. Chibatada. * |Prov.| minh. Ir de varada, ir depressa.
+varada |f.| Pancada com vara. Chibatada. * Prov. minh. Ir de varada, ir depressa.
 varado |m.| Uma das divisões ecclesiásticas da Índia: a diocese de Cochim compõe-se de quatro varados. (De vara)
 varadoiro |m.| Lugar, onde se fazem encalhar as embarcações, para as consertar ou para as guardar, durante o tempo em que ellas não pódem navegar. Fig. Lugar, onde um grupo de pessôas descansa e conversa. (De varar )
 varador |m.| Aquelle que avalia a capacidade das pipas e dos tonéis, medindo-os com a vara. (De varar )
@@ -432,7 +432,7 @@ varadouro |m.| Lugar, onde se fazem encalhar as embarcações, para as consertar
 varal |m.| Cada uma das varas, que sáem dos lados de um
 vehı́culo, e entre as quaes se atrela o animal que puxa o mesmo vehı́culo. Cada uma das varas análogas, nos andores, esquifes, cadeirinhas, etc., e nas quaes pegam os indivı́duos, que conduzem esses objectos. (De vara)
 varancada |f.| Des. O mesmo que varada. (De vara + anca?)
-varanda |f.| Terraço. Eirado. Balcão; sacada. Parapeito de grade, que resguarda uma sacada. Parapeito análogo, em janelas rasgadas até ao nı́vel do pavimento, sem resaltar da superfı́cie externa da parede. Lugares para espectadores, nos theatros, por cima dos camarotes. Roda dentada do lagar de azeite. Ant. Tabella do bilhar. * |Prov.| minh. Recinto, adjunto á casa de habitação, no qual dormem criados e hóspedes. * Bras. do Rio. O primeiro dos três compartimentos do curral-de-peixe, conhecido também por sala. * Bras. do N. Guarnição lateral das redes de dormir ou de transporte. * Bras. do N. Sala comprida e estreita:
+varanda |f.| Terraço. Eirado. Balcão; sacada. Parapeito de grade, que resguarda uma sacada. Parapeito análogo, em janelas rasgadas até ao nı́vel do pavimento, sem resaltar da superfı́cie externa da parede. Lugares para espectadores, nos theatros, por cima dos camarotes. Roda dentada do lagar de azeite. Ant. Tabella do bilhar. * Prov. minh. Recinto, adjunto á casa de habitação, no qual dormem criados e hóspedes. * Bras. do Rio. O primeiro dos três compartimentos do curral-de-peixe, conhecido também por sala. * Bras. do N. Guarnição lateral das redes de dormir ou de transporte. * Bras. do N. Sala comprida e estreita:
 varanda do jantar.–Baranda é fórma pop. e talvez orthogr. preferı́vel. (Cp. cast. baranda e port. varão de ferro)
 varandado |m.| Bras. do N. Espécie de alpendre, á frente da casa de campo, de que é accessório, com peitoris ou sem êlles.
 varandim |m.| Varanda estreita. Plataforma. Grade baixa e elegante, usada nas janelas de peito, em construcções modernas.
@@ -458,7 +458,7 @@ varejar ?)
 varejador |m.| O que vareja; o que dá ou faz varejo. |adj.| O que vareja; o que dá ou faz varejo.
 varejadura |f.| Acto ou effeito de varejar.
 varejamento |m.| O mesmo que varejadura.
-varejão |m.| Vara grande. * |Prov.| minh. Estaca ou tutor, com que se segura uma videira ou uma arvore.
+varejão |m.| Vara grande. * Prov. minh. Estaca ou tutor, com que se segura uma videira ou uma arvore.
 varejar |v. t.| Agitar ou sacudir com vara: varejar um tapête. Fazer cair, batendo com vara: varejar azeitonas. Medir ás
 varas. Revistar, dar varejo a: varejar uma casa. Flagellar. Incommodar. Atacar. |V. i.| P. us. Dar pancadas. Disparar tiros.
 varejeira |f.| Grande mosca, (musca carnaria). (De vareja)
@@ -466,7 +466,7 @@ varejista |m.| Bras. Industrial ou negociante, que vende a retalho ou por miúdo
 varejo #,1 # |m.| O mesmo que varejadura. Acto de revistar um estabelecimento industrial ou commercial, para verificar se há descaminho de direitos ou falsas declarações sôbre mercadorias expostas á venda. Fig. Censura áspera. (De
 varejar )
 varejo #,2 # |m.| Conjunto das varas, que sustentam a cobertura das choupanas e cubatas, na África. Bras. Transacção de mercadorias ás varas ou a retalho. (De vara)
-varela #,1 # |f.| Vara pequena, vareta. * |Prov.| minh. Pauzinho, suspenso da adelha e de cuja parte anterior se suspende o adelhão. * Ant. Templo de ı́dolos. * |Prov.| minh. Cavilha ou vareta de ferro, que prende o jugo ao tamoeiro. (De vara)
+varela #,1 # |f.| Vara pequena, vareta. * Prov. minh. Pauzinho, suspenso da adelha e de cuja parte anterior se suspende o adelhão. * Ant. Templo de ı́dolos. * Prov. minh. Cavilha ou vareta de ferro, que prende o jugo ao tamoeiro. (De vara)
 varela #,2 # |m.| Burl. Homem casado que, em relação á mulher, é o meio termo entre varão e varunca: se é varão, manda êlle e ella não; se é varela, ora manda êlle, ora manda ella; se é varunca, manda ella e êlle nunca.
 varênea |f.| Gênero de plantas leguminosas.
 varênnea |f.| Gênero de plantas leguminosas.
@@ -507,7 +507,7 @@ variedade |f.| Qualidade do que é vário. Variação. Diversidade. Multiplicida
 variegação |f.| Acto ou effeito de variegar. Qualidade ou estado do que é variegado; matiz.
 variegar |v. t.| Dar côres diversas a; matizar. Diversificar. Alternar. (Lat. variegare)
 varilha |f.| Prov. Vara pequena; vareta.
-varilhas |f.| pl. |Prov.| trasm. Utensı́lio de pau, sôbre que se movem as peneiras, deixando estas cair a farinha na sabanilha. (Do cast. varilla)
+varilhas |f.| pl. Prov. trasm. Utensı́lio de pau, sôbre que se movem as peneiras, deixando estas cair a farinha na sabanilha. (Do cast. varilla)
 varina #,1 # |f.| T. de Lisbôa. Vendedeira ambulante de peixe. Mulhér da beira mar, entre Aveiro e o Pôrto aproximadamente. (De varino 1 )
 varina #,2 # |f.| Bras. O mesmo que varino 2 .
 varinel |m.| Embarcação de remos, usada no século XV. O mesmo que barinel. (De varino 2 )
@@ -564,7 +564,7 @@ varriscador |m.| Prov. Vara, com que se mexem as brasas do forno. (Colhido em Ar
 varsoviana |f.| Espécie de dança polaca. (De varsoviano)
 varsoviano |adj.| Relativo a Varsóvia. |M.| Habitante de Varsóvia.
 varudo |adj.| Diz-se de um tronco de árvore, direito e comprido, ou da árvore que tem êsse tronco. * Diz-se do boi ou
-vitello, de corpo comprido, direito e forte; vareiro. |Prov.| alent. |Loc. adv.| Ao varudo, ao comprido. (De vara)
+vitello, de corpo comprido, direito e forte; vareiro. Prov. alent. |Loc. adv.| Ao varudo, ao comprido. (De vara)
 varunca |m.| Burl. Marido froixo, que é dominado pela mulhér: “certa mulher que tinha a barba tesa ao varunca e cabrão numa disputa...” Filinto, VIII, 169. (Da graduação pop. de varão, varela e varunca) (Cp. varela 2 )
 várzea |f.| Campina cultivada. Chan; planı́cie.
 varzedo #,(zê)# |m.| Prov. Continuidade de várzeas; vargedo.
@@ -596,7 +596,7 @@ vaseiro |m.| Diz-se de uma espécie de pequenos veados. (De vasa 1 ?) |adj.| Diz
 vaselina |f.| Substância gordurosa, extrahida dos resı́duos da destillação do petróleo, e applicada nas indústrias e na pharmácia.
 vasento |adj.| Que tem vasa1 ou lodo.
 vası́culo |m.| P. us. Vaso pequeno; vasilho. (Dem. de vaso)
-vasilha |f.| Vaso para lı́quidos. Barril; pipa; tonel. Ant. Embarcação. * |Prov.| alent. Carro. (Do lat. hyp. vasilia, de vas)
+vasilha |f.| Vaso para lı́quidos. Barril; pipa; tonel. Ant. Embarcação. * Prov. alent. Carro. (Do lat. hyp. vasilia, de vas)
 vasilhame |m.| Porção de vasilhas.
 vasilho |m.| Prov. Pequeno vaso; pequena vasilha de loiça. Cf. Bibl. da G. do Campo, 426.
 vaso #,1 # |m.| Qualquer objecto côncavo, próprio para conter na sua cavidade substâncias lı́quidas ou sólidas. Peça análoga, de fórmas variadas, e que se enche de terra, para nesta se cultivarem plantas. Ext. Receptáculo; tudo que póde conter objectos. Navio. Tubo, no organismo animal ou
@@ -706,7 +706,7 @@ vedação |f.| Acto ou effeito de vedar; aquillo que veda; tapume. (Do lat. veda
 vedado |adj.| Prohibido. Que tem tapume; murado: horta
 vedada. |M.| Ant. Terreno vedado, coito.
 vedador |m.| O que veda. |adj.| O que veda.
-vedalhas |f.| pl. |Prov.| Presente, que a noiva recebe do padrinho, no dia do noivado. * |Prov.| trasm. Presente, que se leva ás parturientes. (Corr. de vitualhas)
+vedalhas |f.| pl. Prov. Presente, que a noiva recebe do padrinho, no dia do noivado. * Prov. trasm. Presente, que se leva ás parturientes. (Corr. de vitualhas)
 vedália |f.| Espécie de cochinilha, semelhante á joaninha, mas mais pequena, e inimiga da icérya, de que se sustenta.
 vedanta |m.| Parte theológica dos Vedas. Sacerdote gentio, que na Índia explica os Vedas ás pessôas da sua casta. (Sânscr. vedanta)
 vedantino |adj.| Relativo á doutrina do vedanta.2051
@@ -770,7 +770,7 @@ veiculação #,(ve-ı́)# |f.| Neol. bras. Viação, por meio de veı́culos.
 veicular #,1 (ve-ı́)# |adj.| Próprio de veı́culo; relativo a veı́culo.
 veicular #,2 (ve-ı́)# |v. t.| Neol. Transportar em veı́culo. Ext. Transportar; introduzir, importar: a peste foi veiculada pelos emigrantes. Cf. R. Jorge, Epidemia do Pôrto, 37.
 veı́culo |m.| Qualquer meio de transporte. Carro. Tudo que transmite ou conduz. Aquilo que auxilia ou promove. Mênstruo. Excipiente lı́quido. (Lat. vehiculum)
-veiga |f.| Várzea; planı́cie cultivada e fértil. * |Prov.| minh. Terra de cultura de centeio ou de milho serôdio. (Do cast. vega)
+veiga |f.| Várzea; planı́cie cultivada e fértil. * Prov. minh. Terra de cultura de centeio ou de milho serôdio. (Do cast. vega)
 veio |m.| Faixa comprida e mais ou menos estreita de terra ouveirado de rocha, a qual se distingue, pela côr ou pela natureza, da terra ou da rocha que a ladeia; filão. Ribeiro, regato. Pequena porção de água corrente. Eixo de ferro. * Bras. do N. Manivela. Fig. Ponto capital; fundamento; essência. (De veia)
 veirado |adj.| Que tem veiros.
 veiro |m.| Heráld. Cada um dos metaes dos brasões, composto de pequenas peças azues e prateadas, iguaes e dispostas de maneira, que a ponta das peças azues é opposta á das peças prateadas, e a base de umas á base das outras. * Pl. Pelles delicadas e preciosas, taes como arminho, zebelinas, etc., que se importavam da Hungria e de outras nações. Cf. Orden. Aff., liv. V, tit. 43. (Do fr. vair )
@@ -817,7 +817,7 @@ velhacamente |adv.| De modo velhaco. Com velhacaria.
 velhacão |m.| Grande velhaco.
 velhacar |v. i.| Praticar velhacarias. Cf. Castilho, Felic. pela Agr. (De velhaco)
 velhacaria |f.| Velhacada. Qualidade do que é velhaco. Manha de velhaco.
-vèlhaças |m.| Homem muito velho. |Fam.| Homem muito velho.
+vèlhaças |m.| Fam. Homem muito velho.
 velhacaz |m.| O mesmo que velhacão.
 velhaco |m.| Aquelle que engana de propósito ou por má ı́ndole. Indivı́duo traiçoeiro, fraudulento. Patife. Devasso. Brejeiro. |Adj.| Que é velhaco; próprio de velhacos. * Diz-se de uma variedade de feijão minhoto. (Do cast. bellaco?)
 vèlhada |f.| Acto ou dito próprio de velho. Reunião de velhos; os velhos.
@@ -837,15 +837,15 @@ velharia |f.| Acto, dito ou tudo aquillo que é próprio de pessôa idosa. Trast
 vèlhentado |adj.| (V. avelhentado)
 vèlhez |f.| P. us. O mesmo que velhice. Cf. Filinto, VI, 210.
 vèlhice |f.| Condição ou estado de velho. Idade avançada. Perı́odo que, na vida do indivı́duo, succede á idade madura. As pessôas velhas. Rabugice, própria de velho.
-velho |adj.| Que tem muita idade: homem velho. Antigo: velhas tradições. Que existe há muito tempo. Avèlhentado. Muito usado; gasto pelo uso: chapéu velho. Que há muito possue certa qualidade, ou que exerce há muito uma profissão: o velho professor. Desusado; antiquado. * |Prov.| minh. Agr. Deixar ou ficar de velho, deixar ou ficar de poisio. |M.| Homem velho. * Bras. Nome de um peixe, que parece gemer quando o apanham. Cf. Jorn.-do-Comm., do Rio, de 24-X-901. * Ant. e |prov.| A parte velha das
+velho |adj.| Que tem muita idade: homem velho. Antigo: velhas tradições. Que existe há muito tempo. Avèlhentado. Muito usado; gasto pelo uso: chapéu velho. Que há muito possue certa qualidade, ou que exerce há muito uma profissão: o velho professor. Desusado; antiquado. * Prov. minh. Agr. Deixar ou ficar de velho, deixar ou ficar de poisio. |M.| Homem velho. * Bras. Nome de um peixe, que parece gemer quando o apanham. Cf. Jorn.-do-Comm., do Rio, de 24-X-901. * Ant. e prov. A parte velha das
 varas das videiras. * Dança e ária popular do norte de Portugal. (Do lat. vetulus)
 velhori |adj.| Diz-se do cavallo de côr acinzentada. (Cast. vellori)
 vèlhorro #,(lhô)# |m.| O mesmo que vèlhusco. Cf. Filinto, IV, 231.
 vèlhota |f.| (Flex. |fem.| de vèlhote)
-vèlhote |m.| |Fam.| Homem velho, mas bem disposto. |adj.| |Fam.| Homem velho, mas bem disposto.
+vèlhote |m.| Fam. Homem velho, mas bem disposto. |adj.| Fam. Homem velho, mas bem disposto.
 Velho folgazão.
 vèlhusca |f.| (Flexão |fem.| de vèlhusco)
-vèlhusco |m.| |Fam.| Velho; vèlhote. (De velho) |adj.| |Fam.| Velho; vèlhote. (De velho)
+vèlhusco |m.| Fam. Velho; vèlhote. (De velho) |adj.| Fam. Velho; vèlhote. (De velho)
 vèlhustro |m.| O mesmo que vèlhusco.
 velicação |f.| Acto ou efeito de velicar. (Do lat. vellicatio)
 velicar |v. t.| O mesmo que beliscar. (Lat. vellicare)
@@ -871,14 +871,14 @@ vellicativo |adj.| Que vellica; pungente.
 velliqueiro |adj.| Prov. trasm. Que apenas toca no comer; debiqueiro. (De vellicar )
 vellisca |f.| Prov. trasm. Incisão com a unha. (De velliscar )
 velliscar |v. t.| O mesmo que beliscar. Cf. Camillo. Sc. da Foz, 121.
-vello |m.| Lan de carneiro ou de ovelha. Lan de cordeiro. Lan cardada. Pelle de uma rês com a respectiva lan. * |Prov.| alent. Lan de cada carneiro: o velo produziu três quilos. (Lat. vellus)
+vello |m.| Lan de carneiro ou de ovelha. Lan de cordeiro. Lan cardada. Pelle de uma rês com a respectiva lan. * Prov. alent. Lan de cada carneiro: o velo produziu três quilos. (Lat. vellus)
 vellocino |m.| Pelle de carneiro ou de ovelha com lan. Ext. Carneiro mythológico de vello de oiro. (Cast. vellocino)
 velloso |adj.| Que tem vello. Que tem pêlo ou cabello comprido. Felpudo; cabelludo. Lanoso.
 velludilho |m.| Velludo de algodão. Planta amarantácea. (Cast. velludillo)
 velludı́neo |adj.| O mesmo que avelludado. (De velludo)
 velludo |adj.| O mesmo que velloso. |M.| Tecido de algodão ou seda, que de um lado é mais ou menos velloso e macio. Ext. Objecto macio, superfı́cie macia. Planta, o mesmo que velludilho. Bredo. Árvore medicinal da Guiné, fruto avermelhado e ácido. (Do lat. vellutus)
 velludoso |adj.| Semelhante ao velludo; macio como o velludo: “froixéis de folhagem velludosa”. Camillo, Mar. da Fonte, 6.
-velo |m.| Lan de carneiro ou de ovelha. Lan de cordeiro. Lan cardada. Pelle de uma rês com a respectiva lan. * |Prov.| alent. Lan de cada carneiro: o velo produziu três quilos. (Lat. vellus)
+velo |m.| Lan de carneiro ou de ovelha. Lan de cordeiro. Lan cardada. Pelle de uma rês com a respectiva lan. * Prov. alent. Lan de cada carneiro: o velo produziu três quilos. (Lat. vellus)
 veloce |adj.| Des. O mesmo que veloz : “as embarcaçães... mui veloces, estreitas e compridas...” Lusı́adas, I, 46.
 velocidade |f.| Qualidade do que é veloz. Movimento ligeiro. Relação entre um espaço percorrido e a unidade do tempo. (Do lat. velocitas)
 velocı́fero |m.| O mesmo que celerifero. (Do lat. velox + ferre)
@@ -972,7 +972,7 @@ Vênus, se celebravam durante os três dias immediatos ás calendas de Abril. (L
 veneralato |m.| Cargo de venerável, na Maçonaria. (Por
 veneravelato, de venerável )
 venerando |adj.| O mesmo que venerável. (Lat. venerandus)
-venerar |v. t.| Tributar grande respeito a. Tratar com respeito e affeição. Reverenciar; acatar. * |Prov.| minh. Sustentar, dar alimentos a. (Colhido em Paredes de Coira) (Lat. venerari)
+venerar |v. t.| Tributar grande respeito a. Tratar com respeito e affeição. Reverenciar; acatar. * Prov. minh. Sustentar, dar alimentos a. (Colhido em Paredes de Coira) (Lat. venerari)
 venerário |adj.| Relativo a Vênus. Relativo aos prazeres sensuaes. (Lat. venerarius)
 venerável |adj.| Que se deve venerar; respeitável. * |M.| Aquelle que preside a uma loja maçónica. (Do lat. venerabilis)
 veneravelmente |adv.| De modo venerável.
@@ -1024,7 +1024,7 @@ ventilador |m.| Apparelho para ventilar. (Do lat. ventilator )
 ventilante |adj.| Que ventila. (Lat. ventilans)
 ventilar |v. t.| Introduzir vento em. Expor ao vento. Estabelecer corrente de ar em. Renovar o ar em; arejar: ventilar uma casa. Limpar com joeira ou pá (o trigo ou outros cereaes). Fig. Debater, discutir. (Lat. ventilare)
 ventilativo |adj.| Próprio para ventilar; que ventila.
-vento |m.| Corrente de ar, mais ou menos rápida, resultante das mudanças no pêso especı́fico da atmosphera. Ar. Atmosphera. Espécie de bolha, que apparece nas obras fundidas e proveniente de uma porção de ar que entrou no metal ao solidificar-se. Fig. Influência. Flatulência; ventosidade. Faro. Coisa rápida. Vaidade, coisa van. Pé de vento, redemoı́nho, furacão. * |Loc.| fig. De vento em popa, prosperamente. * Cama de vento, antigo utensı́lio de borracha, que, enchendo-se de ar, como os chamados cintos-de-salvação, ou como certos assentos de goma elástica, usados em viagem, servia de leito, a bordo: “deixo uma cama de vento...” (De um testamento de 1693) Seguir no mesmo vento, ir na mesma direcção. * Ant. Gado de vento, animaes sem dono ou cujo dono é desconhecido. * Jur. Águas do vento, águas pluviaes, não apropriadas. * |Loc. adv.| Com vento fresco, sem ceremónia; sem dizer nada: foi-lhe aos lombos com vento fresco. * Pl. |Prov.| trasm. Fendas de uma pedra. Beber os ventos por alguém, gostar muito; estar disposto a tudo para servir alguêm. (Lat. ventus)
+vento |m.| Corrente de ar, mais ou menos rápida, resultante das mudanças no pêso especı́fico da atmosphera. Ar. Atmosphera. Espécie de bolha, que apparece nas obras fundidas e proveniente de uma porção de ar que entrou no metal ao solidificar-se. Fig. Influência. Flatulência; ventosidade. Faro. Coisa rápida. Vaidade, coisa van. Pé de vento, redemoı́nho, furacão. * |Loc.| fig. De vento em popa, prosperamente. * Cama de vento, antigo utensı́lio de borracha, que, enchendo-se de ar, como os chamados cintos-de-salvação, ou como certos assentos de goma elástica, usados em viagem, servia de leito, a bordo: “deixo uma cama de vento...” (De um testamento de 1693) Seguir no mesmo vento, ir na mesma direcção. * Ant. Gado de vento, animaes sem dono ou cujo dono é desconhecido. * Jur. Águas do vento, águas pluviaes, não apropriadas. * |Loc. adv.| Com vento fresco, sem ceremónia; sem dizer nada: foi-lhe aos lombos com vento fresco. * Pl. Prov. trasm. Fendas de uma pedra. Beber os ventos por alguém, gostar muito; estar disposto a tudo para servir alguêm. (Lat. ventus)
 ventoı́nha |f.| O mesmo que catavento. Chincra; abibe. Fig. Pessôa inconstante. (De vento)
 ventoirinho |m.| Prov. trasm. Pouco juı́zo, cabeça leve. (De vento)
 ventoninho |m.| Ave, o mesmo que abibe. (Cp. abitoninha)
@@ -1124,7 +1124,7 @@ verdade |f.| Qualidade, pela qual as coisas se apresentam taes quaes são. Reali
 verdadeiramente |adv.| De modo verdadeiro. Com verdade. Na verdade; realmente.
 verdadeiro |adj.| Em que há verdade: palavras verdadeiras. Que fala verdade: é homem verdadeiro. Conforme á verdade; exacto: história verdadeira. Authêntico, genuı́no:
 verdadeiro vinho do Pôrto. Sincero. |M.| A verdade; o dever. (De verdade)
-verdadı́ssima |f.| Us. na |loc.| verdade verdadı́ssima = |Fam.| Us. na |loc.| verdade verdadı́ssima =
+verdadı́ssima |f.| Fam. Us. na |loc.| verdade verdadı́ssima =
 verdade inteira, absoluta. (De verdade)
 verdaduras |f.| pl. Ant. O mesmo que esverdados.
 verdal |adj.| Diz-se de uma variedade de milho amarelado, de caule delgado e alto. Cf. Port. au point de vue agr., 578.
@@ -1132,7 +1132,7 @@ verdasca |f.| Pequena vara, muito flexı́vel. (De verde? Corr. de vergasta? Ent
 verdascada |f.| Pancada com verdasca.
 verdascar |v. t.| Dar verdascadas em.
 verdasco |m.| Diz-se de uma espécie de vinho verde, muito ácido. * Diz-se do vinho entre maduro e verde. (De |adj.| Diz-se de uma espécie de vinho verde, muito ácido. * Diz-se do vinho entre maduro e verde. (De verde)
-verde #,(vêr )# |adj.| Que é da côr ordinária da erva e das fôlhas das árvores. Que aı́nda tem seiva, (falando-se de plantas). Que aı́nda não amadureceu: fruta verde. Que não está sêco. * Fresco, (falando-se da carne). Fig. Tenro; delicado. Fraco. Inexperiente. * Relativo aos primeiros tempos da existência: em annos verdes. * Diz-se do vinho, feito de uvas pouco saccharinas ou pouco maduras. |M.| A côr verde. Erva de pasto para animaes. * Caldo verde, caldo de fôlhas de nabos ou nabiças, ou de couves tenras muito migadas, temperado com azeite. T. de Turquel. Intervallo de dois regos. * |Prov.| trasm. O mesmo que sangue. * |Prov.| alent. Iguaria de sangue de porco. |Prov.| Vinho verde. * Bras. do N. A estação das chuvas. * Gı́r. O frio. * |Prov.| minh. Chouriça de verde, chouriço de sangue, com gordura e cebola picada. (Do lat. viridis)
+verde #,(vêr )# |adj.| Que é da côr ordinária da erva e das fôlhas das árvores. Que aı́nda tem seiva, (falando-se de plantas). Que aı́nda não amadureceu: fruta verde. Que não está sêco. * Fresco, (falando-se da carne). Fig. Tenro; delicado. Fraco. Inexperiente. * Relativo aos primeiros tempos da existência: em annos verdes. * Diz-se do vinho, feito de uvas pouco saccharinas ou pouco maduras. |M.| A côr verde. Erva de pasto para animaes. * Caldo verde, caldo de fôlhas de nabos ou nabiças, ou de couves tenras muito migadas, temperado com azeite. T. de Turquel. Intervallo de dois regos. * Prov. trasm. O mesmo que sangue. * Prov. alent. Iguaria de sangue de porco. Prov. Vinho verde. * Bras. do N. A estação das chuvas. * Gı́r. O frio. * Prov. minh. Chouriça de verde, chouriço de sangue, com gordura e cebola picada. (Do lat. viridis)
 verde-alvo |adj.| O mesmo que verde-claro. Cf. Garrett, D. Branca, XV.
 verde-bexiga |m.| Tinta verde-escura, cujo principal ingrediente é o fel de vaca, e que se usa na Pintura, especialmente para representar illuminações.
 verde-bronze |adj.| Que participa da côr verde e da do bronze. Cf. Castilho, Fastos, II, 373 e 374.
@@ -1147,7 +1147,7 @@ verde-montanha |adj.| O mesmo que verde-escuro. |M.| A côr verde, com uns tons 
 verde-negro |adj.| O mesmo que verde-escuro.
 verde-virgo |m.| Bras. Planta medicinal.
 verdeal |adj.| Que tem côr tirante a verde. Diz-se de uma
-variedade de trigo, de oliveira, de uva, de azeitona e de pêra. |M.| Nome vulgar dos archeiros da Universidade, que antigamente trajavam de verde. |Prov.| minh. Planta gramı́nea.
+variedade de trigo, de oliveira, de uva, de azeitona e de pêra. |M.| Nome vulgar dos archeiros da Universidade, que antigamente trajavam de verde. Prov. minh. Planta gramı́nea.
 verdeal-branca |f.| Casta de uva branca do Doiro e da Beira-Alta.
 verdeal-tinto |m.| Casta de uva preta.
 verdear |v. i.| O mesmo que verdejar. * Bras. do S. Dar ração de capim verde ao cavallo.
@@ -1191,7 +1191,7 @@ verdoso |adj.| Neol. Esverdeado; verdejante. (De verde)
 verdugada |f.| Ant. Cı́rculo de varinhas ou barbatanas, com que se dava roda ao vestido das mulheres. Cf. Pant. de Aveiro. Itiner., 8, (2.ª ed.); Fenix Renasc., IV. 20. (De verde)
 verdugal |m.| Prov. alent. Mato delgado, basto e muito
 verde. (Do rad. de verde)
-verdugo |m.| Aquelle que dá maus tratos. Carrasco. Des. Espada sem gume, delgada e comprida. Pequena navalha. * Parte saliente da chapa de trilho, nas rodas dos vagões, do lado interior da via, para impedir descarrilamentos. *2059 Náut. Friso saliente, ao longo da borda do navio. * T. do Fundão. Qualquer objecto de grandes dimensões. * Bras. do S. Qualquer cobra muito grande. * |Prov.| minh. Depressão digital em fabrico de olaria. (Cast. verdugo)
+verdugo |m.| Aquelle que dá maus tratos. Carrasco. Des. Espada sem gume, delgada e comprida. Pequena navalha. * Parte saliente da chapa de trilho, nas rodas dos vagões, do lado interior da via, para impedir descarrilamentos. *2059 Náut. Friso saliente, ao longo da borda do navio. * T. do Fundão. Qualquer objecto de grandes dimensões. * Bras. do S. Qualquer cobra muito grande. * Prov. minh. Depressão digital em fabrico de olaria. (Cast. verdugo)
 verduguilho |m.| Prov. trasm. Seitoira de fôlha estreita e bom córte. (Cast. verduguillo)
 verdum |m.| Prov. alent. O mesmo que verdete.
 verdura |f.| O mesmo que verdor. O verde das plantas. Fig. Os vegetaes; hortaliça. Mocidade. Inexperiência. Pl. Actos próprios da mocidade. (De verde)
@@ -1217,8 +1217,8 @@ vergal |m.| Correia, que prende as bêstas ao carro. (De vêrga)
 vergalhada |f.| Pancada com vergalho. Chibatada. * Patifaria, maroteira.
 vergalhão |m.| Vergalho grande. Barra de ferro, quadrada. (De vergalho)
 vergalhar |v. t.| O mesmo que azorragar. Cf. Camillo, Myst. de Lisb., I, 55. (De vergalho)
-vergalho |m.| Membro genital dos bois ou dos cavallos, depois de cortado e sêco. Azorrague, feito dêsse órgão. Azorrague. Pop. Velhaco; patife. * |Prov.| chul. Homem de rija têmpera, homem teso. (Cast. vergajo)
-vergame |m.| Conjunto das vêrgas de uma embarcação. * |Prov.| trasm. Varas de castanheiro para cestos.
+vergalho |m.| Membro genital dos bois ou dos cavallos, depois de cortado e sêco. Azorrague, feito dêsse órgão. Azorrague. Pop. Velhaco; patife. * Prov. chul. Homem de rija têmpera, homem teso. (Cast. vergajo)
+vergame |m.| Conjunto das vêrgas de uma embarcação. * Prov. trasm. Varas de castanheiro para cestos.
 verı́dico
 vergamota |f.| (V. bergamota)
 vergão |m.| Grande vêrga. Vinco na pelle, produzido por pancada ou por outra causa.
@@ -1404,7 +1404,7 @@ vertedoiro |m.| Espécie de escudella, com que se despeja a água para fóra das
 vertedor |adj.| Que verte. |M.| Vaso para deitar ou despejar água. (De verter )
 vertedouro |m.| Espécie de escudella, com que se despeja a água para fóra das embarcações. (De verter )
 vertedura |f.| Acto ou effeito de verter. Porção de lı́quido, que trasborda do vaso em que se deita.
-vertente |adj.| Que verte. |F.| Declive de montanha, por onde derivam as águas pluviaes. * Cada uma das superfı́cies de um telhado. * Pl. |Prov.| Verteduras. (Lat. vertens)
+vertente |adj.| Que verte. |F.| Declive de montanha, por onde derivam as águas pluviaes. * Cada uma das superfı́cies de um telhado. * Pl. Prov. Verteduras. (Lat. vertens)
 verter |v. t.| Fazer trasbordar. Entornar: verter um copo de água. Jorrar. Fig. Diffundir; espalhar. Traduzir litteralmente. Traduzir. |V. i.| Brotar; manar. Desaguar. Trasbordar; resumar. (Lat. vertere)
 vertical |adj.| Perpendicular ao plano do horizonte ou á superfı́cie das águas tranquillas. Situado por cima da cabeça; aprumado. |F.| Linha vertical. (Lat. verticalis)
 verticalidade |f.| Qualidade ou estado do que é vertical.
@@ -1464,11 +1464,11 @@ vespilão |m.| Aquele que, entre os Romanos, enterrava de noite os cadáveres do
 vespilheira |f.| Prov. minh. Mulhér mexeriqueira, linguareira, intriguista. (Colhido em Barcelos) (Cp. vespa)
 vespillão |m.| Aquelle que, entre os Romanos, enterrava de noite os cadáveres dos pobres. (Lat. vespillo)
 véspora |f.| Pop. e ant. O mesmo que véspera. Cf. R. Pina, Aff. V, CXXXI.
-vessada #,1 # |f.| Terra fértil e regadia. |Prov.| minh. Terra, que se lavra num dia, com uma junta de bois; geira. Vessadela. (De vessar )
+vessada #,1 # |f.| Terra fértil e regadia. Prov. minh. Terra, que se lavra num dia, com uma junta de bois; geira. Vessadela. (De vessar )
 vessada #,2 # |f.| Ant. Correia, o mesmo que avessada. Cf. Mestre Geraldo.
 vessadela |F.| Acto de vessar. Terreno, que se lavra num dia.
-vessadoiro |m.| O mesmo que vessadela. Direito de vessar uma terra. * |Prov.| minh. e beir. Arado, que se emprega na lavoira de terras em que se semeia milho grosso, desde fins de Abril a fins de Maio. |Adj.| Prov. Diz-se de arado, que se emprega nas lavoiras de milho grosso. (De vessar )
-vessadouro |m.| O mesmo que vessadela. Direito de vessar uma terra. * |Prov.| minh. e beir. Arado, que se emprega na lavoira de terras em que se semeia milho grosso, desde fins de Abril a fins de Maio. |Adj.| Prov. Diz-se de arado, que se emprega nas lavoiras de milho grosso. (De vessar )
+vessadoiro |m.| O mesmo que vessadela. Direito de vessar uma terra. * Prov. minh. e beir. Arado, que se emprega na lavoira de terras em que se semeia milho grosso, desde fins de Abril a fins de Maio. |Adj.| Prov. Diz-se de arado, que se emprega nas lavoiras de milho grosso. (De vessar )
+vessadouro |m.| O mesmo que vessadela. Direito de vessar uma terra. * Prov. minh. e beir. Arado, que se emprega na lavoira de terras em que se semeia milho grosso, desde fins de Abril a fins de Maio. |Adj.| Prov. Diz-se de arado, que se emprega nas lavoiras de milho grosso. (De vessar )
 vessar |v. t.| Lavrar profundamente. Lavrar para sementeiras. (Do lat. versare)
 vessas |f.| pl. O mesmo que avessas. |Loc. fam.| Ás vessas, o mesmo que ás avessas. Cf. Filodemo, act. II, sc. IV.
 vestaes |f.| pl. Antigas festas romanas, em honra da deusa
@@ -1563,9 +1563,9 @@ viagı́ssimo |adj.| Que viajou muito: “...companheiro do Pinto viagı́ssimo�
 viajador |m.| (V. viajante) |adj.| (V. viajante)
 viajante |adj.| Que viaja. |M.| Pessôa, que viaja. |f.| Pessôa, que viaja.
 viajar |v. i.| Fazer viagem. |V. t.| Percorrer. (De viage)
-viajata |f.| Viagem de recreio. (De viage) |Fam.| Viagem de recreio. (De viage)
+viajata |f.| Fam. Viagem de recreio. (De viage)
 viajor |m.| O mesmo que viageiro.
-vianda |f.| Qualquer espécie de alimento. Qualquer carne, que serve de alimento. Carne de animaes terrestres. * |Prov.| A parte do caldo, que não é lı́quida. * |Prov.| Cozido para os porcos; lavaduras, restos de comida. (Fr. viande)
+vianda |f.| Qualquer espécie de alimento. Qualquer carne, que serve de alimento. Carne de animaes terrestres. * Prov. A parte do caldo, que não é lı́quida. * Prov. Cozido para os porcos; lavaduras, restos de comida. (Fr. viande)
 viandante |m.| , |f.| Pessôa, que vianda ou viaja. |adj.| Pessôa, que vianda ou viaja.
 viandar |v. i.| Viajar; peregrinar. (De via + andar )2065
 viandeiro |m.| O que gosta de vianda; glotão. |adj.| O que gosta de vianda; glotão.
@@ -1652,9 +1652,9 @@ vicenal |adj.| Relativo ao vicênio. (Lat. vicennalis)
 vicênio |m.| Espaço de vinte anos. (Lat. vicennium)
 vicennal |adj.| Relativo ao vicênnio. (Lat. vicennalis)
 vicênnio |m.| Espaço de vinte annos. (Lat. vicennium)
-vicente #,1 # |m.| Gı́r. Corvo. |Prov.| trasm. O mesmo que gato. (De Vicente, |n. p.| )
+vicente #,1 # |m.| Gı́r. Corvo. Prov. trasm. O mesmo que gato. (De Vicente, |n. p.| )
 vicente #,2 # |m.| Moéda de oiro, no tempo de D. Sebastião.
-vicentes |m.| pl. |Prov.| trasm. Tamancos, sócos. (Colhido em Sabrosa)
+vicentes |m.| pl. Prov. trasm. Tamancos, sócos. (Colhido em Sabrosa)
 vicentino |adj.| Relativo a S. Vicente de Fóra, em Lisbôa. Cf. Camillo, Perfil do Marquês, 181. Relativo a Gil Vicente: os autos vicentinos.
 vicésimo |adj.| (V. vigésimo) (Lat. vicesimus)
 viceversa |loc. adv.| Mutuamente. Em sentido inverso; invertendo os termos. (Do lat. vicis + versus)
@@ -1716,9 +1716,9 @@ vido |m.| P. us. O mesmo que vidoeiro. (Do lat. betulum)
 vidoeiro |m.| O mesmo que bétula. (Do lat. hyp. betularius)
 vidoiro |m.| Prov. minh. Viveiro de vides. (De vide)
 vidonha |f.| Prov. alent. Designação genérica das diversas castas e qualidades de uvas ou videiras. Uva. Ext. Qualquer espécie de oliveira. (De vide)
-vidonho |m.| Vide cortada, mas que traz consigo um pedaço da cepa. * |Prov.| alg. Variedade de uva. * |Prov.| alg., fig. e deprec. Natureza do indivı́duo. (Cp. cast. veduño)
+vidonho |m.| Vide cortada, mas que traz consigo um pedaço da cepa. * Prov. alg. Variedade de uva. * Prov. alg., fig. e deprec. Natureza do indivı́duo. (Cp. cast. veduño)
 vidouro |m.| Prov. minh. Viveiro de vides. (De vide)
-vidraça |f.| Lâmina de vidro. Caixilho ou caixilhos com vidro para janela ou porta. * |Prov.| Lâmina de gêlo, caramelo. (Colhido na Bairrada) (De vidro)
+vidraça |f.| Lâmina de vidro. Caixilho ou caixilhos com vidro para janela ou porta. * Prov. Lâmina de gêlo, caramelo. (Colhido na Bairrada) (De vidro)
 viela,1
 vidraçaria |f.| Conjunto de vidraças. * Estabelecimento, onde se vendem vidros.
 vidraceiro |m.| Aquelle que trabalha em fábrica de vidros. Aquelle que vende vidros. Aquelle que os colloca em caixilhos. (De vidraça)
@@ -1741,13 +1741,13 @@ vidrento |adj.| Semelhante ao vidro. Vidrado. Quebradiço. Fig. Agastadiço. (De
 vidrilho |m.| Cada um dos pequenos tubos de vidro ou de uma massa análoga, que, enfiados á maneira de contas, servem para ornatos e bordados. Pl. O mesmo que avelórios. (De vidro)
 vidrino |adj.| Feito de vidro; vidrento.
 vidro |m.| Corpo sólido, transparente, duro e frágil, obtido pela fusão da areia com potassa ou soda. Qualquer objecto, feito dessa substância. Frasco; garrafa pequena. Lâmina de vidro, com que se resguarda um desenho ou uma estampa, ou com que se preenche um caixilho de porta ou de janela. Fig. Coisa quebradiça. Pessôa muito susceptı́vel ou melindrosa. (Do lat. vitrum)
-vidroso |adj.| O mesmo que vidrento. * |Prov.| trasm. Muito delicado ou melindroso, (falando-se de pessôas). (Do lat. vitrosus)
+vidroso |adj.| O mesmo que vidrento. * Prov. trasm. Muito delicado ou melindroso, (falando-se de pessôas). (Do lat. vitrosus)
 vidual |adj.| Relativo a viuvez ou a pessôa viúva. (Lat. vidualis)
 vieira |f.| Mollusco acéphalo. Concha dêsses molluscos. * Heráld. Ornato, em fórma de concha. * Bras. Árvore silvestre. (Do lat. viaria)
 vieirense |adj.| Relativo ao escritor António Vieira ou ao seu estı́lo.
 vieiro |m.| Veio de metal, filão. * Antigo imposto, que se pagava á Corôa e consistia na têrça parte do oiro, prata ou cobre que se extrahia das minas em Portugal. * Linha, por onde uma pedra se fende, quando se lhe bate. (Por
 veeiro, do lat. venarius)
-viela #,1 # |f.| Cada um dos ferros com argolas, no rodı́zio dos moı́nhos. * |Prov.| alent. Argola, que prende a cabeça do arado á garganta. (Do fr. bielle)viela,2
+viela #,1 # |f.| Cada um dos ferros com argolas, no rodı́zio dos moı́nhos. * Prov. alent. Argola, que prende a cabeça do arado á garganta. (Do fr. bielle)viela,2
 viela #,2 # |f.| Rua estreita; quelha. (De via)
 vielo |m.| Planta herbácea, alimentı́cia, da África, (voandzeiavigilador |m.| O que faz vigı́lia, o que vela. Cf. Júl. subterranea, Thouars). |adj.| O que faz vigı́lia, o que vela. Cf. Júl. subterranea, Thouars).
 vienense |adj.| Relativo a Viena. |M.| Habitante de Viena.
@@ -1782,7 +1782,7 @@ vigilante |adj.| Que vigila. Diligente. Cauteloso. Attento. |M.| Indivı́duo vi
 vigilantemente |adv.| De modo vigilante.
 vigilar |v. t. e i.| O mesmo que vigiar.
 vigilenga |f.| Bras. do N. Espécie de embarcação, armada como hiate. (De Vigia, |n. p.| )
-vigı́lia |f.| Insómnia; privação do somno durante a noite. Lucubração. Desvelo, cuidado. Véspera de festa. * |Prov.| alg. Arraial, festa campestre. Quarto da noite. Ant. Offı́cio de defuntos. (Lat. vigilia)
+vigı́lia |f.| Insómnia; privação do somno durante a noite. Lucubração. Desvelo, cuidado. Véspera de festa. * Prov. alg. Arraial, festa campestre. Quarto da noite. Ant. Offı́cio de defuntos. (Lat. vigilia)
 vigilinga |f.| (V. vigilenga)
 vigintivirado |m.| Cargo ou dignidade de vigintı́viro. (Lat. vigintiviratus)
 vigintivirato |m.| Cargo ou dignidade de vigintı́viro. (Lat. vigintiviratus)
@@ -1819,7 +1819,7 @@ vilanesco #,(nês)# |adj.| Relativo a vilão, ou próprio dêle. Rude: “suas f
 vilania |f.| Qualidade do que é vilão; vileza. Vilanagem. Mesquinhez ou avareza. (Do lat. villanus)
 vilanmente |adv.| De modo vilão. Grosseiramente.
 vilanzete #,(zê)# |m.| Vilanaz muito ordinário, desprezı́vel: “o vilanzete é calvo.” Chiado, Autos, 39. (De vilão)
-vilão |adj.| Que habita numa vila. Fig. Rústico. Plebeu, grosseiro. Desprezı́vel, abjecto. Avaro; sórdido. |M.| Habitante de vila. Camponês. Indivı́duo plebeu. Avarento. Homem miserável e desprezı́vel. * Antiga dança popular. * Açor. Sujeito mascarado, que entra nas moiriscas, satirizando a gente da terra. * |Prov.| trasm. Chouriço, feito da mistura de várias espécies de carne, com sopa triga e pingo de porco. Pl. Vilãos, mas usa-se vilões. (Do lat. villanus)
+vilão |adj.| Que habita numa vila. Fig. Rústico. Plebeu, grosseiro. Desprezı́vel, abjecto. Avaro; sórdido. |M.| Habitante de vila. Camponês. Indivı́duo plebeu. Avarento. Homem miserável e desprezı́vel. * Antiga dança popular. * Açor. Sujeito mascarado, que entra nas moiriscas, satirizando a gente da terra. * Prov. trasm. Chouriço, feito da mistura de várias espécies de carne, com sopa triga e pingo de porco. Pl. Vilãos, mas usa-se vilões. (Do lat. villanus)
 vilar |m.| Des. Pequena aldeia; logarejo. (Lat. villaris)
 vilarinho |m.| Pequeno vilar.
 vilaverde |f.| Variedade de pêra portuguesa.
@@ -1843,7 +1843,7 @@ vil; desprezar.
 vilipêndio |m.| Grande desprêzo. Acto de aviltar. (Do lat. vilipendere)
 vilipendiosamente |adv.| De modo vilipendioso; com vilipêndio.
 vilipendioso |adj.| Em que há vilipêndio.
-villa |f.| Povoação, de categoria inferior á de cidade e superior á de aldeia. Casa de campo ou habitação de recreio, nos arrabaldes das cidades italianas. Ext. Casa de campo, de construcção elegante ou mais ou menos caprivı́llula chosa. Quinta, com casa de habitação. Casa de habitação com jardim, dentro da cidade. * |Prov.| alg. Fiada ou camada de amêijoas a assar. (Lat. villa)
+villa |f.| Povoação, de categoria inferior á de cidade e superior á de aldeia. Casa de campo ou habitação de recreio, nos arrabaldes das cidades italianas. Ext. Casa de campo, de construcção elegante ou mais ou menos caprivı́llula chosa. Quinta, com casa de habitação. Casa de habitação com jardim, dentro da cidade. * Prov. alg. Fiada ou camada de amêijoas a assar. (Lat. villa)
 villa-diogo |f.| (só us. na |loc.| dar ás de villa-diogo, fugir). Cf. G. Viana, Apostilas.
 villafrancada |f.| Movimento polı́tico, que partiu de VillaFranca-de-Xira, no séc. XIX.
 villagem |f.| Ant. O mesmo que villa.
@@ -1857,7 +1857,7 @@ villanesco #,(nês)# |adj.| Relativo a villão, ou próprio dêlle. Rude: “sua
 villania |f.| Qualidade do que é villão; vileza. Villanagem. Mesquinhez ou avareza. (Do lat. villanus)
 villanmente |adv.| De modo villão. Grosseiramente.
 villanzete #,(zê)# |m.| Villanaz muito ordinário, desprezı́vel: “o villanzete é calvo.” Chiado, Autos, 39. (De villão)
-villão |adj.| Que habita numa villa. Fig. Rústico. Plebeu, grosseiro. Desprezı́vel, abjecto. Avaro; sórdido. |M.| Habitante de villa. Camponês. Indivı́duo plebeu. Avarento. Homem miserável e desprezı́vel. * Antiga dança popular. * Açor. Sujeito mascarado, que entra nas moiriscas, satirizando a gente da terra. * |Prov.| trasm. Chouriço, feito da mistura de várias espécies de carne, com sopa triga e pingo de porco. Pl. Villãos, mas usa-se villões. (Do lat. villanus)
+villão |adj.| Que habita numa villa. Fig. Rústico. Plebeu, grosseiro. Desprezı́vel, abjecto. Avaro; sórdido. |M.| Habitante de villa. Camponês. Indivı́duo plebeu. Avarento. Homem miserável e desprezı́vel. * Antiga dança popular. * Açor. Sujeito mascarado, que entra nas moiriscas, satirizando a gente da terra. * Prov. trasm. Chouriço, feito da mistura de várias espécies de carne, com sopa triga e pingo de porco. Pl. Villãos, mas usa-se villões. (Do lat. villanus)
 villar |m.| Des. Pequena aldeia; logarejo. (Lat. villaris)
 villarinho |m.| Pequeno villar.
 villaverde |f.| Variedade de pêra portuguesa.
@@ -1910,15 +1910,15 @@ vina |f.| Espécie de palmeira.
 vináceo |adj.| O mesmo que vı́neo. (Lat. vinaceus)
 vinaes |f.| pl. Antigas festas, em honra de Júpiter. Cf. Castilho, Fastos, II, 203. (Lat. vinalia)
 vinagem |f.| Fabrı́co do vinho. Cf. Lapa Proc. de Vin., 22. (Do lat. vinum)
-vinagrada |f.| Prov. alg. O mesmo que caspacho. |Prov.| Refrêsco, feito de vinagre, água e açúcar. (De vinagre)
+vinagrada |f.| Prov. alg. O mesmo que caspacho. Prov. Refrêsco, feito de vinagre, água e açúcar. (De vinagre)
 vinagrar |v. t.| O mesmo que avinagrar.
 vinagre #,1 # |m.| Lı́quido, resultante da fermentação ácida do
 vinho. Ácido acético. Fig. Coisa azêda. Pessôa de gênio ou modos desabridos. * Bras. de Pernambuco. O mesmo que usurário. (Do lat. vinum + acre)
 vinagre #,2 # |adj.| Diz-se do toiro, que tem o pêlo castanho claro, tirante a rubro. (Cp. vinagre 1 )
-vinagreira |f.| Vasilha, em que se guarda ou prepara o vinagre. Planta, também conhecida por azêda. * Bôlsa molle, espécie de alforreca, que os temporaes arrojam á praia e que, pisada, expelle um lı́quido avermelhado. * |Prov.| alent. O mesmo que caspacho. (De vinagre)
+vinagreira |f.| Vasilha, em que se guarda ou prepara o vinagre. Planta, também conhecida por azêda. * Bôlsa molle, espécie de alforreca, que os temporaes arrojam á praia e que, pisada, expelle um lı́quido avermelhado. * Prov. alent. O mesmo que caspacho. (De vinagre)
 vinagreiro |m.| Aquelle que fabrı́ca ou vende vinagre. * T. do Pôrto. Borrachão, bebedolas. (De vinagre)
 vinagrento |m.| Que sabe a vinagre.
-vinagreta #,(grê)# |f.| Vinho ordinário e um tanto azêdo. (De vinagre) |Fam.| Vinho ordinário e um tanto azêdo. (De vinagre)
+vinagreta #,(grê)# |f.| Fam. Vinho ordinário e um tanto azêdo. (De vinagre)
 vinagrinho |m.| Espécie de rapé.
 vinais |f.| pl. Antigas festas, em honra de Júpiter. Cf. Castilho, Fastos, II, 203. (Lat. vinalia)
 vinário |adj.| Relativo ao vinho. Próprio para conter vinho. (Lat. vinarius)
@@ -1968,7 +1968,7 @@ vindimadura |f.| (V. vindima)
 vindimal |adj.| Relativo a vindima. (Lat. vindemialis)
 vindimar |v. t.| Fazer a vindima de; colher as uvas de:
 vindimar a parreira. Fig. Colher. Destruı́r; dar cabo de. Pleb. Matar, assassinar. (Do lat. vindemiare)
-vindimeiro |m.| Prov. O mesmo que vindimador. |Prov.| trasm. O mesmo que vindimo, (falando-se de cestos).
+vindimeiro |m.| Prov. O mesmo que vindimador. Prov. trasm. O mesmo que vindimo, (falando-se de cestos).
 vindimo |adj.| Vindimal. Próprio para a vindima, (falandose de cestos). Serôdio. (De vindimar )
 vindita |f.| Espécie de ádem das costas da América.
 vindo |adj.| Que veio, que chegou: seja bem vindo. Procedente, proveniente. (De vir )
@@ -2381,7 +2381,7 @@ viúvas |f.| pl. Planta cucurbitácea, (trachelium coeruleum, Lin.).
 viuvez #,(vi-u)# |f.| Estado de quem é viúvo. Fig. Solidão. Privação; desconsôlo por desamparo. (De viúvo ou viúva)
 viuveza #,(vi-u)# |f.| (V. viuvez )
 viuvidade #,(vi-u)# |f.| Ant. O mesmo que viuvez.
-viuvinha #,(vi-u)# |f.| Espécie de jôgo popular. Pássaro, o mesmo que viúva. |Prov.| alent. Dança de roda.
+viuvinha #,(vi-u)# |f.| Espécie de jôgo popular. Pássaro, o mesmo que viúva. Prov. alent. Dança de roda.
 viúvo |m.| Homem, a quem morreu a espôsa e que ainda não casou de novo. |Adj.| Que é viúvo. Fig. Privado; desamparado. (Do cast. viudus)
 viva! |interj.| (designativa de applauso e enthusiasmo) |M.| Exclamação de applauso ou felicitação, que envolve o desejo de que viva e prospere a pessôa ou coisa a que se dirige. (De viver )
 viva-artética |f.| Planta da serra de Sintra.
@@ -2399,7 +2399,7 @@ vivedor |adj.| Vivedoiro. Solı́cito, agenciador. (De viver )
 vivedouro |adj.| Que póde viver. Que vive muito; que póde
 viver muito; duradoiro. (De viver )
 viveirista |m.| Aquelle que se occupa habitualmente de viveiros de plantas. Aquelle que possue viveiros de plantas para commércio. (De viveiro)
-viveiro |m.| Lugar, em que se conservam e se reproduzem animaes vivos. * |Prov.| minh. Gado, criação. Escavação natural ou artificial em que se criam peixes. Canteiro ou recinto apropriado, onde se semeiam vegetaes que hão de ser transplantados. Espécie de caixa com água, para guarda ou transporte de peixes vivos. Aquário. Lugar, onde se criam ou educam pessôas de certa classe. O maior dos tanques das marinhas, nos quaes se recebe a água sal2078 gada. Ext. Grande porção; enxame. (Do lat. vivarius)
+viveiro |m.| Lugar, em que se conservam e se reproduzem animaes vivos. * Prov. minh. Gado, criação. Escavação natural ou artificial em que se criam peixes. Canteiro ou recinto apropriado, onde se semeiam vegetaes que hão de ser transplantados. Espécie de caixa com água, para guarda ou transporte de peixes vivos. Aquário. Lugar, onde se criam ou educam pessôas de certa classe. O maior dos tanques das marinhas, nos quaes se recebe a água sal2078 gada. Ext. Grande porção; enxame. (Do lat. vivarius)
 vivenda |f.| Lugar, onde se vive. Morada, habitação. Modo de vida. Subsistência; passadı́o. Comportamento. (B. lat. vivenda)
 vivente |m.| O que vive. Criatura viva. O homem. (Lat. vivens) |adj.| O que vive. Criatura viva. O homem. (Lat. vivens)
 viver |v. i.| Têr vida. Estar em condições de vida. Existir. Consagrar a vida. Dedicar-se. Cohabitar. Residir. Nutrir-se. Alimentar-se. Comportar-se. Estar em relações habituaes, têr contacto habitual. Durar. Passar aos vindoiros. |V. t.| Passar (a vida): viver vida de privações. |V. p.| Existir, ir vivendo. |M.| A vida. (Lat. vivere)
@@ -2422,7 +2422,7 @@ viviseccionista #,(sé)# |m.| Aquelle que pratı́ca a vivisecção, como proces
 vivissecção |f.| Dissecção ou operação cirúrgica, feita em animaes vivos. (Do lat. vivus + sectio)
 vivisseccionista |m.| Aquelle que pratı́ca a vivisecção, como processo cirúrgico ou como exploração scientı́fica.
 viviu |m.| Nome de um passarinho brasileiro.
-vivo |adj.| Que vive. Animado: estilo vivo. Activo. Intenso: claridade viva. Penetrante: dores vivas. Persistente. Fervoroso: crenças vivas. Diligente. Ardente. Efficaz. Rápido. Prompto. Persuasivo. |M.| Criatura viva. O sêr, que é dotado de vida: tratar dos vivos e enterrar os mortos. Parte viva ou extremamente sensı́vel do organismo animal. Âmago. Auge. Debrum ou guarnição em peças de vestuário. Vı́vula. Pl. * |Prov.| beir. Designação genérica dos animaes domésticos, (bois, cavallos, ovelhas, porcos, etc.): dize ao criado que vá tratar do vivo. (Colhido na Guarda) (Lat. vivus)
+vivo |adj.| Que vive. Animado: estilo vivo. Activo. Intenso: claridade viva. Penetrante: dores vivas. Persistente. Fervoroso: crenças vivas. Diligente. Ardente. Efficaz. Rápido. Prompto. Persuasivo. |M.| Criatura viva. O sêr, que é dotado de vida: tratar dos vivos e enterrar os mortos. Parte viva ou extremamente sensı́vel do organismo animal. Âmago. Auge. Debrum ou guarnição em peças de vestuário. Vı́vula. Pl. * Prov. beir. Designação genérica dos animaes domésticos, (bois, cavallos, ovelhas, porcos, etc.): dize ao criado que vá tratar do vivo. (Colhido na Guarda) (Lat. vivus)
 vivo-to-dou |m.| T. da Bairrada. O mesmo que dou-te-lovivo.
 vivório |m.| Deprec. Muitos vivas. Enthusiasmo ruidoso. (De viva)
 vı́vula |f.| Inflammação da pelle e tendões, na parte anterior da quartella da cavalgadura. (De vivo)
@@ -2496,7 +2496,7 @@ vogal |adj.| Gram. Diz-se do som e da letra, que representa um som simples, inde
 vogal. |M.| Pessôa, que tem voto numa assembleia. Membro de uma corporação, junta, etc. (Do lat. vocalis)
 vogante |adj.| Que voga.
 vogar #,1 # |v. i.| Ir sôbre a água, impellido com o auxı́lio de remos. Remar. Fluctuar. Deslizar. Fig. Correr, divulgarse. Circular. Estar em uso. |V. t.| Percorrer, navegando. Fazer mover com os remos. (Do ant. alt. al. vagon)
-vogar #,2 # |v. t. e i.| Ant. O mesmo que advogar. * |Prov.| trasm. Importar, valer: que voga isso!
+vogar #,2 # |v. t. e i.| Ant. O mesmo que advogar. * Prov. trasm. Importar, valer: que voga isso!
 vogaria |f.| Ant. O mesmo que advocacia. (De vogar 2 )
 vogélia |f.| Gênero de plantas plumbagı́neas. (De Vogeli, |n. p.| )
 vogue |m.| Pequena embarcação indiana.
@@ -2507,7 +2507,7 @@ voivodia |f.| Govêrno de um vaivoda. Paı́s, governado por um vaivoda.
 volandeira |f.| Bras. O mesmo que bolandeira.
 volanta |f.| Prov. minh. Pesca no alto mar. (Colhido em
 Viana) (De volante)
-volante |adj.| Que vôa ou póde voar. Que fluctua. Que se póde mudar facilmente. Móvel. Errante, que não tem domicı́lio certo. Volúvel. Passageiro, transitório, que desapparece rapidamente. |M.| Tecido ligeiro e transparente, próprio para véus de senhora e outros enfeites. Pequena péla, feita de substância leve e que tem pennas espetadas em volta, própria para se deitar ao ar com a raqueta. Jôgo, em que os parceiros impellem com a raqueta êsse objecto, de uns para outros. Seta. Peça, que regula o movimento de um maquinismo. * Pesc. Rêde de um só pano, para emmalhar pescadas. * Correia contı́nua, na roda das máquinas. * Lacaio; servo. Cf. Garrett, Helena, 26 e 28. * |Prov.| minh. Instante, momento: fugiu num volante. (Lat. volans)
+volante |adj.| Que vôa ou póde voar. Que fluctua. Que se póde mudar facilmente. Móvel. Errante, que não tem domicı́lio certo. Volúvel. Passageiro, transitório, que desapparece rapidamente. |M.| Tecido ligeiro e transparente, próprio para véus de senhora e outros enfeites. Pequena péla, feita de substância leve e que tem pennas espetadas em volta, própria para se deitar ao ar com a raqueta. Jôgo, em que os parceiros impellem com a raqueta êsse objecto, de uns para outros. Seta. Peça, que regula o movimento de um maquinismo. * Pesc. Rêde de um só pano, para emmalhar pescadas. * Correia contı́nua, na roda das máquinas. * Lacaio; servo. Cf. Garrett, Helena, 26 e 28. * Prov. minh. Instante, momento: fugiu num volante. (Lat. volans)
 volanteira |f.| Pesc. Rêde, que se manobra successivamente de uma para outra posição. (De volante)
 volantim |m.| (V. volatim)
 volantina |f.| Prov. minh. Momento, instante: desappareceu numa volantina. (Cp. volante)

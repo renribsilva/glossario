@@ -257,7 +257,7 @@ ulva |f.| Gênero de algas, que nascem nos paues e á beira de águas estagnadas
 ulváceas |f.| pl. Famı́lia de plantas, que tem tem por typo a ulva.
 ulvina |f.| Gênero de algas, de que há quatro espécies. (Do lat. ulva)
 um #,1 # |adj.| Diz-se do número cardinal, que exprime uma só
-unidade: um homem. Que é o primeiro de todos os números. Uno; único. Que se distingue de todos os outros. Contı́nuo, indivisı́vel. |Art.| Qualquer. Algum; certo. * |M.| Algarismo, que representa o número um. * |Prov.| alg.2025 Homem sem préstimo. (Do lat. unus)
+unidade: um homem. Que é o primeiro de todos os números. Uno; único. Que se distingue de todos os outros. Contı́nuo, indivisı́vel. |Art.| Qualquer. Algum; certo. * |M.| Algarismo, que representa o número um. * Prov. alg.2025 Homem sem préstimo. (Do lat. unus)
 um #,2 # |m.| Árvore de Damão, (guatteria cerasoides).
 uma |adj.| (Fem. de um) * |Loc. adv.| Á uma, juntamente; ao mesmo tempo. Por um lado. (Do lat. una)
 umans |m.| pl. Antiga trı́bo de Índios de Pernambuco.
@@ -305,7 +305,7 @@ umbrelado |adj.| O mesmo que umbelı́fero.
 umbrella |f.| O mesmo que umbella. Gênero de molluscos gasterópodes.
 umbrellado |adj.| O mesmo que umbellı́fero.
 umbreta #,(brê)# |f.| Gênero de aves pernaltas.
-umbria |f.| Poét. Lugar sombrio. Vertente occidental de um monte. * |Prov.| alent. Vertente setentrional de um monte, onde o mato cresce mais.–Os diccion. trazem a palavra como proparoxýtona; considero-a porém paroxýtona, não só porque assim o é em cast., mas principalmente porque é derivada e tem um suff. que, exprimindo qualidade, nunca é átono. (Cast. umbrı́a)
+umbria |f.| Poét. Lugar sombrio. Vertente occidental de um monte. * Prov. alent. Vertente setentrional de um monte, onde o mato cresce mais.–Os diccion. trazem a palavra como proparoxýtona; considero-a porém paroxýtona, não só porque assim o é em cast., mas principalmente porque é derivada e tem um suff. que, exprimindo qualidade, nunca é átono. (Cast. umbrı́a)
 úmbrico |adj.| Relativo a Úmbria ou aos Umbros. |M.| Antigo dialecto do ramo itálico. (De Úmbria, |n. p.| )
 umbrı́cola |adj.| Que vive nas sombras. (Lat. umbricola)
 umbrı́fero |adj.| Sombrio, umbroso. (Lat. umbrifer )
@@ -416,7 +416,7 @@ unhante |m.| Veado novo. Pescador que, na ria de Aveiro, apanha enguias á mão.
 unhão #,1 # |m.| Náut. Acto ou effeito de entrançar um cabo partido, ligando com fio novo as partes separadas. Nó, com que se peiam os chicotes de um cabo, que quebrou accidentalmente. (De unha)
 unhão #,2 # |m.| Variedade de maçan. (De Unhão, |n. p.| )
 unhar |v. t.| Riscar ou ferir com as unhas. Arranhar. Aferrar (âncoras). Collocar na manta (o bacêllo), aconchegando-o com terra no lugar onde há de lançar raı́zes. * |V. i.| Prov. minh. Diz-se da pedra, que assenta no chão, por fórma que é diffı́cil submeter-lhe o alvião, para a erguer. (De unha)
-unhas |m.| Indivı́duo somı́tico, sovina. |Fam.| Indivı́duo somı́tico, sovina.
+unhas |m.| Fam. Indivı́duo somı́tico, sovina.
 unhas-de-fome |m.| O mesmo que unhas. Cf. Castilho, II, 348.
 unheira |f.| Bras. do S. Matadura incurável, ao lado do fio do lombo dos cavallos e proveniente do mau uso dos lombilhos.
 unheiro |m.| Tumor ou inflammação, entre a unha e o dedo. (De unha)
@@ -746,7 +746,7 @@ uretrotrombóide |adj.| Med. Causado pela presença de grumos de sangue na uretr
 uretrovesical |adj.| Anat. Relativo á uretra e á bexiga. (De
 urethra + vesical )
 urge #,1 # |m.| (V. uge)
-urge #,2 # |f.| (e der.) |Prov.| minh. O mesmo que urze, etc.
+urge #,2 # |f.| (e der.) Prov. minh. O mesmo que urze, etc.
 urgebão |m.| Planta verbenácea. (Do gr. hiera + botane)
 urgência |f.| Qualidade do que é urgente; pressa. (Lat. urgentia)
 urgente |adj.| Que urge. Que é preciso fazer-se rapidamente. Indispensável. Imminente. (Lat. urgens)

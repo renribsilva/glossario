@@ -136,13 +136,15 @@ function editarArquivoComPipe(letra: string) {
   //TERCEIRO TRATAMENTO
 
   const prefixos = [
-    'loc. adv.', 'loc. conj.', 'loc. prep.', 'loc. pron.',
-    'loc. interj.', 'loc. fam.', 'loc.', 'fam.',
-    'm.', 'f.', 'v. t. e i.', 'v. t.', 'v. i.', 'v. p.',
-    'v. pron.', 'adj.', 'adv.', 'interj.', 'mús.', 'prov.',
-    'gram.', 'pref.', 'abrev.', 'prep.', 'pron.',
-    'art.', 'fem.', 'adj. f.', 'art. def.', 'aum.',
-    'conj.', 'dem.', 'n. p.', 'num.', 'suf.', 'el. comp.'
+    'loc. adv.', 'loc. conj.', 'loc. prep.', 'loc. pron.', 'loc. interj.', 'loc. fam.', 'loc.',
+    'm.', 'f.', 'fem.',
+    'v. t. e i.', 'v. t.', 'v. i.', 'v. p.', 'v. pron.', 
+    'adj.', 'adj. f.', 'adv.', 'prep.', 'pron.', 'art. def.', 'art.', 'num.',
+    'pref.', 'suf.', 'el. comp.',
+    'interj.',
+    'aum.', 'dem.',
+    'conj.',
+    'n. p.',  'gram.', 'abrev.', 'interj.', 'mús.', 'fam.',
   ];
 
   const linhasEditadas = linhas.map(linha => {

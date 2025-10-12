@@ -6,7 +6,7 @@ gabachista |m.| Prov. O mesmo que gabarola. |f.| Prov. O mesmo que gabarola.
 gabaço |m.| Prov. trasm. Grande elogio. (De gabar )
 gabadela |f.| Pop. O mesmo que gabação.
 gabadinha |f.| Prov. dur. Predilecção. Mania. (De gabadinho)
-gabadinho |adj.| Que anda na berra. Que é muito falado. (De gabar ) |Fam.| Que anda na berra. Que é muito falado. (De gabar )
+gabadinho |adj.| Fam. Que anda na berra. Que é muito falado. (De gabar )
 gabador |m.| O que gaba. (Lat. gabator ) |adj.| O que gaba. (Lat. gabator )
 gabamento |m.| O mesmo que gabação.
 gabança |f.| Ant. O mesmo que gabação.
@@ -101,14 +101,14 @@ gadunha |f.| O mesmo que gadunho.
 gadunho |m.| Prov. minh. Unha crescida. (De grande + unha?)
 gaél |m.| Idioma da alta Escócia, o mesmo que gaélico.
 gaélico |adj.| Relativo aos primitivos habitantes da Gállia e da Britânnia. |M.| Lı́ngua, falada ao norte da Escócia e procedente do celta. (De Gaël, |n. p.| )
-gafa #,1 # |f.| Ant. Gancho, com que se puxava a corda da bésta para a armar. * Fungo parasito. Moléstia das azeitonas, que as engelha e faz caı́r. Lepra. Sarna leprosa de certos animaes. * |Prov.| trasm. Fome. * Pequeno caranguejo escuro. (Do baixo al. gaffel, garfo)
+gafa #,1 # |f.| Ant. Gancho, com que se puxava a corda da bésta para a armar. * Fungo parasito. Moléstia das azeitonas, que as engelha e faz caı́r. Lepra. Sarna leprosa de certos animaes. * Prov. trasm. Fome. * Pequeno caranguejo escuro. (Do baixo al. gaffel, garfo)
 gafa #,2 # |f.| Marn. Vaso, com que se transporta o sal nas marinhas.
 gafador |m.| Des. (?): “...fazendo mão de gafador de pela”. Anat. Joc., I, 27. (De gafa 1 ?)
 gafanhão #,1 # |m.| Espécie de gafanhoto grande. (Do rad. de gafanhoto)
 gafanhão #,2 # |m.| Habitante ou pescador da Gafanha, no concelho de Ílhavo.
 gafanhota |f.| Ant. O mesmo que gafanhotada.925
 gafanhotada |f.| Porção de gafanhotos.
-gafanhoto #,(nhô)# |m.| Insecto verde-amarelado, da ordem dos orthópteros saltadores. Planta, conhecida também pelo nome de raiz de cobra. * |Prov.| O mesmo que gavião. (Do rad. de gafa 1 , por allusão ao feitio do gancho da bésta)
+gafanhoto #,(nhô)# |m.| Insecto verde-amarelado, da ordem dos orthópteros saltadores. Planta, conhecida também pelo nome de raiz de cobra. * Prov. O mesmo que gavião. (Do rad. de gafa 1 , por allusão ao feitio do gancho da bésta)
 gafar #,1 # |v. t.| Contagiar com gafa. Fig. Contaminar. |V. i.| e p. Encher-se de gafa. Fig. Contaminar-se. (De gafa 1 )
 gafar #,2 # |m.| Pequeno tributo, que os Christãos e Judeus pagavam aos Turcos, sob cujo domı́nio viviam. (T. ár.)
 gafaria |f.| Ant. Hospital para leprosos. * O mesmo que
@@ -123,7 +123,7 @@ gafidade |f.| Ant. O mesmo que gafeira.
 gáfio |m.| (V. mandioca)
 gafo #,1 # |adj.| O mesmo que gafeirento. Leproso. Fig. Corrompido; desmoralizado. |M.| Gafeira. (Cp. gafa 1 )
 gafo #,2 # |adj.| Prov. alg. O mesmo que cheio.
-gaforina |f.| Grenha; cabello em desalinho. Topête: “...dar lustro a caracóes e a gaforinas”. Macedo, Burros, 305. (De Gafforini, |n. p.| ) |Fam.| Grenha; cabello em desalinho. Topête: “...dar lustro a caracóes e a gaforinas”. Macedo, Burros, 305. (De Gafforini, |n. p.| )
+gaforina |f.| Fam. Grenha; cabello em desalinho. Topête: “...dar lustro a caracóes e a gaforinas”. Macedo, Burros, 305. (De Gafforini, |n. p.| )
 gagaı́sta |m.| Espécie de feiticeiro ou sacerdote preto, que consulta o gagau.
 gaganho |m.| Prov. beir. O mesmo que gago. (Colhido na Guarda) |adj.| Prov. beir. O mesmo que gago. (Colhido na Guarda)
 gagão |m.| Des. Jôgo de rapazes, com tambores ou com objectos que imitassem tambores.
@@ -179,20 +179,20 @@ gaiola |f.| Pequena clausura móvel, feita de canas, junco, arame, etc., para av
 gaioleiro |m.| Fabricante ou vendedor de gaiolas.
 gaiolim |m.| Pequena gaiola.
 gaiolo #,(ô)# |adj.| Diz-se do toiro, que tem os cornos em fórma de meia lua e muito próximos nas pontas. * |M.| Prov. Armadilha para caçar pássaros, feita de varas encruzadas,gaiorros, (ô) formando pyrâmide regular de base quadrada. (De gaiola)
-gaiorros #,(ô)# |m.| pl. |Prov.| dur. Feijões, também chamados fradinhos.
-gaiosa |f.| Presente, que os emphyteutas davam aos senhorios, em certos dias festivos. Cf. Herculano, Hist. de Port., III, 442. |Prov.| trasm. Viver á gaiosa, andar á tuna, gandaiar. (De gaio 1 )
+gaiorros #,(ô)# |m.| pl. Prov. dur. Feijões, também chamados fradinhos.
+gaiosa |f.| Presente, que os emphyteutas davam aos senhorios, em certos dias festivos. Cf. Herculano, Hist. de Port., III, 442. Prov. trasm. Viver á gaiosa, andar á tuna, gandaiar. (De gaio 1 )
 gaioto #,(ô)# |m.| Prov. trasm. Ave, o gaio macho. (Colhido na Régua)
 gaipa |f.| Prov. minh. Cacho de uvas.
 gaipeiro |adj.| Prov. minh. Aquelle que furta uvas. Aquelle que gosta muito de uvas. (De gaipa)
 gaipelo #,(pê)# |m.| Prov. minh. Uma das ramificações do eixo central do cacho de uvas. (De gaipa)
 gaipilha |m.| Prov. minh. Aquelle que gosta muito dos
 gaipos ou cachos de uvas. Aquelle que vai roubar uvas á vinha. Larápio.
-gaipo |m.| O mesmo que gaipa. |Prov.| O mesmo que chifre. * |Prov.| beir. Rebento da videira, sarmento.
+gaipo |m.| O mesmo que gaipa. Prov. O mesmo que chifre. * Prov. beir. Rebento da videira, sarmento.
 gairo |m.| Árvore mimósea da Índia, de vagens tenras e comestı́veis. (Do conc. garial )
 gaita |f.| Rude instrumento de sopro, formado por um canudo com vários buracos; pı́faro. Qualquer pequeno instrumento, de metal ou madeira, para crianças. * Bras. de Minas. Troça. * Escol. Reprovação. * Chul. Pênis. * Gaita de capador, instrumento, composto de uma fileira de pequenos canudos de diversas dimensões, sôbre os quaes se sopra, produzindo som differente em cada um. * |Loc.| pop. Ir-se á gaita, mallograr-se. Gaita de folles, ou gaita
-gallega, instrumento, formado por um saco de coiro cheio de ar, e por dois tubos. Pop. Côrno. * |Prov.| alg. Mulher gaiteira. Pl. * Nome, que se dá a uns furos, que as lampreias têm por baixo da bôca. * Saber a gaitas, ou saber que nem gaitas, têr bom sabor, sêr delicioso.–Li nuns apontamentos de Castilho que na Beira se chamam gaitas as couves, e que daı́ virá talvez o prolóquio sabe que nem
+gallega, instrumento, formado por um saco de coiro cheio de ar, e por dois tubos. Pop. Côrno. * Prov. alg. Mulher gaiteira. Pl. * Nome, que se dá a uns furos, que as lampreias têm por baixo da bôca. * Saber a gaitas, ou saber que nem gaitas, têr bom sabor, sêr delicioso.–Li nuns apontamentos de Castilho que na Beira se chamam gaitas as couves, e que daı́ virá talvez o prolóquio sabe que nem
 gaitas. Nunca lá ouvi o termo nessa accepção, o que aliás não prova que êlle não exista. Em apontamentos de um illustre official de marinha, vi também que antigamente se chamou gaita á lampreia, e que dalli veio o alludido prolóquio. Ignoro o fundamento desta allegação, se bem que, como vimos, se chamam gaitas uns furos que a lampreia tem debaixo da bôca.–Mais uma explicação conjectural da |loc. fam.| sabe que nem gaitas.–Dantes, ás portas do antigo Passeio Público de Lisbôa, vendiam-se uns canudinhos de doce, chamados gaitas, que o povo apreciava e saboreava. Viria daqui a |loc.| sabe que nem gaitas? Cf. Pinto de Carvalho, Lisbôa de Outros Tempos, II, 195.
-gaitada |f.| Toque de gaita. * |Prov.| Pancada com gaita. Chul. Censura, reprehensão. Deprec. Trecho de música instrumental. * Pop. Marrada. * Açor. e bras. do N.
+gaitada |f.| Toque de gaita. * Prov. Pancada com gaita. Chul. Censura, reprehensão. Deprec. Trecho de música instrumental. * Pop. Marrada. * Açor. e bras. do N.
 Gargalhada. (De gaita)
 gaitado |adj.| Escol. Reprovado. (De gaita 1 )
 gaitar |v. i.| Prov. trasm. Chorar (a criança) (De gaita)
@@ -200,7 +200,7 @@ gaitear |v. i.| Tocar gaita. Fig. Foliar. * Bras. do N. Urrar (o toiro). * Bras.
 gaiteiro |m.| Tocador de gaita. |Adj.| Que gaiteia. Que é peralta; garrido; folião.
 gaitona |f.| Prov. alg. Mulher foliona, mal comportada. (De gaita)
 gaiuta |f.| Náut. Cúpula, que cobre uma escotilha redonda. Cf. |M.| de Aguiar, Diccion. de Marinha. Ext. Parte externa e accessória dos edifı́cios modernos, com a qual se resguardam as latrinas ou urinoes. (Fr. cahute)
-gaiva |f.| O mesmo que goivadura. |Prov.| dur. Escavação ou fenda, feita na terra por águas pluviaes. * Gı́r. Gaveta. * Ant. Cava ou fôsso no castello. (Do lat. cavea)
+gaiva |f.| O mesmo que goivadura. Prov. dur. Escavação ou fenda, feita na terra por águas pluviaes. * Gı́r. Gaveta. * Ant. Cava ou fôsso no castello. (Do lat. cavea)
 gaivação |f.| Acto de gaivar.
 gaivagem |f.| Rêgo fundo ou valla estreita, para esgôto ou derivação de águas. Drainagem. Cf. Código Civil, |art.| 462. (De gaivar )
 gaivão #,1 # |m.| Ave, da |fam.| das andorinhas, (sterna hirundo, Lin.). (Do lat. gavia)
@@ -212,7 +212,7 @@ gaivina |f.| Ave palmı́pede, conhecida também por andorinha do mar, (sterna m
 gaivinha |f.| O mesmo que gaivina.
 gaivota |f.| Ave palmı́pede e aquática. (Cp. cast. gaviota, do lat. gavia)
 gaivotão |m.| Ave do gênero da gaivota.
-gaivotear |v. i.| des. Afagar ironicamente ou com acinte; zombar, afagando. (De gaivota) |Fam.| des. Afagar ironicamente ou com acinte; zombar, afagando. (De gaivota)
+gaivotear |v. i.| Fam. des. Afagar ironicamente ou com acinte; zombar, afagando. (De gaivota)
 gaivoto #,(vô)# |m.| T. de Dio O mesmo que gaivota.
 gaja |f.| Chul. Qualquer mulhér: não fales àquela gaja. (Cp. gajo)
 gajaderopa |f.| Espécie de marisco, conhecido também por pé de burro.
@@ -221,7 +221,7 @@ gajão #,1 # |m.| Tı́tulo obsequioso, com que os ciganos, no Brasil, tratam as
 gajão #,2 # |m.| Chul. Sujeito finório, arteiro: aquilo é que é um
 gajão! (De gajo)
 gajar |v. i.| Prov. trasm. Fazer barulho.
-gájara |f.| pl. |Prov.| trasm. Comestı́veis, que se dão aos ceifadores de empreitada, além da paga em dinheiro. (Cp. gajas)
+gájara |f.| pl. Prov. trasm. Comestı́veis, que se dão aos ceifadores de empreitada, além da paga em dinheiro. (Cp. gajas)
 gajas |f.| pl. ant. Soldada. Expensas; custa. (Cp. gage)
 gajata |f.| Prov. trasm. O mesmo que cajado.
 gajato |f.| Prov. trasm. Gajata. Qualquer coisa torta. Rabisco, feito com a penna por quem começa a escrever. (Corr. de cajado)
@@ -297,14 +297,14 @@ galanto |m.| Gênero de plantas amarilı́deas. (Do gr. gala + anthos)
 galão #,1 # |m.| Tira entrançada de prata, oiro, linho, etc., para debruar ou enfeitar. Tira de linho, com que se fortificam as fendas calafetadas da embarcação. Corcovo ou salto do cavallo, arqueando êste o dorso. Tira de prata doirada, tecida com retrós, e que, no boné ou nas mangas da farda, serve para distinguir certas categorias de militares e funccionários. (Do germ. gal )
 galão #,2 # |m.| Antiga medida inglesa para lı́quidos, que se usou também em Portugal, e ainda se usa no fornecimento dos vernizes para os caminhos de ferro.–Cada galão corresponde a quatro litros e meio. (Ingl. gallon)
 galápago |m.| Ulcera na corôa do casco das cavalgaduras. (Cast. galápago)
-galapo |m.| Coxim na sella do cavallo. Ligadura para feridas. * Pl. |Prov.| trasm. Dedos, na acção de agarrar. |Prov.| alent. Espécie de dedeiras, com que os ceifeiros resguardam, dos golpes da foice, os dedos médio, anular e mı́nimo da mão esquerda. Conjunto das dedeiras, da calleira ou coiro, que reveste a palma da mão, e da correia que prende a calleira ás dedeiras. Cp. calleira, nos Additamentos. (Cast. galapo)
+galapo |m.| Coxim na sella do cavallo. Ligadura para feridas. * Pl. Prov. trasm. Dedos, na acção de agarrar. Prov. alent. Espécie de dedeiras, com que os ceifeiros resguardam, dos golpes da foice, os dedos médio, anular e mı́nimo da mão esquerda. Conjunto das dedeiras, da calleira ou coiro, que reveste a palma da mão, e da correia que prende a calleira ás dedeiras. Cp. calleira, nos Additamentos. (Cast. galapo)
 galar |v. t.| Fecundar, (falando-se das galináceas). * Pop. Fornicar. * |V. p.| Colocar-se: “galou-se de repente sobregalardão mim”. |F.| Manuel, Apólogos. (De galo)
 galardão |m.| Recompensa de serviços importantes; prêmio;
 glória. (Do ant. alt. al. wilardon)
 galardoador |m.| O que galardôa. |adj.| O que galardôa.
 galardoar |v. i.| Dar galardão a. Premiar; compensar. Consolar.
 galarim |m.| Cúmulo. O ponto mais elevado. Fastı́gio; opulência. Valimento. (Cast. galarin)
-galaripo |m.| Prov. beir. Rapaz, que já pretende namorar. |Prov.| minh. O mesmo que gallo, elevação na testa ou na cabeça, por efeito de pancada. (Cp. gallo 1 )
+galaripo |m.| Prov. beir. Rapaz, que já pretende namorar. Prov. minh. O mesmo que gallo, elevação na testa ou na cabeça, por efeito de pancada. (Cp. gallo 1 )
 galarispo |m.| Prov. trasm. O mesmo que galaripo.
 galas |m.| pl. Povos fronteiriços da Abissı́nia.
 gálatas |m.| pl. Habitantes da Galácia. Antigo povo da ÁsiaMenór. (Do lat. galatae)
@@ -346,14 +346,14 @@ galega #,2 (lê)# |adj.| Ant. Dizia-se da terra, que não é fértil ou que é c
 galegada |f.| Pop. Ajuntamento de galegos. Acção própria de galego. |Fam.| Brutalidade. Acção ou dito grosseiro.
 galegaria |f.| Porção de galegos. Falario de galegos. Cf.
 Garrett, Alfageme.
-galego #,(lê)# |m.| Aquele que é natural da Galiza. Dialecto da Galiza. Mariola, moço de fretes. * Casta de uva preta de Colares. Pop. Homem grosseiro, incivil. |Adj.| Relativo á Galiza. * Ordinário: ginja galega. * |Prov.| Diz-se do vento do norte. * E diz-se também de uma espécie de trigo mole. * |Prov.| beir. Diz-se da mesa em que não há pão. * Ant. Dizia-se de uma qualidade de tecido de linho: “Deixo 4 varas de linho galego...” (De um testamento de 1691)
+galego #,(lê)# |m.| Aquele que é natural da Galiza. Dialecto da Galiza. Mariola, moço de fretes. * Casta de uva preta de Colares. Pop. Homem grosseiro, incivil. |Adj.| Relativo á Galiza. * Ordinário: ginja galega. * Prov. Diz-se do vento do norte. * E diz-se também de uma espécie de trigo mole. * Prov. beir. Diz-se da mesa em que não há pão. * Ant. Dizia-se de uma qualidade de tecido de linho: “Deixo 4 varas de linho galego...” (De um testamento de 1691)
 galeguice |f.| Acto ou modos de galego.
 galeguinho |m.| Variedade de uva de Azeitão.
 galeguismo |m.| Palavra ou locução privativa da Galiza. (De galego)
 galeiforme |adj.| Que tem fórma de gálea. (De gálea + fórma)
 galeio |m.| Acto de galear.
 galeira #,1 # |f.| Prov. dur. Rêgo transversal nas vinhas, para esgôto de águas no inverno. Quédas de água, na corrente do Doiro, que se formam no estio.
-galeira #,2 # |f.| ant. O mesmo que forcado. |Fam.| ant. O mesmo que forcado.
+galeira #,2 # |f.| Fam. ant. O mesmo que forcado.
 galeirão |m.| Ave pernalta, (fulca atra, Lin.). * O mesmo que abibe. (Do cast. gallarón)
 galela |f.| Prov. trasm. O mesmo que galelo.
 galelo |m.| Prov. trasm. Gomo de laranja. Cacho de uvas, que fica na vinha, depois de vindimada. (Colhido em |V. P.| de Aguiar)
@@ -366,7 +366,7 @@ galenismo |m.| Systema médico de Galeno, que consistia principalmente em subord
 galenista |m.| Partidário do systema de Galeno.
 galenite |f.| Nome, que os geólogos modernos dão á galena. (De galena)
 galeno |m.| Prov. O mesmo que abibe. (De gallo?)
-galeno #,1 # |m.| Qualquer médico. Cf. Garrett, D. Branca, 44. (De Galeno, |n. p.| ) |Fam.| Qualquer médico. Cf. Garrett, D. Branca, 44. (De Galeno, |n. p.| )
+galeno #,1 # |m.| Fam. Qualquer médico. Cf. Garrett, D. Branca, 44. (De Galeno, |n. p.| )
 galeola |f.| Ant. Vaso em fórma de capacete. (Lat. galeola)
 galeolária |f.| Zoóphito alaranjado, que se ramifica, formando os seus filamentos uma espécie de renda. (Do lat. galeola)
 galeonete #,(nê)# |m.| Pequena embarcação em fórma de
@@ -382,15 +382,15 @@ galerno |adj.| Brando, suave, (falando-se de um vento que sopra de Noroéste). |
 galero |m.| O mesmo que gálea. * Ant. Barrete de pelles. * Chapéu, que, entre os Romanos, só podia sêr usado pelos flâmines de Júpiter. (Lat. galerus)
 galérucas |f.| pl. Insectos herbı́voros, da ordem dos coleópteros. (Relaciona-se com galero?)
 galês |adj.| Relativo ao paı́s de Gales. |M.| Lı́ngua antiga do paı́s de Gales.
-galezia |f.| Velhacaria. Trapaça; maroteira. (Do rad. de galé 1 ) |Fam.| Velhacaria. Trapaça; maroteira. (Do rad. de galé 1 )
+galezia |f.| Fam. Velhacaria. Trapaça; maroteira. (Do rad. de galé 1 )
 galfarro |m.| Pop. Beleguim. Meirinho. Official de diligêngalhardo cias. Fig. Onzeneiro. Comilão. * Gı́r. Vádio. * Chul. ant. Piolho grande. (Cast. galfarro)
 galga #,1 # |f.| A fêmea do galgo. Pop. Boato falso, pêta. Gı́r. Fome. * Animal amphı́bio da América, (canis gallica).
-galga #,2 # |f.| Ancoreta. Mó, de eixo horizontal, nos lagares de azeite. * |Prov.| trasm. Pedra grande a rebolar por uma ladeira abaixo. * Haste de madeira, segura por fóra da extremidade do eixo dos carros alentejanos, para resguardo e para travar. (Cp. cast. galga)
+galga #,2 # |f.| Ancoreta. Mó, de eixo horizontal, nos lagares de azeite. * Prov. trasm. Pedra grande a rebolar por uma ladeira abaixo. * Haste de madeira, segura por fóra da extremidade do eixo dos carros alentejanos, para resguardo e para travar. (Cp. cast. galga)
 galgação |f.| Carp. Acto de endireitar a superfı́cie de uma tábua ou madeira com plaina ou garlopa. (De galgar )
 galgadeira |f.| Prov. dur. Instrumento de carpinteiro, com que, nos lados das tábuas, se traçam riscos parallelos á aresta das mesmas tábuas. O mesmo que graminho? (De
 galgar )
 galgão |m.| Prov. alent. Salto, pulo. (De galgar )
-galgar |v. t.| Transpor, alargando as pernas. Transpor, saltar por cima de: galgar um muro. Fig. Percorrer: galgar léguas de estrada. Alinhar. Calcular distâncias a compasso em (trabalhos de latoaria). * |Prov.| beir. Riscar com a galgadeira. |V. i.| Pular; trepar. Fig. Elevar-se rapidamente. * Recalcitrar, grimpar. Cf. Castilho, Sabichonas, 220. (De galgo)
+galgar |v. t.| Transpor, alargando as pernas. Transpor, saltar por cima de: galgar um muro. Fig. Percorrer: galgar léguas de estrada. Alinhar. Calcular distâncias a compasso em (trabalhos de latoaria). * Prov. beir. Riscar com a galgadeira. |V. i.| Pular; trepar. Fig. Elevar-se rapidamente. * Recalcitrar, grimpar. Cf. Castilho, Sabichonas, 220. (De galgo)
 galgaz |adj.| Semelhante a galgo. Esguio; magro.
 galgo |m.| Cão pernalto e esguio, muito empregado em caça de lebres. (Do lat. gallicus)
 galgueira |f.| Cova artificial, para depósito de águas, ou para plantar bacêllo, árvores, etc. (De galgueiro)
@@ -398,20 +398,20 @@ galgueiro |adj.| Prov. trasm. Que corre em declı́vio, (falando-se de um regato
 galguenho |m.| Cyn. Variedade de podengo de caça, vulgar no Alentejo e na Beira-Baixa. (De galgo)
 galha #,1 # |f.| Nome, que os pescadores dão á primeira barbatana dorsal dos peixes, a qual se avista ás vezes á flôr da água.
 galha #,2 # |f.| * Fruto globular de árvore glandı́fera, não contendo semente. Excrescência de certos frutos, de fórma variada, e produzida pela picada de certos insectos. (Do lat. galla)
-galhada |f.| Cornos de ruminantes. * Bras. Ramagem de arvoredo. * |Prov.| trasm. Ramificação do cacho de uvas; uns poucos de bagos, sustentados nos respectivos pés. * |Prov.| trasm. Rasgão no peito, produzido por um galho ou graveto. * |Prov.| dur. Ponto, em que se bifurcam as pernas das calças. (De galho)
+galhada |f.| Cornos de ruminantes. * Bras. Ramagem de arvoredo. * Prov. trasm. Ramificação do cacho de uvas; uns poucos de bagos, sustentados nos respectivos pés. * Prov. trasm. Rasgão no peito, produzido por um galho ou graveto. * Prov. dur. Ponto, em que se bifurcam as pernas das calças. (De galho)
 galhano |adj.| Chul. ant. Esfarrapado; mal entrajado. (Cp. galhudo)
 galharda |f.| Dança e música antigas. Cf. Aulegrafia, 121. (De galhardo)
 galhardamente |adv.| De modo galhardo. Com galhardia.
 galhardear |v. i.| Mostrar-se galhardo. Sobresair; brilhar. |V. t.| Ostentar; pompear.
 galhardete #,(dê)# |m.| Bandeirinha farpada, que se põe no alto dos mastros, como adorno ou sinal. * Bandeira, para enfeite de ruas ou edifı́cios, em occasião de festa. (It. gagliardetto)
 galhardia |f.| Qualidade daquelle ou daquillo que é galhardo.
-galhardo |adj.| Donairoso; elegante. Folgazão. Esforçado. Bizarro, generoso. |M.| Náut. Castello de prôa ou de popa. * Antiga arma defensiva. * |Prov.| beir. O diabo. (Do fr.
+galhardo |adj.| Donairoso; elegante. Folgazão. Esforçado. Bizarro, generoso. |M.| Náut. Castello de prôa ou de popa. * Antiga arma defensiva. * Prov. beir. O diabo. (Do fr.
 gaillard )galhas
 galhas |f.| pl. Bras. do N. Cornos de ruminantes; galhada. (De galho)
 galhastro |m.| Prov. trasm. Animal com um só testı́culo.
 galheira |f.| Processo de poda, usado em alguns pontos da região trasmontana. (De galho)
 galheiro |m.| Prov. Fogueira de galhos ou de ramos, em a noite de San-João. * O mesmo que loiceiro. * Bras. Espécie de veado grande, veado dos campos. (De galho)
-galheta #,1 (lhê)# |f.| Cada um dos dois pequenos vasos de vidro, para azeite e vinagre, no serviço de mesa. Pequeno vaso, que contém o vinho ou a agua, para o serviço da Missa. * Instrumento de vidro, usado em laboratórios chı́micos. * |Prov.| O mesmo que corvo-marinho. (Cast. galleta)
+galheta #,1 (lhê)# |f.| Cada um dos dois pequenos vasos de vidro, para azeite e vinagre, no serviço de mesa. Pequeno vaso, que contém o vinho ou a agua, para o serviço da Missa. * Instrumento de vidro, usado em laboratórios chı́micos. * Prov. O mesmo que corvo-marinho. (Cast. galleta)
 galheta #,2 (lhê)# |f.| Trombeta de guerra, entre os pretos de Lourenço-Marques, feita de chifre de cabrito. (De galho)
 galheta #,3 (lhê)# |f.| Gı́r. Bofetada: olha que apanhas duas
 galhetas. (Do fr. galette, bolacha)
@@ -419,7 +419,7 @@ galheteiro |m.| Utensı́lio de mesa, que contém especialmente as galhetas.
 galheto #,(lhê)# |m.| Prov. O mesmo que galheteiro.
 galhipo |m.| T. de Lindoso. Chifre de bode, que contém medulla de sabugo ou trapos chamuscados, e um pedaço de quartzo, para se fazer lume e acender o cigarro. (De galho)
 galhistro |m.| O mesmo que galhastro.
-galho |m.| Ramo de árvore. * Parte do ramo, que fica ligada ao tronco, depois de partido o mesmo ramo. Esgalho. Cacho, escádea. Chifre de ruminantes. * |Prov.| dur. Ódio; zanga.
+galho |m.| Ramo de árvore. * Parte do ramo, que fica ligada ao tronco, depois de partido o mesmo ramo. Esgalho. Cacho, escádea. Chifre de ruminantes. * Prov. dur. Ódio; zanga.
 galhofa |f.| Motejo. Gracejo. Folia. Escárneo. * T. de Penafiel. Espécie de bolo de farinha e ovos. * Peixe de Portugal, do gênero múgil. (Cast. gallofa)
 galhofada |f.| Grande galhofa.
 galhofar |v. i.| Fazer galhofa; divertir-se ruidosamente. Zombar. Cf. Camillo, Cancion. Al., 261.
@@ -450,7 +450,7 @@ gálico #,2 # |adj.| Diz-se de um ácido, extraı́do da noz de galha. (Do lat. 
 galı́cola |adj.| Que vive ou aparece nas galhas. Diz-se da filoxera, que se manifesta nas galhas ou empôlas da fôlha da videira. (Do lat. galla + colere)
 galifato |m.| Prov. trasm. O mesmo que garoto. (Colhido em Alijó)
 galigée |f.| Ant. O mesmo que galilê. Cf. Port. Mon. Hist., Script., 289.
-galilé |f.| Ant. Cemitério, destinado ao entêrro de pessôas nobres em alguns conventos. Cf. Herculano, Bobo, 295. * A parte alpendrada dos claustros. * Dependência alpendrada dos claustros, onde se celebravam as assembleias dos parochianos. * |Prov.| Agrupamento de garotos. (Do b. lat. galilaea)
+galilé |f.| Ant. Cemitério, destinado ao entêrro de pessôas nobres em alguns conventos. Cf. Herculano, Bobo, 295. * A parte alpendrada dos claustros. * Dependência alpendrada dos claustros, onde se celebravam as assembleias dos parochianos. * Prov. Agrupamento de garotos. (Do b. lat. galilaea)
 galileia |f.| O mesmo que galilé.
 galileias |f.| pl. Pop. O mesmo que Galliza: “nunca lá dessas
 galileias saiu cabeça tão romba”. Garrett.
@@ -464,7 +464,7 @@ galináceo |adj.| Relativo á ordem das galináceas. (Lat. gallinaceus)
 galinário |m.| Aquele que fazia a compra das galinhas para a hucharia real. Menino, que se criava e educava no palácio real. O mesmo que infanção. (Do lat. gallina)
 galindrau |m.| Instrumento, com que os carpinteiros de barcos repuxam as tábuas para o lugar próprio. (Cp. galindréu)
 galindréu |m.| Náut. Chapa de ferro, que aguenta o mastro contra a bancada de uma embarcação.
-galinha |f.| Fêmea do galo. * |Prov.| dur. Má sorte; desdita. Mau olhado. Pl. * Espécie de jôgo popular. * |Loc. fam.| Quando as galinhas tiverem dentes, nunca. (Do lat. gallina)
+galinha |f.| Fêmea do galo. * Prov. dur. Má sorte; desdita. Mau olhado. Pl. * Espécie de jôgo popular. * |Loc. fam.| Quando as galinhas tiverem dentes, nunca. (Do lat. gallina)
 galinhaça |f.| Pop. Excremento de galinhas.
 galinhaço |m.| O mesmo que galinhaça. * Pop. Porção de931
 galinhas, ou as galinhas em geral. (Do lat. gallinaceus)
@@ -500,7 +500,7 @@ gallacrista |f.| Planta ornamental, cuja florescência imita a crista do gallo. 
 galladura |f.| Acto ou effeito de gallar. Ponto branco que, na gemma do ovo, indica a fecundação.
 gallão |m.| Antiga medida inglesa para lı́quidos, que se usou também em Portugal, e ainda se usa no fornecimento dos vernizes para os caminhos de ferro.–Cada gallão corresponde a quatro litros e meio. (Ingl. gallon)
 gallar |v. t.| Fecundar, (falando-se das gallináceas). * Pop. Fornicar. * |V. p.| Collocar-se: “gallou-se de repente sobre mim”. |F.| Manuel, Apólogos. (De gallo)
-gallaripo |m.| Prov. beir. Rapaz, que já pretende namorar. |Prov.| minh. O mesmo que gallo, elevação na testa ou na
+gallaripo |m.| Prov. beir. Rapaz, que já pretende namorar. Prov. minh. O mesmo que gallo, elevação na testa ou na
 gallicina cabeça, por effeito de pancada. (Cp. gallo 1 )
 gallarispo |m.| Prov. trasm. O mesmo que gallaripo.
 gallas |m.| pl. Povos fronteiriços da Abyssı́nia.
@@ -511,7 +511,7 @@ gallega #,(lê)# |adj.| Ant. Dizia-se da terra, que não é fértil ou que é ch
 gallegada |f.| Pop. Ajuntamento de gallegos. Acção própria de gallego. |Fam.| Brutalidade. Acção ou dito grosseiro.
 gallegaria |f.| Porção de gallegos. Falario de gallegos. Cf.
 Garrett, Alfageme.
-gallego #,(lê)# |m.| Aquelle que é natural da Galliza. Dialecto da Galliza. Mariola, moço de fretes. * Casta de uva preta de Collares. Pop. Homem grosseiro, incivil. |Adj.| Relativo á Galliza. * Ordinário: ginja gallega. * |Prov.| Diz-se do vento do norte. * E diz-se também de uma espécie de trigo molle. * |Prov.| beir. Diz-se da mesa em que não há pão. * Ant. Dizia-se de uma qualidade de tecido de linho: “Deixo 4 varas de linho galego...” (De um testamento de 1691)
+gallego #,(lê)# |m.| Aquelle que é natural da Galliza. Dialecto da Galliza. Mariola, moço de fretes. * Casta de uva preta de Collares. Pop. Homem grosseiro, incivil. |Adj.| Relativo á Galliza. * Ordinário: ginja gallega. * Prov. Diz-se do vento do norte. * E diz-se também de uma espécie de trigo molle. * Prov. beir. Diz-se da mesa em que não há pão. * Ant. Dizia-se de uma qualidade de tecido de linho: “Deixo 4 varas de linho galego...” (De um testamento de 1691)
 gallego-de-montemor |m.| Variedade de uva. Cf. Rev. Agron., I, 18.
 gallego-doirado |m.| Casta de uva extremenha.
 gallego-forcado |m.| Variedade de uva de Azeitão.
@@ -521,7 +521,7 @@ galleguice |f.| Acto ou modos de gallego.
 galleguinho |m.| Variedade de uva de Azeitão.
 galleguismo |m.| Palavra ou locução privativa da Galliza. (De gallego)
 galleio |m.| Acto de gallear.
-galleira |f.| ant. O mesmo que forcado. |Fam.| ant. O mesmo que forcado.
+galleira |f.| Fam. ant. O mesmo que forcado.
 galleirão |m.| Ave pernalta, (fulca atra, Lin.). * O mesmo que abibe. (Do cast. gallarón)
 galleno |m.| Prov. O mesmo que abibe. (De gallo?)
 gallês |adj.| Relativo ao paı́s de Galles. |M.| Lı́ngua antiga do paı́s de Galles.
@@ -548,7 +548,7 @@ gallicrista |f.| O mesmo que gallacrista. Cf. B. Pereira, Prosódia.
 gallináceas |f.| pl. Ordem de aves, geralmente granı́voras, que comprehende as gallinhas, os perus, as perdizes, etc. (De gallináceo)
 gallináceo |adj.| Relativo á ordem das gallináceas. (Lat. gallinaceus)
 gallinário |m.| Aquelle que fazia a compra das gallinhas para a hucharia real. Menino, que se criava e educava no palácio real. O mesmo que infanção. (Do lat. gallina)
-gallinha |f.| Fêmea do gallo. * |Prov.| dur. Má sorte; desdita. Mau olhado. Pl. * Espécie de jôgo popular. * |Loc. fam.| Quando as gallinhas tiverem dentes, nunca. (Do lat. gallina)
+gallinha |f.| Fêmea do gallo. * Prov. dur. Má sorte; desdita. Mau olhado. Pl. * Espécie de jôgo popular. * |Loc. fam.| Quando as gallinhas tiverem dentes, nunca. (Do lat. gallina)
 gallinha-cega |f.| Espécie de jôgo popular, o mesmo que cabra-cega.
 gallinha-choca |f.| Pop. Pessôa doente e descòrada; pessôa achacadiça.
 gallinha-da-ı́ndia |f.| Ave gallinácea, (numida meleagris).
@@ -576,7 +576,7 @@ gallispo |m.| Pequeno gallo. * O mesmo que abibe. * |Adj.| Prov. alent. Que tem 
 gallista |adj.| Relativo a Gall ou á sua doutrina. |M.| Partidário de Gall. (Cp. gallismo)
 gallizão |m.| O mesmo que milhão. Cf. Bibl. da G. do Campo, 303.
 galliziano |adj.| Diz-se do dialecto, da poesia e dos trovadores de Portugal e da Galliza, nos primeiros séculos da nacionalidade portuguesa. (De Galliza, |n. p.| )
-gallo #,1 # |m.| Gênero de aves gallináceas, de crista carnuda e asas curtas e largas. Pop. Elevação na testa ou na cabeça, produzida por pancada. * Peixe de Portugal. * |Prov.| alent. Variedade de ameixa. (Lat. gallus)
+gallo #,1 # |m.| Gênero de aves gallináceas, de crista carnuda e asas curtas e largas. Pop. Elevação na testa ou na cabeça, produzida por pancada. * Peixe de Portugal. * Prov. alent. Variedade de ameixa. (Lat. gallus)
 gallo #,2 # |m.| O mesmo ou melhor que gaulês. (Lat. |adj.| O mesmo ou melhor que gaulês. (Lat. gallus)
 gallo-da-serra |m.| Ave brasileira, amarelada, de pernas robustas, com esporões como o gallo.
 gallo-de-bando |m.| Pássaro brasileiro, nocivo aos frutos.
@@ -593,9 +593,9 @@ gallophobia |f.| Qualidade de quem é gallóphobo.
 gallóphobo |m.| O que tem ódio aos Franceses ou á França. (De gallo 2 + gr. phobos) |adj.| O que tem ódio aos Franceses ou á França. (De gallo 2 + gr. phobos)
 galluchada |f.| Porção de galluchos.
 gallucho |m.| Recruta; soldado bisonho. * Fig. Novato, caloiro. Sujeito acanhado, inexperiente. (De gallo 1 )
-galo #,1 # |m.| Gênero de aves galináceas, de crista carnuda e asas curtas e largas. Pop. Elevação na testa ou na cabeça, produzida por pancada. * Peixe de Portugal. * |Prov.| alent. Variedade de ameixa. (Lat. gallus)
+galo #,1 # |m.| Gênero de aves galináceas, de crista carnuda e asas curtas e largas. Pop. Elevação na testa ou na cabeça, produzida por pancada. * Peixe de Portugal. * Prov. alent. Variedade de ameixa. (Lat. gallus)
 galo #,2 # |m.| O mesmo ou melhor que gaulês. (Lat. |adj.| O mesmo ou melhor que gaulês. (Lat. gallus)
-galocha |f.| Espécie de calçado, com rasto de madeira ou borracha. Chinela de borracha, que se calça por cima dos sapatos ou botas, como preservativo da humidade. Rebento do enxêrto. Peça de metal, no bordo do navio, por onde labora um virador, uma espia, etc. * |Prov.| trasm. Primeiro sulco, que se faz, para abrir uma valla. (Fr. ga-933 loche)
+galocha |f.| Espécie de calçado, com rasto de madeira ou borracha. Chinela de borracha, que se calça por cima dos sapatos ou botas, como preservativo da humidade. Rebento do enxêrto. Peça de metal, no bordo do navio, por onde labora um virador, uma espia, etc. * Prov. trasm. Primeiro sulco, que se faz, para abrir uma valla. (Fr. ga-933 loche)
 galocrista |f.| O mesmo que galacrı́sta.
 galofobia |f.| Qualidade de quem é galófobo.
 galófobo |m.| O que tem ódio aos Franceses ou á França. (De galo 2 + gr. phobos) |adj.| O que tem ódio aos Franceses ou á França. (De galo 2 + gr. phobos)
@@ -623,13 +623,13 @@ galrar |v. i.| Falar á tôa. Falar muito, sem necessidade. Parolar. Blasonar. *
 galrar )
 galreador |m.| O que galreia. |adj.| O que galreia.
 galrear |v. i.| O mesmo que galrar. Diz-se especialmente das crianças, que emittem vozes, sem articular palavras. (De galra)
-galreiro |adj.| Que fala muito. (De galrar ) |Fam.| Que fala muito. (De galrar )
+galreiro |adj.| Fam. Que fala muito. (De galrar )
 galrejador |m.| O que galreja. |adj.| O que galreja.
 galrejar |v. i.| O mesmo que galrear.
 galricho #,1 # |m.| O mesmo que galrito.
 galricho #,2 # |m.| T. de Turquel. Copo muito pequeno.
 galripo |m.| Prov. Saco de pano, para coar as fezes do vinho. Cf. Júl. Moreira, Estudos da Ling. Port., I, 189.
-galrito |m.| Rêde, para pescar peixe miúdo. * |Prov.| trasm. Saco, para coar vinho. (Metáth. do cast. garlito)
+galrito |m.| Rêde, para pescar peixe miúdo. * Prov. trasm. Saco, para coar vinho. (Metáth. do cast. garlito)
 galuchada |f.| Porção de galuchos.
 galucho |m.| Recruta; soldado bisonho. * Fig. Novato, caloiro. Sujeito acanhado, inexperiente. (De galo 1 )
 galvanotherapia
@@ -674,7 +674,7 @@ gamacha |f.| Ant. Mulher infiel?: “...tyrannia de uma gamacha proterva...” S
 gamacismo |m.| Med. Vı́cio de pronunciação, causado pela dificuldade ou impossibilidade de pronunciar a letra g. (De
 gamma, nome grego da letra g)
 gamão |m.| Jôgo de asar e cálculo, entre dois parceiros, com quinze tábulas cada um. Tabuleiro, sôbre que se joga o
-gamão. Bot. Planta liliácea. * |Prov.| alent. Haste da abrótea. (Do celt. cammon?)
+gamão. Bot. Planta liliácea. * Prov. alent. Haste da abrótea. (Do celt. cammon?)
 gamar |v. t.| Gı́r. Furtar com subtileza. (Cp. gramar )
 gamarografia |f.| Parte da Zoologia, que trata dos crustáceos. (Do gr. gammaros, caranguejo, e graphein, descrever)
 gamarográfico |adj.| Relativo á gamarografia.
@@ -690,13 +690,13 @@ gambadonas |f.| pl. Náut. Cordas, em que se envolvem os mastros, para os tornar
 gambadonos |m.| pl. O mesmo que gambadonas.
 gambarra |f.| Bras. Embarcação pequena.
 gambérria |f.| Pancada com o pé nas pernas de outro indivı́duo, para o fazer caı́r; cambapé. Pop. Trampolina, tranquibérnia. Guerreia, motim, desordem. (Do it. gambiera)
-gambetas #,(bê)# |f.| pl. |Prov.| minh. As pernas. (Cp. gâmbia)
+gambetas #,(bê)# |f.| pl. Prov. minh. As pernas. (Cp. gâmbia)
 gâmbia |f.| Pop. Perna. (Do b. lat. gamba)
 gambiarra |f.| Rampa de luzes na parte superior dos palcos.
 gâmbias |m.| Prov. trasm. Pessôa muito alta. (Colhido em Murça) (De gâmbia) |f.| Prov. trasm. Pessôa muito alta. (Colhido em Murça) (De gâmbia)
 gambito |m.| Ardil, para prostrar o adversário. Um dos lances do xadrez. (Do it. gambetto, de gamba)
 gambo |m.| Árvore angolense, no Duque-de-Bragança.
-gambôa #,1 # |f.| Fruto do gamboeiro. * |Prov.| O mesmo que marmelo. (Cast. zamboa, talvez do ár.)
+gambôa #,1 # |f.| Fruto do gamboeiro. * Prov. O mesmo que marmelo. (Cast. zamboa, talvez do ár.)
 gambôa #,2 # |f.| Bras. Pequeno esteiro, que se enche com o fluxo da maré, e fica em sêco com o refluxo.
 gambôa #,3 # |f.| T. de Moçambique. Estacaria para pesca.
 gambocha |f.| Lotação de lans de differentes qualidades, (na linguagem de cardadores e colchoeiros).
@@ -704,7 +704,7 @@ gamboeiro |m.| Variedade de marmeleiro, (cydonia vulgaris britannica). (De gamb�
 gamboı́na |f.| Pop. Trapaça no jôgo. (Do rad. do it. gamba)
 gambonito |m.| Prov. beir. Variedade de planta.
 gambota |f.| Molde ou arco de madeira, para a construcção de uma abóbada; cimbres. (Refl. de cambota)
-gambozinos |m.| pl. |Prov.| Peixes ou pássaros imaginários, com que, por brincadeira, se logravam os pacóvios, convidando-os ou mandando-os á pesca ou á caça dêsses peixes ou pássaros. Andar aos gambozinos, andar á tuna, vadiar; andar desnorteado, á tôa.
+gambozinos |m.| pl. Prov. Peixes ou pássaros imaginários, com que, por brincadeira, se logravam os pacóvios, convidando-os ou mandando-os á pesca ou á caça dêsses peixes ou pássaros. Andar aos gambozinos, andar á tuna, vadiar; andar desnorteado, á tôa.
 gameiro |adj.| Diz-se de uma variedade de milho amarelo. Cf. Portugal Agrı́cola, 9.º anno, 367.
 gamelã |m.| Instrumento indiano, semelhante ás marimbas.
 gamela #,1 # |f.| Pequena corça. (De gama)
@@ -776,20 +776,20 @@ gamote |m.| Vasilha de madeira, com que se esgota a água das cavernas, nas pequ
 gamella 1 )
 gamuta |f.| Filamentos, que pendem da base das fôlhas de certas palmeiras e de que se fazem cordas. (Cp. gamuti)
 gamuti |m.| Arvore indiana, de fibras têxteis.
-gana |f.| Grande appetite ou vontade. Desejo de fazer mal. Fome. * |Prov.| minh. Ramo grande de árvore. (Colhido em Barcellos)
+gana |f.| Grande appetite ou vontade. Desejo de fazer mal. Fome. * Prov. minh. Ramo grande de árvore. (Colhido em Barcellos)
 ganacha |f.| Maxilla inferior do cavallo. * Bordo posterior da face dos solı́pedes, que tem por base o bordo arredondado do osso maxillar inferior. (Do it. ganacia)
-ganadeiro |m.| Prov. Designação genérica dos guardadores de gado, porqueiros, vaqueiros, eguariços e ovelheiros. |Prov.| trasm. Especialmente o possuidor de gado lanı́gero. (Cast. ganadero)
+ganadeiro |m.| Prov. Designação genérica dos guardadores de gado, porqueiros, vaqueiros, eguariços e ovelheiros. Prov. trasm. Especialmente o possuidor de gado lanı́gero. (Cast. ganadero)
 ganância |f.| O mesmo que ganho. Ganho illı́cito. * Ext. Ambição. (B. lat. ganantia)
 ganancioso |adj.| Em que há lucro. Útil. Relativo a lucro exaggerado. Que só tem em mira o lucro, lı́cito ou illı́cito: homem ganancioso. (De ganância)
 ganapa |f.| T. do Fundão. Rapariga desavergonhada e de maus costumes. (Relaciona-se com o cast. gañapano?)
-ganapão |m.| Pequena rêde, no extremo de uma vara, para apanhar a sardinha que cái á água depois de desemmalhada. * |Prov.| trasm. Trabalhador assalariado, ganhapão. (Cast. ganapano = port. ganhapão)
+ganapão |m.| Pequena rêde, no extremo de uma vara, para apanhar a sardinha que cái á água depois de desemmalhada. * Prov. trasm. Trabalhador assalariado, ganhapão. (Cast. ganapano = port. ganhapão)
 ganapé |m.| Ant. Espécie de manta para cobrir os pés. Espécie de cobertor.
 ganau |m.| Pleb. Piolho ladro, chato.
 gança #,1 # |f.| Ant. O mesmo que alimpadura. * O mesmo que ganância.
 gança #,2 # |f.| Ant. Meretriz. (Da mesma or. que gança 1 ? Ou por gansa, de ganso?)
 gancar |m.| Cultivador de terras bravias na Índia portuguesa. Cobrador de rendas, na Índia. (Do conc.)
 gancaria |f.| Assembleia de gancares. * Offı́cio de gancar. * Aldeia ou terras, comprehendidas na jurisdicção de um gancar.
-gancha |f.| Prov. trasm. Gadanha para o feno. |Prov.| minh. Ramo de árvore; pernada. |Adj.| O mesmo que gâmia. (De gancho) |f.| O mesmo que gâmia. (De gancho)
+gancha |f.| Prov. trasm. Gadanha para o feno. Prov. minh. Ramo de árvore; pernada. |Adj.| O mesmo que gâmia. (De gancho) |f.| O mesmo que gâmia. (De gancho)
 ganchar |v. t.| Agarrar com gancho.
 gancharra |f.| T. da Bairrada. O mesmo que garrancha.
 gancheado |adj.| Que tem fórma de gancho.
@@ -797,7 +797,7 @@ ganchear |v. i.| Pop. Realizar um pequeno trabalho extraordinário; fazer biscat
 gancheta #,1 (chê)# |f.| Prov. minh. Pequeno gancho no estremo de uma vara, para se pendurarem alguns apparelhos de pesca.
 gancheta #,2 (chê)# |f.| Prov. alent. Instrumento de estucador, para aperfeiçoar os ornatos.ganchinho
 ganchinho |m.| Pop. Trabalho eventual, fóra das horas habituaes de serviço. (De gancho)
-gancho |m.| Peça curva de metal ou de outra substância resistente, para suspender quaesquer pesos. Anzol. Arame curvo, ou utensı́lio semelhante, com que as mulheres seguram o cabello. Qualquer objecto em fórma de gancho. Pop. Gratificação por serviço extraordinário. * Serviço extraordinário, pequeno serviço, biscate. * |Prov.| trasm. Ramo de árvore. * |Prov.| trasm. Cada uma das duas extremidades do gume da enxada, quando o gume é cavado no meio. * |Prov.| Ancinho, de dentes de ferro, para carregar e descarregar estrume, estender mato para formar estrumeiras, etc. (Cast. gancho. Do ár. gondj ?)
+gancho |m.| Peça curva de metal ou de outra substância resistente, para suspender quaesquer pesos. Anzol. Arame curvo, ou utensı́lio semelhante, com que as mulheres seguram o cabello. Qualquer objecto em fórma de gancho. Pop. Gratificação por serviço extraordinário. * Serviço extraordinário, pequeno serviço, biscate. * Prov. trasm. Ramo de árvore. * Prov. trasm. Cada uma das duas extremidades do gume da enxada, quando o gume é cavado no meio. * Prov. Ancinho, de dentes de ferro, para carregar e descarregar estrume, estender mato para formar estrumeiras, etc. (Cast. gancho. Do ár. gondj ?)
 ganchorra #,(chô)# |f.| Grande gancho para atracar os barcos. * Gı́r. Mão.
 ganchoso |adj.| Curvo como um gancho.
 ganço |m.| Ant. O mesmo que ganho. (Cp. gança 1 )
@@ -808,10 +808,10 @@ gandaiar |v. i.| Andar á gandaia; andar á tuna; vadiar.
 gandaı́ce |f.| Modos ou acção de gandaeiro. Cf. Camillo, Quéda de Um Anjo, 57; Mulher Fatal, 30. (De gandaia)
 gandaieiro |m.| O mesmo ou melhor que gandaeiro.
 gandaio |m.| Prov. trasm. Indivı́duo alto.
-gândara |f.| Terreno areoso, pouco productivo, ou estéril. Terreno despovoado, mas coberto de plantas agrestes. * |Prov.| trasm. Pedaço de esteva sêca, que o gado vai tombando pelo monte ou que ficou em as boiças, depois de arder o mato. (Do b. lat. gandera)
-gandarês |adj.| Que habita em gândara. Relativo a gândara. * |Prov.| trasm. Sapo gandarês, sapo grande. * |M.| T. de Coı́mbra. Camponês dos arredores de Coı́mbra.
+gândara |f.| Terreno areoso, pouco productivo, ou estéril. Terreno despovoado, mas coberto de plantas agrestes. * Prov. trasm. Pedaço de esteva sêca, que o gado vai tombando pelo monte ou que ficou em as boiças, depois de arder o mato. (Do b. lat. gandera)
+gandarês |adj.| Que habita em gândara. Relativo a gândara. * Prov. trasm. Sapo gandarês, sapo grande. * |M.| T. de Coı́mbra. Camponês dos arredores de Coı́mbra.
 gandaru |m.| Árvore americana, de madeira avermelhada e rija.
-gando |m.| Gı́r. Piolho. |Prov.| minh. O mesmo que gado.
+gando |m.| Gı́r. Piolho. Prov. minh. O mesmo que gado.
 gandra |f.| (V. gândara)
 gandrês |m.| O mesmo que gandarês. |adj.| O mesmo que gandarês.
 gandula |m.| T. de Gaia. O mesmo que gandulo.
@@ -829,7 +829,7 @@ ganga #,4 # |f.| Miner. A parte não metállica dos veios metallı́feros, a qua
 gangana |f.| Bras. Mulher idosa.–É expressão infantil e carinhosa.
 gangão #,1 # |m.| De gangão, de escantilhão; de corrida. (Do al. gang?) |Loc. adv.| De gangão, de escantilhão; de corrida. (Do al. gang?)
 gangão #,2 # |m.| Bras. Espiga de milho atrophiada, com poucos grãos.
-gângaras |f.| pl. |Prov.| trasm. |Loc. adv.| De gângaras, indolentemente; de má vontade.
+gângaras |f.| pl. Prov. trasm. |Loc. adv.| De gângaras, indolentemente; de má vontade.
 gangarina |f.| Gı́r. Igreja.
 gangarreão |m.| Bras. Alteração mais ou menos forte, na saúde de alguém.
 gangético |adj.| Relativo ao rio Ganges, ou aos povos que o ladeiam.
@@ -841,7 +841,7 @@ ganglionar |adj.| Relativo a gânglios ou que é da natureza delles. (Do gr. gan
 ganglionite |f.| Inflammação dos gânglios. (Do gr. ganglion)
 gango |m.| Prov. O mesmo que mimo, meiguice.
 gangoncu |m.| Árvore palmácea do Brasil, (attalea speciosa).
-gangorra #,1 (gô)# |f.| Bras. Apparelho, para divertimento de rapazes, constituı́do por uma trave, apoiada pelo meio num espigão, e em cujas extremidades cavalgam. Armadilha, para apanhar animaes bravios. Curral, em volta da cozinha. |Prov.| minh. Cambão especial, nos antigos arados de madeira.
+gangorra #,1 (gô)# |f.| Bras. Apparelho, para divertimento de rapazes, constituı́do por uma trave, apoiada pelo meio num espigão, e em cujas extremidades cavalgam. Armadilha, para apanhar animaes bravios. Curral, em volta da cozinha. Prov. minh. Cambão especial, nos antigos arados de madeira.
 gangorra #,2 (gô)# |f.| Ant. Espécie de carapuça. (Por grangorra, de grande + gorro?)
 gangosa |f.| O mesmo que gagosa 2 .
 gangoso #,1 # |adj.| Des. O mesmo que fanhoso. (T. cast.)
@@ -863,7 +863,7 @@ ganhadiço |adj.| T. de Turquel O mesmo que bastardo, filho illegı́timo.
 ganhador |adj.| Que ganha. |M.| Jornaleiro; trabalhador. Aquelle que ganha. Bras. Aquelle que ganha para o seu senhor.
 ganhamento |m.| O mesmo que ganho. (De ganhar )
 ganhança |f.| Pop. O mesmo que ganho. (De ganhar )
-ganhão |m.| Aquelle que vive do seu trabalho. Aquelle que, para viver, lança mão de qualquer trabalho. * |Prov.| beir. Criado de lavoira. * |Prov.| alent. Trabalhador de lavoira, ceifeiro, mondador, etc.
+ganhão |m.| Aquelle que vive do seu trabalho. Aquelle que, para viver, lança mão de qualquer trabalho. * Prov. beir. Criado de lavoira. * Prov. alent. Trabalhador de lavoira, ceifeiro, mondador, etc.
 ganhar |v. t.| Adquirir a posse de. Lucrar. Tirar como proveito: ganhar dinheiro. Alcançar (vantagens): ganhar um prêmio. Adquirir no jôgo. * Pop. Adquirir, como qualidade: êste vinho ganhou um pique. Receber como consequência. Dar proveito a. Criar. Apoderar-se de. Attingir: o andarilho ganhou a meta. Captar. |V. i.| Tirar
 ganho ou vantagem. Aumentar em crédito. Levar vantagem. (B. lat. ganeare)
 ganharia |f.| Prov. alent. Os ganhões. Casa, onde se reúnem e dormem os ganhões, á semelhança de soldados em caserna. (De ganhão)
@@ -871,8 +871,8 @@ ganhável |adj.| Que se póde ganhar.
 ganhó |m.| Prov. trasm. O mesmo que galinhó. |F.| Guelra, pescoço. (Contr. de galinhó)
 ganhoso |adj.| Que só pensa em ganhos. Ambicioso; interesseiro. (De ganho)
 ganhôto |m.| Prov. alg. Rebento fraco de figueiras, que se poda no inverno, para que se avigorem os lanços fructı́feros. (Por galhôto, de galho?)
-ganhuça |f.| O mesmo que ganho. (De ganho) |Fam.| O mesmo que ganho. (De ganho)
-ganhunça |f.| O mesmo que ganhuça. |Fam.| O mesmo que ganhuça.
+ganhuça |f.| Fam. O mesmo que ganho. (De ganho)
+ganhunça |f.| Fam. O mesmo que ganhuça.
 ganicará |m.| T. da Índia Portuguesa Moı́nho de azeite.
 ganiços |m.| pl. Gı́r. ant. Dados. (Do cast. ganar )
 ganideira |f.| Muitos ganidos.
@@ -995,7 +995,7 @@ grossos, para transportar loiça.
 garete #,(garê)# |m.| Açor. Peixe pequeno e vivo, preso no anzol, para servir de isca a peixes maiores.
 garfa |f.| Prov. Pequeno enxame de abelhas, garfo.
 garfada |f.| Porção de comida que um garfo levanta de cada vez.
-garfado |m.| Garfada. * |Prov.| Braçado, pequena porção, mancheia. (De garfar )939
+garfado |m.| Garfada. * Prov. Braçado, pequena porção, mancheia. (De garfar )939
 garfar |v. t.| Mexer ou rasgar com garfo. * Agr. Enxertar de garfo.
 garfeira |f.| Estojo para garfos.
 garfejar |v. i.| Prov. trasm. Deitar muitos garfos ou muitos colmos, (falando-se de um grão de semente). (De garfo)
@@ -1051,14 +1051,14 @@ garimpar |v. i.| Bras. Exercer o offı́cio de garimpeiro. (De garimpo)
 garimpeiro |m.| Bras. Explorador de diamantes. (De garimpar )
 garimpo |m.| Lugar, onde se exploram metaes preciosos. * Bras. de Minas. Mineração furtiva. Pop. Garoto, vadio. (T. bras.)
 gariteiro |m.| Des. Aquelle que tem casa de jôgo. (Do cast. garitero)
-garito |m.| Des. Casa de jôgo. * |Prov.| dur. Abertura no
-gargalo da medida de vinho ou do almude, para designar aonde chegam 25 litros. * |Prov.| dur. Córte ou mossa, que soffrem as sirgas, ao roçarem por pedras durı́ssimas. (Cast. garito)
+garito |m.| Des. Casa de jôgo. * Prov. dur. Abertura no
+gargalo da medida de vinho ou do almude, para designar aonde chegam 25 litros. * Prov. dur. Córte ou mossa, que soffrem as sirgas, ao roçarem por pedras durı́ssimas. (Cast. garito)
 garjau |m.| Pássaro do mar da Índia. Cf. Hist. Trág. Marit., 175.
 garlindéu |m.| Náut. Peça de ferro, por onde passam os cadernaes das adriças, no tôpo do mastro.garlopa
 garlopa |f.| Plaina grande. (Do fr. varlope)
 garna |f.| Bras. O mesmo que chuvisco.–Vem nos diccionários, mas inclino-me a que não existe na linguagem brasileira. Supponho têr havido êrro, proveniente da simples e fácil troca de uma letra: garna por garua. (Cp. garua)
 garnacha |f.| Vestimenta talar de sacerdotes e magistrados. |M.| Aquelle que veste garnacha. Cf. Herculano, Cister, I, 174. (Do it. guarnaccia)
-garnacho |m.| Pop. Gabão. * |Prov.| trasm. Espaço angular do peito, descoberto pela camisa, desapertado o botão cimeiro. (De garnacha)
+garnacho |m.| Pop. Gabão. * Prov. trasm. Espaço angular do peito, descoberto pela camisa, desapertado o botão cimeiro. (De garnacha)
 garnar |v. i.| Bras.? Chuviscar. (Cp. garna)
 garnear |v. i.| Alisar com a maceta (sola ou coiro). (Relaciona-se com garnir ?)
 garnel |m.| (Corr. de granel )
@@ -1086,7 +1086,7 @@ garra #,3 # |adj.| Prov. trasm. Diz-se da porca, quando refeita e gorda. Diz-se 
 guarra, porca)
 garrabulho |m.| Ant. O mesmo que garabulha e garabulho. Cf. Pant. de Aveiro, Itiner., 47 v.º, (2.ª ed.).
 garrafa |f.| Vaso, especialmente de vidro e com gargalo estreito, destinado a conter lı́quidos. Conteúdo de uma gar940 rafa. Garrafa de Leyde, apparelho condensador de electricidade. (Do ár. garraf )
-garrafada |f.| Conteúdo lı́quido de uma garrafa. Medicamento lı́quido, contido numa garrafa. * Bras. de Minas. Remédio de curandeiro. |Fam.| Conteúdo lı́quido de uma garrafa. Medicamento lı́quido, contido numa garrafa. * Bras. de Minas. Remédio de curandeiro.
+garrafada |f.| Fam. Conteúdo lı́quido de uma garrafa. Medicamento lı́quido, contido numa garrafa. * Bras. de Minas. Remédio de curandeiro.
 garrafal |adj.| Que tem fórma de garrafa. Graúdo. Dizse especialmente da letra manuscrita, quando é grande ou muito legı́vel. * Diz-se de uma casta de ginja e de uma casta de cereja.
 garrafalmente |adv.| De modo vistoso ou emphático. Cf. Camillo, Brasileira, 85. (De garrafal )
 garrafão |m.| Garrafa grande, ordinariamente empalhada.
@@ -1098,7 +1098,7 @@ garramar |v. t.| Ant. Lançar garrama ou impostos sôbre; tributar. Cf. Sousa, A
 garrana |f.| Égua pequena, mas robusta. (Do rad. de garrão)
 garrancha |f.| T. da Bairrada. Pernada de árvore. Cajado com uma volta na parte superior, á maneira de báculo. Vara, com gancho ou podôa numa extremidade, para cortar ramos dos pinheiros. (Cp. garrancho)
 garranchada |f.| Ferida, causada por garrancho.
-garrancho |m.| Moléstia no casco das bêstas. Garaveto. Arbusto tortuoso. * O mesmo que pernilongo, ave. * Parceiro que, no jôgo do voltarete ou do solo, está parado em quanto os outros jogam. * |Prov.| alent. Espinho,
+garrancho |m.| Moléstia no casco das bêstas. Garaveto. Arbusto tortuoso. * O mesmo que pernilongo, ave. * Parceiro que, no jôgo do voltarete ou do solo, está parado em quanto os outros jogam. * Prov. alent. Espinho,
 garaveto ou pua, que se introduziu na pata de um animal. * T. do Fundão. Gadanho. (Cast. garrancho)
 garranchoso |adj.| Que tem fórma de garrancho. Torto.
 garrano |m.| Cavallo pequeno mas robusto. (De garrão)
@@ -1114,7 +1114,7 @@ gárria |f.| Gênero de plantas cannabı́neas.
 garriça |f.| Prov. trasm. Galho de lódão, que, depois de chapotado, engrossou irregularmente, rebentando delle pequenos galhos curtos e emmaranhados. (De galho + riçar ?)
 garriço |m.| Prov. trasm. Pente de alisar. (Cp. garriça)
 garrida |f.| Sineta. Roda de ferro, que se põe por baixo das
-grandes pedras para as deslocar. * |Prov.| alent. Colleira, com seis pequenos chocalhos, que se põe aos bois. * T. da Bairrada. Peça, geralmente de ferro, encaixada no cocão, e sôbre a qual gira o eixo do carro; o mesmo que cantadoira. (Do lat. garritus?)
+grandes pedras para as deslocar. * Prov. alent. Colleira, com seis pequenos chocalhos, que se põe aos bois. * T. da Bairrada. Peça, geralmente de ferro, encaixada no cocão, e sôbre a qual gira o eixo do carro; o mesmo que cantadoira. (Do lat. garritus?)
 garridamente |adv.| De modo garrido.
 garridice |f.| Qualidade daquelle ou daquillo que é garrido.941
 garridismo |m.| O mesmo que garridice.
@@ -1124,7 +1124,7 @@ garro #,1 # |adj.| Des. Leproso; que tem sarna. |M.| O mesmo que sarro.
 garro #,2 # |m.| O mesmo que calambuco. Cf. G. Horta, Collóquios.
 garrôa |f.| T. de marinheiros. Vento forte do Noroéste, na costa occidental de Portugal. (Relaciona-se com garrar ?)
 garroba #,(rô)# |f.| Prov. Planta papilionácea, o mesmo que parda. (Colhido em Barca de Alva)
-garrocha |f.| Pau, que tem numa extremidade um ferro farpado, e de que os toireiros se serviam, antes do uso das bandarilhas, nas corridas de toiros. * |Prov.| trasm. Croça, capa de palha. * Gı́r. ant. Unha, mão. (Cast. garrocha)
+garrocha |f.| Pau, que tem numa extremidade um ferro farpado, e de que os toireiros se serviam, antes do uso das bandarilhas, nas corridas de toiros. * Prov. trasm. Croça, capa de palha. * Gı́r. ant. Unha, mão. (Cast. garrocha)
 garrochador |m.| Ant. Aquelle que picava os toiros com
 garrocha. (De garrochar )
 garrochão |m.| Garrocha grande para cavalleiros.
@@ -1138,7 +1138,7 @@ garrotear #,1 # |v. t.| O mesmo que garrotar. Cf. Filinto, XVIII, 137.
 garrotear #,2 # |v. t.| Bras. do S. Sovar e bater (o coiro), para o amaciar. (T. ant. cast.)
 garroteia #,1 # |f.| Ant. Espécie de tecido.
 garroteia #,2 # |f.| Ant. O mesmo que jarreteira. Cf. Rui de Pina, Chrón. de Aff. V, XXXI.
-garrotilho |m.| Angina aguda, acompanhada de crupe. * |Prov.| beir. Nome de uma doença das vinhas. (Colhido na
+garrotilho |m.| Angina aguda, acompanhada de crupe. * Prov. beir. Nome de uma doença das vinhas. (Colhido na
 Guarda) (De garrote 1 )
 garrucha #,1 # |f.| Pau curto, com que se armavam as béstas. Antigo instrumento de tortura. Pl. Náut. Argolas de ferro, pregadas no gorotil das velas latinas. Cabos que se metem nas relingas por entre chicotes. (Do rad. de garra 1 )
 garrucha #,2 # |f.| Bras. Pistola grande. Bacamarte. Fig. Mulher velha, indı́gena do Brasil.
@@ -1163,7 +1163,7 @@ garupa |f.| Parte superior da cavalgadura, entre o lombo e a cauda. Ancas do cav
 garupada |f.| Salto, dado pela cavalgadura, sem mostrar as ferraduras. (De garupa)
 garupeiro |m.| Homem, que, na Índia portuguesa, traz em exposição pelos povoados as cobras que apanhou e a que arrancou os dentes injectores de veneno. (Por garoupeiro, de garoupa?)
 garuva |f.| Bras. Árvore silvestre, de madeira amarela.
-gás |m.| Qualquer fluido aeriforme. Gás de illuminação. * |Prov.| Petróleo de illuminação. Pop. Animação, modos desembaraçados: aquella rapariga tem muito gás. * Gás pobre, aquelle que tem menor poder calorı́fico, que o gás de illuminação, petróleo, etc. Pl. Vapores do estômago e dos intestinos; ventosidades. (Cp. cast. gas)
+gás |m.| Qualquer fluido aeriforme. Gás de illuminação. * Prov. Petróleo de illuminação. Pop. Animação, modos desembaraçados: aquella rapariga tem muito gás. * Gás pobre, aquelle que tem menor poder calorı́fico, que o gás de illuminação, petróleo, etc. Pl. Vapores do estômago e dos intestinos; ventosidades. (Cp. cast. gas)
 gasalhado |m.| Ant. Roupas de cama. Roupas. Agasalho. Bom acolhimento, bom trato. Cf. Hist. Trág. Marit., 64; Fernão Lopes, passim. (De gasalhar )
 gasalhar |v. t.| O mesmo que agasalhar. (Do ant. alt. al. gasalho)
 gasalho |m.| O mesmo que agasalho.
@@ -1175,7 +1175,7 @@ gaseificação |f.| Acto de gaseificar.
 gaseificar |v. t.| Reduzir a gás. (De gás + lat. facere)
 gaseiforme |adj.| Que se apresenta em estado gasoso. (De
 gás + fórma)
-gasganete #,(nê)# |m.| O mesmo que garganta ou pescoço. (Cp. engasgar ) |Fam.| O mesmo que garganta ou pescoço. (Cp. engasgar )
+gasganete #,(nê)# |m.| Fam. O mesmo que garganta ou pescoço. (Cp. engasgar )
 gasguete #,(guê)# |m.| Prov. beir. O mesmo que gasganete.
 gasguita |adj.| Bras. do N. Que fala com difficuldade.
 gasguito |adj.| Prov. Pretensioso, arrebicado. Cf. Camillo, Corja, 13 e 141. Bras. Magro, enfèzado.
@@ -1208,7 +1208,7 @@ gaspóia |f.| Prov. trasm. Espécie de água-pé.
 gassaba |f.| (V. igassaba)
 gastador |m.| O que gasta. Ext. Dissipador; perdulário. Des. Soldado sapador. |adj.| O que gasta. Ext. Dissipador; perdulário. Des. Soldado sapador.
 gastalhão |m.| Prov. trasm. Homem alto. (De gastalho)
-gastalho |m.| Espécie de grampo, com que se apertam aduelas, fôlhas de madeira, etc., nos trabalhos de tanoaria, marcenaria, etc. * |Prov.| trasm. Apparelho de tirar água dos poços; burra.
+gastalho |m.| Espécie de grampo, com que se apertam aduelas, fôlhas de madeira, etc., nos trabalhos de tanoaria, marcenaria, etc. * Prov. trasm. Apparelho de tirar água dos poços; burra.
 gastamento |m.| (V. gasto)
 gastão |m.| O mesmo que castão. Gastão do fuso, o bocadinho do chumbo ou latão, que cobre a pontinha do fuso, facilitando a torcedura do fio.
 gastar |v. t.| Consumir, despender: gastar dinheiro. Usar. Desbaratar; dissipar: gastar uma herança. Deminuir o volume de: gastar a ponteira da bengala com o uso. Deteriorar: o andar gasta o calçado. Cansar; esgotar: gastasme a paciência. Enfraquecer, extenuar. |V. p.| Acabar:
@@ -1310,10 +1310,10 @@ gastrozoário |m.| Hydra que, no pólypo hydráceo, desempenha as funcções da 
 gástrula |f.| Cavidade, resultante da envaginação de uma metade da blástula na outra metade. Fórmula larvar inicial, commum a todos os seres animados. (Do gr. gaster )
 gastrulação |f.| Formação da gástrula.
 gastura |f.| Bras. O mesmo que comichão. (De gastar )
-gata |f.| Fêmea do gato. Peixe marı́timo, (scyllium catulus). * Pepino do Egypto. Náut. Uma das gáveas, superior á mezena. * Náut. Âncora, cujas unhas formam um só corpo e giram na extremidade da haste, cravando-se no fundo ao mesmo tempo. (Também se chama ferro de tesoira) * Antiga máquina de guerra, espécie de catapulta. * Pop. O mesmo que bebedeira. * |Prov.| escol. O mesmo que repro-gatafunhos vação. (Colhido em Penafiel) * |Prov.| trasm. Resguardo de parede, que, no pombal, se eleva acima do respectivo telhado, para o lado do vento frio, dando o aspecto de uma
+gata |f.| Fêmea do gato. Peixe marı́timo, (scyllium catulus). * Pepino do Egypto. Náut. Uma das gáveas, superior á mezena. * Náut. Âncora, cujas unhas formam um só corpo e giram na extremidade da haste, cravando-se no fundo ao mesmo tempo. (Também se chama ferro de tesoira) * Antiga máquina de guerra, espécie de catapulta. * Pop. O mesmo que bebedeira. * Prov. escol. O mesmo que repro-gatafunhos vação. (Colhido em Penafiel) * Prov. trasm. Resguardo de parede, que, no pombal, se eleva acima do respectivo telhado, para o lado do vento frio, dando o aspecto de uma
 golla levanda. Gata borralheira, mulher cuidadosa em serviços caseiros. * |Loc.| pop. Não poder com uma gata pelo rabo, estar muito fraco, abatido. Não têr importância, não têr recursos. Andar de gatas, o mesmo que andar de gatinhas.
 gatafunhos |m.| pl. O mesmo que garatujas. (Do rad. de gato)
-gatal |adj.| Relativo a gato: “nada na esposa encontra de condição gatal ”. Filinto, XII, 71. |Fam.| Relativo a gato: “nada na esposa encontra de condição gatal ”. Filinto, XII, 71.
+gatal |adj.| Fam. Relativo a gato: “nada na esposa encontra de condição gatal ”. Filinto, XII, 71.
 gatanhada |f.| Prov. Arranhadura de gato. (De gatanhar )
 gatanhar |v. t.| Prov. Arranhar, (falando-se do gato). O mesmo que agatanhar.
 gatanho #,1 # |m.| Prov. minh. O mesmo que gatanhada.
@@ -1324,11 +1324,11 @@ gatária |f.| Planta labiada, espécie de hortelan, também conhecida por erva d
 gatarrão |m.| Gato grande.
 gatázio |m.| Pop. Garra, unha; dedos. (Do rad. de gato)
 gateado |adj.| Bras. do S. Diz-se do cavallo baio e do amarelo-avermelhado.
-gatear |v. t.| Segurar com grampos ou gatos de ferro. Consertar, segurando com gatos de metal. * |V. i.| Ralhar, contender. (De gato) |Fam.| Ralhar, contender. (De gato)
-gateira |f.| Buraco nas portas, para a passagem dos gatos. Fresta, trapeira, sôbre o telhado, para entrar o ar e a luz. Postigo no paiol, a bordo. * |Prov.| trasm. O mesmo que bueiro. Pop. Bebedeira. (De gato)
+gatear |v. t.| Segurar com grampos ou gatos de ferro. Consertar, segurando com gatos de metal. * |V. i.| Fam. Ralhar, contender. (De gato)
+gateira |f.| Buraco nas portas, para a passagem dos gatos. Fresta, trapeira, sôbre o telhado, para entrar o ar e a luz. Postigo no paiol, a bordo. * Prov. trasm. O mesmo que bueiro. Pop. Bebedeira. (De gato)
 gateiro |m.| O que gosta de gatos. * Aquelle que deita |adj.| O que gosta de gatos. * Aquelle que deita
 gatos em loiça.
-gatenho |adj.| Ant. Inculto, que está de poisio. * |Prov.| beir. Estéril; que produziu pouco: lavoira gatenha.
+gatenho |adj.| Ant. Inculto, que está de poisio. * Prov. beir. Estéril; que produziu pouco: lavoira gatenha.
 gatesco #,(tês)# |adj.| Des. Próprio de gatos; relativo a gatos.
 gatesgo #,(tês)# |adj.| Próprio do gato. |Loc. adv.| Á gatesga, á maneira de gato. Cf. Anat. Joc., I, 290. |Loc.| da Bairrada Sem arte, desajeitadamente.
 gaticida |f.| Aquelle que mata gatos. (Cp. gaticı́dio)
@@ -1336,15 +1336,15 @@ gaticı́dio |m.| Morte violenta de gato. (Do lat. cattus + caedere)
 gatilho |m.| Peça dos fechos de arma de fogo, a qual, tocada com o dedo, faz disparar a arma. (De gato)
 gatimanhos |m.| pl. Gesticulação ridı́cula. Sinaes, feitos com as mãos. * O mesmo que gatafunhos. Cf. Eufrosina, 181. (Do lat. catus + manus?)
 gatimonhos |m.| pl. Bras. do N. O mesmo que gatimanhos.
-gatimónias |f.| pl. |Prov.| trasm. Momices. Tropelias; barulho de crianças. O mesmo que gatimanhos.
+gatimónias |f.| pl. Prov. trasm. Momices. Tropelias; barulho de crianças. O mesmo que gatimanhos.
 gatina |f.| Doença peculiar dos bichos da seda. (It. gattina, pequeno gato)
 gatinha |f.| Pequena gata. Pl. Andar de gatinhas, acto de andar, pondo as mãos no chão.
 gatinhar |v. i.| O mesmo que engatinhar. Cf. Eça, P. Bası́lio, 70.
 gatinho |m.| T. de Aveiro Flôr de salgueiro.
-gato |m.| Animal doméstico, da ordem dos carnı́voros digitı́grados, (felis catus). Grampo. Pedaço de metal, que prende e liga loiça quebrada ou rachada. Excesso de carne na parte superior do pescoço dos cavallos. Utensı́lio de tanoeiro, para arquear as vasilhas. Peça de ferro, com que se endireitam as aduelas das pipas. * Náut. Gancho de ferro, na extremidade de um cabo, moitão ou cadernal, para suspender alguma coisa. * Pedaço de metal, que liga duas peças de cantaria. * Espécie de fivela, dentro da qual se ergue e se abaixa o braço ou tranqueta da aldrava. * |Prov.| Êrro, engano, lapso. (Colhido em Penafiel) * |Prov.| trasm. O mesmo que mentira. * |Prov.| alent. Pequena pelle, preparada á semelhança e com o feitio de odre, para levar vinho, como se fosse borracha. * |Prov.| alent. O mesmo que zápete, o quatro de paus, no jôgo do truque. * Bras. do N. Pequena reprehensão. Fig. Restos de fazenda, que os alfaiates e costureiras guardam para si, depois de feita a obra encommendada. (Do lat. cattus)
+gato |m.| Animal doméstico, da ordem dos carnı́voros digitı́grados, (felis catus). Grampo. Pedaço de metal, que prende e liga loiça quebrada ou rachada. Excesso de carne na parte superior do pescoço dos cavallos. Utensı́lio de tanoeiro, para arquear as vasilhas. Peça de ferro, com que se endireitam as aduelas das pipas. * Náut. Gancho de ferro, na extremidade de um cabo, moitão ou cadernal, para suspender alguma coisa. * Pedaço de metal, que liga duas peças de cantaria. * Espécie de fivela, dentro da qual se ergue e se abaixa o braço ou tranqueta da aldrava. * Prov. Êrro, engano, lapso. (Colhido em Penafiel) * Prov. trasm. O mesmo que mentira. * Prov. alent. Pequena pelle, preparada á semelhança e com o feitio de odre, para levar vinho, como se fosse borracha. * Prov. alent. O mesmo que zápete, o quatro de paus, no jôgo do truque. * Bras. do N. Pequena reprehensão. Fig. Restos de fazenda, que os alfaiates e costureiras guardam para si, depois de feita a obra encommendada. (Do lat. cattus)
 gato-do-mato |m.| Bras. O mesmo que maracajá.
 gato-pingado |m.| Pop. Indivı́duo, que acompanha os enterros a pé, com tocha ou archote na mão.
-gato-sapato |m.| Coisa desprezı́vel. Fazer gato-sapato de alguém, tratar com desprêzo, fazer joguete de alguém; maltratá-lo. |Fam.| Coisa desprezı́vel. Fazer gato-sapato de alguém, tratar com desprêzo, fazer joguete de alguém; maltratá-lo.
+gato-sapato |m.| Fam. Coisa desprezı́vel. Fazer gato-sapato de alguém, tratar com desprêzo, fazer joguete de alguém; maltratá-lo.
 gatorro #,(tô)# |m.| O mesmo que gatarrão.
 gatum |adj.| P. us. Relativo a gato.
 gatunagem |f.| Porção de gatunos; os gatunos; vida de gatuno.
@@ -1381,7 +1381,7 @@ gaveta #,(vê)# |f.| Caixa corrediça, geralmente sem tampa, e que se embebe em 
 gavetão |m.| Gaveta grande. Peça que, nas máquinas de vapor, regula a distribuição dêste. (De gaveta)
 gaveto #,(vê)# |m.| Peça de madeira, convexa ou côncava, em diversos trabalhos de carpintaria.
 gavial |m.| Grande crocodilo de Ganges, (lacerta gangetica).
-gavião |m.| Pequena ave de rapina, (falco nisus). Gavinha. Cada um dos dois últimos dentes de cada lado da maxilla superior do cavallo. Parte da estribeira, conto. * Agr. Orelha, pêta ou bico do sacho. Cf. Aguiar, Proc. de Vin., 11. * T. da Bairrada. Parte curva e cortante da podôa e da tesoira de podar. * Carp. Cada uma das extremidades do gume de um formão ou de outros instrumentos. * |Prov.| trasm. Espécie de jôgo de rapazes, em que um, imitando o
+gavião |m.| Pequena ave de rapina, (falco nisus). Gavinha. Cada um dos dois últimos dentes de cada lado da maxilla superior do cavallo. Parte da estribeira, conto. * Agr. Orelha, pêta ou bico do sacho. Cf. Aguiar, Proc. de Vin., 11. * T. da Bairrada. Parte curva e cortante da podôa e da tesoira de podar. * Carp. Cada uma das extremidades do gume de um formão ou de outros instrumentos. * Prov. trasm. Espécie de jôgo de rapazes, em que um, imitando o
 gavião, persegue os outros, que fazem de pombas. * |Adj.| Bras. do S. Diz-se do cavallo, que se não deixa apanhar facilmente. Vivo, finório. (Do cast. gavilán)
 gaviete #,(ê)# |m.| Náut. Peça de madeira, que se colloca na popa de uma lancha, para receber a amarra e suspender a âncora. (Cast. gabiete)
 gavina |f.| Prov. dur. Espécie de podôa sem pêta, usada entre os podadores do Doiro.
@@ -1403,7 +1403,7 @@ gazeador |m.| O que gazeia. |adj.| O que gazeia.
 gazeante |adj.| Que gazeia.
 gazear #,1 # |v. i.| Faltar ás aulas, para se divertir ou vadiar. |V. t.| Faltar á (escola): “um pagem que nos deixava gazear a escola...” |M.| Assis, Brás Cubas.
 gazear #,2 # |v. i.| Cantar (a garça, a andorinha, etc.). Chilrear;
-gorgear. * |Prov.| minh. Chalrar, (falando-se de crianças). (Do fr. gazouiller ?)
+gorgear. * Prov. minh. Chalrar, (falando-se de crianças). (Do fr. gazouiller ?)
 gazeio #,1 # |m.| Acto de gazear1 .
 gazeio #,2 # |m.| Canto da garça, da andorinha e de outras aves. (De gazear 2 )
 gazela |f.| Animal do gênero dos antı́lopes, que anda em bandos e habita na Ásia e na África, (antilope dorcade). (Do ár. gazel )
@@ -1462,10 +1462,10 @@ gegelado |adj.| (V. agegelado)
 gehenna |f.| Lugar de tormento eterno, pelo fogo. Inferno. (Lat. eccles. gehenna)
 geigéria |f.| Gênero de plantas, da |fam.| das compostas. (De
 Geiger, |n. p.| )
-geio #,1 # |m.| Prov. Terreno, entre dois muros ou degraus, para plantação de bacêllo. * |Prov.| dur. Cada um dos arretos, que sustentam terras em socalco; botaréu.
+geio #,1 # |m.| Prov. Terreno, entre dois muros ou degraus, para plantação de bacêllo. * Prov. dur. Cada um dos arretos, que sustentam terras em socalco; botaréu.
 geio #,2 # |m.| Acto de gear. Gêlo.
 geira |f.| Antiga medida agrária. Coirela, belga, leira. Terreno, que uma junta de bois póde lavrar num dia. Ant. Contribuição do serviço de lavoira. * |Loc. adv.| trasm. Á
-geira, á jorna, a dias. * |Prov.| alent. Porção de terreno, em que podem semear-se quatro alqueires de trigo. (Do lat. diaria)
+geira, á jorna, a dias. * Prov. alent. Porção de terreno, em que podem semear-se quatro alqueires de trigo. (Do lat. diaria)
 geirão |m.| Emphyteuta, que pagava ao senhorio o tributo das geiras.
 geiser |m.| Jacto de água quente, que sái do interior da terra. (T. island.)
 geiserite |f.| Concreção silicosa, que se fórma junto do orifı́cio dos geiseres da Islândia. (De geiser )
@@ -1526,7 +1526,7 @@ gemellos |adj.| pl. Anat. Gêmeos, (falando-se dos músculos). (Lat. gemellus)
 gemelos |adj.| pl. Anat. Gêmeos, (falando-se dos músculos). (Lat. gemellus)
 gemente |adj.| Que geme. (Lat. gemens)
 gêmeo |m.| O que nasceu do mesmo parto que outrem: irmãos gêmeos. Idêntico, igual. Pl. Constellação zodiacal. (Do lat. geminus) |adj.| O que nasceu do mesmo parto que outrem: irmãos gêmeos. Idêntico, igual. Pl. Constellação zodiacal. (Do lat. geminus)
-gemer |v. i.| Exprimir dôr moral ou phýsica, por meio de vozes inarticuladas. Soltar lamentos. Suspirar dolorosamente. Padecer: os que gemem na miséria. Fig. Produzir som triste e monótono: o vento geme nos ciprestes. Ranger: ouviu-se gemer a porta nos gonzos. * Abrir fenda, fender-se: “a abóbada tinha gemido”. Herculano, Lendas, I, 278. |V. t.| Lastimar; torcer, (falando-se da vida). * |Prov.| alg. Transudar, resumar: as paredes estavam a gemer água. (Lat. gemere)
+gemer |v. i.| Exprimir dôr moral ou phýsica, por meio de vozes inarticuladas. Soltar lamentos. Suspirar dolorosamente. Padecer: os que gemem na miséria. Fig. Produzir som triste e monótono: o vento geme nos ciprestes. Ranger: ouviu-se gemer a porta nos gonzos. * Abrir fenda, fender-se: “a abóbada tinha gemido”. Herculano, Lendas, I, 278. |V. t.| Lastimar; torcer, (falando-se da vida). * Prov. alg. Transudar, resumar: as paredes estavam a gemer água. (Lat. gemere)
 gemiás |m.| pl. Indı́genas do Amazonas, nas margens do Juruá.
 gemicar |v. i.| Gemer baixo, mas continuamente. (De gemer )
 gemido |m.| Acto de gemer. (Lat. gemitus)
@@ -1797,7 +1797,7 @@ gerbão |m.| Designação vulgar do urgebão. Cf. S. Costa, Hist. das Pl. Med.
 gerbéria |f.| Gênero de plantas do Cabo da Bôa-Esperança. (De Gerber, |n. p.| )
 gerbo |m.| Mammı́fero roedor, (dipus gerboa).
 gereba |f.| Bras. do N. Ave aquática, negra. Espécie de urubu, de cabeça encarnada. Certa figura de fogo de artifı́cio. Arame, com uma bucha de estopa na extremidade, para limpeza de canalizações. |M.| Indivı́duo desajeitado e gingão.
-gerecer-se |v. p.| Ant. e |prov.| beir. Formar-se, apparecer, (especialmente, falando-se de tumores, furúnculos, etc.). Cf. G. Vicente. (Do lat. generescere)
+gerecer-se |v. p.| Ant. e prov. beir. Formar-se, apparecer, (especialmente, falando-se de tumores, furúnculos, etc.). Cf. G. Vicente. (Do lat. generescere)
 gereiro |m.| Gı́r. Açougue. (De gera)
 gerencia |f.| Acto de gerir; funcções de gerente; administração. Exercı́cio de funcções administrativas. (Cp. gerente)
 gerente |m.| , |f.| Pessôa que gere ou administra negócios. (Lat. gerens) |adj.| Pessôa que gere ou administra negócios. (Lat. gerens)
@@ -1808,7 +1808,7 @@ gergilada |f.| Bolo, em cuja composição entra gergelim, farinha e calda de aç
 geribanda |f.| Pop. O mesmo que sarabanda.
 gericada |f.| Porção de gericos, burricada.
 gerical |adj.| Relativo a gerico. Próprio de gerico.
-gerico |m.| O mesmo que jumento. (Do lat. gericus, de |Fam.| O mesmo que jumento. (Do lat. gericus, de
+gerico |m.| Fam. O mesmo que jumento. (Do lat. gericus, de
 gerere, trazer, transportar? Cp. B. Pereira, vb. gericus)
 gericocim |m.| Ant. Asno?: “Que gericocins, salvanor! ” G. Vicente, I, 217. (De gerico?)
 gerifalte |m.| Espécie de falcão, robusto e airoso. (Cp. ár. zorafate, tirado talvez do port. ou do cast.)
@@ -1912,7 +1912,7 @@ geyserite |f.| Concreção silicosa, que se fórma junto do orifı́cio dos geys
 gezerino |adj.| (e der.) O mesmo que jazerino, etc. (Do it. ghiazzerino)
 gia |f.| Bras. Batrácio, semelhante á ran, mas muito maior, e de dorso escuro e comestı́vel.
 giacotim |m.| Espécie de faisão.
-giba #,1 # |f.| Corcunda. Náut. Última vela da prôa, semelhante á bujarrona. * |Prov.| trasm. Cada uma das duas fases secundárias da lua, entre os quartos e o novilúnio. (Lat. gibba)
+giba #,1 # |f.| Corcunda. Náut. Última vela da prôa, semelhante á bujarrona. * Prov. trasm. Cada uma das duas fases secundárias da lua, entre os quartos e o novilúnio. (Lat. gibba)
 giba #,2 # |f.| Erva medicinal da ilha de San-Thomé.
 gibaldeira |f.| (V. gilbardeira)
 gibanete #,(nê)# |m.| Ant. Pequena coiraça de ferro ou de malha de aço. (De gibão)
@@ -1920,7 +1920,7 @@ gibangue |f.| Espécie de palmeira da Oceânia, (carypha gibanga).
 gibão #,1 # |m.| Vestidura antiga, que cobria os homens desde o pescoço á cintura. Collete. Espécie de casaco curto que se veste sôbre a camisa. * Bras. Veste de coiro, usada pelos vaqueiros. (Por aljubão, de aljuba?)
 gibão #,2 # |m.| Macaco antropoide. (Fr. gibbon)
 gibarra |adj.| Bras. do N. Muito grande. Que é de estatura muito elevada.
-gibba |f.| Corcunda. Náut. Última vela da prôa, semelhante á bujarrona. * |Prov.| trasm. Cada uma das duas phasesgibbão secundárias da lua, entre os quartos e o novilúnio. (Lat. gibba)
+gibba |f.| Corcunda. Náut. Última vela da prôa, semelhante á bujarrona. * Prov. trasm. Cada uma das duas phasesgibbão secundárias da lua, entre os quartos e o novilúnio. (Lat. gibba)
 gibbão |m.| Macaco anthropoide. (Fr. gibbon)
 gibbo |m.| O mesmo que gibba.
 gibbosidade |f.| Curvatura da columna vertebral, com elevação exterior. Gibba. Curvatura convexa. Proeminência do tecido gorduroso no dorso de alguns animaes. (De gibboso)
@@ -1968,7 +1968,7 @@ gigote |m.| Guisado, em que entra carne desfiada, manteiga e caldo. (Fr. gigot)
 giguefo #,(guê)# |m.| (V. inguefo)
 gila |f.| Designação resumida da gilacaiota.
 gilacaiota |f.| Pequena abóbora, de que se faz doce e que também é conhecida por melão do Malabar.
-gilbarbeira |f.| O mesmo que gilbardeira? |Prov.| minh. Planta áspera, de fôlhas picantes, que nasce nos vallados e nas silveiras.
+gilbarbeira |f.| O mesmo que gilbardeira? Prov. minh. Planta áspera, de fôlhas picantes, que nasce nos vallados e nas silveiras.
 gilbardeira |f.| Espécie de murta brava, de pequenos frutos redondos como a cereja e de fôlhas com sabor picante, (ruscus aculeatus, Lin.).
 gile |m.| O mesmo que bútua.
 gı́lia |f.| Planta annual.
@@ -2094,7 +2094,7 @@ gingiva |f.| O mesmo ou melhor que gengiva. Tecido fibromuscular, em que estão 
 ginglarão |m.| Prov. trasm. Acto de retoiçar-se numa espécie de trapézio, feito só de corda. A corda, empregada nesse exercı́cio. (Do cast. ginglar )
 gı́nglimo |m.| Articulação, que só dá movimento em dois sentidos opostos. Charneira. Articulação, em fórma de charneira, como a do cotovelo. (Gr. ginglumos, gonzo)
 gı́nglymo |m.| Articulação, que só dá movimento em dois sentidos oppostos. Charneira. Articulação, em fórma de charneira, como a do cotovelo. (Gr. ginglumos, gonzo)
-gingo |m.| O mesmo que gingação. |Prov.| alent. Dança de roda.
+gingo |m.| O mesmo que gingação. Prov. alent. Dança de roda.
 gingôa |f.| Nome, que na África austro-central se dá a qualquer de duas árvores monocotyledóneas, que pouco divergem, e são ambas empregadas no fabrico de esteiras.
 gingrar |v. t.| Ant. Mofar; folgar: “gingrai lá com taes cachopas”. G. Vicente, I, 139. (Do cast. ginglar ?)
 gingrina |f.| Ant. Espécie de gaita, que imitava a voz do pato. (Relaciona-se com gingrar ?)
@@ -2103,7 +2103,7 @@ gingue-ganene |m.| Arbusto africano, de folhas inteiras,
 glabras, e flôres hermaphroditas de corolla amarela.
 gingueiro |adj.| Prov. trasm. Elegante, peralta. (De gingar )
 ginhal |f.| T. da Bairrada Variedade de ameixa redonda, acastanhada e temporan. (De Junho? Neste caso, deverá escrever-se jinhal )
-ginja |f.| Fruto da ginjeira. |M.| Velhote; pessôa magra e avelhentada. (Do fr. guigne, b. lat. guina, nome de cereja, que também se encontra nas lı́nguas germânicas e eslavas) |Fam.| Velhote; pessôa magra e avelhentada. (Do fr. guigne, b. lat. guina, nome de cereja, que também se encontra nas lı́nguas germânicas e eslavas)
+ginja |f.| Fruto da ginjeira. |M.| Fam. Velhote; pessôa magra e avelhentada. (Do fr. guigne, b. lat. guina, nome de cereja, que também se encontra nas lı́nguas germânicas e eslavas)
 ginjal |adj.| Lugar, onde crescem ginjeiras. (De ginja)
 ginjeira |f.| Variedade de cerejeira, cujo fruto é agri-doce e tem pé mais curto que as cerejas em geral. Nome de algumas plantas americanas, estranhas ás rosáceas. (De ginja)
 ginjinha |f.| Pop. Bebida, feita de aguardente, com ginja de infusão.
@@ -2132,7 +2132,7 @@ giquirili |m.| Bras. Planta leguminosa, (abrus precatorius).
 giquitaia |f.| Bras. Formiga pequena e vermelha. O mesmo que giquitara.
 giquitara |f.| Espécie de pimenta. Môsca vermelha e pequena do Pará.
 gira #,1 # |f.| O mesmo que gı́ria.
-gira #,2 # |f.| Pop. Acto de girar, de passear; passeio. |Prov.| minh. Ronda. |M.| Prov. dur. Indivı́duo inconstante, amalucado. |Adj.| Bras. do N. Um tanto doido; meio maluco.
+gira #,2 # |f.| Pop. Acto de girar, de passear; passeio. Prov. minh. Ronda. |M.| Prov. dur. Indivı́duo inconstante, amalucado. |Adj.| Bras. do N. Um tanto doido; meio maluco.
 giraba |f.| Bras. O mesmo que côco.
 giraçal |adj.| Ant. Dizia-se do arroz de primeira qualidade, vindo da Ásia.
 giração |f.| Acto ou effeito de girar.
@@ -2152,7 +2152,7 @@ girata |f.| Pop. Passeio, giro. (Do rad. de girar )
 giratacachém |m.| (V. girafa)
 giratório |adj.| O mesmo que circulatório. (De girar )
 girau |m.| Bras. Estrado, em que se assentam os passageiros que uma jangada transporta. * Leito de paus sôbre forquilhas cravadas no chão, no qual se põe o derribador de árvores corpulentas. * Palanque, dentro de casa, entre o pavimento e o tecto, para arrumação de objectos vários.
-giravolta |f.| Digressão, passeio; viravolta. (De girar + voltar ) |Fam.| Digressão, passeio; viravolta. (De girar + voltar )
+giravolta |f.| Fam. Digressão, passeio; viravolta. (De girar + voltar )
 giroscópio
 gı́ria |f.| Linguagem especial ou privativa de fadistas, gatunos, etc., para não serem comprehendidos por outrem. Calão. Linguagem peculiar aos que exercem uma profissão ou arte. Pop. Esperteza, astúcia. (Relaciona-se com geringonça)
 girianta |f.| Gı́ria. Taberna.
@@ -2515,7 +2515,7 @@ godo 2 e gódo. Serão a mesma coisa?)
 gocete #,(cê)# |m.| Ant. Peça da armadura, que se ajustava debaixo dos braços.
 gocha #,(gô)# |f.| Prov. alg. Paveia de mato, que se junta nos terrenos, para se queimar, e adubarem-se as terras com a sua cinza.
 goche |adj.| O mesmo que gocho. Cf. Camillo, Corja, 201. (Do fr. gauche)
-gocho #,1 (gô)# |m.| Ant. Desajeitado?: “o gocho luta por pés”. Simão Mach., 69 v.º |Prov.| trasm. Que vê pouco, precisando fechar um tanto as pálpebras, para distinguir os objectos. (Provavelmente, do fr. gauche) |adj.| Ant. Desajeitado?: “o gocho luta por pés”. Simão Mach., 69 v.º |Prov.| trasm. Que vê pouco, precisando fechar um tanto as pálpebras, para distinguir os objectos. (Provavelmente, do fr. gauche)
+gocho #,1 (gô)# |m.| Ant. Desajeitado?: “o gocho luta por pés”. Simão Mach., 69 v.º Prov. trasm. Que vê pouco, precisando fechar um tanto as pálpebras, para distinguir os objectos. (Provavelmente, do fr. gauche) |adj.| Ant. Desajeitado?: “o gocho luta por pés”. Simão Mach., 69 v.º Prov. trasm. Que vê pouco, precisando fechar um tanto as pálpebras, para distinguir os objectos. (Provavelmente, do fr. gauche)
 gocho #,2 (gô)# |m.| Prov. trasm. O mesmo que pescoço.
 godalha |f.| Prov. trasm. Cabra nova e muito inquieta. Ext. Rapariga leviana. (De gódia?)
 godão |m.| T. da Índia port. Armazém, depósito. (Do indoinglês godown, do mal. gadong)
@@ -2566,7 +2566,7 @@ goidélico |adj.| Diz-se de um dos grupos das lı́nguas célticas.
 goilão |m.| T. de Turquel. Homem alto e desajeitado; trangalhadanças. (Por goelão, de goéla? )
 goitacazes |m.| pl. Antiga nação de ı́ndios do Brasil, de que restam algumas famı́lias dispersas ao sul do Estado do Espı́rito-Santo.
 goiti |m.| Árvore fructifera dos sertões do Brasil.
-goiva |f.| Espécie do formão, para lavrar meias canas côncavas. Ant. Agulha, com que o artilheiro desimpedia o ouvido da peça. * |Prov.| extrem. Leito de corrente, fundo e estreito: alguns mouchões do Tejo são separados por goivas. (B. lat. gubia, talvez do lat. cavea)
+goiva |f.| Espécie do formão, para lavrar meias canas côncavas. Ant. Agulha, com que o artilheiro desimpedia o ouvido da peça. * Prov. extrem. Leito de corrente, fundo e estreito: alguns mouchões do Tejo são separados por goivas. (B. lat. gubia, talvez do lat. cavea)
 goivado |m.| Náut. Cavidade, em fórma de meia cana, para aguentar a alça, numa peça de poleame. (De goivar )
 goivadura |f.| Entalhe, feito com goiva. (De goivar )
 goivar |v. t.| Cortar com goiva. Ext. Ferir muito: “sete goivas
@@ -2579,8 +2579,8 @@ goivo |m.| Flôr do goiveiro. Goiveiro. * Ant. O mesmo que
 gáudio. (Do lat. gaudium)
 goja #,(gô)# |f.| Prov. trasm. O mesmo que cobra. (Colhido em |V. P.| de Aguiar)
 gôjo |m.| Prov. trasm. Qualquer animal pequeno, (gallinha, pomba, coêlho, etc).
-gola #,1 # |f.| Prov. beir. Espécie de redemoı́nho, que se fórma nos pegos dos rios ou ribeiras. * |Prov.| trasm. O mesmo que goéla.
-gola #,2 # |f.| Parte do vestuário, junto ao pescoço ou em volta dele. Colarinho. Linha ou espaço entre os lados de um ângulo saliente, nas fortificações. * Moldura, cuja superfı́cie é, em parte, côncava, e, em parte, convexa. * |Prov.| trasm.
+gola #,1 # |f.| Prov. beir. Espécie de redemoı́nho, que se fórma nos pegos dos rios ou ribeiras. * Prov. trasm. O mesmo que goéla.
+gola #,2 # |f.| Parte do vestuário, junto ao pescoço ou em volta dele. Colarinho. Linha ou espaço entre os lados de um ângulo saliente, nas fortificações. * Moldura, cuja superfı́cie é, em parte, côncava, e, em parte, convexa. * Prov. trasm.
 Goéla, garganta. (Colhido em |V. P.| de Aguiar.) (Do lat. collum)
 gólgotha
 golada #,1 # |f.| Canal de navegação, no extremo dos bancos de areia de uma barra, pelo qual podem passar pequenas embarcações. (Cp. goleta 1 )
@@ -2589,7 +2589,7 @@ golango |m.| Espécie de antı́lope, na África.
 golangômbia |f.| Pássaro dentirostro de Benguela.
 golar #,1 # |v. t. e i.| Pop. O mesmo que gorar.
 golar #,2 # |v. i.| Prov. trasm. Berrar muito. (De golas)
-golas |f.| pl. |Prov.| trasm. Goélas. (Cp. gola)
+golas |f.| pl. Prov. trasm. Goélas. (Cp. gola)
 golazeira |f.| (V. gorazeira)
 golcori |m.| Jóia, com que as indianas adornam o pescoço. Cf. Th. Ribeiro, Jornadas, II, 104.
 goldbáchia #,(qui )# |f.| Gênero de plantas crucı́feras. (De
@@ -2598,8 +2598,8 @@ goldbáquia |f.| Gênero de plantas crucı́feras. (De Goldbach, |n. p.| )
 goldfússia |f.| Gênero de plantas acantháceas.
 gole |m.| Porção de lı́quido, que se engole de uma vez; trago. (Refl. de engulir )
 goleira |f.| Prov. O mesmo que coleira. (De gola)
-golelha #,(lê)# |f.| O mesmo que esòphago. (Provavelmente do cast. goliella) |Fam.| O mesmo que esòphago. (Provavelmente do cast. goliella)
-golelhar |v. i.| Tagarelar; dar á lı́ngua. (De golelha) |Fam.| Tagarelar; dar á lı́ngua. (De golelha)
+golelha #,(lê)# |f.| Fam. O mesmo que esòphago. (Provavelmente do cast. goliella)
+golelhar |v. i.| Fam. Tagarelar; dar á lı́ngua. (De golelha)
 golelheiro |m.| Mexeriqueiro; tagarela; palrador. (De |adj.| Mexeriqueiro; tagarela; palrador. (De golelha)
 goles |m.| pl. Heráld. A côr vermelha, nos brasões. (Fr. gueules)
 goleta #,1 (lê)# |f.| Angra. Pequena barra. Canal, que dá accesso a um porto. (De gola)
@@ -2613,7 +2613,7 @@ golfejar |v. i.| Golfar repetidas vezes. (De gôlfo)
 golfim |m.| O mesmo que golfinho.
 golfim-e-baleia |m.| Espécie de jôgo popular.
 golfinho |m.| Grande peixe marı́timo, carnı́voro, da |fam.| dos cetáceos. Heráld. Representação dêste animal em armaria. Ant. Cada uma das asas da peça de artilharia. * Gı́r. Corcunda. (Do lat. delphinus)
-golfo #,(gôl )# |m.| Parte de um mar, que entra nas terras, e cuja abertura do lado do mar é extraordinariamente muito larga. Peça de ferro, em que giram as missagras das portinholas do navio. * O mesmo que golfada. Cf. Camillo, Brasileira, 78 e 353. * |Prov.| alg. Abysmo, pégo. * Planta, o mesmo que gólfão, nenúfar ou lı́rio de água. (Do gr. kolpos)
+golfo #,(gôl )# |m.| Parte de um mar, que entra nas terras, e cuja abertura do lado do mar é extraordinariamente muito larga. Peça de ferro, em que giram as missagras das portinholas do navio. * O mesmo que golfada. Cf. Camillo, Brasileira, 78 e 353. * Prov. alg. Abysmo, pégo. * Planta, o mesmo que gólfão, nenúfar ou lı́rio de água. (Do gr. kolpos)
 gôlfo-amarelo |m.| Bot. Espécie de gólfão.
 gôlfo-branco |m.| Bot. O mesmo que gólfão.
 golgota |m.| Fig. Suplicio atroz. Lugar de sofrimento. (De
@@ -2623,9 +2623,9 @@ golgueira |f.| Prov. trasm. O mesmo que peito.
 golinha |f.| Ant. Argola, pregada num poste, á qual se prende alguém pelo pescoço. Cabeção com volta engomada, que se usava com a beca. (De gola)
 golipão |m.| T. da Bairrada Aquelle que come com soffreguidão. Lambão. (De engole + pão?)
 golipar |v. i.| T. da Bairrada Comer soffregamente, parecendo que engole sem mastigar. (Cp. golipão)
-golla |f.| Parte do vestuário, junto ao pescoço ou em volta delle. Collarinho. Linha ou espaço entre os lados de um ângulo saliente, nas fortificações. * Moldura, cuja superfı́cie é, em parte, côncava, e, em parte, convexa. * |Prov.| trasm. Goéla, garganta. (Colhido em |V. P.| de Aguiar.) (Do lat. collum)
+golla |f.| Parte do vestuário, junto ao pescoço ou em volta delle. Collarinho. Linha ou espaço entre os lados de um ângulo saliente, nas fortificações. * Moldura, cuja superfı́cie é, em parte, côncava, e, em parte, convexa. * Prov. trasm. Goéla, garganta. (Colhido em |V. P.| de Aguiar.) (Do lat. collum)
 gollar |v. i.| Prov. trasm. Berrar muito. (De gollas)
-gollas |f.| pl. |Prov.| trasm. Goélas. (Cp. golla)
+gollas |f.| pl. Prov. trasm. Goélas. (Cp. golla)
 golleira |f.| Prov. O mesmo que colleira. (De golla)
 gollinha |f.| Ant. Argola, pregada num poste, á qual se prende alguém pelo pescoço. Cabeção com volta engomada, que se usava com a beca. (De golla)
 golo #,1 (gô)# |adj.| Pop. O mesmo que gôro.
@@ -2649,7 +2649,7 @@ gomado |m.| Planta ampelı́dea, de Cabo-Verde.
 gomar #,1 # |v. i.| Lançar gomos ou rebentos; abrotar. (De gomo)
 gomar #,2 # |v. t.| (V. engomar )
 gomarra |f.| Prov. trasm. O mesmo que gallinha. (Cast. gomarra)
-gomas |f.| pl. |Prov.| trasm. Lombas, entre os valleiros, na plantação das vinhas.
+gomas |f.| pl. Prov. trasm. Lombas, entre os valleiros, na plantação das vinhas.
 gomba |f.| Árvore de Cabı́nda, própria para mobı́lia e outros artefactos.
 gombô |m.| Bras. O mesmo que quiabo.
 gomedar |m.| Espécie de punhal do Oriente: “...os adargueiros com suas espadas e gomedares na cinta.” Chrôn. dos Reis de Bisnaga, 28.
@@ -2774,7 +2774,7 @@ gordalhaço |adj.| O mesmo que gordalhudo.
 gordalhudo |adj.| O mesmo que gordanchudo.
 gordalhufo |adj.| O mesmo que gordanchudo. Cf. Eça, P. Amaro, 103, 344 e 389.
 gordan |f.| Pop. O mesmo que gordura. (De gordo)
-gordanchudo |adj.| Que é muito gordo. Barrigudo. (Do rad. de gordo) |Fam.| Que é muito gordo. Barrigudo. (Do rad. de gordo)
+gordanchudo |adj.| Fam. Que é muito gordo. Barrigudo. (Do rad. de gordo)
 gordiano |adj.| O mesmo que górdio.
 górdio #,1 # |adj.| Nó górdio, grande difficuldade. (De Górdio, |n. p.| )
 górdio #,2 # |m.| Animal muito delgado e longo, que se cria nos tanques, (gordium aquaticum)–Porque êste animal dá o aspecto de cabello de mulher, formou-se a superstição de que um cabello de mulher, metido na água ou no leite, se converte em cobra.
@@ -2821,7 +2821,7 @@ gorilla |m.| O mesmo que gorilha. Cf. Latino, Or. da Corôa, XLIII.
 gorinhatá |m.| Bras. Avezinha canora, (euphonia violacea).
 gorinos |m.| pl. O mesmo que guarinos.
 gorja |f.| Ant. Garganta. A parte mais estreita da quilha. * Cachaço. Cf. Camillo, Volcões, 153. (Do lat. gurges. Cp. fr. gorge)
-gorjal |m.| Ant. Parte da armadura, para defesa do pescoço. * Espécie do collar, geralmente de prata, cravejado de pedras finas e usado outrora por senhoras. * |Prov.| beir. O mesmo que bôca: cala essa gorja. (De gorja)
+gorjal |m.| Ant. Parte da armadura, para defesa do pescoço. * Espécie do collar, geralmente de prata, cravejado de pedras finas e usado outrora por senhoras. * Prov. beir. O mesmo que bôca: cala essa gorja. (De gorja)
 gorjeado |adj.| Em que há gorjeios ou harmonias: “pavilhão
 gorjeado de pássaros.” Camillo, Brasileira, 30.
 gorjeador |adj.| Que gorjeia.967
@@ -2842,7 +2842,7 @@ gorototo #,(tô)# |m.| Pássaro dentirostro da África occidental.
 gorovinhas |f.| pl. Pregas no vestido.
 gorpelha #,(pê)# |f.| Prov. alg. O mesmo que golpelha 2 .
 gorra #,1 (gô)# |f.| Carapuça. Espécie de barrete. |Loc. adv.| De gorra, de camaradagem, de sociedade. (Cast. gorra)
-gorra #,2 (gô)# |f.| Prov. alent. Casca de gorreiro. |Prov.| alent. Trança de esparto ou piaçaba, a que se prendem os alcatruzes das noras. (Corr. de corra)
+gorra #,2 (gô)# |f.| Prov. alent. Casca de gorreiro. Prov. alent. Trança de esparto ou piaçaba, a que se prendem os alcatruzes das noras. (Corr. de corra)
 gorreiro |m.| Prov. alent. O mesmo que trovisco. (De
 gorra 2 )
 gorrião |m.| Pássaro conirostro, espécie de pardal. (Cast. gorrión)
@@ -2909,7 +2909,7 @@ governatriz |m.| Aquella que governa ou é directora. Própria para governar. (D
 governável |adj.| Que se póde governar ou dirigir; dócil: somos um povo muito governável.
 governelo #,(nê)# |m.| Ant. Mantimento, sustento. (De govêrno)
 governichar |v. i.| Deprec. Fazer mau govêrno, com facções e galopins.
-governicho |m.| Exercı́cio de um pequeno emprêgo. Administração de um pequeno districto ultramarino. Sinecura. (De govêrno) |Fam.| Exercı́cio de um pequeno emprêgo. Administração de um pequeno districto ultramarino. Sinecura. (De govêrno)
+governicho |m.| Fam. Exercı́cio de um pequeno emprêgo. Administração de um pequeno districto ultramarino. Sinecura. (De govêrno)
 governı́culo |m.| Bras. O mesmo que governicho.
 governismo |m.| Neol. Systema de governar ou mandar, de modo autoritário. Exercı́cio dictatorial do poder. (De govêrno)
 governista |m.| O mesmo que governamental. |adj.| O mesmo que governamental.
@@ -2927,7 +2927,7 @@ gozil |m.| Ant. O mesmo que aguazil. Cf. Roteiro de Vasco da Gama.
 gôzo |m.| Acto de gozar. Utilidade. Satisfação. (Cp. cast. gozo)
 gozoso |adj.| Em que há gôzo. Que tem gôzo ou prazer. Que revela gôzo.
 grã |f.| Galha do uma espécie de carvalho (quercus coccifera). Insecto hemı́ptero, de côr vermelha, empregado em tinturaria e pharmácia, (coccus ilicis, Lin.). Tecido, tinto com
-gran. Côr escarlate. * |Prov.| O mesmo que graı́nha. * |Prov.| trasm. Moléstia do gado suino, que se manifesta por uma excrescência carnosa na bôca. (Do lat. granum)
+gran. Côr escarlate. * Prov. O mesmo que graı́nha. * Prov. trasm. Moléstia do gado suino, que se manifesta por uma excrescência carnosa na bôca. (Do lat. granum)
 graado |adj.| Ant. Grato, agradável, sympáthico. Cf. Port. Mon. Hist., Script., 284.
 graal |m.| Vaso santo, de que, segundo a crença medieval, Jesus se serviu na ceia com os Apóstolos, e em que José de Arimatheia recolheu o sangue das chagas de Christo, vaso que, suppondo-se perdido, foi descoberto no saque de Cesareia em 1102, e possuı́do successivamente pelos Genoveses e Franceses. (Cp. gral )
 grabano |m.| Prov. trasm. Cabaço, ou vaso de fôlha, o mesmo que garabanho.
@@ -2935,7 +2935,7 @@ grabatério |m.| Cada um dos antigos sectários, que, só no leito mortuário, r
 grabato |m.| Leito pequeno e pobre. Cf. Castilho, Pal. de Um Crente, 166. (Lat. grabatus)
 graça |f.| Benevolência. Favor, mercê. Perdão. Commutação de pena. Feição agradável, agrado: rosto cheio de
 graça. Apparência attrahente; attractivo. Elegância em falar e escrever. Dicção espirituosa. Gracejo: dirigiu-lhe uma graça. Dom sobrenatural, como meio de salvação ou santificação. Bôa acceitação, privança: estar na graça de alguém. * Graça pesada, gracejo offensivo. |Loc. adv.| De
-graça, gratuitamente. Pl. Agradecimento: demos graças a Deus. Benefı́cios espirituaes concedidos pela Igreja. Designação de três deusas do Paganismo. * |Prov.| dur. Tremoços curtidos, que a vendedeira dá de graça, depois de encher a medida que se lhe comprou: tome lá as graças. * |Interj.| Bem haja; muito obrigado: graças, meu Deus! (Lat. gratia)
+graça, gratuitamente. Pl. Agradecimento: demos graças a Deus. Benefı́cios espirituaes concedidos pela Igreja. Designação de três deusas do Paganismo. * Prov. dur. Tremoços curtidos, que a vendedeira dá de graça, depois de encher a medida que se lhe comprou: tome lá as graças. * |Interj.| Bem haja; muito obrigado: graças, meu Deus! (Lat. gratia)
 gracejador |m.| O que graceja. |adj.| O que graceja.
 gracejar |v. i.| Dizer gracejos. Ter ditos espirituosos. |V. t.| 969 Exprimir, por gracejo. (De graça)
 gracejo |m.| Acto ou expressão zombeteira, mas inoffensiva;
@@ -2963,7 +2963,7 @@ graciosidade |f.| Qualidade daquelle ou daquillo que é gracioso.
 gracioso |adj.| Em que há graça; que tem graça: versos graciosos. Gracejador. Dado ou feito de graça. |M.| Motejador; chocarreiro; bobo. (Lat. gratiosus)
 gracir |v. t.| Ant. O mesmo que agradecer. (De graça. Cp.
 gratir )
-graçola |f.| Gracejo de mau gosto. Chocarrice. |M.| Aquelle que diz graçolas. (De graça) |Fam.| Gracejo de mau gosto. Chocarrice. |M.| Aquelle que diz graçolas. (De graça)
+graçola |f.| Fam. Gracejo de mau gosto. Chocarrice. |M.| Aquelle que diz graçolas. (De graça)
 graçolar |v. i.| Dizer graçolas.
 gradação |f.| Aumento ou deminuição gradual. Passagem ou transição gradual. Progressão de ideias, ascendente ou descendente. (Lat. gradatio)
 gradador |m.| Aquelle que grada. Grade, instrumento agrı́cola.
@@ -2976,7 +2976,7 @@ gradário |adj.| Des. Que anda a passo, devagar, sem chouto, (falando-se do cava
 gradativo |adj.| Neol. Que procede por graus ou gradualmente; em que há gradação. Cf. Herculano, Hist. de Port., III, 382; Opúsc., III, 244 e IV, 82. (Do lat. gradatus)
 gradaús |m.| pl. Trı́bo de ı́ndios, nas margens do Araguaia.
 grade |f.| Tabique ou armação, formada de peças de metal ou madeira, com intervallos, e destinada a resguardar ou
-gradura vedar um lugar. Locutório de convento ou de cadeia. Caixilho, em que o pintor assenta uma tela que há de pintar. Caixa de ripas intervalladas, para transporte de mobı́lia. Instrumento agricola, formado de travessas parallelas em que há dentes de ferro ou madeira, para aplanar, afofar e esterroar a terra lavrada. Molde para fazer telha ou tijolo. Instrumento dentado, para limpar cavalgaduras. Instrumento de veterinário, para cauterizar feridas de animaes. * |Prov.| alent. Ancinho grande, de cabo comprido e curvo, para tirar o carvão das fórmas. (Do lat. crates)
+gradura vedar um lugar. Locutório de convento ou de cadeia. Caixilho, em que o pintor assenta uma tela que há de pintar. Caixa de ripas intervalladas, para transporte de mobı́lia. Instrumento agricola, formado de travessas parallelas em que há dentes de ferro ou madeira, para aplanar, afofar e esterroar a terra lavrada. Molde para fazer telha ou tijolo. Instrumento dentado, para limpar cavalgaduras. Instrumento de veterinário, para cauterizar feridas de animaes. * Prov. alent. Ancinho grande, de cabo comprido e curvo, para tirar o carvão das fórmas. (Do lat. crates)
 gradeamento |m.| Acto ou effeito de gradear. Grade de ferro, para vedar jardim, pátio, etc.
 gradear |v. t.| Pôr grades em. Limitar com grades. Ornar de grades. Gradar1 .
 gradecer |v. i.| O mesmo que gradar 2 .
@@ -3057,7 +3057,7 @@ grama #,1 # |f.| Nome de várias plantas, da |fam.| das gramı́neas. (Do lat. g
 grama #,2 # |f.| O mesmo que gramadeira. (Colhido em Turquel)
 grama #,3 # |m.| Pêso de um centı́metro cúbico de água destilada. Unidade das medidas de pêso, no sistema métrico ou decimal. (Gr. gramma)
 gramada |f.| T. de Paredes-de-Coira Acto de gramar1 ou de trabalhar com a gramadeira.
-gramadeira |f.| Peça de madeira, com que se trilha o linho antes de espadelado. * Gancho, com que nas cavallariças se puxa a palha para a mangedoira. |Prov.| Mulher, que trabalha com a gramadeira. (De gramar 1 )
+gramadeira |f.| Peça de madeira, com que se trilha o linho antes de espadelado. * Gancho, com que nas cavallariças se puxa a palha para a mangedoira. Prov. Mulher, que trabalha com a gramadeira. (De gramar 1 )
 gramado |m.| Bras. Terreno, onde cresce a grama. (De
 gramar 2 )
 gramafónio |m.| Fonógrafo aperfeiçoado, que reproduz os sons por meio de discos. (Do gr. gramma + phone)
@@ -3076,7 +3076,7 @@ gramatical |adj.| Relativo á gramática: análise gramatical. Que está conform
 gramaticalismo |m.| Neol. Escrúpulo exagerado na construcção gramatical das frases. (De gramatical )
 gramaticalmente |adv.| De modo gramatical. Segundo as regras da gramática.
 gramaticão |m.| Aquele que suppõe ser bom gramático. Aquele que sabe só gramática. (De gramático)
-gramaticar |v. i.| Tratar questões de gramática. Ensinar gramática. |Fam.| Tratar questões de gramática. Ensinar gramática.
+gramaticar |v. i.| Fam. Tratar questões de gramática. Ensinar gramática.
 gramaticista |m.| Aquele que é versado em gramática.
 gramático |adj.| Relativo á gramática. |M.| Aquele que se dedica a estudos gramaticaes ou escreve sôbre gramática. (Lat. grammaticus)
 gramaticógrafo |m.| Aquele que escreve á cêrca de gramática. Cf. Júl. Ribeiro, Gramat., (no prefácio). (Do. gr.
@@ -3094,7 +3094,7 @@ grameiras |f.| pl. Orifı́cios, que rodeiam os cadinhos nos fornos de fundir br
 gramelho #,(mê)# |m.| Prov. O mesmo que gramilo.
 grâmia |f.| Des. O mesmo que remela. (Lat. gramiae)
 gramilho |m.| O mesmo que gramilo.
-gramilo |m.| Prov. minh. Peça de pau ou de ferro, em fórma de quarto de cı́rculo, e com a qual se fixa a cravelha, do lado interior da porta, para que os gatunos ou os indiscretos não possam, do lado de fóra, levantar o fecho e abrir a porta. * |Prov.| Espécie de rêde, para apanhar pássaros. (Colhido em Foscôa) (Do cast. gramil ?)
+gramilo |m.| Prov. minh. Peça de pau ou de ferro, em fórma de quarto de cı́rculo, e com a qual se fixa a cravelha, do lado interior da porta, para que os gatunos ou os indiscretos não possam, do lado de fóra, levantar o fecho e abrir a porta. * Prov. Espécie de rêde, para apanhar pássaros. (Colhido em Foscôa) (Do cast. gramil ?)
 gramı́neas |f.| pl. Famı́lia de plantas monocotyledóneas, de fôlhas longas e estreitas em geral, á qual pertence o trigo, o arroz, o milho, e muitas outras. (De gramı́neo)
 gramı́neo |adj.| Que tem a natureza da grama. (Lat. gramineus)
 graminhar |v. t.| Carp. Riscar com graminho. Acertar ou rectificar com graminho.
@@ -3116,7 +3116,7 @@ grammatical |adj.| Relativo á grammática: anályse grammatical. Que está conf
 grammaticalismo |m.| Neol. Escrúpulo exagerado na construcção grammatical das phrases. (De grammatical )
 grammaticalmente |adv.| De modo grammatical. Segundo as regras da grammática.
 grammaticão |m.| Aquelle que suppõe ser bom grammático. Aquelle que sabe só grammática. (De grammático)
-grammaticar |v. i.| Tratar questões de grammática. Ensinar grammática. |Fam.| Tratar questões de grammática. Ensinar grammática.
+grammaticar |v. i.| Fam. Tratar questões de grammática. Ensinar grammática.
 grammaticista |m.| Aquelle que é versado em grammática.
 grammático |adj.| Relativo á grammática. |M.| Aquelle que se dedica a estudos grammaticaes ou escreve sôbre grammática. (Lat. grammaticus)
 grammaticógrapho |m.| Aquelle que escreve á cêrca de
@@ -3138,15 +3138,15 @@ gramofone |m.| Fonógrafo aperfeiçoado, que reproduz os sons por meio de discos
 gramómetro |m.| Espécie de divisor mecânico, empregado em desenho. (Do gr. gramme + metron)
 gramondé |m.| Planta melastomácea do Brasil.
 gramónemo |m.| Gênero de infusórios, da |fam.| dos bacilários. (Do gr. gramma + nema)
-gramonilhos |m.| pl. |Prov.| alent. O mesmo que gramosilhos.
+gramonilhos |m.| pl. Prov. alent. O mesmo que gramosilhos.
 gramonta |f.| Prov. trasm. O mesmo que glamonta.
 gramontino |m.| Frade de uma Ordem, fundada em França no século XI. (De Gramont, |n. p.| )
-gramosilhos |m.| pl. |Prov.| trasm. O mesmo que grambozinos.
+gramosilhos |m.| pl. Prov. trasm. O mesmo que grambozinos.
 grampa |f.| Instrumento náutico, para apertar, por meio de roscas ou parafusos. (Cp. grampo)
 grampo |m.| Peça de metal, que segura e liga duas pedras numa construcção. Haste de ferro ou madeira, para segurar peças em que se trabalha. Peça no cano da espingarda, na qual se segura a mola da baioneta. * Grande escápula de parafuso, que se fixa nos tectos: candeeiro suspenso por um grampo. (Do al. krampe)
 gramponau |adj.| Ant. Defraudador. Embusteiro; que engrampa. (Do rad. de grampo. Cp. fr. cramponner )
 gran #,1 # |adj.| (Abrev. de grande): um gran senhor.
-gran #,2 # |f.| Galha do uma espécie de carvalho (quercus coccifera). Insecto hemı́ptero, de côr vermelha, empregado em tinturaria e pharmácia, (coccus ilicis, Lin.). Tecido, tinto com gran. Côr escarlate. * |Prov.| O mesmo que graı́nha. * |Prov.| trasm. Moléstia do gado suino, que se manifesta por uma excrescência carnosa na bôca. (Do lat. granum)
+gran #,2 # |f.| Galha do uma espécie de carvalho (quercus coccifera). Insecto hemı́ptero, de côr vermelha, empregado em tinturaria e pharmácia, (coccus ilicis, Lin.). Tecido, tinto com gran. Côr escarlate. * Prov. O mesmo que graı́nha. * Prov. trasm. Moléstia do gado suino, que se manifesta por uma excrescência carnosa na bôca. (Do lat. granum)
 gran-bêsta |f.| O mesmo que alce.
 gran-cruz |f.| Cruz decorativa, pendente de uma fita, e usada pelos primeiros dignitários de algumas Ordens de cavallaria. Grau, correspondente a esta insignia. |M.| Dignitário que tem a gran-cruz.
 gran-de-carrasco |m.| O mesmo que gran, insecto.
@@ -3381,13 +3381,13 @@ gravemente |adv.| De modo grave. Com gravidade; com seriedade. Com importância;
 graveolência |f.| Mau cheiro. (Lat. graveolentia)
 graveolente |adj.| Que tem cheiro forte. Que cheira mal. (Lat. graveolens)
 graveolento |adj.| Des. O mesmo que graveolente.
-graveta #,(vê)# |f.| Espécie de fateixa, com quatro unhas de ferro em fórma de espetos, usada pelos pescadores de bacalhau em fundos pedregosos. |Prov.| minh. Ancinho grande de ferro, com seis dentes. (Por craveta, de cravar ?)
+graveta #,(vê)# |f.| Espécie de fateixa, com quatro unhas de ferro em fórma de espetos, usada pelos pescadores de bacalhau em fundos pedregosos. Prov. minh. Ancinho grande de ferro, com seis dentes. (Por craveta, de cravar ?)
 gravetar |v. i.| Fazer gravetos.
-graveto #,(vê)# |m.| O mesmo que garavato. Bras. Árvore silvestre, cuja madeira se emprega em caixaria. |Prov.| An-graveza cinho, para apanhar sargação.
+graveto #,(vê)# |m.| O mesmo que garavato. Bras. Árvore silvestre, cuja madeira se emprega em caixaria. Prov. An-graveza cinho, para apanhar sargação.
 graveza |f.| Des. O mesmo que gravidade.
 gravi |m.| O mesmo que gravim.
 gravidação |f.| O mesmo que gravidez. Cf. Filinto, IX, 115.
-gravidade |f.| Qualidade daquelle ou daquillo que é grave. Attracção dos corpos para o centro da terra. Sisudez; seriedade; ponderação. Intensidade. Estado ou qualidade daquillo que dá cuidado: gravidade de uma doença. Circunstancia perigosa. Aggravação perigosa de uma doença: é doente de gravidade. * Pl. |Prov.| alent. Enfeites ou ornamentos de vestuário. (Lat. gravitas)
+gravidade |f.| Qualidade daquelle ou daquillo que é grave. Attracção dos corpos para o centro da terra. Sisudez; seriedade; ponderação. Intensidade. Estado ou qualidade daquillo que dá cuidado: gravidade de uma doença. Circunstancia perigosa. Aggravação perigosa de uma doença: é doente de gravidade. * Pl. Prov. alent. Enfeites ou ornamentos de vestuário. (Lat. gravitas)
 gravidar |v. t.| Tornar grávida ou prenhe. Cf. Rui Barb., Réplica, 157.
 gravidez |f.| Qualidade ou estado de grávido. Estado da mulher e das fêmeas em geral, durante o tempo em que se desenvolve o respectivo embryão. Gestação; prenhez. (De grávido)
 gravı́dico |adj.| Med. Que depende da gravidez; relativo á
@@ -3409,11 +3409,11 @@ gravotear |v. t.| Carp. Riscar com o compasso, por onde se há de serrar.
 gravunha |f.| O mesmo que garatuja.
 gravunhar |v. i.| O mesmo que garatujar : “...sem papel em que gravunhe.” Filinto, VII, 75.
 gravura |f.| Acto ou effeito de gravar. Arte de gravar. Obra esculpida, de pouca grossura. Trabalho de gravador: gravura em madeira. Estampa: comprar gravuras.
-graxa |f.| Pó de fuligem ou de outras substâncias, para polir calçado e outros objectos. Resina odorı́fera da thuia. Doença, que, em certos animaes, faz derreter a gordura. * |Prov.| minh. O mesmo que gordura. * Mad. Banha de porco. * |Prov.| Óleo, extrahido das tripas da sardinha. (Colhido em Varzim) (De graxo)
+graxa |f.| Pó de fuligem ou de outras substâncias, para polir calçado e outros objectos. Resina odorı́fera da thuia. Doença, que, em certos animaes, faz derreter a gordura. * Prov. minh. O mesmo que gordura. * Mad. Banha de porco. * Prov. Óleo, extrahido das tripas da sardinha. (Colhido em Varzim) (De graxo)
 graxear |v. i.| Bras. O mesmo que namorar. (De graxa)
 graxeiro |m.| Neol. bras. Aquelle que unta ou lubrifica peças de máquinas. Cf. Diár. Official, suppl. ao n.º 143 de 16X-900.
 graxo |adj.| P. us. Que tem gordura; oleoso. (Do lat. crassus)
-grazina |m.| , |f.| |Fam.| Pessôa, que fala muito, que grita, que resmunga. * |F.| O mesmo que gaivina. (De grazinar ) |adj.| |Fam.| Pessôa, que fala muito, que grita, que resmunga. * |F.| O mesmo que gaivina. (De grazinar )
+grazina |m.| , |f.| Fam. Pessôa, que fala muito, que grita, que resmunga. * |F.| O mesmo que gaivina. (De grazinar ) |adj.| Fam. Pessôa, que fala muito, que grita, que resmunga. * |F.| O mesmo que gaivina. (De grazinar )
 grazinada |f.| Acto ou effeito de grazinar.
 grazinador |m.| Indivı́duo que grazina. |adj.| Indivı́duo que grazina.
 grazinar |v. i.| Falar muito e alto. Palrar. Importunar, falando ou lamentando-se. (Do it. cracidare?)
@@ -3452,9 +3452,9 @@ gregoge |m.| Supplı́cio antigo, que se usava na costa do Malabar e que consist
 gregoriano |adj.| Relativo ao Papa Gregório I: canto gregoriano. Relativo ao Papa Gregório XVI: correcção gregoriana.
 gregorina |f.| O mesmo que radiolário.
 gregório #,1 # |m.| Gı́r. Pênis. |Adj.| Burl. O mesmo que grego. Cf. Filinto, II, 193.
-gregório #,2 # |m.| Chamar pelo gregório, vomitar com ânsia. (T. onom.) |Fam.| Chamar pelo gregório, vomitar com ânsia. (T. onom.)
+gregório #,2 # |m.| Fam. Chamar pelo gregório, vomitar com ânsia. (T. onom.)
 gregotins |m.| pl. O mesmo que garatujas. (Da soletração das últimas letras do alphabeto grego, i grego + til )
-greguejar |v. i.| Falar grego. Cf. Filinto, XI, 194 e I, 49. |Fam.| Falar grego. Cf. Filinto, XI, 194 e I, 49.
+greguejar |v. i.| Fam. Falar grego. Cf. Filinto, XI, 194 e I, 49.
 grei |f.| Rebanho de gado miúdo. Fig. Sociedade. Partido. Parochianos ou diocesanos. Ant. Povo: servir o rei e a
 grei. (Do lat. grex )
 greiro #,1 # |m.| Córte, aberto nos muros das marinhas.
@@ -3478,7 +3478,7 @@ grenache |m.| Casta de uva de Azeitão. Cf. Rev. Agronómica, I, 8.
 grencho |adj.| O mesmo que crespo, (falando-se de cabello). (Colhido na Guarda)
 grenetina |f.| Gelatina purificada. (De Grenet, |n. p.| )
 grifı́nia
-grenha |f.| Cabello em desalinho. * Crina do leão. Ext. Bosque denso, emmaranhado. * |Prov.| alent. Variedade de couve. (Do lat. crinis)
+grenha |f.| Cabello em desalinho. * Crina do leão. Ext. Bosque denso, emmaranhado. * Prov. alent. Variedade de couve. (Do lat. crinis)
 grepo |m.| Antigo sacerdote, no Pegu: “...uma prática que teve com um dos grepos...” Peregrinação, CLXIV. (Cp. talagrepo)
 grequismo |m.| Processo de pintura, que se observa nas obras de Greco. Admiração, produzida pelos quadros de
 Greco. Cf. R. Jorge, El Greco, 35.
@@ -3532,7 +3532,7 @@ grillo #,3 # |adj.| Dizia-se dos frades de certa Ordem: frades grillos.
 grilo #,1 # |m.| Pequeno insecto ortóptoro, que, sendo macho, produz um ruı́do especial com o atrito das asas. * Espécie de jôgo popular. (Lat. grillus)
 grilo #,2 # |m.| Gı́r. O mesmo que relógio. (Por grilho, propriamente a corrente que segura o relógio)
 grilo #,3 # |adj.| Dizia-se dos frades de certa Ordem: frades grilos.
-grima |f.| Ódio; raiva. |Prov.| trasm. Grande terror, pavor. (Do ant. alt. al. grim, furioso)
+grima |f.| Ódio; raiva. Prov. trasm. Grande terror, pavor. (Do ant. alt. al. grim, furioso)
 grimaça |f.| Gal. inútil. Trejeito, esgares. (Fr. grimace)
 grimpa |f.| Lâmina, que, girando em volta de um eixo pela acção do vento, indica a direcção dêste. Catavento. O ponto mais elevado de um objecto; coruto. Fig. Voz altaneira, orgulhosa, de respingão: o rapaz já levanta a grimpa. * Gı́r. O mesmo que cabeça. (Do holl. grippen? Cp. fr.
 grimper )
@@ -3557,7 +3557,7 @@ grisalho |adj.| Cinzento; pardo. Mesclado de preto ou loiro e branco, (falando-s
 grisandra |f.| Erva campestre, amarela e de fôlhas recurvadas.
 grisão |adj.| Diz-se de alguns dialectos românicos, que são vernáculos na Suı́ça.
 grı́se |m.| Ant. Espécie de tecido pardacento. (Cp. gris)
-griséu |adj.| Que tem côr cinzenta, tirante a verde. |M.| pl. |Prov.| alg. Ervilhas maduras. (B. lat. griseus)
+griséu |adj.| Que tem côr cinzenta, tirante a verde. |M.| pl. Prov. alg. Ervilhas maduras. (B. lat. griseus)
 grisisco |adj.| Pardacento. Cf. Herculano, Bobo, 151. (De gris)
 grisó |m.| T. |fam.| de Turquel Azeite.
 grisões |m.| pl. Povos da Suı́ça, nos Alpes.
@@ -3572,7 +3572,7 @@ gritaria |f.| Muitos gritos. Barulho; successão de gritos.
 griteira |f.| Prov. trasm. O mesmo que gritaria.
 grito |m.| Voz, emittida com esfôrço, de maneira que possa ouvir-se ao longe. * Ext. Vozes inarticuladas, a que nos obriga a dôr ou a paixão. Clamor de uma multidão. Voz de alguns animaes: o grito das arapongas. * Palavras empoladas, proferidas em alta voz por um orador ou por um poéta. (De gritar )
 grivar |v. i.| O mesmo que panejar. |M.| Náut. O estremecer das testas das velas, quando uma guinada aproxima muito o navio ao vento.
-grizeta |f.| Peça de metal, em que se enfia a torcida das979 lâmpadas. Lamparina. * Caixa que, nas lanternas, contém o azeite. * |Prov.| trasm. Lanterna; luminária.
+grizeta |f.| Peça de metal, em que se enfia a torcida das979 lâmpadas. Lamparina. * Caixa que, nas lanternas, contém o azeite. * Prov. trasm. Lanterna; luminária.
 gró |m.| Bebida; o mesmo que grogue? Cf. Macedo, Burros, 257.
 gróbia |f.| Gênero de orquı́deas. (De Groby, |n. p.| )
 gróbya |f.| Gênero de orchı́deas. (De Groby, |n. p.| )
@@ -3626,7 +3626,7 @@ grossina |f.| Prov. alent. Crosta esbranquiçada da lı́ngua. O mesmo que sabur
 grôsso |adj.| Que tem grande circunferência ou volume: árvore grossa. Sólido. Compacto. Grave. Abundante. Grosseiro, (na accepção prop. e fig.). Consistente, espêsso: caldo grôsso. * Ant. Fértil, productivo. Cf. Pant. de Aveiro, Itiner., 53 e 255 v.º, (2.ª ed.). |M.| A parte mais
 grossa. A maior parte. * Antiga moéda portuguesa, equivalente ao real de prata. * Gı́r. Bêbedo. |Adv.| Muito. Com fôrça. Com gravidade; em tom baixo: falar grôsso. (Lat. grossus)
 grôsso-de-nápoles |m.| O mesmo que grossagrana.
-grossor |m.| Ant. e |prov.| alg. O mesmo que grossura.
+grossor |m.| Ant. e prov. alg. O mesmo que grossura.
 grossulária |f.| Antigo nome scientı́fico da groselheira. Hoje, secção do gênero groselheira. (Lat. grossularia)
 grossulárias |f.| pl. Famı́lia de plantas dicotyledóneas, que têm por typo a groselheira. (Pl. de grossularia)
 grossularina |f.| Substância, que se acha nos frutos ácidos, sob a fórma de geleia. (De grossulária)
@@ -3646,7 +3646,7 @@ grudadoiro |m.| Série de cavalletes de madeira ou de ferro, sôbre os quaes se 
 grudador |m.| O que gruda. |adj.| O que gruda.
 grudadouro |m.| Série de cavalletes de madeira ou de ferro, sôbre os quaes se estendem as teias para secar, nas fábricas de lanificios, depois de mergulhadas em colla ou grude. (De grudar )
 grudadura |f.| Acto ou effeito de grudar.
-grudar |v. t.| Pegar com grude. Ligar; unir. * |Prov.| trasm. Illudir, lograr. |V. i.| Ligar-se com grude. Juntar-se. Fig. Ajustar-se; combinar-se. * Gı́r. Convir. * Chul. Us. na |loc.| não gruda, não péga, não me convence, não vale nada. * |V. p.| Bras. do N. Unirem-se os corpos de dois indivı́duos, para lutar.
+grudar |v. t.| Pegar com grude. Ligar; unir. * Prov. trasm. Illudir, lograr. |V. i.| Ligar-se com grude. Juntar-se. Fig. Ajustar-se; combinar-se. * Gı́r. Convir. * Chul. Us. na |loc.| não gruda, não péga, não me convence, não vale nada. * |V. p.| Bras. do N. Unirem-se os corpos de dois indivı́duos, para lutar.
 grude |m.| Espécie de colla, com que se unem e pegam peças de madeira. Massa, usada na fabricação do calçado. * Bras. do N. Luta corporal de duas pessôas. Desordem, motim. (Do lat. gluten) |f.| Espécie de colla, com que se unem e pegam peças de madeira. Massa, usada na fabricação do calçado. * Bras. do N. Luta corporal de duas pessôas. Desordem, motim. (Do lat. gluten)
 grueiro |adj.| Diz-se do falcão, ensinado para caçar grous. (Por groueiro, de grou)
 grugulejar |v. i.| Cantar (o peru) Imitar a voz do peru: “outras vezes, em quanto elle latia de cão e grugulejava de peru ou miava de gato...” Camillo, Volcões, 157. (T. onom.).
@@ -3754,12 +3754,12 @@ guajuru |m.| Bras. O mesmo que guajeru.
 gualde |adj.| O mesmo que jalne. Cf. R. Lobo, Côrte na Aldeia, II, 53.
 gualdipério |m.| Burl. Traição de namorado. (Do rad. de
 gualdir )
-gualdir |v. t.| Comer; gastar; dissipar. (Talvez do vasconço) |Fam.| Comer; gastar; dissipar. (Talvez do vasconço)
+gualdir |v. t.| Fam. Comer; gastar; dissipar. (Talvez do vasconço)
 gualdo |adj.| O mesmo que jalne.
 gualdra |f.| Espécie de argola, por onde se puxam e abrem
 gavetas. (Cp. aldrava)
 gualdrapa |f.| Xairel, espécie de manta, que se estende debaixo da sella, pendendo aos lados. Ant. Grandes abas de um casacão. (Cast. gualdrapa)
-gualdripar |v. t.| O mesmo que furtar. (Do rad. de |Fam.| O mesmo que furtar. (Do rad. de
+gualdripar |v. t.| Fam. O mesmo que furtar. (Do rad. de
 gualdir )
 gualdrope |m.| (V. galdrope)
 gualtaria |f.| Des. Vida ou modos de valentão. (Do rad. de gualteira)
@@ -4043,7 +4043,7 @@ guetárdeas |f.| pl. Bot. Nome, dado por De-Candolle a uma famı́lia de plantas
 guete #,(guê)# |m.| Ant. Documento público, com que o judeu, convertido á fé christan, se desquitava da mulher, se esta por mais de um anno permanecia na fé judaica. (Relaciona-se com o al. wacht? Cp. fr. guet)
 guexa #,(guê)# |f.| Prov. O mesmo que quixa. O mesmo que gueixa.
 guexo #,(guê)# |m.| O mesmo que gueixo.
-guı́a |f.| Acto ou effeito de guiar. Pessôa, que guı́a. Documento, com que se recebem mercadorias ou encommendas. Relação ou documento, que acompanha a correspondência official. Vara, em que se apoia a vide empada. Cada uma das pennas maiores das asas das aves. Titulo de várias publicações didácticas. Roteiro. Cada uma das correias compridas, que, seguras pelo cocheiro, estão em communicação com os freios dos cavallos de tiro. Correia, afivelada na argola do cabeção de um cavallo, nos exercı́cios de picadeiro. Parelha de cavallos, que, á frente de outra ou outras, puxa com ellas uma carruagem. Os cabellos extremos do bigode. Peça, que dirige o movimento da haste do êmbolo em máquinas de vapor. Tábua, em que se enfia a cana do graminho. Cabo náutico, que serve de direcção aos objectos. Madeiro, que se põe no estaleiro, para servir de direcção ás escoras do navio. * |Prov.| Qualquer rebento ou ramo novo de uma árvore. * Bras. Espécie de enguia. * |Prov.| O mesmo que soga, com que se prendem bois. |M.| Homem, que guı́a, conduz ou dirige. Animal, que vai á frente de um rebanho, guiando-o ou abrindo-lhe caminho. * Fôlha, caderno, opúsculo ou livro, que contém indicações úteis, como as do horário dos combóios, de outros serviços de viação, do serviço postal, etc.
+guı́a |f.| Acto ou effeito de guiar. Pessôa, que guı́a. Documento, com que se recebem mercadorias ou encommendas. Relação ou documento, que acompanha a correspondência official. Vara, em que se apoia a vide empada. Cada uma das pennas maiores das asas das aves. Titulo de várias publicações didácticas. Roteiro. Cada uma das correias compridas, que, seguras pelo cocheiro, estão em communicação com os freios dos cavallos de tiro. Correia, afivelada na argola do cabeção de um cavallo, nos exercı́cios de picadeiro. Parelha de cavallos, que, á frente de outra ou outras, puxa com ellas uma carruagem. Os cabellos extremos do bigode. Peça, que dirige o movimento da haste do êmbolo em máquinas de vapor. Tábua, em que se enfia a cana do graminho. Cabo náutico, que serve de direcção aos objectos. Madeiro, que se põe no estaleiro, para servir de direcção ás escoras do navio. * Prov. Qualquer rebento ou ramo novo de uma árvore. * Bras. Espécie de enguia. * Prov. O mesmo que soga, com que se prendem bois. |M.| Homem, que guı́a, conduz ou dirige. Animal, que vai á frente de um rebanho, guiando-o ou abrindo-lhe caminho. * Fôlha, caderno, opúsculo ou livro, que contém indicações úteis, como as do horário dos combóios, de outros serviços de viação, do serviço postal, etc.
 guia-enxêrto |m.| Máquina, para fazer enxertos, inventada recentemente por Castelbon, francês.
 guiabelha #,(bê)# |f.| O mesmo que diabelha.
 guiaca |f.| O mesmo que ébano. (Por guaiacana, de guaiaco? Cp. guaiaco)
@@ -4059,17 +4059,17 @@ guianês #,(gùi )# |adj.| Relativo á Guiana. |M.| Habitante de Guiana.
 guiante |adj.| Des. Que guia.
 guião |m.| Pendão, estandarte, que vai á frente de algumas procissões ou irmandades. Estandarte, que ia na frente das tropas. Cavalleiro, que levava êsse estandarte. Sinal antigo que, no fim de uma linha de música, indicava a primeira nota da linha seguinte. (De guiar )
 guiaquilite |f.| Resina fóssil de Guaiaquil, (América do Sul).
-guiar #,(gùi )# |v. t.| Servir de guı́a a. Conduzir; dirigir. Fig. Aconselhar. Proteger. Ensinar; governar (cavallos). * |Prov.| minh. Compor, consertar. |V. i.| Ir. Navegar; mostrar direcção. (Do b. lat. guidare)
+guiar #,(gùi )# |v. t.| Servir de guı́a a. Conduzir; dirigir. Fig. Aconselhar. Proteger. Ensinar; governar (cavallos). * Prov. minh. Compor, consertar. |V. i.| Ir. Navegar; mostrar direcção. (Do b. lat. guidare)
 guibo |m.| Gı́r. Artelho.
-guicho |adj.| Prov. minh. e trasm. Muito vivo, buliçoso, (falando-se de crianças ou de certos animaes, como o rato). |Prov.| trasm. Seguro, direitinho, viçoso, (falando-se de um vegetal, transplantado de há pouco). (Cp. guisso)
+guicho |adj.| Prov. minh. e trasm. Muito vivo, buliçoso, (falando-se de crianças ou de certos animaes, como o rato). Prov. trasm. Seguro, direitinho, viçoso, (falando-se de um vegetal, transplantado de há pouco). (Cp. guisso)
 guicoxo |m.| Bras. Peixe, espécie de raia.
 guieira |f.| Constr. O mesmo que rincão do telhado. Pop. Vento brando mas frio. (De guieiro)
-guieiro |adj.| Que serve de guia ou que vai na frente. |M.| Aquelle que vai á frente, guiando, (falando-se especialmente de um animal que vai adeante de um rebanho). * O mesmo que aguieiro. |Prov.| minh. Rêgo, por onde se guia a água. * Constr. O mesmo que guieira. (De guiar )
+guieiro |adj.| Que serve de guia ou que vai na frente. |M.| Aquelle que vai á frente, guiando, (falando-se especialmente de um animal que vai adeante de um rebanho). * O mesmo que aguieiro. Prov. minh. Rêgo, por onde se guia a água. * Constr. O mesmo que guieira. (De guiar )
 guiga |f.| Barco estreito e comprido, próprio para regatas. (Do ingl. gig)
 guigó |m.| Grande árvore medicinal da ilha de San-Thomé.
 guilha |m.| Des. Colheita abundante de cereaes. Fig. Velhacaria; fraude. (Cast. guilla)
-guilherme |m.| Instrumento de carpinteiro, com que se fazem os filetes das portas, junturas das tábuas, frisos, etc. * |Prov.| minh. Pequena plaina de carpinteiro, para desbastar as esquinas dos recortes, feitos pelos chamados machosfêmeas. * Moéda de oiro holandesa, do valor de 3$825 reis proximamente. (De Guilherme, |n. p.| )
-guilho |m.| Espigão de ferro ou de pedra, que termina inferiormente o eixo do rodı́zio. * |Prov.| beir. Cunha de ferro, para fender a pedra. (Cp. ingl. guill )
+guilherme |m.| Instrumento de carpinteiro, com que se fazem os filetes das portas, junturas das tábuas, frisos, etc. * Prov. minh. Pequena plaina de carpinteiro, para desbastar as esquinas dos recortes, feitos pelos chamados machosfêmeas. * Moéda de oiro holandesa, do valor de 3$825 reis proximamente. (De Guilherme, |n. p.| )
+guilho |m.| Espigão de ferro ou de pedra, que termina inferiormente o eixo do rodı́zio. * Prov. beir. Cunha de ferro, para fender a pedra. (Cp. ingl. guill )
 guilhote |m.| Des. Homem, que faz a colheita de terrenos que não semeou. Fig. Velhaco. Defraudador. Cf. Eufrosina, (pról.). (De guilha)
 guilhotina |f.| Instrumento, com que se decepa a cabeça dos condemnados á pena de morte. (Fr. guillotine)
 guilhotinar |v. t.| Decepar com a guilhotina.
@@ -4091,9 +4091,9 @@ guincha |f.| Prov. trasm. Sachola.
 guinchada |f.| Série de guinchos; gritaria. (De guinchar )
 guinchado |m.| Série de guinchos; gritaria. (De guinchar )
 guinchante |adj.| Que dá guinchos. (De guinchar )
-guinchar |v. i.| Dar guinchos. |Fam.| Dar guinchos.
+guinchar |v. i.| Fam. Dar guinchos.
 guinchelro |m.| Prov. trasm. Pequeno galho de uma árvore. (Talvez por guicheiro, de guicho)
-guincho |m.| Som agudo e inarticulado do homem e de alguns animaes. Gaivão. Apparelho para levantar pesos. * |Prov.| minh. Ninho de guincho, ninho, em que a ave faz provisão de cibo. * Fig. Casa farta. Pechincha. (T. onom.) |Fam.| Som agudo e inarticulado do homem e de alguns animaes. Gaivão. Apparelho para levantar pesos. * |Prov.| minh. Ninho de guincho, ninho, em que a ave faz provisão de cibo. * Fig. Casa farta. Pechincha. (T. onom.)
+guincho |m.| Fam. Som agudo e inarticulado do homem e de alguns animaes. Gaivão. Apparelho para levantar pesos. * Prov. minh. Ninho de guincho, ninho, em que a ave faz provisão de cibo. * Fig. Casa farta. Pechincha. (T. onom.)
 guincho-da-taı́nha |f.| Nome vulgar de uma ave, (circaetus brachydatylus, Gould). Cf. Alb. Giraldes, Philos. Nat., III, 98.
 guinda |f.| Corda para guindar. * Ant. Náut. Altura dos mastros, mastaréus, etc. (De guindar )
 guinda-maina |f.| Ant. O arrear da bandeira de um navio, em sinal de cortesia ou despedida, para com outro navio. Acto de abater e elevar logo a bandeira. (De guindar + amainar )
@@ -4104,10 +4104,10 @@ guindar )
 guindamento |m.| Acto ou effeito de guindar.
 guindar |v. t.| Içar, levantar. Elevar, tornar empolado, pretensioso. Erguer a uma posição elevada. (Do ant. alt. al. windan)
 guindareza |f.| (V. guindalete)
-guindaste |m.| Apparelho, para levantar ou guindar grandes pesos, na descarga de navios. * |Prov.| Apparelho de tirar água dos poços; burra, cegonha. (Do rad. de guindar )
+guindaste |m.| Apparelho, para levantar ou guindar grandes pesos, na descarga de navios. * Prov. Apparelho de tirar água dos poços; burra, cegonha. (Do rad. de guindar )
 guinde |m.| Espécie de jarro asiático. (Do marata)
 guindola |f.| Apparelhos provisórios de uma embarcação desguita mastreada; barquilha. (Do rad. de guindar )
-guiné |f.| Bras. O mesmo que galinha-de-angola. |Prov.| alent. Lugar, onde sopra muito vento.
+guiné |f.| Bras. O mesmo que galinha-de-angola. Prov. alent. Lugar, onde sopra muito vento.
 guineense |m.| Grupo de lı́nguas indı́genas da Guiné.
 guineia |f.| Bras. Variedade de forragem.
 guines |m.| Gı́r. Cinco reis. Dinheiro. (Corr. de guinéu 1 )
@@ -4129,7 +4129,7 @@ guirantanga |f.| Espécie de grou do Brasil.
 guiraponga |f.| Bras. O mesmo que araponga.
 guiraru |m.| Variedade de melro do Brasil.
 guiratangema |m.| Pássaro conirostro da América.
-guirlanda |f.| Náut. Anel de corda nos cabos das vêrgas. Peças de madeira forte, para encruzar as peças verticaes e interiores da carcaça de um navio. * |Prov.| alent. O mesmo que loiceiro. (It. guirlanda)
+guirlanda |f.| Náut. Anel de corda nos cabos das vêrgas. Peças de madeira forte, para encruzar as peças verticaes e interiores da carcaça de um navio. * Prov. alent. O mesmo que loiceiro. (It. guirlanda)
 guirnalda |f.| O mesmo que guirlanda. (T. cast.)
 guisa #,1 # |f.| P. us. Maneira. Feição. * |Loc. adv.| Ant. Á
 guisa, completamente. Como deve sêr. Dizia-se que um cavalleiro ou peão estava armado á guisa, quando estava perfeitamente armado, sem nada lhe faltar. E armado á meia guisa, quando estava armado á maneira commum, mas não bem. (Do ant. alt. al. wisa)
@@ -4153,11 +4153,11 @@ guitarrilha |f.| Pequena guitarra. Cf. Junqueiro, |M.| de D. João, 175, 204, 20
 guitarrista |m.| Aquelle que toca guitarra ou ensina a tocar guitarra.
 guititiroba |f.| Planta sapotácea do Brasil, (lucena rivicola).
 guiunga |f.| Árvore angolense de Caconda.
-guixo |adj.| Prov. minh. e trasm. Muito vivo, buliçoso, (falando-se de crianças ou de certos animaes, como o rato). |Prov.| trasm. Seguro, direitinho, viçoso, (falando-se de um vegetal, transplantado de há pouco). (Cp. guisso)
+guixo |adj.| Prov. minh. e trasm. Muito vivo, buliçoso, (falando-se de crianças ou de certos animaes, como o rato). Prov. trasm. Seguro, direitinho, viçoso, (falando-se de um vegetal, transplantado de há pouco). (Cp. guisso)
 guizalhada |f.| Som continuado de guizos. Cf. Th. Ribeiro, Jornadas, II, 109. (De guizalhar )
 guizalhar |v. i.| Agitar guizos, fazendo-os soar.
 guizeira |f.| Correia, a que se prendem os guizos, em volta do pescoço do animal. (De guizo)
-guizo |m.| Pequeno globo de metal, que produz ruı́do, ao agitar-se com os pequeninos corpos que contém. * Pl. |Prov.| dur. Pop. Testı́culos.
+guizo |m.| Pequeno globo de metal, que produz ruı́do, ao agitar-se com os pequeninos corpos que contém. * Pl. Prov. dur. Pop. Testı́culos.
 gujarás |m.| pl. Tribo de aborı́genes do Pará.
 gula |f.| O mesmo que glutonaria. Grande amor a bôas iguarias. Gulodice. Moldura, em fórma de S, na cornija ou cimalha. Espécie de plaina. Ant. Goéla. (Lat. gula)
 gula-mocha |f.| Cepo de carpintaria, com que se fazem molduras, em fórma da gula sem filete.
@@ -4224,7 +4224,7 @@ gurijuba |m.| O mesmo que gurejuba.
 gurindiba |f.| Planta do Brasil, (traganum scariosus).
 guriri |m.| Bras. Espécie de palmeira. (T. tupi)
 gurita #,1 # |f.| Bras. do sertão. Égua velha.
-gurita #,2 # |f.| Pop. O mesmo que guarita. |Prov.| alent. Marco da triangulação geodésica.
+gurita #,2 # |f.| Pop. O mesmo que guarita. Prov. alent. Marco da triangulação geodésica.
 guriteiro |m.| Tabulageiro; aquelle que tem casa de jôgo. Cf. Tolentino, Bilhar. (De gurita 2 )
 gurma |f.| Doença dos potros, durante a dentição. Cp.
 gosma. (Fr. gourme)
