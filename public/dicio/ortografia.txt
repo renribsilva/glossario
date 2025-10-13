@@ -1,5 +1,8 @@
-ll 
-ff 
-cc
-mm
-ph 
+//REGRAS PARA A LETRA H
+ch    qu    [ei]
+ch    c  
+ph    f
+rh    r
+th    t
+
+//REGRAS PARA CONSOANTES MUDAS
