@@ -712,7 +712,7 @@ abrachiocéphalo #,(qui )# |m.| Terat. Monstro, sem braços nem cabeça. (Do gr.
 abraço |m.| Acto de abraçar. Gavinha. * Archit. Entrelaçamento de folhagens lavradas, á volta de uma columna.
 abraêmo |m.| Antiga moéda de Gôa.
 abrahâmico |adj.| Relativo ao patriarcha hebreu Abrahão.
-abrancaçado |adj.| Prov. minh. O mesmo que esbranquiçado. Cf. Gaz. das Aldeias, 705.11
+abrancaçado |adj.| Prov. minh. O mesmo que esbranquiçado. Cf. Gaz. das Aldeias, 705.
 abrandamento |m.| Acto de abrandar.
 abrandar |v. t.| Tornar brando. Fig. Suavizar: abrandar mágoas. Serenar. |V. i.| Tornar-se brando, menos intenso: o calor abrandou.
 abrandecer |v. t.| (V. embrandecer )
@@ -753,8 +753,7 @@ abrenúncio! |interj.| Ápage! Deus me livre! (Do lat. ab + renuntio)
 abreptı́cio #,(ré)# |adj.| Exaltado; arrebatado. (Do lat. abreptus)
 abretanhado |adj.| Semelhante ao pano chamado bretanha.
 abreu |m.| Bras. Espécie de abelha do Piauı́.
-abrevar |v. t.| Ant. Matar a sêde a. Cf. Filinto, XIV, 139;
-abrogador #,(ro)# Usque, Tribulações; Castilho, Fastos, I, 139, e Geórgicas, 157. * |V. i.| Dessedentar-se. Cf. Usque, |loc.| cit. |f.| 29, v.º (Fr. abreuver )
+abrevar |v. t.| Ant. Matar a sêde a. Cf. Filinto, XIV, 139; Usque, Tribulações; Castilho, Fastos, I, 139, e Geórgicas, 157. * |V. i.| Dessedentar-se. Cf. Usque, |loc.| cit. |f.| 29, v.º (Fr. abreuver )
 abreviação |f.| Acto ou effeito de abreviar.
 abreviadamente |adj.| De modo abreviado. Em resumo.
 abreviado |adj.| Reduzido a epitome; resumido: história
@@ -794,7 +793,7 @@ abrochador |m.| Aquelle ou aquillo que abrocha.
 abrochadura |f.| Acto ou effeito de abrochar.
 abrochar |v. t.| Lidar com broche ou com brocha. Abotoar. Apertar.
 abrogação #,(ro)# |f.| Acto de abrogar. (Lat. abrogatio)
-abrogador #,(ro)# |m.| O que abroga. (Lat. abrogator )abrogar, (ro)
+abrogador #,(ro)# |m.| O que abroga. (Lat. abrogator )
 abrogar #,(ro)# |v. t.| Annullar. Supprimı́r. Pôr fóra do uso. Derogar: abrogar uma lei. (Lat. abrogare)
 abrogativo #,(ro)# |adj.| Que abroga, ou que produz abrogação.
 abrogatório #,(ro)# |adj.| Que abroga, ou que produz abrogação.
@@ -877,8 +876,7 @@ absı́ntico |adj.| Diz-se do ácido que se descobriu no absintho.
 absintina |f.| Principio amargo do absintho.
 absı́ntio |m.| Planta vivaz, de sabor amargo e aromático. Losna. (Lat. absinthium)
 absintismo |m.| Doença, causada pelo abuso do absintho.
-absintite |m.| Vinho absinthado. Vinho de losna. (Lat.
-absinthites)13
+absintite |m.| Vinho absinthado. Vinho de losna. (Lat. absinthites)
 absinto |m.| Bebida alcoólica e amarga, preparada com folhas e botões de várias espécies de losna e de outras plantas. (Fórma falsa, tirada do fr. absinthe. A fórma portuguesa é absı́nthio. V. absı́nthio)
 absogra |fem.| De absogro.
 absogro #,(sô)# |m.| Bisavô do marido ou da mulher em relação ao outro cônjuge. (Do lat. absocer )
@@ -915,7 +913,6 @@ abstenção |f.| Acto ou effeito de abster. (Lat. abstentio)
 abstencionista |m.| Aquelle que se abstém (de votar em eleições); partidário do principio da abstenção. Cf. A. Cândido, Phil. Pol., 118.
 abster |v. t.| Privar de; desviar. |V. p.| Conter-se, reprimir-se:
 abster-se de falar. Ter moderação, sobriedade. Não tomar parte numa deliberação. * |V. i.| Privar-se; não intervir. Cf. Rui Barbosa, Réplica, II, 160. (Do lat. abstinere)
-abundante
 abstergência |f.| Qualidade de abstergente.
 abstergente |adj.| Que absterge. (Lat. abstergens)
 absterger |v. t.| Limpar, lavar. (Lat. abstergere)
@@ -956,7 +953,7 @@ abuna |m.| Bras. Nome, que os Índios da América davam
 aos jesuitas e aos padres em geral.
 abundamento |m.| Ant. O mesmo que abundância.
 abundância |f.| Qualidade de abundante. Grande quantidade. Riqueza: viver na abundância. (Lat. abundantia)
-abundante |adj.| Que abunda, que tem grande cópia. Rico:abundantemente paı́s abundante. Fig. Opulento em termos e phrases: estilo abundante.
+abundante |adj.| Que abunda, que tem grande cópia. Rico: paı́s abundante. Fig. Opulento em termos e phrases: estilo abundante.
 abundantemente |adv.| De modo abundante, com abundância.
 abundar |v. i.| Têr ou existir, em grande quantidade: a miséria abunda nas grandes cidades. Trasbordar. Estar cheio, rico. Affluir. |Fam.| Abundar na opinião de alguém, sêr da mesma opinião. (Lat. abundare)
 abundidade |f.| O mesmo que abundeza. Cf. Camillo, Curso de Liter., 105.
@@ -1031,8 +1028,7 @@ acachuchar |v. t.| Prov. trasm. Matar (alguém),
 amarfanhando-o, sem o deixar piar.
 acácia |f.| Árvore ornamental, da |fam.| das leguminosas. (Lat. acacia)
 acácia-bastarda |f.| Espécie de acácia, (robinia pseudoacacia).
-acácia-dos-alemães |f.| Espécie de abrunheiro bravo, (pru-15
-acalento nus spinosa, Lin.).
+acácia-dos-alemães |f.| Espécie de abrunheiro bravo, (pru nus spinosa, Lin.).
 acacifar |v. t.| Meter em cacifo.
 açacu |m.| Árvore euphorbiácea das margens do Amazonas, (ura brasiliensis).
 acadar #,1 # |m.| T. da Índia Port. Aquelle que recebeu ou frue uma acca.
@@ -1111,7 +1107,7 @@ acalefos |m.| pl. Zool. Classe de zoóphytos, a que pertence
 a alforreca. Designação antiga dos celenterados. (Do gr. akalephe)
 acalentador |adj.| Que acalenta. Cf. J. Diniz, Morgadinha, 172. (De acalentar )
 acalentar |v. t.| Aquecer nos braços, aconchegando ao peito. Embalar. Fig. Amimar. Tranquillizar. Lisonjear. (Do lat. calens, calentis)
-acalento |m.| Acto de acalentar.acalephologia
+acalento |m.| Acto de acalentar.
 acalephologia |f.| Parte da Zoologia, que trata dos acalephos.
 acalephos |m.| pl. Zool. Classe de zoóphytos, a que pertence
 a alforreca. Designação antiga dos celenterados. (Do gr. akalephe)
@@ -1185,7 +1181,7 @@ acanhonear |v. t.| Disparar canhões contra. Bombardear.
 acanhotado |adj.| Gı́r. O mesmo que triste. * Prov. minh. Tôsco, grosseiro: bengala acanhotada. Um tanto estúpido;
 apalermado: indivı́duo acanhotado. (De canhoto)
 acanonicamente |adv.| De modo acanónico.
-acanónico |adj.| Contrário aos cânones ou ao Direito canónico.17
+acanónico |adj.| Contrário aos cânones ou ao Direito canónico.
 acanonista |m.| O transgressor dos cânones.
 acantábalo |m.| Instrumento cirúrgico, para tirar esquı́rolas de ossos ou corpos estranhos, introduzidos nos órgãos. (Do gr. akantha + ballo)
 acantáceas |f.| pl. Familia de plantas, que tem por typo o acantho.
@@ -1216,8 +1212,7 @@ acantia |f.| Insecto hemı́ptero, de que o percevejo é uma espécie. (Do gr. a
 acantião |m.| Gênero de mamı́feros espinhosos, a que pertence o ouriço. (Do gr. akantha)
 acanto |m.| Gênero de plantas, vulgarmente conhecido por erva gigante. Ornato de architectura, que representa folhas daquella planta. (Gr. akanthos)
 acantoameato |m.| Acto ou effeito de acantoar.
-acantoar |v. t.| Pôr a um canto. Occultar. Separar; apartar.
-acapu Desprezar.
+acantoar |v. t.| Pôr a um canto. Occultar. Separar; apartar. Desprezar.
 acantocárpio |adj.| Diz-se da planta, cujos frutos são cobertos de espinhos. (Do gr. akanthos + carpos)
 acantocéfalos |m.| pl. Vermes intestinaes, cuja cabeça é
 armada de aguilhão. (Do gr. akantha + kephale)
@@ -1249,7 +1244,7 @@ acapitular |v. t.| Dividir em capitulos. Admoestar ou censurar em capitulo.
 acapna |f.| Lenha sêca, que não deita fumo. (Do gr. akapnon)
 acapnia |f.| Med. Deminuição do ácido carbónico, contido no sangue. (Do gr. a priv. + kapnos)
 acapno |adj.| Qualificação do melhor mel, que se extrái da colmeia sem expulsar as abelhas por meio de fumo. (Gr. akapnos)
-acapu |m.| Árvore leguminosa da América.acapu-rana
+acapu |m.| Árvore leguminosa da América.
 acapu-rana |m.| Árvore do norte do Brasil, bôa para construcções.
 açar |suf.| (designativo de aumento ou frequência)
 acará #,1 # |m.| Bras. O mesmo que acarajé.
@@ -1330,8 +1325,7 @@ acarvar |v. t.| Ant. Affligir, angustiar. (Metáth. de acravar ?)
 acas |m.| pl. Povos da África central.
 acasacado |adj.| Semelhante á casaca.
 acasalar |v. t.| Reunir macho e fêmea em casal, para criação. Reunir, emparelhar.
-acascarrilhado |adj.| Diz-se do jôgo, em que se toma a cascarra ou algumas cartas della.19
-accedente
+acascarrilhado |adj.| Diz-se do jôgo, em que se toma a cascarra ou algumas cartas della.
 acasear |v. t.| (e der.) O mesmo que casear, etc.
 acasmurrado |adj.| Que tem modos de casmurro. Cf. Filinto, III, 46.
 acaso |m.| Eventualidade, caso fortuito. |Adv.| Casualmente, eventualmente. Porventura. (De caso)
@@ -1407,7 +1401,7 @@ accadar |m.| T. da Índia Port. Aquelle que recebeu ou frue uma acca.
 acção |f.| Modo de actuar. Resultado de uma fôrça phýsica ou moral: a acção da vontade. Movimento. Successo: uma
 acção memorável. Energia traduzida em actos: homem de
 acção. Combate: a acção do Bussaco. Assumpto: a acção do poema. Processo forense: uma acção commercial. Tı́tulo, que se passa aos que fazem parte de uma Companhia ou Sociedade commercial ou industrial. |Gram.| O que um verbo exprime. (Do lat. actio)
-accedente |adj.| Que accede. (Lat. accedens)acceder
+accedente |adj.| Que accede. (Lat. accedens)
 acceder |v. i.| Annuir, acquiescer. Conformar-se. (Lat. accedere)
 acceitabilidade |f.| Qualidade daquillo que é acceitável.
 acceitação |f.| Acto ou effeito de acceitar. Applauso. Bemquerença.
@@ -1483,7 +1477,7 @@ acclamação |f.| Acto de acclamar. (Lat. acclamatio)
 acclamador |m.| O que acclama. (De acclamar )
 acclamar |v. t.| Applaudir ou approvar, bradando. Saudar. Proclamar, eleger por acclamação. (Lat. acclamare)
 acclive |m.| Ladeira, declive. |Adj.| Íngreme. (Lat. acclivis)
-accommodação |f.| Acto ou effeito de accommodar.21
+accommodação |f.| Acto ou effeito de accommodar.
 accommodadamente |adv.| De modo accommodado.
 accommodadiço |adj.| O mesmo que accommodatı́cio.
 accommodamento |m.| (V. accommodação)
@@ -1522,7 +1516,6 @@ accúmulo |m.| Neol. O mesmo que accumulação.
 accuradamente |adv.| Cuidadosamente.
 accurar |v. t.| Tratar com cuidado, com desvelo. (Lat. accurare)
 accusação |f.| Acto ou effeito de accusar. (Lat. Accusatio)
-acefalostomia
 accusado |m.| Aquelle a quem se imputa delito ou crime. (De accusar )
 accusador |m.| O que accusa. (Lat. accusator ) |adj.| O que accusa. (Lat. accusator )
 accusamento |m.| O mesmo que accusação.
