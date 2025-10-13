@@ -153,7 +153,7 @@ zarabona |f.| T. da Ilha das Flôres. O mesmo que relojoeiro. (De Zerbone, |n. p
 zaracoteia |f.| (V. zaragatôa) (Us. por Camillo)
 zaragalhada |f.| Pop. Alvorôto, o mesmo que turbamulta.
 zaragata |f.| Pop. O mesmo que zaragalhada. Desordem; algazarra; confusão. (Cast. zaragata)
-zaragatôa |f.| Nome de duas plantas plantagı́neas. Pequena esponja, na extremidade de um pauzinho, para applicar medicamentos na garganta ou fossas nasaes. Pincel de fios de linho, para o mesmo fim. Ext. Medicamento, que se applica com êstes objectos. (Cast. zaragatona)
+zaragatôa |f.| Nome de duas plantas plantagı́neas. Pequena esponja, na extremidade de um pauzinho, para applicar medicamentos na garganta ou fossas nasaes. Pincel de fios de linho, para o mesmo fim. |Ext.| Medicamento, que se applica com êstes objectos. (Cast. zaragatona)
 zaragota #,(gô)# |f.| P. us. O mesmo que zaragatôa, planta.
 zarandalha |f.| Ant. Ninharia; bagatela: “...trazendo os Ethiopes frutos e carnes... que os nossos resgatavam com fatos de mui vil preço e tenuissimas zarandalhas...” Filinto, D. Man., I, 67. (Cast. zarandajas)
 zaranguilhar |v. i.| Prov. minh. O mesmo que zangarilhar.
@@ -274,7 +274,7 @@ zerechia |f.| Prov. beir. O zumbido, que acompanha o vôo rápido das abêlhas. 
 zerenamora |f.| Prov. trasm. O mesmo que bebedeira.
 zeribanda |f.| (V. sarabanda)
 zeribando |m.| Ant. Azorrague. (Cp. zeribanda)
-zero |m.| Cifra. Algarismo em fórma de 0, que por si não tem valor algum, mas que, á direita de outros números, faz que êstes tenham um valor déz vezes maior. Ext. Nada. Ponto, em que se começam a contar os graus. Ponto que, nos thermómetros, corresponde á temperatura do gêlo que
+zero |m.| Cifra. Algarismo em fórma de 0, que por si não tem valor algum, mas que, á direita de outros números, faz que êstes tenham um valor déz vezes maior. |Ext.| Nada. Ponto, em que se começam a contar os graus. Ponto que, nos thermómetros, corresponde á temperatura do gêlo que
 zigósporo se derrete. Fig. Pessôa ou coisa, sem valor. (It. zero)
 zerumba |f.| Uma das drogarias que recebı́amos da Índia, e que provavelmente é o mesmo que gengibre. Cf. Not. para a Hist. e Geogr., II, 393.
 zerumbete #,(bê)# |m.| Gengibre silvestre. (De zerumba)
@@ -627,7 +627,7 @@ zorato |adj.| Prov. O mesmo que zorate.
 zorilha |m.| Mammı́fero mustelı́deo, (mustella zorilla).
 zorlitho |m.| Espécie de veado, (cervus capreolus), que é o corço vulgar.
 zorlito |m.| Espécie de veado, (cervus capreolus), que é o corço vulgar.
-zornão |adj.| Prov. trasm. Diz-se do burro, que zurra muito, sobretudo quando avista fêmea. Ext. Femeeiro. (De zornar )
+zornão |adj.| Prov. trasm. Diz-se do burro, que zurra muito, sobretudo quando avista fêmea. |Ext.| Femeeiro. (De zornar )
 zornar |v. i.| Prov. trasm. O mesmo que zurrar 1 . (Talvez misto de zurrar e ornear )
 zorô |m.| Bras. do Rio. Iguaria de camarões e quiabo.
 zoroastrianismo |m.| O mesmo que zoroastrismo.
@@ -661,7 +661,7 @@ zotismo |m.| Estado ou condição de zote.
 zouca |f.| Gı́r. de pedreiros. Coisa. (Metáth. de couza = cousa, coisa)
 zoupar |v. t.| Prov. minh. (V. zupar )
 zoupeira |f.| T. de Sabugal. O mesmo que rameira.
-zoupeiro |adj.| Trôpego. Ext. Acanhado. Indolente; mandrião. (De zoupo)
+zoupeiro |adj.| Trôpego. |Ext.| Acanhado. Indolente; mandrião. (De zoupo)
 zoupo |m.| O mesmo que zopo.
 zoura |f.| T. de Moncorvo. O mesmo que diarreia.2107
 zourar |v. i.| T. de Moncorvo. Têr diarreia.

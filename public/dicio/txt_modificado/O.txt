@@ -1,4 +1,4 @@
-o #,1 (ó)# |m.| Décima quinta letra do alphabeto português. Ext. Cı́rculo, anel, qualquer objecto de feitio análogo ao daquella letra. |Abrev.| de Oéste. Figura numérica, que se chama cifra ou zero. Em música, designa o orifı́cio dos instrumentos de sôpro, ou a corda que, em dado momento, não funcciona. * Como letra numeral, significou 11. * Na música também era sinal para se abrir inteiramente a bôca.
+o #,1 (ó)# |m.| Décima quinta letra do alphabeto português. |Ext.| Cı́rculo, anel, qualquer objecto de feitio análogo ao daquella letra. |Abrev.| de Oéste. Figura numérica, que se chama cifra ou zero. Em música, designa o orifı́cio dos instrumentos de sôpro, ou a corda que, em dado momento, não funcciona. * Como letra numeral, significou 11. * Na música também era sinal para se abrir inteiramente a bôca.
 o #,2 (u)# |Art. def.| , |m.| , sing. (Ant. lo, do lat. illum)
 o #,3 (u)# |pron.| demonstr., |m.| , sing. (que se emprega em lugar de um substantivo ou de uma phrase considerada substantivamente)
 ó #,1 # |interj.| O mesmo que oh.
@@ -1119,7 +1119,7 @@ oira #,2 # |f.| Bras. Larva de um grande carapaná, que penetra na pelle dos hom
 oirada |adj.| Prov. beir. Diz-se da rapariga enfeitada com |f.| Prov. beir. Diz-se da rapariga enfeitada com
 objectos de oiro.
 oirado |adj.| Que tem oira. (De oirar )
-oirama |f.| Bras. de Minas. Dinheiro em oiro. Ext. Dinheiro.
+oirama |f.| Bras. de Minas. Dinheiro em oiro. |Ext.| Dinheiro.
 oirana |f.| Bras. Arbusto, semelhante ao salgueiro.
 oirar #,1 # |v. i.| Têr tonturas de cabeça. (De oira)
 oirar #,2 # |v. t.| Dotar ou prendar com oiro (a noiva). (De oiro)
@@ -1834,7 +1834,7 @@ onotheráceas |f.| pl. O mesmo que onagrárias. (De onotheráceo)
 onotheráceo |adj.| O mesmo que onagrário. (De onothera)
 onquı́dia |f.| Bot. Parte interna do botão dos vegetaes ou o seu núcleo vital interno.
 onquı́dio |m.| Gênero de moluscos gasterópodes.
-ontem |adv.| No dia immediatamente anterior ao actual ou ao de hoje. Ext. No tempo ou época que precedeu immediatamente a época ou o tempo actual. No tempo que passou, mas cuja recordação está presente.–A orthogr. hontem, embora usada, não tem justificação scientı́fica. (Do lat. ante ou, melhor, de á + noute > anoute > anonte > aonte > onte > ontem)
+ontem |adv.| No dia immediatamente anterior ao actual ou ao de hoje. |Ext.| No tempo ou época que precedeu immediatamente a época ou o tempo actual. No tempo que passou, mas cuja recordação está presente.–A orthogr. hontem, embora usada, não tem justificação scientı́fica. (Do lat. ante ou, melhor, de á + noute > anoute > anonte > aonte > onte > ontem)
 ontófago |m.| Gênero de insectos coleópteros pentâmeros. (Do gr. on, ontos + phagein)
 ontogênese |f.| Producção de seres orgânicos. Cf. Latino,
 Or. da Corôa, CLXIV. (Do gr. ontos + genesis)
@@ -2326,7 +2326,7 @@ optimacia |f.| Conjunto ou reunião de optimates. Os optimates. A aristocracia. 
 optimamente |adv.| De modo óptimo; excellentemente.
 optimates |m.| pl. Fig. Magnates; grandes de uma nação. (Lat. optimates)
 optimismo |m.| Systema philosóphico dos que sustentam sêr
-o mundo o melhor dos mundos possı́veis, ou que Deus fez as coisas, segundo a perfeição das suas ideias. * Philosophia ou systema dos que têm fé no progresso moral e material da humanidade, na melhoria das condições actuaes, na evolução social para o bem e para óptimo. Ext. Tendência para achar tudo bem, mormente em polı́tica. (De óptimo)
+o mundo o melhor dos mundos possı́veis, ou que Deus fez as coisas, segundo a perfeição das suas ideias. * Philosophia ou systema dos que têm fé no progresso moral e material da humanidade, na melhoria das condições actuaes, na evolução social para o bem e para óptimo. |Ext.| Tendência para achar tudo bem, mormente em polı́tica. (De óptimo)
 optimista |adj.| Relativo ao optimismo. Partidário do optimismo. |M.| Pessôa partidária do optimismo. Pessôa, que tudo acha bom ou que, segundo a expressão familiar, vê tudo côr de rosa. (De óptimo) |f.| Pessôa partidária do optimismo. Pessôa, que tudo acha bom ou que, segundo a expressão familiar, vê tudo côr de rosa. (De óptimo)
 óptimo |adj.| Muito bom; excellente; magnı́fico. (Lat. optimus)
 optómetro |m.| Instrumento, para determinar os limites da visão distinta e o grau de astygmatismo dos olhos. (Do gr.
@@ -2907,7 +2907,7 @@ orthódoro |m.| Antiga medida linear entre os Gregos, equivalente a onze dedos. 
 orthodoxamente #,(csa)# |adv.| De modo orthodoxo. Com
 orthodoxia; segundo a doutrina que se considera orthodoxa.
 orthodoxia #,(csi )# |f.| Qualidade do que é orthodoxo. Doutrina religiosa, considerada como verdadeira. Conformidade com essa doutrina. Conformidade com a doutrina da Igreja.
-orthodoxo #,(cso)# |adj.| Relativo á orthodoxia. Que está de acôrdo com certos systemas ou com ideias geralmente recebidas. |M.| Indivı́duo que segue a doutrina religiosa, considerada como verdadeira. * Ext. Aquelle que segue qualquer doutrina estabelecida. (Lat. orthodoxus)
+orthodoxo #,(cso)# |adj.| Relativo á orthodoxia. Que está de acôrdo com certos systemas ou com ideias geralmente recebidas. |M.| Indivı́duo que segue a doutrina religiosa, considerada como verdadeira. * |Ext.| Aquelle que segue qualquer doutrina estabelecida. (Lat. orthodoxus)
 orthodoxographia #,(cso)# |f.| Tratado á cêrca dos dogmas cathólicos. (Do gr. orthos + doxa + graphein)
 orthodoxográphico #,(cso)# |adj.| Relativo á orthodoxographia.
 orthodoxógrapho #,(csó)# |M.| Aquelle que escreve sôbre a orthodoxographia.
@@ -3000,7 +3000,7 @@ ortódoro |m.| Antiga medida linear entre os Gregos, equivalente a onze dedos. (
 ortodoxamente #,(csa)# |adv.| De modo ortodoxo. Com
 ortodoxia; segundo a doutrina que se considera ortodoxa.
 ortodoxia #,(csi )# |f.| Qualidade do que é ortodoxo. Doutrina religiosa, considerada como verdadeira. Conformidade com essa doutrina. Conformidade com a doutrina da Igreja.
-ortodoxo #,(cso)# |adj.| Relativo á ortodoxia. Que está de acôrdo com certos sistemas ou com ideias geralmente recebidas. |M.| Indivı́duo que segue a doutrina religiosa, considerada como verdadeira. * Ext. Aquele que segue qualquer doutrina estabelecida. (Lat. orthodoxus)ortodoxografia, (cso)
+ortodoxo #,(cso)# |adj.| Relativo á ortodoxia. Que está de acôrdo com certos sistemas ou com ideias geralmente recebidas. |M.| Indivı́duo que segue a doutrina religiosa, considerada como verdadeira. * |Ext.| Aquele que segue qualquer doutrina estabelecida. (Lat. orthodoxus)ortodoxografia, (cso)
 ortodoxografia #,(cso)# |f.| Tratado á cêrca dos dogmas católicos. (Do gr. orthos + doxa + graphein)
 ortodoxográfico #,(cso)# |adj.| Relativo á ortodoxografia.
 ortodoxógrafo #,(csó)# |M.| Aquele que escreve sôbre a ortodoxogrfia.
@@ -3079,7 +3079,7 @@ orvalhada |f.| Orvalho matinal; geada. (De orvalho)
 orvalhar |v. t.| Humedecer com orvalho. Borrifar com qualquer lı́quido. Fig. Afagar; dar alegria a. |V. i.| Cair orvalho. Fig. Chuviscar.
 orvalheira |f.| T. de Setúbal. Chuva ligeira, nas madrugadas de verão. Cf. Rev. Tradição, V, 11.
 orvalhinha |f.| Planta droserácea, (drosera rotundifolia). O mesmo que rosella. (De orvalho)
-orvalho |m.| Camada de humidade, que, sob a fórma de pequenas gotas, se deposita, durante a noite, sôbre os corpos expostos ao ar livre, quando o céu está limpo. Ext. Gotas, semelhantes ao orvalho. Poét. Aquillo que alegra ou consola, bálsamo. * T. da Bairrada. Grangeia ou pequenos confeitos, com que se adornam certos doces ou iguarias. (Do lat. roralis, de ros, roris?)
+orvalho |m.| Camada de humidade, que, sob a fórma de pequenas gotas, se deposita, durante a noite, sôbre os corpos expostos ao ar livre, quando o céu está limpo. |Ext.| Gotas, semelhantes ao orvalho. Poét. Aquillo que alegra ou consola, bálsamo. * T. da Bairrada. Grangeia ou pequenos confeitos, com que se adornam certos doces ou iguarias. (Do lat. roralis, de ros, roris?)
 orvalho-do-sol |m.| T. de Odemira. Planta, (drosophyllum lusitanicum, Lk.), mais conhecida por pinheiro-baboso.
 orvalhoso |adj.| Em que há orvalho; que deita orvalho.
 orveto #,(vê)# |m.| Gênero de reptı́s ophı́dios, que fórma a transição das serpentes para os lagartos, e cuja espécie mais vulgar na Europa é conhecida por serpente-de-vidro.
@@ -3167,7 +3167,7 @@ osma |f.| Chusma? malta?: “...beberete para os da osma”. Aulegrafia, 21.
 osmandi |m.| Lı́ngua official da Turquia; o turco.
 osmânico |m.| O mesmo ou melhor que osmandi.
 osmanil |m.| (V. osmandi)
-osmanli |m.| Membro da actual dynastia turca. Pl. Ext. Os Turcos.
+osmanli |m.| Membro da actual dynastia turca. Pl. |Ext.| Os Turcos.
 osmar |v. t.| Ant. O mesmo que esmar.
 osmazoma |f.| Chı́m. Mescla de substâncias, que existe na carne e nalguns cogumelos, e que se encontra no caldo, na proporção de uma parte por sete de gelatina. Cf. Camillo, Narcót., I, 265. (Do gr. osme + zomos)
 osmazómeo |adj.| Que contém osmazoma.
@@ -3485,7 +3485,7 @@ oura |f.| Perturbação da cabeça, produzida por fraqueza ou debilidade. (Do la
 ourada |adj.| Prov. beir. Diz-se da rapariga enfeitada com |f.| Prov. beir. Diz-se da rapariga enfeitada com
 objectos de ouro.
 ourado |adj.| Que tem oura. (De ourar )
-ourama |f.| Bras. de Minas. Dinheiro em ouro. Ext. Dinheiro.
+ourama |f.| Bras. de Minas. Dinheiro em ouro. |Ext.| Dinheiro.
 ourar #,1 # |v. i.| Têr tonturas de cabeça. (De oura)
 ourar #,2 # |v. t.| Dotar ou prendar com ouro (a noiva). (De ouro)
 oureça |f.| Prov. trasm. O mesmo que aragem. (por aureça, de aura)

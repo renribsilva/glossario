@@ -529,7 +529,7 @@ ramela |f.| (e der.) O mesmo que remela: “mulheres encapuchadas, muito ramelos
 ramentos |m.| pl. Ant. Partı́culas; fragmentos. (Lat. ramentum)
 râmeo |adj.| Bot. Que nasce nos ramos das plantas, (falandose de raı́zes, flôres, etc.). (Lat. rameus)
 ramerraneiro |adj.| Relativo ao ramerrão. Opposto á theoria do progresso. Commum, vulgar. Cf. Camillo, Cav. em Ruı́nas, 201.
-ramerrão |m.| Ruı́do successivo e monótono. Ext. Uso constante, rotina. (Or. ind., seg. G. Viana)
+ramerrão |m.| Ruı́do successivo e monótono. |Ext.| Uso constante, rotina. (Or. ind., seg. G. Viana)
 rami |m.| Planta urticácea, (urtica utilis).
 ramificação |f.| Acto ou effeito de ramificar. Cada um dos
 ramos, que partem do caule. Conjunto dêsses ramos. Fig. Propagação, diffusão.
@@ -549,7 +549,7 @@ ramno |m.| Nome cientı́fico do sanguinheiro. (Lat. rhamnus)
 ramnoı́deas |f.| pl. Ordem de plantas, que contém as ramnáceas e outras. (Do gr. rhamnos + eidos)
 ramnoxantina |f.| Substância, que se encontra na casca e sementes de alguns ramnos. (Do gr. rhamnos + xanthos)
 ramo |m.| Bot. Divisão e subdivisão de um tronco, ou de um caule, ou braço que irrompe de um tronco ou caule.
-Ramalhete. Ext. Divisão, ramificação. Grupo ou lote de coisas arrematadas em leilão. Ornamento. Cada uma das partes ou panos que constituem um lençol. * Cada um dos lanços da urdideira. Cada uma das famı́licas procedentes do mesmo tronco. Descendente. Descendência. Ataque de doença: um ramo de estupor. Magote. |Loc. fam.| Não pôr pé em ramo verde, não têr momento de descanso, não têr meios de acção. * Ramo de ar, doença repentina, produzida por corrente de ar. * Ramo de estupor, ataque de paralysia parcial, que affecta especialmente a bôca e os olhos. Pl. Festividade religiosa, em commemoração da entrada de Christo em Jerusalém. (Lat. ramus)
+Ramalhete. |Ext.| Divisão, ramificação. Grupo ou lote de coisas arrematadas em leilão. Ornamento. Cada uma das partes ou panos que constituem um lençol. * Cada um dos lanços da urdideira. Cada uma das famı́licas procedentes do mesmo tronco. Descendente. Descendência. Ataque de doença: um ramo de estupor. Magote. |Loc. fam.| Não pôr pé em ramo verde, não têr momento de descanso, não têr meios de acção. * Ramo de ar, doença repentina, produzida por corrente de ar. * Ramo de estupor, ataque de paralysia parcial, que affecta especialmente a bôca e os olhos. Pl. Festividade religiosa, em commemoração da entrada de Christo em Jerusalém. (Lat. ramus)
 râmola |f.| Série de quadros de madeira ou de ferro, guarnecidos de escápulas, onde se estendem as peças de estôfo para secarem ao sol, nas fábricas de lanifı́cios.
 ramonadeira |f.| Instrumento de ferro, para desbastar pelles. (Do fr. ramoner )
 ramónia |f.| Espécie de videira do Brasil.
@@ -664,7 +664,7 @@ rapadouro |m.| Instrumento, com que se rapa. * Bras. Campo, tão limpo de vegeta
 rapadura |f.| O mesmo que rapadela. * Bras. Açúcar mascavo coagulado, em fórma de pequenos tejolos quadrados, e com que se adoça o café e outras bebidas, sobretudo em viagem.
 rapagão |m.| Rapaz corpulento ou forte. (Cast. rapagon)
 rapagem |f.| Acto ou effeito de rapar.
-rapalhas |f.| pl. Resı́duos do estrume, que ficam nos curraes, quando o estrume se levanta. Ext. Bagatela. (De rapar )
+rapalhas |f.| pl. Resı́duos do estrume, que ficam nos curraes, quando o estrume se levanta. |Ext.| Bagatela. (De rapar )
 rapança |f.| Operação supplementar da redra, nas vinhas do Doiro, a qual consiste em rapar as ervas ou plantas parasitas, que nascem nos lagedos onde se não pôde fazer a cava. * Prov. trasm. O mesmo que rapadoira. (De
 rapar )
 rapante |adj.| Que rapa.
@@ -692,7 +692,7 @@ rapazete #,(zê)# |m.| O mesmo que rapazelho.
 rapazia #,1 # |f.| Ant. Detrimento, damno. Subtracção violenta. (De rapaz 2 . O Elucidário deriva o termo de rapaz 1 , o que não é plausı́vel)
 rapazia #,2 # |f.| P. us. O mesmo que rapazio. * O mesmo que rapaziada.
 rapaziada |f.| Reunião de rapazes. Acto ou dito, próprio de
-rapazes. Ext. Procedimento impensado. (De rapaz 1 )
+rapazes. |Ext.| Procedimento impensado. (De rapaz 1 )
 rapazice |f.| O mesmo que rapaziada. Cf. Camillo, Cav. em
 Ruı́nas #, 246# .
 rapazinho |m.| O mesmo que menino. (De rapaz 1 )
@@ -765,7 +765,7 @@ raposino |adj.| Relativo a raposo, raposeiro.
 raposo |m.| Macho da raposa. Fig. Indivı́duo manhoso. * Peixe plagióstomo de grande cauda. * Prov. Conjunto de
 raı́zes, que crescem nos canos de água corrente, e que também se chama raposeiro. * Prov. minh. Pauzinho, enfeitado de flôres e ginjas, para regalo de crianças; ramalhetede-ginjas. (Cp. raposa)
 rapsode |m.| (V. rapsodo)
-rapsódia |f.| Fragmentos de cantos épicos, entre os Gregos. Cada um dos livros de Homero. Ext. Trêcho de uma composição poética. * |Mús.| Composição musical, formada de diversos cantos tradicionaes ou populares de um paı́s. (Lat. rhapsodia)
+rapsódia |f.| Fragmentos de cantos épicos, entre os Gregos. Cada um dos livros de Homero. |Ext.| Trêcho de uma composição poética. * |Mús.| Composição musical, formada de diversos cantos tradicionaes ou populares de um paı́s. (Lat. rhapsodia)
 rapsódico |adj.| Relativo a rapsódia.
 rapsodista |m.| Pessôa, que faz rapsódias, ou que faz compilação de poesias ou de quaesquer trêchos literários. (De rapsódia) |f.| Pessôa, que faz rapsódias, ou que faz compilação de poesias ou de quaesquer trêchos literários. (De rapsódia)
 rapsodo #,(sô ou só)# |m.| Cantor ambulante de rapsódias, na antiguidade grega. Fig. Poéta. (Lat. rhapsodos)
@@ -981,7 +981,7 @@ rato-almiscarado |m.| O mesmo que almiscareiro? Cf. P. Moraes, Zool. Elem., 199.
 rato-da-ı́ndia |m.| O mesmo que rato-de-faraó.
 rato-de-faraó |m.| Zool. O mesmo que ichneumon ou mangusto 1 .
 rato-do-egipto |m.| O mesmo que rato-de-faraó.
-ratoeira |f.| Utensı́lio, para apanhar ratos. Ext. Armadilha; cilada; ardil. * Gı́r. Casa, onde se juntam ladrões.
+ratoeira |f.| Utensı́lio, para apanhar ratos. |Ext.| Armadilha; cilada; ardil. * Gı́r. Casa, onde se juntam ladrões.
 ratona |f.| Mulhér ou coisa excentrica ou ridı́cula. (Fem. de ratão) |adj.| Mulhér ou coisa excentrica ou ridı́cula. (Fem. de ratão)
 ratoneiro |m.| Aquelle que furta coisas de pouca monta; gatuno, larápio. (De rato)
 ratonice |f.| Roubo insignificante; ladroı́ce. (De rato)
@@ -1049,13 +1049,13 @@ reabsorpção |f.| Acto ou effeito de reabsorver. (De re... + absorpção)
 reabsorver |v. t.| Absorver novamente. (De re... + absorver )
 reacção |f.| Acto ou effeito de reagir. Acção opposta a outra.
 Resistência activa a qualquer esfôrço. Chı́m. Manifestação dos caracteres, que distinguem um corpo, occasionada pela acção de outro corpo. Phýs. Phenómeno, resultante da acção recı́proca de certos corpos. Phenómeno physiológico e pathológico, que contrabalança a influência do agente que o determinou. Esforços de um partido polı́tico ou social, para voltar a um estado anterior. O partido conservador. Ultramontanismo. Absolutismo. Qualquer systema contrario ao progresso social. (Do lat. reactio)
-reaccender |v. t.| Accender novamente. Ext. Activar, tornar mais ardente. Estimular; desenvolver: reaccender ódios. (De re... + accender )
+reaccender |v. t.| Accender novamente. |Ext.| Activar, tornar mais ardente. Estimular; desenvolver: reaccender ódios. (De re... + accender )
 reaccional |adj.| Relativo a reacção.
 reaccionário |adj.| Relativo ao partido da reacção ou ao seu systema. Opposto á liberdade. |M.| Sectário da reacção polı́tica ou social. (De reacção)
 reaccionarismo |m.| Ideias ou systemas dos reaccionários.
 reaccusação |f.| Acto ou effeito de reaccusar.
 reaccusar |v. t.| Accusar outra vez; recriminar. (De re... + accusar )
-reacender |v. t.| Acender novamente. Ext. Activar, tornar mais ardente. Estimular; desenvolver: reacender ódios. (De re... + acender )
+reacender |v. t.| Acender novamente. |Ext.| Activar, tornar mais ardente. Estimular; desenvolver: reacender ódios. (De re... + acender )
 reacquisição |f.| Acto ou effeito de readquirir. (De re... + acquisição)
 reactivo |adj.| Que faz reagir ou estabelece reacção. |M.| Substância, para reacções chı́micas, nos laboratórios. (De
 re + activo)
@@ -1526,13 +1526,13 @@ reciprocamente |adv.| De modo recı́proco; mutuamente. Alternadamente.
 reciprocar |v. t.| Tornar recı́proco; mutuar. Dar e receber em troca. Compensar. (Lat. reciprocare)
 reciprocidade |f.| Qualidade do que é recı́proco; mutualidade. (Do lat. reciprocitas)
 recı́proco |adj.| Alternativo, mútuo: affecto recı́proco. Que se troca; permutado. (Lat. reciprocus)
-récita |f.| Espectáculo de declamação. Ext. Representação em theatro lýrico. (De recitar )
+récita |f.| Espectáculo de declamação. |Ext.| Representação em theatro lýrico. (De recitar )
 recitação |f.| Acto ou effeito de recitar. (Lat. recitatio)
 recitado |m.| O mesmo que recitativo.
 recitador |m.| O que recita. (Lat. recitator ) |adj.| O que recita. (Lat. recitator )
 recitante |adj.| Que recita. Diz-se da voz ou do instrumento, que executa insuladamente um trêcho musical. |M.| Pessôa, que recı́ta. (Lat. recitans) |f.| Pessôa, que recı́ta. (Lat. recitans)
 recitar |v. t.| Lêr em voz alta e clara. Pronunciar, declamando. Declamar. Narrar. (Lat. recitare)
-recitativo |m.| Parte de uma ópera, executada pelo cantor sem regularidade do rythmo, divergindo apenas da recitação em que as sýllabas são pronunciadas sôbre as notas da gamma. * Ext. Composição poética, destinada a sêr
+recitativo |m.| Parte de uma ópera, executada pelo cantor sem regularidade do rythmo, divergindo apenas da recitação em que as sýllabas são pronunciadas sôbre as notas da gamma. * |Ext.| Composição poética, destinada a sêr
 recitada com acompanhamento de música. * |Adj.| Que é próprio para sêr recitado. (De recitar )
 reclamação |f.| Acto ou effeito de reclamar. (Lat. reclamatio)
 reclamador |m.| O que reclama. (Do b. lat. reclamator )reclamar |v. i.| Oppor-se. Protestar. Fazer impugnação. mans) |V. t.| Exigir (o que foi tomado injustamente). Exigir: reclamar o pagamento de uma dı́vida. Attrahir (aves) com o reclamo de outra. Implorar, clamar por: reclamar soccorro. (Lat. reclamare) |adj.| O que reclama. (Do b. lat. reclamator )reclamar |v. i.| Oppor-se. Protestar. Fazer impugnação. mans) |V. t.| Exigir (o que foi tomado injustamente). Exigir: reclamar o pagamento de uma dı́vida. Attrahir (aves) com o reclamo de outra. Implorar, clamar por: reclamar soccorro. (Lat. reclamare)
@@ -1541,7 +1541,7 @@ reclame |m.| Buraco, por onde passa uma corda, no alto dos mastros dos barcos ra
 reclamo |m.| O mesmo que reclamação. Clamor. Chamariz. Instrumento, com que o caçador imita o canto das aves que quere attrahir. Ave, ensinada para attrahir outras com o canto. Acto de chamar a attenção. Recommendação, feita num jornal. Palavra ou palavras compostas no fundo de uma página, indicando a primeira palavra ou palavras da página immediata. Final de uma phrase do papel de um actor, escripta no princı́pio do papel de outro, para indicar a êste quando tem de falar; deixa. (De reclamar )
 reclinação |f.| Acto ou effeito de reclinar. * Antigo processo do operação da cataracta, que consistia em deitar a cataracta para trás. (Lat. reclinatio)
 reclinadamente |adv.| De modo reclinado. Com inclinação.
-reclinar |v. t.| Recurvar; dobrar. Encostar: reclinar a cabeça no travesseiro. |V. p.| Inclinar-se; encostar-se. Ext. Descansar, deitar-se. (Lat. reclinare)
+reclinar |v. t.| Recurvar; dobrar. Encostar: reclinar a cabeça no travesseiro. |V. p.| Inclinar-se; encostar-se. |Ext.| Descansar, deitar-se. (Lat. reclinare)
 reclinatório |m.| Objecto, próprio para alguém se reclinar ou descansar. (Lat. reclinatorium)
 recluir |v. t.| Des. Encerrar. (Lat. recludere)
 reclusão |f.| Acto ou effeito de encerrar; encerramento; cárcere. (Lat. reclusio)
@@ -2288,7 +2288,7 @@ regalejo |m.| Ant. O mesmo que realejo.
 regalengo |adj.| O mesmo que reguengo. Cf. Herculano, Bobo, 209. (Do b. lat. regalengus)
 regaleza |f.| Ant. O mesmo que regoliz.
 regalheira |f.| T. de Turquel. O mesmo que regalice 1 . Ant. |Loc. adv.| Á regalheira, regaladamente; á tripa fôrra. Cf. Anat. Joc., II, 147. (Por regaleira, de regalo)
-regalia |f.| Direito próprio de rei. Prerogativa real. Ext. Prerogativa; privilégio. (Do lat. regalis)
+regalia |f.| Direito próprio de rei. Prerogativa real. |Ext.| Prerogativa; privilégio. (Do lat. regalis)
 regalice #,1 # |f.| Deprec. Estado do que vive regalado ou ocioso. (De regalo)
 regalice #,2 # |f.| (V. regoliz )
 regalindo |adj.| Ant. O mesmo que regalengo.
@@ -2713,7 +2713,7 @@ relingar |v. t. e i.| Pôr as relingas das velas. Içar velas, até que as relin
 relinquição #,(cu-i )# |f.| Jur. ant. Entrega, cedência; relinquimento: “saibam todos quantos virem êste público instrumento de relinquição...” (Cp. relinquimento)
 relinquimento #,(cu-i )# |m.| Ant. Abandono; renúncia. (Do lat. relinquere)
 relinquir |v. t.| Ant. Deixar; renunciar; largar. (Lat. relinquere)
-relı́quia |f.| Parte do corpo de algum santo. Qualquer objecto, que pertenceu a um santo ou serviu em algum acto que lhe dizia respeito. Ext. Coisa preciosa e rara; restos
+relı́quia |f.| Parte do corpo de algum santo. Qualquer objecto, que pertenceu a um santo ou serviu em algum acto que lhe dizia respeito. |Ext.| Coisa preciosa e rara; restos
 respeitáveis; ruı́nas. (Lat. reliquiae)
 reliquiárı́o |m.| O mesmo que relicário. Cf. |F.| Manuel, Apólogos, I, 109.
 relogiaria |f.| O mesmo que relojoaria.
@@ -3970,7 +3970,7 @@ reste #,1 # |m.| Utensı́lio de jôgo de bilhar, o mesmo que resto 2 .
 reste #,2 # |m.| O mesmo que riste: “quero também meter minha praga em reste.” |F.| Manuel, Apólogos, I, 109.
 reste #,3 # |f.| Prov. trasm. O mesmo que rodilha.
 réstea |f.| (V. réstia)
-restelada |f.| Prov. Porção de azeitonas, que se espalham no chão, antes do varejo. Ext. Qualquer porção de objectos, que alastram o chão: uma restelada de maçans. (De
+restelada |f.| Prov. Porção de azeitonas, que se espalham no chão, antes do varejo. |Ext.| Qualquer porção de objectos, que alastram o chão: uma restelada de maçans. (De
 restelo 2 )
 resteleira |f.| Prov. alent. O mesmo que restelo 2 .
 restello #,(tê)# |m.| (e der.) (V. rastello, etc.)
@@ -4010,9 +4010,9 @@ restivo |m.| Producto da segunda cultura de um campo; restivada. Diz-se milho de
 restivar )
 resto #,1 # |m.| Aquillo que resta. Aquillo que sobeja de maior porção. As outras coisas ou pessôas, relativamente àquellas de que se está falando. Arith. Parte de um dividendo, mais pequena que o divisor. Differença entre dois números, um dos quaes se subtrái do outro. Pl. Ruı́nas. Despojos mortaes. * Restos de cozinha, nome que, em Paleontologia, se dá aos detritos de comestı́veis e restos de objectos de cozinha, que apparecem em certas estações da idade de pedra, e que os geólogos também designam pelo termo dinamarquês kjoekkenmoedding.
 resto #,2 # |m.| Rabeca do bilhar, ou utensı́lio, em que se apoia o taco, quando as bolas estão mais distantes do jogador. (Do ingl. rest)
-restolhada |f.| Abundância de restolho. Fig. Ruı́do de quem anda por entre ou sôbre o restolho. Ext. Ruı́do, barulho.
+restolhada |f.| Abundância de restolho. Fig. Ruı́do de quem anda por entre ou sôbre o restolho. |Ext.| Ruı́do, barulho.
 restolhal |m.| Terreno, em que há restolho.
-restolhar |v. i.| Respigar. Fazer ruı́do, andando sôbre ou por entre o restolho. Ext. Fazer ruı́do. (De restolho)
+restolhar |v. i.| Respigar. Fazer ruı́do, andando sôbre ou por entre o restolho. |Ext.| Fazer ruı́do. (De restolho)
 restolhiça |f.| Prov. alent. O mesmo que restolhada. Cf. Ficalho, Contos, 225.
 restolho #,(tô)# |m.| Parte inferior do caule das gramı́neas, que ficou enraizada depois da ceifa. Restolhal. * Barulho, o mesmo que restolhada. Cf. G. Braga, Mal da Delf., 55. (V. rastolho, que parece fórma mais exacta)
 restralar |v. t.| Prov. trasm. O mesmo que arrestralar.
@@ -4216,7 +4216,7 @@ retocar |v. t.| Tocar novamente. Emendar; corrigir; melhorar: retocar um quadro.
 retoiça |f.| Corda, suspensa pelas duas extremidades, ou assento suspenso por cordas, em que a gente se baloiça. Baloiço; retoiço. (De retoiçar )
 retoiçador |m.| O mesmo que retoição. |adj.| O mesmo que retoição.
 retoição |m.| Brincalhão; turbulento. (De retoiçar ) |adj.| Brincalhão; turbulento. (De retoiçar )
-retoiçar |v. i.| e p. * Brincar na retoiça, baloiçar-se. Ext. Traquinar; espojar-se por brincadeira.
+retoiçar |v. i.| e p. * Brincar na retoiça, baloiçar-se. |Ext.| Traquinar; espojar-se por brincadeira.
 retoiço |m.| Acto ou effeito de retoiçar.
 retoiçôa |f.| Mulhér brincalhona ou foliona. (Fem. de retoição)
 retolo #,(tô)# |adj.| Muito tolo: “é tolo e retolo.” Castilho, Tartufo. (De re... + tolo)
@@ -4262,14 +4262,14 @@ retostar |v. t.| Tostar muito. (De re... + tostar )
 retouça |f.| Corda, suspensa pelas duas extremidades, ou assento suspenso por cordas, em que a gente se balouça. Balouço; retouço. (De retouçar )
 retouçador |m.| O mesmo que retoução. |adj.| O mesmo que retoução.
 retoução |m.| Brincalhão; turbulento. (De retouçar ) |adj.| Brincalhão; turbulento. (De retouçar )
-retouçar |v. i.| e p. * Brincar na retouça, baloiçar-se. Ext. Traquinar; espojar-se por brincadeira.
+retouçar |v. i.| e p. * Brincar na retouça, baloiçar-se. |Ext.| Traquinar; espojar-se por brincadeira.
 retouço |m.| Acto ou effeito de retouçar.
 retouçôa |f.| Mulhér brincalhona ou foliona. (Fem. de retoição)
 retovar |v. t.| Bras. do S. Forrar de coiro.
 retraçar |v. t.| Tornar a traçar. Reduzir a retraço. (De re... + traçar )
 retraçar-se |v. p.| Ant. Retrahir-se, retirar-se. (Do lat. retractare)
 retracção |f.| Acto ou effeito de retrahir. (Do lat. retractio)
-retraço |m.| Porção de palha retraçada. Resı́duos da palha, que se deu como ração ás bêstas. Palha cortada miudamente. Ext. Restos. Bagatela. (De retraçar )
+retraço |m.| Porção de palha retraçada. Resı́duos da palha, que se deu como ração ás bêstas. Palha cortada miudamente. |Ext.| Restos. Bagatela. (De retraçar )
 retractação |f.| Acto ou effeito de retractar.
 retractador |m.| O que retracta. |adj.| O que retracta.
 retractar |v. i.| Tratar de novo. Têr como não dito, desdizerse de. |V. p.| Desdizer-se; confessar que errou. (Lat. retractare)
@@ -4701,7 +4701,7 @@ rhaphiolépides |f.| Gênero de plantas rosáceas. (Do gr.
 raphis + lepis)
 rhapôntico-da-terra |f.| Planta, da famı́lia das compostas, (centaurea tagana, Brot.).
 rhapsode |m.| (V. rhapsodo)
-rhapsódia |f.| Fragmentos de cantos épicos, entre os Gregos. Cada um dos livros de Homero. Ext. Trêcho de uma composição poética. * |Mús.| Composição musical, formada de diversos cantos tradicionaes ou populares de um paı́s. (Lat. rhapsodia)
+rhapsódia |f.| Fragmentos de cantos épicos, entre os Gregos. Cada um dos livros de Homero. |Ext.| Trêcho de uma composição poética. * |Mús.| Composição musical, formada de diversos cantos tradicionaes ou populares de um paı́s. (Lat. rhapsodia)
 rhapsódico |adj.| Relativo a rhapsódia.
 rhapsodista |m.| Pessôa, que faz rapsódias, ou que faz compilação de poesias ou de quaesquer trêchos literários. (De rhapsódia) |f.| Pessôa, que faz rapsódias, ou que faz compilação de poesias ou de quaesquer trêchos literários. (De rhapsódia)
 rhapsodo #,(sô ou só)# |m.| Cantor ambulante de rhapsódias, na antiguidade grega. Fig. Poéta. (Lat. rhapsodos)
@@ -5208,7 +5208,7 @@ ripal |adj.| Diz-se de um prego pequeno, próprio para pregar
 ripas2 .
 ripamento |m.| Bras. O mesmo que ripagem. (De ripar 1 )
 ripançar |v. t.| O mesmo que ripar (o linho). (De ripanço 1 )
-ripanço #,1 # |m.| Instrumento, para ripar o linho ou limpá-lo da baganha. Utensı́lio, com que os hortelões raspam a terra e juntam as pedras. Espécie de sofá, em que se descansa ou se dorme a sesta. Ext. Indolência, mandriice. Pessôa indolente. Pop. Livro dos Offı́cios da Semana Santa. (De
+ripanço #,1 # |m.| Instrumento, para ripar o linho ou limpá-lo da baganha. Utensı́lio, com que os hortelões raspam a terra e juntam as pedras. Espécie de sofá, em que se descansa ou se dorme a sesta. |Ext.| Indolência, mandriice. Pessôa indolente. Pop. Livro dos Offı́cios da Semana Santa. (De
 ripar 2 )
 ripanço #,2 # |m.| (V.raponço)
 ripar #,1 # |v. t.| Gradear com ripas2 ; pregar ripas em. Serrar, formando ripas.
@@ -5233,7 +5233,7 @@ ripostar |v. i.| Rebater a estocada, no jôgo de esgrima. (Fr.
 riposter )
 rique |m.| Espécie de aguardente, entre os Índios.
 riqueifa |f.| O mesmo que regueifa. Cf. Dozy.
-riqueza |f.| Qualidade do que é rico. Ext. Abundância; fertilidade. Magnificência. Abundância de recursos intellectuaes. Aquillo que é muito productivo. A classe dos ricos.
+riqueza |f.| Qualidade do que é rico. |Ext.| Abundância; fertilidade. Magnificência. Abundância de recursos intellectuaes. Aquillo que é muito productivo. A classe dos ricos.
 riquinho |adj.| Açor. Bonito, formoso.
 rir |v. i.| Contrahir os músculos faciaes, geralmente em consequência de uma impressão alegre. * Pop. Mostrar fenda ou rasgão (uma peça de vestuário): traz as calças a rir, do lado de trás. Fig. Gracejar: não foi por mal, foi a rir. Tratar levianamente de algum assumpto. Escarnecer: rir dos parvos. * Gı́r. Tinir ou tlintar. |V. t.| P. us. Zombar de. * |V. p.| (A mesma sign. do |v. i.| ) * |M.| Acto de rir;
 riso. (Do lat. ridere)
@@ -5449,7 +5449,7 @@ rocegar |v. t.| Náut. Procurar com a rocega ou cabo apropriado (âncoras ou out
 roceiro |m.| Homem que roça. Bras. Homem, que cultiva os terrenos chamados roças.
 rocena |m.| Des. Aquelle que trabalha ou luta, servindo-se de
 roçadoira. Cf. Camillo, Mar. da Fonte, 317. (Cp.roçana)
-rocha |f.| Mole ou grande massa compacta de pedra muito dura. Penedia, rochedo. Ext. Mineral; conjunto de mineraes, que formam massa compacta. Fig. Coisa inabalável. (Fr. roche)
+rocha |f.| Mole ou grande massa compacta de pedra muito dura. Penedia, rochedo. |Ext.| Mineral; conjunto de mineraes, que formam massa compacta. Fig. Coisa inabalável. (Fr. roche)
 rochaz |adj.| Que se cria nas rochas. (De rocha)
 rochedo #,(chê)# |m.| Rocha escarpada. Rocha alta á beira do mar. Penhasco. Cachopo. * Anat. Parte de cada um dos temporaes, onde se aloja o ouvido.
 rochete #,(chê)# |m.| Prov. trasm. O mesmo que collarinho. (Colhido em Sabrosa) (Relaciona-se com gorgete?)
@@ -5474,7 +5474,7 @@ rôço #,2 # |m.| Gı́r. trasm. Dinheiro, bagalhoça.
 rocòcó |adj.| Que tem muitos ornatos, mas sem graça. Fig. Que é de mau gosto, sem sentimento artı́stico. * Que se resente do gosto antigo ou que está fóra da moda: penteado
 rocòcó. |M.| Profusão de ornatos de mau gôsto, especialmente em architectura. * Velharia. (Fr. recoco)
 roçoeiro |m.| Pesc. Cabo inferior da tralha das rêdes de arrastar. (De roçar )
-roda #,1 # |f.| Peça, ou máquina simples, de fórma circular e própria para se mover em volta de um eixo. Cı́rculo. Objecto, mais ou menos circular. Pau grosso e curto, em que termina a popa e a prôa do navio. Globo girante, em que se lançam os números de uma lotaria. A lotaria. Caixa cylı́ndrica, na portaria de um convento ou de hospı́cio, para transmittir, girando, qualquer coisa para o interior do edifı́cio: a roda dos expostos. Amplidão em volta. Volta; circunferência; giro. * T. de Turquel. Distribuição de alguma coisa por circunstantes: dar uma roda de vinho. Cercadura de renda. Talhada, mais ou menos circular, de certos frutos: uma roda de ananás. Decurso de tempo. Agrupamento de pessôas: vi-o numa roda de vadios. Classe: pertence á alta roda. Associação. Pessôas, com quem se convive: aquelle é da minha roda. Grupo de pessôas, formando circulo: uma dança de roda. Grande número. * Pop. Accusação; invectiva apanhou uma roda de malcriado. Cauda de alguns animaes. Antigo instrumento de supplı́cio. Mancha circular no pêlo dos cavallos. * Gı́r. O mesmo que tostão. * Ext. Hospı́cio de enjeitados. * Meter na roda, enjeitar (uma criança). (Lat. rota)
+roda #,1 # |f.| Peça, ou máquina simples, de fórma circular e própria para se mover em volta de um eixo. Cı́rculo. Objecto, mais ou menos circular. Pau grosso e curto, em que termina a popa e a prôa do navio. Globo girante, em que se lançam os números de uma lotaria. A lotaria. Caixa cylı́ndrica, na portaria de um convento ou de hospı́cio, para transmittir, girando, qualquer coisa para o interior do edifı́cio: a roda dos expostos. Amplidão em volta. Volta; circunferência; giro. * T. de Turquel. Distribuição de alguma coisa por circunstantes: dar uma roda de vinho. Cercadura de renda. Talhada, mais ou menos circular, de certos frutos: uma roda de ananás. Decurso de tempo. Agrupamento de pessôas: vi-o numa roda de vadios. Classe: pertence á alta roda. Associação. Pessôas, com quem se convive: aquelle é da minha roda. Grupo de pessôas, formando circulo: uma dança de roda. Grande número. * Pop. Accusação; invectiva apanhou uma roda de malcriado. Cauda de alguns animaes. Antigo instrumento de supplı́cio. Mancha circular no pêlo dos cavallos. * Gı́r. O mesmo que tostão. * |Ext.| Hospı́cio de enjeitados. * Meter na roda, enjeitar (uma criança). (Lat. rota)
 roda #,2 # |m.| Antigo vinho da Madeira, que fez a viagem do Oriente e voltou ao Occidente. Contrato para a divisão proporcional do tráfego da conducção do sal, entre os donos de barcos, no rio Sado. (De rodar 1 )
 roda-dos-altos-coices |f.| Espécie de jôgo popular.
 roda-viva |f.| Barafunda; azáfama. Inquietação.
@@ -5664,7 +5664,7 @@ rolar #,1 # |v. t.| Fazer girar. * Cortar em rolos ou toros (uma árvore). |V. i
 Rebolar-se. Cair, girando: o penedo rolou pela encosta abaixo. Redemoı́nhar. Éncapellar-se. * Náut. Descair (a
 rolim #,1 # embarcação) para sotavento, deslocando obliquamente o
 rumo. (De rôlo 1 )
-rolar #,2 # |v. i.| Soltar a voz, (falando-se das rôlas). Arrulhar. |V. t.| Exprimir, arrulhando. * Ext. Exprimir com meiguice. (De rôla 1 )
+rolar #,2 # |v. i.| Soltar a voz, (falando-se das rôlas). Arrulhar. |V. t.| Exprimir, arrulhando. * |Ext.| Exprimir com meiguice. (De rôla 1 )
 rolbélia |f.| Gênero de plantas gramineas.
 rolda |f.| Des. O mesmo que ronda. Cf. D. Franc. Manuel, Carta de Guia, 135.
 roldana |f.| Maquinismo, com uma roda girante, por cuja circumferência cavada passa uma corda ou corrente. (De
@@ -5730,7 +5730,7 @@ romanescado |adj.| Que tem modos romanescos. (De romanescar )
 romanescamente |adv.| De modo romanesco; romanticamente.
 romanescar |v. t.| Tornar romanesco: “...o nosso ministro, a quem sinto nesta parte muito romanescado.” Vieira, Cartas.
 romanesco #,(nês)# |adj.| Que tem o carácter de romance.
-Romântico. Maravilhoso. Ext. Devaneador. Apaixonado. Fabuloso. |M.| O carácter romântico; o gênero romanesco. (De romano)
+Romântico. Maravilhoso. |Ext.| Devaneador. Apaixonado. Fabuloso. |M.| O carácter romântico; o gênero romanesco. (De romano)
 romanho |m.| Uma das fórmas ou linguagens da gı́ria dos ciganos. Cf. Ad. Coelho, Ciganos, 44. Provavelmente, o mesmo que romani.
 romani |m.| Lı́ngua dos ciganos do oriente da Europa, de que há treze dialectos, mais ou menos adulterados. Cf. João
 Ribeiro, Diccion. |Gram.| , 84.
@@ -6130,7 +6130,7 @@ roupeta #,(pê)# |f.| Batina. |M.| Deprec. Padre. (De roupa)
 roupido |adj.| Que está vestido ou provido de roupas. (De roupa)
 roupinha |f.| Casaco curto e ajustado ao corpo, usado especialmente pelas mulheres do campo. (De roupa)
 roupudo |m.| Prov. trasm. Variedade de azeitona. (De roupa)
-rouquejar |v. i.| Emittir sons roucos. Têr rouqueira. Ext. Troar; rugir. (De rouco)
+rouquejar |v. i.| Emittir sons roucos. Têr rouqueira. |Ext.| Troar; rugir. (De rouco)
 rouquenho |adj.| Um tanto rouco; roufenho.
 rouquento |adj.| O mesmo que rouquenho. Cf.Anat. Joc., I, 258.
 rouquice |f.| Estado do que é rouco.
@@ -6157,7 +6157,7 @@ roxo-terra |f.| Uma das variedades da argilla ferruginosa.
 rozeimo |m.| Prov. O mesmo que rancor.
 rozental |m.| Prov. Cordeiro tenro. (Corr. do recental. Cp.rezental )
 rua |f.| Caminho, ladeado de casas, paredes ou renques de árvores, numa povoação. * Casas, que ladeiam êsse caminho: os moradores da rua Augusta. Habitantes dessas casas: a
-rua do Carmo alvorotou-se. * Ext. Conjunto dos lugares, por onde se anda numa povoação, afóra os domicı́lios: os pregões da rua. * Fig. A classe inferior da sociedade; a plebe: a rua está ao lado do Govêrno. (Fr. rue, do b. lat. ruga)
+rua do Carmo alvorotou-se. * |Ext.| Conjunto dos lugares, por onde se anda numa povoação, afóra os domicı́lios: os pregões da rua. * Fig. A classe inferior da sociedade; a plebe: a rua está ao lado do Govêrno. (Fr. rue, do b. lat. ruga)
 rua-dos-salgados |f.| Espécie de jôgo popular.
 ruaça |f.| O mesmo que arruaça.
 ruaceiro |m.| O mesmo que arruaceiro.
@@ -6218,7 +6218,7 @@ ruborescer |v. i.| Tornar-se vermelho; ruborizar-se: “...a avezinha canta ao r
 ruborescido |adj.| Vermelho; còrado. Fig. Envergonhado. (De ruborescer )
 ruborização |f.| Acto ou effeito de ruborizar.
 ruborizar |v. t.| Tornar vermelho rubro. Causar rubor a. |V. p.| Còrar. Fig. Têr pudor, envergonhar-se.
-rubrica |f.| (e não rúbrica, como muitos dizem) Terra vermelha, applicada em pintura e em vários ramos da indústria. Tı́tulo dos capı́tulos de Direito canónico e civil, que dantes era impresso a côr vermelha. Nota, segundo a qual se devem celebrar os Offı́cios Divinos, e que em geral é escrita em letra vermelha, nos breviários, missaes, etc. Preceito, incluı́do nessa nota. Sinal indicativo dos movimentos e gestos dos actores, consignado nos respectivos papéis. Ext. Nota. Firma, ou assinatura em breve. (Lat. rubrica)
+rubrica |f.| (e não rúbrica, como muitos dizem) Terra vermelha, applicada em pintura e em vários ramos da indústria. Tı́tulo dos capı́tulos de Direito canónico e civil, que dantes era impresso a côr vermelha. Nota, segundo a qual se devem celebrar os Offı́cios Divinos, e que em geral é escrita em letra vermelha, nos breviários, missaes, etc. Preceito, incluı́do nessa nota. Sinal indicativo dos movimentos e gestos dos actores, consignado nos respectivos papéis. |Ext.| Nota. Firma, ou assinatura em breve. (Lat. rubrica)
 rubricador |m.| O que rubrica. |adj.| O que rubrica.
 rubricar |v. t.| Pôr uma rubrica ou rubricas em. Assinalar. Pôr marca em. Firmar, com appelido ou com abreviatura do nome: o juiz rubricou o processo. (Lat. rubricare)
 rubricista |m.| Aquelle que é perito em rubricas ecclesiásticas.
@@ -6289,7 +6289,7 @@ rufus + palpus)
 rufista |m.| Aquelle que rufa. (De rufo 1 )
 rufitarso |adj.| Zool. Que tem tarsos vermelhos. (De rufo 3 + tarso)
 ruflar |v. i.| Angl. Agitar-se, produzindo rumor, como ave que desprende as asas. Fazer ruge-ruge, como saias compridas de quem anda, ou como tecido engomado que se dobra ou se amachuca: “as saias ruflavam. Um turbilhão de musselina...” Camillo, Volcoens, 166. (Do ingl. rufle)
-rufo #,1 # |m.| Som trêmulo, produzido pelo tanger de duas baquetas na pelle tensa de um tambor ou de um instrumento análogo. Ext. Som, quási semelhante ao do tambor, e produzido pelo tanger alternado dos dedos sôbre uma superfı́cie sólida. * |Loc. adv.| Num rufo, promptamente, num instante. (Do ingl. rufle)
+rufo #,1 # |m.| Som trêmulo, produzido pelo tanger de duas baquetas na pelle tensa de um tambor ou de um instrumento análogo. |Ext.| Som, quási semelhante ao do tambor, e produzido pelo tanger alternado dos dedos sôbre uma superfı́cie sólida. * |Loc. adv.| Num rufo, promptamente, num instante. (Do ingl. rufle)
 rufo #,2 # |m.| Enfeite ou guarnição, constante de pregas ou franzido. Prega. (Do ingl. ruff )
 rufo #,3 # |adj.| Poét. Ruivo. * Vermelho. (Lat. rufus)
 rufo #,4 # |m.| Espécie de lima, com serrilha ou picado grosso, quási como o da grosa2 . (Relaciona-se com rufo 2 ?)
@@ -6320,7 +6320,7 @@ ruidoso #,(ru-i )# |adj.| Que faz ruı́do. Acompanhado de
 ruı́do. Que faz sensação; pomposo.
 ruı́m |adj.| Mau; nocivo. Inútil. Que tem má ı́ndole. Perverso. Deteriorado; estragado. * Prov. alg. Hydróphobo, damnado. (De ruina, segundo uns; do hebr., segundo outros. Cp.rôim)
 ruimmente #,(ru-im)# |adv.| De modo ruı́m; com maldade; com perversidade.
-ruı́na |f.| Acto ou effeito de ruir. Resto de edifı́cio desmoronado. Perda; destruição, dissipação. Causa de males ou de destruição. Ext. Vestı́gio; reflexo. (Lat. ruina)
+ruı́na |f.| Acto ou effeito de ruir. Resto de edifı́cio desmoronado. Perda; destruição, dissipação. Causa de males ou de destruição. |Ext.| Vestı́gio; reflexo. (Lat. ruina)
 ruinar #,(ru-i )# |v. t.| (e der.) O mesmo que arruinar, etc. Cf. Filinto, D. Man., I, 171.
 ruinaria #,(ru-i )# |f.| Conjunto de ruı́nas. Restos de edifı́cio, que o tempo ou alguém desmoronou. Cf. Camillo, Cancion. Aleg., 363.
 ruindade #,(ru-in)# |f.| Qualidade do que é ruı́m.

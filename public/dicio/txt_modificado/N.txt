@@ -11,7 +11,7 @@ naalianismo |m.| Doutrina ou heresia dos Naalianos.
 naalianos |m.| pl. Antigos herejes, que sustentavam doutrina quási semelhante á dos Valentinianos. (Cp. valentinianos)
 naba |adj.| Diz-se de uma espécie de couve, que tem a apparência do nabo.
 nababia |f.| Região governada por um nababo.
-nababo |m.| Principe ou governador de provı́ncia na Índia muçulmana. Ext. Indivı́duo, que enriqueceu na Índia. Indivı́duo muito rico. (Do indostano nauab)
+nababo |m.| Principe ou governador de provı́ncia na Índia muçulmana. |Ext.| Indivı́duo, que enriqueceu na Índia. Indivı́duo muito rico. (Do indostano nauab)
 nabada |f.| Guisado ou doce de cabeças de nabo. * Roda, que formam os quatro braços da fateixa. (De nabo)
 nabal |m.| Terreno onde crescem nabos.
 nabam |m.| Ant. Imposto, pago por pescadores, para terem a faculdade de pescar em pôrto estranho, e que consistia
@@ -31,7 +31,7 @@ nábulo |m.| Ant. O mesmo que nábão. Cf. Viterbo, Elucid.
 naca |f.| Bras. O mesmo que nacada.
 nacada |f.| Pedaço; grande fatia; naco. (De naco)
 nação |f.| Conjunto dos habitantes de um território, ligados por interesses communs, e considerados como pertencentes á mesma raça. Região ou paı́s, que se governa por leis pró-nácar prias. O Estado. Naturalidade, procedência: Elias Costa, de nação judaica. Grupo de indivı́duos, com caracteres communs. Casta. Origem, nascimento: aquelle sujeito é ruim de nação. (Ouvido em Turquel) * Pl. Em linguagem bı́blica, os gentios ou pagãos. (Do lat. natio)
-nácar |m.| Substância branca e brilhante, que reveste interiormente várias conchas, e que tem a propriedade de refranger a luz por uma forma agradável á vista. Ext. Côr de carmim, côr de rosa. (Do pers. nakar )
+nácar |m.| Substância branca e brilhante, que reveste interiormente várias conchas, e que tem a propriedade de refranger a luz por uma forma agradável á vista. |Ext.| Côr de carmim, côr de rosa. (Do pers. nakar )
 nacarado |adj.| Que tem o aspecto ou côr do nácar; róseo; acarminado.
 nacarar |v. t.| Dar aspecto ou côr de nácar a. Cobrir de
 nácar. Fig. Tornar rubro ou rosado: o pudor nacarou-lhe o rosto.
@@ -209,7 +209,7 @@ nanófia |f.| Gênero de insectos neurópteros. Gênero de insectos coleópteros
 nanos |m.| pl. Serranos de Angola.
 nanquim #,1 # |m.| Tecido de algodão ou ganga amarela, que vinha antigamente da China. Tinta preta, procedente da China, e que se usa em desenhos e aguarelas. (De Nanquim, |n. p.| )
 nantilda |f.| Gênero de insectos lepidópteros nocturnos.
-náo |f.| Grande navio de guerra ou grande navio mercante. Tripulação. Ext. Qualquer navio. (Do lat. navis)
+náo |f.| Grande navio de guerra ou grande navio mercante. Tripulação. |Ext.| Qualquer navio. (Do lat. navis)
 não #,1 # |adv.| Partı́cula negativa, opposta a sim. De maneira
 nenhuma. * Emprega-se também como partı́cula expletiva, sem significação: “antes que o rico não escape das mãos da morte, se escapam os bens das mãos dos ricos”. Bernárdez, Floresta, I, 125. (Do lat. non)
 não #,2 # Partı́cula interjeccional ou interrogativa, com a significação de porventura, segundo doutrina acceitável de Castilho: “que piedade não mostrou a bella Maria! ” Reis Quita. “Quantos italianismos e castelhanismos não introduziu Camões nos seus poemas”. Latino, Elog. Acad. Cf. Figueiredo, Lições Prát., vol. I. (Do lat. nam)
@@ -282,7 +282,7 @@ narcotização |f.| Acto ou effeito de narcotizar.
 narcotizar |v. t.| Dar narcótico a. Adormecer, entorpecer, paralysar.
 nardino |adj.| Relativo a nardo. (Lat. nardinus)
 nardo |m.| Gênero de plantas gramı́neas. * Raiz aromática, de que os antigos se serviam como perfume e que se suppõe sêr a raiz do nardo ı́ndico ou espicarnado, (andropogon
-nardus, Lin.). Ext. Perfume, comparável ao do nardo; bálsamo. (Lat. nardus)
+nardus, Lin.). |Ext.| Perfume, comparável ao do nardo; bálsamo. (Lat. nardus)
 nárdoa |f.| Gênero de reptis ophı́dios.
 nardósmia |f.| Gênero de plantas herbáceas. (Do gr. nardos + osme)
 naregâmia |f.| Gênero de plantas meliáceas.
@@ -296,7 +296,7 @@ narigudo |adj.| Que tem nariz grande. (Cp. lat. naricare)
 narigueta #,(guê)# |m.| Nariz grande. * Prov. Homem de nariz grande. O mesmo que nariguete. |f.| Nariz grande. * Prov. Homem de nariz grande. O mesmo que nariguete.
 nariguete #,(guê)# |m.| Fam. Aquelle que tem nariz mal feito, torto ou achatado. (Cp. narı́cula)
 narina |f.| (V. narı́cula) Narina é francesia inútil.
-nariz |m.| Parte saliente, pyramidal e triangular do rosto, a qual constitue o órgão do olfacto. * Ferrolho, a que está ligado o lacete da fechadura. Pl. Ventas. Ext. Rosto. * |Loc. Fam.| Meter o nariz, intrometer-se. * |Loc. Fam.| Nariz de cera, preâmbulo emphático, numa lição ou discurso; lugar commum. (Lat. hyp. narix )
+nariz |m.| Parte saliente, pyramidal e triangular do rosto, a qual constitue o órgão do olfacto. * Ferrolho, a que está ligado o lacete da fechadura. Pl. Ventas. |Ext.| Rosto. * |Loc. Fam.| Meter o nariz, intrometer-se. * |Loc. Fam.| Nariz de cera, preâmbulo emphático, numa lição ou discurso; lugar commum. (Lat. hyp. narix )
 narizite |f.| Burl. Perversão da pituitária: “entendi que havianarlela perversão na minha pituitária, uma narizite...” Camillo,
 Noites de Insómn., IV, 88. (De nariz )
 narlela |f.| T. da Índia port. Azeite ou óleo de côco. (De narlo)
@@ -315,9 +315,9 @@ narração. Que expõe minuciosamente. (Lat. narrativus)
 narrável |adj.| Que se póde narrar. (Do lat. narrabilis)
 narro |m.| Gı́r. Gato. Cão.
 nartécia |f.| Gênero de plantas liliáceas. (Do gr. narthex )
-nártex |m.| Espécie de alpendre, á entrada das antigas bası́licas, para conter os catecúmenos, energúmenos e penitentes. Ext. Pórtico. (Gr. narthex )
+nártex |m.| Espécie de alpendre, á entrada das antigas bası́licas, para conter os catecúmenos, energúmenos e penitentes. |Ext.| Pórtico. (Gr. narthex )
 narthécia |f.| Gênero de plantas liliáceas. (Do gr. narthex )
-nárthex |m.| Espécie de alpendre, á entrada das antigas bası́licas, para conter os cathecúmenos, energúmenos e penitentes. Ext. Pórtico. (Gr. narthex )
+nárthex |m.| Espécie de alpendre, á entrada das antigas bası́licas, para conter os cathecúmenos, energúmenos e penitentes. |Ext.| Pórtico. (Gr. narthex )
 naru |m.| T. da Índ. Port. O mesmo que filária.
 narval |m.| Gênero de cetáceos, da |fam.| dos delphininos. (Do al. narwall )
 narvalina |f.| Gênero de plantas, da |fam.| das compostas.
@@ -424,7 +424,7 @@ natural do universo. Aquillo que constitue um sêr em geral, criado ou incriado.
 naturismo |m.| (V. naturalismo)
 naturista |m.| , |f.| Sectário do naturalismo. (De natura) |adj.| Sectário do naturalismo. (De natura)
 natya |m.| Gênero de reptis sáurios.
-nau |f.| Grande navio de guerra ou grande navio mercante. Tripulação. Ext. Qualquer navio. (Do lat. navis)
+nau |f.| Grande navio de guerra ou grande navio mercante. Tripulação. |Ext.| Qualquer navio. (Do lat. navis)
 nauas |m.| pl. Indı́genas do Brasil, que habitaram no Alto Juruá.
 naüatle |m.| Lı́ngua ou dialecto do México.
 náuclea |f.| Gênero de plantas rubiáceas, trepadeiras, originárias da China, Índia, etc.
@@ -455,7 +455,7 @@ náupeta |f.| Gênero de insectos orthópteros. (Do lat. navis + petere)
 nauscopia |f.| Arte de empregar o nauscópio. (Cf. nauscópio)
 nauscópico |adj.| Relativo á nauscopia.
 nauscópio |m.| Instrumento, para vêr da terra navios a grande distância ou vice-versa. (Do gr. naus + skopein)
-náusea |f.| Enjôo ou ânsia, produzida pelo balanço da embarcação, no mar. Ext. Ansiedade, acompanhada de vómito; disposição para vomitar. Fig. Repugnância. Nojo; sentimento de repulsão. (Lat. nausea)
+náusea |f.| Enjôo ou ânsia, produzida pelo balanço da embarcação, no mar. |Ext.| Ansiedade, acompanhada de vómito; disposição para vomitar. Fig. Repugnância. Nojo; sentimento de repulsão. (Lat. nausea)
 nauseabundo |adj.| Que causa náuseas. Fig. Nojento, repugnante. (Lat. nauseabundus)
 nauseado |adj.| Que tem enjôo; que está indisposto ou ansiado, como quem vai vomitar. * Fig. Que sente repulsão ou nojo. * |M.| Mad. O mesmo que enjôo.
 nauseante |adj.| O mesmo que nauseabundo. (Lat. nauseans)
@@ -543,7 +543,7 @@ náxia #,(csi )# |f.| Gênero de crustáceos decápodes.
 náxio #,(csi )# |m.| Pedra, com que se polia o mármore enecaneia |f.| Tecido indiano, listrado de azul e branco.
 nécara |f.| Prov. trasm. Cada um dos cinco seixos ou pedricom que os lapidários facetavam e poliam pedras preciosas. (Lat. naxium)
 naza |f.| O mesmo que naxa.
-nazareno |adj.| Relativo a Nazaré. |M.| Habitante de Nazaré. Restrict. Christo. Ext. Cada um dos primeiros christãos. Designação, que os Portugueses tiveram na Ásia. (Lat. nazarenus)
+nazareno |adj.| Relativo a Nazaré. |M.| Habitante de Nazaré. Restrict. Christo. |Ext.| Cada um dos primeiros christãos. Designação, que os Portugueses tiveram na Ásia. (Lat. nazarenus)
 nazáreo |adj.| O mesmo que nazareno. Cf. Filinto, XIV, 104.
 nazarita |m.| Pessôa que, entre os Judeus, se consagrava a Deus, por voto próprio ou de seus pais. (Do hebr. |f.| Pessôa que, entre os Judeus, se consagrava a Deus, por voto próprio ou de seus pais. (Do hebr.
 natzar )
@@ -562,7 +562,7 @@ nebália |f.| Espécie de caranguejo do Mar-Branco.
 nebel #,1 # |m.| Medida de capacidade, entre os Hebreus.
 nebel #,2 # |m.| O mesmo que náblio: “...modulando o nebel, via-se o vate...” Herculano, Harpa do Crente. (Cp. cast.
 nebel )
-neblina |f.| Grande nevoeiro. Névoa densa e rasteira. Ext. Sombra, trevas. (Cast. neblina)
+neblina |f.| Grande nevoeiro. Névoa densa e rasteira. |Ext.| Sombra, trevas. (Cast. neblina)
 neblinar |v. i.| Bras. e açor. Chuviscar quási imperceptivelmente. (De neblina)
 nebri |m.| Falcão, adestrado para a caça. (Cast. nebli) |adj.| Falcão, adestrado para a caça. (Cast. nebli)
 nébrida |f.| Gênero de peixes acanthòpterýgios.
@@ -664,7 +664,7 @@ necrotério |m.| Lugar, onde se expõem os cadáveres, que vão sêr autopsiados
 necrótomo |m.| Apparelho, formado por uma caixa de lata, em determinadas condições, para desinfecção dos exemplares de história natural, atacados de larvas de insectos. (Do gr. nekros + tome)
 necróvora |f.| Gênero de insectos clavicórneos. (Do gr. nekros + lat. vorare)
 nectândrias |f.| pl. Trı́bo de plantas lauráceas.
-néctar |m.| Bebida dos deuses, segundo a fábula. Ext. Qualquer bebida saborosa. Fig. Delı́cia; refrigério. Suco doce de várias plantas. (Lat. nectar )
+néctar |m.| Bebida dos deuses, segundo a fábula. |Ext.| Qualquer bebida saborosa. Fig. Delı́cia; refrigério. Suco doce de várias plantas. (Lat. nectar )
 nectáreo |adj.| Relativo ou semelhante ao néctar. (Lat. nectareus)
 nectarı́fero |adj.| Que produz néctar. (Do lat. nectar + ferre)
 nectário |m.| Parte das flôres, que segrega o suco que as abelhas haurem, para o fabrı́co do mel. (De néctar )
@@ -695,7 +695,7 @@ nefário |adj.| O mesmo que nefando. Extremamente malvado. (Lat. nefarius)
 nefas |m.| Aquillo que não é lı́cito. Aquillo que é illegı́timo; illegitimidade.–É expressão latina, us. principalmente na |loc. adv.| por fas e por nefas, por meios lı́citos e illı́citos. (Lat. nefas)
 nefasto |adj.| Que é de mau agoiro; que causa desgraça; funesto; triste; trágico. (Lat. nefastus)
 nefelemancia |f.| Arte de adivinhar, pela inspecção das nuvens. (Do gr. nephele + manteia)
-nefelı́bata |m.| O que anda ou vive nas nuvens. Próprio de quem vive nas nuvens. Fig. Literato excêntrico, que desconhece ou despreza os processos conhecidos e o bom senso literário. Ext. e deprec. Indivı́duo que, dominado por um supposto ideal, não attende aos factos da vida positiva nem ás lições da experiência. (Do gr. nephele + bates) |adj.| O que anda ou vive nas nuvens. Próprio de quem vive nas nuvens. Fig. Literato excêntrico, que desconhece ou despreza os processos conhecidos e o bom senso literário. Ext. e deprec. Indivı́duo que, dominado por um supposto ideal, não attende aos factos da vida positiva nem ás lições da experiência. (Do gr. nephele + bates)
+nefelı́bata |m.| O que anda ou vive nas nuvens. Próprio de quem vive nas nuvens. Fig. Literato excêntrico, que desconhece ou despreza os processos conhecidos e o bom senso literário. |Ext.| e deprec. Indivı́duo que, dominado por um supposto ideal, não attende aos factos da vida positiva nem ás lições da experiência. (Do gr. nephele + bates) |adj.| O que anda ou vive nas nuvens. Próprio de quem vive nas nuvens. Fig. Literato excêntrico, que desconhece ou despreza os processos conhecidos e o bom senso literário. |Ext.| e deprec. Indivı́duo que, dominado por um supposto ideal, não attende aos factos da vida positiva nem ás lições da experiência. (Do gr. nephele + bates)
 nefelibatice |f.| Deprec. Opinião, acto ou dito, próprio de nefelibata.
 nefelibático |adj.| Relativo a nefelibata.
 nefelibatismo |m.| Qualidade ou sistema de nefelibata.
@@ -792,7 +792,7 @@ negociável |adj.| Que se póde negociar, que póde sêr objecto de permutação
 negócio |m.| O mesmo que commércio. Tráfico. Transacções mercantis. Negociação. Empresa. Questão pendente. Qualquer assumpto. Ajuste. (Lat. negotium)
 negociosamente |adv.| De modo negocioso; cuidadosamente; com afan.
 negocioso |adj.| Que tem muitos negócios. Activo, cuidadoso. (Lat. negotiosus)
-negra #,(nê)# |f.| Mulher negra. Escrava. Ext. Mulher, que trabalha muito. Nódoa negra na pelle. No jôgo, a partida que desempata as anteriores. * Pesc. Cardume de sardinha. * Negrinha, ave. (De negro)
+negra #,(nê)# |f.| Mulher negra. Escrava. |Ext.| Mulher, que trabalha muito. Nódoa negra na pelle. No jôgo, a partida que desempata as anteriores. * Pesc. Cardume de sardinha. * Negrinha, ave. (De negro)
 negra-de-pote |f.| Ant. Negra, que transportava água, do chafariz para os domicı́lios.
 negra-moira |f.| Variedade de uva tinta. |adj.| Variedade de uva tinta.
 negra-molle |f.| Variedade de uva tinta. |adj.| Variedade de uva tinta.
@@ -1041,7 +1041,7 @@ neperiano |adj.| Que foi inventado por Neper, (falando-se de logarı́thmos).
 nephálio |m.| Gênero de insectos longicórneos.
 nephelemancia |f.| Arte de adivinhar, pela inspecção das
 nuvens. (Do gr. nephele + manteia)
-nephelibata |m.| O que anda ou vive nas nuvens. Próprio de quem vive nas nuvens. Fig. Literato excêntrico, que desconhece ou despreza os processos conhecidos e o bom senso literário. Ext. e deprec. Indivı́duo que, dominado por um supposto ideal, não attende aos factos da vida positiva nem ás lições da experiência. (Do gr. nephele + bates) |adj.| O que anda ou vive nas nuvens. Próprio de quem vive nas nuvens. Fig. Literato excêntrico, que desconhece ou despreza os processos conhecidos e o bom senso literário. Ext. e deprec. Indivı́duo que, dominado por um supposto ideal, não attende aos factos da vida positiva nem ás lições da experiência. (Do gr. nephele + bates)
+nephelibata |m.| O que anda ou vive nas nuvens. Próprio de quem vive nas nuvens. Fig. Literato excêntrico, que desconhece ou despreza os processos conhecidos e o bom senso literário. |Ext.| e deprec. Indivı́duo que, dominado por um supposto ideal, não attende aos factos da vida positiva nem ás lições da experiência. (Do gr. nephele + bates) |adj.| O que anda ou vive nas nuvens. Próprio de quem vive nas nuvens. Fig. Literato excêntrico, que desconhece ou despreza os processos conhecidos e o bom senso literário. |Ext.| e deprec. Indivı́duo que, dominado por um supposto ideal, não attende aos factos da vida positiva nem ás lições da experiência. (Do gr. nephele + bates)
 nephelibatice |f.| Deprec. Opinião, acto ou dito, próprio de nephelibata.
 nephelibático |adj.| Relativo a nephelibata.
 nephelibatismo |m.| Qualidade ou systema de nephelibata.
@@ -1096,8 +1096,8 @@ nos rins, pela região lombar. (Do gr. nephros + tome)
 nephrotómico |adj.| Relativo á nephrotomia.
 nephtalita |m.| Israelita da trı́bo de Nephtali.
 néphtea |f.| Gênero de pólypos.
-nepote |m.| Sobrinho do Papa. Ext. Favorito, valido. (Do lat. nepos, nepotis)
-nepotismo |m.| Autoridade excessiva, que os sobrinhos e outros parentes dos Papas exerceram na administração ecclesiástica. Ext. Patronato, protecção excessiva, dada a parentes por alguém altamente collocado. (De nepote)
+nepote |m.| Sobrinho do Papa. |Ext.| Favorito, valido. (Do lat. nepos, nepotis)
+nepotismo |m.| Autoridade excessiva, que os sobrinhos e outros parentes dos Papas exerceram na administração ecclesiástica. |Ext.| Patronato, protecção excessiva, dada a parentes por alguém altamente collocado. (De nepote)
 neptunaes |f.| pl. Festas, em honra de Neptuno, entre os antigos Romanos.
 neptuniano |adj.| Relativo ao Oceano. Geol. Diz-se especialmente de terrenos, que devem a sua origem á água. (De
 Neptuno, |n. p.| myth.)
@@ -1166,7 +1166,7 @@ neste #,(nês)# Expressão contrahida, equivalente a em este. (Cp. no 1 )
 néstis |m.| Gênero de peixes acanthopterýgios.
 nestlera |f.| Gênero de plantas, da |fam.| das compostas. (De
 Nestler, |n. p.| )
-nestor |m.| Nome de um velho e eloquente herói grego, que assistiu á guerra de Tróia. Ext. Homem velho e prudente. Bras. Insecto, de asas azues. (De Nestor, |n. p.| )
+nestor |m.| Nome de um velho e eloquente herói grego, que assistiu á guerra de Tróia. |Ext.| Homem velho e prudente. Bras. Insecto, de asas azues. (De Nestor, |n. p.| )
 nestorianismo |m.| Seita religiosa dos que, no século V, sustentavam a separação entre as naturezas divina e humana de Christo. (De Nestório, |n. p.| )
 nestoriano |adj.| Relativo ao Nestorianismo. |M.| Sectário do nestorianismo.
 nêta |f.| Nome, que os pescadores da Nazaré dão aos apparelhos medianos de arrastar para terra. Bras. A escuma mais fina, que deita o melado, quando ferve, nos engenhos de açúcar. (Do ingl. net)
@@ -1713,7 +1713,7 @@ nodus + cornu)
 nodifloro |adj.| Diz-se das plantas, cujas flôres nascem dos
 nós. (Do lat. nodus + flos, florı́s)
 nódio |m.| Metal novo, semelhante ao aluminio, mas mais leve e brilhante. (De Nodim, |n. p.| do descobridor)
-nodo |m.| Ponto de intersecção da eclı́ptica com a órbita de um planeta. Tumor duro, que se fórma em volta das articulações dos ossos. Ext. Parte proeminente de certos ossos. (Lat. nodus)
+nodo |m.| Ponto de intersecção da eclı́ptica com a órbita de um planeta. Tumor duro, que se fórma em volta das articulações dos ossos. |Ext.| Parte proeminente de certos ossos. (Lat. nodus)
 nódoa |f.| Vestı́gio de um corpo ou substância suja. Mancha. Mancha na pelle, em resultado de contusão. Fig. Mácula. Deslustre. Ignomı́nia; afronta. (Do lat. notula)
 nodoante |adj.| Que nodôa.
 nodoar |v. t.| O mesmo que ennodoar.
@@ -1766,7 +1766,7 @@ nolina |f.| Gênero de plantas melantháceas.
 nom |adv.| Ant. O mesmo que não.
 noma |m.| Med. Gangrena da bôca. (Gr. nome)
 nómada |m.| (V. nómade)
-nómade |adj.| Que não tem habitação fixa, (falando-se de tribos ou raças). Ext. Vagabundo. |M.| pl. Povos que, não pertencendo a determinado paı́s, andam vagueando, sem fixar residência. * Gênero de insectos hymnópteros. (Lat.
+nómade |adj.| Que não tem habitação fixa, (falando-se de tribos ou raças). |Ext.| Vagabundo. |M.| pl. Povos que, não pertencendo a determinado paı́s, andam vagueando, sem fixar residência. * Gênero de insectos hymnópteros. (Lat.
 nomas, nomadis)
 nomadismo |m.| Modo de vida dos Nómades.
 nomáfila |f.| Gênero de plantas acantáceas. (Do gr. nomas + philos)
@@ -2109,7 +2109,7 @@ nóvi |pref.| (designativo de novo e preferivel a néo..., mormente em palavras 
 nóvi-latino |adj.| O mesmo ou melhor que neó-latino.
 noviça |f.| Mulher, que se prepara para professar numa Ordem religiosa. (De noviço)
 noviciado |m.| Preparação ou exercı́cios, a que se sujeitam as pessôas que vão professar numa Ordem religiosa. Tempo que duram esses exercı́cios. Convento ou parte do con1388 vento, destinada aos noviços. Noviciaria. Fig. Apprendizado; tempo que elle dura. (Do lat. novicius)
-noviciar |v. i.| Praticar o noviciado. Ext. Fazer os primeiros exercı́cios. Iniciar-se; estrear-se: “foi alli que o estudante
+noviciar |v. i.| Praticar o noviciado. |Ext.| Fazer os primeiros exercı́cios. Iniciar-se; estrear-se: “foi alli que o estudante
 noviciou no amor ”. Camillo, Volcões, 23. (Cp. noviciado)
 noviciaria |f.| Parte do convento, em que residem os noviços. (Do lat. novicius)
 noviciário |adj.| Relativo a noviço.

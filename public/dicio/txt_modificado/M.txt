@@ -120,7 +120,7 @@ maçapão |m.| Bolo de farinha e ovos com amêndoas. (Cp. cast. mazapan)
 maçaquara |f.| Bras. Certa armadilha, para apanhar camarões em rios ou esteiros.
 macaqueação |f.| Acto ou effeito de macaquear. Cf. O’Neill, Fabulário, 855 e 967.
 macaqueador |m.| O que macaqueia. |adj.| O que macaqueia.
-macaquear |v. t.| Arremedar, como os macacos. Ext. Imitar ridiculamente.
+macaquear |v. t.| Arremedar, como os macacos. |Ext.| Imitar ridiculamente.
 macaqueiro |adj.| Relativo a macaco; próprio de macaco: “...carinhas tolas, macaqueiras...” Filinto, V, 14.
 macaquice |f.| Acto ou effeito de macaquear. Trejeitos ridı́culos. Lisonjas; carinhos interesseiros. (De macaco)
 macaquinhos |m.| pl. |Loc. fam.| Têr macaquinhos no sótão, ter pouco tino, têr pancada na mola. Disparatar.
@@ -529,7 +529,7 @@ madreporita |f.| Madrépora fóssil. (De madrépora)
 madresilva #,(sil )# |f.| Gênero de plantas, que contém espécies aromáticas, de ramos flexiveis e compridos, e que serve de typo ás caprifoliáceas. (De madre + silva)
 madressilva |f.| Gênero de plantas, que contém espécies aromáticas, de ramos flexiveis e compridos, e que serve de typo ás caprifoliáceas. (De madre + silva)
 madria |f.| Encapellamento das ondas; ondas que formam carneirada. * Prov. Rêgo de água; açude. (Por mandria, do lat. mandra, curral)
-madrigal |m.| Antiga composição musical, para vozes, sem acompanhamento. Pequena composição poética, engenhosa e galante. Poesia pastoril. Ext. Galanteio; lisonja dirigida a damas. (Do lat. matriale)
+madrigal |m.| Antiga composição musical, para vozes, sem acompanhamento. Pequena composição poética, engenhosa e galante. Poesia pastoril. |Ext.| Galanteio; lisonja dirigida a damas. (Do lat. matriale)
 madrigalesco |adj.| Relativo a madrigal ou ao gênero do
 madrigal. * |M.| Carácter de madrigal; idýllio amoroso.
 madrigalete #,(lê)# |m.| (dem. de madrigal )
@@ -549,7 +549,7 @@ madrinha |f.| Mulher, que serve de testemunha nos baptizados, chrismas e casamen
 madriz |f.| Caminho sôbre a maracha das salinas, do lado opposto á pervinca, e pelo qual se leva o sal para a eira. (Cp. matriz )
 madronho |m.| (e der.) O mesmo que medronho, etc. Cf. B. Pereira, Prosódia.
 madrugada |f.| Acto de madrugar. Aurora; alvorada. Fig. Precocidade.
-madrugador |adj.| Que madruga. |M.| Aquelle que madruga. Ext. e fig. Quem é diligente ou antecede outrem em qualquer acção. (De madrugar )madrugar
+madrugador |adj.| Que madruga. |M.| Aquelle que madruga. |Ext.| e fig. Quem é diligente ou antecede outrem em qualquer acção. (De madrugar )madrugar
 madrugar |v. i.| Levantar-se cedo da cama. Praticar algummafamede |m.| Pop. ant. O mesmo que moiro. Cf. Sim. acto antes do tempo próprio. Anteceder outrem em qualquer coisa. Manifestar-se muito cedo: madrugaram nelle os vı́cios. (Do rad. do lat. maturare)
 maduração |f.| Acto ou effeito de amadurecer; maturação. (Lat. maturatı́o)
 madurador |adj.| Que faz amadurecer. (De madurar )
@@ -771,7 +771,7 @@ Maio. (Lat. majus)
 maiobá |m.| Arbusto medicinal da Ilha de San-Thomé.
 maiólica |f.| O mesmo ou melhor que majólica.
 maionesa #,(nê)# |f.| O mesmo que baionesa. Cf. Castilho, Avarento, 182. |adj.| O mesmo que baionesa. Cf. Castilho, Avarento, 182.
-maionese |f.| Espécie de môlho frio, composto de azeite, vinagre, sal, pimenta, mostarda e ovos batidos. Ext. Iguaria com aquelle môlho. Fig. Mistura ou confusão de várias
+maionese |f.| Espécie de môlho frio, composto de azeite, vinagre, sal, pimenta, mostarda e ovos batidos. |Ext.| Iguaria com aquelle môlho. Fig. Mistura ou confusão de várias
 majangra coisas. (Fr. mayonnaise)
 maiór |adj.| Que excede outro em grandeza, em espaço, em intensidade ou em número. Que chegou á idade legal para reger sua pessôa e bens. * Maior da marca, muito grande, extraordinário, de marca maior. Cf. Camillo, Engeitada.
 M. Indivı́duo, que attingiu a maioridade ou que tem mais de 21 annos. Pl. Antepassados. (Do lat. major )
@@ -779,7 +779,7 @@ maioral |m.| Chefe. Fig. O maior de todos, (falando-se dos animaes de um rebanho
 maiorano |m.| Planta malvácea do Brasil.
 maiorca |f.| Variedade de pêra. (De Maiorca, |n. p.| )
 maioria |f.| O maior número, a maior parte. Superioridade. Pl. Prov. Luvas, gratificação. (De maior )
-maioridade |f.| Idade, em que o indivı́duo entra no gôzo de direitos civis. Ext. Completo desenvolvimento de uma sociedade. (De maior )
+maioridade |f.| Idade, em que o indivı́duo entra no gôzo de direitos civis. |Ext.| Completo desenvolvimento de uma sociedade. (De maior )
 maiorino |m.| Ant. Juiz superior, de cujas decisões só havia recurso para o monarcha ou para o governador da provı́ncia. Cf. Herculano, Bobo, 9. O mesmo que alcalde. Cf. Herculano, Hist. de Port., IV, 45. (De maior )
 maiorı́ssimo |adj.| Muito maior; maior que todos os outros. Cf. Arn. Gama, Últ. Dona, 154. (De maior )
 maiorista |m.| Neol. Partidário do systema eleitoral, que se baseia na maioria dos votos. (De maioria)
@@ -1204,7 +1204,7 @@ malquisto |adj.| Que adquiriu inimigos. Que tem má fama. Antipatico; odiado. (D
 malroupido |m.| O mesmo que maltrapilho. (De |adj.| O mesmo que maltrapilho. (De
 mal + roupa)
 malsão |adj.| Doentio. Convalescente; mal curado. (De mal... + são)
-malsim |m.| Fiscal alfandegário. Zelador dos regulamentos policiaes. Beleguim. Ext. Espião; denunciante. |Adj.| Que denuncı́a, que espı́a. (Do hebr. meluxin, calumniador?)
+malsim |m.| Fiscal alfandegário. Zelador dos regulamentos policiaes. Beleguim. |Ext.| Espião; denunciante. |Adj.| Que denuncı́a, que espı́a. (Do hebr. meluxin, calumniador?)
 malsinação |f.| Acto ou effeito de malsinar.
 malsinar |v. t.| Denunciar, sendo malsim. Denunciar; calumniar. Dar má interpretação a. Agoirar mal de. (De malsim)
 malsoante |adj.| Que sôa mal. Fig. Que escandaliza os ouvidos de pessôas honestas ou religiosas: palavras malsoantes. (De mal... + soante)
@@ -1415,7 +1415,7 @@ manampansa |f.| Bras. do Rio. Espécie de beiju, feito de
 massa de mandioca e temperado com açúcar e erva doce.
 manana #,1 # |f.| Pulseira de varetas de metal, na Lunda.
 manana #,2 # |m.| Madeira amarela de Taiti.
-manancial |m.| Nascente de água; fonte. Ext. Origem; fonte abundante: a Tôrre do Tombo é um manancial de esclarecimentos. |Adj.| Que mana ou corre incessantemente. (Cp. cast. manantial )
+manancial |m.| Nascente de água; fonte. |Ext.| Origem; fonte abundante: a Tôrre do Tombo é um manancial de esclarecimentos. |Adj.| Que mana ou corre incessantemente. (Cp. cast. manantial )
 manancialmente |adv.| Sem cessar; perennemente. (De
 manancial )
 mananguera #,(gu-ê)# |m.| , |f.| Bras. Pessôa magra. |adj.| Bras. Pessôa magra.
@@ -1468,8 +1468,8 @@ manchua |f.| Ant. Leve embarcação asiática. Cf. Peregr., XL e CLXXX; Hist. Tr
 mancinela |f.| O mesmo que mancenilha. Cf. Castilho, Sabichonas, 176.
 mancinella |f.| O mesmo que mancenilha. Cf. Castilho, Sabichonas, 176.
 mancipar |v. t.| (e der.) (V. emancipar, etc.) |V. p.| Sujeitarse, entregar-se: mancipar-se ao serviço de Deus. Cf. |M.| Bernárdez, N. Floresta, III, 156. (Lat. mancipare)
-mancı́pio |m.| Ant. Escravo. Ext. Indivı́duo ou coisa dependente. (Lat. mancipium)
-manco |adj.| A quem falta uma das mãos ou um pé. Que não póde servir-se de algum dos membros locomotores. Coxo. Ext. Defeituoso, acanhado, ignorante. Vagaroso. |M.| Peça curva, que se entalha nos gios da embarcação. * Indivı́duo, que é manco. (Lat. mancus)
+mancı́pio |m.| Ant. Escravo. |Ext.| Indivı́duo ou coisa dependente. (Lat. mancipium)
+manco |adj.| A quem falta uma das mãos ou um pé. Que não póde servir-se de algum dos membros locomotores. Coxo. |Ext.| Defeituoso, acanhado, ignorante. Vagaroso. |M.| Peça curva, que se entalha nos gios da embarcação. * Indivı́duo, que é manco. (Lat. mancus)
 mancolitar |v. i.| T. da Bairrada. Manquejar, coxear. (De mancolitó)
 mancolitó |m.| T. da Bairrada. O mesmo que manquitó.
 mancommunação |f.| Acto ou effeito de mancommunar.
@@ -1502,7 +1502,7 @@ mandado #,2 # |m.| Acto de mandar. Ordem, determinação imperativa. Ordem escri
 mandador |m.| O que manda; o que gosta de mandar. * Pesc. O encarregado que representa os donos dos cercos ou armações de pesca. (Lat. mandator ) |adj.| O que manda; o que gosta de mandar. * Pesc. O encarregado que representa os donos dos cercos ou armações de pesca. (Lat. mandator )
 mandamento |m.| Acto ou effeito de mandar. Mandado. Voz de commando. Cada um dos preceitos que constituem o decálogo. Cada um dos cinco preceitos, formulados no cathecismo cathólico para uso dos fiéis. * Marn. O grupo dos caldeiros, sobrecabeceiras, cabeceiras e talhos, nas salinas. * Ant. Circunscripção territorial; districto; julgado. * Ant. Pastoral de Bispo. Cf. Latino, Hist. Pol., I. Pl. |Fam.| Os dedos da mão, (por allusão ao número dos mandamentos da Igreja).
 mandante |adj.| Que manda; que subordina ou rege. |M.| Aquelle que manda, o que dá ordens. Aquelle que dirige certos trabalhos. Aquelle que autoriza outrem ou o incita a certos actos em seu nome. (Lat. mandans)
-mandão |m.| Aquelle que manda arrogantemente. Ext. Déspota. (De mandar )
+mandão |m.| Aquelle que manda arrogantemente. |Ext.| Déspota. (De mandar )
 mandapuá |f.| (V. jabiru)
 mandapuçá |m.| Árvore do Brasil. Fruta dessa árvore.–Os diccion. dizem erradamente mandapuça.
 mandaque |m.| Planta amaranthácea do Brasil.
@@ -1641,7 +1641,7 @@ mangal #,1 # |m.| Terreno, em que crescem mangueiras. (De
 manga 2 )
 mangal #,2 # |m.| Floresta de mangues.
 mangala |m.| Idioma, falado em Ceilão.
-mangalaça |f.| Vadiagem. Ext. Mancebia.
+mangalaça |f.| Vadiagem. |Ext.| Mancebia.
 mangalaço |m.| Vadio; tunante; biltre; patife. Cf. Pacheco, Promptuário.
 mangalala |f.| Ramoso arbusto africano, de fôlhas simples e flôres polypétalas, brancas.
 mangalhado |adj.| Gı́r. ant. O mesmo que preguiçoso. (Cp. mangalhão)
@@ -2692,7 +2692,7 @@ Moiros e Judeus, talvez por não comerem carne de porco. Immundo; excomungado. |
 marrão #,1 # |m.| Pequeno porco, que deixou de mamar. * |Adj.| Gı́r. Surprehendido em um crime. Bras. do Rio Grande do S. Bravio, selvagem. (Cast. marrano)
 marrão #,2 # |m.| Grande martelo de ferro, para quebrar pedra principalmente. (Do rad. do marrar )
 marrão #,3 # |m.| Ant. Amarrão, grande amarra?: “...dependurar-nos das tilhas, huns com marrões, outros com cabos”. Hist. Trág. Marit., 52.
-marrar |v. i.| Bater com a cornada, (falando-se de animaes cornı́geros). Bater como marrão2 . * Ext. e chul. Bater com a cabeça. Encontrar-se de frente com alguém ou com alguma coisa. * Toldar-se (o vinho). (Cp. marrada)
+marrar |v. i.| Bater com a cornada, (falando-se de animaes cornı́geros). Bater como marrão2 . * |Ext.| e chul. Bater com a cabeça. Encontrar-se de frente com alguém ou com alguma coisa. * Toldar-se (o vinho). (Cp. marrada)
 marrasquinado |adj.| Que bebeu muito marrasquino; embebedado com marrasquino. Cf. Macedo, Motim, II.
 marrasquino |m.| Licor, feito com cerejas, o mesmo que
 marasquino. (Cast. marrasquino, de marrasca, cereja)
@@ -2749,11 +2749,11 @@ marta #,1 # |f.| Gênero de mammı́feros, carnı́voros e digitigrados.
 marta #,2 # |f.| Prov. trasm. O mesmo que bebedeira.
 marta #,3 # |f.| Casta de uva branca americana.
 martagão |m.| Variedade de lı́rio, (lilium martagon).
-marte |m.| O deus da guerra, segundo a Mythologia grega e latina. Planeta, cuja revolução em volta do Sol dura 687 dias. Ext. Guerra. Homem guerreiro. (Lat. Mars, Martis)
+marte |m.| O deus da guerra, segundo a Mythologia grega e latina. Planeta, cuja revolução em volta do Sol dura 687 dias. |Ext.| Guerra. Homem guerreiro. (Lat. Mars, Martis)
 marteirar |v. t.| Ant. O mesmo que martyrizar. Cf. G. Vicente, I, 191; Arn. Gama, Ult. Dona, 232. (De marteiro)
 marteiro |m.| Ant. O mesmo que martýrio. Cf. G. Vicente, I, 208.
 mártel |m.| Pop. e ant. O mesmo que mártyr. Cf. G. Vicente, I, 232.
-martelada |f.| Pancada com martelo. Ext. Estrondo, semelhante, ao da pancada do martelo.
+martelada |f.| Pancada com martelo. |Ext.| Estrondo, semelhante, ao da pancada do martelo.
 martelador |m.| Aquelle que martela.
 martelar |v. t.| Bater com o martelo em. Fig. Importunar. Causticar; maçar. |V. i.| Dar marteladas. * Fig. Insistir:
 martelar num assumpto.
@@ -2783,22 +2783,22 @@ martinho #,2 # |m.| Carneiro, que vai á frente de um rebanho?: “...embora nı
 martinho-pescador |m.| (V. martim-pescador )
 martinica |f.| Bras. do Maranhão. Calça larga, usada por homem do povo.
 martiniega |f.| Ant. Tributo, que os proprietários pagavam, no dia de San-Martinho. Cf. Herculano, Hist. de Port., IV, 418.
-mártir |m.| Pessôa, que sofreu tormentos ou a morte por sustentar a fé christan. Ext. Aquele que sofre por causa das suas crenças ou das suas opiniões. Pessôa, que sofre |f.| Pessôa, que sofreu tormentos ou a morte por sustentar a fé christan. Ext. Aquele que sofre por causa das suas crenças ou das suas opiniões. Pessôa, que sofre
+mártir |m.| Pessôa, que sofreu tormentos ou a morte por sustentar a fé christan. |Ext.| Aquele que sofre por causa das suas crenças ou das suas opiniões. Pessôa, que sofre |f.| Pessôa, que sofreu tormentos ou a morte por sustentar a fé christan. |Ext.| Aquele que sofre por causa das suas crenças ou das suas opiniões. Pessôa, que sofre
 muito. Pessôa, que é vı́tima dos maus tratos de outrem. (Lat. mártyr ).
 mártire |m.| Des. O mesmo que mártir. Cf. Lusı́adas, III, 74.
-martı́rio |m.| Sofrimento ou suplı́cio de mártir. Ext. Tormento ou grande sofrimento; grande aflição. Bot. Planta passiflórea, (passiflora caerula, Lin.). (Lat. martyrium)
-martirizar |v. i.| Tornar mártir. Ext. Atormentar, afligir muito.
+martı́rio |m.| Sofrimento ou suplı́cio de mártir. |Ext.| Tormento ou grande sofrimento; grande aflição. Bot. Planta passiflórea, (passiflora caerula, Lin.). (Lat. martyrium)
+martirizar |v. i.| Tornar mártir. |Ext.| Atormentar, afligir muito.
 martirológio |m.| Lista dos mártires, com a narração dos seus tormentos. (Do gr. martur + logion)
 martirologista |m.| Autor de um martirológio.
 marto |m.| Prov. minh. Gato bravo. (Relaciona-se com
 marta 1 ?)
 martur |m.| Ant. Espécie de taficira.
 martýnia |f.| Gênero de plantas gesneráceas. (De Martyn, |n. p.| )
-mártyr |m.| Pessôa, que soffreu tormentos ou a morte por sustentar a fé christan. Ext. Aquelle que soffre por causa das suas crenças ou das suas opiniões. Pessôa, que soffre muito. Pessôa, que é vı́ctima dos maus tratos de outrem. (Lat. mártyr ). |f.| Pessôa, que soffreu tormentos ou a morte por sustentar a fé christan. Ext. Aquelle que soffre por causa das suas crenças ou das suas opiniões. Pessôa, que soffre muito. Pessôa, que é vı́ctima dos maus tratos de outrem. (Lat. mártyr ).
+mártyr |m.| Pessôa, que soffreu tormentos ou a morte por sustentar a fé christan. |Ext.| Aquelle que soffre por causa das suas crenças ou das suas opiniões. Pessôa, que soffre muito. Pessôa, que é vı́ctima dos maus tratos de outrem. (Lat. mártyr ). |f.| Pessôa, que soffreu tormentos ou a morte por sustentar a fé christan. |Ext.| Aquelle que soffre por causa das suas crenças ou das suas opiniões. Pessôa, que soffre muito. Pessôa, que é vı́ctima dos maus tratos de outrem. (Lat. mártyr ).
 mártyre |m.| Des. O mesmo que mártyr. Cf. Lusı́adas, III,
 mas 74.
-martýrio |m.| Soffrimento ou supplı́cio de mártyr. Ext. Tormento ou grande soffrimento; grande afflicção. Bot. Planta passiflórea, (passiflora caerula, Lin.). (Lat. martyrium)
-martyrizar |v. i.| Tornar mártyr. Ext. Atormentar, affligir muito.
+martýrio |m.| Soffrimento ou supplı́cio de mártyr. |Ext.| Tormento ou grande soffrimento; grande afflicção. Bot. Planta passiflórea, (passiflora caerula, Lin.). (Lat. martyrium)
+martyrizar |v. i.| Tornar mártyr. |Ext.| Atormentar, affligir muito.
 martyrológio |m.| Lista dos mártyres, com a narração dos seus tormentos. (Do gr. martur + logion)
 martyrologista |m.| Autor de um martyrológio.
 maruás |m.| pl. Indı́genas do norte do Brasil.
@@ -2882,7 +2882,7 @@ masculinismo |m.| Neol. Qualidade de masculino.
 masculinizar |v. t.| Tornar masculino. Attribuir gênero
 masculino a. Dar fórma masculina a. Fig. Dar a apparência de sexo masculino a.
 masculino |adj.| Que é do sexo dos animaes machos. Relativo ao macho. Fig. Varonil, másculo, enérgico. |Gram.| Diz-se das palavras ou dos nomes e do gênero de palavras ou nomes, que, pela sua terminação ou pela sua concordância, designam seres que são masculinos ou se consideram taes, embora não tenham sexo. (Lat. masculinus)
-másculo |adj.| Relativo ao homem ou a animal macho. Ext. Viril; enérgico. (Lat. masculus)
+másculo |adj.| Relativo ao homem ou a animal macho. |Ext.| Viril; enérgico. (Lat. masculus)
 masdeı́smo |m.| Religião de Zoroastro. (Do zenda masda)
 masdevália |f.| Gênero de orquı́deas do Brasil.
 masdevállia |f.| Gênero de orchı́deas do Brasil.
@@ -2966,7 +2966,7 @@ mastigóforo |m.| Funcionário público que, armado do chicote, era encarregado 
 mastigóphoro |m.| Funccionário público que, armado do chicote, era encarregado de manter a ordem nos theatros gregos e romanos. (Lat. mastigophoros)
 mastil |m.| Des. Pequeno mastro de navio; mastro. (Cp. cast. mastil )
 mastilina |f.| Princı́pio constitutivo do mastique.
-mastim |m.| Cão para guarda de gado. Ext. Cão bulhento. Fig. Pessôa, que tem má lı́ngua. Agente policial. (Do it. mastino)
+mastim |m.| Cão para guarda de gado. |Ext.| Cão bulhento. Fig. Pessôa, que tem má lı́ngua. Agente policial. (Do it. mastino)
 mastique |m.| O mesmo que almécega. (Fr. mastic, do lat. mastiche)
 mastite |f.| Med. Designação genérica de inflammações nas
 mamas. (Do gr. mastos)
@@ -3042,7 +3042,7 @@ matahambre |f.| Bras. do S. Carne das reses, extrahida das costellas. (Do cast. 
 mataime |m.| O mesmo que matame.
 matal |m.| Ant. O mesmo que matagal. (De mata 1 )
 matalotado |adj.| Provido de matolagem. (De matalote).
-matalotagem |f.| Provisão de mantimentos para a marinhagem ou para outras pessôas que embarcam, fazendo camaradagem ou rancho. Ext. Provisão de mantimentos. Fig. Amálgama; montão de coisas confusas. (De matalote)
+matalotagem |f.| Provisão de mantimentos para a marinhagem ou para outras pessôas que embarcam, fazendo camaradagem ou rancho. |Ext.| Provisão de mantimentos. Fig. Amálgama; montão de coisas confusas. (De matalote)
 matalote |m.| Marinheiro. Camarada a bordo. Camarada ou companheiro de serviço. Navio, que precede outro e lhe serve de baliza para as manobras. Embarcação ordinária. * Ant. Marau, brejeiro. (Cp. cast. matalote)
 matamatá |m.| Espécie de tartaruga, (testudo fimbria), indı́gena de Caiena. Árvore myrtácea.–B. C. Rubim, Voc. Bras., manda lêr mata-mata.
 matambu |m.| Árvore silvestre do Brasil, de bôa madeira para trabalhos de carpintaria.
@@ -3150,7 +3150,7 @@ matinca |m.| Prov. alent. Espécie de melão vulgar.
 matineiro |m.| Ant. Dizia-se do livro, por onde se rezavam matinas. |adj.| Ant. Dizia-se do livro, por onde se rezavam matinas.
 matintaperera |f.| Bras. do N. Nome de uma ave, que canta de noite. (T. onom.)
 matiri |m.| Bras. do N. Espécie de saco, feito de fibras de1259 tucum.
-matiz |m.| Combinação de côres diversas, num tecido, pintura, paisagem, etc. Côr mimosa de alguns objectos da natureza. Ext. Gradação de côres. Fig. Colorido no estilo. Côr politica. Facção. (Cast. matiz )
+matiz |m.| Combinação de côres diversas, num tecido, pintura, paisagem, etc. Côr mimosa de alguns objectos da natureza. |Ext.| Gradação de côres. Fig. Colorido no estilo. Côr politica. Facção. (Cast. matiz )
 matização |f.| Acto ou effeito de matizar.
 matizar |v. t.| Variar (côres). Dar côres diversas a. Fig. Adornar. (De matiz )
 matmorra #,(mô)# |f.| O mesmo que matamorra. Cf. Goes, Chrón. de D. Man., p. III, c. 71.
@@ -3280,8 +3280,8 @@ mauritano |adj.| Relativo á Mauritânia. |M.| Habitante da
 Mauritânia; moiro. (Lat. mauritanus)
 mauro |m.| Ant. O mesmo que maravedi. |M.| Poét. O |adj.| Poét. O
 mesmo que moiro.
-mausoléo |m.| Sepulcro de Mausolo. Ext. Sepulcro sumptuoso. (Lat. mausoleum)
-mausoléu |m.| Sepulcro de Mausolo. Ext. Sepulcro sumptuoso. (Lat. mausoleum)
+mausoléo |m.| Sepulcro de Mausolo. |Ext.| Sepulcro sumptuoso. (Lat. mausoleum)
+mausoléu |m.| Sepulcro de Mausolo. |Ext.| Sepulcro sumptuoso. (Lat. mausoleum)
 mávia |m.| Lı́ngua de algumas tribos cafreaes.
 maviosamente |adv.| De modo mavioso; com suavidade; deliciosamente.
 maviosidade |f.| Qualidade de mavioso.
@@ -3841,7 +3841,7 @@ melanuria |f.| Med. Emissão de urina preta, denegrida ou azulada. (Do gr. melas
 melanurina |f.| Med. Substância negra, que se acha na urina de certos enfermos. (Do gr. melas + ourou)
 melanuro |adj.| Zool. Que tem cauda negra. (Do gr. melas + oura)
 melanzela |f.| Planta trepadeira da ilha de San-Thomé.
-melão |m.| Fruto do meloeiro. Ext. O meloeiro. (Lat. melo)
+melão |m.| Fruto do meloeiro. |Ext.| O meloeiro. (Lat. melo)
 melão-da-ı́ndia |m.| O mesmo que pateca.
 melaphýrico |adj.| Relativo ao meláphyro.
 meláphyro |m.| Pórphyro negro, que é um diabásico com olivina. (Do gr. melas e de pórphyro)
@@ -4000,7 +4000,7 @@ melão. (De melão)
 meloal |m.| Terreno, em que crescem meloeiros; melancial. (De melão)
 melocacto |m.| Gênero de cactos. (Do lat. melo + cactus)
 melocotão |m.| O mesmo que maracotão. (Cast. melocoton)
-melodia |f.| Série de sons, de que resulta um canto regular e agradável. Conjunto de sons successivos, que formam uma ou mais phrases musicaes. Qualidade de um canto agradável. Peça musical, suave, para uma só voz ou para um coro unı́sono. Ária. Ext. Suavidade no cantar, no falar ou no escrever. Aquillo que é agradável ao ouvido. (Gr.
+melodia |f.| Série de sons, de que resulta um canto regular e agradável. Conjunto de sons successivos, que formam uma ou mais phrases musicaes. Qualidade de um canto agradável. Peça musical, suave, para uma só voz ou para um coro unı́sono. Ária. |Ext.| Suavidade no cantar, no falar ou no escrever. Aquillo que é agradável ao ouvido. (Gr.
 melodia)melódica |f.| Instrumento musical, cujos sons são produzidos
 melodia) pelo attrito de umas pontas de metal sôbre um cylindro de aço. Theoria da melodia. (De melódico)
 melódico |adj.| Relativo á melodia; melodioso. (Lat. melodicus)
@@ -4039,7 +4039,7 @@ meloniforme |adj.| Bot. Que tem fórma semelhante á do
 melão. (Do lat. melo + forma)
 melonita |f.| Miner. Pedra globulosa, com a fórma de melão. (Do lat. melo)
 melope |m.| Peixe variegado, do gênero dos labros, (labrus melops).
-melopeia |f.| Peça musical, que serve de acompanhamento a uma recitação. Arte de fazer acompanhamentos musicaes. Ext. Suavidade. Declamação agradável ao ouvido. (Gr. melopoiia)
+melopeia |f.| Peça musical, que serve de acompanhamento a uma recitação. Arte de fazer acompanhamentos musicaes. |Ext.| Suavidade. Declamação agradável ao ouvido. (Gr. melopoiia)
 melóphilo |adj.| Que gosta de música. (Do gr. meios + philos)
 melophone |m.| O mesmo que melophono.
 melophono |m.| Instrumento de sopro, um pouco semelhante no feitio á guitarra. (Do gr. melos + phone)
@@ -4120,7 +4120,7 @@ memorandum #,(memorândun)# |m.| Livrinho do lem-mendaz |adj.| Mentiroso; falso.
 mendelssohn (Mên..., e não Mendélssohn) Compositor branças. Participação ou aviso por escrito. Nota diplomática de uma nação para outra, sôbre o estado de uma questão. (T. lat.)
 memorar |v. i.| Trazer á memória; tornar lembrado. Commemorar. (Lat. memorare)
 memorativo |adj.| O mesmo que commemorativo. (Lat. memorativus)
-memorável |adj.| Digno de ficar na memória. Ext. Notável; célebre. (Lat. memorabilis)
+memorável |adj.| Digno de ficar na memória. |Ext.| Notável; célebre. (Lat. memorabilis)
 memória |f.| Faculdade de conservar ideias ou noções de objectos: conservar na memória. Lembrança, reminiscência:
 memórias do passado. Celebridade. Reputação: deixou bôa memória. Monumento commemorativo de pessoa célebre ou de sucesso notável: construiu-se uma memória no Buçaco. Relação: escrever a memória de um naufrágio. Apontamento para lembrança. Memorial. Vestı́gio. Aquillo que serve de lembrança. Dissertação. Exposição summária de um successo, de um pedido, de uma reclamação, etc. (Lat. memoria)
 memorial |m.| Livrinho de lembranças. Petição escrita. Lembrança. |Adj.| Memorável. (Lat. memoralis)
@@ -4421,7 +4421,7 @@ mensageiro de amor. * Preparação pharmacêutica, em que entra o mercúrio. (De
 mercurioso |adj.| Pharm. Em que entra mercúrio; composto com mercúrio.
 mercuroso |adj.| Forma incorrecta, por mercurioso. Cf. Pharmacopeia Port.
 mercuzan |f.| Ant. O mesmo que medruzan.
-merda |f.| Pleb. Matérias fecaes. Fezes, que o intestino expelle normalmente pelo ânus. Excremento. Dejecto. Ext. Porcaria. * |Interj.| (design. de repulsão ou desprezo, em conversações plebeias) (Lat. merda)
+merda |f.| Pleb. Matérias fecaes. Fezes, que o intestino expelle normalmente pelo ânus. Excremento. Dejecto. |Ext.| Porcaria. * |Interj.| (design. de repulsão ou desprezo, em conversações plebeias) (Lat. merda)
 merdalha |f.| Pleb. Gente ordinária, escória, ralé. (De merda)
 merdeiro |adj.| Pleb. Relativo a merda. Cf. G. Vicente, I, 224. |M.| T. de Aveiro Aquelle que negocia em excremento humano, para adubos. T. da Bairrada Espécie de
 moscardo, que vive nos excrementos.
@@ -4462,7 +4462,7 @@ meristema
 mergulhador |m.| O que mergulha. Homem, que trabalha debaixo de água. Pescador de pérolas. * |M.| bras. Ave, semelhante á gaivota. |adj.| O que mergulha. Homem, que trabalha debaixo de água. Pescador de pérolas. * |M.| bras. Ave, semelhante á gaivota.
 mergulhante |adj.| Neol. Bras. Que mergulha.
 mergulhão |m.| Vara das videiras, que se mergulha na terra, ficando a ponta de fóra. Mergulhia. Ave palmı́pede, (colymbus). Ave pernalta (podiceps). * |Adj.| Que mergulha (falando-se do uma espécie de ganso). Cf. Filinto, XIII, 273. (De mergulhar )
-mergulhar |v. t.| Meter debaixo da água. Afundar na água. Ext. Entranhar. Enterrar (o mergulhão, vide). |V. i.| Occultar-se dentro da água; afundar-se nella; immergir. Ext. Entranhar-se. Fig. Desapparecer. (Do lat. hyp.
+mergulhar |v. t.| Meter debaixo da água. Afundar na água. |Ext.| Entranhar. Enterrar (o mergulhão, vide). |V. i.| Occultar-se dentro da água; afundar-se nella; immergir. |Ext.| Entranhar-se. Fig. Desapparecer. (Do lat. hyp.
 merguliare, de mergulus, |dem.| de mergus)
 mergulhia |f.| Acto de enterrar o mergulhão da vide, para reproducção da videira; mergulhão. (Do mergulhar )
 mergulho |m.| Acto de mergulhar. Mergulhão, ave. * O
@@ -4700,7 +4700,7 @@ messiado |m.| Missão ou funcções de Messias.
 messiânico |adj.| Relativo ao Messias.
 messianismo |m.| Crença na vinda do Messias.
 messianista |m.| Sectário do messianismo.
-messias |m.| O redemptor promettido no Antigo Testamento. Ext. Pessôa, esperada ansiosamente. Fig. Reformador social. (Lat. messias)
+messias |m.| O redemptor promettido no Antigo Testamento. |Ext.| Pessôa, esperada ansiosamente. Fig. Reformador social. (Lat. messias)
 messidor |m.| Décimo mês do calendário da primeira república francesa, o qual começava a 19 ou 20 de Junho. (Do lat. messis + gr. doron)
 messório |adj.| Que ceifa ou recolhe cereaes. Cf. Garção, II, 21. (Lat. messorius)
 mesteiral |m.| Ant. O mesmo que artı́fice. (De mestér )
@@ -4760,7 +4760,7 @@ metacismo |m.| Repetição frequente da letra |m.| (Lat. melacismus)
 metacromatismo |m.| Mudança de côr, que se observa nos pêlos, nas penas ou na pele dos animaes, segundo a idade ou diferentes condições mórbidas. (Do gr. meta + khroma)
 metacronismo |m.| Êrro de data, que consiste em colocar um acontecimento num tempo posterior ao verdadeiro.– Definem assim, pouco mais ou menos, os dicion. portugueses. Littré define diversamente, dando ao |pref.| meta a planificação de anterior, mas a sua definição briga, pelo
 menos, com a que se dá de metazoário. (Do gr. meta + khronos)
-metade |f.| Cada uma das duas partes iguaes, em que se divide um todo. Ext. Parte, proximamente igual a metade. |Fam.| Espôsa, em relação ao marido: a minha cara metade. (Lat. medietas)
+metade |f.| Cada uma das duas partes iguaes, em que se divide um todo. |Ext.| Parte, proximamente igual a metade. |Fam.| Espôsa, em relação ao marido: a minha cara metade. (Lat. medietas)
 metafalange |f.| Anat. Peça distal do dedo, ou falangeta. (De meta... + phalange)
 metafalangeal |adj.| Relativo á metafalange.
 metafisga |f.| Prov. Astúcia; esperteza. (Por metaphysica)
@@ -5177,7 +5177,7 @@ mexicano |adj.| Relativo ao México. |M.| Habitante do México.
 méxico |m.| Variedade de tabaco. (De México, |n. p.| )1291
 micha
 mexida |f.| Confusão; desordem; discórdia; reboliço. Mixór-mezzanino |m.| Constr. Andar pouco elevado, entre dois dia. (De mexido)
-mexido |adj.| Revolvido. Agitado. Ext. Inquieto. * |M.| Prov. minh. Doce, que se prepara para a ceia da véspera do Natal e é feito de calda de açúcar, pão ralado, mel e casca de limão. Pl. Intrigas. Saracoteio, em certas danças. (De mexer )
+mexido |adj.| Revolvido. Agitado. |Ext.| Inquieto. * |M.| Prov. minh. Doce, que se prepara para a ceia da véspera do Natal e é feito de calda de açúcar, pão ralado, mel e casca de limão. Pl. Intrigas. Saracoteio, em certas danças. (De mexer )
 mexilhão |m.| Gênero de molluscos, (mytilus). (Cp. cast. mejillón)
 mexilho |m.| Barra de ferro, que prende a aiveca ao teiró, regulando-lhes o maior ou menor afastamento. (De mexer )
 mexilhoeira |f.| Lugar, onde se criam mexilhões: “as grandes
@@ -5478,7 +5478,7 @@ miga |f.| Espécie de búzio. Pl. Sopas de pão, açorda. (Do lat. mica)
 migado |m.| Prov. trasm. Pão, que se migou e que fica no fundo da malga do caldo. (De migar )
 mı́gala |f.| Grande aranha, vulgar ao sul da Europa, e cuja
 mordedura produz inchação. (Gr. mugale)
-migalha |f.| Pequeno fragmento do pão, de bolos ou de outro alimento farináceo. Ext. Pequena porção. * |M.| Prov. trasm. Indivı́duo sovina, forreta. Pl. Sobejos. Aquillo que é supérfluo ou se despreza por sêr de pouca monta. (Do b. lat. micalia, de mica)
+migalha |f.| Pequeno fragmento do pão, de bolos ou de outro alimento farináceo. |Ext.| Pequena porção. * |M.| Prov. trasm. Indivı́duo sovina, forreta. Pl. Sobejos. Aquillo que é supérfluo ou se despreza por sêr de pouca monta. (Do b. lat. micalia, de mica)
 migalhar |v. t.| O mesmo que esmigalhar.
 migalheiro |adj.| P. us. Que se occupa de pequenas coisas. Que se prende com miudezas. Que repara em tudo. Des. Sovina; mofino. |M.| (Corr. de mealheiro) (De migalha)
 migalhice |f.| Bagatela, insignificância. (De migalha)
@@ -5524,7 +5524,7 @@ mijolo |m.| Bras. do N. O mesmo que munjolo.
 mijona |adj.| Diz-se de uma espécie de uva, de bagos molles e sabor desagradável. (De mijão)
 mijote |m.| Pop. O mesmo que cagarola. (De mijar )
 mijuı́ |m.| Bras. Pequena abelha preta.
-mil |adj.| Déz vezes cem. Ext. Muitos, em quantidade indeterminada: repeti-lho mil vezes. (Lat. mille)
+mil |adj.| Déz vezes cem. |Ext.| Muitos, em quantidade indeterminada: repeti-lho mil vezes. (Lat. mille)
 mil-em-rama |f.| Planta medicinal, da |fam.| das compostas, (achillea millefolia).
 mil-flôres |m.| Essência de muitas espécies de flôres. |Adj.| Diz-se do cavallo, que tem o pêlo mesclado de branco e vermelho.
 mil-fôlhas |f.| O mesmo que millefólio. Variedade de pêra beirôa.
@@ -5594,9 +5594,9 @@ milhaneiro |adj.| Que caça milhanos.
 milhano |m.| O mesmo que milhafre.
 milhano-das-tôrres |m.| Ave, o mesmo que peneireiro.
 milhano-de-asa-redonda |m.| O mesmo que mioto.
-milhão #,1 # |m.| Mil vezes mil. Somma de 400 contos de reis, equivalente a um milhão de cruzados. Ext. Número muito considerável, mas indeterminado. (De mil )
+milhão #,1 # |m.| Mil vezes mil. Somma de 400 contos de reis, equivalente a um milhão de cruzados. |Ext.| Número muito considerável, mas indeterminado. (De mil )
 milhão #,2 # |m.| Milho de cana muito alta e grão muito graúdo.1297 * Ant. Milho miúdo.
-milhar #,1 # |m.| Quantidade, que abrange déz centenas. O número mil. O quarto lugar, da direita para a esquerda, numa série de algarismos. Ext. Grande número, grande quantidade. (Do lat. milliarius)
+milhar #,1 # |m.| Quantidade, que abrange déz centenas. O número mil. O quarto lugar, da direita para a esquerda, numa série de algarismos. |Ext.| Grande número, grande quantidade. (Do lat. milliarius)
 milhar #,2 # |m.| O mesmo que milhal. (De milho)
 mı́lhara |f.| Prov. beir. Papas de farinha de milho miúdo, fervidas com leite. O mesmo que milharas. (De milho)
 milharada |f.| O mesmo que milheiral. * T. de Avis. Porção de espigas de milho, que se levam para a eira. (Do b. lat. miliarata)
@@ -5644,7 +5644,7 @@ miliare |m.| A milésima parte do are. (De milli... + are)
 miliarésio |m.| Moéda romana, o mesmo que denário. Cf. Castilho, Fastos, I, XLIV.
 miliário #,1 # |adj.| O mesmo que miliar.
 miliário #,2 # |adj.| Relativo a milhas. Que marca distâncias numa estrada: os marcos miliários dos Romanos. Que assinala na história uma época ou data memorável. (Lat. milliarius)
-milı́cia |f.| Vida ou disciplina militar. Funcções militares. Exercı́cio da guerra. Fôrça militar de um paı́s. Ext. Corporação disciplinada. Pop. Os militares. Pl. Corpos de tropas de segunda linha, que auxiliavam os de primeira ou os regimentos. (Lat. militia)
+milı́cia |f.| Vida ou disciplina militar. Funcções militares. Exercı́cio da guerra. Fôrça militar de um paı́s. |Ext.| Corporação disciplinada. Pop. Os militares. Pl. Corpos de tropas de segunda linha, que auxiliavam os de primeira ou os regimentos. (Lat. militia)
 miliciano |adj.| Relativo a milı́cia. |M.| Soldado de milı́cias.
 miligrama |m.| A milésima parte do grama. (De milli... + gramma)
 miligran |f.| Prov. trasm. O mesmo que milgrada. (Do lat.
@@ -5959,7 +5959,7 @@ miolema |f.| Anat. Tubo transparente, que contém fibrilhas
 musculares. (Do gr. mus + lemma)
 miolha |f.| T. de Miranda. O mesmo que medulla.
 miólise |f.| Med. Resolução da fibra muscular em seus elementos constitutivos. (Do gr. mus + lusis)
-miolo #,(ô)# |m.| Parte do pão, que fica dentro da côdea. A parte interior de alguns frutos. Polpa; medulla. Cérebro. Ext. A parte interior de alguma coisa. A essência, o principal. Fig. Juizo. (Do lat. medulla)
+miolo #,(ô)# |m.| Parte do pão, que fica dentro da côdea. A parte interior de alguns frutos. Polpa; medulla. Cérebro. |Ext.| A parte interior de alguma coisa. A essência, o principal. Fig. Juizo. (Do lat. medulla)
 miologia |f.| O mesmo que miografia. (Do gr. mus + logos)
 miológico |adj.| Relativo á miologia.
 mioloso |adj.| Abundante em medulla, (falando-se de vegetaes). (De miolo)
@@ -6213,7 +6213,7 @@ missı́cio |m.| Soldado reformado, entre os Romanos, ou soldado a quem se dava 
 mı́ssil |adj.| Próprio para sêr arremessado. (Lat. missilis)
 missionar |v. t.| Prègar a fé a; cathechizar. |V. i.| Fazermissionário
 missões, prègar. (Do lat. missio)
-missionário |m.| Aquelle que missiona. Ext. Propagandista. (Do lat. missio)
+missionário |m.| Aquelle que missiona. |Ext.| Propagandista. (Do lat. missio)
 missionarismo |m.| Funcções de missionário; apostolização. Cf. Arn. Gama, Ult. Dona, 482. (De missionário)
 missioneiro |m.| Bras. do S. Indı́gena ou habitante das regiões, onde se estabeleceram as antigas missões jesuı́ticas. (Do lat. missio)
 missiva |f.| Carta; epı́stola. Bilhete, que se manda a alguém. (De missivo)
@@ -6227,7 +6227,7 @@ missuri |m.| Variedade de tabaco. (De Missouri, |n. p.| )
 missuris |m.| pl. Trı́bo de Índios da América do norte. (Cp. missuri)
 mista |m.| Noviço, no antigo culto de Ceres. Sacerdote, iniciado nos pequenos mistérios de Elêusis. (Lat. mysta)
 mistagogia |f.| Iniciação nos mistérios de uma religião. (Cp. mistagogo)
-mistagogo #,(gô)# |m.| Sacerdote, que iniciava nos mistérios da religião. Ext. Iniciador, mentor. (Do gr. mustes + aqein)
+mistagogo #,(gô)# |m.| Sacerdote, que iniciava nos mistérios da religião. |Ext.| Iniciador, mentor. (Do gr. mustes + aqein)
 mistão |m.| Preparação de sebo e azeite, com que os gravadores cobrem, na chapa, os lugares que querem poupar á água-forte. Mistura. Cf. Garcia Orta, Colloq. I. (Lat. mistio)
 misteiroso |adj.| O mesmo que mesteiroso.
 mistela |f.| Bebida, composta de vinho, água, açúcar e canela. Agua-pé. Pop. Comida ou bebida, em que entram vários ingredientes, e que não tem sabor agradável. Mistifório. (De misto)
@@ -6406,7 +6406,7 @@ moçambaz |m.| Nome que em Moçambique se dava ao pombeiro2 . Cf. Ficalho, Plant
 mocambeiro |m.| Bras. Escravo fugitivo ou refugiado em
 mocambo. |Adj.| Bras. Diz-se do gado, que se esconde nos mocambos.
 moçambicano |adj.| Relativo a Moçambique. |M.| Indı́gena ou habitante de Moçambique.
-mocambo |m.| Bras. Choça, em que os pretos se abrigam, quando fogem para o mato. Ext. Choça. * Grande moita, onde se esconde o gado nos sertões. * Habitação ou abrigo de quem vigia a lavoira. (Talvez t. afr., da mesma or. que mocamo)
+mocambo |m.| Bras. Choça, em que os pretos se abrigam, quando fogem para o mato. |Ext.| Choça. * Grande moita, onde se esconde o gado nos sertões. * Habitação ou abrigo de quem vigia a lavoira. (Talvez t. afr., da mesma or. que mocamo)
 mocamo |m.| Mesquita ou lugar sagrado, entre os Moiros. (T. ár.)
 mocan |m.| O mesmo que mocano.
 mocanco |adj.| O mesmo que mocanqueiro.
@@ -6438,12 +6438,12 @@ mochau |m.| Planta venenosa do sul da África, variedade de trepadeira.
 mocheta #,(chê)# |f.| Filete, listel.
 mochichos |m.| pl. Prov. Acenos, macaquices, esgares.
 mochico |m.| Prov. alg. Rapazote. (Por mocico, de moço)
-mochila |f.| Espécie de saco, em que os soldados levam ás costas roupa e outros objectos. Ext. Gualdrapa; saco de viagem. Fig. Corcova, carcunda. * Bras. do N. Saco de coiro ou de lona, em que se dá ração ás cavalgaduras. * Bras. do N. Pequeno saco, em que se mete a cabeça do cabrito, para que não mame. * |M.| Soldado? homem carcunda?: “...um mochila brejeiro...” Filinto, V, 131. (Cast. mochila)
+mochila |f.| Espécie de saco, em que os soldados levam ás costas roupa e outros objectos. |Ext.| Gualdrapa; saco de viagem. Fig. Corcova, carcunda. * Bras. do N. Saco de coiro ou de lona, em que se dá ração ás cavalgaduras. * Bras. do N. Pequeno saco, em que se mete a cabeça do cabrito, para que não mame. * |M.| Soldado? homem carcunda?: “...um mochila brejeiro...” Filinto, V, 131. (Cast. mochila)
 mochileta #,(lê)# |f.| Pequena mochila.
 mochilo |m.| Prov. trasm. Saco pequeno. (Colhido em Valpaços) (Cp. mochila)
 mochinete #,(nê)# |m.| Prov. trasm. Murro; lambada.
 mochinga |f.| T. de Turquel. Castigo leve. Zurzidela.
-mocho #,(mô)# |adj.| Diz-se do animal, que não tem cornos, porque lhos cortaram, ou porque nasceu sem êlles, devendo-os têr. Ext. Que tem falta de algum membro. * Prov. trasm. Que não tem grãos ou sementes: ervilha
+mocho #,(mô)# |adj.| Diz-se do animal, que não tem cornos, porque lhos cortaram, ou porque nasceu sem êlles, devendo-os têr. |Ext.| Que tem falta de algum membro. * Prov. trasm. Que não tem grãos ou sementes: ervilha
 mocha. Que perdeu os ramos, (falando-se de uma árvore), ou que perdeu os mastros, (falando-se de um navio). * Diz-se de uma espécie de trigo molle. Náut. Mastaréu
 mocho, diz-se o mastaréu em que a borla fica quási em cima das últimas encapelladuras. |M.| Ave nocturna, (strix otus). Fig. Misanthropo; homem sorumbático. Banco, de assento quadrado e sem encôsto. * Prov. Canilha de ferro, na extremidade do eixo do carro, para segurar a roda. * |Loc.| de Alcanena. Ou cuco ou mocho, ou uma coisa ou outra. (Do lat. mutilus)
 mocholi |m.| Bras. Pequeno peixe, muito apreciado.
@@ -6538,7 +6538,7 @@ Melodia, suavidade. (Lat. modulatio)
 modulador |m.| O que modula. (Lat. modulator ) |adj.| O que modula. (Lat. modulator )
 modulagem |f.| O mesmo que modulação.
 modular |v. t.| Cantar ou tocar, variando de tom, segundo as regras da harmonia. Dizer, cantar ou recitar melodiosamente. (Lat. modulari)
-módulo #,1 # |m.| Medida proporcional, para avaliar as construcções architectónicas, ou partes de uma construcção, nas relações que estas devem conservar entre si. Diâmetro de medalha. Ext. Quantidade, que se toma como unidade de qualquer medida. Tudo que serve para medir. Modulação. Mathem. Quantidade, pela qual é preciso multiplicar os logarithmos de certo systema, para obter os logarithmos
+módulo #,1 # |m.| Medida proporcional, para avaliar as construcções architectónicas, ou partes de uma construcção, nas relações que estas devem conservar entre si. Diâmetro de medalha. |Ext.| Quantidade, que se toma como unidade de qualquer medida. Tudo que serve para medir. Modulação. Mathem. Quantidade, pela qual é preciso multiplicar os logarithmos de certo systema, para obter os logarithmos
 moêta correspondentes em outro systema. (Lat. modulus)
 módulo #,2 # |adj.| Melodioso. (De modular )
 modumbiro |m.| Árvore de Angola.
@@ -6557,7 +6557,7 @@ moeiro |m.| Utensı́lio de marnoteiro, do feitio da espada. (Cp. moeira)
 moéla #,1 # |f.| Terceiro estômago das aves. (De moer )
 moéla #,2 # |f.| Ant. Medulla, miôlo. (Fr. moelle)
 moélha |f.| Ant. O mesmo que moéda.
-moenda |f.| Peça que mói; mó. Acto de moer ou triturar. Retribuição do moleiro em gêneros; maquia. Ext. Moı́nho. * T. da Bairrada. A taleigada que se dá a moer. (De
+moenda |f.| Peça que mói; mó. Acto de moer ou triturar. Retribuição do moleiro em gêneros; maquia. |Ext.| Moı́nho. * T. da Bairrada. A taleigada que se dá a moer. (De
 moer )
 moendeira #,(mo-en)# |f.| Mulher, que tem moenda. Mulher de moleiro. (De moendeiro)
 moendeiro #,(mo-en)# |m.| Moleiro; dono de moenda.
@@ -6686,7 +6686,7 @@ moirisma |f.| Religião dos Moiros. Terra de Moiros. Moirama. (Cast. morisma)
 moirismo |m.| P. us. Os Moiros.
 moiro |adj.| Relativo aos Moiros. Moirisco. Bras. Cavallo
 moirisco, cavallo escuro, mesclado de branco. Chouriço
-moiro, espécie de morcella, feita com sangue de porco, vinho branco, etc. |M.| * Habitante de Mauritânia. Sarraceno. Ext. Idólatra, infiel. * Espécie de jôgo popular. * Espécie de peixe, da ria de Aveiro. * |Fam.| Homem, que trabalha muito, que labuta constantemente: trabalhar como um moiro; é um moiro de trabalho. Pop. Vinho
+moiro, espécie de morcella, feita com sangue de porco, vinho branco, etc. |M.| * Habitante de Mauritânia. Sarraceno. |Ext.| Idólatra, infiel. * Espécie de jôgo popular. * Espécie de peixe, da ria de Aveiro. * |Fam.| Homem, que trabalha muito, que labuta constantemente: trabalhar como um moiro; é um moiro de trabalho. Pop. Vinho
 moiro, vinho puro, sem mistura de água, em contraposição a vinho christão ou vinho baptizado, vinho em que
 misturaram água. (Do lat. maurus)
 moiroiço |m.| O mesmo que moroiço.
@@ -6760,7 +6760,7 @@ molego #,(lê)# |m.| Prov. trasm. Pão de trigo, dividido em quartos. (Colhido e
 moleguim |m.| Prov. alent. O mesmo que molhelha 1 .
 moleia |f.| Prov. O mesmo que molhelha 1 .
 moleira #,1 # |f.| Dona de moı́nho. Mulher que, por offı́cio, leva cereaes ao moı́nho, conduzindo depois a farinha a casa dos seus fregueses. Mulher de moleiro. Ant. O mesmo que moı́nho.
-moleira #,2 # |f.| Fam. Fontanela, correspondente á sutura coronal, em-quanto se não completa a ossificação. Ext. Abóbada do crânio. * |Loc.| pop. Pôr o sal na moleira a alguém, criar-lhe obstaculos, dar-lhe cuidados. (De mole)
+moleira #,2 # |f.| Fam. Fontanela, correspondente á sutura coronal, em-quanto se não completa a ossificação. |Ext.| Abóbada do crânio. * |Loc.| pop. Pôr o sal na moleira a alguém, criar-lhe obstaculos, dar-lhe cuidados. (De mole)
 moleirão |m.| Bras. O mesmo que molengão. (De |adj.| Bras. O mesmo que molengão. (De
 mole)1315
 molibdenite
@@ -6887,7 +6887,7 @@ molledo |m.| Prov. Terreno molle, o mesmo que mollo.
 mollego |m.| Prov. trasm. Pão de trigo, dividido em quartos. (Colhido em Valpaços) (De molle)
 molleguim |m.| Prov. alent. O mesmo que molhelha 1 .
 molleia |f.| Prov. O mesmo que molhelha 1 .
-molleira |f.| Fam. Fontanella, correspondente á sutura coronal, em-quanto se não completa a ossificação. Ext. Abóbada do crânio. * |Loc.| pop. Pôr o sal na molleira a alguém, criar-lhe obstaculos, dar-lhe cuidados. (De molle)
+molleira |f.| Fam. Fontanella, correspondente á sutura coronal, em-quanto se não completa a ossificação. |Ext.| Abóbada do crânio. * |Loc.| pop. Pôr o sal na molleira a alguém, criar-lhe obstaculos, dar-lhe cuidados. (De molle)
 molleirão |m.| Bras. O mesmo que mollengão. (De |adj.| Bras. O mesmo que mollengão. (De molle)
 molleirinha |f.| O mesmo que molleira. |Adj.| Prov. Diz-se de uma casta de oliveira e de azeitona, também conhecida por negral.
 molleirinho |adj.| Marn. Argilloso. (De molle)
@@ -7030,7 +7030,7 @@ monarca |m.| Chefe supremo, vitalı́cio e, geralmente, hereditário, de uma na�
 monarca. (Lat. monarcha)
 monarcha #,(ca)# |m.| Chefe supremo, vitalı́cio e, geralmente, hereditário, de uma nação ou Estado. Soberano. Fig. Pessôa ou coisa que domina. * Bras. do S. Camponês rude e armado. Cavallo, que anda com garbo. Gaúcho, que anda com garbo. * |Adj.| Bras. do N. Muito grande: um navio monarcha. (Lat. monarcha)
 monarchia #,(qui )# |f.| Govêrno supremo de um Estado, exercido por um monarca. Estado, cujo chefe é monarca. (Lat. monarchia)
-monarchiar #,(qui )# |v. i.| P. us. Desempenhar as funcções de monarcha. Ext. Dominar, têr império. (De monarchia)
+monarchiar #,(qui )# |v. i.| P. us. Desempenhar as funcções de monarcha. |Ext.| Dominar, têr império. (De monarchia)
 monarchicamente #,(qui )# |adv.| De modo monárchico. Á semelhança de monarcha. Segundo o systema monárchico.
 monárchico #,(qui )# |adj.| Relativo a monarcha ou á monarchia. |M.| O mesmo que monarchista. (Lat. monarchicus)
 monarchismo #,(quis)# |m.| Systema polı́tico dos monarchistas. (De monarcha)
@@ -7043,7 +7043,7 @@ monarcolatria |f.| Adoração dos monarchas, muito praticada pelos antigos povos
 monarda |f.| Gênero de plantas, o mais considerável da |fam.| das labiadas. (De Monardez, |n. p.| )
 monaria |f.| O mesmo que monáda; chusma de monos.
 monarquia |f.| Governo supremo de um Estado, exercido por um monarca. Estado, cujo chefe é monarca. (Lat. monarchia)
-monarquiar |v. i.| P. us. Desempenhar as funções de monarca. Ext. Dominar, têr império. (De monarquia)
+monarquiar |v. i.| P. us. Desempenhar as funções de monarca. |Ext.| Dominar, têr império. (De monarquia)
 monarquicamente |adv.| De modo monárquico. Á seme-monárquico |adj.| Relativo a monarca ou á monarquia. |M.| O mesmo que monarquista. (Lat. monarchicus)
 monarquismo |m.| Sistema polı́tico dos monarquistas. (De monarca)
 monarquista |m.| Sectário da monarquia ou do sistema monárquico. (De monarca)
@@ -7479,7 +7479,7 @@ monsenhorado |m.| Dignidade de monsenhor.
 monsior |m.| Ant. Homem illustre. (Fr. monsieur )
 monso |adj.| Prov. trasm. Indolente, songa.
 monstera |f.| Gênero de plantas aráceas.
-monstro |m.| Corpo organizado, animal ou vegetal, que apresenta conformação anómala em todas ou em algumas das suas partes. Sêr, imaginado pela Mythologia, de conformação extravagante, como o Dragão, o Minotauro, etc. Ext. Animal de grandeza descommunal. Figura colossal. Aquillo que causa pavor. Fig. Pessôa cruel, desnaturada, ou notável por qualquer vı́cio, levado ao excesso. Assombro, prodigio. * |Fam.| Mostrengo, pessôa inerte, indolente; estafermo. (Lat. monstrum)
+monstro |m.| Corpo organizado, animal ou vegetal, que apresenta conformação anómala em todas ou em algumas das suas partes. Sêr, imaginado pela Mythologia, de conformação extravagante, como o Dragão, o Minotauro, etc. |Ext.| Animal de grandeza descommunal. Figura colossal. Aquillo que causa pavor. Fig. Pessôa cruel, desnaturada, ou notável por qualquer vı́cio, levado ao excesso. Assombro, prodigio. * |Fam.| Mostrengo, pessôa inerte, indolente; estafermo. (Lat. monstrum)
 monstruário |m.| (V. mostruário)
 monstruosamente |adv.| De modo monstruoso.
 monstruosidade |f.| Qualidade do que é monstruoso. Coisa extraordinária. Coisa abominável. Assombro; monstro.
@@ -7684,13 +7684,13 @@ mordezada |f.| Prov. alg. O mesmo que mordedura.
 mordicação |f.| Acto ou effeito de mordicar. Sensação, que os lı́quidos acres ou corrosivos produzem no corpo. Acção dêsses lı́quidos. (Lat. mordicatio)
 mordicadela |f.| O mesmo que mordicação.
 mordicante |adj.| Que mordica; que produz mordicação. (Lat. mordicans)
-mordicar |v. t.| Morder levemente, repetidas vezes. Morder. Ext. Pungir. Estimular. (Lat. mordicare)
+mordicar |v. t.| Morder levemente, repetidas vezes. Morder. |Ext.| Pungir. Estimular. (Lat. mordicare)
 mordicativo |adj.| O mesmo que mordicante. (Lat. mordicativus)
 mordico |m.| Prov. Lanche, piqueta. (De mordo)
 mordidela |f.| O mesmo que mordedela. Us. por Castilho.
 mordido |adj.| Náut. Que deixa intervallos ou fórma saliências, (falando-se das voltas de um cordão ou cabo náutico, dadas noutro cabo ou noutro objecto).
 mordı́mano |m.| Peixe de Portugal.
-mordimento |m.| O mesmo que mordedura. Ext. Remorso. (De morder )
+mordimento |m.| O mesmo que mordedura. |Ext.| Remorso. (De morder )
 mordiscar |v. t.| (e der.) O mesmo que mordicar : “...meio charuto mordiscado...” Camillo, Corja, 171.
 mordo #,(môr )# |m.| Prov. trasm. Pequena porção de qualquer coisa, que se dá ao animal para o desaguar. Cibo; bocado. (De morder )
 mordomado |m.| Mordomia. Tempo, que dura a mordomia. Imposto, que pagavam os que tinham mordómo. (Do b. lat. maiordomatus)
@@ -7757,7 +7757,7 @@ morgadeta #,(dê)# |f.| Deprec. Morgada, de poucos rendimentos. Cf. Castilho, Sa
 morgadete #,(dê)# |m.| Deprec. Morgado, que tem poucos rendimentos.
 morgadilho |m.| T. de Bragança. O mesmo que peneira.
 morgadio |adj.| Relativo a morgado. |M.| Qualidade de morgado. Bens de morgado.
-morgado |m.| Propriedade vinculada, ou conjunto de bens vinculados, que não podiam alienar-se ou dividir-se, e que geralmente, por morte do possuidor, pertenciam ao filho primogênito. Possuidor dêsses bens. Filho primogênito ou herdeiro de possuidor de bens vinculados. * Ext. Filho
+morgado |m.| Propriedade vinculada, ou conjunto de bens vinculados, que não podiam alienar-se ou dividir-se, e que geralmente, por morte do possuidor, pertenciam ao filho primogênito. Possuidor dêsses bens. Filho primogênito ou herdeiro de possuidor de bens vinculados. * |Ext.| Filho
 mais velho; filho único. Fig. Coisa muito rendosa. Pl. Espécie de pastéis. (Do b. lat. maioricatus)
 morganaticamente |adv.| De modo morganático.
 morganático |adj.| Diz-se do casamento, contrahido por um principe com uma mulher de condição inferior. (Do al.
@@ -7872,7 +7872,7 @@ morrer |v. i.| Deixar do viver. Fallecer; finar-se. Extinguirse: já o Sol morri
 muito. Desaguar. Desapparecer da memória. Têr grande affeição a alguma coisa ou a alguém: a Corina morre por novenas. * |V. p.| A mesma sign. do |v. i.| Cf. Castilho, Geórgicas, 207. |M.| Morte. (Do lat. morire)
 morrhuol |m.| Pharm. Extracto alcoólico do óleo do fı́gado de bacalhau.
 morrião |m.| Planta primulácea, (anagallis arvensis). Antigo capacete sem viseira, com tope enfeitado. (Cast. morrión)
-morrinha #,1 # |f.| Sarna epidêmica do gado. Gafeira. Ext. Doença epidêmica dos gados. Pop. Ligeira enfermidade. * Bras. Mau cheiro, exhalado por pessôa ou animal. (Do b. lat. morina)
+morrinha #,1 # |f.| Sarna epidêmica do gado. Gafeira. |Ext.| Doença epidêmica dos gados. Pop. Ligeira enfermidade. * Bras. Mau cheiro, exhalado por pessôa ou animal. (Do b. lat. morina)
 morrinha #,2 # |f.| Prov. beir. O mesmo que molinha.
 morrinhento |adj.| Pop. Que tem morrinha. Enfraquecido;
 morredoiro; achacadiço.
@@ -8001,7 +8001,7 @@ mosqueta #,(quê)# |f.| Espécie de rosa branca, de cheiro almiscarado, (rosa mo
 mosquetaço |m.| Tiro de mosquete.
 mosquetada |f.| O mesmo que mosquetaço. Ferida que elle produz. (De mosquete)
 mosquetão |m.| Peça metállica, com que se prendem os relógios de algibeira á respectiva cadeia. (De môsca)
-mosquetaria |f.| Grande porção de mosquetes, de mosqueteiros ou de tiros de mosquete. Ext. Tiros de espingarda, pistola ou de arma semelhante. * Prov. trasm. O mesmo que bofetada.
+mosquetaria |f.| Grande porção de mosquetes, de mosqueteiros ou de tiros de mosquete. |Ext.| Tiros de espingarda, pistola ou de arma semelhante. * Prov. trasm. O mesmo que bofetada.
 mosquete #,1 (quê)# |m.| Arma de fogo, do feitio da espingarda, mas mais pesada. * |Fam.| Tabefe, dado com as costas da mão; bofetada. (Cp. cast. mosquete)
 mosquete #,2 (quê)# |m.| Bras. Cavallo de pequena estatura. (De môsca)
 mosquetear |v. t.| Disparar (tiros de mosquete). |V. i.| Dar tiros de mosquete.
@@ -8156,7 +8156,7 @@ mourisma |f.| Religião dos Mouros. Terra de Mouros. Mourama. (Cast. morisma)
 mourismo |m.| P. us. Os Mouros.
 mouro |adj.| Relativo aos Mouros. Mourisco. Bras. Cavallo
 mourisco, cavallo escuro, mesclado de branco. Chouriço
-mouro, espécie de morcella, feita com sangue de porco, vinho branco, etc. |M.| * Habitante de Mauritânia. Sarraceno. Ext. Idólatra, infiel. * Espécie de jôgo popular. * Espécie de peixe, da ria de Aveiro. * |Fam.| Homem, que trabalha muito, que labuta constantemente: trabalhar como um mouro; é um mouro de trabalho. Pop. Vinho
+mouro, espécie de morcella, feita com sangue de porco, vinho branco, etc. |M.| * Habitante de Mauritânia. Sarraceno. |Ext.| Idólatra, infiel. * Espécie de jôgo popular. * Espécie de peixe, da ria de Aveiro. * |Fam.| Homem, que trabalha muito, que labuta constantemente: trabalhar como um mouro; é um mouro de trabalho. Pop. Vinho
 mouro, vinho puro, sem mistura de água, em contraposição a vinho cristão ou vinho baptizado, vinho em que
 misturaram água. (Do lat. maurus)
 mousinha |adj.| Dizia-se de uma espécie de pêra. Cf. Aulegrafia, 92. |f.| Dizia-se de uma espécie de pêra. Cf. Aulegrafia, 92.
@@ -8508,7 +8508,7 @@ mulateira |f.| Burra que se dá á cobrição por cavallo, para a producção de
 mulateiro |m.| Burro de cobrição de éguas, para a producção de mus ou muares. Bot. Árvore amazónica, também conhecida por pau-mulato. (Cp. muleteiro)
 mulatete #,(tê)# |m.| Bras. Pequeno mulato. Cf. Jorn.-doComm., do Rio, de 1-I-905.
 mulatinho |m.| Mulato pequeno. Variedade de feijão. * Prov. trasm. Passarinho implume, ainda no ninho.
-mulato #,1 # |m.| O mesmo que mu. Aquelle que procede de pai branco e mãe preta ou viceversa. Ext. Aquelle que é escuro; trigueiro. Cf. G. Vicente, Clér. da Beira. (De mulo)
+mulato #,1 # |m.| O mesmo que mu. Aquelle que procede de pai branco e mãe preta ou viceversa. |Ext.| Aquelle que é escuro; trigueiro. Cf. G. Vicente, Clér. da Beira. (De mulo)
 mulato #,2 # |m.| Variedade de pêssegos grandes, no distrito de Leiria. Casta de figueira.
 mulato-velho |m.| Bras. do Rio O mesmo que patureba.
 muldera |f.| Gênero de plantas piperáceas.
@@ -8662,7 +8662,7 @@ mumbuca |f.| Bras. Abelha grande e negra.
 mumbula |f.| Árvore de Angola.
 mumbulo |m.| Bella árvore africana, ramosa, de fôlhas simples na extremidade dos ramos, e frutos dispostos em grupos de bagas fulvas.
 mumbungurulu |m.| Árvore de Angola.
-múmia |f.| Corpo embalsamado pelos antigos Egýpcios e descoberto nas sepulturas do Egýpto. Cadáver embalsamado por processo análogo ao dos Egýpcios. Ext. Cadáver desecado e embalsamado. Fig. Pessôa muito magra ou descarnada. (Ar. mumia)
+múmia |f.| Corpo embalsamado pelos antigos Egýpcios e descoberto nas sepulturas do Egýpto. Cadáver embalsamado por processo análogo ao dos Egýpcios. |Ext.| Cadáver desecado e embalsamado. Fig. Pessôa muito magra ou descarnada. (Ar. mumia)
 mumificação |f.| Acto ou effeito de mumificar. Estado de múmia.
 mumificador |adj.| Que mumifica.
 mumificante |adj.| O mesmo que mumificador.
@@ -8696,7 +8696,7 @@ mundanalmente |adv.| De modo mundano.
 mundanamente |adv.| De modo mundano.
 mundanário |adj.| O mesmo que mundano.
 mundaneidade |f.| (V. mundanidade)
-mundanidade |f.| Qualidade do que é mundano. Tudo que é relativo ao mundo ou que não é espiritual. Tendência para os gozos materiaes. Ext. Vida desregrada.
+mundanidade |f.| Qualidade do que é mundano. Tudo que é relativo ao mundo ou que não é espiritual. Tendência para os gozos materiaes. |Ext.| Vida desregrada.
 mundanismo |m.| Vida mundana. Systema ou hábito dos que só procuram gozos materiaes. (De mundano)
 mundano |adj.| Relativo ao mundo, (encarado êste pelo lado
 material e transitório). Dado a gozos materiaes. (Lat. mundanus)
@@ -8868,7 +8868,7 @@ muradouro |m.| Estaca arqueada, com que se abrem os lagrimaes nas barachas das m
 muragem |f.| Antigo imposto, que se pagava para a reedificação, concerto e conservação de muralhas e monumentos públicos. (De murar )
 murajuba |f.| Espécie de papagaio da região do Amazonas.
 mural |adj.| Relativo a muro. (Lat. muralis)
-muralha |f.| Muro, que guarnece uma fortaleza ou praça de armas. Grande muro, paredão. Ext. Qualquer guarnição ou sebe, que defende, resguarda, ou separa como a parede. Cinta óssea, que fórma a parte externa do pé do cavallo, e que também se chama parede ou taipa. (Lat. muralia)
+muralha |f.| Muro, que guarnece uma fortaleza ou praça de armas. Grande muro, paredão. |Ext.| Qualquer guarnição ou sebe, que defende, resguarda, ou separa como a parede. Cinta óssea, que fórma a parte externa do pé do cavallo, e que também se chama parede ou taipa. (Lat. muralia)
 muralhado |adj.| Cercado de muralhas; fortificado. Encerrado como dentro de muralhas.
 muralhar |v. t.| Cercar de muralhas; servir de muralha a: “...as serras muralhavam o horizonte”. C. Neto, Saldunes.
 muramento |m.| Acto ou effeito de murar 2 . Muralha; fortificação. Cf. Camillo, Quéda, 156.
@@ -9038,10 +9038,10 @@ mecânica. * Antiga máquina de guerra, para proteger os sitiantes. (Lat. muscul
 musculodérmico |adj.| Relativo á derme e ao systema muscular subjacente. (De musculoso + dérmico)
 musculosidade |f.| Qualidade de musculoso; musculatura.
 musculoso |adj.| Musculado; que tem músculos fortes. Que
-musicógrapho tem a natureza dos músculos. Ext. Vigoroso. (Lat. musculosus)
+musicógrapho tem a natureza dos músculos. |Ext.| Vigoroso. (Lat. musculosus)
 musendesende |m.| Árvore do Congo.
 musequere |m.| Árvore fructı́fera de Moçambique.
-museu |m.| Templo das musas, (accepção p. us.). Ext. Lugar ou edifı́cio, em que se estudam artes, sciências, etc. Lugar, destinado não só a estudo, mas principalmente á reunião dos monumentos de bellas artes e sciências, dos objectos antigos, etc. * Fig. Reunião de coisas várias, variedade;
+museu |m.| Templo das musas, (accepção p. us.). |Ext.| Lugar ou edifı́cio, em que se estudam artes, sciências, etc. Lugar, destinado não só a estudo, mas principalmente á reunião dos monumentos de bellas artes e sciências, dos objectos antigos, etc. * Fig. Reunião de coisas várias, variedade;
 miscellânea. (Do lat. museum)
 musgar |v. t.| Prov. alent. Queimar, chamuscar, o pêlo de (porco morto). (Cp. chamuscar )
 musgo #,1 # |m.| Gênero de plantas cryptogâmicas, annuaes ou vivazes. (Lat. muscus)
@@ -9102,7 +9102,7 @@ mussão |m.| Personagem que, junto de alguns sobas, na África Occidental, exerc
 mussapo |m.| Pequena árvore africana, muito ramosa.
 mussegueia |f.| Planta africana, da |fam.| das cucurbitáceas.
 musselemano |adj.| (V. muçulmano). Cf. Latino, Elogios, 58 e 59.
-musselina |f.| Tecido leve e transparente, de algodão; cassa. Ext. Estofo de lan ou seda, muito leve. (Cp. cast. muselina)
+musselina |f.| Tecido leve e transparente, de algodão; cassa. |Ext.| Estofo de lan ou seda, muito leve. (Cp. cast. muselina)
 mussemba |f.| Árvore intertropical, da |fam.| das legumino1350 sas, (albizzia coriarea, Welw.?), de fôlhas glabras e flôres hermaphroditas.
 mussesse |m.| Árvore africana, de amplas fôlhas decompostas.
 mussitação |f.| Movimento automático dos lábios, produzindo murmúrio ou som confuso. (Lat. mussitatio)
@@ -9423,7 +9423,7 @@ myrtoı́deo |adj.| Semelhante ao myrto. (Do gr. murtos + eidos)
 myrtoso |adj.| Que tem myrto; em que há myrto. (Lat. myrtuosus)
 mysta |m.| Noviço, no antigo culto de Ceres. Sacerdote, iniciado nos pequenos mystérios de Elêusis. (Lat. mysta)
 mystagogia |f.| Iniciação nos mystérios de uma religião. (Cp. mystagogo)
-mystagogo #,(gô)# |m.| Sacerdote, que iniciava nos mystérios da religião. Ext. Iniciador, mentor. (Do gr. mustes + aqein)
+mystagogo #,(gô)# |m.| Sacerdote, que iniciava nos mystérios da religião. |Ext.| Iniciador, mentor. (Do gr. mustes + aqein)
 mystério |m.| Culto secreto no polytheı́smo. Tudo que na religião christan se apresenta como objecto de fé, e que é impenetrável á razão humana. Tudo que tem causa occulta. Aquillo que é incomprehensivel. Segrêdo. Reserva, cautela. Composição dramática na Idade-média, cujo assumpto era tirado da sagrada escriptura ou da vida dos santos. Pl. * Açor. Lavas a descoberto, que tornam pedregoso o solo. (Lat. mysterium)
 mysteriosamente |adv.| De modo mysterioso. Em segrêdo.
 mysterioso |adj.| Em que há mystério; inexplicável. Que tem modos enigmáticos, que faz segrêdo de coisas insignificantes. |M.| Qualidade do que é mysterioso. (De mystério)

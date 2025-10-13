@@ -153,7 +153,7 @@ cabelleiras ou penteando mulheres. (Fem. de cabelleireiro)
 cabelleireiro |m.| Aquelle que trabalha em cabelleiras. Aquelle que por offı́cio corta ou penteia o cabello dos outros. (De cabelleira)
 cabelleiro |m.| Prov. Um cabello.
 cabellinho |m.| Cabello pequeno. |Loc. fam.| Têr cabellinho na venta, têr mau gênio, sêr irritável.
-cabello #,(bê)# |m.| Pêlos, que crescem sôbre a cabeça humana. Ext. Pêlos, que nascem em qualquer parte do corpo humano. Pêlos compridos de alguns animaes. Cada um dos pêlos que nascem na cabeça. Delgada mola de aço, que regula o movimento dos relógios de algibeira. * |Loc. adv.| Pelos cabellos, de má vontade, com sacrifı́cio. Têr cabellos no coração, sêr insensı́vel, cruel. (Do lat. capillus)
+cabello #,(bê)# |m.| Pêlos, que crescem sôbre a cabeça humana. |Ext.| Pêlos, que nascem em qualquer parte do corpo humano. Pêlos compridos de alguns animaes. Cada um dos pêlos que nascem na cabeça. Delgada mola de aço, que regula o movimento dos relógios de algibeira. * |Loc. adv.| Pelos cabellos, de má vontade, com sacrifı́cio. Têr cabellos no coração, sêr insensı́vel, cruel. (Do lat. capillus)
 cabello-de-negro |m.| Bras. Planta medicinal.
 cabello-vermelho |m.| Espécie de algá da ria de Aveiro, (geranium rubrum, Ag.).
 cabellos-de-vênus |m.| pl. Bras. O mesmo que nigella.
@@ -162,7 +162,7 @@ cabelludo |adj.| Que tem muito cabello ou cabello comprido.
 Coiro cabelludo, pelle que cobre o crânio, e em que nasce o
 cabello. * |M.| Bras. Espécie de lagarta de pêlos compridos.
 cabellugem |f.| Des. O mesmo que cabelladura.
-cabelo #,(bê)# |m.| Pêlos, que crescem sôbre a cabeça humana. Ext. Pêlos, que nascem em qualquer parte do corpo humano. Pêlos compridos de alguns animaes. Cada um dos pêlos que nascem na cabeça. Delgada mola de aço, que regula o movimento dos relógios de algibeira. * |Loc. adv.| Pelos cabelos, de má vontade, com sacrifı́cio. Têr cabelos no coração, sêr insensı́vel, cruel. (Do lat. capillus)
+cabelo #,(bê)# |m.| Pêlos, que crescem sôbre a cabeça humana. |Ext.| Pêlos, que nascem em qualquer parte do corpo humano. Pêlos compridos de alguns animaes. Cada um dos pêlos que nascem na cabeça. Delgada mola de aço, que regula o movimento dos relógios de algibeira. * |Loc. adv.| Pelos cabelos, de má vontade, com sacrifı́cio. Têr cabelos no coração, sêr insensı́vel, cruel. (Do lat. capillus)
 cabeluda |f.| Árvore myrtácea do Brasil. (De cabelludo)
 cabeludo |adj.| Que tem muito cabelo ou cabelo comprido.
 Coiro cabeludo, pelle que cobre o crânio, e em que nasce o
@@ -354,7 +354,7 @@ cacaieiro |adj.| Bras. Que traz cacaio.
 cacaio |m.| Bras. Alforge ou saco de viagem, prêso por baixo dos braços e pendurado nas costas.
 caçala |f.| Arbusto angolense, de frutos ovoides e carminados. çacalado |adj.| Açacalado. Cf. Viriato Trág., I, 55.
 cacália |f.| Gênero de plantas, da |fam.| das compostas. (Gr. kakalia)
-caçamba |f.| Bras. Alcatruz. Balde, preso numa corda enrolada num sarilho ou nora, para tirar água dos poços. Ext. Qualquer balde. Estribo em fórma de chinelo. Espécie de cangalhas.
+caçamba |f.| Bras. Alcatruz. Balde, preso numa corda enrolada num sarilho ou nora, para tirar água dos poços. |Ext.| Qualquer balde. Estribo em fórma de chinelo. Espécie de cangalhas.
 caçamulo |m.| Prov. Espiga de milho, depois de esbagoada. (Corr. de cascabulho?)
 cacangélico |m.| Membro de uma seita lutherana, da qual se dizia que estava em communicação com os anjos.
 caçanges |m.| pl. Trı́bo independente, a léste de Malange, em África.
@@ -420,7 +420,7 @@ caceteação |f.| Bras. Acto de cacetear; maçada.
 cacetear |v. t.| Bras. Importunar. (Cp. caceteiro)
 caceteiro |m.| Aquelle que costuma trazer cacete. Desordeiro. Valentão. * Bras. Homem importuno. (De cacete)
 cacha #,1 # |f.| P. us. Aquillo que se pratı́ca ás occultas. Assimilação. Ardil. (De cachar )
-cacha #,2 # |f.| Pano da Índia, com que se fazem tangas. Moéda indiana. * Prov. trasm. Metade de um lenço, cortado diagonalmente. * Ext. Metade de um fruto ou de qualquer coisa.
+cacha #,2 # |f.| Pano da Índia, com que se fazem tangas. Moéda indiana. * Prov. trasm. Metade de um lenço, cortado diagonalmente. * |Ext.| Metade de um fruto ou de qualquer coisa.
 cachaça |f.| Aguardente, que se extrai das bôrras do melaço e das limpaduras do suco da cana de açúcar. Espuma, produzida pela primeira fervura do suco da cana de açúcar. * Bras. Paixão predominante. * |M.| Bras. fig. Bêbedo. (Cast. cachaza)
 cachação |m.| Pancada no cachaço.
 cachaceira #,1 # |f.| Grande cachaço. * Correia, que passa por detrás das orelhas da cavalgadura.
@@ -710,7 +710,7 @@ cadeeiro |m.| Ant. Carcereiro. (De cadéa)
 cadeia |f.| Corrente, formada de anéis metállicos. Qualquer ligame. Algemas de condemnado. Lugar de prisão, cárcere. Cativeiro. Sujeição por affecto, dever ou interesse. Série de objectos semelhantes. Continuidade. Série de pessôas, em fila, de maneira que possam transmittir um objecto, de mão em mão. Movimento de dança, em que os dançantes, andando uns á volta da sala e em sentido invérso de outros, formam cruzamento ou anéis com a linha que seguem. Prancha de madeira, atravessada em cruz, na mesa do carro. * Constr. Peça de madeira, em que, deante dos vãos das portas ou janelas, se assenta uma das extremidades dos barrotes do sobrado. * Pequena travéssa,
 collocada interiormente no tampo harmónico dos violinos e outros instrumentos, para reforçar o centro do mesmo tampo e augmentar a vibração. Ponto de cadeia, modo de coser ou bordar, em que os pontos tomam a fórma dos anéis de cadeia. (Lat. catena)
 cadeira #,1 # |f.| Assento com costas, para uma pessôa. * Cadeira de baloiço, cadeira ou poltrona, que se faz baloiçar,
-com um simples movimento do corpo. Ext. Funcções de professor. Dignidade ecclesiástica. Aula, disciplina que se ensina. Séde. Pl. Quadris, nádegas. (Do lat. cathedra)
+com um simples movimento do corpo. |Ext.| Funcções de professor. Dignidade ecclesiástica. Aula, disciplina que se ensina. Séde. Pl. Quadris, nádegas. (Do lat. cathedra)
 cadeira #,2 # |f.| Árvore da Guiné portuguesa.
 cadeirado |m.| Fila de cadeiras, ligadas á parede de um côro, de uma capella, de uma aula, etc. Cf. Gabr. Pereira, Estudos Ebor., I, 4.
 cadeiral |m.| O mesmo que cadeirado.
@@ -2113,7 +2113,7 @@ campal |adj.| Relativo a campo. Que se realiza no campo: Missa campal.
 campear
 campana |f.| O mesmo que campaı́nha. * Variedade de pêra, talvez desconhecida hoje. * Abertura larga, em fórma de sino, que alguns instrumentos músicos têm na extremidade opposta á embocadura. * Parte superior de uma manilha, destinada a fazer juncção com outra manilha. (Med. lat. campana)
 campanado |adj.| Que tem fórma de campaı́nha. (De campana)
-campanário |m.| Tôrre com sinos. Parte da tôrre, em que se suspende o sino. Ext. Freguesia. Interesses locaes: questões de campanário. (De campana)
+campanário |m.| Tôrre com sinos. Parte da tôrre, em que se suspende o sino. |Ext.| Freguesia. Interesses locaes: questões de campanário. (De campana)
 campanear |v. i.| Prov. trasm. Caı́r, despenhando-se.
 campaneiro |m.| Ant. Tangedor de campana; sineiro. Cf. Port. Ant. e Mod.
 campanha |f.| Acampamento de tropas. Campo de batalha. Batalha. Operações militares. Conjunto de esforços para um fim determinado: a imprensa fez uma campanha contra o Ministro. * Campo, região deshabitada: “penhascos, que assoberbam os valles e a campanha.” |M.| Bernardes, Luz e Calor. “...no mar, ou no rio, ou no monte, ou na
@@ -3411,7 +3411,7 @@ caraúba |f.| Bras. Árvore, de casca amargosa e fôlhas amarelas. (T. tupi)
 caraúna |f.| Ave do Brasil.
 caraúno |adj.| Bras. Diz-se do boi muito preto.
 carava |f.| Prov. beir. e trasm. Companhia, reúnião, súcia. (Cp. caravana)
-caravana |f.| Multidão de peregrinos, mercadores ou viajantes, que se juntam, para atravessar os desertos com segurança. Ext. Reúnião de pessôas, que viajam ou passeiam juntas. Guerra marı́tima, que os Cavalleiros de Malta eram obrigados a fazer contra os Turcos ou corsários. (Ár. cairauan, do pers. caruan)
+caravana |f.| Multidão de peregrinos, mercadores ou viajantes, que se juntam, para atravessar os desertos com segurança. |Ext.| Reúnião de pessôas, que viajam ou passeiam juntas. Guerra marı́tima, que os Cavalleiros de Malta eram obrigados a fazer contra os Turcos ou corsários. (Ár. cairauan, do pers. caruan)
 caravaneiro |m.| Guı́a de caravanas.
 caravansará |m.| Grande edifı́cio, para hospedagem gratuita das caravanas. (Do pers. karuan + sarai)
 caravansarai |m.| Grande edifı́cio, para hospedagem gratuita das caravanas. (Do pers. karuan + sarai)
@@ -3556,7 +3556,7 @@ cardiectasia |f.| Med. Dilatação total ou parcial do coração. (Do gr. kardia
 cardiguera |f.| Bras. Espécie de rôla.
 cardim |adj.| Diz-se do toiro, que tem o pêlo branco e preto. (De cardo)
 cardo
-cardina #,1 # |f.| Pequenas pastas de immundı́cie, que adherem á lan ou pêlo dos animaes. Ext. Sujidade na pelle das pessôas. Pop. Bebedeira.
+cardina #,1 # |f.| Pequenas pastas de immundı́cie, que adherem á lan ou pêlo dos animaes. |Ext.| Sujidade na pelle das pessôas. Pop. Bebedeira.
 cardina #,2 # |f.| Medicamento tónico para o coração. (Do gr. kardia)
 cardinal |adj.| Relativo a gonzos. Principal, importante. Arith. Diz-se do |adj.| que representa um número absoluto, em contraposição a ordinal : 4 é número cardinal. (Lat. cardinalis)
 cardinala |f.| (V. cardialina)
@@ -4815,7 +4815,7 @@ catastático |adj.| Relativo a doenças, que predominam em determinadas circunst
 catástrofe |f.| Desfecho de uma tragédia. Fim lastimoso. Grande desgraça. (Gr. katastrophe)
 catástrophe |f.| Desfecho de uma tragédia. Fim lastimoso. Grande desgraça. (Gr. katastrophe)
 catatagambe |m.| Arvoreta angolense.
-catatau |m.| Prov. trasm. Bêsta grande e velha. Ext. Pessôa velha e magra. |Fam.| Castigo, pancada.
+catatau |m.| Prov. trasm. Bêsta grande e velha. |Ext.| Pessôa velha e magra. |Fam.| Castigo, pancada.
 catatraz! |interj.| (imitativa do estrondo, produzido por quéda ou pancadaria)
 catatua #,1 # |f.| (V. cacatua)
 catatua #,2 # |f.| Prov. Espécie de carrocel. Enfiar na catatua, achar-se num cı́rculo vicioso, malhar em ferro frio, não saı́r da cepa torta.
@@ -4843,7 +4843,7 @@ catechueiro |m.| O mesmo que pau-ferro.
 catechumenado #,(cu)# |m.| Estado de catechúmeno.
 catechumenato #,(cu)# |m.| Estado de catechúmeno.
 catechúmeno #,(cu)# |m.| Aquelle que se prepara e instrue para receber o baptismo. (Gr. katekoumenos)
-catecismo |m.| Livro elementar de instrucção religiosa por perguntas e respostas. Ext. Doutrinação elementar sôbre qualquer sciência ou arte. (Gr. katekhismos. Cp. catechese)
+catecismo |m.| Livro elementar de instrucção religiosa por perguntas e respostas. |Ext.| Doutrinação elementar sôbre qualquer sciência ou arte. (Gr. katekhismos. Cp. catechese)
 catecos |m.| pl. Uma das categorias, em que se divide o séquito do soba dos Zingas. Cf. Capello e Ivens, II, 52 e 62.
 catecumenado |m.| Estado de catecúmeno.
 catecumenato |m.| Estado de catecúmeno.
@@ -4960,7 +4960,7 @@ cativação |f.| Acto de cativar.
 cativante |adj.| Que cativa. Que desperta muita gratidão.
 cativar |v. t.| Tornar cativo. Alliciar; seduzir. Dominar. Tornar muito agradecido: é favor que muito me cativa. (Lat. captivare)
 cativeiro |m.| Estado de quem é cativo. Lugar, onde se está
-cativo. * Ext. Clausura. Perda da liberdade. (De cativo)
+cativo. * |Ext.| Clausura. Perda da liberdade. (De cativo)
 cativeza |f.| Ant. Acanhamento, timidez. (De cativo)
 catividade |f.| Des. O mesmo que cativeiro.
 cativo |adj.| Prisioneiro de guerra. Obrigado á escravidão. Aprehendido, preso, encarcerado. Dominado, seduzido, attrahido: sentiu-se cativo dos encantos della. Onerado: prédio cativo de um foro. Que desbota facilmente. |M.| Aquelle que é prisioneiro. Escravo. * Bacelleiros de cativo, aquelles que não têm raı́zes, ao contrário dos bacelleiros barbados. (Lat. captivus)
@@ -7146,7 +7146,7 @@ chiado #,1 # |m.| (V. chiada)
 chiado #,2 # |adj.| Em que há malı́cia. (T. as.)chiador
 chiador |m.| O que chia. |adj.| O que chia.
 chiadura |f.| O mesmo que chiada.
-chião |m.| Prov. minh. Boneca ou boneco. Ext. Criança de mama.
+chião |m.| Prov. minh. Boneca ou boneco. |Ext.| Criança de mama.
 chiar |v. i.| Fazêr chio.
 chiasco #,1 # |m.| T. de Chaves. O mesmo que rexio.
 chiasco #,2 # |m.| Prov. trasm. Vento frio e cortante.
@@ -7645,7 +7645,7 @@ chôco #,2 # |adj.| Diz-se do ovo, em que se está desenvolvendo o germe. E diz-
 cama. (De chocar 2 )
 chocolataria |f.| Lugar, em que se fabrı́ca a pasta do chocolate, ou onde se vende a bebida de chocolate.
 chocolate |m.| Pasta alimentar, feita de cacau, açúcar e várias substâncias aromáticas. Bebida, preparada com essa pasta. (Do mex. chocolatl )
-chocolateira |f.| Vaso, em que se prepara a bebida do chocolate. Ext. Vaso de metal, em que se aquece água; cafeteira;
+chocolateira |f.| Vaso, em que se prepara a bebida do chocolate. |Ext.| Vaso de metal, em que se aquece água; cafeteira;
 chaleira. (De chocolate)
 chocolateiro |m.| Aquelle que faz ou vende chocolate. * Neol. Negociante ou cultivador de cacau. (De chocolate)
 chocolejar |v. i.| Prov. trasm. Não estar seguro, abanar: a ferradura chocoleja. |V. t.| Agitar, vascolejar.
@@ -8084,7 +8084,7 @@ churmigueira |f.| Arbusto do Doiro.
 churra, churrinha! |interj.| Prov. minh. (Serve para
 chamar gallinhas)
 churrasco |m.| Bras. Pedaço de carne, assado em espêto ou nas brasas. (Talvez de or. afr.)
-churrasquear |v. i.| Bras. do S. Preparar churrasco e comêlo. Ext. Preparar qualquer comida. (De churrasco)
+churrasquear |v. i.| Bras. do S. Preparar churrasco e comêlo. |Ext.| Preparar qualquer comida. (De churrasco)
 churré |adj.| Gı́r. Jovem.
 churreu |m.| (V. charreu)
 churrião |m.| (V. chorrião)
@@ -9722,7 +9722,7 @@ cocemegas |f.| pl. Prov. chul. O mesmo que cócegas.
 côcha |f.| Prov. Gamela ou vaso, o mesmo que cocho. (Colhido em Turquel)
 cochada |f.| Des. Coche, cheio de gente.
 cochado |adj.| Ant. Apertado. Cerrado. (De cochar )
-cochar #,1 # |v. t.| Torcer (cabos náuticos). * Ext. Apertar. Cf. Bernardes, Luz e Calor, 383. * Prov. beir. Encher, fartar. (De cocha)
+cochar #,1 # |v. t.| Torcer (cabos náuticos). * |Ext.| Apertar. Cf. Bernardes, Luz e Calor, 383. * Prov. beir. Encher, fartar. (De cocha)
 cochar #,2 # |v. t.| Prov. beir. Tirar das poças ou presas (água),
 com cocho ou cabaço. (De coche 3 )
 cocharra |f.| Prov. trasm. O mesmo que colhér. (Cp. cocharro)
@@ -9808,7 +9808,7 @@ coda, cauda)
 codagem |f.| Planta medicinal do Brasil, também conhecida por pé-de-cavallo.
 códão |m.| * Congelação da humidade infiltrada no solo. Sincelo. Geada.
 codaste |m.| (V. cadaste)
-côdea |f.| Casca; crosta. Sujidade no fato. * Prov. Pequena refeição dos trabalhadores do campo, entre o almôço e o jantar. * Ext. Pequeno jantar, jantarela. Crosta do pão. * |M.| T. do Pôrto. Servente de pedreiro. (Lat. hyp. cutina, do lat. cutis. Cp. cast. códena)
+côdea |f.| Casca; crosta. Sujidade no fato. * Prov. Pequena refeição dos trabalhadores do campo, entre o almôço e o jantar. * |Ext.| Pequeno jantar, jantarela. Crosta do pão. * |M.| T. do Pôrto. Servente de pedreiro. (Lat. hyp. cutina, do lat. cutis. Cp. cast. códena)
 codeão |m.| Prov. alent. Terra endurecida pela geada. (De côdea)
 codear |v. t.| Prov. O mesmo que escodear. |V. i.| Lan-côdeas
 char, comer a piqueta; comer côdea. Debicar, petiscar.
@@ -12539,7 +12539,7 @@ contagem |f.| Acto ou effeito de contar. Salário de contador de tribunal.
 contagião |f.| Des. O mesmo que contágio. Cf. Lucena, S. Franc. Xav.; Camillo, Coisas Espant. (Lat. contagio)
 contagiar |v. t.| Communicar. Propagar doença epidêmica a. (De contágio)
 contágio |m.| Communicação, propagação, de doença, por
-contacto directo ou indirecto. Doença contagiosa. Ext. Transmissão de males ou vicios. (Lat. contagium)
+contacto directo ou indirecto. Doença contagiosa. |Ext.| Transmissão de males ou vicios. (Lat. contagium)
 contagional |adj.| Relativo a contágio. Que se realiza por
 contágio: “transmissão contagional ”. R. Jorge, Bol. dos Serv. Sanit., I. (De contagião)
 contagionista |m.| Sectário da doutrina pathológica, que affirma a propriedade de se transmittirem certas moléstias, de individuo para individuo. (De contagião)
@@ -14082,7 +14082,7 @@ corypheu |m.| Director de córos no antigo theatro. Pessôa, que occupa o primei
 corysto |m.| Gênero de crustáceos decápodes.
 coryza |f.| (m., segundo outros) Humor das fossas nasaes, produzido por inflammação catarral daquellas fossas. (Gr. koruza)
 cós |m.| Parte de vestuário, especialmente das calças, com a qual se cinge a cintura. Tira de pano, sôbre que se ajustam os punhos e o collarinho. (Do fr. cors, por corps?)
-cosaco |m.| Cavalleiro ou guerreiro russo, pertencente a certas povoações das vizinhaças do Don. Ext. Homem rude, feroz, meio bárbaro. (Fr. cosaque)
+cosaco |m.| Cavalleiro ou guerreiro russo, pertencente a certas povoações das vizinhaças do Don. |Ext.| Homem rude, feroz, meio bárbaro. (Fr. cosaque)
 cosanza |f.| Árvore de Angola, (memecylos vogelu).
 coscas |f.| pl. Prov. trasm. O mesmo que cócegas.
 coscinomancia |f.| Adivinhação, por meio de uma peneira. (Do gr. koskinos + manteia)
@@ -14756,7 +14756,7 @@ crepom |m.| (V. crespão)
 crepuscular |adj.| Relativo ao crepúsculo: á hora crepuscular.
 crepusculários |m.| pl. Insectos, que apparecem á hora do crepúsculo.
 crepusculino |adj.| O mesmo que crepuscular.
-crepúsculo |m.| Claridade froixa, que fica depois do solpôsto. Ext. A primeira claridade do dia, antes do sol nado. * Fig. Decadência; occaso: no crepúsculo da vida. * |Adj.| O mesmo que crepuscular. Cf. Filinto, VIII, 243. (Lat. crepusculum)
+crepúsculo |m.| Claridade froixa, que fica depois do solpôsto. |Ext.| A primeira claridade do dia, antes do sol nado. * Fig. Decadência; occaso: no crepúsculo da vida. * |Adj.| O mesmo que crepuscular. Cf. Filinto, VIII, 243. (Lat. crepusculum)
 crêr |v. t.| Têr como verdadeiro; dar crédito a, acreditar: crêr atoardas. Julgar. Suppor, presumir: estás enganado, creio eu. |V. i.| Têr fé: crêr em milagres. Têr confiança: creio em ti. (Lat. credere)
 cresamina |f.| Chı́m. Substância desinfectante.
 crescença |f.| Acto ou effeito de crescer; crescimento. Accrescimento. Pop. Aquillo que excede uma medida. (De
@@ -15087,7 +15087,7 @@ criveira Prov. minh. O mesmo que crivo.
 criveiro |m.| Prov. dur. Fabricante de crivos e peneiras.
 crı́vel |adj.| Que se póde crer; acreditável. (Lat. credibilis)
 crivo |m.| Conjunto de orifı́cios numa superfı́cie. Peneira de arame. Utensı́lio culinário, de fôlha, com muitos orifı́cios, para separar de um lı́quido as substâncias inúteis. Coador. * Appêndice de folha num regador, para borrifar com água. Ralo. Lâmina metállica, com alguns orifı́cios, collocada em porta de entrada, para se vêr quem está fóra, sem sêr visto quem o observa. Bordado, que se faz com agulha de
-croché, tirando-se previamente dos quatro lados do pano alguns fios interpolados. Ext. Aquillo que tem muitos buracos próximos ou que tem analogia com o crivo: levou tantas facadas, que parecia um crivo. (Lat. cribrum)
+croché, tirando-se previamente dos quatro lados do pano alguns fios interpolados. |Ext.| Aquillo que tem muitos buracos próximos ou que tem analogia com o crivo: levou tantas facadas, que parecia um crivo. (Lat. cribrum)
 crixas |m.| pl. Trı́bo indı́gena de Goiás.
 criz |m.| Punhal dos Malaios.
 crizada |f.| Golpe de criz. Cf. Barros, Déc. II, 91.
@@ -15301,7 +15301,7 @@ crustula + forma)
 crústulo |m.| Bolo doce e rijo. (Lat. crustulum)
 cruta |f.| O mesmo que coruta.
 cruviana |f.| Bras. do N. Frio intenso.
-cruz |f.| Instrumento de supplı́cio, a que se prendiam, ou em que se pregavam, os criminosos. Madeiro, em que pregaram Christo. Disposição de dois objectos, atravessádos um sôbre o outro. Disposição análoga á dêsses objectos. Ext. Morte de Christo. Fig. Christianismo: as victórias da cruz. Supplı́cio, tortura, afflicção: êste filho é a minha
+cruz |f.| Instrumento de supplı́cio, a que se prendiam, ou em que se pregavam, os criminosos. Madeiro, em que pregaram Christo. Disposição de dois objectos, atravessádos um sôbre o outro. Disposição análoga á dêsses objectos. |Ext.| Morte de Christo. Fig. Christianismo: as victórias da cruz. Supplı́cio, tortura, afflicção: êste filho é a minha
 cruz. Objecto representativo da cruz de Christo. Sinal, feito de dois traços cruzados. * Gestos cruzados sôbre o rosto ou peito, quando alguém se persigna ou se benze, e quando benze qualquer coisa ou pessôa. Insı́gnia de várias ordens. Objecto, que tem analogia com uma cruz. * Parte superior do cachaço do toiro, onde se cruza a espinha dorsal com o prolongamento das linhas correspondentes ás mãos. * Bras. Planta medicinal, o mesmo que cruzeiro.
 Cruz grega, aquella, cujos quatro ramos têm igual comprimento. Cruz latina, a cruz que tem o ramo inferior mais
 comprido que os outros. Cruz de santo André, cruz que tem fórma de X. * Ant. Um de cruz, um cruzado: “quem me salvou sete mil de cruz ”. Peregrinação, LXIX. * Cruz do Sul, constellação, o mesmo que cruzeiro. Cf. Latino, Humboldt, 159. Levar a cruz ao calvário, levar a cabo empresa árdua. Entre a cruz e a caldeirinha, em situação
@@ -15717,7 +15717,7 @@ cuminal |adj.| O mesmo que culminante. (De cume)
 cuminas |f.| pl. Trı́bo de plantas, que tem por typo o cuminho. (Do lat. cuminum)
 cuminho |m.| Planta umbellı́fera. Pl. Frutos ou sementes, que constituem especiaria. (Lat. cuminum) çumo |m.| O mesmo ou melhor que sumo. Lı́quido, extrahido de algumas substâncias vegetaes. (Cp. cast. zumo) çumoso |adj.| Que tem çumo; çumarento.
 cúmplice |m.| O que tomou parte num delicto ou |adj.| O que tomou parte num delicto ou
-crime. Ext. O que collabora ou toma parte com outrem nalgum facto. (Lat. complex )
+crime. |Ext.| O que collabora ou toma parte com outrem nalgum facto. (Lat. complex )
 cumpliciar-se |v. p.| Tornar-se cúmplice.
 cumplicidade |f.| Acto ou qualidade de quem é cúmplice.
 cumplimentário |adj.| Jur. Dizia-se, em Direito commercial, do administrador de uma sociedade, ou do gerente de uma casa. Cf. Borges Carneiro, Dicc. Jur.

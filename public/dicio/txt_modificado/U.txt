@@ -210,7 +210,7 @@ ultimar |v. t.| Terminar; concluı́r. (De último)
 ultimato |m.| Nome, que se deu ás últimas moléculas, a que
 um corpo póde sêr reduzido. * O mesmo ou melhor que
 ultimatum. (De último)
-ultimatum #,(má)# |m.| Últimas condições, que um Estado apresenta a outro, e de cuja acceitação depende o não se declarar guerra. Ext. Resolução final e irrevogável. (T. lat.)
+ultimatum #,(má)# |m.| Últimas condições, que um Estado apresenta a outro, e de cuja acceitação depende o não se declarar guerra. |Ext.| Resolução final e irrevogável. (T. lat.)
 último |adj.| Que está ou vem depois de todos os outros:
 último monarcha de uma dynastia. O mais moderno, na ordem chronológica: em Setembro último. Que é o mais recente: as últimas notı́cias da guerra. Derradeiro. Precedente. Que está no lugar menos importante. Que é o mais insignificante. Final: no último instante. Restante. Extremo: está na última miséria. Ínfimo: as últimas camadas sociaes. Gravı́ssimo. Decisivo. |M.| Aquelle ou aquillo que vem ou está depois de todos os outros. Aquelle ou aquillo que occupa a posição mais humilde ou ı́nfima. O que é piór que todos. (Lat. ultimus)
 ultimogênito |m.| O filho mais novo. Cf. Rui Barb., Réplica, 158. (Do lat. ultimus + genitus)
@@ -283,7 +283,7 @@ umbellulária |f.| Animal ou grupo de animaes, que têm um caule commum e fixo, 
 umbélula |f.| Umbela pequena.
 umbelulária |f.| Animal ou grupo de animaes, que têm um caule comum e fixo, como as plantas, o qual termina superiormente numa inflorescência em capı́tulo.–É da Groenlândia. Cf. Caminhoá, Bot. Ger. e Med. (De umbélula)
 umbigada |f.| Pancada com o umbigo ou com a barriga. Região do umbigo.
-umbigo |m.| Anat. Cicatriz deprimida ou saliente, resultante do córte do cordão umbilical. Ext. Centro. (Do lat. umbilicus)
+umbigo |m.| Anat. Cicatriz deprimida ou saliente, resultante do córte do cordão umbilical. |Ext.| Centro. (Do lat. umbilicus)
 umbigo-de-freira |m.| Bras. Espécie de biscoitos doces, que se servem ao chá.
 umbigo-de-vênus |m.| Bot. O mesmo que coucelo.
 umbilicado |adj.| Semelhante ao umbigo. (Do lat. umbilicatus)
@@ -563,7 +563,7 @@ untuosamente |adv.| De modo untuoso. Com uncção. Fig. Suavemente; melifluament
 untuosidade |f.| Estado ou qualidade de untuoso. Qualidade de gorduroso ou escorregadio.
 untuoso |adj.| Em que há unto ou gordura. Gorduroso. Lubrificado, escorregadio. Que dá ao tacto a impressão das substâncias gordurosas. * Relativo a iguarias, em que predominam môlhos e carnes: “dava cama e mesa untuosa aos missionários...” Camillo, Brasileira, 237. Fig. Suave; amorável; meigo; melı́fluo. (Lat. unctuosus)
 untura |f.| Acto ou effeito de untar. Unto. Unguento. Substância medicinal, para fomentações. Fig. Ligeiras noções, conhecimento superficial. (Lat. unctura)
-upa |f.| Salto brusco do cavallo; corcôvo. |Interj.| (própria para incitar um animal a levantar-se ou a subir). * Ext. Exprime o acto de se levantar alguém com difficuldade ou de erguer nos braços uma criança. (Do ingl. up)
+upa |f.| Salto brusco do cavallo; corcôvo. |Interj.| (própria para incitar um animal a levantar-se ou a subir). * |Ext.| Exprime o acto de se levantar alguém com difficuldade ou de erguer nos braços uma criança. (Do ingl. up)
 upanda #,1 # |f.| Nome, com que os sertanejos de Angola designam qualquer demanda ou pendência. Cf. Capello e Ivens, I, 173.
 upanda #,2 # |m.| Medida africana, correspondente a 2 jardas. Cf. Capello e Ivens, I, 6.
 upar |v. i.| Bras. Diz-se da bêsta, que dá upas, ou pequenos saltos, erguendo as ancas.
@@ -640,7 +640,7 @@ urbanamente |adv.| De modo urbano; com delicadeza; com polidez.
 urbaniciano |adj.| Dizia-se do soldado, que fazia parte da guarnição do Roma, depois do tempo de Augusto. (Lat. urbanicianus)
 urbanidade |f.| Qualidade do que é urbano. Civilidade. Cortesia; affabilidade. (Do lat. urbanitas)
 urbanita |m.| , |f.| Pessôa, que reside numa cidade. (De |adj.| Pessôa, que reside numa cidade. (De urbano)
-urbanizar |v. t.| Tornar urbano. Ext. Civilizar.
+urbanizar |v. t.| Tornar urbano. |Ext.| Civilizar.
 urbano |adj.| Relativo á cidade: a população urbana. Fig. Affável; cortês; civilizado. * Diz-se dos prédios, próprios para habitação, em opposição a prédios rústicos ou prédios para cultivar. |M.| Bras. Guarda urbano, polı́cia civil. (Lat. urbanus)
 urbeque |m.| Insecto parasito das árvores fructı́feras, que lhes ataca os gomos, (rhynchites betuleti). Cf. P. Moraes, Zool. Elem., 732.
 urca #,1 # |f.| Antiga embarcação portuguesa, muito larga. Pop. Mulhér gorda e feia. |Adj.| Bras. Grande, enorme. (Cp. urco)
@@ -1060,7 +1060,7 @@ utilização |f.| Acto ou effeito de utilizar.
 utilizar |v. t.| Tornar útil. Aproveitar. Empregar com vantagem. |V. i.| Sêr útil: a má lingua não utiliza a ninguém. |V. p.| Lançar mão; tirar proveito: utilizar-se da ignorância alheia.
 utilizável |adj.| Que se póde utilizar.
 utilmente |adv.| De modo útil; com vantagem; com interesse.
-utopia |f.| Paı́s imaginário, em que tudo está organizado da melhór fórma. Fig. Plano de govêrno, de que resultaria a felicidade pública, se êlle fosse exequı́vel. Ext. Projecto imaginário. Systema ou ideia irrealizável; fantasia. (Do gr. ou + topos)
+utopia |f.| Paı́s imaginário, em que tudo está organizado da melhór fórma. Fig. Plano de govêrno, de que resultaria a felicidade pública, se êlle fosse exequı́vel. |Ext.| Projecto imaginário. Systema ou ideia irrealizável; fantasia. (Do gr. ou + topos)
 utópico |adj.| Relativo a utopia.
 utopista |adj.| O mesmo que utópico. |M.| Pessôa, que fórma ou defende utopias. (De utopia) |f.| Pessôa, que fórma ou defende utopias. (De utopia)
 utopı́stico |adj.| Próprio de utopista.

@@ -178,7 +178,7 @@ harmóphano |adj.| Diz-se do mineral que apresenta indı́cios de ligações nat
 harmosta |m.| Designação de cada um dos governadores que Esparta impunha aos povos vencidos. (Gr. harmostes)
 harmótoma |f.| O mesmo ou melhor que harmótomo.
 harmótomo |m.| Mineral alvacento, cujos crystaes estão divididos por junturas. (Do gr. harmos + tome)
-harpa |f.| Instrumento triangular, de cordas desiguaes, que se tocam com os dedos. * Ext. A poesia religiosa. * A poesia em geral. * Mollusco gasterópode. (B. lat. harpa)
+harpa |f.| Instrumento triangular, de cordas desiguaes, que se tocam com os dedos. * |Ext.| A poesia religiosa. * A poesia em geral. * Mollusco gasterópode. (B. lat. harpa)
 harpa-eólia |f.| Instrumento antigo, ainda usado no século XVIII, composto de uma caixa, armada de cordas metállicas e que se collocava nas árvores ou em bosques de recreio, para surprehender agradavelmente o transeunte com os sons que o ar produzia naquelle instrumento.
 hárpaga |f.| Antiga máquina de guerra, espécie de catapulta. (Lat. harpaga)
 harpagão |m.| Ext. Indivı́duo, muito avarento. (De Harpagão, |n. p.| de uma personagem de Molière)
@@ -265,7 +265,7 @@ hecateia |f.| Fantasma giganteu, que apparecia, segundo se acreditava, durante a
 hecatésia |f.| Gênero de insectos crepusculares da Austrália. |F.| pl. Festas em honra da Hécate, que se celebravam em vários pontos da Grécia. (Gr. hekatesial ).
 hecatomba |f.| O mesmo que hecatombe: “...o Senhor não quer hecatombas...” Camillo, Suicida, 105.
 hecatombaio |m.| Primeiro mês do anno áttico, no qual se sacrificavam cem bois, em honra de Júpiter. (Gr. hekatombaios)
-hecatombe |m.| Antigo sacrifı́cio de cem bois. Ext. Sacrifı́cio de muitas vı́ctimas. Fig. Matança humana. (Do gr. hecatombe)
+hecatombe |m.| Antigo sacrifı́cio de cem bois. |Ext.| Sacrifı́cio de muitas vı́ctimas. Fig. Matança humana. (Do gr. hecatombe)
 hecatômpedo |m.| Templo de cem pés de extensão, como o de Mı́nerva em Athenas. (Lat. hecatompedum)
 hecatonstilo |m.| Pórtico ou edifı́cio de cem columnas. (Do gr. hecaton + stulos)
 hecatonstylo |m.| Pórtico ou edifı́cio de cem columnas. (Do gr. hecaton + stulos)
@@ -897,7 +897,7 @@ heredar |v. t.| Ant. (e der.) O mesmo que herdar, etc. Cf. Usque, (passim).
 hereditariamente |adv.| De modo hereditário.
 hereditariedade |f.| Qualidade daquillo que é hereditário. Successão; transmissão das qualidades phýsicas ou moraes de alguém aos seus descendentes.
 hereditário |adj.| Que se transmitte por successão, de pais a filhos, ou de ascendentes a descendentes. (Lat. hereditarius)
-herege |m.| O que professa doutrina contrária aos dogmas da Igreja. Ext. Aquelle que tem ideias contrárias ás geralmente recebidas. Pop. Homem ı́mpio, que não pratica o culto externo. (Do lat. haereticus) |adj.| O que professa doutrina contrária aos dogmas da Igreja. Ext. Aquelle que tem ideias contrárias ás geralmente recebidas. Pop. Homem ı́mpio, que não pratica o culto externo. (Do lat. haereticus)
+herege |m.| O que professa doutrina contrária aos dogmas da Igreja. |Ext.| Aquelle que tem ideias contrárias ás geralmente recebidas. Pop. Homem ı́mpio, que não pratica o culto externo. (Do lat. haereticus) |adj.| O que professa doutrina contrária aos dogmas da Igreja. |Ext.| Aquelle que tem ideias contrárias ás geralmente recebidas. Pop. Homem ı́mpio, que não pratica o culto externo. (Do lat. haereticus)
 heregia |f.| Pop. O mesmo que heresia. (De hereje)
 hereja |f.| Des. Mulher ı́mpia; mulher, que não crê nos dogmas da Igreja. (De hereje)
 hereró |m.| Lı́ngua banta da África occidental. Pl. Trı́bo africana austro-occidental.
@@ -1033,7 +1033,7 @@ heterobrânchio #,(qui )# |adj.| Ichthyol. Cujas brânchias variam. |M.| pl. Pei
 heterobrânquio |adj.| Ichthyol. Cujas brânquias variam. |M.| pl. Peixes, cujas brânquias são acompanhadas de apêndices ramificados. (De hetero... + brânquias)
 heterocarpo |adj.| Bot. Que produz flôres ou frutos de natureza diversa. (Do gr. heteros + karpos)
 heteróceros |m.| Bot. Gênero ou divisão de lepidópteros, que comprehende, segundo alguns zoólogos, os lepidópteros que não são rhopalóceros. (Do gr. heteros + keras)
-heteróclito |adj.| Que se desvia dos princı́pios da analogia grammatical ou das regras da arte. Ext. Extravagante; excêntrico. (Lat. heteroclitus)
+heteróclito |adj.| Que se desvia dos princı́pios da analogia grammatical ou das regras da arte. |Ext.| Extravagante; excêntrico. (Lat. heteroclitus)
 heterocrânia |f.| Des. O mesmo que hemicrânia. (Lat. heterocrania)
 heterodáctilos |m.| pl. Famı́lia de aves trepadoras, que têm o dedo externo reversı́vel. (Do gr. heteros + daktulos)
 heterodáctylos |m.| pl. Famı́lia de aves trepadoras, que têm o dedo externo reversı́vel. (Do gr. heteros + daktulos)
@@ -1332,7 +1332,7 @@ hidrofitologia |f.| Parte da Botânica, que trata das hidrófitas. (Do gr. hudor
 hidrofitológico |adj.| Relativo á hidrofitologia.
 hidrofobia |f.| Horror aos lı́quidos. Enfermidade, caracterizada pelo horror aos lı́quidos. Abusivamente, o mesmo que raiva, doença. (De hidrófobo)hidrofóbico
 hidrofóbico |adj.| Relativo á hidrofobia.
-hidrófobo |m.| O que tem horror aos lı́quidos. Ext. Aquele que é atacado de raiva, doença. (Lat. hydrophobus) |adj.| O que tem horror aos lı́quidos. Ext. Aquele que é atacado de raiva, doença. (Lat. hydrophobus)
+hidrófobo |m.| O que tem horror aos lı́quidos. |Ext.| Aquele que é atacado de raiva, doença. (Lat. hydrophobus) |adj.| O que tem horror aos lı́quidos. |Ext.| Aquele que é atacado de raiva, doença. (Lat. hydrophobus)
 hidrofórias |f.| pl. Festas gregas em honra de Apolo e em memória dos que tinham perecido no dilúvio de Deucalião. (Do gr. hudor + phorein)
 hidróforo |adj.| Que conduz água ou serosidade nos corpos organizados. (Do gr. hudor + phoros)
 hidrofosfato |m.| Fosfato, combinado com água. (De hidro... + fosfato)
@@ -1567,7 +1567,7 @@ hı́nico |adj.| Relativo a hino. Que é do gênero do hino.
 hinidor |adj.| Que rincha. Cf. Filinto, I, 232. (Do lat. hinnire)
 hinista |m.| Cantor ou compositor de hinos. (Lat. hymnista)
 hinnidor |adj.| Que rincha. Cf. Filinto, I, 232. (Do lat. hinnire)
-hino |m.| Canção religiosa. Canto em louvor dos heróis. Composição poética, acompanhada de música, em louvor de um monarcha, de uma nação, de um partido, de uma personagem célebre. Ext. Canção, canto. (Gr. humnos)
+hino |m.| Canção religiosa. Canto em louvor dos heróis. Composição poética, acompanhada de música, em louvor de um monarcha, de uma nação, de um partido, de uma personagem célebre. |Ext.| Canção, canto. (Gr. humnos)
 hinodo |m.| Aquele que, entre os Gregos, cantava hinos nashinólogo |m.| O mesmo que hinista. (Lat. hymnologus)
 hió |m.| Árvore indiana, de fibras têxteis.
 hioide |m.| Pequeno osso, entre a laringe e a base da lı́ngua. cantar hinos. (Do gr. humnos + logos)
@@ -1695,8 +1695,8 @@ hipertrofiar |v. t.| Produzir hipertrofia em.
 hipetro |m.| Ant. Templo descoberto. (Do gr. hupaithron)
 hı́pias (e não Hipı́as) Filho de Pisı́strato. (Lat. Hı́ppias)
 hipiatra |m.| O mesmo que veterinário. (Do gr. hippos + iatros)
-hipiatria |f.| Medicina veterinária, que trata especialmente dos cavalos. Ext. Aquilo que diz respeito a cavalos. (De hipiátrico)
-hipiátrica |f.| Medicina veterinária, que trata especialmente dos cavalos. Ext. Aquilo que diz respeito a cavalos. (De hipiátrico)
+hipiatria |f.| Medicina veterinária, que trata especialmente dos cavalos. |Ext.| Aquilo que diz respeito a cavalos. (De hipiátrico)
+hipiátrica |f.| Medicina veterinária, que trata especialmente dos cavalos. |Ext.| Aquilo que diz respeito a cavalos. (De hipiátrico)
 hipo...,2
 hipiátrico |adj.| Relativo á hipiátrica. (Gr. hippiatrikos)
 hı́pico |adj.| Relativo a cavalos. (Gr. hippikos)
@@ -1899,8 +1899,8 @@ hipparcho #,(co)# |m.| O mesmo que hipparcha. Cf. Latino, Or. da Corôa, XL.
 hippélapho |m.| Nome de um veado de Samatra e Java. Nome, dado por Cuvier a outro veado da India. (Gr. hip1022 pelaphos)
 hı́ppias (e não Hipı́as) Filho de Pisı́strato. (Lat. Hı́ppias)
 hippiatra |m.| O mesmo que veterinário. (Do gr. hippos + iatros)
-hippiatria |f.| Medicina veterinária, que trata especialmente dos cavallos. Ext. Aquillo que diz respeito a cavallos. (De hippiátrico)
-hippiátrica |f.| Medicina veterinária, que trata especialmente dos cavallos. Ext. Aquillo que diz respeito a cavallos. (De hippiátrico)
+hippiatria |f.| Medicina veterinária, que trata especialmente dos cavallos. |Ext.| Aquillo que diz respeito a cavallos. (De hippiátrico)
+hippiátrica |f.| Medicina veterinária, que trata especialmente dos cavallos. |Ext.| Aquillo que diz respeito a cavallos. (De hippiátrico)
 hippiátrico |adj.| Relativo á hippiátrica. (Gr. hippiatrikos)
 hı́ppico |adj.| Relativo a cavallos. (Gr. hippikos)
 hippiscapho |m.| Ant. Embarcação, destinada especialmente ao transporte de cavallos.
@@ -2071,7 +2071,7 @@ história |f.| Narração de factos sociaes. Série de acontecimentos sociaes, p
 história moderna. Estudo ou conjunto de phenómenos naturaes ou scientı́ficos: história natural. Estudo das origens e progressos de uma arte ou sciência: história da Astronomia. Biographia de uma personagem célebre: história de Carlos Magno. Narração, narrativa. Conto: um livro de
 histórias. * |Fam.| Qualquer coisa ou negócio. Qualquer1025 objecto que se não póde ou não se quer nomear. Fábula; patranha: isso é história.–Tem ainda outras accepções indeterminadas, no estilo familiar, e também se emprega interjectivamente. (Lat. historia)
 historiado |adj.| Fam. Cheio ou adornado de episódios: uma carta muito historiada. (De historiar )
-historiador |m.| O que escreve sôbre história. O que escreve uma história ou histórias. Ext. Aquelle que narra um acontecimento. (De historiar ) |adj.| O que escreve sôbre história. O que escreve uma história ou histórias. Ext. Aquelle que narra um acontecimento. (De historiar )
+historiador |m.| O que escreve sôbre história. O que escreve uma história ou histórias. |Ext.| Aquelle que narra um acontecimento. (De historiar ) |adj.| O que escreve sôbre história. O que escreve uma história ou histórias. |Ext.| Aquelle que narra um acontecimento. (De historiar )
 historial |adj.| Ant. Relativo á história ou aos historiadores. Cf. Rui de Pina, Chrón. de D. João, II, (pról.).
 historiar |v. t.| Fazer a história de: historiar uma revolução. Contar: historiar um naufrágio. |Fam.| Enfeitar; embrincar. * Archit. Alindar com pequenos ornatos.
 historicamente |adv.| De modo histórico.
@@ -2157,7 +2157,7 @@ homalocéphalo |m.| Reptil sáurio. (Do gr. homalos + kephale)
 homalográfico |adj.| Geogr. Diz-se da projecção da esfera, em que os paralelos são rectilı́neos. (Do gr. homalos + graphein)
 homalográphico |adj.| Geogr. Diz-se da projecção da esphera, em que os parallelos são rectilı́neos. (Do gr. homalos + graphein)
 hombo |m.| Ave africana, (biconia episcopus).
-hombridade |f.| Aspecto varonil. * O mesmo que corporatura. Cf. Garrett, Fábulas, 60. Fig. Nobreza de carácter. Altivez louvável. Magnanimidade. Ext. Desejo de hombrear com alguém. (Do cast. hombre, homem)
+hombridade |f.| Aspecto varonil. * O mesmo que corporatura. Cf. Garrett, Fábulas, 60. Fig. Nobreza de carácter. Altivez louvável. Magnanimidade. |Ext.| Desejo de hombrear com alguém. (Do cast. hombre, homem)
 hombrigolulo |m.| Árvore de Angola.
 hombro |m.| (e der.) (V. ombro, etc.)homem |m.| Animal racional e mammı́fero, que pela sua inBrasileira, 290. telligência, pelo dom da palavra e pela história, se distingue dos outros seres organizados, occupando entre elles o primeiro lugar. Indivı́duo da espécie humana: o homem é mortal. A humanidade: o homem nasceu para a sociedade. Pessôa do sexo masculino: duas mulheres e três homens. Pessôa adulta do sexo masculino: vão ali dois rapazes e um homem. |Fam.| Marido: a Quitéria nunca sai sem o seu homem. Aquelle que tem capacidade para certos fins. Aquelle que procede com madureza, que tem experiência do mundo. * Pop. Espécie de jôgo de rapazes. (Do lat. homo)
 homem-bom |m.| Ant. Indivı́duo da classe dos herdadores, entre as classes não nobres. Indivı́duo mais respeitável das classes nobres. Cf. Herculano, Hist. de Port., III, 320.
@@ -2479,7 +2479,7 @@ hospedável |adj.| Que póde hospedar ou sêr hospedado.
 hospedavelmente |adv.| Com hospitalidade. (De hospedável )
 hóspede |m.| Indivı́duo, que vive temporariamente em casa alheia. Aquelle que recebe alguém em sua casa, dando-lhe cama e mesa, com retribuição ou sem ella. * Indivı́duo estranho, peregrino. |Adj.| Estranho; alheio. Fig. Ignorante de alguma coisa: estás hóspede na grammática. (Lat. hospes)
 hospedeira |f.| Mulher, que hospeda, que tem hospedaria, que dá poisada. (De hospedeiro)
-hospedeiro |adj.| Relativo a hóspede. Que hospeda. Ext. Obsequiador; benévolo; lhano. |M.| Aquelle que tem hospedaria ou dá hospedagem.
+hospedeiro |adj.| Relativo a hóspede. Que hospeda. |Ext.| Obsequiador; benévolo; lhano. |M.| Aquelle que tem hospedaria ou dá hospedagem.
 hospedoso |adj.| Hospitaleiro, que abriga: “hospedosos férteis coqueiros...” Filinto, VIII, 219. (De hospedar )
 hospı́cio |m.| Casa, em que se hospedam e tratam pessôas pobres, sem retribuição. Lugar ou casa, em que se recolhem e tratam animaes abandonados. * Estabelecimento público, em que se recolhem loucos ou doentes, mediante retribuição ou sem ella. (Lat. hospitium)
 hospitação |f.| Ant. Obrigação de dar hospedagem a fidalgos, ministros e outras elevadas personagens. (Do lat. hospitari)
@@ -2772,7 +2772,7 @@ hydróphido |m.| Serpente, que vive na água. (Do gr. hudor + ophis)
 hydróphilo |m.| Gênero de insectos coleópteros pentâmeros. |Adj.| Pharm. Diz-se do algodão simples ou desinfectado. (Do gr. hudor + philos)
 hydrophobia |f.| Horror aos lı́quidos. Enfermidade, caracterizada pelo horror aos lı́quidos. Abusivamente, o mesmo que raiva, doença. (De hydróphobo)
 hydrophóbico |adj.| Relativo á hidrophobia.
-hydróphobo |m.| O que tem horror aos lı́quidos. Ext. Aquelle que é atacado de raiva, doença. (Lat. hydrophobus) |adj.| O que tem horror aos lı́quidos. Ext. Aquelle que é atacado de raiva, doença. (Lat. hydrophobus)
+hydróphobo |m.| O que tem horror aos lı́quidos. |Ext.| Aquelle que é atacado de raiva, doença. (Lat. hydrophobus) |adj.| O que tem horror aos lı́quidos. |Ext.| Aquelle que é atacado de raiva, doença. (Lat. hydrophobus)
 hydrophórias |f.| pl. Festas gregas em honra de Apollo e em memória dos que tinham perecido no dilúvio de Deucalião. (Do gr. hudor + phorein)
 hydróphoro |adj.| Que conduz água ou serosidade nos corpos organizados. (Do gr. hudor + phoros)
 hydrophosphato |m.| Phosphato, combinado com água. (De hydro... + phosphato)
@@ -2894,7 +2894,7 @@ hýmen. (Do gr. humen + tome)
 hymnário |m.| Collecção de hymnos. Livro de hymnos religiosos. (Do gr. hymnarium)
 hymnico |adj.| Relativo a hymno. Que é do gênero do hymno.
 hymnista |m.| Cantor ou compositor de hymnos. (Lat. hymnista)
-hymno |m.| Canção religiosa. Canto em louvor dos heróis. Composição poética, acompanhada de música, em louvor de um monarcha, de uma nação, de um partido, de uma personagem célebre. Ext. Canção, canto. (Gr. humnos)
+hymno |m.| Canção religiosa. Canto em louvor dos heróis. Composição poética, acompanhada de música, em louvor de um monarcha, de uma nação, de um partido, de uma personagem célebre. |Ext.| Canção, canto. (Gr. humnos)
 hymnodo |m.| Aquelle que, entre os Gregos, cantava hymnos nas solennidades religiosas. (Gr. humnodos)
 hymnographia |f.| Tratado bibliográphico dos hymnos. (De hymnógrapho)
 hymnógrapho |m.| O que compõe hymnos. (Do gr. |adj.| O que compõe hymnos. (Do gr.

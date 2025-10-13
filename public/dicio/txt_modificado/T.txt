@@ -633,7 +633,7 @@ tâmil |m.| (V. tâmul )
 tamina |f.| Bras. Vasilha, com que se mede a ração da farinha para os pretos. Ração de farinha. (Do quimbundo ritamina)
 tamis |m.| Espécie de peneira, para substâncias pulverizadas ou lı́quidos espessos. Tecido de lan, inglês. (Do b. lat. tamisium)
 tamisação |f.| Acto ou effeito de tamisar.
-tamisar |v. t.| Passar pelo tamis. Ext. Peneirar; depurar.
+tamisar |v. t.| Passar pelo tamis. |Ext.| Peneirar; depurar.
 tamiuá |m.| Bras. Espécie de môsca das regiões do Amazonas.
 tamnocarpo |m.| Gênero de plantas fı́ceas. (Do gr. thamnos + karpos)
 tamnófilo |m.| Gênero de insectos colópteros. Gênero de aves insectı́voras da América do Sul. (Do gr. thamnos + philos)
@@ -846,7 +846,7 @@ tapadouro |m.| Tampa. Parte do eixo, que sái para fóra da roda, nos coches. (D
 tapadura |f.| Tapamento. Tampa. Tapume. Cerrado. (De
 tapar )
 tapagem |f.| Tapamento; sebe. Tapume, feito com varas, no rio, para apanhar peixe. * Prov. minh. Bosta, com que se
-tapa a porta do forno. Ext. Excremento. (De tapar )
+tapa a porta do forno. |Ext.| Excremento. (De tapar )
 tapajiba |f.| O mesmo que tatajuba.
 tapajós |m.| Pl. Numerosa trı́bo de Índios, nas margens do rio do mesmo nome, no Brasil.
 tapamento |m.| Acto ou effeito de tapar. Tapume; cêrca.
@@ -1364,7 +1364,7 @@ têm quási a mesma disposição que as do teixo. (Do lat.
 taxus + forma)
 taxiladar |m.| Espécie de cabo de polı́cia da Índia portuguesa. Cf. L. Mendes, Ind. Port. (Do concani)taximetria, (csi )
 taximetria #,(csi )# |f.| Applicação do taxı́metro.
-taxı́metro #,(csi )# |m.| Apparelho, para medir a distância percorrida por um vehı́culo. Ext. Vehı́culo, que tem taxı́metro. (Do gr. taxis + metron)
+taxı́metro #,(csi )# |m.| Apparelho, para medir a distância percorrida por um vehı́culo. |Ext.| Vehı́culo, que tem taxı́metro. (Do gr. taxis + metron)
 taxı́neas #,(csi )# |f.| pl. Famı́lia de plantas conı́feras, que tem por typo o teixo. (Fem. pl. de taxı́neo)
 taxı́neo #,(csi )# |adj.| Relativo ou semelhante ao teixo. (Do lat. taxus)
 taxinomia #,(csi )# |f.| (e der.) Fórma preferı́vel a taxonomia, etc.
@@ -1433,7 +1433,7 @@ tecelão. |Fam.| Mexer os braços e as pernas automaticamente, (falando-se de cr
 téchnica |f.| Conjunto dos processos de uma arte ou de uma fabricação. (Fem. de téchnico)
 technicamente |adv.| De modo téchnico. Segundo a téchnica.
 technicismo |m.| Qualidade do que é téchnico.
-téchnico |adj.| Próprio de uma arte: conhecimentos téchnicos. Ext. Relativo a uma sciência. |M.| O que é perito numa arte ou sciência. (Lat. technicus) |adj.| O que é perito numa arte ou sciência. (Lat. technicus)
+téchnico |adj.| Próprio de uma arte: conhecimentos téchnicos. |Ext.| Relativo a uma sciência. |M.| O que é perito numa arte ou sciência. (Lat. technicus) |adj.| O que é perito numa arte ou sciência. (Lat. technicus)
 technismo |m.| Influência das artes. Cf. Latino, Camões, 263 e 265. (Do gr. tekhne)
 technita |m.| Gênero de insectos coleópteros tetrâmeros. (Do gr. tekhnites)
 technographia |f.| Descripção das artes e dos seus processos. (Do gr. tekhne + graphein)
@@ -1450,7 +1450,7 @@ teclado |m.| Conjunto de teclas de um instrumento.
 técnica |f.| Conjunto dos processos de uma arte ou de uma fabricação. (Fem. de técnico)
 tecnicamente |adv.| De modo técnico. Segundo a técnica.
 tecnicismo |m.| Qualidade do que é técnico.
-técnico |adj.| Próprio de uma arte: conhecimentos técnicos. Ext. Relativo a uma ciência. |M.| O que é perito numa arte ou ciência. (Lat. technicus) |adj.| O que é perito numa arte ou ciência. (Lat. technicus)
+técnico |adj.| Próprio de uma arte: conhecimentos técnicos. |Ext.| Relativo a uma ciência. |M.| O que é perito numa arte ou ciência. (Lat. technicus) |adj.| O que é perito numa arte ou ciência. (Lat. technicus)
 tecnismo |m.| Influência das artes. Cf. Latino, Camões, 263 e 265. (Do gr. tekhne)
 tecnita |m.| Gênero de insectos coleópteros tetrâmeros. (Do gr. tekhnites)
 tecnografia |f.| Descripção das artes e dos seus processos. (Do gr. tekhne + graphein)
@@ -1470,7 +1470,7 @@ tectipenas |m.| pl. Insectos, de asas reticuladas e bôca saliente. (Do lat. tec
 tectipenes |m.| pl. Insectos, de asas reticuladas e bôca saliente. (Do lat. tectum + penna)
 tectipennas |m.| pl. Insectos, de asas reticuladas e bôca saliente. (Do lat. tectum + penna)
 tectipennes |m.| pl. Insectos, de asas reticuladas e bôca saliente. (Do lat. tectum + penna)
-tecto |m.| Parte superior de uma casa ou de um edifı́cio, considerada especialmente do lado interior. Cobertura de uma sala ou de outro compartimento, em qualquer andar de um edifı́cio. Cobertura. Ext. Abrigo, habitação. Pop. Cabeça, juı́zo. * Geol. Diz-se o extrato geológico, em relação a outro, sôbre que assenta. (Lat. tectum)
+tecto |m.| Parte superior de uma casa ou de um edifı́cio, considerada especialmente do lado interior. Cobertura de uma sala ou de outro compartimento, em qualquer andar de um edifı́cio. Cobertura. |Ext.| Abrigo, habitação. Pop. Cabeça, juı́zo. * Geol. Diz-se o extrato geológico, em relação a outro, sôbre que assenta. (Lat. tectum)
 tectona |f.| Gênero de plantas verbenáceas, da trı́bo das lantâneas. (Do gr. tekton)
 tectónica |f.| Arte de carpinteiro. Arte de construir edifı́cios; Architectura. Cf. Latino, Humboldt, 523. (Do gr. tekton)
 tectónico |adj.| Relativo a edifı́cios ou á Architectura. (Cp. tectónica)
@@ -1558,7 +1558,7 @@ tejupá |m.| (V. tijupá)
 tejupar |m.| (V. tijupar )
 tela |f.| Teia, tecido. Pano grosso ou encorpado, revestido de
 tinta branca ou pardacenta, e sôbre o qual se pintam os quadros. Quadro: uma tela de Rafael. Des. Arena para
-torneios. Ext. Objecto de discussão. Momento em que se discute. (Lat. tela)
+torneios. |Ext.| Objecto de discussão. Momento em que se discute. (Lat. tela)
 telagarça |f.| O mesmo ou talvez melhór que talagarça. Cf.1929 Dom. Vieira, Diccion., vb. garça.
 telalgia |f.| Dôr na glândula mamal. (Do gr. thele + algos)
 telamones |m.| pl. Figuras de homens, a que, em Architectura, se dá a mesma applicação que ás cariátides. (Lat. telamones)
@@ -1703,7 +1703,7 @@ tema #,1 # |m.| Assunto. Proposição, de que se vai tratar ou que se vai provar
 Texto, em que se baseia um sermão. Radical, base ou elemento primitivo de uma palavra, a que se junta uma desinência ou sufixo. * Primeira pessôa do presente do indicativo, na gramática grega. * Prov. minh. Tomar
 tema, fixar na memória qualquer coisa, aprendê-la. (Lat. thema)
 tema #,2 # |m.| Espécie de melro do Chile.
-temão |m.| Peça comprida do carro ou do arado, a que se atrelam os animaes, que puxam o mesmo arado ou carro. Lança de carruagem; tirante. Tiradoira. Barra do leme. Ext. O leme. Fig. Governação, direcção. (Do lat. temo)
+temão |m.| Peça comprida do carro ou do arado, a que se atrelam os animaes, que puxam o mesmo arado ou carro. Lança de carruagem; tirante. Tiradoira. Barra do leme. |Ext.| O leme. Fig. Governação, direcção. (Do lat. temo)
 temático |adj.| Gram. Relativo ao tema das palavras. (Do gr. thematikos)
 tematologia |f.| Gram. Parte da Morfologia, que estuda a constituição das fórmas especı́ficas ou temas de cada uma das categorias gramaticaes que entram no discurso e que fôram classificadas na lexiologia. Cf. A. G. R. de Vasconcélloz, |Gram.| Port., 78. (Do gr. thema + logos)
 tematológico |adj.| Relativo á tematologia.
@@ -1938,7 +1938,7 @@ tentativa |f.| Tentação; ensaio, experiência. (De tentativo)
 tentativo |adj.| Que tenta. Que se póde tentar ou experimentar. (Lat. tentativus)
 tente |adj.| Des. (Contr. de tenente)
 tenteador |m.| O que tenteia. |adj.| O que tenteia.
-tentear #,1 # |v. t.| Investigar ou sondar com tenta. Ext. Examinar. Ensaiar. Tactear. (De tenta)
+tentear #,1 # |v. t.| Investigar ou sondar com tenta. |Ext.| Examinar. Ensaiar. Tactear. (De tenta)
 tentear #,2 # |v. t.| Dirigir com tento. Calcular com attenção. Dar attenção a. Entreter. Marcar com tentos. Distribuı́r ou empregar com tento ou parcimónia: tentear uma despesa. (De tento)
 tenteio |m.| Acto de tentear1 . Cf. Arn. Gama Motim, 48.
 tentéu |m.| Bras. Ave das regiões do Amazonas.
@@ -2361,7 +2361,7 @@ terrola |f.| O mesmo que terriola.
 terror |m.| Grande susto. Pavor. Qualidade do que é terrı́vel.terrorı́fico Época da revolução francesa, durante a qual permaneceu o tribunal revolucionário e a guilhotina. (Lat. terror )
 terrorı́fico |adj.| O mesmo que terrı́fico. Cf. Júlio Dinı́s, Morgadinha, 248. (Do lat. terror + facere)
 terrorismo |m.| Systema de governar por meio de terror ou de revoluções violentas. (De terror )
-terrorista |m.| , |f.| Pessôa partidária do terrorismo. Pessôa que infunde terror. Ext. Pessimista. (De terror ) |adj.| Pessôa partidária do terrorismo. Pessôa que infunde terror. Ext. Pessimista. (De terror )
+terrorista |m.| , |f.| Pessôa partidária do terrorismo. Pessôa que infunde terror. |Ext.| Pessimista. (De terror ) |adj.| Pessôa partidária do terrorismo. Pessôa que infunde terror. |Ext.| Pessimista. (De terror )
 terrorizar |v. t.| O mesmo que aterrorizar.
 terroso |adj.| Que tem côr, aspecto, mistura ou natureza de
 terra; baço. (Lat. terrosus)
@@ -2383,7 +2383,7 @@ tesadeira |f.| Maquinismo das fábricas de lanifı́cios, próprio para esticar 
 tesamente |adv.| De modo têso. Com vigor, com energia: portou-se tesamente.
 tesão |m.| O mesmo que tesura. * Ímpeto, embate violento: “...amainárão os inimigos no tesão da acomettida.” Filinto, D. Man., I, 280. * Prov. beir. Rêde de pesca, de fórma oblonga, retesada em meio arco de vime e muito usada no rio Alva. * Prov. trasm. Última travessa, que une as chedas. * Pleb. Orgasmo do pênis. (Do lat. tensio, tensionis)
 tesar |v. t.| O mesmo que entesar.
-tese |f.| Proposição, que se apresenta para sêr defendida, se fôr impugnada. Proposição que nas escolas superiores, é formulada para sêr defendida em público. * Ext. A discussão da própria tese. (Lat. thesis)
+tese |f.| Proposição, que se apresenta para sêr defendida, se fôr impugnada. Proposição que nas escolas superiores, é formulada para sêr defendida em público. * |Ext.| A discussão da própria tese. (Lat. thesis)
 teseias |f.| pl. Antigas festas gregas em honra de Theseu.
 tesidão |f.| O mesmo que tesura.
 tésio |m.| Gênero de plantas santaláceas. (Lat. thesium)
@@ -2396,7 +2396,7 @@ tesoira |f.| Instrumento, formado de duas lâminas cortantes, reunidas por um ei
 toma a mesma posição que na sorte da verónica, com a differença de que segura o capote com os braços cruzados. Pop. Grandes unhas, muito agudas. Aquillo que corta ou dilacera. Aquillo que tem fórma de tesoira aberta ou de aspa. Bras. Ave diurna, de rapina. * |F.| Pl. Cyn. Pennas da ponta da asa, menores que as voadeiras. Cf. Fern. Pereira, Caça de Altan. (Do lat. tonsoria)
 tesoirada |f.| Golpe com tesoira; acto de tesoirar.
 tesoirado |m.| Cargo de tesoireiro. (De tesoiro)
-tesoirar |v. t.| Cortar com tesoira. Ext. Cortar. |Fam.| Falar mal de.
+tesoirar |v. t.| Cortar com tesoira. |Ext.| Cortar. |Fam.| Falar mal de.
 tesoiraria |f.| O mesmo que tesoirado. Casa ou lugar, onde se guarda ou administra o tesoiro público. Repartição, onde funciona o tesoireiro. Escritório de companhia ou casa bancária, em que se realizam transacções monetárias. (De tesoiro)
 tesoireiro |m.| Guarda de tesoiro. Empregado superior da administração do tesoiro público. Aquele que é encarregado das operações monetárias numa casa bancária, companhia, associação, etc. (Do lat. thesaurarius)
 tesoirinha |f.| Pequena tesoira. Gavinha.
@@ -2406,7 +2406,7 @@ tesoura |f.| Instrumento, formado de duas lâminas cortantes, reunidas por um ei
 toma a mesma posição que na sorte da verónica, com a differença de que segura o capote com os braços cruzados. Pop. Grandes unhas, muito agudas. Aquillo que corta ou dilacera. Aquillo que tem fórma de tesoura aberta ou de aspa. Bras. Ave diurna, de rapina. * |F.| Pl. Cyn. Pennas da ponta da asa, menores que as voadeiras. Cf. Fern.1943 Pereira, Caça de Altan. (Do lat. tonsoria)
 tesourada |f.| Golpe com tesoura; acto de tesourar.
 tesourado |m.| Cargo de tesoureiro. (De tesouro)
-tesourar |v. t.| Cortar com tesoura. Ext. Cortar. |Fam.| Falar mal de.
+tesourar |v. t.| Cortar com tesoura. |Ext.| Cortar. |Fam.| Falar mal de.
 tesouraria |f.| O mesmo que tesourado. Casa ou lugar, onde se guarda ou administra o tesouro público. Repartição, onde funciona o tesoureiro. Escritório de companhia ou casa bancária, em que se realizam transacções monetárias. (De tesouro)
 tesoureiro |m.| Guarda de tesouro. Empregado superior da administração do tesouro público. Aquele que é encarregado das operações monetárias numa casa bancária, companhia, associação, etc. (Do lat. thesaurarius)
 tesourinha |f.| Pequena tesoura. Gavinha.
@@ -2962,7 +2962,7 @@ thermotherapia |f.| Med. Emprêgo therapêutico do calor. (Do gr. therme + thera
 thermotropismo |m.| Med. Propriedade, que o protoplasma tem, de reagir ao calor. (Do gr. therme + trepein)
 thero |m.| Gênero de molluscos gasterópodes.–A fórma
 thaı́ra, adoptada por alguns zoologistas, é incorrecta. (Do gr. thairos)
-these |f.| Proposição, que se apresenta para sêr defendida, se fôr impugnada. Proposição que nas escolas superiores, é formulada para sêr defendida em público. * Ext. A discussão da própria these. (Lat. thesis)
+these |f.| Proposição, que se apresenta para sêr defendida, se fôr impugnada. Proposição que nas escolas superiores, é formulada para sêr defendida em público. * |Ext.| A discussão da própria these. (Lat. thesis)
 theseias |f.| pl. Antigas festas gregas em honra de Theseu.
 thésio |m.| Gênero de plantas santaláceas. (Lat. thesium)
 thesmóphora |adj.| Dizia-se de Ceres, considerada como legisladora. (Lat. thesmophora) |f.| Dizia-se de Ceres, considerada como legisladora. (Lat. thesmophora)
@@ -3241,7 +3241,7 @@ timbopeba |f.| Bras. Espécie de cipó.
 timbra |f.| Gênero de plantas aromáticas, da |fam.| das labiadas. (Lat. thymbra)
 timbragem |f.| Acto de timbrar.
 timbrar |v. t.| Fazer timbre a, marcar com timbre. Apodar, qualificar. |V. i.| Caprichar; ufanar-se: timbrar de honrado.
-timbre |m.| Heráld. Insı́gnia, appensa exteriormente aos escudos. * Instrumento metállico de percussão, que se percute com martelo, também de metal, e que tem a fórma de um pequeno hemisphério, com a parte convexa voltada para cima. Ext. Insı́gnia, marca. Divisa. Sêllo, carimbo. Divisa honrosa. Fig. Honra. Capricho. Orgulho legı́timo. Remate. Cúmulo. Qualidade sonora de uma voz ou de um instrumento. * Pl. Prov. Birras; caprichos; teimas de criança. (Fr. timbre)
+timbre |m.| Heráld. Insı́gnia, appensa exteriormente aos escudos. * Instrumento metállico de percussão, que se percute com martelo, também de metal, e que tem a fórma de um pequeno hemisphério, com a parte convexa voltada para cima. |Ext.| Insı́gnia, marca. Divisa. Sêllo, carimbo. Divisa honrosa. Fig. Honra. Capricho. Orgulho legı́timo. Remate. Cúmulo. Qualidade sonora de uma voz ou de um instrumento. * Pl. Prov. Birras; caprichos; teimas de criança. (Fr. timbre)
 timbreira |f.| O mesmo que timbra.
 timbri |m.| Árvore intertropical, de pequenas dimensões, (diospyrus montana), cuja madeira é preta como ébano. (Do concani)
 timbroso |adj.| Que tem timbre ou capricho. Meticuloso; escrupuloso. (De timbre)
@@ -3428,7 +3428,7 @@ tinturaria |f.| Estabelecimento ou fábrica, onde se tingem panos. Offı́cio ou
 tintureira |f.| Mulhér, que exerce a arte de tingir panos. Dona de tinturaria. Peixe esqualo. Planta phytolácea. Variedade de uva, o mesmo que tintureiro. (De tintureiro)
 tintureiro |adj.| Que tinge. |M.| Aquelle que tinge panos. Dono de tinturaria. Espécie de uva tinta. (De tintura)
 tinturial |adj.| (V. tinctorial )
-tio |m.| Diz-se o indivı́duo em relação a outrem, de cujo pai ou mãe é irmão. Ext. Marido da tia. Pop. Tratamento, que se dá aos homens de idade e àquelles de que se não sabe o nome. (Do gr. theios)
+tio |m.| Diz-se o indivı́duo em relação a outrem, de cujo pai ou mãe é irmão. |Ext.| Marido da tia. Pop. Tratamento, que se dá aos homens de idade e àquelles de que se não sabe o nome. (Do gr. theios)
 tio-lio |m.| T. de Macau. Remo, com que as tancareiras governam os tancares.
 tioco |m.| Nome de vários pássaros conirostros da África.
 tiocole |m.| Medicamento, empregado especialmente contra a tuberculose.
@@ -4260,7 +4260,7 @@ torpitude |f.| O mesmo que torpeza.
 torpor |m.| Entorpecimento. Indifferênça ou inércia moral. (Lat. torpor )
 torquaz |m.| (V. torcaz ) |adj.| (V. torcaz )
 torquez |f.| Instrumento de ferro ou de outros metaes, formado de duas peças, á maneira de tenaz ou de tesoira, e com as quaes se póde apertar e arrancar um objecto. (Do lat. torquere)
-torquezada |f.| Pancada com torquez. Ext. Pancada.
+torquezada |f.| Pancada com torquez. |Ext.| Pancada.
 torquisco |m.| Espécie de arma antiga. Cf. Tenreiro, Itiner., (ed. de 1829), 21.
 torra |f.| Acto ou effeito de torrar.
 torração |f.| Acto de torrar: a torração do café.
@@ -4271,7 +4271,7 @@ torrar )
 torrador |m.| Apparelho para torrar café.
 torragem |f.| O mesmo que torração.
 torrão |m.| Pedaço de terra, de fórma análoga á de um rebo. Gleba. Terreno. Território. Pedaço, bocado, fragmento:
-torrão de açúcar. Ext. Solo. Pl. Propriedades rústicas: possuidor de alguns torrões. (Por terrão, de terra)
+torrão de açúcar. |Ext.| Solo. Pl. Propriedades rústicas: possuidor de alguns torrões. (Por terrão, de terra)
 torrão-de-açúcar |f.| Variedade de pêra.
 torrar |v. t.| Tornar muito sêco, por meio do calor: torrar café. Tostar. Tornar murcho. * Bras. Vender pelo mais baixo preço ou por todo o preço: o leiloeiro torrou tudo quanto vendeu. (Do lat. torrere)
 tôrre |f.| Edifı́cio alto, que se construı́a especialmente para defesa em caso de guerra. Fortaleza. Construcção redonda ou de várias faces, geralmente estreita e alta, insulada ou annexa a uma igreja ou a outro edifı́cio, e que serve para
@@ -4296,7 +4296,7 @@ torrentoso |adj.| O mesmo que torrencial.
 torresão |adj.| Relativo a Tôrres-Vedras. |M.| Habitante de
 Tôrres-Vedras. (De Tôrres, |n. p.| )
 torresmada |f.| T. do Faial. Parvoı́ce; disparate.torresmo, (rês)
-torresmo #,(rês)# |m.| Parte consistente e membranosa, que resta do toicinho frito. * Ext. Cada um dos pedaços do sarrabulho. (De torrar )
+torresmo #,(rês)# |m.| Parte consistente e membranosa, que resta do toicinho frito. * |Ext.| Cada um dos pedaços do sarrabulho. (De torrar )
 tórrido |adj.| Muito quente, ardente. Em Geographia, diz-se da zona, comprehendida entre os Trópicos. (Lat. torridus)
 torrificação |f.| Acto de torrificar. Cf. Castilho, Fastos, III, 476.
 torrificado |adj.| O mesmo que torrefacto. (De torrificar )
@@ -4540,7 +4540,7 @@ trabécula |f.| Pequena trave. Anat. Cada um dos filamentos cruzados, de que se 
 trabela |f.| Prov. trasm. Bicho, que dá no milhão. (Relaciona-se com trabécula)
 trabelho #,(bê)# |m.| Peça de madeira, com que se torce a corda da serra, para a retesar. Peça de xadrez. Peia. (Do lat. trabécula)
 trabola |m.| Prov. beir. O mesmo que trapóla.
-trabucada |f.| Ruı́do, produzido pelo rodar da antiga máquina chamada trabuco. * Ext. Ruı́do, estrondo. (De trabuco)
+trabucada |f.| Ruı́do, produzido pelo rodar da antiga máquina chamada trabuco. * |Ext.| Ruı́do, estrondo. (De trabuco)
 trabucador |m.| O que trabuca. |adj.| O que trabuca.
 trabucar |v. t.| Atacar, lançando pedras. Desmoronar. Fazer ir a pique (um navio). Agitar. |V. i.| Trabalhar insistentemente. Ir a pique. Fazer barulho; fazer estrondo, martelando, ou dando pancadas repetidas em substância rija. Cf. Bernárdez, Luz e Calor, 12. (Cast. trabucar )
 trabuco |m.| Antiga máquina de guerra, com que se atiravam pedras. Espécie de bacamarte. (Cast. trabuco)
@@ -4922,7 +4922,7 @@ transformismo |m.| Systema biológico, segundo o qual se admitte que as espécie
 transformista |adj.| Relativo a transformismo. |M.| Pessôa, que é partidária do transformismo. (De transformar ) |f.| Pessôa, que é partidária do transformismo. (De transformar )
 transfretano |adj.| P. us. Situado para lá do estreito de Gibraltar. Ultramarino. (Lat. transfretanus)
 transfretar |v. t.| Transportar em navio, de uma á outra banda do mar: “...vendendo mercadorias transfretadas da Ásia, da América e África.” Mandamento de 15 de Maio de 1758, do Cardeal Saldanha, visitador e reformador da Companhia de Jesus. (Lat. transfretare)
-trânsfuga |m.| Desertor. Aquelle que, em tempo de guerra, abandona a sua bandeira, passando ás fileiras inimigas. Ext. Aquelle que abandona os seus deveres. * Aquelle que abandona o partido polı́tico em que estava filiado e passa para outro. * Aquelle que muda de religião; apóstata. (Lat. transfuga)
+trânsfuga |m.| Desertor. Aquelle que, em tempo de guerra, abandona a sua bandeira, passando ás fileiras inimigas. |Ext.| Aquelle que abandona os seus deveres. * Aquelle que abandona o partido polı́tico em que estava filiado e passa para outro. * Aquelle que muda de religião; apóstata. (Lat. transfuga)
 transfúgio |m.| Acto de transfugir; deserção. (Lat. transfugium)
 transfugir |v. i.| Fugir de um lugar para outro; desertar. (Lat. transfugere)
 transfundido |adj.| Que se transfundiu. Espalhado, diffundido.
@@ -5137,7 +5137,7 @@ trapilho |m.| Pequeno trapo.
 trapisonda |f.| Prov. trasm. Bebedeira. (T. cast.)
 trapista |adj.| Relativo á Ordem religiosa da Trapa. |M.| Religioso dessa Ordem. (De trapa 2 )
 trapizarga |f.| Pop. Embrulhada; enrêdo; trapalhice.
-trapo |m.| Pedaço de pano, usado ou velho. Ext. Fato velho. Rodilha. Espécie de floco que, com a apparência de trapo, se fórma em certos lı́quidos: a urina do doente apresentava uns trapos. Sedimento de vinho ou vinagre nas vasilhas. Arbusto celastrı́neo, (evonymus agglomeratus). |Loc. fam.| Pegar-lhe com um trapo quente, tentar remediar o irremediável. Pl. |Fam.| Lı́ngua de trapos, lı́ngua de quem tem má pronúncia. Pessôa, que fala com difficuldade ou com pronúncia defeituosa. Pessôa linguareira, maldizente. (Talvez do lat. drappum)
+trapo |m.| Pedaço de pano, usado ou velho. |Ext.| Fato velho. Rodilha. Espécie de floco que, com a apparência de trapo, se fórma em certos lı́quidos: a urina do doente apresentava uns trapos. Sedimento de vinho ou vinagre nas vasilhas. Arbusto celastrı́neo, (evonymus agglomeratus). |Loc. fam.| Pegar-lhe com um trapo quente, tentar remediar o irremediável. Pl. |Fam.| Lı́ngua de trapos, lı́ngua de quem tem má pronúncia. Pessôa, que fala com difficuldade ou com pronúncia defeituosa. Pessôa linguareira, maldizente. (Talvez do lat. drappum)
 trapoeraba |f.| Gênero de plantas commelı́neas e medicinaes do Brasil.
 trapóla |m.| , |f.| Pop. Pessôa trapaceira. (De trapa 1 ) |adj.| Pop. Pessôa trapaceira. (De trapa 1 )
 trapólas |m.| , |f.| O mesmo que trapóla. |adj.| O mesmo que trapóla.
@@ -5194,7 +5194,7 @@ trás |prep.| O mesmo que atrás; após: “trás de umatràsanteontem pulga and
 tràsanteontem |adv.| No dia antecedente ao de ante-ontem. (De trás + ante + ontem)
 tràsantontem |adv.| O mesmo que tràsanteontem.
 trasbordante |adj.| Que trasborda.
-trasbordar |v. t.| Sair fóra das bordas de. Ext. Derramar, entornar, verter. |V. i.| Sair fóra das bordas. Extravasar-se. Fig. Sobejar. Manifestar-se impetuosamente. Espalharse. Estar possuido (de um sentimento violento). (De tras... + borda)
+trasbordar |v. t.| Sair fóra das bordas de. |Ext.| Derramar, entornar, verter. |V. i.| Sair fóra das bordas. Extravasar-se. Fig. Sobejar. Manifestar-se impetuosamente. Espalharse. Estar possuido (de um sentimento violento). (De tras... + borda)
 trasbôrdo |m.| O mesmo que transbordamento.
 trascâmara |f.| Quarto esconso, ou mais interior que a câmara. Cf. Port. Mon. Hist., Script., 276. (De tras... + câmara)
 trascurar |v. t.| (V. transcurar ). Cf. Filinto, XXII, 156.
@@ -6089,7 +6089,7 @@ trilóbeo |m.| O mesmo que trilobite.
 trilobite |f.| Crustáceo fóssil, da série paleozóica, o qual constitue uma ordem ou famı́lia de branchiópodes.
 trilobito |m.| O mesmo que trilobite.
 trilocular |adj.| Que tem três lóculos. (De tri... + locular )
-trilogia |f.| Poema dramático, composto de três tragédias e destinado aos concursos, nos jogos solennes da Grécia. Ext. Peça theatral ou literária dividida em três partes;
+trilogia |f.| Poema dramático, composto de três tragédias e destinado aos concursos, nos jogos solennes da Grécia. |Ext.| Peça theatral ou literária dividida em três partes;
 trı́ade. (Gr. trilogia)
 trilógico |adj.| Relativo á trilogia.
 trı́logo |m.| Des. Conversação entre três pessôas. (Do gr. tri + logos)
@@ -6162,7 +6162,7 @@ trinco |m.| Espécie de pequena tranca, com que se fecham porta, e que se levant
 trincolejar |v. i.| O mesmo que telintar : “ouviste-me não sei quê trincolejar na algibeira.” J. de Deus.
 trincolejo |m.| Acto de trincolejar.
 trincolhos-brincolhos #,(cô)# |m.| Pl. Brinquedos de criança.
-trindade |f.| Um só Deus em três pessôas distintas. Domingo, immediato ao de Pentecostes. Ext. Divindade trı́plice, nas religiões pagans. Designação de uma Ordem religiosa: os frades da Trindade, ou frades trinos. Fig. Grupo de três pessôas ou três coisas análogas. Pl. O toque das avemarias. * Hora do toque das ave-marias; tardinha. (Lat. trinitas)
+trindade |f.| Um só Deus em três pessôas distintas. Domingo, immediato ao de Pentecostes. |Ext.| Divindade trı́plice, nas religiões pagans. Designação de uma Ordem religiosa: os frades da Trindade, ou frades trinos. Fig. Grupo de três pessôas ou três coisas análogas. Pl. O toque das avemarias. * Hora do toque das ave-marias; tardinha. (Lat. trinitas)
 trinervado |adj.| O mesmo que trinérveo.
 trinérveo |adj.| Bot. Que tem três nervos ou nervuras. (De
 tri + nérveo)
@@ -6185,7 +6185,7 @@ trinitário. (Lat. trinus)
 trino #,2 # |m.| Acto de trinar; gorgeio.
 trinogeto |m.| Gênero de plantas solanáceas.
 trinômine |adj.| Poét. Que tem três nomes. (Lat. trinominis)
-trinómio |m.| Polynómio de três termos. Ext. Aquillo que
+trinómio |m.| Polynómio de três termos. |Ext.| Aquillo que
 tem três partes. |Adj.| Que tem três termos ou partes. (Do gr. treis + nomos)
 trinoto |m.| Gênero de insectos.
 trinque |m.| Cabide de algibebe. Fig. Elegância, esmêro. Qualidade do que ainda não serviu, do que é novo em fôlha.
@@ -6268,7 +6268,7 @@ tripleta #,(plê)# |f.| Veloc. Velocı́pede de duas rodas, para
 três pessôas. (De triplo)
 triplicação |f.| Acto ou effeito de triplicar. (Lat. triplicatio)
 triplicadamente |adv.| De modo triplicado. De três maneiras. Três vezes.
-triplicar |v. t.| Tornar triplo. Ext. Multiplicar. (Lat. triplicare)
+triplicar |v. t.| Tornar triplo. |Ext.| Multiplicar. (Lat. triplicare)
 triplicata |f.| Terceira cópia. (Lat. triplicata)
 trı́plice |f.| O mesmo que triplo. (Do lat. triplex )
 triplicidade |f.| Qualidade do que é trı́plice. (Lat. triplicitas)
@@ -6450,7 +6450,7 @@ trituração |f.| Acto ou effeito de triturar. (Do lat. trituratio)
 triturado |adj.| Que se triturou. Moı́do. Fig. Magoado; atormentado. (De triturar )
 triturador |m.| Máquina, para moêr os ingredientes da pólvora. (De triturar )
 trituramento |m.| O mesmo que trituração.
-triturar |v. t.| Reduzir a pequenas parcellas. Reduzir a pó. Converter em massa. Ext. Bater, sovar. Fig. Atormentar. (Lat. triturare)
+triturar |v. t.| Reduzir a pequenas parcellas. Reduzir a pó. Converter em massa. |Ext.| Bater, sovar. Fig. Atormentar. (Lat. triturare)
 triturável |adj.| Que se póde triturar.
 triumfeminato |m.| Domı́nio, exercido por três mulheres. Cf. Castilho, Sabichonas, 130. (Do lat. tres + femina, á semelhança de triumvirato, duumvirato, etc.)
 triumphador |m.| O que triumpha. (Do lat. |adj.| O que triumpha. (Do lat.
@@ -6461,7 +6461,7 @@ triumphantemente |adv.| De modo triumphante; gloriosamente. Com bizarria, com al
 triumphar |v. i.| Conseguir triumpho; alcançar victória. Levar vantagem. Vencer qualquer resistência. Estar muito alegre. |V. t.| Des. Vencer. * Encher de triumphos, tornar
 triumphante: mulher que triumphou a vida com as magias da formosura. Camillo, Caveira, I, XIII. (Lat. triumphare)
 triumpho |m.| Entrada solenne e pomposa dos generaes victoriosos na antiga Roma. Acto ou effeito de triumphar. Victória notável. Êxito brilhante. Satisfação plena. Grande alegria. Esplendor. Dominação das paixões. Superioridade. Manifestação de aplausos, com grande ruı́do; acclamação. Espécie de jôgo de cartas. * Ornato central da mesa de banquete. Cf. Rebello, Contos e Lendas, III, 40. (Lat. triumphus)
-triumvirado |m.| Magistratura dos triúmviros. Ext. Associação de três cidadãos, que reúnem em si toda a autoridade. Govêrno de três indivı́duos. Uma das classes da Ordem de Malta. (Lat. triumviratus)
+triumvirado |m.| Magistratura dos triúmviros. |Ext.| Associação de três cidadãos, que reúnem em si toda a autoridade. Govêrno de três indivı́duos. Uma das classes da Ordem de Malta. (Lat. triumviratus)
 triumviral |adj.| Relativo a triúmviro. (Lat. triumviralis)
 triumvirato |m.| O mesmo que triumvirado.
 triúmviro |m.| Magistrado romano, encarregado de uma parte da administração pública, juntamente com dois collegas. Membro de qualquer triumvirado. (Lat. triumvir )
@@ -6473,7 +6473,7 @@ triunfar |v. i.| Conseguir triunfo; alcançar victória. Levar vantagem. Vencer 
 triunfante: mulher que triunfou a vida com as magias da formosura. Camillo, Caveira, I, XIII. (Lat. triumphare)
 triunfeminato |m.| Domı́nio, exercido por três mulheres. Cf. Castilho, Sabichonas, 130. (Do lat. tres + femina, á semelhança de triumvirato, duumvirato, etc.)
 triunfo |m.| Entrada solenne e pomposa dos generaes victoriosos na antiga Roma. Acto ou efeito de triunfar. Victória notável. Êxito brilhante. Satisfação plena. Grande aletrocados gria. Esplendor. Dominação das paixões. Superioridade. Manifestação de aplausos, com grande ruı́do; acclamação. Espécie de jôgo de cartas. * Ornato central da mesa de banquete. Cf. Rebello, Contos e Lendas, III, 40. (Lat. triumphus)
-triunvirado |m.| Magistratura dos triúnviros. Ext. Associação de três cidadãos, que reúnem em si toda a autoridade. Govêrno de três indivı́duos. Uma das classes da Ordem de Malta. (Lat. triumviratus)
+triunvirado |m.| Magistratura dos triúnviros. |Ext.| Associação de três cidadãos, que reúnem em si toda a autoridade. Govêrno de três indivı́duos. Uma das classes da Ordem de Malta. (Lat. triumviratus)
 triunviral |adj.| Relativo a triúnviro. (Lat. triumviralis)
 triunvirato |m.| O mesmo que triunvirado.
 triúnviro |m.| Magistrado romano, encarregado de uma parte da administração pública, juntamente com dois colegas. Membro de qualquer triunvirado. (Lat. triumvir )
@@ -6499,7 +6499,7 @@ troca |f.| Acto ou effeito de trocar; permutação; escambo.
 troça #,1 # |f.| Acto ou effeito de troçar. Náut. Cabo, que atraca as antennas ao mastro. Pop. Grande porção. (Cp. cast. troza)
 troça #,2 # |adj.| Prov. minh. Diz-se da estôpa fraca ou de inferior qualidade. (Colhido em Barcelos) |f.| Prov. minh. Diz-se da estôpa fraca ou de inferior qualidade. (Colhido em Barcelos)
 troca-queixos |m.| Prov. alg. O mesmo que sôco.
-troca-tintas |m.| Pintor reles. Ext. Pandilha, bisbórria; trapalhão.
+troca-tintas |m.| Pintor reles. |Ext.| Pandilha, bisbórria; trapalhão.
 trocadamente |adv.| De modo trocado; com troca, com permutação.
 trocadilhar |v. i.| Fazer trocadilhos.
 trocadilho |m.| Uso de expressões ambiguas. Jôgo de palavras, por ornato ou por gracejo. (De trocado)
@@ -6721,7 +6721,7 @@ trophosperma |m.| Saliência da cavidade interior do pericarpo, a que estão lig
 tropical |adj.| Relativo aos trópicos. Relativo ás regiões que ficam entre os trópicos: plantas tropicaes. Relativo ao clima dessas regiões: calor tropical. O mesmo que intertropical. (De trópico)
 tropicão |m.| Acto ou effeito de tropicar.
 tropicar |v. i.| Tropeçar muitas vezes. (Cp. trompicar )
-trópico |m.| Geogr. Cada um dos dois parallelos terrestres, que separam a zona tórrida das zonas temperadas. Ext. Regiões, comprehendidas entre os trópicos. Ave palmı́pede, que vive entre os trópicos. |Adj.| Diz-se do anno,
+trópico |m.| Geogr. Cada um dos dois parallelos terrestres, que separam a zona tórrida das zonas temperadas. |Ext.| Regiões, comprehendidas entre os trópicos. Ave palmı́pede, que vive entre os trópicos. |Adj.| Diz-se do anno,
 troquitér que comprehende o tempo decorrido entre duas passagens successivas do centro do Sol pelo equinócio da Primavera. (Gr. tropikos)
 tropido |m.| Prov. trasm. Acto de tropear; tropel. Cf. Deusdado, Escorços Trasm., 141.
 tropidocarpo |m.| Gênero de plantas crucı́feras. (Do gr.
@@ -6773,7 +6773,7 @@ trouxada |f.| Grande trouxa.
 trouxel |m.| Ant. O mesmo que trouxa.
 trouxelo |m.| (V. trouxel )
 trova |f.| Composição lýrica, ligeira e de carácter mais ou menos popular. Cantiga, canção. (De trovar )
-trovador |m.| Diz-se especialmente dos poétas da lı́ngua de oc., que floresceram desde o século XI ao XIV e cultivaram a poésia lýrica. Diz-se dos poétas lýricos portugueses que, naquelles tempos, imitaram a poesia provençal. Ext. Poéta, lýrico. (De trovar 1 )
+trovador |m.| Diz-se especialmente dos poétas da lı́ngua de oc., que floresceram desde o século XI ao XIV e cultivaram a poésia lýrica. Diz-se dos poétas lýricos portugueses que, naquelles tempos, imitaram a poesia provençal. |Ext.| Poéta, lýrico. (De trovar 1 )
 trovante |m.| Des. Aquelle que faz trovas. Cf. Fenix Renasc., IV, 43. (De trovar 1 )
 trovão |m.| Ruı́do, produzido por descarga de electricidade atmosphérica. Grande estrondo. Coisa ruidosa ou espantosa. (Talvez por troão, de trom)
 trovar #,1 # |v. i.| Fazer ou cantar trovas. |V. t.| Exprimir em cantigas. (Provn. trobar )
@@ -6982,7 +6982,7 @@ tufoso |adj.| Entufado; que tem fórma de tufo1 .
 tuge |m.| Fam. Ant. Excremento humano. (De tugir )
 tugido |m.| Acto de tugir.
 tugir |v. i.| Falar baixo; dar sinal de si.
-tugúrio |m.| Habitação rústica. Choça; cabana. Ext. Refúgio, abrigo. (Lat. tugurium)
+tugúrio |m.| Habitação rústica. Choça; cabana. |Ext.| Refúgio, abrigo. (Lat. tugurium)
 tui-aı́ca |m.| Espécie de papagaio do Brasil.
 tuia |f.| Gênero de árvores conı́feras. (Do gr. thuia)
 tuias |m.| pl. Homens de lavoira, entre os habitantes da antiga Índia Portuguesa.
@@ -7010,7 +7010,7 @@ tujupi |m.| Bras. Ave ribeirinha do Amazonas.
 tula |f.| Gênero das plantas rubiáceas.
 tulangue |m.| Insecto africano, preto, de muitas pernas.
 tule Tecido transparente de seda ou algodão. (De Tullo, |n. p.| )
-tulha |f.| Lugar, onde se ajunta e deposita a azeitona, antes de sêr levada ao moinho. Casa ou compartimento, onde se depositam ou guardam cereaes em grão. Ext. Porção de azeitona, contida no respectivo depósito. Montão de cereaes ou frutos sêcos. * Prov. alent. Pop. O mesmo que cama. * Prov. Cheiro e saibo desagradável, que a azeitona adquire, quando entulhada por muito tempo. (Do lat. tudicula)
+tulha |f.| Lugar, onde se ajunta e deposita a azeitona, antes de sêr levada ao moinho. Casa ou compartimento, onde se depositam ou guardam cereaes em grão. |Ext.| Porção de azeitona, contida no respectivo depósito. Montão de cereaes ou frutos sêcos. * Prov. alent. Pop. O mesmo que cama. * Prov. Cheiro e saibo desagradável, que a azeitona adquire, quando entulhada por muito tempo. (Do lat. tudicula)
 tulheira |f.| Des. Monja, encarregada da tulha, em certos conventos, como no de Semide.
 tuliano |adj.| Relativo a Túllio. Dizia-se de um célebre cárcere de Roma. (Lat. tullianus)
 tulı́pa |f.| Gênero de plantas liliáceas. A flôr de uma espécie daquelle gênero. * Nome de várias conchas.–Alguns diccion., e os que só conhecem o t. por o terem lido, dizem

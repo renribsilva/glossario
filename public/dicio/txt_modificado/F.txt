@@ -33,7 +33,7 @@ Filinto, XI, 281.
 fabulista |m.| Compositor de fábulas. Fig. Aquelle que mente; trapaceiro.
 fabulizar |v. t.| O mesmo que fabular.
 fabulosamente |adv.| De modo fabuloso.
-fabuloso |adj.| Que não tem existência real: o dragão é animal fabuloso. Inventado. Relativo á Mythologia. Incrı́vel. Obscuro. Ext. Admiravel. Grandioso; enorme: riquezas
+fabuloso |adj.| Que não tem existência real: o dragão é animal fabuloso. Inventado. Relativo á Mythologia. Incrı́vel. Obscuro. |Ext.| Admiravel. Grandioso; enorme: riquezas
 fabulosas. (Lat. fabulosus)
 fac-similar |adj.| Neol. Bras. Relativo a fac-simile.
 fac-simile #,(fak-similè)# |m.| Reproducção exacta de uma assinatura, ou de outra escrita, ou de uma estampa, por gravuras ou por outro processo. (Loc. lat., que significa
@@ -97,7 +97,7 @@ fachear |v. i.| Bras. de Piaui. Quebrar? partir-se?: vara, que verga mas não fa
 facheiro #,1 # |m.| Aquelle que conduz o facho. Lugar ou coisa, em que se apoia o facho. * Ant. O mesmo que pharoleiro. Cf. Hist. Insul., II, 39.
 facheiro #,2 # |m.| Ant. Homem armado de acha. (De facha 2 )
 fachis |m.| pl. T. de Macau. Os dois pauzinhos, com que os Chineses comem, servindo-se delles como de garfo. (Chin. fa-chi)
-facho #,1 # |m.| Archote. Luzeiro. Pharol. Matéria inflammada que se acende de noite para qualquer fim. Ext. Tudo que esclarece a intelligência. Guia, norte. Fig. Aquillo que excita ou desenvolve uma paixão, uma calamidade, etc. (Do lat. fax, facis?)
+facho #,1 # |m.| Archote. Luzeiro. Pharol. Matéria inflammada que se acende de noite para qualquer fim. |Ext.| Tudo que esclarece a intelligência. Guia, norte. Fig. Aquillo que excita ou desenvolve uma paixão, uma calamidade, etc. (Do lat. fax, facis?)
 facho #,2 # |m.| Nome de um peixe acanthopterýgio, (apsilus fuscus).
 fachoca |f.| Feixe de palha, toscamente apertado de espaço a espaço, e que serve de archote, para alumiar o caminho, em algumas aldeias. (De facho 1 )
 fachoqueira |f.| Prov. beir. O mesmo que fachoqueiro.
@@ -210,7 +210,7 @@ faiar |v. t.| Pôr entrelinhas typográphicas em; entrelinhar; espacejar. Gı́r
 faı́da |f.| Ant. Direito de revindicta ou de vingança pessoal, que, por influência germânica, vigorou na penı́nsula hispânica. Cf. Herculano, Hist. de Port., IV, 385. (Do germ. vehida)
 faido |m.| Des. Aquillo que sobeja; resto. (T. da Índia port.)
 faim |m.| Des. Espadim. * Ferro agudo de lança e de outras armas.
-faina |f.| Qualquer serviço, a bordo de um navio. Ext. Trabalho aturado; lida. Ant. Cortesia. (Catalão fahena, do lat. facienda)
+faina |f.| Qualquer serviço, a bordo de um navio. |Ext.| Trabalho aturado; lida. Ant. Cortesia. (Catalão fahena, do lat. facienda)
 faio |m.| Prov. Ant. Trigo degenerado.
 faisão |m.| Ave gallinácea, notável pela sua bella plumagem. (Do lat. phasianus)
 faı́sca |f.| O mesmo que centelha. Phenómeno luminoso, resultante da combinação de electricidades oppostas. Raio; corisco. * Palheta de oiro, que se apanha na terra ou areia de mina lavrada. * Prov. trasm. Pessôa bem posta. * Prov. trasm. O mesmo que caspa. Fig. Aquillo que scintilla ou brilha muito. Aquillo que póde communicar fogo, produzir calamidade, grande alarma, etc. (Do lat. hyp.
@@ -327,7 +327,7 @@ falência |f.| Acto ou efeito de falir; quebra. Falha. Omissão; carência. (Do 
 falênia |f.| Gênero de insectos dı́pteros. (De Fallen, |n. p.| )
 fálera |f.| Colar de oiro e prata, usado por patrı́cios e guerreiros, entre os antigos Romanos. (Lat. phalerae)
 falerı́neas |f.| pl. Bot. Trı́bo de timeliáceas. (Do gr. phaleros)
-falerno |m.| Antigo vinho da Campânia. Ext. Vinho bom, generoso. (De Falerno, |n. p.| )
+falerno |m.| Antigo vinho da Campânia. |Ext.| Vinho bom, generoso. (De Falerno, |n. p.| )
 falêucio |m.| Verso de cinco pés, entre os Gregos e Romanos. (Fr. phaleuce) |adj.| Verso de cinco pés, entre os Gregos e Romanos. (Fr. phaleuce)
 falgoseiro |adj.| Prov. trasm. Meigo, carinhoso e alegre, (principalmente falando-se de crianças). (Talvez por fagoseiro, que se relaciona com fagar )
 falguer |v. t.| Ant. Fazer trabalhar.
@@ -755,7 +755,7 @@ farnento |m.| Variedade de uva preta de Azeitão. (Contr. de farinhento?)
 farnesia |f.| Ant. O mesmo que frenesi.
 farnicoques |m.| pl. O mesmo que fornicoques. Cf. Castilho,
 Fausto #, 274# .
-faro #,1 # |m.| Olfato dos animaes, especialmente dos cães. Ext. Cheiro. Fig. Indı́cio; peugada.
+faro #,1 # |m.| Olfato dos animaes, especialmente dos cães. |Ext.| Cheiro. Fig. Indı́cio; peugada.
 farrageal
 faro #,2 # |m.| Terra ou lugar, em que há farol, para guia de navegantes. O mesmo que farol.
 farofa |f.| Bras. Comida, feita de farinha cozida em toicinho ou manteiga. Bravata. Jactância. (Cp. farófia)
@@ -952,7 +952,7 @@ fatigoso |adj.| (V. fatigante)
 fatiloquente #,(cu-en)# |adj.| Que prediz o futuro; fatı́dico.
 fatı́loquo |adj.| Que prediz o futuro; fatı́dico. (Lat. fatitoquus)
 fatimitas |m.| pl. Trı́bo árabe, que na Idade-Média constituia um império no Magreb. Cf. Herculano, Hist. de Port., I, 94.
-fatiota |f.| Farpela; fato. Ext. Farraparia. (Do rad. de fato)
+fatiota |f.| Farpela; fato. |Ext.| Farraparia. (Do rad. de fato)
 fatniorragia |f.| Hemorragı́a pelo alvéolo de um dente. (Do gr. phatnia + rhagein)
 fato |m.| Rebanho. Roupa; vestuário. Prov. Intestinos. * Prov. trasm. Bando, quadrilha. Des. Móveis. * Bras. do N. Visceras de gado. (Cp. cast. hato, do germ.)
 fatoco #,(tô)# |m.| Prov. minh. Junção ou empastamento de coisas, que deviam estar desunidas: fatoco de lan, porção de lan empastada.
@@ -1315,7 +1315,7 @@ felugento |adj.| Que tem felugem. Cf. Camillo, |M.| da Fonte, 142.
 felupes |m.| pl. Gentios da Guiné portuguesa.
 felupo |m.| Grupo de lı́nguas africanas, a que pertence o biafada e o papel.
 fema |f.| T. de Serpa. O mesmo que fêmea.fêmea
-fêmea |f.| Mulher. Ext. Qualquer animal do sexo feminino. Barregan. Cı́rculo, em que se engatam os machos que seguram o leme. Fio circular de metal, em que se engancha o colchete. * Gı́r. Fechadura. (Do lat. femina)
+fêmea |f.| Mulher. |Ext.| Qualquer animal do sexo feminino. Barregan. Cı́rculo, em que se engatam os machos que seguram o leme. Fio circular de metal, em que se engancha o colchete. * Gı́r. Fechadura. (Do lat. femina)
 femeaço |m.| Pop. Mulherio. Reunião de mulheres irrequietas ou dissolutas. As mulheres dissolutas. (De fêmea)
 femeal |adj.| O mesmo que feminil. (De fêmea)
 femeeiro |m.| O mesmo que femieiro. |adj.| O mesmo que femieiro.
@@ -1568,7 +1568,7 @@ ferroar |v. i.| Picar com o ferrão; dar ferroada em.
 ferroba #,(rô)# |f.| Des. O mesmo que alfarroba.
 ferrolhar |v. t.| O mesmo que aferrolhar.
 ferrolho #,(rô)# |m.| Tranqueta de ferro corrediça, com que se
-fecham portas ou janelas. Ext. Aldrava. * Contribuição directa municipal, no concelho da Feira. (Do rad. de ferro)
+fecham portas ou janelas. |Ext.| Aldrava. * Contribuição directa municipal, no concelho da Feira. (Do rad. de ferro)
 ferrolho-queimado |m.| Prov. alent. Jôgo de rapazes.
 ferropear |v. t.| Agrilhoar ou prender com ferropeias.
 ferropeias |f.| pl. Algemas, grilhões. (Cast. ferropea)
@@ -1577,7 +1577,7 @@ ferrovia |f.| Neol. Estrada de ferro, caminho de ferro. (T., mal formado, de fer
 ferrovial |adj.| Relativo a caminho de ferro. (De ferrovia)
 ferroviário |adj.| Neol. Relativo a caminho de ferro. (De ferrovia)
 ferrucho |m.| Prov. minh. Pequeno púcaro, em que se aquece agua na lareira.
-ferrugem |f.| Óxydo, que se forma na superfı́cie de ferro exposto á humidade. Ext. Óxydo, formado sobre outros metaes. Pop. Fuligem. Alforra. Fig. Falta de instrucção. Sombras da ignorância. Ócio, descanso. (Lat. ferrugo)
+ferrugem |f.| Óxydo, que se forma na superfı́cie de ferro exposto á humidade. |Ext.| Óxydo, formado sobre outros metaes. Pop. Fuligem. Alforra. Fig. Falta de instrucção. Sombras da ignorância. Ócio, descanso. (Lat. ferrugo)
 ferrugento |adj.| Que tem ferrugem. Fig. Antigo; desusado. (De ferrugem)ferrugı́neo
 ferrugı́neo |adj.| Escuro, da côr da ferrugem. (Lat. ferrugineus)
 ferruginosidade |f.| Qualidade daquillo que é ferruginoso.
@@ -1682,7 +1682,7 @@ feudalismo: o regime feudalista. (De feudal )
 feudatário |adj.| Feudal. Que paga feudo. |M.| Vassallo. (B. lat. feudatarius)
 feudista |m.| Aquelle que é versado em matéria de feudos.
 feudo |m.| Propriedade nobre ou bens rústicos, concedidos pelo senhor de certos domı́nios, sob a condição de vassallagem e prestação de certos serviços ou rendas. Vassallagem
-feudal. * Ext. Os moradores de terras feudaes. (B. lat. feudum)
+feudal. * |Ext.| Os moradores de terras feudaes. (B. lat. feudum)
 fêvera |f.| Filamento vegetal. Veio mineral. (Do lat. fibra)
 fevereiro |m.| Segundo mês do anno romano. (Do lat. februarius)
 fevra #,(fé)# |f.| O mesmo que fêvera.
@@ -2021,7 +2021,7 @@ filintino |adj.| Relativo ao poéta Filinto Elýsio.
 filintista |m.| Admirador de Filinto ou imitador dos seus processos literários.
 filipêndula |f.| Planta medicinal, da |fam.| das rosáceas. (Lat. filipendula)
 filipendulado |adj.| Suspenso ou ligado por fios, como a filipêndula.
-filı́pica |f.| Oração de Demóstenes contra Filipe de Macedó-879 nia. Ext. * Cada uma das orações de Cı́cero contra MarcoAntónio. Discurso violento e injurioso; sátira acerba. (De Philippe, |n. p.| )
+filı́pica |f.| Oração de Demóstenes contra Filipe de Macedó-879 nia. |Ext.| * Cada uma das orações de Cı́cero contra MarcoAntónio. Discurso violento e injurioso; sátira acerba. (De Philippe, |n. p.| )
 filipina |f.| Des. Bebida, feita de água, açúcar e aguardente. (Talvez de Filipe, |n. p.| de um botequineiro, no Largo do Pelourinho, em Lisbôa)
 filipino #,1 # |adj.| Relativo ás ilhas Filipinas. |M.| Indivı́duo, natural das Filipinas.
 filipino #,2 # |adj.| Diz-se do govêrno e da dinastia dos Filipes, em Portugal.
@@ -3269,7 +3269,7 @@ formigo #,2 # |m.| Prov. trasm. Certa variedade de uva branca, de todas a mais t
 formigos |m.| pl. Prov. minh. Iguaria, feita de pão, mel, vinho, manteiga, ovos, açúcar, usada em festas do Natal e Anno Bom. Prov. trasm. Chouriços de sangue e alhos. Prov. trasm. O primeiro leite de vaca, fervido e misturado com mel.
 formigueira |f.| Planta herbácea, (chenopodium ambrosioides).
 formigueirinho |m.| Ant. e pop. Ladrão de coisas de pouca monta. Ratoneiro, larápio. (De formigueiro) |adj.| Ant. e pop. Ladrão de coisas de pouca monta. Ratoneiro, larápio. (De formigueiro)
-formigueiro |m.| Grande porção de formigas. Buraco ou toca, em que habitam formigas. Ext. Muita gente reunida ou desfilando. Muitos animaes. Espécie de prurido ou sensação, semelhante á que produzem formigas, passando sôbre a pelle. * Doença de cavallos, o mesmo que formigo 2 .
+formigueiro |m.| Grande porção de formigas. Buraco ou toca, em que habitam formigas. |Ext.| Muita gente reunida ou desfilando. Muitos animaes. Espécie de prurido ou sensação, semelhante á que produzem formigas, passando sôbre a pelle. * Doença de cavallos, o mesmo que formigo 2 .
 Fig. Impaciencia. |Adj.| Dizia-se do ladrão, que se esconde para furtar ou que furta coisas de pequeno valor. (De formiga)
 formiguejar |v. i.| Andar ou mover-se, em grande quantidade, como formigueiro: a multidão formiguejava na praça. (De formiga)
 formiguilho |m.| Doença cavallar, resultante de um buraco entre o casco e o sauco. O mesmo que formigo? (Do rad. de formiga)
@@ -3654,7 +3654,7 @@ fragura |f.| O mesmo que fragosidade.
 frainel |m.| Náut. Botão, que, nos mastaréus, nas vêrgas de joanete, etc., se toma por pouco tempo, ordinariamente com fio de carrêta. Cf. Campos, Voc. Marujo.
 fraire |m.| Ant. O mesmo que freire.
 fraita |f.| Prov. minh. O mesmo que frauta ou flauta.
-fralda |f.| Parte inferior da camisa. Cueiro. Ext. Abas. Parte inferior, sopé, (de serra, monte, etc.). Fralda do mar, praia. (Do b. lat. falda?)
+fralda |f.| Parte inferior da camisa. Cueiro. |Ext.| Abas. Parte inferior, sopé, (de serra, monte, etc.). Fralda do mar, praia. (Do b. lat. falda?)
 fraldamento |m.| Ant. Roupa branca de mulher? Cf. S. Viterbo, Artes e Artistas, 62. (De fralda)
 fraldão |m.| Parte inferior da armadura. (De fralda)
 fraldar |v. t.| Pôr fraldas a. |V. p.| Vestir fraldão.
@@ -3780,7 +3780,7 @@ franganote |m.| O mesmo que franganito.
 frângão |m.| O mesmo que frango.
 frangelha #,(gê)# |f.| Cinto ou arco, com que se aperta a massa do queijo. Cincho. (Do rad. do lat. frangere)
 franger |v. t.| P. us. O mesmo que frangir. Quebrar. (Do lat. frangere)
-franges |m.| pl. Nome, com que no Oriente se designavam os franceses. * Nome, que, na Índia oriental, também se dava aos Portugueses. Cf. Pant. de Aveiro, Itiner., 52, (2.ª ed.). Ext. Estrangeiros. (T. ár. mas de or. europeia)
+franges |m.| pl. Nome, com que no Oriente se designavam os franceses. * Nome, que, na Índia oriental, também se dava aos Portugueses. Cf. Pant. de Aveiro, Itiner., 52, (2.ª ed.). |Ext.| Estrangeiros. (T. ár. mas de or. europeia)
 frangibilidade |f.| Qualidade daquillo que é frangı́vel.
 frangı́cia |f.| Med. Ant. Quebradura, hérnia. (Do lat. frangere)
 frangipana |f.| Des. Espécie de perfume. Pastel ou bolo perfumado. (De Frangipani, |n. p.| )
@@ -3859,8 +3859,8 @@ fraticelos |m.| pl. Frades franciscanos, que se tornaram herejes, negando a util
 fratria |f.| Cada uma das três divisões de cada trı́bo ateniense. (Gr. phratria)
 fratricellos |m.| pl. O mesmo que fraticellos.
 fratricelos |m.| pl. O mesmo que fraticelos.
-fratricida |m.| Assassino de irmão ou de irman. |Adj.| Que concorre para a morte ou ruı́na de irmãos ou de pessôas que, como irmãos, se devem estimar. Ext. Relativo a guerras civis. (Lat. fratricida)
-fratricı́dio |m.| Crime de quem mata irmão ou irman. * Ext. Guerra civil. (Lat. fratricidium)
+fratricida |m.| Assassino de irmão ou de irman. |Adj.| Que concorre para a morte ou ruı́na de irmãos ou de pessôas que, como irmãos, se devem estimar. |Ext.| Relativo a guerras civis. (Lat. fratricida)
+fratricı́dio |m.| Crime de quem mata irmão ou irman. * |Ext.| Guerra civil. (Lat. fratricidium)
 fratrissa |f.| Espécie de freira, que pertencia á Ordem de Malta, mas que não vivia em convento. (Lat. fratrissa)
 fraudação |f.| Acto de fraudar; burla. Má fé. (Lat. fraudatio)
 fraudador |m.| O que frauda. (Lat. fraudator ) |adj.| O que frauda. (Lat. fraudator )
@@ -4125,7 +4125,7 @@ froncil |adj.| Ant. Que tem pregas. |M.| Lenço de pregas. (Cp.
 fr. froncé)
 fronda |f.| Guerra civil em França, no tempo de Luı́s XIV. (Fr. fronde, do lat. funda)
 frondar |v. i.| Neol. bras. Tornar fronde, còpar: “frondava um vistoso ramalhete de palmeiras”. J. Alencar, Til.
-fronde |f.| Folhagem de palmeiras e fêtos. Ext. Ramo ou ramagem de árvore. (Do lat. frons, frondis)
+fronde |f.| Folhagem de palmeiras e fêtos. |Ext.| Ramo ou ramagem de árvore. (Do lat. frons, frondis)
 frondear |v. t. e i.| O mesmo que frondejar.
 frondecer |v. i.| (V. frondescer )
 frondejante |adj.| Que frondeja; que é frondoso.
@@ -4178,7 +4178,7 @@ fronto-parietal |adj.| Anat. Relativo á testa e região temporal.
 froque |m.| Pop. Cordãozinho, formado por fêlpa de lan ou seda. O mesmo que froco. Cf. Camillo, Cav. em Ruı́nas, 116.
 frôr |f.| Ant. O mesmo que flôr.
 frorão |m.| Florão?: “...porque do envestir, que a Fusta fez em elle no quartel da popa com os frorões alagou-se...” Azurara, Chrón. do Conde D. Pedro, l. II, c. 22, 566.
-frota |f.| Porção de navios de guerra; armada. * Ext. Chusma, grande quantidade; multidão. (Cp. cast. flota)
+frota |f.| Porção de navios de guerra; armada. * |Ext.| Chusma, grande quantidade; multidão. (Cp. cast. flota)
 froto |m.| Ant. Usou-se a froto, em vez de a nado. (Do fr. flot)
 frouças |f.| pl. Prov. trasm. O mesmo que fronças.
 frouva |f.| Espécie de corvo, (corvus frugilegus).
@@ -4468,7 +4468,7 @@ fumaguento |adj.| Açor. O mesmo que fumarento.
 fumante |m.| O mesmo que fumista. |Adj.| Que lança fumo. Que espuma. (Lat. fumans)
 fumão |m.| Fam. Homem que fuma, fumista.
 fumar |v. t.| Aspirar o fumo de: fumar um charuto. Curar ao
-fumo: fumar chouriços. Defumar. |V. i.| Lançar o fumo. Aspirar o fumo de cigarro, charuto ou cachimbo. Ext. Lançar vapor. Irritar-se. * Ir-se como o fumo, evaporarse. Cf. Sim. Machado, 68, V. * T. de Turquel. O mesmo que fugir. (Lat. fumare)
+fumo: fumar chouriços. Defumar. |V. i.| Lançar o fumo. Aspirar o fumo de cigarro, charuto ou cachimbo. |Ext.| Lançar vapor. Irritar-se. * Ir-se como o fumo, evaporarse. Cf. Sim. Machado, 68, V. * T. de Turquel. O mesmo que fugir. (Lat. fumare)
 fumaraça |f.| O mesmo que fumarada.
 fumarada |f.| O mesmo que fumaça. (De fumar )
 fumarar |v. i.| Deitar fumo; fumegar. |V. t.| Expellir ou diffundir como o fumo: “...fica a fumarar náuseas a torcida da alampada.” Camillo, Mulher Fatal, 127. (Cp. fumarada)917
@@ -4490,7 +4490,7 @@ fumear |v. i.| O mesmo que fumegar.
 fumegante |adj.| Que fumega.
 fumegar |v. i.| Lançar fumo. Atear-se. (Do lat. fumigare)
 fumêgo |m.| Neol. bras. Acto de fumegar (uma iguaria quente).–Us. por Coelho Neto.
-fumeiro |m.| Chaminé. Cano, por onde se eleva o fumo de um fogão, de uma cozinha, de uma máquina. Fumarada. * Espaço, entre a lareira e o telhado, onde se pendura carne ensacada, para esta se curar ou defumar. Ext. Carne ensacada. * Prov. alg. O mesmo que almanxar. (Lat. fumarium)
+fumeiro |m.| Chaminé. Cano, por onde se eleva o fumo de um fogão, de uma cozinha, de uma máquina. Fumarada. * Espaço, entre a lareira e o telhado, onde se pendura carne ensacada, para esta se curar ou defumar. |Ext.| Carne ensacada. * Prov. alg. O mesmo que almanxar. (Lat. fumarium)
 fumélio |m.| Gı́r. ant. Tabaco para fumar. (De fumo)
 fúmeo |adj.| O mesmo que fumı́fero. (Lat. fumeus)
 fúmido |adj.| O mesmo que fumoso. Cf. Viriato Trág., VIII, 123. (Lat. fumidus)
@@ -4590,7 +4590,7 @@ fundidor |m.| Aquelle que funde.
 fundilhar |v. t.| Pôr fundilhos em.
 fundilho |m.| Parte posterior das calças, no lugar correspondente ao assento. Remendo nessa parte das calças. (De fundo)
 fundinho |m.| Espécie de biombo, com duas fôlhas, atrás das portas dos salões, simulando corredor de communicação para outras divisões da casa. (De fundo)
-fundir #,1 # |v. t.| Derreter; liquefazer: fundir chumbo. Unir, incorporar: fundir duas associações numa. Moldar (metaes). Ext. Dissipar. |V. i.| Dar vantagem. Sêr lucrativo; produzir muito: êste anno os olivaes fundiram muito. |V. p.| Liquefazer-se. Encorporar-se; confundir-se. (Lat. fundere)
+fundir #,1 # |v. t.| Derreter; liquefazer: fundir chumbo. Unir, incorporar: fundir duas associações numa. Moldar (metaes). |Ext.| Dissipar. |V. i.| Dar vantagem. Sêr lucrativo; produzir muito: êste anno os olivaes fundiram muito. |V. p.| Liquefazer-se. Encorporar-se; confundir-se. (Lat. fundere)
 fundir #,2 # |v. t.| Des. O mesmo que afundar. (De fundo)
 fundismo |m.| Bôrra ou felpa da lan, resultante da tosadura do pano. Cf. Diário do Govêrno de 28-XII-1876.
 fundı́vel |adj.| O mesmo que fusı́vel. (De fundir 1 )

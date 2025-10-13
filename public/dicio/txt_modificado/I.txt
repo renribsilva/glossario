@@ -150,7 +150,7 @@ icó |m.| Planta capparı́dea do Brasil.
 icónico |adj.| O mesmo que icástico. * Dizia-se principalmente das estatuas de tamanho natural, erguidas aos que três vezes tinham sido vencedores nos jogos sagrados. (Lat. iconicus)
 iconista |m.| Autor de imagens ou estátuas. (Do gr. eikon, imagem)
 iconoclasmo |m.| Doutrina dos iconoclastas. (Cp. iconoclasta)
-iconoclasta |m.| Destruidor de imagens religiosas ou de ı́dolos. * Ext. Adversário da representação de coisas ou pessôas divinas. Fig. Aquelle que não respeita tradições e monumentos. Aquelle que mina o crédito ou a reputação alheia. (Gr. eikonoklastes) |adj.| Destruidor de imagens religiosas ou de ı́dolos. * Ext. Adversário da representação de coisas ou pessôas divinas. Fig. Aquelle que não respeita tradições e monumentos. Aquelle que mina o crédito ou a reputação alheia. (Gr. eikonoklastes)
+iconoclasta |m.| Destruidor de imagens religiosas ou de ı́dolos. * |Ext.| Adversário da representação de coisas ou pessôas divinas. Fig. Aquelle que não respeita tradições e monumentos. Aquelle que mina o crédito ou a reputação alheia. (Gr. eikonoklastes) |adj.| Destruidor de imagens religiosas ou de ı́dolos. * |Ext.| Adversário da representação de coisas ou pessôas divinas. Fig. Aquelle que não respeita tradições e monumentos. Aquelle que mina o crédito ou a reputação alheia. (Gr. eikonoklastes)
 iconófilo |m.| Aquele que gosta das imagens ou quadros. (Do gr. eikon + philos)
 iconografia #,2 # |f.| Conhecimento e descripção de imagens, estátuas, monumentos antigos, etc. (Lat. iconographia)
 iconográfico |adj.| Relativo á iconografia.
@@ -282,7 +282,7 @@ idiógyno |adj.| Bot. Diz-se das plantas, em que os estames não estão reunidos
 idios + gune)
 idiólatra |m.| Aquelle que se adora a si próprio. (Cp. idiolatria)
 idiolatria |f.| Adoração de si próprio. (Do gr. idios + latreia)
-idioma |m.| Lı́ngua de um povo, considerada nos seus caracteres especiaes. Ext. Expressão. (Lat. idioma)
+idioma |m.| Lı́ngua de um povo, considerada nos seus caracteres especiaes. |Ext.| Expressão. (Lat. idioma)
 idiomático |adj.| Relativo a idioma. (Gr. idiomatikos)
 idiometálico |adj.| Diz-se dos fenómenos eléctricos, que se revelam pelo contacto de dois metaes. (De ideos, gr. + metálico)
 idiometállico |adj.| Diz-se dos phenómenos eléctricos, que se revelam pelo contacto de dois metaes. (De ideos, gr. + metállico)
@@ -1715,7 +1715,7 @@ incensadela |f.| (V. incensação)
 incensador |m.| O que incensa. |adj.| O que incensa.
 incensairo |m.| (Fórma ant. de insensário)
 incensamento |m.| Acto de incensar.
-incensar |v. t.| Defumar com incenso; queimar incenso, junto de: incensar os altares. Ext. Defumar; perfumar. Fig. Thurificar, adular; illudir com lisonjas. * |V. i.| Prov. trasm. Andar de um lado para o outro.
+incensar |v. t.| Defumar com incenso; queimar incenso, junto de: incensar os altares. |Ext.| Defumar; perfumar. Fig. Thurificar, adular; illudir com lisonjas. * |V. i.| Prov. trasm. Andar de um lado para o outro.
 incensário |m.| Thurı́bulo, utensı́lio para incensar. (De incenso)
 incenso |m.| Resina aromática, que se queima nas festas de
 igreja, e que é extrahida de uma árvore terebinthácea. * Árvore açoreana e indiana. Fig. Louvor exaggerado; lisonja. Preito. (Lat. incensum)
@@ -1812,7 +1812,7 @@ incivilizável |adj.| Que não é civilizável. (De in... + civilizável )
 incivilmente |adv.| De modo incivil; com descortesia.
 incivismo |m.| Falta de civismo ou de patriotismo. Cf. Rui Barb., Réplica, 157.
 inclassificado |adj.| Não classificado. Cf. Th. Ribeiro, Jornadas, I, 285.
-inclassificável |adj.| Que se não póde classificar; que está em confusão. Ext. Inqualificável; digno de censura ou reprovação. (De in... + classificável )
+inclassificável |adj.| Que se não póde classificar; que está em confusão. |Ext.| Inqualificável; digno de censura ou reprovação. (De in... + classificável )
 inclemência |f.| Qualidade de inclemente; falta de clemência; severidade; rigor. (Lat. inclementia)
 inclemente |adj.| Que não é clemente. Áspero; severo; rigoroso; desagradável: inverno inclemente. (Lat. inclemens)
 inclementemente |adv.| De modo inclemente.
@@ -2758,7 +2758,7 @@ infâmio |m.| Ant. O mesmo que infame. Cf. Anat. Joc., I, 440. |adj.| Ant. O mes
 infanção |m.| Antigo tı́tulo de nobreza, inferior ao de ricohomem. Talvez escudeiro fidalgo, que ás vezes regia terras ou era guarda de castellos.–Há divergências sôbre o significado rigoroso da palavra. Cf. Elucidário, vb. infançon. (B. lat. infancio)
 infância |f.| Meninice; primeiro perı́odo da existência humana. Fig. Primeiro perı́odo de uma instituição, arte, sociedade, etc.: a infância da Renascença. As crianças, em geral: a infância é o encanto do lar. (Lat. infantia)
 infando |adj.| Indigno de se dizer; inaudito; horrı́vel; abominável. Cruel. (Do lat. infandus)
-infanta |f.| Filha de rei português ou espanhol, que não é herdeira da corôa. Ext. Mulher de um infante. (De infante 1 )
+infanta |f.| Filha de rei português ou espanhol, que não é herdeira da corôa. |Ext.| Mulher de um infante. (De infante 1 )
 infantádigo |m.| O mesmo que infantático.
 infantado |m.| Terras ou rendas, pertencentes a um infante. Estado de um infante. (De infante 1 )
 infantal |adj.| Des. Relativo a infante1 .
@@ -2768,7 +2768,7 @@ infante #,1 # |adj.| Relativo á infância; infantil. |M.| Filho ou filha de rei
 infante #,2 # |m.| Soldado de infantaria; peão. (It. fante, soldado a pé)
 infanticida |m.| , |f.| Pessôa, que commetteu infanticı́dio. (Lat. infanticida) |adj.| Pessôa, que commetteu infanticı́dio. (Lat. infanticida)
 infanticı́dio |m.| Morte, dada voluntariamente a uma criança. (Lat. infanticidium)
-infantil |adj.| Relativo a crianças; próprio de crianças: as graças infantis. * Ext. Ingênuo, innocente. (Lat. infantilis)
+infantil |adj.| Relativo a crianças; próprio de crianças: as graças infantis. * |Ext.| Ingênuo, innocente. (Lat. infantilis)
 infantilidade |f.| Qualidade daquelle ou daquillo que é infantil.
 infantilismo |m.| Med. Estado anormal dos indivı́duos, que, não obstante a idade, têm aspecto, sentimentos e modos de criança. (De infantil )
 infantilizar |v. t.| Tornar infantil. Dar feição infantil a: “e
@@ -2832,7 +2832,7 @@ infestador |adj.| Que infesta. |M.| Aquelle que infesta. (Lat.
 infestator )
 infestante |adj.| Que infesta. (Lat. infestans)
 infestar |v. t.| Sêr infesto a; assolar; invadir, devastando. Percorrer como corsário (os mares) (Lat. infestare)
-infesto |adj.| Molesto; adverso. Hostil. Ext. Pernicioso. (Lat. infestus)
+infesto |adj.| Molesto; adverso. Hostil. |Ext.| Pernicioso. (Lat. infestus)
 infibulação |f.| Acto ou effeito de infibular. Ligação artificial dos lábios da vagina.
 infibulador |adj.| Que infibula. |M.| Aquelle que infibula.
 infibular |v. t.| Ligar por meio de anel ou colchete; acolchetar. Afivelar. Reunir, por meio de anel, cadeado ou costura (os lábios da vagina), para impossibilitar o cóito. Prender ou coser os órgaos genitaes de (adolescentes), em proveito da voz, e da saúde, como recommendava Celso. (Lat. infibulare)
@@ -3032,7 +3032,7 @@ inglesia |f.| O mesmo que ingresia, mas menos usado. (De inglês)
 inglesismo |m.| O mesmo que anglicismo. Cf. Filinto, XVIII, 160.
 inglesmente |adv.| O mesmo ou melhor que inglesamente. Cp. portuguesmente.
 ingloriamente |adv.| De modo inglório; obscuramente.
-inglório |adj.| Em que não há glória; que não dá glória. Ext. Modesto; obscuro. (Lat. inglorius)
+inglório |adj.| Em que não há glória; que não dá glória. |Ext.| Modesto; obscuro. (Lat. inglorius)
 ingloriosamente |adv.| O mesmo que ingloriamente.
 inglorioso |adj.| O mesmo que inglório. (B. lat. ingloriosus)
 ingluvial |adj.| Relativo ao papo das aves. Diz-se especialmente da indigestão, peculiar a certas aves, e que se manifesta pela dilatação e dureza do papo. (Do lat. ingluvies, papo)
@@ -3168,7 +3168,7 @@ iniciando |m.| Aquelle que há de ser iniciado ou admittido ás ceremónias de u
 II #, 611# , 660 e 661. (Lat. initiandus)
 iniciar |v. t.| Começar, principiar. Preparar ou admittir aos mystérios e ceremónias de uma ordem ou seita. Proporcionar as primeiras noções de alguma coisa a. Dar fórma a.
 Inaugurar. (Lat. initiare)
-iniciativa |f.| Acto, com que alguém mostra sêr o primeiro em suscitar, propagar ou pôr em prática uma ideia: tomar a iniciativa de uma empresa. Ext. Actividade, diligência: é homem de grande iniciativa. (De iniciativo)
+iniciativa |f.| Acto, com que alguém mostra sêr o primeiro em suscitar, propagar ou pôr em prática uma ideia: tomar a iniciativa de uma empresa. |Ext.| Actividade, diligência: é homem de grande iniciativa. (De iniciativo)
 iniciativo |adj.| O mesmo que inicial. Que tem carácter de
 iniciativa. (De iniciar )
 inı́cio |m.| Começo. Exórdio. Inauguração. (Lat. initium)
@@ -3428,7 +3428,7 @@ inquisa |f.| Ant. O mesmo que inquirição. (Cp. lat. inquisitus)
 inquisição |f.| O mesmo que inquirição. Antigo tribunal ecclesiástico, instituı́do para investigar e punir os crimes contra a fé cathólica. Santo-offı́cio. Cárcere do santooffı́cio. (Lat. inquisitio)
 inquisidor |m.| Juiz do tribunal da Inquisição. Membro do santo-offı́cio. (Lat. inquisitor )
 inquisitivo |adj.| Relativo a inquirição. Interrogativo. Cf. Garrett, Helena, 22. (Do lat. inquisitus)
-inquisitorial |adj.| Relativo á Inquisição ou aos inquisidores. Fig. Deshumano; severo; terrı́vel. Ext. Muito arrogante. (De inquisitório)
+inquisitorial |adj.| Relativo á Inquisição ou aos inquisidores. Fig. Deshumano; severo; terrı́vel. |Ext.| Muito arrogante. (De inquisitório)
 inquisitório |adj.| O mesmo que inquisitorial. (Do lat. inquisitus).
 inradiante |adj.| Bot. Que não é radiante. (De in... + radiante)
 inremediável |adj.| Ant. O mesmo que irremediável.
@@ -3462,7 +3462,7 @@ insaturável |adj.| Que não é saturável. * O mesmo que
 insaciável. (Lat. insaturabilis)
 insaturavelmente |adv.| De modo insaturável.
 inscı́cia |f.| P. us. Falta de saber; imperı́cia; ignorância. (Lat. inscitia)
-insciência |f.| Qualidade de insciente; falta de sciência. Ext.
+insciência |f.| Qualidade de insciente; falta de sciência. |Ext.| 
 Ineptidão. (Lat. inscientia)
 insciente |adj.| Não sciente; que não sabe. Ignorante; inepto. (Lat. insciens)
 inscientemente |adv.| De modo insciente. ı́nscio |adj.| O mesmo que insciente. (Lat. inscius)
@@ -3498,7 +3498,7 @@ insectologia |f.| O mesmo que entomologia. (De insecto + gr. logos)
 insectológico |adj.| Relativo á insectologia.
 insectologista |m.| Aquelle que é versado em insectologia.
 insectóphilo |adj.| Que ama a insectologia. (De insecto + gr. philos)
-inseduzı́vel |adj.| Não seduzivel; que se não deixa seduzir. Ext. Incorruptı́vel. (De in + seduzivel )
+inseduzı́vel |adj.| Não seduzivel; que se não deixa seduzir. |Ext.| Incorruptı́vel. (De in + seduzivel )
 insegurança |f.| Falta de segurança. Qualidade de inseguro. (De in... + segurança)
 inseguridade |f.| Falta de segurança. (De in... + seguridade)
 inseguro |adj.| Que não é seguro. Cf. Latino, Humboldt, 173.
@@ -3755,7 +3755,7 @@ insulsamente |adv.| De modo insulso.
 insulsaria |f.| O mesmo que insulsez. Cf. Camillo, Caveira, 352.
 insulsez |f.| Qualidade de insôlso. Cf. Camillo, Hist. e Sentimentalismo, 127.
 insulsidade |f.| O mesmo que insulsez.
-insulso |adj.| Que não tem sal. Insosso; insı́pido. Ext. Desenxabido. Fig. Que não tem graça. Monótono. (Lat. insulsus)
+insulso |adj.| Que não tem sal. Insosso; insı́pido. |Ext.| Desenxabido. Fig. Que não tem graça. Monótono. (Lat. insulsus)
 insultador |m.| Que insulta. Que envolve injúria. |M.| Aquelle que insulta. (Lat. insultans) |adj.| Que insulta. Que envolve injúria. |M.| Aquelle que insulta. (Lat. insultans)
 insultante |adj.| Que insulta. Que envolve injúria. |M.| Aquelle que insulta. (Lat. insultans)
 insultar |v. t.| Dirigir insultos a. Injuriar gravemente; afrontar. (Lat. insultare)
@@ -4150,7 +4150,7 @@ intersilhado |adj.| Enfeitiçado, seduzido. Cf. Castilho, Collóq. Ald., 221. (R
 interstelar |adj.| Que está entre estrêlas. (Do lat. inter + stela)
 interstellar |adj.| Que está entre estrêllas. (Do lat. inter + stella)
 intersticial |adj.| Relativo a interstı́cio.
-interstı́cio |m.| Intervallo, que separa as moléculas dos corpos. Ext. Fenda. Intervallo, entre órgãos contı́guos. Intervallo. (Lat. interstitium)
+interstı́cio |m.| Intervallo, que separa as moléculas dos corpos. |Ext.| Fenda. Intervallo, entre órgãos contı́guos. Intervallo. (Lat. interstitium)
 intertexto |adj.| O mesmo que entretecido. (Lat. intertextus)
 intertransversário |adj.| Anat. Que está entre as apóphyses transversaes das vértebras. (De inter... + transverso)
 intertrigem |m.| Med. Escoriação das coxas, produzida por se andar a cavallo ou por outro motivo, especialmente pelo attrito. (Lat. intertrigo)
@@ -4355,7 +4355,7 @@ inumerável |adj.| Que não é numerável. Que se não póde numerar ou contar. 
 inumeravelmente |adv.| De modo inumerável.
 inúmero |adj.| O mesmo que inumerável. (Lat. innumerus)
 inumeroso |adj.| O mesmo que inumerável.
-inundação |f.| Acto ou effeito de inundar. Ext. Grande affluência de pessôas ou animaes. Fig. Invasão bellicosa. (Lat. inundatio)
+inundação |f.| Acto ou effeito de inundar. |Ext.| Grande affluência de pessôas ou animaes. Fig. Invasão bellicosa. (Lat. inundatio)
 inundado |m.| Indivı́duo, prejudicado por inundações. (De
 inundar )
 inundante |adj.| Que inunda. (Lat. inundans)

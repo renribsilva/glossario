@@ -474,7 +474,7 @@ baixas. Inferior. Que desceu da sua elevação normal: preço
 baixo. Inclinado. Decadente. Desprezı́vel; reles: acção
 baixa. Pequeno. Ordinário. Barato: o vinho está baixo. Que mal se ouve: em voz baixa. |M.| Parte inferior. Baixio. Homem, que tem voz própria para os sons graves. O som grave, na música. Corda grossa de alguns instrumentos. |Adv.| Em voz baixa: falavam baixo. Em lugar baixo. (Lat. hyp. bassius, do lat. Bassus, |n. p.| )
 baixo-bretão |m.| Habitante da Baixa-Bretanha. Lı́ngua desta região. |Adj.| Relativo á Baixa-Bretanha.
-baixo-império |m.| Império grego de Constantinopla. Ext. Sociedade corrompida. Desmoralização.
+baixo-império |m.| Império grego de Constantinopla. |Ext.| Sociedade corrompida. Desmoralização.
 baixo-navarro |m.| Um dos dialectos do vasconço, em França.
 baixo-relêvo |m.| Obra de esculptura, sôbre um fundo a que ficam adherentes as figuras.
 baixote |adj.| Um tanto baixo.
@@ -765,7 +765,7 @@ balsamináceas |f.| pl. O mesmo ou melhor que balsamı́neas.
 balsamı́neas |f.| pl. Plantas dicotyledóneas, de corolla polypétala e estames hypogı́neos. (De balsamina)
 balsamita |f.| Planta, conhecida também por hortelan romana. (De bálsamo)
 balsamizar |v. t.| Neol. Tornar balsâmico, aromatizar. Fig. Amenizar. Alliviar: balsamizar dores. (De bálsamo)
-bálsamo |m.| Substância aromática de alguns vegetaes. Ext. Perfume. Fig. Confôrto, consolação. Bot. Designação de várias plantas. Gı́r. Vinho. (Lat. balsamum)
+bálsamo |m.| Substância aromática de alguns vegetaes. |Ext.| Perfume. Fig. Confôrto, consolação. Bot. Designação de várias plantas. Gı́r. Vinho. (Lat. balsamum)
 balsamoide |m.| Qualquer aroma, cujo typo está no bálsamo. (Do gr. balsamon + eidos)
 balsana |f.| Fita, com que se debruava por baixo o habito dos frades.
 balsão |m.| Estandarte antigo. Bandeira. Insı́gnia.249
@@ -2198,13 +2198,13 @@ bendição |f.| Ant. O mesmo que bênção.
 bendito |adj.| (Fórma exacta, em vez de bem-dito. Cf. Peregrinação, 299 e 335)
 benedicta |f.| Antigo medicamento purgativo. (Lat. benedicta)
 benedictinas |f.| pl. Freiras da regra de San-Bento.
-benedictino |m.| Frade da Ordem de San-Bento. Ext. Homem erudito e incansável no estudo. |Adj.| Relativo aos
+benedictino |m.| Frade da Ordem de San-Bento. |Ext.| Homem erudito e incansável no estudo. |Adj.| Relativo aos
 benedictinos ou próprio delles: paciência benedictina. (De
 Benedictus, |n. p.| )
 benedita |f.| Antigo medicamento purgativo. |f.| Ant. Lábia, palavras convincentes: “e por aqui lhe disse minhas
 beneditas”. Eufrosina, act. I, sc. 3. (Lat. benedicta)
 beneditinas |f.| pl. Freiras da regra de San-Bento.
-beneditino |m.| Frade da Ordem de San-Bento. Ext. Homem erudito e incansável no estudo. |Adj.| Relativo aos
+beneditino |m.| Frade da Ordem de San-Bento. |Ext.| Homem erudito e incansável no estudo. |Adj.| Relativo aos
 benedictinos ou próprio delles: paciência benedictina. (De
 Benedictus, |n. p.| )
 benefactoria |f.| Ant. O mesmo que bem-feitoria.
@@ -2660,7 +2660,7 @@ bicı́pite |adj.| Que tem duas cabeças ou dois cumes. (Do lat.
 biceps, bicipitis)
 biclı́neo |m.| Ant. Leito de madeira para duas pessôas. (T. hyb., do lat. bis + gr. kline)
 bicó |adj.| Bras. do N. Que não tem rabo.
-bico #,1 # |m.| Saliência córnea, que constitue as membranas que cobrem os ossos maxillares das aves. Bôca de alguns peixes. * Renda estreita, que termina lateralmente em bicos. * Prov. Variedade de bolo, semelhante ás tortas de Coı́mbra. * |Fam.| Princı́pio de bebedeira, embriaguez incompleta. * Prov. Bebedor de vinho. * Açor. pop. O mesmo que tostão. Ext. Ave doméstica: sustentar trinta bicos. A bôca humana: cale o bico! * Prov. minh. O mesmo que beijo: “dás-me um bico?–Não, que me pico”. (De uma canção popular) * |Fam.| Pessôa: “para o banquete, o preço é de 2$500 cada bico”. Luta, de 24-VIII-907. Ponta, extremidade. * O mesmo que aparo (de escrever). * |Fam.| Embaraço, difficuldade: êsse negócio tem bico. * Bico de obra, (a mesma sign.). * Bico do peito, o mamilo. * Fig. Pau de dois bicos, argumento, acto ou coisa, com que se podem satisfazer duas opiniões differentes. * Melro de bico amarelo, sujeito finório, astucioso. * Bico de grou, espécie de erva. Água no bico, intenção reservada. * Pl. Bras. Restos de alguma coisa. Dinheiro miúdo, quantia insignificante.
+bico #,1 # |m.| Saliência córnea, que constitue as membranas que cobrem os ossos maxillares das aves. Bôca de alguns peixes. * Renda estreita, que termina lateralmente em bicos. * Prov. Variedade de bolo, semelhante ás tortas de Coı́mbra. * |Fam.| Princı́pio de bebedeira, embriaguez incompleta. * Prov. Bebedor de vinho. * Açor. pop. O mesmo que tostão. |Ext.| Ave doméstica: sustentar trinta bicos. A bôca humana: cale o bico! * Prov. minh. O mesmo que beijo: “dás-me um bico?–Não, que me pico”. (De uma canção popular) * |Fam.| Pessôa: “para o banquete, o preço é de 2$500 cada bico”. Luta, de 24-VIII-907. Ponta, extremidade. * O mesmo que aparo (de escrever). * |Fam.| Embaraço, difficuldade: êsse negócio tem bico. * Bico de obra, (a mesma sign.). * Bico do peito, o mamilo. * Fig. Pau de dois bicos, argumento, acto ou coisa, com que se podem satisfazer duas opiniões differentes. * Melro de bico amarelo, sujeito finório, astucioso. * Bico de grou, espécie de erva. Água no bico, intenção reservada. * Pl. Bras. Restos de alguma coisa. Dinheiro miúdo, quantia insignificante.
 bico #,2 # |m.| Antiguo dignitário chinês. Cf. Peregrinação, CLX.
 bico-cruzado |m.| Formoso pássaro que, como o papagaio, sobe, auxiliando-se com o bico, e cujas mandı́bulas, ao fechar da bôca, ficam cruzadas.
 bico-de-cegonha |m.| Planta medicinal, espécie de gerânio.
@@ -3433,7 +3433,7 @@ bocó #,2 # |m.| Bras. Pequena mala ou alforge de coiro ainda não curtido e com
 bocónia |f.| Gênero de plantas papaveráceas. (De Bocconi, |n. p.| )
 bocório |adj.| Bras. Reles; patife.
 boçudo |adj.| Diz-se do pau ou moca, usada como arma de guerra pelos gentios da África occidental portuguesa.
-boda #,(bô)# |f.| Celebração de casamento. Banquete e festa, para celebrar casamento. * Ext. Banquete. Pl. * Bodas de prata, celebração festiva do 25.º anniversário de casamento. * Bodas de oiro, celebração festiva do 50.º anniversário de casamento. (Lat. vota)
+boda #,(bô)# |f.| Celebração de casamento. Banquete e festa, para celebrar casamento. * |Ext.| Banquete. Pl. * Bodas de prata, celebração festiva do 25.º anniversário de casamento. * Bodas de oiro, celebração festiva do 50.º anniversário de casamento. (Lat. vota)
 bodalha |f.| Ant. Pequena porca; leitôa.
 bodalhão |m.| Prov. trasm. Homem sujo, immundo. (De bodalho)
 bodalho |adj.| Prov. beir. Sujo, porco. (Cp. bodalha)
@@ -3646,7 +3646,7 @@ boletra #,(lê)# |f.| Prov. beir. O mesmo que boleta.
 boléu |m.| Quéda, sem consequências graves; trambolhão. (Cast. boleo)
 bôlha |f.| Vesı́cula sôbre a pelle. Glóbulo de ar, á superfı́cie dos lı́quidos em ebulição ou fermentação. * |Fam.| Patetice, pancada. (Lat. bulla)
 bolhaca |f.| Prov. trasm. Galha do carvalho bravo, rodeada de saliências mammilares e terminada em bico. (Cp. bolhaco)
-bolhaco |m.| Prov. trasm. Galha do carvalho bravo, mais redonda que a bolhaca. Ext. Globo (do ôlho) (De bôlha? ou por bolhago, methát. de bogalho==bugalho?)
+bolhaco |m.| Prov. trasm. Galha do carvalho bravo, mais redonda que a bolhaca. |Ext.| Globo (do ôlho) (De bôlha? ou por bolhago, methát. de bogalho==bugalho?)
 bolhão |m.| Ant. Borbotão de água. (De bôlha)
 bolhar |v. i.| Apresentar bôlhas; formar bôlhas. * |V. t.| Fazerbôlhara sair em borbotões. Cf. Filinto, VI, 196. (Lat. bullare)bolór |m.| Vegetação cryptogâmica, que se fórma nas mabôlhara |f.| Prov. trasm. Alluvião de terra e pedras, que setérias orgânicas, quando estas entram em decomposição. Fig. Decadência, velhice. (Do lat. pallor )
 bolorecer |v. t.| Tornar bolorento. |V. i.| Tornar-se bolorento; abolorecer: o pão de milho abolorece facilmente. (De bolor )
@@ -3941,7 +3941,7 @@ bordamento |m.| O mesmo que bordadura. Acto ou effeito de bordar.
 bordão #,1 # |m.| Bastão; cajado grosso. Pau, que termina superiormente em volta. Fig. Amparo, arrimo. |Fam.| Palavra ou phrase, que se repete inconscientemente, na conversa ou na escrita. (B. lat. burdo, burdonis)
 bordão #,2 # |m.| O tom mais baixo, que, em certos instrumentos, serve de acompanhamento. A corda mais grossa de certos instrumentos. (Cast. bordón)
 bordão #,3 # |m.| Espécie de palmeira, de abundante seiva açucarada que, depois da sua fermentação, constitue o marufo. (De bôrdo 1 ?)
-bordar |v. t.| Guarnecer a borda de. Enfeitar á roda. Ext. Enfeitar, ornar. Fazer desenhos ou relevos com agulha em. Fig. Variar, enfeitando, (um discurso, uma composição literária, etc.). Fantasiar, agrupando, (ideias, factos).
+bordar |v. t.| Guarnecer a borda de. Enfeitar á roda. |Ext.| Enfeitar, ornar. Fazer desenhos ou relevos com agulha em. Fig. Variar, enfeitando, (um discurso, uma composição literária, etc.). Fantasiar, agrupando, (ideias, factos).
 bordate |m.| Espécie de tecido antigo, usado em tempo de João III.
 borde |m.| O mesmo que bordado: “espelho moldurado em um borde de florida verdura”. Castilho, Metam., 299. (Cp. cast. borde)
 bordear |v. i.| O mesmo que bordejar. * |V. t.| Prov. alent. Voltar a aresta de (qualquer peça de latão), em officina de latoeiro. (De borda)
@@ -4797,7 +4797,7 @@ brizein + manteia)
 brizomantico |adj.| Relativo á brizomancia.
 brôa |f.| Pão de milho. Bolo frito de farinha de milho. Bolo da mesma farinha, com mel, azeite, etc., usado principalmente pelo Natal. * T. da Bairrada. O mesmo que carcunda. Pl. Presente de festa pelo Natal. (Cp. al. brod )
 broba |f.| Prov. O mesmo que abóbora.
-broça |f.| Prov. trasm. Comida de porcos, feita de batatas, abóboras e farelo. Ext. Porcaria espêssa. Gı́r. Dinheiro. (Cast. broza)
+broça |f.| Prov. trasm. Comida de porcos, feita de batatas, abóboras e farelo. |Ext.| Porcaria espêssa. Gı́r. Dinheiro. (Cast. broza)
 brocadilho |m.| Brocado inferior. (De brocado)
 brocado |m.| Estôfo, entretecido de seda e fios de oiro ou prata, com figuras ou flôres em relêvo. (It. brocatto)
 brocador |m.| Bras. do N. Aquelle que corta ou derruba mato. (De brocar )
@@ -5262,7 +5262,7 @@ bunda |adj.| Diz-se de uma lı́ngua africana, falada pelos indı́genas de Ango
 bundaça |f.| Nádegas grandes. (De bunda)
 bundana |f.| Nádegas grandes. (De bunda)
 bundão |m.| Bras. de San-Paulo. Nádegas grandes. (De bunda)
-bundo |m.| A lı́ngua bunda, ou antes o quimbundo. * Negrobunga de Angola. Ext. Qualquer lı́ngua de negros. * Fig. Modo incorrecto ou errado de falar ou escrever.
+bundo |m.| A lı́ngua bunda, ou antes o quimbundo. * Negrobunga de Angola. |Ext.| Qualquer lı́ngua de negros. * Fig. Modo incorrecto ou errado de falar ou escrever.
 bunga |f.| Árvore laurı́nea de San-Thomé.
 bungama |f.| Arbusto africano, vivaz, de caule subterrâneo, fôlhas simples, glabras, e flôres miúdas, hermaphroditas.
 bungo |m.| O mesmo que jibungo.

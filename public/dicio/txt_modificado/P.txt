@@ -280,7 +280,7 @@ pagelança |f.| Bras. do N. Acto de pagé. Feitiçaria.
 pagella |f.| Parcella. Prestação. * Des. Pequena página. (Lat. pagella)
 pagem |m.| Mancebo, que acompanhava o Rei ou pessôa nobre e lhe levava as armas quando ia para a guerra. Cavalleiro, que nas toiradas transmitte ordens; neto. Marinheiro, que trata da limpeza em navios de guerra. (It. paggio)
 página |f.| Cada um dos lados de uma fôlha de papel, de
-pergaminho, etc. Aquillo que está escrito nesse lado. Ext. Trecho: sabe de cór muitas páginas dos Lusı́adas. Fig.
+pergaminho, etc. Aquillo que está escrito nesse lado. |Ext.| Trecho: sabe de cór muitas páginas dos Lusı́adas. Fig.
 Perı́odo notável numa história ou numa biographia: a revolução de 1820 é uma página soberba da nossa história. Bot. Cada uma das duas superfı́cies do limbo de uma fôlha. (Lat. pagina)
 paginação |f.| Acto de paginar. Ordem das páginas de um
 paiacus volume escrito.
@@ -460,7 +460,7 @@ palavra, têr permissão para falar numa assembleia. * Têr
 palavra, cumprir alguém aquillo a que se obriga. * Palavra de rei, firmeza no que se diz ou promete; qualidade de quem mantém o que diz. * |Loc. adv.| Sim; com certeza. (Do lat. parabola)
 palavrada |f.| Palavra grosseira, obscena. Farronca; bravata.
 palavragem |f.| P. us. O mesmo que palavreado.
-palavrão |m.| Palavra grande e que se pronuncia difficilmente. Ext. Termo emphático ou empolado. Palavrada; obscenidade.
+palavrão |m.| Palavra grande e que se pronuncia difficilmente. |Ext.| Termo emphático ou empolado. Palavrada; obscenidade.
 palavreado |m.| Reunião de palavras, com pouca ligação e importância. Loquacidade; lábia. (De palavrear )
 palavreador |m.| O que palavreia. |adj.| O que palavreia.
 palavrear |v. i.| Falar muito e levianamente; tagarelar, parolar. (De palavra)
@@ -832,9 +832,9 @@ pana-panazi |m.| Planta clusiácea do Brasil.
 panabásio |m.| Miner. Cobre cinzento antimonial, antimónio-sulfureto de cobre, prata, ferro e zinco. Cf. R. Galvão, Vocab. (Do gr. pan + basis)
 panaça |m.| Prov. beir. Marido, que teme a mulher. Panal de palha. (Colhido no Fundão) (Cp. panal 2 )
 panacarica |f.| Bras. do N. Tôldo de palha nas igaratés. (T. tupi)
-panacéa |f.| * Planta imaginária, a que se attribuı́a a virtude de curar todas as doenças. Ext. Remédio para todos os males. Preparado pharmacêutico, que contém certas
+panacéa |f.| * Planta imaginária, a que se attribuı́a a virtude de curar todas as doenças. |Ext.| Remédio para todos os males. Preparado pharmacêutico, que contém certas
 propriedades geraes. * Bras. Pop. Qualquer vegetal, especialmente a bôlsa-de-pastor, que se applica a todas as moléstias. (Lat. panacea)
-panaceia |f.| * Planta imaginária, a que se attribuı́a a virtude de curar todas as doenças. Ext. Remédio para todos os males. Preparado pharmacêutico, que contém certas
+panaceia |f.| * Planta imaginária, a que se attribuı́a a virtude de curar todas as doenças. |Ext.| Remédio para todos os males. Preparado pharmacêutico, que contém certas
 propriedades geraes. * Bras. Pop. Qualquer vegetal, especialmente a bôlsa-de-pastor, que se applica a todas as moléstias. (Lat. panacea)
 panaceio |m.| Ant. O mesmo que panaceia.
 panacha |f.| T. de Bragança. Prostituta de baixa extracção; rameira reles.
@@ -958,13 +958,13 @@ pandynamómetro |m.| Apparelho, para medir ou determinar o trabalho mecânico, p
 panegiricado |adj.| Que contém panegı́rico: “...versos panegiricados.” Filinto, VIII, 243.
 panegirical |adj.| Relativo a panegı́rico; que envolve louvor ou panegı́rico. Cf. Filinto, II, 203. (De panegı́rico)
 panegiricar |v. t.| Fazer o panegı́rico de. Cf. Filinto, IX, 115.
-panegı́rico |m.| Discurso em louvor do alguém. * Ext. Elogio. |Adj.| Próprio para louvar. (Gr. panegurikos)
+panegı́rico |m.| Discurso em louvor do alguém. * |Ext.| Elogio. |Adj.| Próprio para louvar. (Gr. panegurikos)
 panegiriqueiro |m.| Deprec. O mesmo que panegirista. Cf. Filinto, IV, 163.
 panegirista |m.| Pessôa, que faz um panegı́rico; pessôa, que elogia. (Gr. panegurystes) |f.| Pessôa, que faz um panegı́rico; pessôa, que elogia. (Gr. panegurystes)
 panegyricado |adj.| Que contém panegýrico: “...versos panegyricados.” Filinto, VIII, 243.
 panegyrical |adj.| Relativo a panegýrico; que envolve louvor ou panegýrico. Cf. Filinto, II, 203. (De panegýrico)
 panegyricar |v. t.| Fazer o panegýrico de. Cf. Filinto, IX, 115.
-panegýrico |m.| Discurso em louvor do alguém. * Ext. Elogio. |Adj.| Próprio para louvar. (Gr. panegurikos)
+panegýrico |m.| Discurso em louvor do alguém. * |Ext.| Elogio. |Adj.| Próprio para louvar. (Gr. panegurikos)
 panegyriqueiro |m.| Deprec. O mesmo que panegyrista. Cf. Filinto, IV, 163.
 panegyrista |m.| Pessôa, que faz um panegýrico; pessôa, que elogia. (Gr. panegurystes) |f.| Pessôa, que faz um panegýrico; pessôa, que elogia. (Gr. panegurystes)
 paneiro #,1 # |m.| Espécie de cesto. Bancada na ré dos pequenos barcos, destinada aos passageiros. Solho móvel dessa
@@ -1066,7 +1066,7 @@ panópiro |adj.| Zool. Que é fosforescente em toda a sua extensão, (falando-se
 panóplia |f.| Armadura de um cavalleiro da Idade-Média. Escudo, em que se collocam differentes armas, e com que se adornam paredes. Casa de armas. Trophéu. (Do gr.
 pan + opla)
 panópyro |adj.| Zool. Que é fosforescente em toda a sua extensão, (falando-se de uma espécie de alforrecas ou pelágias) (Do gr. pan + pur )
-panorama |m.| Grande quadro cylı́ndrico, collocado do maneira que o espectador, estando no centro, vô os objectos como se estivesse observando no alto de uma montanha todo o horizonte que o rodeasse. Ext. Paisagem. Quadro, que representa vista extensa. Fig. Grande exposição. (Do gr. pan + orama)
+panorama |m.| Grande quadro cylı́ndrico, collocado do maneira que o espectador, estando no centro, vô os objectos como se estivesse observando no alto de uma montanha todo o horizonte que o rodeasse. |Ext.| Paisagem. Quadro, que representa vista extensa. Fig. Grande exposição. (Do gr. pan + orama)
 panoramágrafo |m.| Um dos nomes, mais ou menos caprichosos, que ultimamente se têm dado ao cinematógrafo. (De panorama + gr. graphein)
 panoramágrapho |m.| Um dos nomes, mais ou menos caprichosos, que ultimamente se têm dado ao cinematógrapho. (De panorama + gr. graphein)
 panorâmico |adj.| Relativo a panorama, relativo a paisagens. Cf. Capello e Ivens, II, 115.
@@ -1676,7 +1676,7 @@ parangona |f.| Variedade de caracteres typográphicos, de corpo alto. (Cast. par
 paranheira |f.| Prov. minh. Padieira ou vêrga da porta do forno. (Cf. pranheira)
 paranho |m.| Ant. Terra privilegiada. Coito, honra.
 paraninfar |v. t.| Sêr padrinho ou testemunha no casamento ou baptismo de. (De paraninfo)
-paraninfo |m.| Antigamente, amigo do noivo, que ia com êste buscar a noiva. Hoje, padrinho de casamento. Ext.
+paraninfo |m.| Antigamente, amigo do noivo, que ia com êste buscar a noiva. Hoje, padrinho de casamento. |Ext.| 
 Padrinho ou testemunha de baptismo. Fig. Protector. (Lat. paranymphus)
 paranóia |f.| Med. Loucura systematizada, isto é, que não tem por base a mania ou a melancolia e que, na sua evolução contı́nua, não offerece tendências para a demência
 propriamento dita. Cf. Júl. de Matos, Paranóia, 66.
@@ -1687,7 +1687,7 @@ paranone |m.| Embarcação asiática, para transporte de mercadorias.
 paranthina |f.| Miner. Espécie de granada. (Do gr. paranthein)
 parantina |f.| Miner. Espécie de granada. (Do gr. paranthein)
 paranymphar |v. t.| Sêr padrinho ou testemunha no casamento ou baptismo de. (De paranympho)
-paranympho |m.| Antigamente, amigo do noivo, que ia com êste buscar a noiva. Hoje, padrinho de casamento. Ext.
+paranympho |m.| Antigamente, amigo do noivo, que ia com êste buscar a noiva. Hoje, padrinho de casamento. |Ext.| 
 Padrinho ou testemunha de baptismo. Fig. Protector. (Lat. paranymphus)
 parão |m.| Arma, usada pelos Timores, espécie de foice roçadoira, com a ponta levemente curva.
 parapanda |f.| Ant. Trombeta de Cafres.
@@ -1962,7 +1962,7 @@ parecer )
 parecis |m.| pl. Antiga nação de Índios do Brasil, ao norte de Mato-Grosso, o mesmo que paricis.
 parectase |f.| Gram. Adjuncção de elementos phónicos intermédios, para tornar euphónica uma palavra. Cf. João Ribeiro, Diccion. |Gram.| 
 paredão |m.| Grande parede; muralha.
-parede #,(parê)# |f.| Muro que, geralmente, sustenta o madeiramento de um edifı́cio. Muro; tapume. Ext. Vedação de qualquer espaço. * Substância córnea, que envolve as
+parede #,(parê)# |f.| Muro que, geralmente, sustenta o madeiramento de um edifı́cio. Muro; tapume. |Ext.| Vedação de qualquer espaço. * Substância córnea, que envolve as
 partes vivas do pé do cavallo. Cf. Leon, Arte de Ferrar, 13. * O mesmo ou melhor que greve. Fazer parede, fazer greve; associar-se com outrem para certos fins. Escol. Faltar á aula, cabular. * |Loc. adv.| Paredes meias, com a simples separação, que uma parede ou paredes determinam entre vizinhos: mora paredes meias comigo. (Do lat.
 paries, parietis)
 paredeiro |m.| Ant. O mesmo que pardieiro. (De parede)
@@ -2046,7 +2046,7 @@ parguete #,(guê)# |m.| Pequeno pargo.
 parhálio |adj.| (V. parálio)
 parhélio |m.| (V. parélio)
 pari |m.| Bras. do N. Tapume ou tecido de varas, erguido no rio para pesca. (T. tupi)
-pariá |m.| Designação de cada indivı́duo de uma raça definida, mas desprezada entre os Índios. Ext. Homem desprezado ou repellido pelos outros. (Do tamul parai)
+pariá |m.| Designação de cada indivı́duo de uma raça definida, mas desprezada entre os Índios. |Ext.| Homem desprezado ou repellido pelos outros. (Do tamul parai)
 pariambo |m.| Pé de verso latino, que também se chama
 pýrrhico. (Lat. pariambus)
 pariana |f.| Gênero de plantas gramı́neas.
@@ -2148,7 +2148,7 @@ paróchia. Prior; abbade; vigário; reitor; cura. Pastor espiritual. (Lat. paroc
 pároco |m.| Sacerdote, que tem a seu cargo uma paróquia.
 paronýchias #,(qui )# 
 Prior; abade; vigário; reitor; cura. Pastor espiritual. (Lat. parochus)
-paródia |f.| Imitação burlesca de uma obra literária. Ext. Imitação burlesca. * Dança de Carnaval, nas ruas. Cf. Diário-do-Gov., de 5-II-901. (Lat. parodia)
+paródia |f.| Imitação burlesca de uma obra literária. |Ext.| Imitação burlesca. * Dança de Carnaval, nas ruas. Cf. Diário-do-Gov., de 5-II-901. (Lat. parodia)
 parodiar |v. t.| Imitar burlescamente. (De paródia)
 paródico |adj.| Relativo a paródia. |M.| Aquillo que parece
 paródia. Cf. R. Jorge, El Greco, 21.
@@ -2251,7 +2251,7 @@ parrinheira |f.| Prov. minh. O mesmo que pranheira.
 parro |m.| Prov. trasm. Pato grande.
 párroco |m.| (e der.) Fórma pop. de párocho, etc. Cf. Filinto, V, 11. (Cp. cast. e it. párroco)
 parrolo #,(rô)# |m.| T. de Monção. O mesmo que dinheiro.
-parronar |v. i.| T. de Águeda. Parolar, cavaquear, (no botequim das Parronas). Ext. Colher ou espalhar boatos; mexericar. (De Parronas, |n. p.| )
+parronar |v. i.| T. de Águeda. Parolar, cavaquear, (no botequim das Parronas). |Ext.| Colher ou espalhar boatos; mexericar. (De Parronas, |n. p.| )
 parronice |f.| Qualidade ou hábito de parrono.
 parrono |m.| T. de Águeda. Aquelle que parrona.
 parruá |m.| T. de curtidor. Grande bastidor, onde se collocam as pelles para se alisar o carnaz. (Do fr. paroi?)
@@ -2953,7 +2953,7 @@ patusco #,1 # |m.| Aquelle que gosta de patuscadas. Brincalhão; ridı́culo; ex
 patusco #,2 # |m.| Prov. Pequeno pão ou bolo de trigo, ás vezes doce. Prov. minh. Pequeno pão de centeio ou milho, o mesmo que patareco. (Por padusco, de pada)
 patusqueiro |adj.| Prov. trasm. Alegre, divertido. (De
 patuscar )
-pau |m.| Pedaço de madeira. Madeira. Cajado. Viga. Ripa. Vara. Ext. Castigo corporal: isto, só a pau! Chifre. Nome de várias plantas. Pl. Um dos naipes pretos das cartas de jogar. * |Loc. fam.| A dar com um pau, em grande quantidade: a vinha produziu uvas a dar com um pau. * Dar por paus e por pedras, irritar-se muito. * Pau para toda a obra, pessôa que serve para tudo, ou que se applica a muitas e differentes coisas. * Jogar com pau de dois bicos, defender ao mesmo tempo ideias oppostas. * Bandeira a meio pau, bandeira a meia haste. (Do lat. palus, pali)
+pau |m.| Pedaço de madeira. Madeira. Cajado. Viga. Ripa. Vara. |Ext.| Castigo corporal: isto, só a pau! Chifre. Nome de várias plantas. Pl. Um dos naipes pretos das cartas de jogar. * |Loc. fam.| A dar com um pau, em grande quantidade: a vinha produziu uvas a dar com um pau. * Dar por paus e por pedras, irritar-se muito. * Pau para toda a obra, pessôa que serve para tudo, ou que se applica a muitas e differentes coisas. * Jogar com pau de dois bicos, defender ao mesmo tempo ideias oppostas. * Bandeira a meio pau, bandeira a meia haste. (Do lat. palus, pali)
 pau-a-pique |m.| Bras. do S. Parede de ripas ou varas, umas verticaes e outras horizontaes. Taipa.
 pau-água |m.| Árvore medicinal da ilha de San-Thomé.
 pau-alho |m.| Grande árvore medicinal da ilha de SanThomé.
@@ -3237,7 +3237,7 @@ peança |m.| T. de Turquel. Homem acanhado ou inhábil.
 peanha |f.| Pequeno pedestal, que sustenta uma imagem, uma cruz, etc. * Peça do tear, em que o tecelão assenta os
 pés, para fazer subir ou descer os liços que cruzam os fios. (Do lat. pedanea)
 peanho |m.| Parte inferior de um navio. (Do lat. pedaneus)
-peão #,1 # |m.| Indivı́duo, que anda a pé. Soldado de infantaria. Cada uma das pequenas peças de xadrez, que se collocam na frente, e são as primeiras a avançar. * Ext. Plebeu. Bras. Homem assalariado para trabalhos do campo. * Náut. Peça de ferro num mastro, para encaixe da vêrga do traquete ou da vela grande. * T. da Bairrada. O mesmo que moirão. * Prov. trasm. O mesmo que canamão. (Do lat. pedaneus)
+peão #,1 # |m.| Indivı́duo, que anda a pé. Soldado de infantaria. Cada uma das pequenas peças de xadrez, que se collocam na frente, e são as primeiras a avançar. * |Ext.| Plebeu. Bras. Homem assalariado para trabalhos do campo. * Náut. Peça de ferro num mastro, para encaixe da vêrga do traquete ou da vela grande. * T. da Bairrada. O mesmo que moirão. * Prov. trasm. O mesmo que canamão. (Do lat. pedaneus)
 peão #,2 # |m.| Bras. Homem que, montado a cavallo, agarra bois a laço. (De pear )
 pẽar |v. t.| Ant. Applicar pena a; castigar, punir. (De pẽa)
 pearça |f.| Prov. alent. O mesmo que peaça.
@@ -3248,7 +3248,7 @@ partida; causar contrariedade ou desgôsto. * Pl. Heráld. Objectos, que se coll
 pecadaço |m.| Chul. O mesmo que pecadão.
 pecadão |m.| Grande pecado.
 pecadilho |m.| Pecado ou culpa leve. Pequeno defeito.
-pecado |m.| Transgressão de um preceito religioso. Ext. Transgressão de qualquer preceito ou regra; culpa. Maldade; vı́cio. * Prov. O mesmo que demónio: são tentações do pecado. (Lat. peccatum)
+pecado |m.| Transgressão de um preceito religioso. |Ext.| Transgressão de qualquer preceito ou regra; culpa. Maldade; vı́cio. * Prov. O mesmo que demónio: são tentações do pecado. (Lat. peccatum)
 pecador |adj.| Que peca. Propenso a pecar. |M.| Aquele que
 peca. Penitente. Aquele que tem certos defeitos ou vı́cios. (Lat. peccator )
 pecadora |f.| Mulhér, que pecou. Mulhér, que transgrediu os deveres da castidade. (Fem. de peccador )
@@ -3256,7 +3256,7 @@ pecamente |adv.| De modo pêco.
 pecaminosamente |adv.| De modo peccaminoso. Com peccado; peccando.
 pecaminoso |adj.| Que é da natureza do pecado: actos pecaminosos. Em que há muitos pecados: vida pecaminosa. (Do lat. peccamen)
 pecante |m.| , |f.| Pessôa que peca por habito, que tem baldas. Pecador. * |Loc. interj.| Prov. Pecante de ti, coitado de ti. (Colhido na Bairrada) (Lat. peccans) |adj.| Pessôa que peca por habito, que tem baldas. Pecador. * |Loc. interj.| Prov. Pecante de ti, coitado de ti. (Colhido na Bairrada) (Lat. peccans)
-pecar #,1 # |v. i.| Transgredir preceito religioso. Ext. Faltar a qualquer dever. Errar. Incorrer em censura; sêr digno de censura. (Lat. peccare)
+pecar #,1 # |v. i.| Transgredir preceito religioso. |Ext.| Faltar a qualquer dever. Errar. Incorrer em censura; sêr digno de censura. (Lat. peccare)
 pecar #,2 # |v. t.| Tornar-se pêco.
 pecari |m.| Mammı́fero americano, muito semelhante a um
 pequeno porco.
@@ -3265,7 +3265,7 @@ pecável |adj.| Susceptı́vel de pecar.
 peccadaço |m.| Chul. O mesmo que peccadão.
 peccadão |m.| Grande peccado.
 peccadilho |m.| Peccado ou culpa leve. Pequeno defeito.
-peccado |m.| Transgressão de um preceito religioso. Ext. Transgressão de qualquer preceito ou regra; culpa. Maldade; vı́cio. * Prov. O mesmo que demónio: são tentações do peccado. (Lat. peccatum)
+peccado |m.| Transgressão de um preceito religioso. |Ext.| Transgressão de qualquer preceito ou regra; culpa. Maldade; vı́cio. * Prov. O mesmo que demónio: são tentações do peccado. (Lat. peccatum)
 peccador |adj.| Que pecca. Propenso a peccar. |M.| Aquelle que pecca. Penitente. Aquelle que tem certos defeitos ou vı́cios. (Lat. peccator )
 peccadora |f.| Mulhér, que peccou. Mulhér, que transgrediu os deveres da castidade. (Fem. de peccador )
 peccaminosamente |adv.| De modo peccaminoso. Com
@@ -3273,7 +3273,7 @@ peccado; peccando.
 peccaminoso |adj.| Que é da natureza do peccado: actos
 peccaminosos. Em que há muitos peccados: vida peccami-1503 nosa. (Do lat. peccamen)
 peccante |m.| , |f.| Pessôa que pecca por habito, que tem baldas. Peccador. * |Loc. interj.| Prov. Peccante de ti, coitado de ti. (Colhido na Bairrada) (Lat. peccans) |adj.| Pessôa que pecca por habito, que tem baldas. Peccador. * |Loc. interj.| Prov. Peccante de ti, coitado de ti. (Colhido na Bairrada) (Lat. peccans)
-peccar |v. i.| Transgredir preceito religioso. Ext. Faltar a qualquer dever. Errar. Incorrer em censura; sêr digno de censura. (Lat. peccare)
+peccar |v. i.| Transgredir preceito religioso. |Ext.| Faltar a qualquer dever. Errar. Incorrer em censura; sêr digno de censura. (Lat. peccare)
 peccatriz |f.| Des. Mulhér peccadora. (Do lat. peccatrix ) |adj.| Des. Mulhér peccadora. (Do lat. peccatrix )
 peccável |adj.| Susceptı́vel de peccar.
 pecenho |adj.| O mesmo que pezenho.
@@ -3368,7 +3368,7 @@ pedagogice |f.| Mania ou presumpção de pedagogo.
 pedagógico |adj.| Relativo á pedagogia.
 pedagogismo |m.| Systema ou processos dos pedagogos.
 pedagogista |m.| Pessôa, que trata de pedagogia. |f.| Pessôa, que trata de pedagogia.
-pedagogo #,(gó ou gô)# |m.| Escravo que, na antiguidade, acompanhava as crianças ás escolas. Mestre de crianças. Aquelle que exerce a pedagogia ou que se occupa dos méthodos de educar e ensinar. Ext. Aquelle que se arroga o direito de censurar os outros. Aquelle que alardeia erudição. Pedante. (Lat. pedagogus)
+pedagogo #,(gó ou gô)# |m.| Escravo que, na antiguidade, acompanhava as crianças ás escolas. Mestre de crianças. Aquelle que exerce a pedagogia ou que se occupa dos méthodos de educar e ensinar. |Ext.| Aquelle que se arroga o direito de censurar os outros. Aquelle que alardeia erudição. Pedante. (Lat. pedagogus)
 pedal |m.| Cada uma das duas teclas, ou ambas, que, na
 parte inferior dos pianos e órgãos, se movem com o pé. *
 Peça do velocı́pede, na qual se assenta o pé. * Peça da máquina de costura ou de outros apparelhos, na qual se assenta o pé, para imprimir movimento a êsses apparelhos. (Lat. pedalis)
@@ -3832,7 +3832,7 @@ peleja |f.| Acto de pelejar. Combate. Briga; contenda; ralhos.
 pelejador |m.| Aquelle que peleja. Bulhento, desordeiro. Cf. Herculano, Hist. de Port., II, 91 e 96.
 pelejante |adj.| Que peleja. Cf. Castilho, D. Quixote, II, 93.
 pelejar |v. i.| Travar luta ou combate. Brigar; bater-se.
-Pugnar. Ext. Desavir-se; discutir com vehemência. |V. t.| Travar (combate, luta, etc.) (Cast. peleare)
+Pugnar. |Ext.| Desavir-se; discutir com vehemência. |V. t.| Travar (combate, luta, etc.) (Cast. peleare)
 pelejo |m.| Ant. Saio. Pele. Prostituta.
 pelém |m.| Prov. trasm. e beir. Homem entanguido. Magrizela. Chòchinha; inhenho. Cf. Camillo, Brasileira, 27. |adj.| Prov. trasm. e beir. Homem entanguido. Magrizela. Chòchinha; inhenho. Cf. Camillo, Brasileira, 27.
 peleôa |f.| Ant. Mulhér rixosa, desordeira. (Por pelejôa, de um hypoth. pelejão, de pelejar )
@@ -4110,13 +4110,13 @@ peneplano #,1 # |m.| Região quási plana. (Do lat. pene + planus)
 peneplano #,2 # |m.| Geol. Solo quási plano. (Fr. peneplain)
 penetra |m.| , |f.| Pop. Pessôa petulante, perliquitete. * Peralta, catita. (De penetrar ) |adj.| Pop. Pessôa petulante, perliquitete. * Peralta, catita. (De penetrar )
 penetrabilidade |f.| Qualidade do que é penetrável. (Do lat. penetrabilis)
-penetração |f.| Acto ou effeito de penetrar. Ext. Facilidade de comprehensão; perspicácia. (Lat. penetratio)
+penetração |f.| Acto ou effeito de penetrar. |Ext.| Facilidade de comprehensão; perspicácia. (Lat. penetratio)
 penetrador |adj.| O mesmo que penetrante. (Lat. penetrator )
 penetraes |m.| pl. O interior; a parte mais ı́ntima: os penetraes da consciência. (Lat. penetralia)
 penetrais |m.| pl. O interior; a parte mais ı́ntima: os penetrais da consciência. (Lat. penetralia)
 penetrante |adj.| Que penetra. Fig. Que punge; intenso: dôres penetrantes. Agudo. Talentoso. Perspicaz; sagaz: espı́rito penetrante. (Lat. penetrans)
-penetrar |v. t.| Invadir; entrar dentro de. Atravessar: a faca penetrou-lhe o coração. Repassar: êste frio penetra os ossos. Transpor. Ext. Comprehender. Descortinar:
-penetrar um segrêdo. |V. i.| Introduzir-se: o bandido penetrou na loja. Ext. Entrar no ânimo de alguém, insinuar-se. Tomar conhecimento. |V. p.| Convencer-se profundamente:
+penetrar |v. t.| Invadir; entrar dentro de. Atravessar: a faca penetrou-lhe o coração. Repassar: êste frio penetra os ossos. Transpor. |Ext.| Comprehender. Descortinar:
+penetrar um segrêdo. |V. i.| Introduzir-se: o bandido penetrou na loja. |Ext.| Entrar no ânimo de alguém, insinuar-se. Tomar conhecimento. |V. p.| Convencer-se profundamente:
 penetrou-se dos seus deveres. (Lat. penetrare)
 penetrativo |adj.| O mesmo que penetrante.
 penetrável |adj.| Que póde sêr penetrado. (Lat. penetrabilis)
@@ -4383,7 +4383,7 @@ penujoso |adj.| O mesmo que penujento.
 pênula #,1 # |f.| Pena, com que os jograes do século XIII tocavam a cı́tara, e com que, na antiguidade, se faziam vibrar outros instrumentos. Cf. Cancion. da Vaticana. (Lat. pennula)
 pênula #,2 # |f.| Ant. Manto, capa. (Lat. paenula)
 penúltimo |adj.| Que precede immediatamente o último. (Lat. penultimus)
-penumbra |f.| Sombra incompleta, produzida por um corpo, que não intercepta inteiramente os raios luminosos. Ext. Meia luz. Gradação de luz para a sombra. Fig. Retrahimento, insulamento: compraz-se em viver na penumbra. (Do lat. pene + umbra)
+penumbra |f.| Sombra incompleta, produzida por um corpo, que não intercepta inteiramente os raios luminosos. |Ext.| Meia luz. Gradação de luz para a sombra. Fig. Retrahimento, insulamento: compraz-se em viver na penumbra. (Do lat. pene + umbra)
 penumbrar |v. t.| Neol. bras. Causar penumbra em. Cf. Af. Celso, Minha Filha.
 penumbroso |adj.| Em que há penumbra.
 penúria |f.| Miséria extrema; privação do que é necessário;
@@ -4574,7 +4574,7 @@ perchloreto #,(clorê)# |m.| Chı́m. Designação genérica dos chloretos que o
 perchlórico |adj.| Chı́m. Diz-se do ácido, que contém a maior proporção de oxygênio.
 pércidas |m.| pl. Zool. Famı́lia de peixes, que tem por typo a perca. (De perca 1 + gr. eidos)
 percinta |f.| Náut. Tira de lona ou de brim alcatroado, com que se forram cabos engaiados. (Lat. percincta)
-percintar |v. t.| Náut. Enrolar em espiral tiras de lona ou brim alcatroado em (um cabo engaiado) Ext. Cingir por todos os lados. (De percinta)
+percintar |v. t.| Náut. Enrolar em espiral tiras de lona ou brim alcatroado em (um cabo engaiado) |Ext.| Cingir por todos os lados. (De percinta)
 perclorado |adj.| Chı́m. Que contém a maior quantidade
 possı́vel de cloro. (De per... + cloro)
 perclorato |m.| Chı́m. Designação genérica dos saes de ácido perclórico.
@@ -4598,7 +4598,7 @@ percutir |v. t.| Bater. Esbarrar contra. (Lat. percutere)
 percutor |m.| Peça que, em certos maquinismos, serve para
 percutir; o mesmo que percussor, fórma preferı́vel. (De
 percutir )
-perda #,(pêr )# |f.| Acto de perder. Desapparecimento. Ext. Extravio. Desgraça. Destruição. (Contr. de pérdida? Cp. cast. pérdida, lat. perdita)
+perda #,(pêr )# |f.| Acto de perder. Desapparecimento. |Ext.| Extravio. Desgraça. Destruição. (Contr. de pérdida? Cp. cast. pérdida, lat. perdita)
 perdante |prep.| Ant. Ante; perante; diante de. (Contr. de
 per + de + ante)
 perdão |m.| Remissão de pena. Indulto; desculpa. (De perdoar )
@@ -5112,7 +5112,7 @@ permutador |m.| O que permuta. |adj.| O que permuta.
 permutar |v. t.| Dar reciprocamente. Trocar. Fig. Fazer
 participar reciprocamente; partilhar. (Lat. permutare)
 permutável |adj.| Que se póde permutar. (Lat. permutabilis)
-perna |f.| Cada um dos membros locomotores do corpo humano. Cada um dos membros posteriores de alguns irracionaes. Ext. Cada um dos membros locomotores de mammı́feros, aves, insectos, etc. Ramo, ramificação. Cada um dos dois lados da asna. Nome de várias peças de supporte. Qualquer dos prolongamentos de um objecto, que se bifurca ou se ramifica. * Prov. alent. Medida para a compra da rêde, que se emprega nos alfirmes. Dar á perna, andar bem, andar depressa. |Fam.| Fazer uma perna, tomar o lugar do parceiro ao jôgo. Conluiar-se ou entrar numa negociação. * |Loc. fam.| Têr alguém á perna, sêr perseguido, maçado, ameaçado por alguém. |Loc. adv.| Com uma perna ás costas, com grande facilidade. * Prov. minh. Passar a perna a alguém, levar-lhe vantagem, excedê-lo. * T. da Bairrada. Perna gorda, a coxa da perna. (Lat. perna)
+perna |f.| Cada um dos membros locomotores do corpo humano. Cada um dos membros posteriores de alguns irracionaes. |Ext.| Cada um dos membros locomotores de mammı́feros, aves, insectos, etc. Ramo, ramificação. Cada um dos dois lados da asna. Nome de várias peças de supporte. Qualquer dos prolongamentos de um objecto, que se bifurca ou se ramifica. * Prov. alent. Medida para a compra da rêde, que se emprega nos alfirmes. Dar á perna, andar bem, andar depressa. |Fam.| Fazer uma perna, tomar o lugar do parceiro ao jôgo. Conluiar-se ou entrar numa negociação. * |Loc. fam.| Têr alguém á perna, sêr perseguido, maçado, ameaçado por alguém. |Loc. adv.| Com uma perna ás costas, com grande facilidade. * Prov. minh. Passar a perna a alguém, levar-lhe vantagem, excedê-lo. * T. da Bairrada. Perna gorda, a coxa da perna. (Lat. perna)
 perna-de-moça |f.| Peixe de Portugal, chamado também dentudo.
 perna-de-serra |f.| Bras. Peça de madeira, preparada de certa fórma para construcções. Cf. B. C. Rubim, Vocab. Bras.
 perna-fina |m.| Fam. Janota, peralta: “trocam pai e mãe
@@ -5453,7 +5453,7 @@ pêso: aquillo pesa muito. Fig. Affligir. Causar tristeza. Sêr objecto de senti
 pesar dos moiros todos! ainda bem! Cf. Eufrosina, 277, etc. (Do lat. pensare)
 pesarosamente |adv.| De modo pesaroso; com pesar.
 pesaroso |adj.| Que tem pesar; em que há pesar.pesca
-pesca |f.| Acto ou arte de pescar: foi para a pesca. Aquillo que se pescou: a pesca foi abundante. Acto de tirar alguma coisa da água. Ext. Investigação, procura.
+pesca |f.| Acto ou arte de pescar: foi para a pesca. Aquillo que se pescou: a pesca foi abundante. Acto de tirar alguma coisa da água. |Ext.| Investigação, procura.
 pescada |f.| Peixe malacopterýgio, (gadus meluccius). * Pop. Mulhér anthipática. (De pescar )
 pescada-carvoeira |f.| Peixe gádido, (gadus carbonarius).
 pescada-marlonga |f.| Peixe gádido, (gadus-merlangus).
@@ -5473,7 +5473,7 @@ para pescar. Relativo á pesca. (Do lat. piscator )
 pescal |m.| Pequena peça ou cavilha de ferro, que, entalada entre o cabo e o ôlho da enxada, assegura a posição correcta do mesmo cabo. Prov. O mesmo que pescaz.
 pescanço |m.| Fam. Acto de espreitar o jôgo de um parceiro. (De pescar )
 pescante |m.| Des. Tábua, atrás das seges e coches, onde os criados vão em pé? Almofada, onde se senta o cocheiro? Cf. Garrett, Helena, 62.
-pescar |v. t.| Colhêr na água ou apanhar (peixe). Apanhar, como se apanha o peixe. Ext. Investigar, descobrir. Pop. Conseguir com manha: pescar uma herança. Perceber, comprehender. |V. i.| Occupar-se da pesca. Pop. Têr ideias, conhecimentos: não pescas nada disto. (Do lat. piscari)
+pescar |v. t.| Colhêr na água ou apanhar (peixe). Apanhar, como se apanha o peixe. |Ext.| Investigar, descobrir. Pop. Conseguir com manha: pescar uma herança. Perceber, comprehender. |V. i.| Occupar-se da pesca. Pop. Têr ideias, conhecimentos: não pescas nada disto. (Do lat. piscari)
 pescarejo |adj.| Des. Relativo a pesca; próprio para pesca. (De pescar )
 pescarez |adj.| (V. pescarejo)
 pescaria |f.| Arte de pescar. O mesmo que pesca. Grande quantidade de peixe.
@@ -5485,7 +5485,7 @@ pescoceiro |adj.| Bras. do S. Diz-se do cavallo que, laçado
 pelo pescoço, não obedece aos tirões do laçador. Fig. O mesmo que caloteiro.
 pescócia |f.| Prov. Armadilha, que apanha os pássaros pelo pescoço.
 pescocinho |m.| Debrum branco, de tirar e pôr, nas lobas e batinas. (De pescoço)
-pescoço #,(cô)# |m.| Parte do corpo, entre a cabeça e o tronco. Garganta, collo. Cachaço. * Ext. Gargalo: o pescoço de uma garrafa. * Prov. Altivez, soberba, arrogância: faloume com um tal pescoço!... (Cast. pescuezo)
+pescoço #,(cô)# |m.| Parte do corpo, entre a cabeça e o tronco. Garganta, collo. Cachaço. * |Ext.| Gargalo: o pescoço de uma garrafa. * Prov. Altivez, soberba, arrogância: faloume com um tal pescoço!... (Cast. pescuezo)
 pescoçudo |adj.| Que tem o pescoço grosso.
 pescorência |f.| Pop. Rapariga leviana.
 pescorenço |m.| Prov. alent. O mesmo que namôro.
@@ -5497,7 +5497,7 @@ pêsga |f.| Acto de barrar interiormente com pez as vasilhas de barro, em que h�
 pesgar |v. t.| Barrar com pesga. Cf. Techn. Rur., 173.
 pèsipello, a |loc. adv.| A pé e descalço.
 pèsipelo, a |loc. adv.| A pé e descalço.
-pêso |m.| Resultado da acção, que a gravidade exerce num corpo. Gravidade, inherente aos corpos, ou á pressão que elles exercem no obstáculo que se opõe directamente á sua quéda. * Grande cone cylindrico de pedra, que é o acumulador de energia nas antigas prensas dos lagares. Unidade, com que se avalia essa pressão. Peça de metal, que representa essa unidade. * Moéda espanhola e de algumas nações latino-americanas, equivalente a 900 reis aproximadamente. Ext. Aquillo que exerce pressão. Quantidade. Fig. Aquillo que incommoda ou afadiga. Incómmodo, que se sente á maneira de pressão. Depressão ou oppressão. Encargo, ónus. Importância, autoridade: escritores de pêso. Fôrça. |Loc. adv.| Em pêso, completamente; na totalidade. * Pop. Dois quilos: as favas estão a 50 reis o
+pêso |m.| Resultado da acção, que a gravidade exerce num corpo. Gravidade, inherente aos corpos, ou á pressão que elles exercem no obstáculo que se opõe directamente á sua quéda. * Grande cone cylindrico de pedra, que é o acumulador de energia nas antigas prensas dos lagares. Unidade, com que se avalia essa pressão. Peça de metal, que representa essa unidade. * Moéda espanhola e de algumas nações latino-americanas, equivalente a 900 reis aproximadamente. |Ext.| Aquillo que exerce pressão. Quantidade. Fig. Aquillo que incommoda ou afadiga. Incómmodo, que se sente á maneira de pressão. Depressão ou oppressão. Encargo, ónus. Importância, autoridade: escritores de pêso. Fôrça. |Loc. adv.| Em pêso, completamente; na totalidade. * Pop. Dois quilos: as favas estão a 50 reis o
 pêso. (Do lat. pensus)
 pespegar |v. t.| Fam. Impingir. Dar com violência, com mau modo. Assentar; applicar: pespegar uma bofetada. * |V. p.| Fam. Permanecer num lugar, maçando ou enfadando a
 pessôa a quem fala ou os donos da casa onde está. Parolar inutilmente, tomando a outros o tempo de que precisam. (De post, lat. + pegar )
@@ -5979,7 +5979,7 @@ philatelista |m.| Colleccionador de sellos do correio. (De philatelia)
 philáucia |f.| Amor próprio; egoismo; presumpção, vaidade. (Gr. philautia)
 philaucioso |adj.| Que tem philáucia.
 philédono |m.| Gênero de pássaros, estabelecido por Cuvier na |fam.| dos dentirostros.
-philı́ppica |f.| Oração de Demósthenes contra Phillippe de Macedónia. Ext. * Cada uma das orações de Cı́cero contra Marco-António. Discurso violento e injurioso; sátira acerba. (De Philippe, |n. p.| )
+philı́ppica |f.| Oração de Demósthenes contra Phillippe de Macedónia. |Ext.| * Cada uma das orações de Cı́cero contra Marco-António. Discurso violento e injurioso; sátira acerba. (De Philippe, |n. p.| )
 philippista |m.| Sectário de Luı́s Philippe, em França.
 philipsita |f.| Sulfureto de cobre e de ferro. (De Philips, n. p.)
 philipsito |m.| O mesmo ou melhor que philipsita.
@@ -6748,7 +6748,7 @@ pigmentar |v. t.| Dar a côr da pelle a. Dar côr a. Cf. Júl. Lour. Pinto, Senh
 pigmentário |m.| Vendedor ou fabricante de cosméticos,
 perfumes, pomadas, etc., na antiga Roma. (Lat. pigmentarius)
 pigmento |m.| Substância escura ou roxa, que determina a côr da pelle, nos homens e nos animaes. (Lat. pigmentum)
-pigmeu |m.| Membro de uma nação fabulosa, cujos habitantes, segundo os poétas, tinham apenas um côvado de altura. Ext. Homem de pequena estatura. Anão. Fig. Homem insignificante, sem intelligência ou sem outro mérito. (Lat. pygmaeus)
+pigmeu |m.| Membro de uma nação fabulosa, cujos habitantes, segundo os poétas, tinham apenas um côvado de altura. |Ext.| Homem de pequena estatura. Anão. Fig. Homem insignificante, sem intelligência ou sem outro mérito. (Lat. pygmaeus)
 pignoratı́cio |adj.| Jur. Dizia-se do tı́tulo de venda, passado
 pelo devedor ao credor, sob estipulação de que o vendedor poderia retirar os bens vendidos durante certo tempo, e que delles gozaria a tı́tulo de aluguel, mediante certa somma, que ordinariamente era igual aos juros da somma emprestada e pela qual se fez a venda. Relativo a penhor. Cf. Ferreira Borges, Diccion. Jur. (Lat. pignotaticius)
 pigopagia |f.| Estado ou qualidade de pigópago.
@@ -7324,10 +7324,10 @@ pirar-se |v. p.| Chul. Safar-se; fugir. (Do caló pirar, andar)
 pirarara |m.| Bras. Grande peixe do rio Purus.
 pirargilito |m.| Nome de um silicato de alumı́nio, magnésio e ferro. (Do gr. pur + argilla)
 pirarucu |m.| Peixe do norte do Brasil, muito apreciado e de grandes dimensões, semelhante ao bacalhau.
-pirata |m.| Salteador, que cruza os mares, só para roubar. Ladrão marı́timo. Navio de pirata. Ext. Ladrão. * Gı́r. Cabo de polı́cia. * Prov. trasm. Malandro. (Lat. pirata)
+pirata |m.| Salteador, que cruza os mares, só para roubar. Ladrão marı́timo. Navio de pirata. |Ext.| Ladrão. * Gı́r. Cabo de polı́cia. * Prov. trasm. Malandro. (Lat. pirata)
 piratagem |f.| Roubo, feito por piratas; acto de piratear.
 piratapioca |f.| Peixe do Brasil.
-pirataria |f.| Vida de pirata; acto de pirata. Ext. Roubo, extorsão. Fig. Patifaria.
+pirataria |f.| Vida de pirata; acto de pirata. |Ext.| Roubo, extorsão. Fig. Patifaria.
 piratatu |m.| Bras. do N. Peixe, cuja cabeça se parece com a do tatu.
 piratear #,1 # |v. i.| Têr vida de pirata; extorquı́r como os piratas.
 piratear #,2 # |v. t.| Roubar como pirata. Cf. Camillo, Paço de Ninães, 138.
@@ -7483,9 +7483,9 @@ pı́rrica |f.| Espécie de dança, que se realizava com as armas na mão. (Lat.
 pirrı́quio |m.| Pé de verso grego ou latino, composto de duas sı́labas breves. (Lat. pyrrhı́chius)
 pirronicamente |adv.| De modo pirrónico; com teimosia.
 pirronice |f.| Fam. Qualidade de pirrónico. Desconfiança systemática; obstinação por pirraça; perrice.
-pirrónico |adj.| Que segue a doutrina do pirronismo. Ext. Que duvida de tudo. |Fam.| Teimoso. (Do lat. Pyrrho,
+pirrónico |adj.| Que segue a doutrina do pirronismo. |Ext.| Que duvida de tudo. |Fam.| Teimoso. (Do lat. Pyrrho,
 Pyrrhonis, |n. p.| )
-pirronismo |m.| Sistema filosófico, que tinha por base duvidar tudo: cepticismo. Ext. Hábito de duvidar de tudo. |Fam.| Teimosia. (Cp. pirrónico)
+pirronismo |m.| Sistema filosófico, que tinha por base duvidar tudo: cepticismo. |Ext.| Hábito de duvidar de tudo. |Fam.| Teimosia. (Cp. pirrónico)
 pirrotina |f.| O mesmo que pirrotite.
 pirrotite |f.| Espécie de bisulfureto, que exerce acção na agulha magnética. (Do gr. purrotes)
 pı́rtiga |f.| Vara. Peça central do leito do carro, que se estende desde o recavém até á canga; cabeçalho. (Do lat. pertica)
@@ -7530,7 +7530,7 @@ piscı́dia-erythrina |f.| Substância pharmacêutica, empregada no tratamento d
 pisciforme |adj.| Que tem fórma de peixe. (Do lat. piscis + forma)
 piscina |f.| Reservatório de água, em que se costumava criar
 peixes. Tanque, em que bebe o gado, ou tanque para lavagem de roupa. Tanque ou tina fixa, em que se toma banho. Lavatório, onde os frades iam lavar as mãos depois da comida. Reservatório de água, em que, junto ao templo de Jerusalém, se lavavam os animaes destinados ao sacrifı́cio.
-Pia baptismal. Ext. Tudo que purifica. Fig. Sacramento da penitência. (Lat. piscina)
+Pia baptismal. |Ext.| Tudo que purifica. Fig. Sacramento da penitência. (Lat. piscina)
 piscinal |adj.| Que vive em piscina.
 piscı́voro |adj.| Que se nutre de peixes. (Lat. pı́scivorus)
 pisco |adj.| Que pisca os olhos. Entreaberto, (falando-se dos olhos). |M.| Pássaro dentirostro, de peito ruivo, (rubecula familiaris, Blyth.). (De piscar )
@@ -7575,7 +7575,7 @@ pissitar |v. i.| Gritar, (falando-se do estorninho). Cf. Castilho, Fastos, III, 
 pissondora |f.| Árvore indiana, de fibras têxteis. O mesmo que pissandó?
 pissota |f.| Ant. O mesmo que pescada. (Alter. de peixota?)
 pista |f.| Rasto dos animaes, no terreno em que passaram.
-Pègada. Muro circular, dentro e junto do qual corre o cavallo. Parte do hypódromo, em que correm os cavallos. Ext. Encalço, procura: foi-lhe na pista. (Do lat. pistus)
+Pègada. Muro circular, dentro e junto do qual corre o cavallo. Parte do hypódromo, em que correm os cavallos. |Ext.| Encalço, procura: foi-lhe na pista. (Do lat. pistus)
 pistacha |f.| Gal. O mesmo que pistácia. (Do fr. pistache)
 pistacheiro |m.| Gal. O mesmo que pistácia. Cf. Dom. Vieira. Thes. da Ling. Port., vb. lentisco. (Fr. pistachier )
 pistácia |f.| Árvore terebinthácea, (pistácia vera). (Lat. pistácia)
@@ -7608,7 +7608,7 @@ pita #,1 # |f.| Fio ou fios, que se tiram da fôlha da piteira. Trança, feita c
 pita #,2 # |f.| Fórma pop. de pinta 2 . Prov. beir. O mesmo que gallinha. * |M.| prov. trasm. Homem maricas, effeminado.
 pita-cega |f.| (V. pinta-cega)
 pı́taca |f.| Collecção de játacas. Cf. V. Abreu, Contos da Índia.
-pitada |f.| Pequena porção de pó de qualquer substância, que se toma entre o dedo pollegar e o indicador. Restrict. Pequena porção de rapé, que se toma entre o dedo pollegar e o indicador e que se absorve pelo nariz. Ext. Pequena
+pitada |f.| Pequena porção de pó de qualquer substância, que se toma entre o dedo pollegar e o indicador. Restrict. Pequena porção de rapé, que se toma entre o dedo pollegar e o indicador e que se absorve pelo nariz. |Ext.| Pequena
 porção de qualquer coisa. Pop. Exhalação de mau cheiro. * Gı́r. Prostituta. * Chul. Acto de têr cópula carnal. * Prov. trasm. Bebedeira. (Diz-se que vem de um rad. céltico, peto = pito, designativo de pouco ou pequeno. Entretanto, não poderá relacionar-se com o bras. pitar ?)
 pitadear |v. i.| Neol. Tomar pitadas de rapé. |V. t.| Absorver
 pelo nariz. Acompanhar com pitada: pitadear conselhos. Cf. Camillo, Corja, 246.
@@ -7619,7 +7619,7 @@ pitagorismo |m.| Doutrina de Pitágoras.
 pitagorista |m.| Sectário do pitagorismo.
 pitambor |m.| Vestuário precioso de bailadeira indiana. Cf. Th. Ribeiro, Jornadas, II, 105.
 pitanan |m.| Bras. Nome de uma ave do Alto Amazonas.
-pitança |f.| Ração diária de alimentos. Iguaria, que só se apresenta em dias de festa. Pensão. Esmola. * Ext. O comer. (Cp. cast. pitanza)
+pitança |f.| Ração diária de alimentos. Iguaria, que só se apresenta em dias de festa. Pensão. Esmola. * |Ext.| O comer. (Cp. cast. pitanza)
 pitanceiro |m.| Ant. Distribuidor dos rendimentos de um convento. (De pitança)
 pitanga #,1 # |f.| Palavra expletiva, que entra em algumas locuções brasileiras, com a significação de menino. (Do tupi)
 pitanga #,2 # |f.| Fruto da pitangueira; pitangueira. (Do tupi)
@@ -7635,7 +7635,7 @@ piteciano |adj.| Relativo a macaco. (De pitheco)
 pitéco |m.| Espécie de macaco sem cauda. (Gr. pithekos)
 pitecóide |adj.| Relativo ou semelhante ao piteco. (Do gr.
 pithekos + eidos)
-piteira #,1 # |f.| Planta amaryllı́dea. Gı́r. Aguardente de figos. Ext. Bebedeira. * Prov. trasm. O mesmo que dı́vida ou calote.
+piteira #,1 # |f.| Planta amaryllı́dea. Gı́r. Aguardente de figos. |Ext.| Bebedeira. * Prov. trasm. O mesmo que dı́vida ou calote.
 piteira #,2 # |f.| Bras. O mesmo que boquilha. (De pito 2 )
 piteireiro |m.| Pop. O que costuma embriagar-se; bêbedo. (De piteira) |adj.| Pop. O que costuma embriagar-se; bêbedo. (De piteira)
 pitém |m.| Carp. Pequena escavação ou entalhe numa viga, a fim de que o prego, que a há de segurar, entre mais fundo e a fixe melhor.
@@ -7676,7 +7676,7 @@ pitombeiro |m.| Bras. O mesmo que pitombeira.
 pitombo |m.| Bras. O mesmo que pitomba.
 pı́ton |m.| (V. pitão)
 pitónico |adj.| Relativo ao piton. Nigromântico; mágico; diabólico. Cf. Arn. Gama, Motim, 226. (Lat. pythonicus)
-pitonisa |f.| Mulhér, que adivinhava. Sacerdotisa de Apolo. Ext. Profetisa. (Lat. pythonisa)
+pitonisa |f.| Mulhér, que adivinhava. Sacerdotisa de Apolo. |Ext.| Profetisa. (Lat. pythonisa)
 pitonissa |f.| O mesmo que pitonisa.
 pitonomorfo |m.| Reptil fóssil, do tipo dos labyrintodontes. (Do gr. puthon + morphe)
 pitora |f.| Talhadas de lombo, guisadas com toicinho.
@@ -7830,7 +7830,7 @@ planizar |v. t.| (e der.) O mesmo que planear, etc.: “...á medida que planiza
 plano |adj.| Diz-se de qualquer superfı́cie, que não tem desigualdades, nem curvas, nem ondulações. Liso. Em que se póde assentar uma linha recta em todas as direcções. Fig. Claro, corrente, fácil. |M.| Superfı́cie plana. Campo. Desenho, que representa a projecção horizontal de um edifı́cio, cidade, etc.; planta. Projecto, programma; intenção. * Neol. Cada uma das lâminas horizontaes, que servem como de asas ao aeroplano. * |Loc. adv.| De plano, promptamente; summariamente. (Lat. planus)
 planorba |f.| Gênero de molluscos gasterópodes, (planorbis discus). (Do lat. planus + orbis)
 planqueta #,(quê)# |f.| Peça de ferro, composta de duas malhas, ligadas por uma haste, e empregada em combates navaes, para desmastrear navios. (Fr. planchette)
-planta |f.| Bot. Nome genérico, que comprehende todos os vegetaes. Restrict. Vegetal, de que se não extrái madeira ou que não é árvore. Anat. Parte do pé, que assenta sôbre o chão. * Ext. O mesmo que pé: foi ajoelhar-lhe ás
+planta |f.| Bot. Nome genérico, que comprehende todos os vegetaes. Restrict. Vegetal, de que se não extrái madeira ou que não é árvore. Anat. Parte do pé, que assenta sôbre o chão. * |Ext.| O mesmo que pé: foi ajoelhar-lhe ás
 plantas. Desenho, que representa, em projecção horizontal, um edifı́cio, uma cidade, etc. (Lat. planta)
 planta-nova |f.| Variedade de videira da Bairrada. Uva dessa videira.
 plantação |f.| Acto ou effeito de plantar. Terreno, em que crescem plantas. (Do lat. plantatio)
@@ -7955,7 +7955,7 @@ platiúra |f.| Gênero de insectos dı́pteros. (Cp. platiúro)
 platiúro |m.| Gênero de serpentes venenosas, de cauda chata. (Do gr. platus + oura)
 platónia |f.| Gênero de árvores brasileiras. (De Platão, n. p.)
 platonicamente |adv.| De modo platónico. Idealmente; sem mira em gozos materiaes.
-platónico |adj.| Relativo á philosophia de Platão. Ext. Ideal,1573 desligado de interesses ou gozos materiaes; casto: amor
+platónico |adj.| Relativo á philosophia de Platão. |Ext.| Ideal,1573 desligado de interesses ou gozos materiaes; casto: amor
 platónico. (Lat. platonicus)
 platonismo |m.| Philosophia de Platão. Fig. Qualidade ou carácter do que é platónico.
 platycapno |m.| Gênero de plantas papaveráceas. (Do gr.
@@ -8299,7 +8299,7 @@ pneumológico |adj.| Relativo á pneumologia.
 pneumonalgia |f.| Dôr no pulmão. (Do gr. pneumon + algos)
 pneumonálgico |adj.| Relativo á pneumonalgia.
 pneumonia |f.| Inflammação do parênchyma do pulmão. (Gr. pneumonia)
-pneumónico |adj.| Relativo á pneumonia. |M.| O que soffre pneumonia. Ext. O que tem doença de peito. |adj.| O que soffre pneumonia. Ext. O que tem doença de peito.
+pneumónico |adj.| Relativo á pneumonia. |M.| O que soffre pneumonia. |Ext.| O que tem doença de peito. |adj.| O que soffre pneumonia. |Ext.| O que tem doença de peito.
 pneumonite |f.| O mesmo que pneumonia.
 pneumopathia |f.| Qualquer doença pulmonar. (Do gr.
 pneumon + pathos)
@@ -8336,7 +8336,7 @@ pobrador |m.| Ant. O mesmo que povoador. Procurador real, que superintendia nos 
 pobramento |m.| Ant. Carta ou foral, que se deu para se
 povoar uma terra. (De pobrar )
 pobrar |v. t.| (e der.) O mesmo que povoar, etc. (De pobra)
-pobre |adj.| Que não tem o que necessita. Que tem pouco do que lhe é necessário. Ext. Que tem posses inferiores á sua condição social. Que revela pobreza: vestuário pobre. Que tem pouco. Pouco productivo: terrenos pobres. Digno de lástima: pobre homem! |M.| Pessôa pobre ou que mendiga. (Lat. pauper ) |f.| Pessôa pobre ou que mendiga. (Lat. pauper )
+pobre |adj.| Que não tem o que necessita. Que tem pouco do que lhe é necessário. |Ext.| Que tem posses inferiores á sua condição social. Que revela pobreza: vestuário pobre. Que tem pouco. Pouco productivo: terrenos pobres. Digno de lástima: pobre homem! |M.| Pessôa pobre ou que mendiga. (Lat. pauper ) |f.| Pessôa pobre ou que mendiga. (Lat. pauper )
 pobremente |adv.| Com pobreza: viver pobremente. Á maneira de pobre: trajar pobremente.
 pobretana |m.| Prov. O mesmo que pobretão.
 pobretão |m.| Aquelle que é muito pobre. O que mendiga sem necessidade. Pobre. (De pobrete)
@@ -8368,7 +8368,7 @@ pocilhão |m.| Grande pocilga.
 pocima |adv.| Ant. Finalmente. Além de tudo; afinal de contas. (De por + cima)
 pocinheira |f.| Prov. trasm. Pau, com maçaneta numa extremidade, para represar água numa poça, tapando o bueiro ou ôlho. Pedra, que serve para o mesmo fim. (De poça)
 poço #,(pô)# |m.| Cavidade funda na terra, contendo água.
-Pégo. Clarabóia de mina. Altura de um navio, desde a aresta superior até o convés. Ext. Abysmo. Aquillo que é
+Pégo. Clarabóia de mina. Altura de um navio, desde a aresta superior até o convés. |Ext.| Abysmo. Aquillo que é
 profundo. * T. de Serpa. Utensı́lio de barro, que se põe sôbre o fogareiro, para suster a panela. Cf. Rev. Tradição, II, 11. * |Interj.| Prov. O mesmo que poça! (Do lat. puteus)
 poculiforme |adj.| Hist. Nat. Que tem fórma de copo. (Do lat. poculum + forma)
 pôda |f.| Prov. minh. O mesmo que podôa.
@@ -8478,7 +8478,7 @@ põe-mesa |f.| Bras. do N. O mesmo que louva-a-deus.
 poedeira #,(po-e)# |adj.| Diz-se da gallinha, que já põe ovos ou que põe muitos ovos. (De poêr )
 poedoiros #,(po-e)# |m.| pl. Trapos ou fios, que se usavam no tinteiro, para conservarem a tinta embebida nelles. Trapos, embebidos em tintas, e de que se servem os pintores. (De poêr )
 poedouros #,(po-e)# |m.| pl. Trapos ou fios, que se usavam no tinteiro, para conservarem a tinta embebida nelles. Trapos, embebidos em tintas, e de que se servem os pintores. (De poêr )
-poeira |f.| Terra sêca, reduzida a pó. Pó. Ext. Chão, solo. * |Fam.| Presumpção, vaidade, jactância. * |Fam.| O mesmo que badanal : andavam todos numa poeira. * Ant. Vaso com areia, empregada em secar a tinta com que se escreve. Cf. Peregrinação, CIII. (De pó)
+poeira |f.| Terra sêca, reduzida a pó. Pó. |Ext.| Chão, solo. * |Fam.| Presumpção, vaidade, jactância. * |Fam.| O mesmo que badanal : andavam todos numa poeira. * Ant. Vaso com areia, empregada em secar a tinta com que se escreve. Cf. Peregrinação, CIII. (De pó)
 poeirada |f.| Grande porção de poeira; nuvem de pó.
 poeirento |adj.| Que tem poeira; coberto de pó.
 poeirinha |f.| Casta de uva tinta da Bairrada e do Dão.
@@ -8487,7 +8487,7 @@ põe o pó com que se tende o pedaço de barro para cada telha. * O mesmo que o�
 poeiroso |adj.| Bras. Em que há poeira, que tem poeira.
 poejo #,1 (po-e)# |m.| Planta labiada e medicinal. (Do lat. pulegium)
 poejo #,2 (po-e)# |m.| Prov. beir. Farinha fina ou o pó mais fino da farinha. (De pó)
-poema #,(po-ê)# |m.| Obra em verso. Composição poética, mais ou menos extensa. Epopeia. * Ext. Obra em prosa, em que ha ficção e estilo poético. Assumpto ou coisa digna de sêr cantada em verso. (Lat. poema)
+poema #,(po-ê)# |m.| Obra em verso. Composição poética, mais ou menos extensa. Epopeia. * |Ext.| Obra em prosa, em que ha ficção e estilo poético. Assumpto ou coisa digna de sêr cantada em verso. (Lat. poema)
 poemeto #,(mê)# |m.| Poema curto.
 poia
 poente |m.| O mesmo que Occidente. |Adj.| Des. Que põe. E diz-se do sol, quando está no occaso. (Lat. ponens)
@@ -9365,7 +9365,7 @@ pontar #,1 # |v. t.| Guarnecer de pontes (uma embarcação).
 pontar #,2 # |v. t.| (e der.) O mesmo que apontar, etc.: “...alfanges pontão ao peito...” Filinto, VII, 115.
 pontar #,3 # |v. i.| Servir de ponto em (peças theatraes); apontar.
 pontarelo |m.| Ponto grande e mal feito, na costura.
-pontaria #,1 # |f.| Acto de apontar. Acto de assestar (uma arma de fogo), na direcção da linha de mira. Ext. Alvo. * Ant. Ardil ou trapaça, usada em luta para fazer caı́r o adversário. (De ponto)
+pontaria #,1 # |f.| Acto de apontar. Acto de assestar (uma arma de fogo), na direcção da linha de mira. |Ext.| Alvo. * Ant. Ardil ou trapaça, usada em luta para fazer caı́r o adversário. (De ponto)
 pontaria #,2 # |f.| Prov. beir. Extensa linha de cales suspensas,
 por onde corre a água, de um poço ou de uma nora para um terreno que ella vai regar. (Colhido no Fundão) (De ponte)
 pontas |f.| pl. Bras. do S. Extremidades superiores de um rio. (Pl. de ponta)
@@ -9539,7 +9539,7 @@ porfirı́tico |adj.| O mesmo que porfı́rico.
 porfirito |m.| O mesmo ou melhor que porfirita.
 porfirização |f.| Acto ou efeito de porfirizar.
 porfirizar |v. t.| Reduzir a pó muito fino. (De pórfiro)
-pórfiro |m.| Nome, dado pelos antigos a uma espécie de mármore de côr verde ou purpúrea, salpicado de manchas brancas ou de várias côres. * Ext. Qualquer mármore, que apresenta cristaes, cuja brancura resalta da côr do fundo. * Restrict. Pedra basáltica, muito dura, vermelha
+pórfiro |m.| Nome, dado pelos antigos a uma espécie de mármore de côr verde ou purpúrea, salpicado de manchas brancas ou de várias côres. * |Ext.| Qualquer mármore, que apresenta cristaes, cuja brancura resalta da côr do fundo. * Restrict. Pedra basáltica, muito dura, vermelha
 porocele ou escura, composta de feldspato, quartzo e mica. * Instrumento de farmácia, composto de uma tábua de pórfiro ou de outra pedra dura e de uma roseta, destinado a reduzir a pó muito fino substâncias sólidas. (Do gr. porphura, púrpura)
 porfirogênito |m.| Aquelle que nasceu na pórfira; prı́ncipe. Cf. Bernárdez, Luz e Calor, 347. (De pórfira + gênito)
 porfiróide |adj.| Geol. Diz-se de alguns mineraes do tipo do sienito, em que a pasta fundamental é macrocristalina. (De pórfiro + gr. eidos)
@@ -9594,7 +9594,7 @@ porphyrı́tico |adj.| O mesmo que porphýrico.
 porphyrito |m.| O mesmo ou melhor que porphyrita.
 porphyrização |f.| Acto ou effeito de porphyrizar.
 porphyrizar |v. t.| Reduzir a pó muito fino. (De pórphyro)
-pórphyro |m.| Nome, dado pelos antigos a uma espécie de mármore de côr verde ou purpúrea, salpicado de manchas brancas ou de várias côres. * Ext. Qualquer mármore, que apresenta crystaes, cuja brancura resalta da côr do fundo. * Restrict. Pedra basáltica, muito dura, vermelha ou escura, composta de feldspatho, quartzo e mica. * Instrumento de pharmácia, composto de uma tábua de
+pórphyro |m.| Nome, dado pelos antigos a uma espécie de mármore de côr verde ou purpúrea, salpicado de manchas brancas ou de várias côres. * |Ext.| Qualquer mármore, que apresenta crystaes, cuja brancura resalta da côr do fundo. * Restrict. Pedra basáltica, muito dura, vermelha ou escura, composta de feldspatho, quartzo e mica. * Instrumento de pharmácia, composto de uma tábua de
 pórphyro ou de outra pedra dura e de uma roseta, destinado a reduzir a pó muito fino substâncias sólidas. (Do gr.
 porphura, púrpura)
 porphyróide |adj.| Geol. Diz-se de alguns mineraes do typo do syenito, em que a pasta fundamental é macrocrystallina. (De pórphyro + gr. eidos)
@@ -9637,7 +9637,7 @@ porsoleta #,(lê)# |f.| (?): “...de qualquer metal que sai querem fazer sua po
 porta |pref.| (designativo daquelle ou daquillo que conduz, reforça ou sustenta: porta-bandeira; porta-voz.) (De
 portar 2 )
 porta #,1 # |f.| Abertura em parede, ao nı́vel do chão ou de um
-pavimento, para dar entrada ou saı́da. Obra de madeira ou metal, para fechar a entrada de uma casa, de uma cidade, de uma sala, etc. Ext. Peça de madeira ou metal, que, girando sôbre gonzos, serve para fechar qualquer coisa á maneira de porta: porta de um cofre; porta de um armário. Fig. Entrada. Lugar, por onde se entra. Meio de entrar; accesso. Solução, expediente. * |Loc.| de jôgo. Jogar de
+pavimento, para dar entrada ou saı́da. Obra de madeira ou metal, para fechar a entrada de uma casa, de uma cidade, de uma sala, etc. |Ext.| Peça de madeira ou metal, que, girando sôbre gonzos, serve para fechar qualquer coisa á maneira de porta: porta de um cofre; porta de um armário. Fig. Entrada. Lugar, por onde se entra. Meio de entrar; accesso. Solução, expediente. * |Loc.| de jôgo. Jogar de
 porta, evitar o perder, á primeira cartada de monte. Fig. Escol. Esperar á porta da aula, que o professor chame um alumno á lição, e entrar depois. * Pedir por portas, mendigar: “morria a pedir por portas.” Camillo, Viuva do Enforc., III, 60. * |Loc. fam.| Falar pela porta deanteira, falar rudemente, e sem rodeios, nem reticências. * Pl.
 Passagem apertada de um rio ou caminho, entre montes. Desfiladeiro. Portella. (Lat. porta)
 porta #,2 # |adj.| Anat. Diz-se da veia grossa, que recebe o sangue do estômago, do baço, do pâncreas e dos intestinos, e que se distribue no fı́gado. (De porta 1 ) |f.| Anat. Diz-se da veia grossa, que recebe o sangue do estômago, do baço, do pâncreas e dos intestinos, e que se distribue no fı́gado. (De porta 1 )
@@ -9671,7 +9671,7 @@ posição natural.
 porta-lanterna |m.| Peça metállica, ligada á haste do garfo da roda deanteira, nas bicycletas.
 porta-lápis |m.| O mesmo que lapiseira.
 porta-leque |m.| Utensı́lio, em que se traz ou se guarda o leque.
-porta-luz |m.| Aquelle que leva luz á frente de outros. Ext. Guia.
+porta-luz |m.| Aquelle que leva luz á frente de outros. |Ext.| Guia.
 porta-maça |m.| O mesmo que maceiro.
 porta-machado |m.| Soldado munido de machado, para trabalhos de sapa.
 porta-manta |m.| Espécie de mala, em que se transporta a capa ou outras peças de vestuário, especialmente em jornada.
@@ -9891,7 +9891,7 @@ pipa, pela qual póde entrar alguém para tirar o sarro ou fazer consêrto no in
 postila |f.| Caderno de explicações manuscritas, para uso de estudantes. Explicação, ditada pelo professor e escrita pelo aluno. Comentário, apostila. (Lat. postilla)
 postilena |f.| Ant. Atafal; retranca. (Do lat. post. + ...)
 postilhão |m.| Homem, empregado no serviço do correio,
-para transportar, a cavallo e com rapidez, correspondências ou notı́cias entre diversas localidades. Ext. Mensageiro. (Cast. postillón)
+para transportar, a cavallo e com rapidez, correspondências ou notı́cias entre diversas localidades. |Ext.| Mensageiro. (Cast. postillón)
 postilla |f.| Caderno de explicações manuscritas, para uso de estudantes. Explicação, ditada pelo professor e escrita
 pelo alumno. Commentário, apostilla. (Lat. postilla)
 postimeiro |adj.| (V. postrimeiro)
@@ -9953,7 +9953,7 @@ Phil. do Dir., 74.
 potencializar |v. t.| Neol. Tornar potente, reforçar.
 potencialmente |adv.| De modo potencial.
 potenciar |v. t.| Mathem. Elevar a qualquer potência (uma quantidade). (De potência)
-potentado |m.| Prı́ncipe soberano, de grande autoridade ou de grande poder material. Ext. Pessôa muito influente ou
+potentado |m.| Prı́ncipe soberano, de grande autoridade ou de grande poder material. |Ext.| Pessôa muito influente ou
 poderosa. (Lat. potentatus)
 potente |adj.| Que póde, que tem a faculdade de fazer ou
 produzir alguma coisa. Que tem poderı́o, ou muita importância. Enérgico; violento, rude. (Lat. potens)
@@ -9966,7 +9966,7 @@ poterantera |f.| Gênero de plantas melastomáceas do Brasil. (Do gr. poterion +
 poteranthera |f.| Gênero de plantas melastomáceas do Brasil. (Do gr. poterion + anthera)
 potério |m.| Nome scientı́fico da pimpinela. (Do gr. poterion)
 poterna |f.| Porta falsa ou galeria subterrânea, por onde se sai secretamente de uma praça fortificada. (Fr. poterne)
-potestade |f.| Potência; poder; potentado. Ext. A divindade. * Pl. Theol. Um dos nove coros de anjos. (Lat. potestas)
+potestade |f.| Potência; poder; potentado. |Ext.| A divindade. * Pl. Theol. Um dos nove coros de anjos. (Lat. potestas)
 potestativo |adj.| Revestido de poder. Cf. Rui Barb., Réplica, 158.
 potho |m.| Planta annual, pouco conhecida. (Do gr. pothos)
 potigares |m.| pl. Antiga nação de Índios do Brasil, que dominava entre o rio Paraı́ba e a costa do norte.
@@ -9984,8 +9984,8 @@ potra #,1 (pô)# |f.| Egua nova. (De pôtro)
 potra #,2 (pô)# |f.| Hérnia intestinal; quebradura. Doença dos vegetaes, caracterizada por saliências nodosas na haste ou na raiz de algumas plantas hortenses. Prov. trasm. Doença das gallinhas. (Do lat. putris?)
 potranca |f.| Bras. Potra, de menos de três annos. (De potra)
 potranco |m.| Bras. Potro, de menos de três annos.
-potréa |f.| Bebida desagradável ou estragada. Ext. Coisa que não presta. (Do lat. putridus?)
-potreia |f.| Bebida desagradável ou estragada. Ext. Coisa que não presta. (Do lat. putridus?)
+potréa |f.| Bebida desagradável ou estragada. |Ext.| Coisa que não presta. (Do lat. putridus?)
+potreia |f.| Bebida desagradável ou estragada. |Ext.| Coisa que não presta. (Do lat. putridus?)
 potreiro |m.| Negociante de potros. Negociante de gado cavallar. Lugar cercado, onde se guarda gado.
 potril |m.| Pátio ou alpendre, em que se guardam potros para adestrar. (Cp. cast. potril )
 potrilha |m.| Indivı́duo potroso. Deprec. Farroupilha, bisbórria. Cf. |F.| Manuel, Apól. Dialogaes, 460. (Cast. potrilla)
@@ -10084,14 +10084,14 @@ prácrito |m.| Lı́ngua popular da Índia, derivada do sânscrito. (Do sânscr.
 pradaria |f.| Série de prados; grande planı́cie.
 prado |m.| Campo, coberto de plantas herbáceas, que servem para pastagem; campo. * Bras. do S. O mesmo que hippódromo. (Do lat. pratum)
 pradoso |adj.| Em que há prados. Semelhante ao prado; arrelvado.
-praga |f.| Acto de imprecar males contra alguém; maldição. Ext. Grande desgraça; catástrophe. Coisa ou pessôa que importuna. Abundância de coisas prejudiciaes ou desagradáveis: a praga dos gafanhotos. * Bras. do Maranhão. Mosquitos. * Ant. O mesmo que chaga. * Açor. Os pássaros dos campos, em geral: a praga deu cabo do trigo. (Do lat. plaga)
+praga |f.| Acto de imprecar males contra alguém; maldição. |Ext.| Grande desgraça; catástrophe. Coisa ou pessôa que importuna. Abundância de coisas prejudiciaes ou desagradáveis: a praga dos gafanhotos. * Bras. do Maranhão. Mosquitos. * Ant. O mesmo que chaga. * Açor. Os pássaros dos campos, em geral: a praga deu cabo do trigo. (Do lat. plaga)
 pragal |m.| Terreno árido, em que só crescem algumas plantas bravias. Gândara; panascal. Cf. Camillo, Noites de Insómn., V, 20.
 pragalhar |v. t.| Prov. trasm. O mesmo que praguejar.
 pragamı̃o |m.| Ant. O mesmo que pergaminho.
 praganã |m.| Sub-divisão administrativa, espécie de provı́n1606 cia ou districto, na Índia portuguesa. Relativo a pragana; que tem pragana, (falando-se de cereaes).
 pragão |m.| Ant. Grande chaga ou chaga incurável. (De praga)
 pragar |v. i.| Prov. trasm. O mesmo que praguejar.
-pragmática |f.| Regulamento, que emanava do poder civil em assumptos ecclesiásticos. Conjunto de regras ou fórmulas, para ceremónias da côrte ou da igreja. * Ext. Etiqueta, formalidades da bôa sociedade. (Lat. pragmatica)
+pragmática |f.| Regulamento, que emanava do poder civil em assumptos ecclesiásticos. Conjunto de regras ou fórmulas, para ceremónias da côrte ou da igreja. * |Ext.| Etiqueta, formalidades da bôa sociedade. (Lat. pragmatica)
 pragmaticamente |adv.| De modo pragmático; de acôrdo com a etiqueta.
 pragmático |adj.| Relativo á pragmática; conforme á pragmática; usual. (Gr. pragmatikos)
 praguedo #,(guê)# |m.| Grande porção de pragas. Cf. Castilho, Geórgicas, 21.
@@ -10102,7 +10102,7 @@ praguento |adj.| Que pragueja; que costuma dizer pragas. Maldizente.
 praia |f.| Orla de terra, geralmente coberta de areia, confinando com o mar. Beiramar. Região, banhada pelo mar; litoral; margem. * Pl. Marn. Depósito geral das águas que alimentam a salina, e que também se chama loiças, (cp. loiça). (Do lat. plaga)
 praia-mar |f.| (Corr. vulgar de preamar )
 praiano |m.| Bras. O mesmo que praieiro.
-praieiro |m.| Bras. Habitante de praia ou praias: houve em Pernambuco a revolução dos praieiros... Ext. Homem liberal, não conservador.
+praieiro |m.| Bras. Habitante de praia ou praias: houve em Pernambuco a revolução dos praieiros... |Ext.| Homem liberal, não conservador.
 praina |f.| Prov. trasm. O mesmo que planı́cie. (De praino)
 praino |m.| Des. O mesmo que plaino; planalto; chan.
 prairial |m.| Um dos meses do calendário da primeira república francesa, (19 de Maio a 18 de Junho). (T. fr.)
@@ -10175,7 +10175,7 @@ praticultor |m.| Aquelle que se occupa de praticultura.
 praticultura |f.| Parte da Agricultura, que trata especialmente de pastagens ou forragens. (Do lat. pratum + cultura)
 pratilheiro |m.| Aquelle que toca pratos numa orchestra ou banda. (De prato)
 pratinho |m.| Pequeno prato. Fig. O que serve para objecto de motejo ou de entretenimento; joguete.
-prato |m.| Vaso pouco fundo, geralmente circular e mais ou menos largo, em que se serve o comer. Cada uma das iguarias que entram numa refeição: ao jantar, bastam-lhe três pratos. Cada uma das duas lâminas circulares, que servem na balança ordinária. Peça de vários maquinismos, com a fórma semelhante á do prato. * Espécie de jôgo, o mesmo que tacho. (V. tacho) * Ext. O mesmo que alimentação: o tio dá-lhe 3:000 reis para prato. * Prato de meio, iguaria, que vai á mesa, entre a sopa ou o cozido e a sobremesa. Pl. Instrumento musical, formado de duas
+prato |m.| Vaso pouco fundo, geralmente circular e mais ou menos largo, em que se serve o comer. Cada uma das iguarias que entram numa refeição: ao jantar, bastam-lhe três pratos. Cada uma das duas lâminas circulares, que servem na balança ordinária. Peça de vários maquinismos, com a fórma semelhante á do prato. * Espécie de jôgo, o mesmo que tacho. (V. tacho) * |Ext.| O mesmo que alimentação: o tio dá-lhe 3:000 reis para prato. * Prato de meio, iguaria, que vai á mesa, entre a sopa ou o cozido e a sobremesa. Pl. Instrumento musical, formado de duas
 peças circulares de metal. * Prov. alent. Disco de ferro, entre as rodas e as chedas do carro. * |Adj.| Chato: queijo
 prato. (Do lat. hyp. plattus)
 pravamente |adv.| Com pravidade; com perversidade Cf. Camillo, Ôlho de Vidro, 52. (De um hypoth. pravo, dopravidade lat. pravus)
@@ -10199,7 +10199,7 @@ prazeroso |adj.| Neol. bras. Em que há prazer; prazenteiro.
 prazia |f.| Pop. Ant. Jeito, modo; ensejo. (De prazer )
 prazimento |m.| O mesmo que aprazimento. (Do b. lat. placimentum)
 prazı́vel |adj.| P. us. O mesmo que aprazı́vel. (De prazer )
-prazo |m.| Tempo determinado. Tempo, durante o qual se deverá realizar alguma coisa: apresentou-se dentro do prazo legal. O termo de um determinado perı́odo de tempo. Aforamento. Prédio emphytêutico: vender um prazo. * Ant. Esphéra de jurisdicção ou influência: “...a fim de meter Moluco no seu prazo...” Lucena, San Francisco Xavier, l. III, c. V. * Ext. Ónus; gravame; embaraço. (Do lat. placitum)
+prazo |m.| Tempo determinado. Tempo, durante o qual se deverá realizar alguma coisa: apresentou-se dentro do prazo legal. O termo de um determinado perı́odo de tempo. Aforamento. Prédio emphytêutico: vender um prazo. * Ant. Esphéra de jurisdicção ou influência: “...a fim de meter Moluco no seu prazo...” Lucena, San Francisco Xavier, l. III, c. V. * |Ext.| Ónus; gravame; embaraço. (Do lat. placitum)
 pré |m.| O vencimento diário de um soldado. (Fr. pret)
 pre-romano |adj.| Anterior á dominação romana.
 préa |f.| O mesmo que presa. (Do lat. praeda)
@@ -10225,7 +10225,7 @@ preanunciar |v. t.| O mesmo que prenunciar ; anunciar prèviamente. (De pre... +
 prear |v. t.| Prender; agarrar. |V. i.| Fazer presa. (Do lat. praedare)
 prear-se |v. p.| Prov. beir. Zangar-se, irritar-se. (Colhido no Fundão)
 prebeber |v. t.| P. us. O mesmo que prelibar. (De pre... + beber )
-prebenda |f.| Rendimento de um canonicato; canonicato. Ext. Renda ecclesiástica. Fig. Occupação rendosa, mas
+prebenda |f.| Rendimento de um canonicato; canonicato. |Ext.| Renda ecclesiástica. Fig. Occupação rendosa, mas
 pouco trabalhosa; sinecura. (Lat. praebenda)
 prebendado |m.| Indivı́duo, que tem prebenda. |adj.| Indivı́duo, que tem prebenda.
 prebendaria |f.| Cargo de prebendeiro. (De prebenda)
@@ -10255,7 +10255,7 @@ precaver-se. (Do lat. praecautio)
 precautelar |v. t.| O mesmo que precaver. (De pre... + cautela)
 precautório |adj.| Que envolve precaução; relativo a precaução: “...medicina precautória...” |F.| Manuel, Carta de Guia, 61.
 precaver |v. t.| Acautelar antecipadamente; prevenir. (Lat. praecavere)
-prece |f.| Súpplica religiosa; reza. Ext. Pedido instante, súpplica. (Lat. prex, precis)
+prece |f.| Súpplica religiosa; reza. |Ext.| Pedido instante, súpplica. (Lat. prex, precis)
 precedencia |f.| Qualidade ou condição do que é precedente; preferência.
 precedente |adj.| Que precede ou antecede; que está antes de outro. (Lat. praecedens)
 preceder |v. t.| Ir ou estar adeante de; anteceder. Pagar antes de. |V. i.| Ir adeante; antepor-se. (Lat. praecedere)
@@ -10717,7 +10717,7 @@ preservador #,(ser )# |m.| O que preserva. |adj.| O que preserva.
 preservar #,(ser )# |v. t.| Livrar de algum mal; resguardar, defender. (Lat. praeservare)
 preservativo #,(ser )# |adj.| Que preserva; próprio para preservar. |M.| Aquillo que preserva.
 presidência |f.| Acto de presidir. Funcções ou cargo de
-presidente. Tempo, durante o qual alguém exerce funcções de presidente. Residência do presidente. Lugar, em que se assenta o presidente. * Ext. O presidente. Pop. Lugar de honra, á mesa de um banquete. (De presidente)
+presidente. Tempo, durante o qual alguém exerce funcções de presidente. Residência do presidente. Lugar, em que se assenta o presidente. * |Ext.| O presidente. Pop. Lugar de honra, á mesa de um banquete. (De presidente)
 presidencial |adj.| Relativo á presidência ou ao presidente.
 presidenta |f.| Neol. Mulhér, que preside. Mulhér de um
 presidente. Cf. Castilho, Sabichonas, 128. (Fem. de presidente)
@@ -10948,7 +10948,7 @@ primaveril |adj.| (V. primaveral ). Cf. Camillo, Nárcot., I, 187.
 primavero |adj.| O mesmo que primaveral.uma região: primaz das Espanhas. * |Adj.| Que occupa o
 primeiro lugar. Cf. Latino, Humboldt, 489. (Do lat. hyp.
 primatius, de primus)
-primazia |f.| Dignidade de primaz. Prioridade. Superioridade, excellência. Ext. Competência, rivalidade.
+primazia |f.| Dignidade de primaz. Prioridade. Superioridade, excellência. |Ext.| Competência, rivalidade.
 primeira |f.| Á primeira, ao princı́pio, logo á |Loc. adv.| Á primeira, ao princı́pio, logo á
 primeira vista. * Jôgo da primeira, jôgo de cartas, em que se distribuem quatro a cada parceiro; mão de quatro cartas, uma de cada naipe, naquelle jôgo. (De primeiro)
 primeiramente |adv.| Em primeiro lugar; antes de outra coisa; antes de tudo. (De primeiro)
@@ -10984,7 +10984,7 @@ primitiva |f.| Fam. Os primeiros tempos; os tempos primitivos; princı́pio. (Fe
 primitivamente |adv.| Nos tempos primitivos; na origem. (De primitivo)
 primitivo |adj.| Que appareceu em primeiro lugar. Relativo aos primeiros tempos. Primevo. Primordial. Que
 precedeu; que foi dos primeiros a apparecer: os Christãos
-primitivos. * Ext. Antiquado, rudimentar, rude. (Lat. primitivus)
+primitivos. * |Ext.| Antiquado, rudimentar, rude. (Lat. primitivus)
 primo #,1 # |m.| Diz-se do indivı́duo, em relação aos filhos de seus tios. * Designação vulgar de todos os parentes, que não têm designação especial. (Lat. primus)
 primo #,2 # |adj.| Primeiro. Excellente. Diz-se de um número que só é divisı́vel por si ou pela unidade. E diz-se de uma obra que é excellente ou a primeira do seu gênero. * Ant. Perfeito.; aperfeiçoado. Cf. Peregrinação, CV. (Lat. primus)
 primo #,3 (primò)# |adv.| O mesmo que primeiramente. (T. lat.)
@@ -11007,7 +11007,7 @@ primulina |f.| Producto pharmacêutico, extrahido da prı́mula.
 prı́ncepe |m.| (Fórma ant. e pop. de prı́ncipe)
 princeps #,(princèps)# |adj.| Diz-se da primeira edição de uma obra. (T. lat.)
 princês |m.| Designação depreciativa ou irónica de Prı́ncipe. Cf. G. Braga, Mal da Delf., 217. (Cp. princesa)
-princesa |f.| Mulhér de Prı́ncipe. Soberana de um principado. Filha de Rei. Ext. Raı́nha ou Soberana. A pessôa ou coisa do sexo feminino, que é mais distinta na sua ca-principado |m.| Dignidade de Prı́ncipe. Território ou Esfrosina, 43. tado, cujo Soberano é um Prı́ncipe ou Princesa. * Pl. Theol. Um dos nove coros dos anjos. (Lat. principatus)
+princesa |f.| Mulhér de Prı́ncipe. Soberana de um principado. Filha de Rei. |Ext.| Raı́nha ou Soberana. A pessôa ou coisa do sexo feminino, que é mais distinta na sua ca-principado |m.| Dignidade de Prı́ncipe. Território ou Esfrosina, 43. tado, cujo Soberano é um Prı́ncipe ou Princesa. * Pl. Theol. Um dos nove coros dos anjos. (Lat. principatus)
 principal |adj.| Que está em primeiro lugar. Essencial: condição principal. Que é o mais importante, o mais notável.
 Primeiro. |M.| Superior de uma communidade religiosa. A
 pessôa mais importante; magnate: os principaes da cidade. Aquillo que é mais importante, precı́puo. (Lat. principalis)
@@ -11334,7 +11334,7 @@ proficuamente |adv.| De modo profı́cuo; com vantagem.
 proficuidade #,(cu-i )# |f.| Qualidade do que é profı́cuo; vantagem; utilidade.
 profı́cuo |adj.| Útil; proveitoso; vantajoso. (Lat. proficuus)
 profiláctico |adj.| Relativo á profilaxia; que preserva. (Gr. prophulaktikos)
-profilaxia #,(csi )# |f.| Parte da Medicina, que tem por objecto as precauções contra certas enfermidades. * Ext. Emprêgo de meios, para evitar certas enfermidades. Preservativo. (Gr. prophulaxis)
+profilaxia #,(csi )# |f.| Parte da Medicina, que tem por objecto as precauções contra certas enfermidades. * |Ext.| Emprêgo de meios, para evitar certas enfermidades. Preservativo. (Gr. prophulaxis)
 profissão |f.| Acto ou effeito de professar. Declaração pública de um sentimento habitual ou de um modo de sêr habitual. Condição social; emprêgo. Mestér; modo de vida. (Lat. professio)
 profissional |adj.| Relativo a profissão.
 profitente |adj.| Que professa. (Lat. profitens)
@@ -11446,7 +11446,7 @@ proligero |adj.| Que contém germes. (Do lat. proles + gerere)
 prolixamente #,(csa)# |adv.| De modo prolixo.
 prolixidade #,(csi )# |f.| Qualidade do que é prolixo. (Lat. prolixitas)
 prolixo #,(cso)# |adj.| Muito longo ou expresso em muitas
-palavras, faladas ou escritas. Que se exprime em termos superabundantes. Superabundante. Difuso. Duradoiro. Ext. Fastidioso. (Lat. prolixus)
+palavras, faladas ou escritas. Que se exprime em termos superabundantes. Superabundante. Difuso. Duradoiro. |Ext.| Fastidioso. (Lat. prolixus)
 prologar |v. t.| O mesmo que prefaciar. (De prólogo)
 prólogo |m.| Prefácio, preâmbulo, proêmio. Parte de um drama, que era representada por uma só personagem, antes da peça propriamente dita. (Gr. prologos)
 prolonga |f.| Acto de prolongar; prolongação. Corda, que une o reparo ao armão, para fazer fogo, nas peças de artilharia.
@@ -11545,7 +11545,7 @@ propagação |f.| Acto ou effeito de propagar; diffusão; desenvolvimento: propa
 propagador |m.| O que propaga; o que divulga; o que faz propaganda. (Lat. propagator ) |adj.| O que propaga; o que divulga; o que faz propaganda. (Lat. propagator )
 propaganda |f.| Propagação de princı́pios ou theorias. Sociedade, que vulgariza certas doutrinas. (Lat. propaganda)
 propagandista |m.| Pessôa, que faz propaganda. |f.| Pessôa, que faz propaganda.
-propagar |v. t.| Multiplicar, reproduzindo. Multiplicar por geração: propagar a espécie. Ext. Dilatar; espalhar; diffundir; aumentar o número de. Proclamar; vulgarizar; propalar. |V. i.| Têr prole. (Lat. propagare)
+propagar |v. t.| Multiplicar, reproduzindo. Multiplicar por geração: propagar a espécie. |Ext.| Dilatar; espalhar; diffundir; aumentar o número de. Proclamar; vulgarizar; propalar. |V. i.| Têr prole. (Lat. propagare)
 propagem |f.| Bot. Bolbilho dos musgos. (Lat. propago)
 propagular |adj.| Relativo ao propágulo.
 propágulo |m.| Bot. Gomo simples, que póde produzir um vegetal. (Fr. propagule)
@@ -11584,7 +11584,7 @@ prophetizador |m.| O que prophetiza. |adj.| O que prophetiza.
 prophetizar |v. t.| Predizer como propheta; vaticinar. Fig. Annunciar por conjecturas: prophetizo-te desgostos. (Lat. prophetizare)
 prophragma |m.| Zool. Separação membranosa do thórax dos insectos. (Do gr. pro, adeante, ephragma, separação)
 prophyláctico |adj.| Relativo á prophylaxia; que preserva. (Gr. prophulaktikos)
-prophylaxia #,(csi )# |f.| Parte da Medicina, que tem por objecto as precauções contra certas enfermidades. * Ext. Emprêgo de meios, para evitar certas enfermidades. Preservativo. (Gr. prophulaxis)
+prophylaxia #,(csi )# |f.| Parte da Medicina, que tem por objecto as precauções contra certas enfermidades. * |Ext.| Emprêgo de meios, para evitar certas enfermidades. Preservativo. (Gr. prophulaxis)
 propiá |f.| Prov. alg. O mesmo que alcâncara.
 propiciação |f.| Acto ou effeito de propiciar. (Lat. propitatio)
 propiciador |m.| O que propicı́a. (Lat. propitiator ) |adj.| O que propicı́a. (Lat. propitiator )
@@ -11690,7 +11690,7 @@ prosaı́smo |m.| Qualidade daquillo que é prosaico. (De prosa)
 prosaı́sta |m.| Neol. bras. O mesmo que prosador. Cf. S. Romero, Assis, 71.
 prosápia |f.| Progênie; ascendência; raça. Jactância, orgulho; bazófia. (Lat. prosapia)
 prosar |v. i.| Escrever em prosa.
-proscênio |m.| Frente do palco. Parte do palco, junto á ribalta. Ext. Scena, palco. (Lat. proscenium)
+proscênio |m.| Frente do palco. Parte do palco, junto á ribalta. |Ext.| Scena, palco. (Lat. proscenium)
 proscollo |m.| Tubérculo granuloso das orchı́deas, que segrega um humor viscoso, a que adherem os grãos do póllen no acto da fecundação. (Do gr. pros + kolla)
 proscolo |m.| Tubérculo granuloso das orquı́deas, que segrega um humor viscoso, a que aderem os grãos do pólen no acto da fecundação. (Do gr. pros + kolla)
 proscrever |v. t.| Condemnar a degrêdo, por sentença ou voto escrito. Desterrar. Expulsar. Extinguir. Abolir;
@@ -11708,10 +11708,10 @@ proseguir #,(se)# |v. t.| Fazer seguir; continuar: proseguir um discurso. Dizer 
 proseirão |m.| Homem prosaico, que só se preoccupa de interesses materiais; burguês. Cf. Eça, P. Bası́lio, 8. (De prosa)
 proselı́tico |adj.| Relativo a proselitismo. Cf. Ol. Martins, Filhos de D. João I, 252.
 proselitismo |m.| Actividade ou afan em fazer proselitos. Conjunto de prosélitos. (De prosélito)
-prosélito |m.| Pagão, que abraçou a religião judaica. Indivı́duo que abraçou uma religião, diferente da que tinha. Ext. Indivı́duo, convertido a uma doutrina, a um sistema ou a uma ideia. Partidário; sectário. (Lat. proselytus)
+prosélito |m.| Pagão, que abraçou a religião judaica. Indivı́duo que abraçou uma religião, diferente da que tinha. |Ext.| Indivı́duo, convertido a uma doutrina, a um sistema ou a uma ideia. Partidário; sectário. (Lat. proselytus)
 proselýtico |adj.| Relativo a proselytismo. Cf. Ol. Martins, Filhos de D. João I, 252.
 proselytismo |m.| Actividade ou afan em fazer proselytos. Conjunto de prosélytos. (De prosélyto)
-prosélyto |m.| Pagão, que abraçou a religião judaica. Indivı́duo que abraçou uma religião, differente da que tinha. Ext. Indivı́duo, convertido a uma doutrina, a um systema ou a uma ideia. Partidário; sectário. (Lat. proselytus)
+prosélyto |m.| Pagão, que abraçou a religião judaica. Indivı́duo que abraçou uma religião, differente da que tinha. |Ext.| Indivı́duo, convertido a uma doutrina, a um systema ou a uma ideia. Partidário; sectário. (Lat. proselytus)
 prosena |f.| Gênero de insectos dı́pteros. (Do gr. prosenes)
 prosênchyma #,(qui )# |m.| Bot. Tecido cellular fibroso dos vegetaes. (Do gr. pros + enkhuma)
 prosênquima |m.| Bot. Tecido celular fibroso dos vegetaes. (Do gr. pros + enkhuma)
@@ -12033,7 +12033,7 @@ próvido |adj.| O mesmo que providente. (Lat. providus)
 pròvigário |m.| Ecclesiástico, investido nas funcções de vigário. Pròvigário capitular, ecclesiástico, que rege uma diocese por nomeação do metropolita ou do suffragâneo, na falta do que devia sêr eleito pelo cabido. (De pro... + vigário)
 provimento |m.| Acto ou effeito de prover. Providência. Nomeação ou promoção de um funccionário. Preenchimento de um lugar público pela nomeação ou promoção de um funccionário.
 provinca |f.| O mesmo que pervinca 2 .
-provı́ncia |f.| Região, que faz parte de um paı́s e que geralmente se distingue das outras regiões do mesmo paı́s pela temperatura, producções, accidentes do solo, etc. Cada uma das divisões administrativas de certos Estados. Ext. Habitantes de uma provı́ncia: a provı́ncia revoltou-se. Secção, divisão: as várias provı́ncias do saber humano. Qualquer parte do paı́s, exceptuando a capital e suas cercanias: chegaram ontem da provı́ncia. Conjunto dos conventos de uma Ordem monástica dentro de um paı́s. (Lat. provincia)
+provı́ncia |f.| Região, que faz parte de um paı́s e que geralmente se distingue das outras regiões do mesmo paı́s pela temperatura, producções, accidentes do solo, etc. Cada uma das divisões administrativas de certos Estados. |Ext.| Habitantes de uma provı́ncia: a provı́ncia revoltou-se. Secção, divisão: as várias provı́ncias do saber humano. Qualquer parte do paı́s, exceptuando a capital e suas cercanias: chegaram ontem da provı́ncia. Conjunto dos conventos de uma Ordem monástica dentro de um paı́s. (Lat. provincia)
 provincial |adj.| Relativo a provı́ncia. |M.| Superior de certo número de casas religiosas. (Lat. provincialis)
 provincialado |m.| Cargo de provincial.
 provincialato |m.| O mesmo que provincialado. Cf. Camillo, |M.| de Pombal, 306.
@@ -12650,7 +12650,7 @@ pulsear |v. i.| Avaliar com outrem a fôrça do pulso, apoiando os cotovelos sô
 pulseira |f.| Ornato circular para os pulsos.
 pulsı́metro |m.| Instrumento, para avaliar o número das
 pulsações arteriaes no espaço de um minuto. Esphygmógrapho. (Do lat. pulsus + gr. metron)
-pulso |m.| Parte do antebraço, junto á mão. Pulsação arterial, que se manifesta principalmente no pulso: pulso agitado. Ext. Mão. Fig. Fôrça, vigor: aquelle homem tem pulso. (Lat. pulsus)
+pulso |m.| Parte do antebraço, junto á mão. Pulsação arterial, que se manifesta principalmente no pulso: pulso agitado. |Ext.| Mão. Fig. Fôrça, vigor: aquelle homem tem pulso. (Lat. pulsus)
 pulsómetro |m.| (V. pulsı́metro)
 pultáceo |adj.| Semelhante a papas; que apresenta o aspecto de papas: há diphterı́as pultáceas..., Tumores pultáceos... (Do lat. puls, pultis)
 pululação |f.| Acto de pulular.
@@ -12747,8 +12747,8 @@ pupilla |f.| Órfan, que está sob tutela; órfan. Educanda. Abertura, que a mem
 pupillagem |f.| Educação de pupillo ou pupilla. Tempo que dura essa educação. (De pupillo ou pupilla)
 pupillar #,1 # |adj.| Relativo a pupillo ou pupilla. (Lat. pupillaris)
 pupillar #,2 # |v. i.| Gritar, (falando-se do pavão). Cf. Castilho, Fastos, III, 324. (Lat. pupillare)
-pupillo |m.| Órfão, que está sob tutela; menor. Ext. Indivı́duo protegido. Indivı́duo, que outrem, não sendo seu pai, trata e educa paternalmente. (Lat. pupillus)
-pupilo |m.| Órfão, que está sob tutela; menor. Ext. Indivı́duo
+pupillo |m.| Órfão, que está sob tutela; menor. |Ext.| Indivı́duo protegido. Indivı́duo, que outrem, não sendo seu pai, trata e educa paternalmente. (Lat. pupillus)
+pupilo |m.| Órfão, que está sob tutela; menor. |Ext.| Indivı́duo
 protegido. Indivı́duo, que outrem, não sendo seu pai, trata e educa paternalmente. (Lat. pupillus)
 pupı́paro |adj.| Diz-se dos insectos, cujos filhos nascem em estado de nympha. |M.| pl. Famı́lia de insectos pupı́paros. (Do lat. pupa + parere)
 puplècia |f.| Pop. O mesmo que apoplexia. Cf. Castilho, Méd. á Fôrça, 45.
@@ -12790,8 +12790,8 @@ puriforme |adj.| Semelhante ao pus. (Do lat. pus, puris + forma)
 puris |m.| pl. Antiga nação nômade de Índios do Brasil, de que restam algumas cabildas nas matas de San-Paulo.
 purismo |m.| Carácter dos escritores, que se occupam excessivamente da pureza da linguagem. (De puro)
 purista |m.| , |f.| Pessôa, excessivamente escrupulosa, quanto á pureza da linguagem. (De puro) |adj.| Pessôa, excessivamente escrupulosa, quanto á pureza da linguagem. (De puro)
-puritanismo |m.| Seita protestante, que suppunha interpretar melhor que ninguém a letra da Bı́blia. Ext. Qualidade da pessôa, que alardeia grande rigidez de princı́pios. (De puritano)
-puritano |m.| Sectário do puritanismo. Ext. Homem, que alardeia grande austeridade. |Adj.| Relativo ao puritanismo. (Ingl. puritan)
+puritanismo |m.| Seita protestante, que suppunha interpretar melhor que ninguém a letra da Bı́blia. |Ext.| Qualidade da pessôa, que alardeia grande rigidez de princı́pios. (De puritano)
+puritano |m.| Sectário do puritanismo. |Ext.| Homem, que alardeia grande austeridade. |Adj.| Relativo ao puritanismo. (Ingl. puritan)
 puro |adj.| Que não tem mistura. Que não tem nada. Que não soffreu alteração: vinho puro. Transparente, lı́mpido. Immaculado: alma pura. Innocente. Virginal; casto. Tranquillo, sereno: atmosphera pura. Verdadeiro. Vernáculo, castiço, (falando-se do estilo ou da linguagem). Natural. Sincero: pura verdade. Mero. Suave; mavioso: voz pura. * Que ainda não foi corrido, (falando-se do toiro). (Lat.puro-negro purus)
 puro-negro |m.| Casta de uva. G. Rev. Agron., I, 18.
 puropurus |m.| pl. Indı́genas do norte do Brasil.
@@ -12916,7 +12916,7 @@ pygericu |m.| Planta anonácea.
 pygı́dio |m.| Geol. Peça, que limita posteriormente o corpo fóssil dos trilobitas. (Gr. pugidion)
 pygméa |f.| Flexão |fem.| de pygmeu: “vês aquella giganta? descalça-lhe os cothurnos e ficará pygmeia...” D. Ant. da Costa, Três Mundos, 101.
 pygmeia |f.| Flexão |fem.| de pygmeu: “vês aquella giganta? descalça-lhe os cothurnos e ficará pygmeia...” D. Ant. da Costa, Três Mundos, 101.
-pygmeu |m.| Membro de uma nação fabulosa, cujos habitantes, segundo os poétas, tinham apenas um côvado de altura. Ext. Homem de pequena estatura. Anão. Fig. Homem insignificante, sem intelligência ou sem outro mérito. (Lat. pygmaeus)
+pygmeu |m.| Membro de uma nação fabulosa, cujos habitantes, segundo os poétas, tinham apenas um côvado de altura. |Ext.| Homem de pequena estatura. Anão. Fig. Homem insignificante, sem intelligência ou sem outro mérito. (Lat. pygmaeus)
 pygopagia |f.| Estado ou qualidade de pygópago.
 pygópago |f.| Terat. Monstro, composto de dois indivı́duos,pyı́na
 pyı́na |f.| Um dos princı́pios coaguláveis do plasma do sangue.pyrenaico |adj.| Relativo aos Pyrenéus. (Lat. pyrenaicus)
@@ -13063,9 +13063,9 @@ pyrozónio |m.| Mistura de éther e água oxygenada, que os dentistas empregam n
 pýrrhicha #,(ca)# |f.| Espécie de dança, que se realizava com as armas na mão. (Lat. pyrrhicha)
 pyrrhı́chio #,(qui )# |m.| Pé de verso grego ou latino, composto de duas sýlabas breves. (Lat. pyrrhı́chius)
 pyrrhonicamente |adv.| De modo pyrrhónico; com teimosia.
-pyrrhónico |adj.| Que segue a doutrina do pyrrhonismo. Ext. Que duvida de tudo. |Fam.| Teimoso. (Do lat. Pyrrho,
+pyrrhónico |adj.| Que segue a doutrina do pyrrhonismo. |Ext.| Que duvida de tudo. |Fam.| Teimoso. (Do lat. Pyrrho,
 Pyrrhonis, |n. p.| )
-pyrrhonismo |m.| Systema philosóphico, que tinha por base duvidar tudo: scepticismo. Ext. Hábito de duvidar de tudo. |Fam.| Teimosia. (Cp. pyrrhónico)
+pyrrhonismo |m.| Systema philosóphico, que tinha por base duvidar tudo: scepticismo. |Ext.| Hábito de duvidar de tudo. |Fam.| Teimosia. (Cp. pyrrhónico)
 pyrrotina |f.| O mesmo que pyrrotite.
 pyrrotite |f.| Espécie de bisulfureto, que exerce acção na agulha magnética. (Do gr. purrotes)
 pyrúvico |adj.| Diz-se de um acido, produzido pela destillação sêca do ácido tartárico. (De pyro... + úvico)
@@ -13078,7 +13078,7 @@ pýthia |f.| Sacerdotisa de Apollo, a qual pronunciava oráculos em Delphos. (La
 pýthico |adj.| Relativo a Pýthia. Relativo aos jogos, que em Delphos se celebravam em honra de Apollo, Latona e Diana. (Lat. pythicus)
 pýthon |m.| (V. pythão)
 pythónico |adj.| Relativo ao python. Nigromântico; mágico; diabólico. Cf. Arn. Gama, Motim, 226. (Lat. pythonicus)
-pythonisa |f.| Mulhér, que adivinhava. Sacerdotisa de Apollo. Ext. Prophetisa. (Lat. pythonisa)
+pythonisa |f.| Mulhér, que adivinhava. Sacerdotisa de Apollo. |Ext.| Prophetisa. (Lat. pythonisa)
 pythonissa |f.| O mesmo que pythonisa.
 pythonomorpho |m.| Reptil fóssil, do typo dos labyrinthodontes. (Do gr. puthon + morphe)
 pyulco |m.| Cir. Instrumento, para extrahir de uma cavidade do corpo matérias purulentas. (Gr. puoulkos)

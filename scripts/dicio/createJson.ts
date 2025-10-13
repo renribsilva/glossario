@@ -38,7 +38,7 @@ function dicioJsonCreator() {
       const depois = linhaAtual.slice(primeiroEspaco);
       if (!depois.trim().startsWith("|") &&  i > 0) {
         linhas[i - 1] = linhas[i - 1].trimEnd() + ' ' + linhaAtual;
-        linhas.splice(i, 1); // Remove a linha atual
+        linhas.splice(i, 1);
         i--; 
       }
     }

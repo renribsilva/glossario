@@ -14,8 +14,8 @@ labadismo |m.| Doutrina dos theólogos franceses, que preconizavam a abolição 
 labadista |m.| Partidário do labadismo.
 labarda #,1 # |f.| Açor. Pequeno peixe, de listras verdes, que também se chama rainha, por formar cardume com os peixes reis.
 labarda #,2 # |f.| Ant. O mesmo que alabarda. Cf. Pant. de Aveiro, Itiner., 281 (2.ª ed.)
-labarêda |f.| Grande lı́ngua de fogo, grande chamma. Ext. Ardor: as labaredas do amor. Fig. Intensidade. * |M.| Pop. Homem azafamado, ferefolha. (Do cast. llamarada)
-lábaro |m.| Estandarte dos exércitos romanos, no tempo do Império. Ext. Estandarte. (Lat. labarum)
+labarêda |f.| Grande lı́ngua de fogo, grande chamma. |Ext.| Ardor: as labaredas do amor. Fig. Intensidade. * |M.| Pop. Homem azafamado, ferefolha. (Do cast. llamarada)
+lábaro |m.| Estandarte dos exércitos romanos, no tempo do Império. |Ext.| Estandarte. (Lat. labarum)
 labátia |f.| Árvore sapotácea da América. (De Labat, |n. p.| )
 labbo |m.| Ave palmı́pede, o mesmo que estercorário.
 labdacismo |m.| O mesmo que lambdacismo.
@@ -197,7 +197,7 @@ lacrimatório |adj.| Relativo a lágrimas. |M.| Pequeno vaso, que se depositava 
 lacrimável |adj.| Digno de dó; lastimável. (Lat. lacrimabilis)
 lacrimejar |v. i.| (e der.) O mesmo que lagrimejar, etc. (Do
 lat. lacrima)
-lacrimoso |adj.| Que chora. Que está banhado em lágrimas. Ext. Lastimoso; que provoca o pranto. (Lat. lacrimosus)
+lacrimoso |adj.| Que chora. Que está banhado em lágrimas. |Ext.| Lastimoso; que provoca o pranto. (Lat. lacrimosus)
 lacrimotomia |f.| Incisão no canalı́culo lacrimal. (De lacrimótomo)
 lacrimótomo |m.| Instrumento, para fender o canalı́culo lacrimal. (Do gr. lakruma + tome)
 lacrões |m.| pl. Ganchos de ferro, cada um dos quaes nasce de uma chapa em que entram as extremidades da cavilha de atravessar da testa dos reparos do campanha. Cf. Leoni, Diccion. de Artilh., inédito. (Provavelmente por lacraus, de lacrau. Cp. cast. lacrán, que poderia têr produzido
@@ -313,7 +313,7 @@ ladrilhador |m.| Aquelle que ladrilha. |adj.| Aquelle que ladrilha.
 ladrilhagem |f.| Acto ou effeito de ladrilhar.
 ladrilhar |v. t.| Pôr ladrilhos em.
 ladrilheiro |m.| Aquelle que faz ladrilhos.
-ladrilho |m.| Peça rectangular de barro cozido, a qual serve geralmente para pavimentos. Tejolo. Ext. Aquillo que tem fórma ou apparência de ladrilho. Pedaço rectangular de marmelada. Variedade de bolos secos. (Do lat. hypoth. latericulus)
+ladrilho |m.| Peça rectangular de barro cozido, a qual serve geralmente para pavimentos. Tejolo. |Ext.| Aquillo que tem fórma ou apparência de ladrilho. Pedaço rectangular de marmelada. Variedade de bolos secos. (Do lat. hypoth. latericulus)
 ladripar |v. t.| Surripiar; furtar (coisas de pouco valor). (De
 ladro 2 )
 ladripo |m.| Prov. minh. Aquelle que ladripa. (Colhido em Guimarães)
@@ -373,7 +373,7 @@ lagênula |f.| Pequena lagena. Planta trepadeira da Cochinchina, cujo fruto tem 
 lageoso |adj.| Des. Em que há lages: terreno lageoso.
 lagerstrêmia |f.| Arbusto ornamental, (lagerstroemia indica, Lin.).
 lágidas |m.| pl. Dynastia egýpcia, fundada por Ptolomeu Lago.
-lago |m.| Grande espaço de água, rodeado de terra. Ext. Tanque. Fig. Pop. Grande quantidade de lı́quido, entornado no solo. (Do lat. lacus)
+lago |m.| Grande espaço de água, rodeado de terra. |Ext.| Tanque. Fig. Pop. Grande quantidade de lı́quido, entornado no solo. (Do lat. lacus)
 lagôa |f.| Pequeno lago. Charco. * Prov. minh. Belga grande, com água de lima. Lameiro. * Ant. O mesmo que galé. Cf. Conquista do Peru, IV. (B. lat. lagona, do lat. lacuna)
 lagocéfalo |adj.| Zool. Que tem cabeça semelhante á da
 lebre, isto é, que tem fendido o lábio superior. (Do gr.
@@ -398,7 +398,7 @@ lagreta #,(grê)# |f.| Peixe de Portugal.
 lágria |f.| Gênero de insectos coleópteros heterómeros.
 lagriário |adj.| Relativo ou semelhante á lágria. |M.| pl. Trı́bo de insectos, que tem por typo a lágria.
 lagrifas |f.| pl. Gı́r. do Pôrto. Olhos.
-lágrima |f.| Gota de humor lı́mpido, que sái do ôlho e é delaivo terminada por uma causa phýsica ou por um abalo moral. Ext. Gota de um lı́quido. Objecto, que tem a forma dessa gota. * Fig. Pequena porção; um tudonada. * Resina ou goma, que apparece no tronco de algumas árvores, resultante da picada de certos insectos, e que prejudica as mesmas árvores. * Prov. alent. Vinho, que se faz com o sumo, produzido só pelo pêso da uva, quando amontoada. * Pop. O mesmo que fúchsia. (Do lat. lacrima)
+lágrima |f.| Gota de humor lı́mpido, que sái do ôlho e é delaivo terminada por uma causa phýsica ou por um abalo moral. |Ext.| Gota de um lı́quido. Objecto, que tem a forma dessa gota. * Fig. Pequena porção; um tudonada. * Resina ou goma, que apparece no tronco de algumas árvores, resultante da picada de certos insectos, e que prejudica as mesmas árvores. * Prov. alent. Vinho, que se faz com o sumo, produzido só pelo pêso da uva, quando amontoada. * Pop. O mesmo que fúchsia. (Do lat. lacrima)
 lágrima-de-sangue |f.| Bot. Planta ranunculácea, (baeticus, Coss.).
 lagrimação |f.| (V. lacrimação)
 lagrimal #,1 # |m.| (V. lacrimal ) |adj.| (V. lacrimal )
@@ -930,7 +930,7 @@ lapim #,1 # |m.| Prov. minh. O mesmo que larápio.
 lapim #,2 # |m.| Sarja de seda, fina e preta, com que se faziam mantilhas para senhoras. Cf. Camillo, Mem. do Cárcere, II, 29.
 lapina |m.| Prov. O mesmo que larápio. (Cp. larapinar )
 lapinha |f.| Ant. Espécie de representação popular.
-lápis |m.| Substância escura e pouco consistente, que é um carboneto do ferro ou plombagina, e que serve para escrever ou desenhar. Ext. Qualquer substância, que tenha fórma oblonga, o com que se possa escrever ou desenhar. (Lat. lapis. Cp. entretanto cast. lápiz, que parece indicar outra or.)
+lápis |m.| Substância escura e pouco consistente, que é um carboneto do ferro ou plombagina, e que serve para escrever ou desenhar. |Ext.| Qualquer substância, que tenha fórma oblonga, o com que se possa escrever ou desenhar. (Lat. lapis. Cp. entretanto cast. lápiz, que parece indicar outra or.)
 lápis-lazúli |m.| O mesmo que lazulite.
 lapisada |f.| Traço a lápis. Cf. Garrett, Retr. de Vénus, 71.
 lapiseira |f.| Tubo ou caixa, em que se guardam os lápis.
@@ -1172,7 +1172,7 @@ látego |m.| Azorrague, chicote de cordas ou de correias. Inquerideira. * Bras. 
 latejante |adj.| Que lateja.
 latejar |v. i.| Arquejar. Palpitar; pulsar: latejam-lhe as fontes.
 latejo |m.| Acto ou effeito de latejar.
-latente |adj.| Que se não vê, que está occulto. |Gram.| Que se subentende: concordância latente. Ext. Dissimulado. (Lat. latens)
+latente |adj.| Que se não vê, que está occulto. |Gram.| Que se subentende: concordância latente. |Ext.| Dissimulado. (Lat. latens)
 later #,1 # |v. i.| Ant. Estar occulto. Cf. |F.| Manuel, Carta de Guia, XXIX. (Lat. latere)
 later #,2 # |v. i.| O mesmo que latejar.–É verbo defectivo. Só vejo empregada a 3.ª pess. do sing. do pres. do indic., como poderia empregar-se a 3.ª do pl. “Em vão lhe late o peito de insoffrido.” Filinto. VII, 248. Cf. Garrett, Flor. sem Fruto, 198.
 lateral |adj.| Relativo a lado. Transversal; que está ao lado. (Lat. lateralis)
@@ -1244,7 +1244,7 @@ latirostro #,(ros)# |adj.| Zool. Que tem bico largo e chato. |M.| pl. Famı́lia
 laudel
 latirrostro |adj.| Zool. Que tem bico largo e chato. |M.| pl. Famı́lia de aves, caracterizadas por um bico muito achatado. (Do lat. latus + rostrum)
 latitude |f.| Arco do meridiano, comprehendido entre o Equador e a vertical de qualquer lugar com o plano do Equador. Distância, que vai do Equador a um lugar do globo, medida em graus sôbre o meridiano dêsse lugar. Ângulo, formado pela vertical de um lugar parallelo á ecliptica e á
-linha recta que passa por um astro e por um centro dado naquelle plano. Ext. Clima. Fig. Amplitude. Desenvolvimento; extensão. (Lat. latitudo)
+linha recta que passa por um astro e por um centro dado naquelle plano. |Ext.| Clima. Fig. Amplitude. Desenvolvimento; extensão. (Lat. latitudo)
 latitudinário |adj.| Amplo; amplificado; extensivo. Arbitrário na interpretação. (Do lat. latitudo)
 latitudinarismo |m.| Seita inglesa, que sustenta a máxima tolerância religiosa e a doutrina do que todos os homens se salvarão. (De latitudinário)
 latitudinarista |m.| Partidário do latitudinarismo.
@@ -1255,7 +1255,7 @@ latoeiro |m.| Aquelle que trabalha em lata ou latão; funileiro. (De latão)
 latrante |adj.| Poét. O mesmo que ladrante. (Lat. latrans)
 latria |f.| Adoração devida a Deus. Fig. Adoração. (Do gr. latreia)
 latrina |f.| Lugar para dejecções; cloaca. (Lat. latrina)
-latrinário |adj.| Relativo á latrina. Que vive nas latrinas. Ext. Immundo; repugnante: publicações latrinárias.
+latrinário |adj.| Relativo á latrina. Que vive nas latrinas. |Ext.| Immundo; repugnante: publicações latrinárias.
 latrineiro |m.| Aquelle que guarda ou limpa latrinas.
 latrocinar |v. t.| Roubar violentamente. Commeter latrocı́nio contra. Cf. D. Ant. da Costa, Três Mundos, 223. (Lat. latrocinari)
 latrocı́nio |m.| Roubo violento, á mão armada. (Lat. latrocinium)
@@ -1287,7 +1287,7 @@ Lobo, III, 193. (R. lat. laura)
 lauráceas |f.| pl. O mesmo ou melhor que laurı́neas.
 laurbanense |adj.| Relativo a Lorvão ou ao convento de
 Lorvão. Cf. Herculano, Quest. Públ., I, 200.
-láurea |f.| Ant. Corôa de loiros. Laurel. Ext. Galardão, prêmio. (Lat. laurea)
+láurea |f.| Ant. Corôa de loiros. Laurel. |Ext.| Galardão, prêmio. (Lat. laurea)
 laurear #,1 # |v. t.| (V. larear )
 laurear #,2 # |v. t.| Coroar de loiros. Galardoar. Fig. Enfeitar. Festejar. (Lat. laureare)
 laureio |m.| Prov. trasm. Acto de laurear1 .
@@ -1381,7 +1381,7 @@ laverco |m.| Macho da laverca. Cf. B. Pato, Livro do Monte. Homem finório e tra
 lavoeira |f.| Prov. trasm. O mesmo que lavoura.
 lavoira |f.| Preparação do terreno para sementeira ou plantação. Agricultura. Acto de cultivar a terra. Terra cultivada. * Prov. alent. Exploração agricola e pecuária de uma herdade ou grupo de herdades. (Do b. lat. laboria. Cf. B. Pereira, Prosódia)
 lavoisiéreas |f.| pl. Bot. Trı́bo de melastomáceas, na classificação de De-Candolle. (De Lavoisier, |n. p.| )
-lavor |m.| Trabalho manual. Labor. Ext. Trabalho. Ornato em relêvo. Obra do agulha, feita por desenho: a pequena é hábil em lavores. Lavrado. * Crystallização superficial nas salinas, que impede a evaporação e, portanto, a formação do sal. (Lat. labor )
+lavor |m.| Trabalho manual. Labor. |Ext.| Trabalho. Ornato em relêvo. Obra do agulha, feita por desenho: a pequena é hábil em lavores. Lavrado. * Crystallização superficial nas salinas, que impede a evaporação e, portanto, a formação do sal. (Lat. labor )
 lavorar |v. t.| Fazer lavores em; lavrar. (Lat. laborare)
 lavorear |v. t.| Prov. trasm. Adornar muito, tornar primoroso. (De lavor )
 lavoso |adj.| Relativo a lava; que é da natureza da lava.
@@ -1400,7 +1400,7 @@ lavramento |m.| Acto de lavrar.
 lavrança |f.| Ant. Lavra; terra lavradia. (De lavrar )
 lavrandeira |f.| Des. Mulher, que faz lavores; bordadeira; costureira. Cf. G. Vicente e Ribeiro Chiado. (Cp. lavradeira)
 lavrante |adj.| Que lavra. |M.| Artista, que lavra em oiro ou prata.
-lavrar |v. t.| Fazer regos com arado em: lavrar a terra. Ext. Cultivar (terras). Fig. Cinzelar. Aplainar. Bordar. Abrir ornatos em. Preparar com lavores. Construı́r. Corroer. Consignar; inscrever: lavrar um epitáphio. Explorar (minas). |V. i.| Alastrar-se: a epidemia vai lavrando. Avultar; desenvolver-se. (Lat. laborare)
+lavrar |v. t.| Fazer regos com arado em: lavrar a terra. |Ext.| Cultivar (terras). Fig. Cinzelar. Aplainar. Bordar. Abrir ornatos em. Preparar com lavores. Construı́r. Corroer. Consignar; inscrever: lavrar um epitáphio. Explorar (minas). |V. i.| Alastrar-se: a epidemia vai lavrando. Avultar; desenvolver-se. (Lat. laborare)
 laxação |f.| Acto ou effeito de laxar. (Lat. laxatio)
 laxamente |adv.| De modo laxo; froixamente.
 laxante |adj.| Que laxa. |M.| Purgante ligeiro. (Lat. laxans)
@@ -1425,8 +1425,8 @@ lazarina |f.| Arma de fuzil, comprida e de pequeno calibre, que se fabrı́ca na
 Lázaro, de Braga. Cf. Capello e Ivens, I, 7. (De Lázaro, |n. p.| )
 lazarismo |m.| Doutrina dos lazaristas.
 lazarista |m.| Membro da Ordem religiosa de San-Vicente de Paulo. (De lázaro)
-lázaro |m.| Aquelle que é leproso. Ext. Aquelle que está coberto de chagas ou pústulas. * T. de Évora e ant. O mesmo que asylado: o producto do bazar foi para os lázaros. (B. lat. lazarus)
-lazarone |m.| Mendigo de Nápoles. Ext. Mendigo. (It. lazarone)
+lázaro |m.| Aquelle que é leproso. |Ext.| Aquelle que está coberto de chagas ou pústulas. * T. de Évora e ant. O mesmo que asylado: o producto do bazar foi para os lázaros. (B. lat. lazarus)
+lazarone |m.| Mendigo de Nápoles. |Ext.| Mendigo. (It. lazarone)
 lazeira |f.| Miséria. Desgraça. Lepra. Fig. Fome: cair de
 lazeira. (De lázaro)
 lazeirar |v. i.| Têr lazeira; estar esfomeado.
@@ -1761,15 +1761,15 @@ lenitivo |adj.| Próprio para lenir. |M.| Lenimento; laxante. Fig. Allı́vio; c
 lenocı́nio |m.| Acto de proporcionar, estimular ou facilitar a devassidão ou a corrupção de alguém. (Lat. lenocinium)
 lentação |f.| Des. Lentidão, demora: “...dá-la ao prelo sem mais lentação...” Varnhagem, no pról. do Diário da Naveg., de Pero Lopes.
 lentamente |adv.| De modo lento; paulatinamente; devagar.
-lentar |v. t.| Tornar lento, húmido. |V. i.| Tornar-se um tanto húmido. Ext. Transpirar um pouco. (Lat. lentare)
-lente #,1 # |adj.| Que lê. |M.| Professor da Universidade. Ext. Professor de uma escola superior ou de um lyceu. * Des.
+lentar |v. t.| Tornar lento, húmido. |V. i.| Tornar-se um tanto húmido. |Ext.| Transpirar um pouco. (Lat. lentare)
+lente #,1 # |adj.| Que lê. |M.| Professor da Universidade. |Ext.| Professor de uma escola superior ou de um lyceu. * Des.
 Leitor de qualquer obra. Cf. Pant. de Aveiro, Itiner., 21, (2.ª ed.).
 lente #,2 # |f.| Disco de vidro, que refrange os raios luminosos. (Do lat. lens, lentis)
 lenteiro |m.| Terra húmida; pântano; lameiro. * |Adj.| Prov.
 leôa Húmido. (Do rad. de lentar )
 lentejar |v. t.| Tornar húmido. |V. i.| Tornar-se húmido. (De lento)
 lentejoila |f.| Pequenina chapa circular de metal, para enfeite de vestuário. (Cast. lentejuela)
-lentejoilar |v. t.| Ornar de lentejoilas. Ext. Ornar.
+lentejoilar |v. t.| Ornar de lentejoilas. |Ext.| Ornar.
 lentejoula |f.| Pequenina chapa circular de metal, para enfeite de vestuário. (Cast. lentejuela)
 lentescente |adj.| Languinhento; pegajoso. (Lat. lentescens)
 lentescer |v. t. e i.| O mesmo que lentar.
@@ -1878,7 +1878,7 @@ lepra + logos)
 leprona |m.| Tumor, produzido pela lepra.
 leprosaria |f.| Hospital de leprosos; gafaria.
 leprose |f.| Med. Nome, que se dá á lepra, como moléstia especı́fica.
-leproso |adj.| Que tem lepra. Ext. Repugnante, que inspira nojo. Fig. Vicioso. |M.| Aquelle que tem lepra.
+leproso |adj.| Que tem lepra. |Ext.| Repugnante, que inspira nojo. Fig. Vicioso. |M.| Aquelle que tem lepra.
 leprosório |m.| Des. Hospital, onde os leprosos se abrigam e são tratados. Cf. Viterbo, Elucid. (De leproso)
 leptálea |f.| Planta crucı́fera da Pérsia e da Sibéria. (Do gr. leptaleos)
 leptinite |f.| Miner. Espécie de feldspatho granuloso.
@@ -2159,7 +2159,7 @@ levirostro #,(rós)# |adj.| Zool. Que tem bico leve. |M.| pl. Famı́lia de aves
 levirrostro |adj.| Zool. Que tem bico leve. |M.| pl. Famı́lia de aves trepadôras, de bico leve. (Do lat. levis + rostrum)
 levı́sia |f.| Gênero de plantas portuláceas.
 levistónia |f.| Gênero de plantas.
-levita #,1 # |m.| * Membro da trı́bo de Levi, entre os Hebreus. Sacerdote hebreu do templo de Jerusalém. Diácono. Ext. Sacerdote. (Lat. levita)
+levita #,1 # |m.| * Membro da trı́bo de Levi, entre os Hebreus. Sacerdote hebreu do templo de Jerusalém. Diácono. |Ext.| Sacerdote. (Lat. levita)
 levita #,2 # |f.| Irón. O mesmo que sobrecasaca, mais vulgarmente labita. Cf. Garrett, Helena, VII. (Cast. levita)
 levitação |f.| Acto de levitar-se.
 levitar-se |v. p.| Neol. Erguer-se (alguém) acima do solo, nas experiências mágicas, sem que nada visı́vel o sustenha ou suspenda. (Do lat. levare)
@@ -2250,10 +2250,10 @@ libelista |m.| Aquele que faz libelo. Fig. Aquele que formúla acusações.
 libella |f.| Pequena moéda de prata, entre os Romanos, a qual valia a décima parte do denário. (Lat. libella)
 libellinha |f.| Insecto orthóptero, o mesmo que donzellinha,1177 (libellula virgo).
 libellista |m.| Aquelle que faz libello. Fig. Aquelle que formúla accusações.
-libello |m.| Exposição articulada do que se pretende provar contra um réu. Ext. Artigo ou escrito, que envolve accusação de alguém. (Lat. libellus)
+libello |m.| Exposição articulada do que se pretende provar contra um réu. |Ext.| Artigo ou escrito, que envolve accusação de alguém. (Lat. libellus)
 libéllula |f.| Designação scientı́fica da libellinha.
 libéllulo |m.| O mesmo que libéllula.
-libelo |m.| Exposição articulada do que se pretende provar contra um réu. Ext. Artigo ou escrito, que envolve acusação de alguém. (Lat. libellus)
+libelo |m.| Exposição articulada do que se pretende provar contra um réu. |Ext.| Artigo ou escrito, que envolve acusação de alguém. (Lat. libellus)
 libélula |f.| Designação cientı́fica da libelinha.
 libelulo |m.| O mesmo que libélula.
 libentemente |adv.| De bôa vontade; voluntariamente. (Do
@@ -2363,7 +2363,7 @@ licencioso |adj.| Que usa de demasiada licença; desregrado. Sensual; libertino.
 licenı́dios |m.| Fam. de lepidópteros. (Do gr. lukaina + eidos)
 licênios |m.| pl. Trı́bo de lepidópteros. (De licena)
 licetol |m.| Medicamento contra a diátese úrica.
-liceu |m.| Instituto oficial de instrucção secundária. Ext. Colégio ou estabelecimento particular de instrucção secundária. (Lat. lyceum)
+liceu |m.| Instituto oficial de instrucção secundária. |Ext.| Colégio ou estabelecimento particular de instrucção secundária. (Lat. lyceum)
 lı́chen #,(quen)# |m.| Classe de plantas cryptogâmicas, cuja vida é interrompida pela estiagem, e que formam a transição das algas para os cogumelos. * Espécie de impigem no rosto. Pl. Lı́chenes. (Lat. lichen)
 lichenáceas #,(que)# |f.| pl. Famı́lia de plantas, que comprehende os lı́chenes.
 lichêneas #,(quê)# |f.| pl. (V. lichenáceas)
@@ -2591,7 +2591,7 @@ limoal |m.| Pomar de limoeiros. (De limão)
 limoctonia |f.| Morte por falta de alimento. (Do gr. limos + ktonos)
 limoeiro |m.| Planta auranciácea, do gênero laranjeira. Planta rutácea, (citrus medica). (De limão)
 limões |m.| pl. Prov. alent. O mesmo que chedas.
-limonada |f.| Bebida refrigerante, em que entra limão ou ácido cı́trico. Ext. Bebida refrigerante.
+limonada |f.| Bebida refrigerante, em que entra limão ou ácido cı́trico. |Ext.| Bebida refrigerante.
 limonadeira |f.| Mulher, que vende limonada.
 limonadeiro |m.| Fabricante ou vendedor de limonadas.
 limonado |adj.| O mesmo que limoado.
@@ -2743,7 +2743,7 @@ lingulado |adj.| Que tem a fórma de uma pequena lı́ngua. (De lingula)
 lingumoeno #,(mo-e)# |m.| Pequeno peixe africano. Cf. Serpa Pinto, I, 298.
 linguneta #,(nê)# |f.| Prov. minh. Tirante espalmado, que de um lado se liga por anéis de ferro, móveis, ao temão do vessadoiro, e do outro á trentoira.
 linguo-palatal |adj.| Gram. Que se pronuncia, encostandose a lı́ngua ao céu da bôca.
-linha |f.| Fio de linho. Ext. Fio de algodão, seda, etc.: novelo de linhas. Fio de metal, para as communicações telegráphicas. Cordão. Barbante, com um anzol na extremidade, para pescar peixe miúdo. Estrema, balisa, raia. Fileira: colloquem-se em linha. Categoria. A extensão, considerada com uma só dimensão ou comprimento. Traço: duas
+linha |f.| Fio de linho. |Ext.| Fio de algodão, seda, etc.: novelo de linhas. Fio de metal, para as communicações telegráphicas. Cordão. Barbante, com um anzol na extremidade, para pescar peixe miúdo. Estrema, balisa, raia. Fileira: colloquem-se em linha. Categoria. A extensão, considerada com uma só dimensão ou comprimento. Traço: duas
 linhas parallelas. Lineamento. Cada um dos traços horizontaes de uma pauta de música. Trave horizontal, em que assentam as pernas da asna. Duodécima segunda parte de uma pollegada. Pequeno sinal gráphico, que se colloca á direita de uma letra, para a distinguir de outra, (em Álgebra). Serviço de transportes, entre dois pontos por determinada via: esta mercadoria veio pela linha do Sul. Direcção: seguiu em linha recta. Procedimento. Série de graus ou gerações de uma famı́lia. Estrada: linha férrea. Náut. Linha de barca, linha, graduada por meio de nós, que se prende á barquinha, instrumento para medir a velocidade do navio. * Náut. Linha de água, secção que descreve a superfı́cie da água á roda do navio. * |Loc. fam.| Têr a linha, têr o aprumo ou a gravidade, que convém a certas posições sociaes. Pl. Carta: estimo que estas linhas o encontrem restabelecido. (Lat. linea)
 linhaça |f.| Semente do linho.
 linhaça-vermelha |f.| Nome que, em Vianna, se dá ao pintarroxo.
@@ -3221,7 +3221,7 @@ livrilho |m.| A mais interior da casca dos vegetes, adherente ao alburno. (Do la
 livro |m.| Reunião de cadernos manuscritos ou impressos e cosidos ordenadamente. Composição literária ou scientı́fica, mais extensa que um folheto e constituindo volume. Fig. Aquillo que ensina ou instrue como um livro. Um dos estômagos dos ruminantes. Reunião de estampas, cosidas, formando volume. * |Loc.| pop. Livro de quarenta fôlhas, baralho de cartas. (Do lat. liber )
 livrório |m.| Deprec. Livro grande, mas de pouco merecimento; cartapácio. Cf. Camillo, Noites de Insómn., IX, 65.
 livruxada |f.| Burl. Grande porção de livros; livralhada. (Do rad. de livro)
-lixa |f.| Peixe do gênero esqualo, cuja pelle escabrosa serve para polir madeira, metaes, etc. A pelle dêste peixe. Ext. Papel que tem adherente uma camada de areia, e que serve para polir madeira ou metal. Bras. do Pará. Simbaiba. * Variedade de maçan doce, de pelle áspera e escura. (Do cast. lija)
+lixa |f.| Peixe do gênero esqualo, cuja pelle escabrosa serve para polir madeira, metaes, etc. A pelle dêste peixe. |Ext.| Papel que tem adherente uma camada de areia, e que serve para polir madeira ou metal. Bras. do Pará. Simbaiba. * Variedade de maçan doce, de pelle áspera e escura. (Do cast. lija)
 lixa-de-lei |f.| (V. barroso, peixe)
 lixa-de-pau |f.| Peixe plagióstomo, negro-violáceo, de pequenas escamas e focinho curto.
 lixação |f.| O mesmo que lixiviação. (Lat. lixatio)
@@ -3579,7 +3579,7 @@ longirrostro |adj.| Zool. Que tem bico comprido. |M.| pl. Famı́lia de aves per
 longı́ssimo |adv.| Muito longe.
 longitarso |adj.| Anat. Que tem o tarso longo. (De longo + tarso)
 longitroante |adj.| Que trôa ao longe. Que rebôa por muito tempo. Cf. Castilho, Fastos, I, 91. (De longe ou longo + troar )
-longitude |f.| Arco do Equador, comprehendido entre o meridiano inicial e o meridiano de qualquer lugar. Ângulo diedro, formado pelo plano do meridiano de um lugar com o plano do meridiano inicial ou principal. Ext. O mesmo que distância. (Lat. longitudo)
+longitude |f.| Arco do Equador, comprehendido entre o meridiano inicial e o meridiano de qualquer lugar. Ângulo diedro, formado pelo plano do meridiano de um lugar com o plano do meridiano inicial ou principal. |Ext.| O mesmo que distância. (Lat. longitudo)
 longitudinal |adj.| Extenso em comprimento. Collocado ao comprido. Que está na direcção do comprimento de um objecto ou órgão, ou no sentido do eixo principal de um órgão. (Lat. longitudinalis)
 longitudinalmente |adv.| De modo longitudinal. No sentido do comprimento.
 longo |adj.| Extenso, no sentido do comprimento: rua longa. Que dura muito: vida longa. |Loc. prep.| Ao longo de, por toda a extensão, segundo o comprimento, de. * |Loc. adv.| ant. Á longa, ao longe. (Lat. longus)
@@ -3616,9 +3616,9 @@ lophóphyto |m.| Planta brasileira, parasita de certas árvores. (Do gr. lophos 
 lophospérmia |f.| Gênero de plantas de jardim.
 lophote |m.| Gênero de peixes acanthopterýgios. O mesmo que lopho? (Do gr. lophos)
 loquacidade |f.| Qualidade de quem é loquaz. (Lat. loquacitas)
-loquaz |adj.| Que fala muito ou com facilidade; palrador. Ext. Eloquente. Fig. Que produz grande rumor. (Lat.
+loquaz |adj.| Que fala muito ou com facilidade; palrador. |Ext.| Eloquente. Fig. Que produz grande rumor. (Lat.
 loquax )
-loquela #,(cu-é)# |f.| Faculdade de falar. Linguagem. Ext.
+loquela #,(cu-é)# |f.| Faculdade de falar. Linguagem. |Ext.| 
 Loquacidade. (Lat. loquela)
 loquete #,(quê)# |m.| Cadeado, embude. (Fr. loquet)
 loquial |adj.| Relativo aos lóquios.
@@ -3834,8 +3834,8 @@ luctı́fico |adj.| Poét. O mesmo que luctı́fero. Cf. |F.| Barreto, Eneida, V
 luctı́sono #,(so)# |adj.| Poét. Que tem um tom lúgubre. (Lat. luctisonus)
 luctı́ssono |adj.| Poét. Que tem um tom lúgubre. (Lat. luctisonus)
 lucto |m.| (e der.) O mesmo que luto, etc.
-lucubração |f.| Acto de lucubrar. Estudo prolongado ou outro trabalho, feito de noite. Vigı́lia. Ext. Meditação grave. Estudo profundo. (Lat. lucubratio)
-lucubrar |v. i.| Trabalhar á luz, de noite. Passar as noites, estudando. Ext. Dedicar-se a longos trabalhos intellectuaes. * |V. t.| Fazer com trabalho, durante a noite ou durante noites. Estudar ou apprender, trabalhando dedicada e assiduamente. Cf. Camillo, Narcót., II, 8. (Lat. lucubrare)
+lucubração |f.| Acto de lucubrar. Estudo prolongado ou outro trabalho, feito de noite. Vigı́lia. |Ext.| Meditação grave. Estudo profundo. (Lat. lucubratio)
+lucubrar |v. i.| Trabalhar á luz, de noite. Passar as noites, estudando. |Ext.| Dedicar-se a longos trabalhos intellectuaes. * |V. t.| Fazer com trabalho, durante a noite ou durante noites. Estudar ou apprender, trabalhando dedicada e assiduamente. Cf. Camillo, Narcót., II, 8. (Lat. lucubrare)
 lúcula |f.| Ruga luminosa, que se cruza com outras na superfı́cie do Sol. (Do lat. lux )
 luculentamente |adv.| De modo luculento.
 luculento |adj.| Poét. Brilhante; esplêndido; illuminado. (Lat. luculentus)
@@ -4016,13 +4016,13 @@ lurte, alude?)
 lúrtia |f.| Prov. trasm. O mesmo que lurta.
 luscar |v. i.| Ant. Brincar, divertir-se. (Talvez de lusco)
 luscı́nia |f.| Gênero de pássaros insectı́voros, a que pertence o rouxinol. (Lat. luscinia)
-lusco |adj.| Que tem só um ôlho ou vê só de um ôlho. Vesgo. Ext. Que não vê; cego. * |Loc. adv.| ant. “Entre lusco & fusco”, á hora do crepúsculo. Eufrosina, 156. (Lat. luscus)
+lusco |adj.| Que tem só um ôlho ou vê só de um ôlho. Vesgo. |Ext.| Que não vê; cego. * |Loc. adv.| ant. “Entre lusco & fusco”, á hora do crepúsculo. Eufrosina, 156. (Lat. luscus)
 lusco-fusco |m.| O anoitecer; a hora do crepúsculo.–Filinto, VII, 84, diz lusque-fusque.lusismo
 lusismo |m.| P. us. O mesmo que lusitanismo. (De luso)
 lusitânico |adj.| Relativo á Lusitânia ou aos Lusitanos. Cf.lustriverde |adj.| Que tem lustro ou brilho, verdejando. Cf.
 Lusı́adas, IX, 58.
-lusitanismo |m.| Costume próprio de Lusitanos. Ext. Locução vernácula portuguesa: “por toda a parte lhe estão pullulando lusitanismos em vocábulos...” Castilho, Primavera, 151.
-lusitano |adj.| Relativo á Lusitânia ou aos seus habitantes. * Ext. Relativo a Portugal ou aos Portugueses. |M.| Habitante da Lusitânia. (Lat. lusitanus)
+lusitanismo |m.| Costume próprio de Lusitanos. |Ext.| Locução vernácula portuguesa: “por toda a parte lhe estão pullulando lusitanismos em vocábulos...” Castilho, Primavera, 151.
+lusitano |adj.| Relativo á Lusitânia ou aos seus habitantes. * |Ext.| Relativo a Portugal ou aos Portugueses. |M.| Habitante da Lusitânia. (Lat. lusitanus)
 luso Elemento, que entra na composição de várias palavras, com a designação de lusitano ou de relativo a Portugal.
 luso-africano |adj.| Relativo a Portugal e á África.
 luso-americano |adj.| Relativo a Portugal e á América.
@@ -4061,7 +4061,7 @@ lustro #,2 # |m.| Pop. O mesmo que polimento. (De lustrar )
 lustro #,3 # |m.| Prov. trasm. O mesmo que relâmpago.
 lustrosamente |adv.| De modo lustroso.
 lustroso |adj.| Que tem lustre. Em que há brilho. Fig. Esplêndido; magnifico; notável. (De lustrar )
-luta |f.| Combate entre dois indivı́duos, braço a braço. Ext. Peleja; guerra. Conflicto. Contenda. Esfôrço, empenho. (Lat. lucta)
+luta |f.| Combate entre dois indivı́duos, braço a braço. |Ext.| Peleja; guerra. Conflicto. Contenda. Esfôrço, empenho. (Lat. lucta)
 lutador |m.| O que luta; athleta. (Lat. luctator ) |adj.| O que luta; athleta. (Lat. luctator )
 lutante |adj.| Que luta. (Lat. luctans)
 lutar #,1 # |v. i.| Travar luta. Brigar; combater. Fig. Esforçarse; altercar. (Lat. luctari)
@@ -4157,7 +4157,7 @@ lycena |f.| Gênero de insectos lepidópteros diúrnos. (Do gr. lukaina)
 lycenı́dios |m.| Fam. de lepidópteros. (Do gr. lukaina + eidos)
 lycênios |m.| pl. Trı́bo de lepidópteros. (De lycena)
 lycetol |m.| Medicamento contra a diáthese úrica.
-lyceu |m.| Instituto official de instrucção secundária. Ext. Collégio ou estabelecimento particular de instrucção secundária. (Lat. lyceum)
+lyceu |m.| Instituto official de instrucção secundária. |Ext.| Collégio ou estabelecimento particular de instrucção secundária. (Lat. lyceum)
 lýchnis |f.| Pedra preciosa, muito brilhante, mencionada porlychnite Plı́nio. Nome, que os Romanos deram a uma variedade de rosas, de côr muito viva. (Lat. lychnis)
 lychnite |f.| Mármore, que se extrahia das pedreiras de Paros, á luz de lâmpadas. (Lat. lychnites)
 lychnı́tide |f.| Planta, de que os antigos faziam mechas. (Lat. lychnitis)
