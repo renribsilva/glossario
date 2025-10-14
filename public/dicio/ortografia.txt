@@ -6,3 +6,5 @@ rh    r
 th    t
 
 //REGRAS PARA CONSOANTES MUDAS
+bb    b
+cc    c
