@@ -163,7 +163,6 @@ function editarArquivoComPipe(letra: string) {
       depois = depois.replace(regex, match => ` |${match.trim()}| `);
       // Caso 2: prefixo no início da linha
       const regexInicio = new RegExp(`^\\s*${trimmed}\\s*`, 'gi');
-      // console.log(regexInicio)
       antes = antes.replace(regexInicio, match => `|${match.trim()}| `);
     }
 
