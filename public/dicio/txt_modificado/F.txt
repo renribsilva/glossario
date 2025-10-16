@@ -72,8 +72,8 @@ facear |v. t.| Fazer faces ou lados de; esquadriar.
 facécia |f.| Qualidade de facêto. Phrase ou modos daquelle que é facêto. (Lat. facetia)
 facecioso |adj.| O mesmo que facêto. (De facécia)
 faceira |f.| Carne das partes lateraes do focinho dos bois.
-Fam. Faces gordas. * Bras. Mulher affectada. |M.| e
-f. Pessôa alegre, galhofeira. * Peralta, petimetre. |F.| pl. Correias, que fazem parte da cabeçada e se ligam á extremidade do freio. * Prov. trasm. Veiga; terra plana de lavoira, perto de povoação. Seara: as faceiras de centeio. (De face)
+|Fam.| Faces gordas. * Bras. Mulher affectada. |M.| e
+|f.| Pessôa alegre, galhofeira. * Peralta, petimetre. |F.| pl. Correias, que fazem parte da cabeçada e se ligam á extremidade do freio. * Prov. trasm. Veiga; terra plana de lavoira, perto de povoação. Seara: as faceiras de centeio. (De face)
 faceiramente |adv.| De modo faceiro.
 faceirar |v. i.| Bras. Têr maneiras elegantes; vestir com elegância. (De faceiro)
 faceirice |f.| Bras. Tafularia; elegância. Ar pretensioso. Aspecto risonho. (De faceiro)
@@ -1234,7 +1234,7 @@ feitio, têr-se esforçado debalde. Pl. Des. Excremento de coelho, raposa, etc. 
 feito #,1 # |adj.| Acostumado, afeito: “braço ás armas feito.” Lusı́adas. Exercitado. Crescido, adulto: homem feito. Amadurecido. Resolvido, assente: é contrato feito. Conformado. Constituido: casa feita de tijolo. * Preparado para
 ferir ou lutar, (falando-se de armas): “...com as espadas
 feitas ferozmente lhe sobrevinha”. Filinto, D. Man., II, 5; “correm com as lanças feitas”. Idem, Ibidem, I, 27. * |Loc.| 
-fam. Está feito, na realidade; mesmo assim: está feito, não te saı́ste tão mal, como eu suppunha. (Do lat. factus)
+|fam.| Está feito, na realidade; mesmo assim: está feito, não te saı́ste tão mal, como eu suppunha. (Do lat. factus)
 feito #,2 # |m.| Facto. Acto. Empresa. Façanha. O parceiro que, no voltarete e em outros jogos, declara têr jôgo, e joga contra os outros parceiros. * |Loc. adv.| De feito, effectivamente, com effeito. Pl. Processos judiciaes: mandou chamar o fiel dos feitos. (Lat. factum)
 feito #,3 # |m.| Prov. minh. O mesmo que fêto.
 feitor |m.| Gestor. Administrador de bens alheios. Rendeiro. * Prov. Capataz. Aquelle que superintende nos trabalhadores. Fabricante. |Adj.| Fazedor. (Do lat. factor )
@@ -1628,7 +1628,7 @@ fescennino |adj.| Burlesco; obsceno. Diz-se dos escritos licenciosos e obscenos 
 fescoço #,(cô)# |m.| Prov. alent. O mesmo que pescoço.
 feso #,(fê)# |adj.| (us. em Melgaço, por feito, de fazer )
 festa |f.| Propriamente, o dia feriado, dia de descanso, dia santificado, dia de regosijo. Regosijo. Solennidade, ceremónias, com que se celebra um facto. Commemoração.
-Fam. Trabalheira, cuidados. Facto extraordinário. Pl. Carı́cias. Bôas festas, cumprimentos ou felicitações, por occasião do Natal ou da Páschoa. (Do lat. festum)
+|Fam.| Trabalheira, cuidados. Facto extraordinário. Pl. Carı́cias. Bôas festas, cumprimentos ou felicitações, por occasião do Natal ou da Páschoa. (Do lat. festum)
 festada |f.| Prov. dur. O mesmo que tocata.
 festança |f.| Festa ruidosa; grande divertimento. (De festa)
 festanga |f.| Pop. Festa reles.
@@ -1885,7 +1885,7 @@ figueito |m.| Prov. trasm. O mesmo que fêto. (Do lat. filictum)
 figulina |f.| Ant. Vaso de barro. (De figulino)
 figulino |adj.| Feito de barro. Que se póde amassar como o barro. Fig. Domesticável; dócil. (Lat. figulinus)
 fı́gulo |m.| Gênero de insectos coleópteros pentâmeros, da
-fam. dos lamellicórneos. (Lat. figulus)
+|fam.| dos lamellicórneos. (Lat. figulus)
 figura |f.| Aspecto. Fórma exterior; exterioridade. Representação. Importância social. Pessôa, vulto. Espaço, terminado por linhas ou superfı́cies. Plano de uma construcção. Carta de jôgo, que tem figura. Busto ou corpo de pessôa, esculpido, estampado ou desenhado. Imagem. Sýmbolo.
 Fórma de expressão, em que há permittidas alterações phonéticas, morphológicas ou syntácticas. Maneira de dizer, que, pela graça ou vivacidade, se afasta da linguagem commum. Chul. Rosto, cara: foi-lhe á figura. * Pl. Heráld. Os objectos que se collocam no campo do escudo e que também se dizem peças ou móveis. (Lat. figura)
 figurabilidade |f.| Qualidade de figurável.
@@ -1964,7 +1964,7 @@ filáucia |f.| Amor próprio; egoismo; presumpção, vaidade. (Gr. philautia)
 filaucioso |adj.| Que tem filáucia.
 filé |m.| Gı́r. Grande desejo ou empenho. * Palpite, espe-filédono rança, em certo ganho. * O mesmo que filete.
 filédono |m.| Gênero de pássaros, estabelecido por Cuvier na
-fam. dos dentirostros.
+|fam.| dos dentirostros.
 fileira |f.| Série de coisas, animaes ou pessôas, em linha recta. Linha; ala. Pau de fileira, cumeeira, a parte mais alta de um edifı́cio, na qual se apoia a extremidade superior dos caibros. (De fila 1 )
 filele |m.| Tecido especial de várias côres, próprio para fabrico e consêrto de bandeiras e galhardetes. (Cp. cast. fileli)
 filerete #,(lerê)# |m.| Espécie de junteira. Pl. Rêdes, em que se metem sacos de algodão, cortiça, etc., e com que se guarnecem os bordos do navio contra as balas dos inimigos. (Do rad. do lat. filum)
@@ -3691,7 +3691,7 @@ francela |f.| Prov. beir. O mesmo que queijeira. (Do rad. de francelho)
 francelho #,(cê)# |m.| Barrileira ou mesa, que tem em volta um sulco, em que se junta, e donde cai para um balde, o soro da coalhada, nas queijarias. Tagarela. Indivı́duo, que se exaggera no apêgo a francesismos e coisas francesas. Espécie de falcão, (falco tinnunculus). * O mesmo que gavião, (accipiter nisus). (De francês)
 francella |f.| Prov. beir. O mesmo que queijeira. (Do rad. de francelho)
 francês |m.| Indivı́duo natural da França. A lı́ngua dessa nação. |Adj.| Relativo a França: o povo francês. Fig. Que é fingidamente delicado. Hypócrita; falso. * |Loc. adv.| 
-fam. Á francesa, á grande, com esplendor. (Do b. lat. francensis)
+|fam.| Á francesa, á grande, com esplendor. (Do b. lat. francensis)
 francesear |v. i.| Falar francês, sabendo-o mal. Cf. Filinto, XII, 218; III, 212; Hyssope, 131.
 francesia |f.| Imitação dos costumes ou da linguagem dos
 Franceses; francesismo. (De francês)
@@ -4622,7 +4622,7 @@ fungàgá |m.| O mesmo que fun-fun-gá-gá.
 fungão #,1 # |m.| O que toma rapé amiudadas vezes. * Pop. Nariz. * Pop. Criança, que chora. (De fungar ) |adj.| O que toma rapé amiudadas vezes. * Pop. Nariz. * Pop. Criança, que chora. (De fungar )
 fungão #,2 # |m.| Gênero de cogumelos. Cravagem. Excrescência na pelle ou nas mucosas, em fórma de cogumelo. (Do lat. fungus)
 fungar |v. t.| Absorver pelo nariz. |V. i.| Produzir som, absorvendo o ar pelo nariz ou tomando uma pitada de rapé.
-Fam. Resmungar. Sibilar. * |Fam.| Chorar, respirando só pelo nariz; choramingar. (T. onom.)
+|Fam.| Resmungar. Sibilar. * |Fam.| Chorar, respirando só pelo nariz; choramingar. (T. onom.)
 fungicida |adj.| Agr. Que destrói os fungos ou fungões. (Do
 furabugalhos lat. fungus + caedere)
 fúngico |adj.| Diz-se de um ácido, extrahido de certos cogumelos. (De fungo 1 )

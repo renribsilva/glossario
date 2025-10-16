@@ -108,7 +108,8 @@ abafado |adj.| Que se respira com difficuldade: ar abafado. Pouco ou mal ventila
 abafador |adj.| Que abafa, que suffoca: calor abafador. |M.| Peça, que em certos instrumentos abafa o som, suspendendo a vibração das cordas. * |M.| Aquelle que, em certas seitas, apressava a morte ao moribundo, afogando-o com
 almofadas, para que não peccasse, depois de consolado pelo sacerdote. * Prov. Pano, com que se cobre o bule do chá, para que êste não arrefeça.
 abafadura |f.| O mesmo que abafamento.
-abafamento |m.| Acto de abafar. Falta de ar. Abafante. |Adj.| O mesmo que abafador.
+abafamento |m.| Acto de abafar. Falta de ar. Abafante.
+|Adj.| O mesmo que abafador.
 abafar #,1 # |v. t.| Tirar o bafo a; suffocar: o calor abafava os espectadores. Suffocar; asphyxiar. Impedir a combustão de: abafar o lume. Dissimular, conter: abafar um grito. Impedir a continuação de: abafar a questão. Esconder:
 abafar uma carta. Agasalhar com roupas: abafar a criança. Vin. Impedir a fermentação de (mosto). |V. i.| Respirar a custo: eu abafo. |V. p.| Agasalhar-se com roupas. * Prov. Cavar e preparar (o terreno), para a sementeira do milho. (Colhido em Alcanena)
 abafar #,2 # |m.| Peixe plagióstomo, cinzento por cima e esbranquiçado por baixo.
@@ -9171,7 +9172,7 @@ anatematizador |adj.| Que anatematiza. Cf. Herculano, Opúsc., III, 14.
 anatematizar |v. t.| Excommungar; banir da communhão dos fiéis. Condemnar; reprovar. (Do gr. anathematizein)
 ânates |m.| Doença do ânus.
 anáthema |m.| Excommunhão. Maldicção. Reprovação.
-Adj. Excommungado; maldito. (Gr. anathema)
+|Adj.| Excommungado; maldito. (Gr. anathema)
 anathematismo |m.| Acto solemne, que envolve anáthema.
 anathematização |f.| Acto de anathematizar.
 anathematizador |adj.| Que anathematiza. Cf. Herculano, Opúsc., III, 14.
@@ -9290,7 +9291,7 @@ andadeira |f.| Ant. O mesmo que almocreveria. Prov. trasm. Brinquedo de rapazes,
 andadeiras |m.| pl. Tiras de pano, com que se seguram as crianças pela cintura, para as ensinar a andar. (De andar )
 andadeiro |adj.| Que anda muito. Em que se póde andar facilmente.
 andador |m.| Moço de recados. Aquelle que pede, de porta em porta, esmolas para suffragar as almas do Purgatório.
-Adj. O mesmo que andadeiro. (B. lat. andator )
+|Adj.| O mesmo que andadeiro. (B. lat. andator )
 andadoria |f.| Cargo de andador.
 andadura |f.| Modo de andar.
 andagem |f.| Ant. Casa de um só pavimento ou andar. (De
@@ -12843,7 +12844,7 @@ apurado |adj.| Escolhido como melhor. Delicado: gosto apurado. Bem vestido; vest
 apurador |m.| O que apura. |adj.| O que apura.
 apuramento |m.| Acto e effeito de apurar. Contagem, liquidação: apuramento de uma votação.
 apurar |v. t.| Tornar puro. Aperfeiçoar. Escolher. Concluir. Averiguar: apurar a verdade. Discutir. Suavizar. Recensear. Tornar distinto, elegante. Esgotar: apurar a paciência. * Bras. de Minas Vender, liquidar.Apurativo,
-adj. Purificante; depurativo. (De apurar )
+|adj.| Purificante; depurativo. (De apurar )
 apuridar-se |v. p.| Ant. Segredar. (De puridade)
 apuro |m.| Acto de apurar. Apuramento. Correcção no vestir, no falar, etc. Miséria; situação angustiosa: viu-se em
 apuros. * |m.| Somma de quantias apuradas.
@@ -14048,7 +14049,7 @@ armorácia |f.| Planta crucifera, espécie de rábano bravo. (Gr. armorakia)
 armorejado |adj.| O mesmo que armoriado. Cf. Camillo, Estrêl. Fun., pról.
 armoriado |adj.| Heráld. Que tem armas ou brasões, applicados, pintados ou esculpidos. (De armoriar )
 armorial |m.| Livro, em que estão registados os brasões. *
-Adj. Relativo á Armaria ou a brasões. (Fr. armorial )
+|Adj.| Relativo á Armaria ou a brasões. (Fr. armorial )
 armoriar |v. t.| Heráld. Pôr armas ou brasões em; empregar os sýmbolos da nobreza em. Cf. Camillo, Suicida, 7. (Fr.
 armorier )
 armórico |adj.| O mesmo que bretão.
@@ -15573,7 +15574,7 @@ asséptulina |f.| Solução medicamentosa, que se emprega no tratamento da tuber
 asserção |f.| Affirmação; allegação. (Lat. assertio)
 asserenar |v. t.| (e der.) (V. serenar, etc.)
 asserio |m.| Uva branca da Extremadura, Alentejo e Algarve.
-Adj. Prov. alent. Diz-se de certos legumes, quando são de bôa qualidade. (Cp. assario)
+|Adj.| Prov. alent. Diz-se de certos legumes, quando são de bôa qualidade. (Cp. assario)
 assertivo |adj.| O mesmo que affirmativo.
 asserto |m.| O mesmo que affirmação. (Lat. assertum)
 assertoar |v. t.| Talhar, dispor (coletes, casacos, etc.), de fórma que uma banda se sobreponha a outra. (De sertum?)
@@ -16709,7 +16710,7 @@ augural |adj.| Relativo ao áugure. (Lat. auguralis)
 augurar |v. t.| Presagiar; predizer: augurar desgraças. Conjecturar. (Lat. augurari)
 auguratório |m.| Lugar, em que se reuniam os áugures. (Lat. auguratorium)
 auguratriz |f.| Mulher, que exercia funcções de áugures. *
-Adj. |f.| Que augura: bruxa auguratriz. (Lat. auguratrix )
+ |Adj.| Que augura: bruxa auguratriz. (Lat. auguratrix ) |f.| Que augura: bruxa auguratriz. (Lat. auguratrix )
 áugure |m.| Sacerdote romano, que tirava preságios do vôo e do canto das aves. Adivinho. Agoireiro. (Lat. augur )
 augúrio |m.| Prognóstico; agoiro. (Lat. augurium)
 augustal |m.| Antiga moéda de oiro, na Sicı́lia. (Lat. augustalis)221

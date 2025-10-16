@@ -2500,7 +2500,7 @@ passar + muro)
 passandito (dem. de passando, gerúndio de passar ): “andamos... passandito a par...” Castilho, Sonho de Uma Noite.1491 Cp. dormindinho.
 passanito |m.| Bras. |Fam.| Homem de pouca importância; qualquer sujeito. (Cp. passante)
 passante |adj.| Que passa. Excellente. * |M.| Indivı́duo, que vai passando; transeunte. Cf. Filinto, XVII, 135. * |Loc.| 
-prep. Passante de, mais de. Cf. Peregrinação, XXXVI.
+|prep.| Passante de, mais de. Cf. Peregrinação, XXXVI.
 pàssapelo #,(pê)# |m.| Ant. Guarnição de pelles, que resalta da orla das roupas. Vivos da farda militar. Cf. Garção, II, 10. (De passar + pêlo)
 pàssaporte |m.| Licença escrita, para que alguém possa saı́r do paı́s. Salvo-conducto. |Fam.| Faculdade ampla, licença. (Fr. passeport)
 passar |v. t.| Transpor; atravessar, passando de um lado para outro: passar o rio. Transportar: passar uma criança ao collo. Pôr em circulação; impingir: passar dinheiro falso. Entregar: passou o furto ao cúmplice. Furar de lado a lado: passou-o com o punhal. Coar-se através de; coar;
@@ -5365,7 +5365,7 @@ pertinazmente |adv.| De modo pertinaz.
 pertinência |f.| Des. O mesmo que pertença. (De pertinente)
 pertinente |adj.| Pertencente. Concernente. Próprio; apropositado. (Lat. pertinens)
 perto |adv.| A pequena distância: o Carlos mora perto. |Loc.| 
-prep. Perto de, junto de, próximo de: gastou perto de quatro contos. |M.| pl. Objectos próximos. Qualidades, que se distinguem, estando-se junto das pessôas ou objectos que as possuem: “...mulhér com uns pertos de taberna...” Anat. Joc., I, 258. * |Adj.| Que está a pequena distância;
+|prep.| Perto de, junto de, próximo de: gastou perto de quatro contos. |M.| pl. Objectos próximos. Qualidades, que se distinguem, estando-se junto das pessôas ou objectos que as possuem: “...mulhér com uns pertos de taberna...” Anat. Joc., I, 258. * |Adj.| Que está a pequena distância;
 próximo: “...dos mais pertos oiteiros...” Filinto, VI, 105. (Talvez contr. do lat. perrectus)
 pertucha |f.| e (der.) O mesmo que portucha, etc.
 perturbabilidade |f.| Qualidade de perturbável.
@@ -12125,7 +12125,7 @@ psalmista #,(sal )# |m.| Pessôa, que faz psalmos. Restrict.psalmo, (sal ) O rei
 psalmo #,(sal )# |m.| Cada um dos cânticos, attribuı́dos a David. Cântico de louvor a Deus. (Lat. psalmus)
 psalmodejar #,(sal )# |v. t.| O mesmo que psalmodiar. Cf. Alv. Mendes, Discursos, 39.
 psalmodia #,(sal )# |f.| Maneira de cantar ou recitar psalmos. Fig. Monotonia em declamar, recitar, lêr ou escrever. (A
-pron. exacta é salmódia, mas não se usa.) (Lat. psalmodia)
+|pron.| exacta é salmódia, mas não se usa.) (Lat. psalmodia)
 psalmodiar #,(sal )# |v. t. e i.| O mesmo que psalmear.
 psalódio |m.| Gênero de peixes.
 psaltério #,(sal )# |m.| Instrumento musical de cordas, que se dedilhavam ou se tocavam com o plectro. Instrumento triangular moderno, com treze ordens de cordas, que se ferem com uma palheta. * Veter. O mesmo que folhoso, terceiro estômago dos ruminantes. Cf. Mac. Pinto, Comp. de Veter., I, 468. (Lat. psalterium)

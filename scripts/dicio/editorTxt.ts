@@ -152,7 +152,7 @@ function editarArquivoComPipe(letra: string) {
     if (!linha.includes(' ')) return linha;
 
     const primeiroEspaco = linha.indexOf(' ');
-    const antes = linha.slice(0, primeiroEspaco + 1).replace("...", "");
+    let antes = linha.slice(0, primeiroEspaco + 1).replace("...", "");
     let depois = linha.slice(primeiroEspaco);
 
     // Colocar os pipes
@@ -162,8 +162,9 @@ function editarArquivoComPipe(letra: string) {
       const regex = new RegExp(`(?<!\\|)\\s${trimmed}\\s?(?!\\|)`, 'gi');
       depois = depois.replace(regex, match => ` |${match.trim()}| `);
       // Caso 2: prefixo no início da linha
-      const regexInicio = new RegExp(`^${trimmed}`, 'gi');
-      depois = depois.replace(regexInicio, match => `|${match.trim()}|`);
+      const regexInicio = new RegExp(`^\\s*${trimmed}\\s*`, 'gi');
+      // console.log(regexInicio)
+      antes = antes.replace(regexInicio, match => `|${match.trim()}| `);
     }
 
     // Colocar os ##
