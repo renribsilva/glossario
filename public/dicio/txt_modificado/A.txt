@@ -1552,7 +1552,7 @@ acefalomia |f.| Terat. Estado de um feto, cuja cabeça é monstruosa. (Do gr. a 
 acefalópode |m.| Monstro sem pés nem cabeça. (Do gr. a priv. + kephale + podos) |adj.| Monstro sem pés nem cabeça. (Do gr. a priv. + kephale + podos)
 acefalopodia |f.| Monstruosidade sem pés nem cabeça. |f.| Terat. Estado de acefalópode. (De acephalópode)
 acefalorraquia |f.| Monstruosidade, caracterizada pela ausência de cabeça e de coluna vertebral. (Do gr. a priv. + kephale + rakhis)
-acefalostomia |f.| Monstruosidade do acefalóstomo.acefalóstomo
+acefalostomia |f.| Monstruosidade do acefalóstomo.
 acefalóstomo |m.| Monstruosidade acéfala, que no lugar da cabeça tem uma espécie de boca. (Do gr. a priv. + kephale + stoma)
 acefalotoracia |f.| Monstruosidade sem cabeça nem thórax. (Do gr. a priv. + kephale + thorax )
 acefalotorácico |adj.| Que tem acefalotoracia.
@@ -1622,7 +1622,7 @@ acephalocárdio |adj.| Que não tem cabeça nem coração. (Do gr. a priv. + kep
 acephalogastria |f.| Monstruosidade sem cabeça nem a parte superior do ventre. (Do gr. a priv. + kephale + gaster )
 acephalogástrico |adj.| Diz-se do feto sem cabeça nem a parte superior do ventre. (De acephalogastria)
 acephalomia |f.| Terat. Estado de um feto, cuja cabeça é monstruosa. (Do gr. a priv. + kephale + alasthai)
-acephalópode |m.| Monstro sem pés nem cabeça. (Do gr. a priv. + kephale + podos)23 |adj.| Monstro sem pés nem cabeça. (Do gr. a priv. + kephale + podos)23
+acephalópode |m.| Monstro sem pés nem cabeça. (Do gr. a priv. + kephale + podos) |adj.| Monstro sem pés nem cabeça. (Do gr. a priv. + kephale + podos)
 acephalopodia |f.| Monstruosidade sem pés nem cabeça. |f.| Terat. Estado de acephalópode. (De acephalópode)
 acephalorachia #,(raqui )# |f.| Monstruosidade, caracterizada pela ausência de cabeça e de columna vertebral. (Do gr. a priv. + kephale + rakhis)
 acephalostomia |f.| Monstruosidade do acephalóstomo.
@@ -1664,7 +1664,6 @@ acerejado |adj.| Que tem côr de cereja.
 acerejar |v. t.| Dar côr de cereja a.
 acéreo |adj.| O mesmo que acerı́neo. |M.| pl. Famı́lia de molluscos gasterópodes opistóbrânchios. (De ácer )
 acérico |adj.| Diz-se do ácido que constitue a essência do ácer.
-acetabulı́fero
 acerina |f.| Gênero de peixes acanthópteros.
 acerı́neas |f.| pl. Famı́lia de plantas, da classe das aceradas. (Fem. pl. de acerineo)
 acerı́neo |adj.| Relativo ao ácer.
@@ -1701,7 +1700,7 @@ acessoriamente |adv.| De modo accessório.
 acessório |adj.| Que está junto a alguma coisa, sem della fazer parte integrante. (De acceder )
 acetabulária |f.| Alga marinha unicellular. (Do lat. acetabulum)
 acetabulário |m.| Alga marinha unicellular. (Do lat. acetabulum)
-acetabulı́fero |adj.| Que tem ventosa nos tentáculos, (falando-se de certos molluscos). |M.| pl. Ordem de molluscos, que tem sugadoiro ou ventosa na extremidade dosacetabuliforme tentáculos. (Do lat. acetabulum + ferre)
+acetabulı́fero |adj.| Que tem ventosa nos tentáculos, (falando-se de certos molluscos). |M.| pl. Ordem de molluscos, que tem sugadoiro ou ventosa na extremidade dos tentáculos. (Do lat. acetabulum + ferre)
 acetabuliforme |adj.| Que tem a fórma de taça. (De acetábulo + fórma)
 acetábulo |m.| Antigo vaso para vinagre. Cavidade cotyloı́dea. (Lat. acetabulum)
 acetacético |adj.| Diz-se de um ácido, o mesmo que diacético.
@@ -1787,7 +1786,7 @@ achadouro |m.| Lugar, onde se achou alguma coisa.
 achafundar |v. t.| Pop. Enterrar no lodo; meter no fundo da água.
 achagual |m.| Peixe das costas da América do Sul.
 achaico #,(cai )# |adj.| Relativo aos Acheus. (Lat. achaiens)
-achaina #,(cai )# |f.| Fruto monospérmico, indehiscente, cujo pericarpo adhere ao invólucro do grão e ao tubo do cálice,25 como se observa nas synanthéreas. (Do gr. a priv. + khanein)
+achaina #,(cai )# |f.| Fruto monospérmico, indehiscente, cujo pericarpo adhere ao invólucro do grão e ao tubo do cálice, como se observa nas synanthéreas. (Do gr. a priv. + khanein)
 achaio #,(cai )# |adj.| O mesmo que achaico. (Lat. achaius)
 achalmópteros |m.| pl. Divisão dos lepidópteros, no systema de Blanchard, na qual se comprehendem aquelles, cujas asas, durante o repoiso, estão erguidas.
 achaloucado |adj.| Prov. Desajeitado; precipitado. (Colhido em Turquel)
@@ -1831,7 +1830,7 @@ achegado |m.| Ant. Amigo. Partidário. Cf. Rev. Lus., XVI, 1.
 achegador |m.| O que achega. * Prov. minh. O mesmo que
 alcoviteiro. * Ant. Official de justiça.
 achegamento |m.| Acto de achegar.
-achegança |f.| Ant. Pertença. Foragem, pensão. (De acheachiro, (qui ) gar )
+achegança |f.| Ant. Pertença. Foragem, pensão. (De achegar )
 achegar |v. t.| Aproximar. Conchegar. * Ant. Ajuntar,
 adquirir. Cf. Rev. Lus., XVI, 1. (De chegar )
 acheguilho |m.| Prov. O mesmo que accessório. (De achêga)
@@ -1869,7 +1868,7 @@ achinesar |v. t.| O mesmo que achinar 1 .
 achiota |f.| Fruto do achiote.
 achiote |m.| Árvore americana, semelhante á laranjeira.
 achiria #,(qui )# |f.| Terat. Ausência congénita das mãos ou de uma só. (Do gr. a priv. + kheir )
-achiro #,(qui )# |m.| Peixe pleuronecto, semelhante ao lin-achivo, (qui ) guado. (Do gr. a priv. + ckeir, mão)
+achiro #,(qui )# |m.| Peixe pleuronecto, semelhante ao linguado. (Do gr. a priv. + ckeir, mão)
 achivo #,(qui )# |m.| O mesmo que grego da Thessália ou do Peloponneso; grego. (Lat. achivus) |adj.| O mesmo que grego da Thessália ou do Peloponneso; grego. (Lat. achivus)
 achlamı́deas |adj.| pl. Bot. Diz-se das flôres, que não têm cálice nem corolla. (Do gr. a priv. + chlâmide) |f.| pl. Bot. Diz-se das flôres, que não têm cálice nem corolla. (Do gr. a priv. + chlâmide)
 achlâmydas |adj.| pl. Diz-se das algas, cujos filamentos são desprovidos de segundo envoltório. (Do gr. a priv. + khlamus) |f.| pl. Diz-se das algas, cujos filamentos são desprovidos de segundo envoltório. (Do gr. a priv. + khlamus)
@@ -1945,8 +1944,7 @@ acidimetria |f.| Applicação do acidı́metro.
 acidı́metro |m.| Apparelho para medir o ácido contido num lı́quido. (De ácido + gr. metron)
 ácido |m.| Corpo, que se combina com uma base, para formar saes, em Chı́mica. Substância azêda. |Adj.| Azêdo. Acre. * |M.| pl. Corpos, derivados dos álcooes e dos aldehidos, por oxydação. (Lat. acidus)
 acidopirástica |f.| Med. Exploração ou sondagem das partes profundas de um organismo.
-acidose |f.| Med. Impregnação ácida dos tecidos, que se observa especialmente nos diabéticos em imminência de27
-acleia coma. (De ácido)
+acidose |f.| Med. Impregnação ácida dos tecidos, que se observa especialmente nos diabéticos em imminência de coma. (De ácido)
 acidotão |m.| Planta euphorbiácea da Jamaica. (Do gr. akidotos)
 acidrado |adj.| Semelhante á cidra.
 acidulacão |f.| Acto de acidular. Cf. |F.| Lapa, Techn. Rur., 477.
@@ -2028,7 +2026,7 @@ aclaradamente |adv.| De modo aclarado.
 aclaramento |m.| (V. aclaração)
 aclarar |v. t.| Tornar claro: a aurora aclarou o céu. Deixar vêr. Embranquecer. Purificar: aclarar o vinho. Manifestar. Deslindar; explicar: aclarar um negócio. Evidenciar. |V. i.| Tornar-se claro: o dia aclarou. (Lat. clarare)
 aclavado |adj.| Bot. Diz-se de certos órgãos vegetaes, que têm a fórma de clava. Cf. Benevides, Gloss. Bot. (Lat. clavatus)
-acleia |f.| Planta, semelhante ao cardo mosto. (Grego akleia)aclerizar-se
+acleia |f.| Planta, semelhante ao cardo mosto. (Grego akleia)
 aclerizar-se |v. p.| Tornar-se clérigo, fazer-se padre. Adquirir costumes de clérigo. (De clero)
 aclésia |f.| Mollusco gasteropode opistobrânchio.
 aclia |f.| Planta, semelhante ao cardo mosto. (Grego akleia)
@@ -2113,8 +2111,7 @@ açoiteiras |f.| pl. Bras. do S. Ponta das rédeas, com que o cavalleiro açoita
 acoiteza |f.| Ant. O mesmo que coito, abrigo.
 acoito |m.| Acto de acoitar; lugar onde alguém se acoita; coito. Cf. R. Jorge, El Greco, 21.
 acolá |adv.| Além, naquelle lugar. (Do lat. eccu’illac)
-acolasto |m.| Insecto diptero, de órgãos geradores muito desenvolvidos. (Do gr. akolastos)29
-acôndylo
+acolasto |m.| Insecto diptero, de órgãos geradores muito desenvolvidos. (Do gr. akolastos)
 acólcetra |f.| Ant. O mesmo que cócedra. (Do lat. culcita)
 acolchetador |m.| O que acolcheta.
 acolchetamento |m.| Acto ou effeito de acolchetar.
@@ -2193,7 +2190,7 @@ acondicionável |adj.| Que se póde ou se deve acondicionar.
 acondiçoar |v. t.| O mesmo que acondicionar.
 acôndilo |m.| Anat. Que não tem côndilo. (Do gr. a priv. + kondulos)
 acondimentar |v. t.| O mesmo que condimentar. Cf. Camillo, Caveira, 352; Arn. Gama, Motim, 433.
-acôndylo |m.| Anat. Que não tem côndylo. (Do gr. a priv. + kondulos)aconeı́na
+acôndylo |m.| Anat. Que não tem côndylo. (Do gr. a priv. + kondulos)
 aconeı́na |f.| Substância extrahida do acónito.
 aconfeitar |v. t.| Dar fórma de confeito a.
 aconfradar |v. t.| Tornar confrade. Abandear.
@@ -2272,8 +2269,7 @@ acorrentar |v. t.| Prender com corrente; encadear. * |V. i.| Prov. trasm. Curar-
 acorrer |v. i.| Ir em auxı́lio; acudir. (Lat. accurrere)
 acorrilhar |v. t.| Meter em corro. Acantoar.
 acorrimento |m.| Ant. Soccorro, auxı́lio. (De accorrer )
-acorro |m.| O mesmo que soccorro. (De accorrer )31
-acratópoto
+acorro |m.| O mesmo que soccorro. (De accorrer )
 acortinamento |m.| Acto ou effeito de acortinar.
 acortinar |v. t.| Ornar com cortinas.
 acoruchado |adj.| Que tem feitio de coruchéu.
@@ -2354,7 +2350,7 @@ akra + ather )
 acrático |adj.| Neol. Relativo á acracia ou aos acratas.
 acratóforo |m.| Taça para vinho, usada entre os Gregos e Romanos. (Gr. akratophoron)
 acratóphoro |m.| Taça para vinho, usada entre os Gregos e Romanos. (Gr. akratophoron)
-acratópoto |adj.| Des. Que bebe vinho puro. (Do gr. akra-acravar tos + lat. potare)
+acratópoto |adj.| Des. Que bebe vinho puro. (Do gr. akratos + lat. potare)
 acravar |v. t.| Atravessar com cravos. Traspassar. Fig.
 Attribular, affligir. (De cravo)
 acre #,1 # |m.| Medida agrária em alguns paı́ses. (Do al. aker )
@@ -2432,8 +2428,7 @@ acrochado |adj.| Prov. trasm. Muito embuçado. Embiocado (Por acarochado, de car
 acrochar-se |v. p.| Prov. trasm. Embiocar-se. Tapar o rosto quási todo, puxando para a frente o lenço ou envolvendo
 a cabeça com o chale. (Por acarochar-se, de carocha)
 acrocheta #,(quê)# Insecto dı́ptero do Brasil. (Do gr. akron + khaita)
-acrochirismo #,(qui )# |m.| Na gymnástica antiga, espécie de luta, em que os lutadores apenas se serviam da extremidade dos dedos. (Do gr. akron + kheir )33
-acrotério
+acrochirismo #,(qui )# |m.| Na gymnástica antiga, espécie de luta, em que os lutadores apenas se serviam da extremidade dos dedos. (Do gr. akron + kheir )
 acrocino |m.| Insecto coleóptero. (Do gr. akron + kineios)
 acroclado |m.| Gênero de algas.
 acrocómia |f.| O mesmo que acrócomo.
@@ -2495,7 +2490,7 @@ acrosophia |f.| A sabedoria superior. A sabedoria de Deus. (Do gr. akros + sopho
 acrospermo |m.| Espécie de cogumelo. (Do gr. akros + sperma)
 acróstico |m.| Composição poética, cujo objecto é determinado por uma palavra, cada uma de cujas letras é a primeira de cada verso. (Do gr. akros + stikhos)
 acrostólio |m.| Ornato que, em fórma de capacete, escudo, pescoço de cysne, etc., os antigos collocavam na prôa dos navios. (Gr. akrostolion)
-acrotério |m.| Pedestal das figuras, sobrepostas na frontaria de edificios. (Lat. acroterium)acroteriose
+acrotério |m.| Pedestal das figuras, sobrepostas na frontaria de edificios. (Lat. acroterium)
 acroteriose |f.| Gangrena senil das extremidades dos membros. (De acrotério)
 acrotismo |m.| Falta de pulsações. Philosophia transcendente. (Cp. lat. acroteria)
 acrotóforo |m.| Vaso, em que os Romanos tinham á mesa o vinho puro. (Do gr. akroton + phoros)
@@ -2568,8 +2563,7 @@ actividade |f.| Diligência. Faculdade de operar. (Lat. activitas)
 activo |adj.| Diligente, expedito. Que tem acção, que actua. Que opéra com energia. Ininterrupto. |Gram.| Que denota
 a acção de um verbo. (Lat. activus)
 acto |m.| O que se fez ou se póde fazer. Acção. Exame final em cada anno dos cursos de Universidade. Divisão de obra
-actinogênico |adj.| 35
-acurar dramática. (Lat. actus)
+actinogênico |adj.| dramática. (Lat. actus)
 actol |m.| Medicamento antiséptico de lactato de prata.
 actor |m.| Agente; o que pratica o acto. Aquelle que representa em theatro. (Lat. actor )
 actriz |f.| Mulher, que representa em theatro. (Fem. de
@@ -2645,7 +2639,7 @@ acupalpo |m.| Coleóptero pardo. (Do lat. acus + palpum)
 acupressura |f.| Operação cirúrgica, para suspender a hemorragia arterial ou venosa. (Do lat. acus + pressura)
 acupunctura |f.| Operação cirúrgica, em que uma agulha metállica é introduzida no corpo humano. (Lat. acupunctura)
 acuradamente |adv.| Cuidadosamente.
-acurar |v. t.| Tratar com cuidado, com desvelo. (Lat. accu-acursar rare)
+acurar |v. t.| Tratar com cuidado, com desvelo. (Lat. accurare)
 acursar |v. t.| Ven. Alcançar (certo espaço) uma espingarda com o tiro: a minha caçadeira acursa oitenta passos. (De curso)
 acurtar |v. t.| O mesmo que encurtar.
 acurvar |v. t.| O mesmo que encurvar e curvar.
@@ -2723,8 +2717,7 @@ adai |f.| Planta, de que os Abexins fazem palitos para os dentes, (salvadora per
 adail |m.| Antigo cabo de guerra. Vedeta. Caudilho. (Do ár.
 ad-dalil )
 adalide |m.| Chefe militar, entre os antigos Moiros. Cf. Garrett, D. Branca, 72.
-adamado |adj.| Vestido com affectação ou com o cuidado próprio de dama. * Prov. Diz-se do vinho que não é verde. * Prov. Diz-se do vinho licoroso, que não excede a37
-adeito fôrça alcoólica de 15%.
+adamado |adj.| Vestido com affectação ou com o cuidado próprio de dama. * Prov. Diz-se do vinho que não é verde. * Prov. Diz-se do vinho licoroso, que não excede a fôrça alcoólica de 15%.
 adamanes |m.| pl. Atabales, usados na Índia.
 adamante |m.| Planta medicinal, crucı́fera. (Lat. adamas, adamantis) additio)
 addicionação |f.| Acto ou effeito de addicionar.
@@ -2802,7 +2795,7 @@ adega |f.| Casa térrea, em que se guarda vinho envasilhado, e outras bebidas al
 adegar |v. t.| Guardar em adega. |V. i.| Fig. Beber demasiadamente.
 adegueiro |m.| Homem que trata de adega.
 adeito |m.| Prov. beir. Porção de linho, antes de assedado, e
-atado de fórma que dá ideia de uma boneca. (Colhido no Fundão)adejar
+atado de fórma que dá ideia de uma boneca. (Colhido no Fundão)
 adejar |v. i.| Librar as asas. Pairar. Esvoaçar. Voejar. (Por
 alejar, do lat. ala, asa)
 adejo #,1 # |m.| Acto de adejar.
@@ -2882,8 +2875,7 @@ adenoide |adj.| Que tem fórma de glândula. (Do gr. aden + eidos)
 adenologia |f.| Parte da Anatomia, que trata de glândulas. (Do gr. aden + logos)
 adenoma |m.| Tumor glandular. (Do gr. aden)
 adenomalacia |f.| Med. Amollecimento das glândulas. (Do gr. aden + malakia)
-adenomixoma #,(csô)# |m.| Med. Tumor, desenvolvido á custa dos elementos de uma glândula. (Do gr. aden +39
-adiáfano muxa)
+adenomixoma #,(csô)# |m.| Med. Tumor, desenvolvido á custa dos elementos de uma glândula. (Do gr. aden + muxa)
 adenomyxoma #,(csô)# |m.| Med. Tumor, desenvolvido á custa dos elementos de uma glândula. (Do gr. aden + muxa)
 adenopata |m.| O que soffre de adenopatia.
 adenopatha |m.| O que soffre de adenopathia.
@@ -2961,7 +2953,7 @@ adhortar |v. t.| Exhortar. Excitar, estimular. Cf. Rui Barbosa, Répl., 157.
 adi |f.| Espécie de palmeira de San-Thomé.
 adiado |adj.| Que se adiou. Demorado, retardado. * Dizse do estudante que, não ficando approvado em exame, se considera esperado para outra época de exames.
 adiafa |f.| Prov. alent. e alg. Gorgeta, gratificação. Refeição, que se dá aos trabalhadores, depois da conclusão de uma obra. Volta dos trabadores da colheita da azeitona. O mesmo que diafa.
-adiáfano |adj.| Que não é transparente; opaco. (De apriv. + diáphano)adiáforo
+adiáfano |adj.| Que não é transparente; opaco. (De apriv. + diáphano)
 adiáforo |adj.| Accessório, não essencial. (Gr. adiaphoros)
 adiamantado |adj.| Brilhante e duro, como o diamante.
 adiamento |m.| Acto ou effeito de adiar.
@@ -3049,7 +3041,7 @@ adjectivado |adj.| Diz-se do estilo ou da linguagem em que
 abundam os adjectivos ou termos empregados adjectivamente.
 adjectival |adj.| P. us. Relativo ao adjectivo.
 adjectivamente |adv.| Á maneira de adjectivo.
-adjectivar |v. t.| Acompanhar de adjectivo. Qualificar. To-41 mar como adjectivo. * Ornar (uma phrase, um periodo) com grande cópia de adjectivos.
+adjectivar |v. t.| Acompanhar de adjectivo. Qualificar. Tomar como adjectivo. * Ornar (uma phrase, um periodo) com grande cópia de adjectivos.
 adjectivo |m.| Gram. Palavra, que se junta ou se refere a outra, para a qualificar ou determinar, indicando louvor, vitupério, meio, ou accidente. |Adj.| Que se junta. Adjecto. Relativo ao adjectivo. (Lat. adjectivus)
 adjecto |adj.| Accrescentado. (Lat. adjectus)
 adjudicação |f.| Acto ou effeito de adjudicar.
@@ -3086,8 +3078,7 @@ adminicular |adj.| O mesmo que adminiculante. * |V. t.| Subsidiar.
 adminiculativo |adj.| Que serve para adminicular.
 adminı́culo |m.| Subsı́dio. Auxı́lio, apoio. |M.| pl. Enfeites, que orlam uma medalha. (Lat. adminiculum)
 administração |f.| Gerência de negócios. Acção de administrar. (Lat. administratio)
-administracionalizar |v. t.| Neol. Sujeitar aos regulamentos administrativos, ou a um systema de administração.
-adnato (Fr. administrationaliser )
+administracionalizar |v. t.| Neol. Sujeitar aos regulamentos administrativos, ou a um systema de administração. (Fr. administrationaliser )
 administradeira |f.| Bras. Mulher que administra.
 administrador |m.| O que administra. (Lat. administrator )
 administrante |adj.| Que administra. (Lat. administrans)
@@ -3126,7 +3117,7 @@ admonitório |m.| Admoestação. |Adj.| Que serve de admoestar. (Lat. admonitori
 adnasal |adj.| Anat. Diz-se de uma das peças elementares de uma das vértebras cephálicas. (De ad... + nasal )
 adnascente |adj.| Bot. Diz-se do rebento, que se apresenta na axilla dos cascos periphéricos de um bolbo. (De ad... + nascente)
 adnata |f.| Anat. Túnica exterior do globo ocular. (Fem. de adnato)
-adnato |adj.| Ligado a alguma coisa, de que parece fazeradnex... parte. (Lat. adnatus)
+adnato |adj.| Ligado a alguma coisa, de que parece fazer parte. (Lat. adnatus)
 adnex O mesmo que annex...
 adnocarcinoma |m.| Med. Cancro, de origem glandular, e que se observa principalmente no fı́gado. (Do gr. aden + karkinoma)
 adnominação |f.| (V. paranomasia) (De ad... + nominação)
@@ -3213,7 +3204,7 @@ adormir |v. i.| O mesmo que adormecer. Cf. Pacheco, Promptuário.
 adornadamente |adv.| De modo adornado. Com adôrno.
 adornado |adj.| Em que há adôrno. Enfeitado. (De adornar )
 adornamento |m.| Acto de adornar1 .
-adornar #,1 # |v. t.| Pôr adôrno em. Aformosear. (Lat. adornare)43
+adornar #,1 # |v. t.| Pôr adôrno em. Aformosear. (Lat. adornare)
 adornar #,2 # |v. i.| (V. adernar )
 adôrno |m.| Enfeite, ornato, atavio. (De adornar )
 adortar |v. t.| Exhortar. Excitar, estimular. Cf. Rui Barbosa, Répl., 157. Heráld. Que está costas com costas, (falando-se de certas peças do escudo). (Fr. adossé)
@@ -3255,7 +3246,6 @@ adrogar #,(ro)# |v. t.| Adoptar, ou tomar por adopção, pessôa de maior idade.
 adscrever |v. t.| Addicionar ao que está escripto. Inscrever, registar. Cf. Castilho, Fastos, II, 489; III, 55.
 adscripção |f.| Additamento ao que se escreveu. (Lat. adscriptio)
 adossado |adj.| 
-aduchar
 adscriptı́cio |adj.| Dizia-se do colono, obrigado a viver e trabalhar em terra determinada. (De adscripto)
 adscripto |adj.| Aditado. Arrolado. (Do lat. adscriptus)
 adsperso |adj.| Bot. O mesmo que rajado. (Lat. adspersus)
@@ -3297,7 +3287,7 @@ adubo |m.| Tempêro. Aquillo com que se aduba. * Aquillo com que se estrumam os 
 aduboiro |m.| Ant. O mesmo que adubo.
 adução |f.| Acto ou effeito de aduzir.
 aducente |adj.| Que aduz. (Lat. adducens)
-aduchar |v. t.| Náut. Colhêr e enrolar (cabo e amarra) (Deaduchas aducho)
+aduchar |v. t.| Náut. Colhêr e enrolar (cabo e amarra) (De aducho)
 aduchas |f.| pl. Náut. Voltas dos cabos enrolados. (De
 aduchar )
 aducho |adj.| Ant. Dizia-se da testemunha adduzida ou apresentada. |M.| Conducção. (Do lat. adductus)
@@ -3383,7 +3373,7 @@ adverbial |adj.| Relativo a advérbio. Equivalente a um advérbio: locução adv
 adverbialidade |f.| Qualidade de adverbial.
 adverbiar |v. t.| Empregar como advérbio, ou como terminação adverbial.
 advérbio |m.| Palavra invariável, que representa um complemento circunstancial. (Lat. adverbium)
-adversamente |adv.| De modo adverso.45
+adversamente |adv.| De modo adverso.
 adversão |f.| Advertência. Opposição. Acto de adversar. (Lat. adversio)
 adversar |v. t.| Contrariar; combater. (Lat. adversari)
 adversário |m.| Inimigo; o que se oppõe. |Adj.| Que luta contra. (Lat. adversarius)
@@ -3423,7 +3413,6 @@ aeremotoxia #,(a-e...csi )# |f.| Morte, produzida pela introducção de ar nas v
 aéreo #,1 # |adj.| Que é do ar. Que vive no ar. Semelhante ao
 ar. Que está suspenso no ar. Vão, sem fundamento. (Lat. aereus)
 aéreo #,2 # |adj.| O mesmo que éreo. (Lat. aereus)
-aerogênio #,(a-e)# 
 aerethmia #,(a-e)# |f.| Infiltração de ar no tecido cellular.
 aeretmia #,(a-e)# |f.| Infiltração de ar no tecido cellular.
 aerı́cola #,(a-e)# |adj.| Que vive no ar. (Do lat. aer + colere)
@@ -3458,7 +3447,7 @@ aeróforo #,(a-e)# |adj.| O mesmo que aerifero. (Do gr. aer + phoros)
 aerófugo #,(a-e)# |adj.| Que se oppõe á introducção do ar. Impermeável ao ar. (Do lat. aer + fugere)
 aerogastrectasia #,(a-e)# |f.| Dilatação do estômago, produzida pelos gases. (Do gr. aer + gaster + ektasis)
 aerogênio #,(a-e)# |m.| Espécie de gás de illuminação, exposto e premiado na Exposição de Paris, em 1900, e já
-adoptado em muitas povoações. (Do gr. aer + genes)aerognosia, (a-e)
+adoptado em muitas povoações. (Do gr. aer + genes)
 aerognosia #,(a-e)# |f.| Parte da Phýsica, que trata das propriedades do ar. (Do gr. aer + gnosis)
 aerognosta #,(a-e)# |m.| Indivı́duo, sabedor de aerognosia.
 aerognóstico |adj.| Relativo á aerognosia.
@@ -3530,8 +3519,7 @@ aerosýstylo #,(a-e)# |m.| Archit. Systema de intercolúmnios, que consta de col
 aerotechnia #,(a-e)# |f.| Sciência, que trata do ar ou das suas
 applicações á indústria. (Do gr. aer + tekhne)
 aerotéchnico #,(a-e)# |adj.| Relativo á aerotechnia.
-aerotecnia #,(a-e)# |f.| Sciência, que trata do ar ou das suas47
-afear
+aerotecnia #,(a-e)# |f.| Sciência, que trata do ar ou das suas
 applicações á indústria. (Do gr. aer + tekhne)
 aerotécnico #,(a-e)# |adj.| Relativo á aerotechnia.
 aeroterapeutica |f.| O mesmo que aeroterapia.
@@ -3618,7 +3606,7 @@ afeadamente |adv.| De modo afeado. Com fealdade.
 afeado |adj.| Que se tornou feio. Um tanto feio. (De afear )
 afeador |m.| O que afeia.
 afeamento |m.| Acto de afear.
-afear |v. t.| Tornar feio. (Do ant. fêo==feio)afecção
+afear |v. t.| Tornar feio. (Do ant. fêo==feio)
 afecção |f.| Phenómeno mórbido do organismo animal. (Lat. affectio)
 afectação |f.| Acto ou effeito de afectar. Fingimento. Presumpção, vaidade. (Lat. affectatio)
 afectadamente |adv.| De modo afectado.
@@ -3701,8 +3689,7 @@ affectação |f.| Acto ou effeito de affectar. Fingimento. Presumpção, vaidade
 affectadamente |adv.| De modo affectado.
 affectado |adj.| Que tem affectação. Presumido. Pretensioso. * Bras. Tı́sico, tuberculoso.
 affectante |adj.| Que affecta ou finge o que não é.
-affectar |v. t.| Fingir. Têr disposição para offender. |V. p.| 49
-afidı́fagos Esmerar-se ridiculamente. (Do lat. affectare)
+affectar |v. t.| Fingir. Têr disposição para offender. |V. p.| Esmerar-se ridiculamente. (Do lat. affectare)
 affectativo |adj.| Des. Desejoso.
 affectivamente |adv.| De modo affectivo, com affecto.
 affectividade |f.| Faculdade, relativa aos sentimentos affectivos.
@@ -3783,7 +3770,7 @@ afidalgado |adj.| Que tem ares ou maneiras de fidalgo. (De
 afidalgar )
 afidalgamento |m.| Acto de afidalgar ou de se afidalgar.
 afidalgar |v. t.| Tornar fidalgo. Dar semelhança de fidalgo a.
-afidı́fagos |m.| pl. Insectos coleópteros da secção dos trı́me-afı́dios ros. (Do gr. aphis + phagein)
+afidı́fagos |m.| pl. Insectos coleópteros da secção dos trı́meros. (Do gr. aphis + phagein)
 afı́dios |m.| pl. Nome scientifico dos pulgões, que vivem nos vegetaes e os damnificam. (Do gr. aphis + eidos)
 afifano |m.| Homem natural de Afife, no termo do Porto. Fig. Trolha, caiador.
 afincamento |m.| (V. afinco)
@@ -3860,8 +3847,7 @@ aflautar |v. t.| Tornar semelhante á flauta no feitio, no som. Tornar esguio.
 afleimar |v. t.| (V. afleumar )
 afleimar-se |v. p.| Pop. Irritar-se. Impacientar-se. (Do lat. flamma)
 afleumar |v. t.| Tornar fleumático, pachorrento. (De fleuma)
-aflição #,1 # |f.| Grande soffrimento. Atribulação. Tormento.51
-aforquilhar (Lat. afflictio)
+aflição #,1 # |f.| Grande soffrimento. Atribulação. Tormento. (Lat. afflictio)
 afligente |adj.| O mesmo que aflitivo.
 afligidamente |adv.| O mesmo que aflitivamente.
 afligidor |m.| O que aflige. |adj.| O que aflige.
@@ -3947,7 +3933,7 @@ aformoseamento |m.| Acto ou effeito de aformosear.
 aformosear |v. t.| Tornar formoso. Enfeitar.
 aformosentar |v. t.| O mesmo que aformosear.
 aforquilhamento |m.| Acto de aforquilhar.
-aforquilhar |v. t.| Prender com forquilha. Dar fórma de forquilha a.aforradamente
+aforquilhar |v. t.| Prender com forquilha. Dar fórma de forquilha a.
 aforradamente |adv.| Livremente. Cf. Herculano, Lend. e Narr., II, 67; e Bobo, 102. (De aforrar 2 )
 aforrado #,1 # |adj.| Forrado, enchumaçado. * Disfarçado em traje que não é seu. (De forrar 1 )
 aforrado #,2 # |adj.| Ant. Apressado. Cf. Góes, D. Man. II, 21.
@@ -4027,8 +4013,7 @@ afrouxar |v. t.| Tornar froixo. Alargar. Deminuir o movimento de.
 afruitejugar |v. i.| Ant. O mesmo que afruitenegar.
 afruitenegar |v. i.| Ant. O mesmo que afrutar ; tornar-se productivo, depois de sêr estéril, (falando-se de terrenos).
 afrutado |adj.| Carregado de frutos. Fecundo; prolı́fico.
-afrutar |v. i.| Carregar-se de frutos. Frutificar. * |V. t.| Prov.53
-ágapa Pôr a dar fruto; cultivar.
+afrutar |v. i.| Carregar-se de frutos. Frutificar. * |V. t.| Prov. Pôr a dar fruto; cultivar.
 afta |f.| Pequena ulceração na mucosa, principalmente dentro da bôca. (Do gr. aphtai)
 aftaguir |m.| Pendão, usado nas solennidades gentı́licas da Índia Portuguesa. Cf. Th. Ribeiro, Jornadas, II, 113.
 aftoso |adj.| Relativo a aftas. Que tem aftas.
@@ -4112,7 +4097,7 @@ aganado |adj.| Entanguido, cansado. Cf. Techn. Rur., 80; Camillo, Brasileira, 20
 aganar |v. t.| O mesmo que entanguir. |V. i.| Prov. trasm. Offegar, deitando a lı́ngua de fóra, (falando-se dos cães).
 aganı́sia |f.| Planta americana, da |fam.| das orchı́deas. (Do gr. aganos)
 aganistos |m.| pl. Gênero de insectos lepidópteros.
-ágapa |f.| O mesmo que ágape. Cf. Herculano, Lendas, II, 197.agapânthia
+ágapa |f.| O mesmo que ágape. Cf. Herculano, Lendas, II, 197.
 agapânthia |f.| Insecto coleóptero tetrâmero. (Do gr. agapao + anthos)
 agapantho |m.| Planta liliácea, de origem africana, raiz bulbosa, e flôres azues. (Do gr. agape + anthos)
 agapântia |f.| Insecto coleóptero tetrâmero. (Do gr. agapao
@@ -4191,8 +4176,7 @@ agáthodes (não Agatódes) Antigo Rei da Sicı́lia. (Lat. Agáthodes)
 agathoide |adj.| Que possue a natureza do bem. Benigno. (Gr. agathoeides)
 agati |m.| Planta leguminosa, de grãos comestı́veis, originária + anthos)
 agapanto |m.| Planta liliácea, de origem africana, raiz bulbosa, e flôres azues. (Do gr. agape + anthos)
-ágape |m.| Refeição, que os primeiros Christãos faziam em commum. (Gr. agape)55
-aggravar da Índia.
+ágape |m.| Refeição, que os primeiros Christãos faziam em commum. (Gr. agape) da Índia.
 agátias Historiador grego. (Lat. Agáthias)
 agatı́dia |f.| Insecto coleóptero tetrâmero, que vive nos cogumelos. (Do gr. agathis)
 agatı́fero |adj.| Geol. Que contém ágata. (Do gr. akhates + lat. ferre)
@@ -4268,7 +4252,7 @@ aggravadamente |adv.| Com aggravamento.
 aggravador |m.| O que aggrava. |adj.| O que aggrava.
 aggravamento |m.| Acto de aggravar.
 aggravante |adj.| Que aggrava. (Lat. aggravans)
-aggravar |v. t.| Tornar grave. Augmentar. Fazer aggravo a.aggravista (Lat. aggravare)
+aggravar |v. t.| Tornar grave. Augmentar. Fazer aggravo a. (Lat. aggravare)
 aggravista |m.| Ant. Juiz, que, nos tribunaes superiores, tomava conhecimento dos aggravos e os julgava.
 aggravo |m.| Offensa; injúria. Recurso judicial, contra uma presumida injustiça. (De aggravar )
 aggravoso |adj.| Que causa aggravo.
@@ -4350,8 +4334,7 @@ aglutinabilidade |f.| Qualidade de aglutinável: “a aglutinabilidade das bact�
 aglutinação |f.| Acto de aglutinar. (Lat. agglutinatio)
 aglutinante |adj.| Que aglutina. (Lat. agglutinans)
 aglutinar |v. t.| Collar. Unir. Reunir (palavras) a outra, principal, para formar um todo. (Lat. agglutinare)
-aglutinativo |adj.| O mesmo que aglutinante.57
-agonotheto
+aglutinativo |adj.| O mesmo que aglutinante.
 aglutinável |adj.| Que se póde aglutinar.
 agmatologia |f.| Med. Tratado das fracturas. (Do gr. agma + logos)
 agminado |adj.| Physiol. Diz-se de vários órgãos elementares da mesma espécie, quando reunidos ou aproximados. (Do lat. agminari)
@@ -4425,7 +4408,7 @@ acabando. (Gr. agonizein)
 ágono |adj.| Que não tem ângulo. (Do gr. apriv. + gonia)
 agonóstomo |m.| Gênero de insectos acanthopterýgios. (Do gr. apriv. + gonia + stoma)
 agonoteto |m.| Presidente dos jogos sagrados, na Grécia. (Gr. agonothete)
-agonotheto |m.| Presidente dos jogos sagrados, na Grécia.agora (Gr. agonothete)
+agonotheto |m.| Presidente dos jogos sagrados, na Grécia. (Gr. agonothete)
 agora |adv.| Nesta hora. Presentemente. * |Conj.| Todavia, mas: poderás mentir-me; agora enganar-me, isso nunca! (Do lat. hac + hora)
 ágora |f.| Praça pública, mercado, (entre os Gregos). (Gr. agora)
 àgóra! |interj.| e interrog. Prov. Quem sabe? deveras? Isso sim!: “àgóra pequei! ” Camillo, Bruxa, 2.ª p., c. V. (Por há + agora)
@@ -4496,8 +4479,7 @@ agrar |v. t.| Converter em agro; tornar plano (um terreno) para semear ou cultiv
 agrário |adj.| Relativo a campos. (Lat. agrarius)
 agraudar #,(gra-u)# |v. i.| Crescer, tornar-se graúdo.
 agraula |f.| Gênero de plantas gramı́neas.
-agráulias |f.| pl. Antigas festas athenienses, em honra de59
-agriotı́mico Minerva.
+agráulias |f.| pl. Antigas festas athenienses, em honra de Minerva.
 agraulis |m.| Gênero de insectos lepidópteros.
 agravação |f.| O mesmo que agravamento.
 agravadamente |adv.| Com agravamento.
@@ -4580,7 +4562,7 @@ agriote |m.| Insecto coleóptero pentâmero.
 agriothymia |f.| Tendência irresistı́vel para actos de crueldade.
 agriothýmico |adj.| Relativo á agriothymia.
 agriotimia |f.| Tendência irresistı́vel para actos de crueldade.
-agriotı́mico |adj.| Relativo á agriotimia.agripa
+agriotı́mico |adj.| Relativo á agriotimia.
 agripa |adj.| Med. Diz-se da criança que, ao nascer, apresenta primeiro os pés.
 agripalma |f.| Planta medicinal labiada.
 agripene |adj.| Diz-se das aves que têm a cauda em fórma
@@ -4662,7 +4644,7 @@ aguá |m.| Grande reptil batrácio do Brasil.
 agua-ardente |f.| (V. aguardente)
 água-de-vegeto |f.| Água vegeto-mineral.
 água-furtada |f.| O último andar de uma casa, quando a janela ou as janelas dêsse andar deitam sôbre o telhado, interrompendo-se a vertente com a construcção da mesma janela ou janelas.
-água-marinha-junquilha |f.| Espécie de pedra preciosa. Cf. Camillo, Caveira, 163.61
+água-marinha-junquilha |f.| Espécie de pedra preciosa. Cf. Camillo, Caveira, 163.
 água-mel |f.| Prov. alg. O mesmo que hydro-mel.
 água-pé #,1 (á-gu)# |f.| Bebida, que se prepara, deitando água no resı́duo ou pé das uvas, depois de feito o vinho. Vinho fraco. (De água + pé)
 água-pé #,2 (á-gu)# |m.| Bras. Nome genérico das vegetações que se criam á superfı́cie de águas estagnadas. (Do tupi)
@@ -4792,7 +4774,7 @@ aguisar |v. t.| Ant. Pôr em ordem; combinar, concertar. (De guisa)
 aguista #,(gu-is)# |adj.| Neol. Relativo a águas thermaes. |M.| 
 Aquelle que toma águas thermaes.
 aguitarrado |adj.| Que se parece á guitarra, no feitio ou no som. (De guitarra)
-agulha |f.| Pequena e fina haste de metal, aguçada de um lado, com um orifı́cio no outro, por onde se enfia a linha ou cordão que serve na costura. Offı́cio de costureira. Varinha curva, de metal, que tem, em vez de orifı́cio, um pequeno63 gancho, e que serve para fazer meia. Peça de máquina de costura, que tem o orifı́cio próximo do lado aguçado. Obelisco. * Prov. dur. Dente canino. * Prov. Fôlha de pinheiro. Lâmina de aço magnetizado, que gira livremente sôbre um fulcro. Extremidade do campanário. * Travessa horizontal, entre as orcellas, que serve, de eixo, á vara do lagar. * Prov. trasm. O pique de certas bebidas: êste vinho tem agulha. Carris de ferro móveis, para facilitar a passagem dos carros, de uma para outra via. * Lâmina de aço, que percute o fulminante nas modernas armas de fogo. * Peixe de Portugal. Ponto de juncção das espáduas. * Pique da uva, em resultado do acido carbónico. Nome de uma armação de pesca da sardinha, na costa de Cesimbra. * |Fam.| Agulha ferrugenta, pessoa intrigante. * Pl. Bras. Pedaço de carne, unido ao osso do espinhaço do boi. * T. da Guarda. Cada uma das travessas, que unem as chedas do carro. * Cume da cernelha do cavallo. (It. aguglia, do lat. hyp. acucula, de acus)
+agulha |f.| Pequena e fina haste de metal, aguçada de um lado, com um orifı́cio no outro, por onde se enfia a linha ou cordão que serve na costura. Offı́cio de costureira. Varinha curva, de metal, que tem, em vez de orifı́cio, um pequeno gancho, e que serve para fazer meia. Peça de máquina de costura, que tem o orifı́cio próximo do lado aguçado. Obelisco. * Prov. dur. Dente canino. * Prov. Fôlha de pinheiro. Lâmina de aço magnetizado, que gira livremente sôbre um fulcro. Extremidade do campanário. * Travessa horizontal, entre as orcellas, que serve, de eixo, á vara do lagar. * Prov. trasm. O pique de certas bebidas: êste vinho tem agulha. Carris de ferro móveis, para facilitar a passagem dos carros, de uma para outra via. * Lâmina de aço, que percute o fulminante nas modernas armas de fogo. * Peixe de Portugal. Ponto de juncção das espáduas. * Pique da uva, em resultado do acido carbónico. Nome de uma armação de pesca da sardinha, na costa de Cesimbra. * |Fam.| Agulha ferrugenta, pessoa intrigante. * Pl. Bras. Pedaço de carne, unido ao osso do espinhaço do boi. * T. da Guarda. Cada uma das travessas, que unem as chedas do carro. * Cume da cernelha do cavallo. (It. aguglia, do lat. hyp. acucula, de acus)
 agulha-de-mato |f.| Planta brasileira, da |fam.| das leguminosas.
 agulha-de-pastor |f.| O mesmo que erva-agulheira.
 agulhada |f.| Ferimento com agulha.
@@ -4934,7 +4916,7 @@ ajorcado |adj.| Ant. Ataviado; loução. (Por axorcado, de axorca)
 ajornalar |v. t.| Tomar para serviço a jornal.
 ajoujador |v. t.| Que ajouja. Cf. Filinto, I, 85.
 ajoujamento |m.| Acto de ajoujar.
-ajoujante |adj.| Bras. O mesmo que ajoujador.65
+ajoujante |adj.| Bras. O mesmo que ajoujador.
 ajoujar |v. t.| Ligar com ajoujo. Carregar. Opprimir.
 ajoujo |m.| Cordão ou corrente, com que se prendem ou jungem dois animaes pelo pescoço. União violenta. * Bras. Espécie de barca, formada por duas canôas emparelhadas.
 ajóvea |f.| Árvore da Guiana, (laurus hexandra, Swertz).
@@ -5093,7 +5075,7 @@ alambazadamente |adj.| De modo alambazado.
 alambazado |adj.| Lambaz. Grosseiro. * Prov. minh. Orgulhoso. Casquilho.
 alambazar-se |v. p.| Fazer-se lambaz, glotão. Comer muito. * |v. p.| Tornar-se desajeitado, grosseiro. * Prov. trasm. Estatelar-se no chão, cair de bruços.
 alâmbel |m.| Des. Pano de côres, para cobrir mesas, tabuleiros, etc.
-alambicadamente |adv.| De modo alambicado.67
+alambicadamente |adv.| De modo alambicado.
 alar,2
 alambicado |adj.| Pretensioso; arrebicado. (De alambicar )
 alambicamento |m.| Affectação; requinte. Cf. Castilho, Tartufo, XVI.
@@ -5257,7 +5239,7 @@ albaciga |f.| Arbusto do Chile.
 albacora |f.| Peixe escômbrida, cujo gênero abrange o atum e outras espécies. (Do ár. al-bacar )
 albafar |m.| Perfume. Incenso. Peixe, o mesmo que albafora. (Do ár. ?)
 albafôr |m.| Ant. Espécie de perfume, extrahido da raiz de uma planta.
-albafora #,(fô)# |f.| Grande peixe, das costas de Portugal. O69
+albafora #,(fô)# |f.| Grande peixe, das costas de Portugal. O
 albinismo mesmo que albacora?
 albanês #,1 # |adj.| Relativo á Albânia. |M.| Homem natural da
 Albânia. Lı́ngua dêste paı́s.
@@ -5384,7 +5366,7 @@ alcabós |m.| Nome, que os pescadores de Setúbal dão a um peixe esverdeado, a 
 alcabrós |m.| Nome, que os pescadores de Setúbal dão a um peixe esverdeado, a que na costa do norte chamam cabrão. O mesmo que cabós.
 alçação |f.| Typ. Arte de contar, separar e dobrar os exemplares de cada fôlha impressa. (De alçar )
 alcáçar |m.| O mesmo que alcácer.
-alcaçarel |m.| Ant. O mesmo que alcácer.71
+alcaçarel |m.| Ant. O mesmo que alcácer.
 alcaçaria |f.| Fábrica de curtir pelles. Arruamento de lojas. Alojamento. Alcácer. Lugar, onde os Judeus podiam comprar ou vender gêneros. (Do ár. al-caiçaria)
 alcacel #,1 # |m.| Prov. trasm. Cebolas novas, pimenteiros, tomateiros, etc., que se compram para plantar nas hortas. (Cp. alcacêr )
 alcacel #,2 # |m.| (V. alcacêr, que é como o povo diz)
@@ -5513,7 +5495,7 @@ alcaptor |m.| O mesmo que alcuptor.
 alçar |v. t.| Tornar alto, altear. Levantar. Edificar. Celebrar, exaltando. Suspender. * Proclamar, acclamar. (B. lat. altiare)
 alcaravão |m.| Ave pernalta, de arribação. (Do ár. alcaravan)
 alcaravia |f.| Planta herbácea, bisannual, umbellı́fera. (Do
-ár. al-caravia)73
+ár. al-caravia)
 alcaravis |m.| Tubo de ferro, que leva o ar, do folle á forja. (Do ár. al-carabis)
 alcárcova |f.| O mesmo que alcórcova.
 alcaria #,1 # |f.| Ant. Casa campestre, para guardar instrumentos de lavoira. (Ár. al-caria)
@@ -5665,7 +5647,7 @@ alcyonelas |f.| pl. Gênero de pólypos, da classe dos briozários. (De alcýon)
 alcyóneo |adj.| Relativo ao alcyão. Fig. Sereno, agradável. (Lat. alcyoneus)
 alda |f.| Ant. Medida de comprimento, correspondente a 11 decimetros.
 aldavana |f.| Planta rubiácea da Índia portuguesa, (adina cordifolia, Hork).
-aldeã (fem. de al-deão)75
+aldeã (fem. de al-deão)
 aldeaga |m.| Pessôa, que atrapalha tudo; zaranza; trapalhão. Tagarela, palrador. |f.| Pessôa, que atrapalha tudo; zaranza; trapalhão. Tagarela, palrador.
 aldeagante |m.| Prov. trasm. Pessôa alegre, desenvolta. Viandante, caminhante. |f.| Prov. trasm. Pessôa alegre, desenvolta. Viandante, caminhante.
 aldeagar |v. i.| Prov. Falar á tôa, tagarelar. Falar animadamente. Gracejar ruidosamente.
@@ -5813,7 +5795,7 @@ alentar |v. t.| Dar alento, coragem, esfôrço, a. Alimentar.
 alentecer |v. i.| Fazer-se lento.
 alentejanismo |m.| Locução privativa do Alentejo.
 alentejano |adj.| Relativo ao Alentejo. |M.| Habitante do Alentejo.
-alentejão |m.| Ant. e prov. extrem. O mesmo que alentejano. Cf. Anat. Joc., I, 123.77
+alentejão |m.| Ant. e prov. extrem. O mesmo que alentejano. Cf. Anat. Joc., I, 123.
 alfa,5
 alentejoado |adj.| Des. O mesmo que lentejoilado.
 alento |m.| Hálito, respiração. Ânimo; esfôrço. Alimento.aletria |f.| Massa de farı́nha em fios delgados, espécie de Enthusiasmo. Pl. Orifı́cios nas ventas dos cavallos. Ant. Ornatos, de que usavam as freiras na toalha da cabeça. (Cast. aliento)
@@ -5954,7 +5936,7 @@ alfarda |f.| Ant. Espécie de vestuário feminino, usado talvez só por mulheres
 alfarema |f.| Ant. Touca ou véu para a cabeça. (Do ár. al-harem)
 alfareme |m.| O mesmo que alfarema.
 alfarge #,1 # |m.| Ant. Moı́nho de vento. (Da mesma or. que alfarja)
-alfarge #,2 # |m.| Diz-se de um estilo peninsular de artes decorativas, caracterizado por lavores multiformes.79 |adj.| Diz-se de um estilo peninsular de artes decorativas, caracterizado por lavores multiformes.79
+alfarge #,2 # |m.| Diz-se de um estilo peninsular de artes decorativas, caracterizado por lavores multiformes. |adj.| Diz-se de um estilo peninsular de artes decorativas, caracterizado por lavores multiformes.
 alfarı́o |adj.| Diz-se do cavallo que brinca, saltando e rinchando. (De alfarás)
 alfarja |f.| Prov. trasm. Grande vaso de pedra, em que gira
 a roda que mói a azeitona. (Do ár. al-farche)
@@ -6104,7 +6086,7 @@ algaraviz |m.| Des. Cano de ferro, que conduz o ar, dos folles
 ao ôlho da forja.
 algarejo |m.| T. de Serpa. Pequeno algar ou furna, de mato crescido. Cf. Tradição.
 algarido |m.| Ant. O mesmo que alarido.
-algarismeira |f.| Prov. trasm. Mulher linguareira ou me-81 xeriqueira, que ao que conta accrescenta sempre alguma coisa. (De algarismo)
+algarismeira |f.| Prov. trasm. Mulher linguareira ou mexeriqueira, que ao que conta accrescenta sempre alguma coisa. (De algarismo)
 algarismo |m.| Cada um dos caracteres ou sinaes, de origem
 árabe, que representam os números.
 algaroba |f.| Bras. Planta medicinal do Rio-Grande-do-Sul,
@@ -6261,7 +6243,7 @@ alheto #,(lhê)# |m.| O mesmo que alheta 1 .
 alho |suf.| De inferioridade, má qualidade.
 alho-porro #,(pô)# |m.| Alho bravo, (allium porrum) maior que o alho commum.
 alhodra |f.| Ant. Sequestro ou confisco de terras ou fazendas.
-alhora! |interj.| (de espanto): alhora o homem! veja o que êlle diz e o que êlle faz. (Ouvido em Ílhavo e vulgar nos83
+alhora! |interj.| (de espanto): alhora o homem! veja o que êlle diz e o que êlle faz. (Ouvido em Ílhavo e vulgar nos
 alilena Açores)
 alhorca |f.| Prov. O mesmo que trepadeira, ave.
 alhote |suf.| de comparação.
@@ -6418,7 +6400,7 @@ alı́sio |adj.| Bras. O mesmo que alisado.
 alisma |f.| Planta, de haste articulada e ôca, flores rosadas e fôlhas campanuladas. (Gr. alisma)
 alismáceas |f.| pl. Famı́lia de plantas monocotyledóneas perispérmicas, a que serve de typo a alisma.
 alismo |m.| Ansiedade, inquietação mórbida. (Do gr. alusmos)
-alismoide |adj.| Semelhante á alisma. (Do gr. alisma +85
+alismoide |adj.| Semelhante á alisma. (Do gr. alisma +
 allegança eidos)
 alisonita |f.| O mesmo que alisonite.
 alisonite |f.| Mineral compacto, composto de cobre, chumbo e enxôfre. (De Alison, |n. p.| )
@@ -6573,7 +6555,7 @@ allonga |f.| Ant. O longo, a margem. (Contr. de a + la + longa)
 allónymo |m.| Aquelle que se serve do nome de outrem,
 assinando. (Do gr. allos + onuma)
 allopada |f.| Gênero de insectos do Cabo da Bôa-Esperança.
-allopatha |m.| Aquelle que exerce a allopathia.–A pronúncia87
+allopatha |m.| Aquelle que exerce a allopathia.–A pronúncia
 almagro exacta seria alopáta. (Do gr. allos + pathos)
 allopathia |f.| Systema commum de medicina, que combate
 as doenças por meios contrários a estas. (De allopatha)
@@ -6713,7 +6695,7 @@ almendrilhas |f.| pl. Prov. trasm. Arrecadas, brincos. (Cp. almandrilha)
 almenhaba |f.| Espécie de uva grande e preta.
 almenilha |f.| Ant. Certo ornato que se usava nos vestidos. (Cast. almenilla)
 almexia |f.| Ant. Espécie de túnica, que cobria o vestuário vulgar. (Do ár. almahxia)
-almiara |f.| Prov. alent. Mêda de trigo. (Do ár. almiiar )89
+almiara |f.| Prov. alent. Mêda de trigo. (Do ár. almiiar )
 almiazar |m.| Ant. Véu com franjas, para ornato de altares. (Do cast. almaizar )
 almiça |f.| O mesmo que almece.
 almice |m.| O mesmo que almece.
@@ -6860,7 +6842,7 @@ alogianos |m.| pl. Seita dos que negavam a Jesus a qualidade de Verbo eterno. (D
 alógico |adj.| Que não precisa de demonstração, para se vêr que é certo. (De alogia)
 alógono |adj.| Diz-se de um crystal, que reúne á fórma de nó
 a de um decaédro de triângulos escalenos, dos quaes câda um tem o seu ângulo plano obtuso igual á maior incidência das faces do nó. (Do gr. allos + gonos)
-álogos |m.| pl. O mesmo que alogianos.91
+álogos |m.| pl. O mesmo que alogianos.
 aloico |adj.| Diz-se de um ácido, resultante da acção do ácido sulfúrico sôbre o aloés.
 aloilado |adj.| Prov. trasm. Atoleimado; maluco.
 aloı́na |f.| Substância crystallizável, que constitue o princı́pio purgativo de aloés.
@@ -7022,7 +7004,7 @@ alpisteiro |m.| Recipiente para alpiste.
 alpivre |m.| Bot. O mesmo que erva-abelha. Cf. P. Coutinho, Flora, 151.
 alpondras |f.| pl. Pedras, collocadas, de margem a margem, num regato ou rio, para dar passagem; poldras. (Por
 alpoldras, de al + poldra?)
-alporama |m.| Vista dos Alpes, em quadro. (De Alpes, |n. p.| 93
+alporama |m.| Vista dos Alpes, em quadro. (De Alpes, |n. p.| 
 alta + gr. orama)
 alporão |m.| Ant. Torre de mesquita; almenara. Mesquita.
 alporca |f.| Designação vulgar das escrófulas. Alporque. (Cp. alporque)
@@ -7178,7 +7160,7 @@ alternato |m.| Acção ou systema de alternar.
 alternatura |f.| P. us. Acto de alternar.
 alterniflóreo |adj.| Bot. Que tem flôres alternas. (Do lat.
 alternus + flus)
-alternifólio |adj.| Bot. Que tem flôres alternas. (Do lat.95
+alternifólio |adj.| Bot. Que tem flôres alternas. (Do lat.
 alto-e-malo
 alternus + folium)
 alternı́pede |adj.| Zool. Que tem as patas alternativamente de duas côres differentes. (Do lat. alternus + pés)
@@ -7329,7 +7311,7 @@ aluminothermia |f.| Processo moderno (1902), com que se consegue thermo-chimicam
 aluminothérmico |adj.| Relativo á aluminothermia.
 aluminóxido |m.| Óxido de alumı́nio.
 aluminóxydo |m.| Óxydo de alumı́nio.
-alumı́o |m.| Prov. trasm. O mesmo que relâmpago. (De97
+alumı́o |m.| Prov. trasm. O mesmo que relâmpago. (De
 alveiro
 alumiar )
 alumno |m.| Educando. Discı́pulo. Aprendiz. (Lat. alumnus)
@@ -7483,8 +7465,7 @@ alvorar #,4 # |v. i.| O mesmo que alvorear : “alvorava uma nova Medicina...”
 alvorario |m.| Prov. trasm. O mesmo que alvarinho 3 .
 alvorecer |v. i.| Romper o dia; amanhecer. Fig. Começar a manifestar-se (uma qualidade, uma ideia, um sentimento):
 alvoreceu nelle o talento poético. (De alvor )
-alvoredo |m.| Prov. trasm. Terreno-árido, estéril. (Do sig-99
-amaldiçoado nificado não se infere que seja corrupela de arvoredo)
+alvoredo |m.| Prov. trasm. Terreno-árido, estéril. (Do sigamaldiçoado nificado não se infere que seja corrupela de arvoredo)
 alvorejar |v. i.| Mostrar-se alvo, alvorecer. |V. t.| Branquear. (De alvor )
 alvoriado |m.| Prov. alg., alent. e trasm. O que tem cabeça leve; estroina. |adj.| Prov. alg., alent. e trasm. O que tem cabeça leve; estroina.
 alvoriçar |v. t.| Ant. Fugir com susto. Debandar. |V. p.| Prov. trasm. Arripiar-se, pôr-se a pino, (falando-se do cabello). (De alvoriço)

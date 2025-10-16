@@ -158,9 +158,12 @@ function editarArquivoComPipe(letra: string) {
     // Colocar os pipes
     for (const prefixo of prefixos) {
       const trimmed = prefixo.trim().replace(/\./g, '\\$&');
+      // Caso 1: prefixo no meio da linha
       const regex = new RegExp(`(?<!\\|)\\s${trimmed}\\s?(?!\\|)`, 'gi');
-      // console.log(regex)
       depois = depois.replace(regex, match => ` |${match.trim()}| `);
+      // Caso 2: prefixo no início da linha
+      const regexInicio = new RegExp(`^${trimmed}`, 'gi');
+      depois = depois.replace(regexInicio, match => `|${match.trim()}|`);
     }
 
     // Colocar os ##
