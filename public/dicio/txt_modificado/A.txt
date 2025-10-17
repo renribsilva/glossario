@@ -7525,7 +7525,7 @@ amálago |m.| Pimenteira das Antilhas.
 amalancornado |adj.| Prov. trasm. Macambúzio, metido consigo. (Cp. melancolia)
 amalçoar |v. i.| Prov. O mesmo que amaldiçoar. (Colhido em Turquel)
 amaldiçoadamente |adv.| Com maldição.
-amaldiçoado |adj.| Maldito. Abominado.amaldiçoador
+amaldiçoado |adj.| Maldito. Abominado.
 amaldiçoador |m.| Aquelle que amaldiçôa.
 amaldiçoar |v. t.| Lançar maldição a. Execrar. Abominar com palavras de aversão.
 amalecitas |m.| pl. Povo árabe, que a Biblia diz proceder de
@@ -7600,7 +7600,7 @@ amantar |v. t.| Cobrir com manta.
 amantar-se |v. p.| Prov. extrem. O mesmo que amancebarse. (De amante 1 )
 amante #,1 # |m.| Aquelle que ama. Namorado. Aquelle que tem relações illı́citas. |Adj.| Que ama. (Lat. amans)
 amante #,2 # |m.| Náut. Cabo grosso, para içar parte do apparelho náutico. * Corrente de ferro, na ostaga da gávea alta. * Amante da bolina, cabo, cujo extremo se liga á testa da vela, tendo no outro extremo um sapatilho que se enfia na pôa da bolina.
-amanteigado |adj.| Que tem côr ou sabor de manteiga.101
+amanteigado |adj.| Que tem côr ou sabor de manteiga.
 amanteigar |v. t.| Tornar brando como manteiga. Dar côr ou sabor de manteiga a.
 amantelar |v. t.| Fortificar; cercar de muralhas. (Cp. desmantelar )
 amantético |adj.| Chul. Apaixonado. Carinhoso. (De amante)
@@ -7635,8 +7635,7 @@ amarar |v. t.| Ant. Afastar para o mar largo. |V. i.| Fazerse ao mar largo. * |V
 amararam-se-me os olhos. (De mar )
 amarasmear |v. i.| Mostrar marasmo. Cf. Camillo, Volcões, 207.
 amareado |adj.| Prov. trasm. Que começa a murchar e
-a descorar. Que começa a secar (falando-se de roupa no
-amargoso estendedoiro). (De amarear )
+a descorar. Que começa a secar (falando-se de roupa no estendedoiro). (De amarear )
 amarear |V. i.| Prov. trasm. Começar a murchar e a descorar. Começar a secar (falando-se de roupa no estendedoiro). (De marear 1 ?)
 amarecente |adj.| O mesmo ou melhor que amarescente. (De amarecer )
 amarecer |v. i.| Ant. Sentir amargura. Compadecer-se,
@@ -7672,7 +7671,7 @@ amargar )
 amargôs |adj.| Ant Amargoso. |M.| Prov. Amargor: esta fruta tem um amargor esquisito.
 amargosamente |adv.| De modo amargoso.
 amargoseira |f.| Planta, da |fam.| das meliáceas. (De amargoso)
-amargoso |adj.| O mesmo que amargo. * |M.| Bras. O mesmo que angelim. (Do b. lat. amaricosus)amargueza
+amargoso |adj.| O mesmo que amargo. * |M.| Bras. O mesmo que angelim. (Do b. lat. amaricosus)
 amargueza |f.| (V. amargura)
 amargura |f.| Sabor amargo. Fig. Angústia, afflicção. Azedume, acrimónia.
 amarguradamente |adv.| Com amargura.
@@ -7753,9 +7752,8 @@ amaryllis + forma)
 amaryllı́neas |f.| pl. Grupo de plantas amaryllidáceas.
 amarýllis |f.| Planta ornamental, typo das amaryllı́deas. (Gr. Amarullis |n. p.| )
 amarýnthias |f.| pl. Festas, que se celebravam em
-Amaryntho, em honra de Diana. (De Amaryrintho, |n. p.| 103 de uma cidade grega)
+Amaryntho, em honra de Diana. (De Amaryrintho, |n. p.| de uma cidade grega)
 amarýsias |f.| pl. Festas gregas, em honra de Ceres. Cf. Castilho, Fastos, I, 544.
-ambar-cinzento
 amatório |adj.| Relativo ao amor. Erótico. (Lat. amatorius)
 amatular-se |v. p.| Juntar-se, abandear-se, com gente de má condição. (De matula)
 amás |m.| Ant. Montão; magote. (Fr. amas)
@@ -7827,7 +7825,7 @@ ambalão |m.| Árvore indiana, de frutos amarelos. Provavelmente o mesmo que amb
 ambaló |m.| T. de Gôa. O mesmo que munguengue.
 ambaquista |adj.| Relativo a Ambaca ou aos seus habitantes. Habitante ou indı́gena de Ambaca.
 âmbar |m.| Substância sólida, parda ou preta, de cheiro semelhante ao do almı́scar. Resina fóssil, semi-transparente e quebradiça, de côr amarela, e usada em boquilhas, rosários, etc. (Do ár. anbar )
-ambar-cinzento |m.| Concreção, formada no tubo digestivoambarages de um cetáceo, (physeter macrocephalus, Lin.)
+ambar-cinzento |m.| Concreção, formada no tubo digestivo de um cetáceo, (physeter macrocephalus, Lin.)
 ambarages |m.| pl. Nome, que se dava aos servidores ou escravos dos reis de Malaca. Cf. Barros, Déc. II, l. VI, c. 6.
 ambárico |adj.| Relativo a âmbar. Feito de âmbar.
 ambarina |f.| Substância, que se extrai do âmbar pardo.
@@ -7896,7 +7894,7 @@ ambolismal |adj.| Astrol. Diz-se do anno composto de treze luas.
 ambom |m.| Ant. Espécie de tribuna ou púlpito e pedra, com duas escadas em sentido opposto, á entrada da capellamór, nalgumas igrejas do século XII. (B. lat. ambo, do lat. ambire)
 ambos |adj.| pl. Um e outro; os dois: “ambos de dois”. Garrett, Catão, 73. “Nós viemos ambos de dous”. Prestes,
 Autos. “Com ambas mãos”. Filinto, VI, 182. (Lat. ambo)
-ambotraço |m.| Instrumento, para escrever em dois papeis separados. (Do ambos + traçar )105
+ambotraço |m.| Instrumento, para escrever em dois papeis separados. (Do ambos + traçar )
 ambrar |v. i.| Ant. Fazer movimentos provocantes com as
 ancas. Cf. Cancion. da Vaticana, 1185.
 ambrária |f.| Mollusco das costas da França.
@@ -7930,7 +7928,7 @@ ambuém-de-obó |m.| Árvore da ilha de San-Thomé.
 ambulacrário |adj.| Relativo a ambulacro.
 ambulacriforme |adj.| Que tem fórma de ambulacro. (Do lat. ambulacrum + forma)
 ambulacro |m.| Lugar, plantado de árvores, em renques regulares. Mamilhos, em que se implantam os espinhos que cobrem os ouriços, (animaes). Cada uma das saliências cylindricas, que cobrem a face inferior do corpo dos echinodermes e lhes servem para a locomoção. (Lat. ambulacrum)
-ambulância |f.| Hospital móvel, que acompanha fôrças militares. Provisão de medicamentos, annexa ao serviço de comboios. Serviço especial de transportes postaes, diriamedrontar gido por pessoal destacado da direcção dos correios. (De ambulante)
+ambulância |f.| Hospital móvel, que acompanha fôrças militares. Provisão de medicamentos, annexa ao serviço de comboios. Serviço especial de transportes postaes, dirigido por pessoal destacado da direcção dos correios. (De ambulante)
 ambulante |adj.| Que anda; que não tem lugar fixo. Que vai de terra em terra ou de rua em rua: vendedor ambulante. (Lat. ambulans)
 ambular |v. i.| P. us. Passear. (Lat. ambulare)
 ambulativo |adj.| Errante; que não tem lugar fixo. Ambulante. Vagabundo. Que não pára num lugar. (Do lat. ambulare)
@@ -7966,7 +7964,7 @@ amedrontadamente |adv.| Com amedrontamento.
 amedrontado |adj.| Assustado.
 amedrontador |m.| Aquelle que amedronta.
 amedrontamento |m.| Acto de amedrontar.
-amedrontar |v. t.| Causar medo a; assustar. (Cast. amedrontar )ameetade
+amedrontar |v. t.| Causar medo a; assustar. (Cast. amedrontar )
 ameetade |f.| Fórma archaica de metade.
 amegar |v. t.| Ant. Provavelmente, corr. de amolgar.
 âmego |m.| Ant. O mesmo que âmago. Cf. Eufrosina, 295.
@@ -8043,8 +8041,7 @@ amentar #,1 # |v. t.| O mesmo que dementar.
 amentar #,2 # |v. t.| Trazer á mente; recordar. Rememorar (o nome dos finados); rezar por êlles. Responsar. Conjurar.
 amentar #,3 # |v. t.| Ligar com correias. (Lat. amentare)
 amente |adj.| Des. O mesmo que demente. (Lat. amens)
-amentı́fero |adj.| Bot. Que tem amentilhos. (Do lat. amentum + ferre)107
-amicto
+amentı́fero |adj.| Bot. Que tem amentilhos. (Do lat. amentum + ferre)
 amentiforme |adj.| Bot. Que tem fórma de amentilho. (Doametamorphose |f.| Phenómeno, observado em alguns inlat. amentum + forma)
 amentilho |m.| Bot. Espiga simples, de flôres unisexuaes
 acompanhadas de escamas, e que se separa do ramo depois da floração ou quando madura. (Do lat. amentum)
@@ -8115,7 +8112,7 @@ amicı́cia |f.| Des. O mesmo que amizade. (Lat. amicitia)
 amicidade |f.| Ant. O mesmo que amizidade. (Do lat. amicus)
 amicı́ssimo |adj.| Muito amigo. (Do lat. amicus)
 amicto |m.| Pano branco, que o sacerdote põe aos ombros,
-antes de vestir a alva. (Lat. amictus)amictório
+antes de vestir a alva. (Lat. amictus)
 amictório |m.| Espécie de chale ou lenço, com que as donzellas romanas cobriam o peito. (Lat. amictorium)
 amicuanes |f.| pl. Bras. O mesmo que amazonas.
 amı́culo |m.| Pequeno vestido. Véu. (Lat. amiculum)
@@ -8196,7 +8193,7 @@ amimalhar |v. t.| Tratar com demasiado mimo. (De mimalho)
 amimar |v. t.| Dar mimo a; tratar com mimo. Acariciar.
 amimia |f.| Med. Ausência de mı́mica ou perda da faculdade de utilizar os gestos como sinaes. (Do gr. a priv. + mimos)
 aminas |f.| pl. Chı́m. Corpos derivados do ammonı́aco pela substituição de um ou mais dos hydrogênios por um ou mais radicaes.
-amı́neas |f.| pl. Tribo de plantas, que têm por typo o âmio.109
+amı́neas |f.| pl. Tribo de plantas, que têm por typo o âmio.
 amineirar |v. t.| Bras. Dar feição ou hábitos de mineiro ou do natural de Minas-Geraes.
 amingoeira |f.| Prov. trasm. O mesmo que mangual.
 aminguar |v. i.| (e der) O mesmo que minguar, etc.
@@ -8238,8 +8235,7 @@ amiudar #,1 (mi-u)# |v. t.| Tornar miúdo.
 amiudar #,2 (mi-u)# |v. t.| Tornar frequente. Repetir. (De amiúde)
 amiúde |adv.| Frequentemente; repetidas vezes. (Do lat. minute)
 amixia #,(csi )# |f.| Med. Ausência de secreção do muco normal. (Do gr. a priv. + muxa)
-amizade |f.| Sentimento de quem é amigo. Amor. Dedicação. Benevolência. * Nome de uma armação de pesca, na costa
-ammonite da Galé. (Contr. de amizidade, do lat. amicitia)
+amizade |f.| Sentimento de quem é amigo. Amor. Dedicação. Benevolência. * Nome de uma armação de pesca, na costa da Galé. (Contr. de amizidade, do lat. amicitia)
 amizdade |f.| (Fórma archaica de amizade)
 amizidade |f.| (Fórma pop. de amizade) (Cp. amicidade)
 ammânia |f.| Gênero de plantas equatoriaes. (De Ammann, |n. p.| )
@@ -8274,7 +8270,7 @@ ammonieto |m.| O mesmo ou melhor que ammoniureto.
 ammonı́metro |m.| Apparelho, para a dosagem do ammonı́aco. (Do gr. ammoniakos + metron)
 ammónio #,1 # |m.| Combinação hypothética de um equivalente de azoto e quatro de hydrogênio. (De ammonı́aco)
 ammónio #,2 # |adj.| Relativo a Jupı́ter Âmmon.
-ammonite |f.| Gênero de molluscos cephalópodes. (De Ammon, |n. p.| )ammonitı́deos
+ammonite |f.| Gênero de molluscos cephalópodes. (De Ammon, |n. p.| )
 ammonitı́deos |m.| pl. Famı́lia de molluscos, que têm por typo a ammonite.
 ammoniureto |m.| O mesmo que ammoniato.
 ammonoı́de |adj.| Diz-se das conchas, que se assemelham á
