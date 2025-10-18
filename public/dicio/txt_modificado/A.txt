@@ -11375,7 +11375,7 @@ antorismo |m.| Rhet. Substituição de uma palavra por outra mais correcta ou ma
 antoro |m.| Planta rainunculácea, cujos sucos são venenosos. (Contr. de anti + lat. thora)
 antosoma |f.| Gênero de crustáceos.
 antosperma |m.| Pequenas concreções còradas, dispersas no tecido de certas plantas. (Do gr. anthos + sperma)
-antospermo |m.| Bot. Gênero de rubiáceas. (Cp. anthos-151 perma)
+antospermo |m.| Bot. Gênero de rubiáceas. (Cp. anthosperma)
 antropologia
 antro |m.| Caverna; cova natural, funda e escura. Habitação
 antostema |f.| Gênero de plantas euphorbiáceas. (Do gr.miserável e escura. Abrigo de criminosos. (Lat. antrum)
@@ -11532,7 +11532,7 @@ anvaló |m.| (V. amballó)
 anverso |m.| Face de medalha. (Do lat. anteversus)
 anvidos |adv.| Ant. Contra vontade; constrangidamente. Cf. Cancion. da Vaticana, 680; Cancion. Brancuti, 197; Alf. el Sábio, Cant. de Maria, 55. (Do lat. invitus)
 anvidoso |adj.| Ant. Invejoso.
-anvula |f.| Pequena árvore africana, de fôlhas simples, pecio-153 ladas, e flôres axillares, muito aromáticas.
+anvula |f.| Pequena árvore africana, de fôlhas simples, pecioladas, e flôres axillares, muito aromáticas.
 anxiedade |f.| (V. ansiedade)
 anzicos |m.| pl. Antigo povo de cannibaes, na margem direita do Zaire.
 anzina |f.| O mesmo que enzinha, árvore. (Cast. encina)
@@ -11695,7 +11695,7 @@ aparato |m.| Apresentação pomposa. Preparação para festa. Esplendor; magnifi
 aparatosamente |adv.| De modo aparatoso. Com aparato.
 aparatoso |adj.| Em que há aparato. Magnificente.
 aparçar |v. t.| Ant. O mesmo que aparceirar.
-aparceirar |v. t.| Tomar, juntar como parceiro. Associar.155
+aparceirar |v. t.| Tomar, juntar como parceiro. Associar.
 apatetado
 aparcelado |adj.| Que tem parcéis. (De parcel )
 aparcelar |v. t.| Dividir em parcelas; ordenar em parcelas.aparrar |v. i.| Prov. beir. Criar parra. |Ext.| Criar fôlhas, Dividir, fraccionar.
@@ -11839,7 +11839,7 @@ apelativamente |adv.| De modo apelativo.
 apelativo |adj.| Gram. Diz-se do nome que é commum aos indivı́duos de uma espécie ou classe. (Lat. appellativus)
 apelatório |adj.| Relativo á apelação. (Lat. appellatorius)
 apelável |adj.| De que se póde apelar.
-apelho #,(pê)# |m.| Prov. alent. e alg. Usa-se na |loc.| andar157
+apelho #,(pê)# |m.| Prov. alent. e alg. Usa-se na |loc.| andar
 aos apelhos, como quem diz andar em desordem, guerrear. (Por apêgo?)
 apelidação |f.| Acto de apelidar.
 apelidar |v. t.| Designar por apelido. Cognominar; nomear;
@@ -11989,7 +11989,7 @@ aphanı́tico |adj.| Relativo á aphanita.
 aphasia |f.| Perda total ou parcial da voz. (Do gr. a priv. + phasis)
 aphásico |adj.| Que tem aphasia.
 aphelandra |f.| Gênero de plantas solâneas. (Do gr. aphiles + aner, andros)
-aphélio |m.| O ponto mais afastado, em que um planeta se encontra, em relação ao Sol. (Do gr. apo + helios)159
+aphélio |m.| O ponto mais afastado, em que um planeta se encontra, em relação ao Sol. (Do gr. apo + helios)
 aphemia |f.| O mesmo que aphasia.
 aphérese |f.| Gram. Suppressão de sýllaba ou letra no princı́pio de palavra: batina, por abbatina. (Do gr. aphairesis)
 aphı́dios |m.| pl. Nome scientifico dos pulgões, que vivem nos vegetaes e os damnificam. (Do gr. aphis + eidos)
@@ -12154,7 +12154,7 @@ apo #,1 # |m.| Pequena constellação austral. Crustáceo branchiópode. * Desig
 apo #,2 # |m.| Prov. Haste horizontal ou levemente inclinada, que é a parte principal da charrua, e á qual se prendem as outras peças dêsse instrumento agrı́cola. (Cp. apeiro)
 ápoa |f.| Serpente do Brasil.
 ápoca |f.| Jur. Designação genérica de qualquer bilhete, em que um devedor confessa ter recebido uma quantia e se obriga a pagá-la. Cf. |F.| Borges, Dicc. Jur. (Lat. apocha)
-apocalbase |f.| Resina de uma planta euphorbiácea, com que161 os Africanos ervam as frechas.
+apocalbase |f.| Resina de uma planta euphorbiácea, com que os Africanos ervam as frechas.
 apocalı́ptico |adj.| Relativo ao Apocalipse. Fig. Diffı́cil de comprehender. Obscuro; sibyllino.
 apocalýptico |adj.| Relativo ao Apocalypse. Fig. Diffı́cil de comprehender. Obscuro; sibyllino.
 apocapnismo |m.| Med. Fumigação de vapores odorı́feros.
@@ -12308,7 +12308,7 @@ apontado |adj.| Que tem ponta; que termina em ponta. Cf. Filinto, D. Man., II, 2
 apontador |m.| Aquelle que aponta. Aquelle que faz pontas de instrumentos. Aquelle que faz pontaria. Aquelle que faz o rol e aponta o serviço e as faltas de certos trabalhadores. Livro, em que se apontam serviços ou faltas de trabalhadores. O homem, que serve de ponto nos theatros. (De apontar )
 apontamento |m.| Registo; nota; lembrança. Escrita do que se há de fazer. Plano. (De apontar 2 )
 apontar #,1 # |v. t.| Aguçar; fazer a ponta a. |V. i.| Começar a
-apparecer: quando a lua apontava...163
+apparecer: quando a lua apontava...
 apontar #,2 # |v. t.| Indicar; marcar; notar. Sugerir. Tomar nota de (letras de câmbio). Preparar. Bosquejar; mencionar de leve. (De ponto)
 apontear |v. t.| (e der.) (V. pontear, etc.)
 apontoado |adj.| Seguro com pontos largos.
@@ -12447,7 +12447,7 @@ apothécio |m.| (V. apotheca)
 apothema |m.| Geom. Linha perpendicular, tirada do centro para qualquer lado de um polýgono regular. Chı́m. Precipitado escuro, que se fórma na dissolução dos extractos vegetaes. (Do gr. apo + titheme)
 apotheóse |f.| Acção de collocar alguém em o número dos deuses. Glorificação. Elogio extraordinário. (Gr. apotheosis)
 apotheótico |adj.| Que contém apotheóse. Muito elogioso.
-apotherapia |f.| O mesmo que therapêutica.165
+apotherapia |f.| O mesmo que therapêutica.
 apóthese |f.| Cir. Posição, que deve dar-se a um membro fracturado, depois de ligada a fractura. (Gr. apothesis)
 apotiacorava |f.| Planta euphorbiácea do Pará.
 apótomo |m.| Mús. Intervallo entre dois tons. Mathem. Differença entre duas quantidades incommensuráveis.
@@ -12576,8 +12576,7 @@ apprehensivamente |adv.| De modo apprehensivo. Com apprehensão.
 apprehensı́vel |adj.| Que póde sêr apprehendido. (Lat. apprehensibilis)
 apprehensivo |adj.| Que apprehende. Receoso. Scismático. (Do lat. apprehensus)
 apprehensor |m.| Aquelle que apprehende. (Do lat. apprehensus)
-apprehensório |adj.| Que serve para apprehender. (Do lat.
-apprehensus)167
+apprehensório |adj.| Que serve para apprehender. (Do lat. apprehensus)
 apprender |v. t.| Adquirir conhecimento de: apprender música. Conservar na memória: apprender um conto. |V. i.| Fixar facilmente na memória qualquer coisa: êste rapaz
 apprende bem. Prestar-se ao ensino, á educação. (Lat. apprehendere)
 apprendiz |m.| Aquelle que apprende offı́cio ou arte; principiante. Aquelle que é pouco intelligente ou que tem pouca experiência. * Primeiro grau da Maçonaria. (B. lat. apprehendivus)
@@ -12655,7 +12654,7 @@ aprendizagem |f.| Gal (V. aprendizado)
 apres |prep.| Ant. Junto de: em poder de. (Cf. francês auprès)
 apresador |m.| Aquelle que apresa. (De apresar )
 apresamento |m.| Acto de apresar.
-apresar |v. t.| Tomar como presa, capturar; agarrar; ap-apresenciar168 prehender.aprisionado |adj.| Prisioneiro. Encarcerado. Submisso, suapresenciar |v. t.| O mesmo que presenciar. Cf. Filinto, XI, 267.
+apresar |v. t.| Tomar como presa, capturar; agarrar; ap-apresenciar prehender.aprisionado |adj.| Prisioneiro. Encarcerado. Submisso, suapresenciar |v. t.| O mesmo que presenciar. Cf. Filinto, XI, 267.
 apresentação |f.| Acto de apresentar. (B. lat. apresentactio)
 apresentador |m.| Aquelle que apresenta.
 apresentante |adj.| Que apresenta.
@@ -12730,7 +12729,7 @@ aprovar |v. t.| Julgar bom: aprovar uma acção. Louvar. Ratificar. Consentir em
 aprovativo |adj.| (V. aprobativo)
 aprovável |adj.| Digno de sêr aprovado. (Lat. approbabilis)
 aproveitação |f.| Acto de aproveitar.
-aproveitadamente |adv.| Económicamente. Com proveito.169
+aproveitadamente |adv.| Económicamente. Com proveito.
 aproveitado |adj.| Que aproveita tudo, ou de tudo sabe tirar proveito; que tem tido aproveitamento. Que dá proveito. Que foi utilizado. (De aproveitar )
 aproveitador |m.| Aquelle que aproveita.
 aproveitamento |m.| Acto de aproveitar.
@@ -12889,7 +12888,7 @@ aquiescência |f.| Acto de aquiescêr.
 aquiescêr |v. t.| Annuir, transigir. (Lat. acquiescere)
 aquietação |f.| Acto ou effeito de aquietar.
 aquietador |m.| O que aquieta. |adj.| O que aquieta.
-aquietar |v. t.| Tornar quieto. Apaziguar; serenar: tran-171 quillizar. * |V. i.| Aquietar-se: “não aquieta o pó”. Padre Vieira.
+aquietar |v. t.| Tornar quieto. Apaziguar; serenar: tranquillizar. * |V. i.| Aquietar-se: “não aquieta o pó”. Padre Vieira.
 aquı́fero |adj.| Que tem água. (Do lat. aqua + ferre)
 aquifoliáceas |f.| pl. Famı́lia de plantas, que tem por typo o aquifólio.
 aquifólio |m.| Nome scientifico do azevinho. (Lat. aquifolium)
@@ -13047,7 +13046,7 @@ aragão |m.| Bras. do Rio. Sino grande da igreja de SanFrancisco de Paula, que d
 aragem |f.| Viração; vento brando. Bafejo. (De ar )
 arágoa |f.| Gênero de plantas escrofuları́neas.
 aragoês |m.| O mesmo ou melhor que aragonês. |adj.| O mesmo ou melhor que aragonês.
-aragonês |m.| Aquelle que nasceu em Aragão. Dialecto de173
+aragonês |m.| Aquelle que nasceu em Aragão. Dialecto de
 Aragão. * Casta de uva preta. |Adj.| Relativo a Aragão. (De Aragon, |n. p.| cast.)
 aragonesa |f.| Casta de uva alentejana.
 aragonita |f.| Carbonato calcáreo crystallizável. (De Aragon, |n. p.| cast.)
@@ -13200,7 +13199,7 @@ arbóis |m.| pl. Açor. O mesmo que clarabóia.
 arbóreo |adj.| Relativo a árvore. Semelhante a árvore ou que tem a altura de uma árvore ordinária: fêto arbóreo. (Lat. arboreus)
 arborescência |f.| Qualidade do que é arborescente.
 arborescente |adj.| Diz-se das plantas herbáceas, cujos ramos adquirem consistência, como os das árvores. Que toma as proporções de uma árvore. (Lat. arborescens)
-arborescer |v. i.| Tornar-se árvore; crescer como a árvore.175 (Lat. arborescere)
+arborescer |v. i.| Tornar-se árvore; crescer como a árvore. (Lat. arborescere)
 arboreto #,(borê)# |m.| Neol. Mata; floresta; agrupamento de vegetaes lenhosos: o arboreto da Pena, em Sintra. (Lat. arboretum)
 arborı́cola |adj.| Que vive nas árvores. (Do lat. arbor + colere)
 arboricultor |m.| Aquelle que trata da cultura das árvores. (Do lat. arbor + cultor )
@@ -13351,7 +13350,7 @@ archi + ministro)
 archimoquenqueiro #,(qui )# |adj.| Que é muitı́ssimo moquenco. Cf. Filinto, Fáb. de Lafont., 160.
 archimorto #,(qui )# |adj.| Des. Que está bem morto; morto há muito tempo.
 archimosteiro #,(qui )# |m.| Mosteiro principal de uma Ordem religiosa. (De archi... + mosteiro)
-archinotário #,(qui )# |m.| Ant. Chefe dos notários. (De177
+archinotário #,(qui )# |m.| Ant. Chefe dos notários. (De
 archi + notário)
 archipélago #,(qui )# |m.| Grupo de ilhas, pouco distantes umas das outras: o archipélago dos Açores. (Do gr. arkhi + pelagos)
 archipirata #,(qui )# |m.| Chefe de piratas. Fig. Agiota, usurário. (Lat. archipirata)
@@ -13496,7 +13495,7 @@ arecı́neo |adj.| Relativo ou semelhante á areca.
 arecuno |m.| Dialecto da Guiana Inglesa.
 areeira |f.| Des. O mesmo que areeiro. Cf. Rot. do MarVerm., 164.
 areeiro |m.| Areal. Lugar, donde se extrai areia. Pequeno vaso, com areia que se deita sôbre a escrita para a secar. (Do lat. arenarius)
-areento |adj.| Que tem muita areia.179
+areento |adj.| Que tem muita areia.
 aretologia
 arefacção |f.| Dissecação das substâncias que se hão de re-arenito |m.| Saibro, cujos grãos foram ligados entre si por duzir a pó. (Do lat. arefacere)
 areia |f.| Substância mineral, granulosa ou pulverulenta, que se acumula nas praias, no leito dos rios, etc. Qualquer pó. Grânulos calcáreos da urina. |Fam.| Patétice; doidice; toleima. (Lat. arena)
@@ -13633,7 +13632,7 @@ argila |f.| Substância terrosa, esbranquiçada, formada de sı́lica e alumina.
 argiláceo |adj.| O mesmo que argiloso. (Lat. argillaceus)
 argileira |f.| Lugar, donde se extrái a argila; barreiro.
 argı́lia |f.| Gênero de plantas bignoniáceas.
-argilı́fero |adj.| Que contém argila. (Do lat. argilla + ferre)181
+argilı́fero |adj.| Que contém argila. (Do lat. argilla + ferre)
 argiliforme |adj.| Semelhante á argila. (Do lat. argilla + forma)
 argilita |f.| O mesmo ou melhor que argilite.
 argilite |f.| Xisto argiloso. (De argilla)
@@ -13775,7 +13774,7 @@ arı́a |suf.| De quantidade, repetição, etc.: cavallaria; infantaria; parçar
 ária #,2 # |f.| Prov. Doairo, bom aspecto. Physionomia. Cp. Camillo, Cavar em Ruinas, 224.
 arı́aco |adj.| O mesmo que ariano 2 .
 ariádna |f.| Espécie de aranha. Uma das estrêllas da constellação da Corôa. (Do gr. Ariadne, |n. p.| )
-ariádne |f.| Espécie de aranha. Uma das estrêllas da constel-183 lação da Corôa. (Do gr. Ariadne, |n. p.| )
+ariádne |f.| Espécie de aranha. Uma das estrêllas da constellação da Corôa. (Do gr. Ariadne, |n. p.| )
 arianismo |m.| Seita religiosa dos Arianos.
 ariano #,1 # |m.| Sectário do heresiarcha Ario, que negava a consubstancialidade do Padre com o Filho, no dogma da Trindade. (De Ario, |n. p.| )
 ariano #,2 # |adj.| Relativo aos Árias. |M.| Lı́ngua dos Árias.
@@ -13922,7 +13921,7 @@ Ant. Exército de terra. * Ant. Cilada. Armadilha. (Lat. armata)
 armadilha |f.| Qualquer artifı́cio para apanhar caça. Lôgro
 astucioso; cilada. (De armar )
 armadilho |m.| Gênero de mammiferos, da ordem dos tatus. Gênero de crustáceos. (De armado)
-armado |adj.| Munido de arma. Apparelhado. Acautelado. Heráld. Diz-se do animal, que, no escudo, apresenta dentes185 e garras com esmalte.
+armado |adj.| Munido de arma. Apparelhado. Acautelado. Heráld. Diz-se do animal, que, no escudo, apresenta dentes e garras com esmalte.
 armadoiras |f.| pl. Fasquias no costado do navio em construcção, para fixar as escoras que o suspendem. (De armar )
 armador |m.| Aquelle que arma. Proprietário de navios mercantes. Aquelle que adorna igrejas, casas, etc.
 armadouras |f.| pl. Fasquias no costado do navio em construcção, para fixar as escoras que o suspendem. (De armar )
@@ -14067,7 +14066,7 @@ arpão |m.| Instrumento, com que se pescam os grandes peixes. Fisga. Gancho, par
 arpar |v. t.| O mesmo que arpear.
 arpear |v. t.| Arpoar. Cf. Filinto, D. Man., 278.
 arpejar |v. i.| Fazer arpejos.
-arpejo |m.| Acorde de sons sucessivos, em instrumento de187 cordas. (It. arpeggio)
+arpejo |m.| Acorde de sons sucessivos, em instrumento de cordas. (It. arpeggio)
 arpentagem |f.| Medida da superfı́cie das terras. (Fr. arpentage. Cp. arpente)
 arpente |m.| Antiga medida agrária, entre os Gállios, adoptada pelos Romanos. Geira. (Cp. arapenne)
 arpento |m.| Antiga medida agrária, entre os Gállios, adoptada pelos Romanos. Geira. (Cp. arapenne)
@@ -14217,7 +14216,7 @@ arraiar #,2 # |v. t.| Agr. Decotar a rama velha de (bacêllo).
 arraigada |f.| Base, por onde a lı́ngua se prende ao osso hyoide. Parte, por onde qualquer membro do animal se prende ao corpo. * Náut. Garganta do mastro ou parte superior do mastro propriamente dito, reforçada por uma chapa de ferro. * Garganta dos amantilhos. * Correntes de ferro, que aguentam o cesto da gávea para a garganta do mastro real. (De arraigar )
 arraigado |adj.| Prov. Diz-se do indivı́duo que, em determinada terra, possue bens de raiz. (Colhido em Turquel) (De arraigar )
 arraigar |v. t.| Firmar pela raı́z; enraı̈zar. |V. i.| Lançar raizes. (Do lat. radicare)
-arraigota |f.| Prov. alent. Tronco sêco ou raiz, boa para189 queimar. (Cp. arraigar )
+arraigota |f.| Prov. alent. Tronco sêco ou raiz, boa para queimar. (Cp. arraigar )
 arrais |m.| Aquelle que commanda um barco. Patrão de lancha. (Do ár. ar-rai)
 arráiz |m.| Aquelle que commanda um barco. Patrão de lancha. (Do ár. ar-rai)
 arralentar |v. t.| Tornar ralo. Desbastar (plantações).
@@ -14363,7 +14362,7 @@ Acto de arrebentar.
 arrebentante |adj.| Heráld. Diz-se do lobo ou raposa, na postura de leão rompente.
 arrebentão |m.| (V. rebentão)
 arrebentar |v. t.| Estoirar. O mesmo que rebentar. * Apparecer subitamente: já sabem a notı́cia que hoje arrebentou?
-arrebento |m.| (V. rebento)191
+arrebento |m.| (V. rebento)
 arrebicado |adj.| Em que há arrebique ou affectação: estilo arrebicado.
 arrebicar |v. t.| Ornar com arrebique. Alindar, com affectação: a solteirona arrebicava-se muito.
 arrebique |m.| Cosmético. Enfeite exaggerado, ridı́culo. (Do
@@ -14512,7 +14511,7 @@ arrendador |m.| Aquelle que arrenda.
 arrendados |m.| pl. Lavores, em fórma de renda. Ornatos delicados e miúdos, em architectura. (De arrendar 3 )
 arrendamento |m.| Contrato, em que alguém cede a outrem, por certo tempo e determinado preço, a fruição de um prédio. O tı́tulo dêsse contrato. O preço, por que se cede a fruição temporária de um prédio. (De arrendar 1 )
 arrendar #,1 # |v. t.| Dar de renda. Tomar de arrendamento. (De renda 2 )
-arrendar #,2 # |v. t.| Sujeitar (o cavallo) á rédea. (Por arredear, de rédea)193
+arrendar #,2 # |v. t.| Sujeitar (o cavallo) á rédea. (Por arredear, de rédea)
 arrendar #,3 # |v. t.| Guarnecer com rendas. Rendilhar. (De renda 1 )
 arrendar #,4 # |v. t.| Redrar; cavar segunda vez, (vinhas ou milharaes), para lhe tirar a erva. (De arrenda)
 arrendatário |m.| Aquelle que toma de arrendamento um prédio. (De arrendar 1 )
@@ -14665,7 +14664,7 @@ arrochellar |v. t.| Des. Fortificar. (De Rochella, |n. p.| )
 arrocho #,(rô)# |m.| Acto de arrochar. Pau curto e torto, para apertar as cordas com que se ata um volume, cargas, etc. Cacete. Bordão, com que se espanca.
 arrociar |v. t. e i.| O mesmo que rociar.
 arrocova |m.| Ant. O mesmo que arricaveiro. Sentinela. (Do
-ár. ar-rocaba)195
+ár. ar-rocaba)
 arrodelar |v. t.| Cobrir, armar, com rodela. Dar fórma de rodela a.
 arrofo #,(rô)# |m.| Buraco, no remate da tarrafa.
 arrogação |f.| Acto de arrogar.
@@ -14754,7 +14753,7 @@ arruador |m.| Vadio. Arruaceiro. Aquelle que arrua ou tem
 a seu cargo o alinhamento das construcções. (De arruar )
 arruamento |m.| Série de edifı́cios ou estabelecimentos, dispostos ao longo ou aos lados de uma rua. Acto de arruar.
 arruante |m.| T. de Lanhoso. Aquelle que anda nas esfolhadas, disfarçado, a fazer galanteios. (De arruar )
-arruar #,1 # |v. t.| Dividir em ruas. Distribuir pelas ruas. Alinhar (passeios e ruas). |V. i.| Passear ostentosamente. Va-arruar,2196 diar.arrumadela |f.| (V. arrumação). Cf. Eça, P. Amaro, 466.
+arruar #,1 # |v. t.| Dividir em ruas. Distribuir pelas ruas. Alinhar (passeios e ruas). |V. i.| Passear ostentosamente. Vadiar.arrumadela |f.| (V. arrumação). Cf. Eça, P. Amaro, 466.
 arrumador |m.| Aquelle que arruma. * Bras. Criado de
 arruar #,2 # |v. i.| O mesmo que grunhir. (T. onom.)
 arruçado |adj.| Que arruçou. Que encaneceu.
@@ -14828,7 +14827,7 @@ arsı́noe Uma das filhas de Atlante, segundo a Mythologia. (Lat. Arsı́noe)
 ársis |f.| Elevação de tom. Elevação da voz. (Gr. arsis)
 arsonvalização |f.| Med. Applicação terapêutica das correntes eléctricas de alta frequência. (De Arsonval, |n. p.| )
 artabótris |m.| Bot. Gênero de anonáceas.
-ártabros |m.| pl. Povos do Noroéste da Espanha, na vizinhança do Finisterra, que se chamou Ártabro. Cf. Hercu-197 lano, Hist. de Port., I, 16.
+ártabros |m.| pl. Povos do Noroéste da Espanha, na vizinhança do Finisterra, que se chamou Ártabro. Cf. Herculano, Hist. de Port., I, 16.
 artâmia |f.| Gênero de aves africanas.
 artanita |f.| Planta medicinal, da |fam.| das primuláceas, (cyclamen europaeum, Lin.). (Do gr. artos)
 arthrómero
@@ -14966,7 +14965,7 @@ artódio |m.| Gênero de coleópteros. (Do gr. artos + eidos)
 artófago |adj.| Que prefere o pão a outro alimento. (Do gr.
 arthos + phagein)
 artóforo |m.| Ant. Cofre, em que se guardavam as hóstias consagradas. (Do gr. artos + phoros)
-artola #,1 # |f.| Bras.? Espécie de liteira? Cf. V. de Taunay,199 Ret. de Laguna, 14.
+artola #,1 # |f.| Bras.? Espécie de liteira? Cf. V. de Taunay, Ret. de Laguna, 14.
 artola #,2 # |m.| Prov. beir. Estroina; valdevinos. Janota com pouco juı́zo. (Cp. arlota)
 artolar |v. i.| Viver como artola; vadiar.
 artólatra |m.| Adorador do pão. (Do gr. artos + latrenein)
