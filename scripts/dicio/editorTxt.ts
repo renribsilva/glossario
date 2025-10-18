@@ -83,7 +83,7 @@ function editarArquivoComPipe(letra: string) {
     }
   }
 
-  // Sobe linha que só contém números
+  // Remove linha que só contém números
   for (let i = 1; i < linhas.length; i++) {
     const linhaAtual = linhas[i].trim();
     const soTemNum = /^\d+$/.test(linhaAtual);
@@ -166,7 +166,7 @@ function editarArquivoComPipe(letra: string) {
       antes = antes.replace(regexInicio, match => `|${match.trim()}| `);
     }
 
-    // Colocar os ##
+    // Colocar as hashtags
     let linhaFinal = antes + depois
     linhaFinal = linhaFinal
     .replace(
