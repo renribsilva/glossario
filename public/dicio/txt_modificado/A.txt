@@ -8349,7 +8349,7 @@ amolgamento |m.| O mesmo que amolgadura.
 amolgar |v. t.| Contundir. Esmagar. Abater; achatar. Impressionar. Obrigar a ceder; derrotar. (Do lat. emollicare)
 amolgável |adj.| Que se póde amolgar.
 amólico |adj.| Diz-se dos saes que têm por base a amolina.
-amolina |f.| Base salificável, extrahida do óleo animal de111 Dippel.
+amolina |f.| Base salificável, extrahida do óleo animal de Dippel.
 amollatar |v. t.| Prov. minh. O mesmo que amolgar. (De molle)
 amollecedor |m.| Aquelle que amollece.
 amollecer |v. t.| Tornar molle. Enervar. Abrandar. Commover. |V. i.| Tornar-se molle. (Lat. mollescere)
@@ -8388,8 +8388,7 @@ amonite. (De Ammon, |n. p.| + gr. eidos)
 amontado |adj.| Prov. trasm. Que anda a monte. Fugitivo. (De amontar 1 )
 amontanhar |v. i.| Elevar-se como montanha. Avolumar-se: “deixou amontanhar os callos”. Camillo, Mulher Fatal, 26.
 amontar #,1 # |v. t.| Dar fórma de monte a. Deixar ir para o monte. Fazer andar no monte.
-amontar #,2 # |v. i.| Importar. Elevar-se: a despesa amontou a
-amores-de-burro mil ducados. Prov. alent. Apparecer, mostrar-se, assomar: quando a lua amontava... * |V. t. e i.| Prov. O mesmo que montar.
+amontar #,2 # |v. i.| Importar. Elevar-se: a despesa amontou a mil ducados. Prov. alent. Apparecer, mostrar-se, assomar: quando a lua amontava... * |V. t. e i.| Prov. O mesmo que montar.
 amontijar |v. t.| Prov. alent. Cavar (a terra), formando montijos.
 amontilhar |v. t.| O mesmo que amontijar. Cf. Techn. Rur., 66.
 amontôa |f.| Operação agrı́cola de chegar o terreno para o pé das plantas que são susceptı́veis de raı́zes adventı́cias. (De amontoar )
@@ -8422,7 +8421,7 @@ amoreiral |m.| Lugar plantado de amoreiras.
 amorenado |adj.| Tirante a moreno; quási moreno.
 amorento |adj.| Des. Que tem amores; enamorado.
 amores #,(mô)# |m.| pl. Namôro. Objecto amado. Tempo em que se ama. (Pl. de amor )
-amores-de-burro |m.| pl. Prov. Planta da |fam.| das com-amorete, (mo-rê) postas, (kerneria pilosa).
+amores-de-burro |m.| pl. Prov. Planta da |fam.| das compostas, (kerneria pilosa).
 amorete #,(mo-rê)# |m.| Ant. Tecido, entrançado de prata.
 amoreuxia #,(csi )# |f.| Género de plantas americanas.
 amorfa |f.| Gênero de plantas leguminosas. (Do gr. a priv. e morphe)
@@ -8499,7 +8498,7 @@ amovibilidade |f.| Qualidade do que é amovı́vel.
 amovı́vel |adj.| Que póde ser afastado, transferido. Transitório. (De amover )
 âmovo-inamovı́vel |adj.| Diz-se do apparelho cirúrgico que,
 applicado no tratamento das fracturas, mantém coaptados os fragmentos ósseos, mas que póde abrir-se, para se examinar o osso. (De amovı́vel + inamovı́vel )
-amortecimento |m.| 113
+amortecimento |m.| 
 amoxamar |v. t.| Secar como moxama. Tornar magro.
 ampa |m.| Figueira de Madagáscar.
 ampalária |f.| Gênero de molluscos gasterópodes.
@@ -8536,8 +8535,7 @@ ampelotherapia |f.| Tratamento de doenças por meio das uvas. Cf. E. Monin, Hyg.
 ampembre |f.| Espécie de cabra africana.
 ampere |m.| O mesmo que ampério.
 ampérea |f.| Gênero de plantas euphorbiáceas. (De Amper, |n. p.| )
-amperı́metro |m.| Phýs. Apparelho, para medir o número
-amphı́braco de ampérios de uma corrente eléctrica. (De ampério + gr. metron)
+amperı́metro |m.| Phýs. Apparelho, para medir o número de ampérios de uma corrente eléctrica. (De ampério + gr. metron)
 ampério |m.| Phýs. Unidade de medida eléctrica, correspondente á passagem de um culômbio por segundo. (De
 Ampèr, |n. p.| Cp. cast. amperio)
 ampério-hora |m.| Phýs. Corrente eléctrica de um ampério numa hora.
@@ -8570,7 +8568,7 @@ amphibologista |m.| Aquelle que escreve ou fala amphibologicamente.
 amphiboloide |adj.| Que tem amphı́bolo. (Do gr. amphibolos + eidos)
 amphibolóstylo |adj.| Bot. Diz-se das plantas, cujo estilete é pouco visı́vel.
 amphiboloxisto |m.| Miner. Rocha primitiva, em que predomina o quartzo e a horneblanda.
-amphı́braco |m.| Pé de verso grego ou latino, com umaamphicarpo sýllaba longa entre duas breves. (Do gr. amphi + brachus)
+amphı́braco |m.| Pé de verso grego ou latino, com uma sýllaba longa entre duas breves. (Do gr. amphi + brachus)
 amphicarpo |m.| Planta, da |fam.| das gramı́neas. (Do gr.
 amphi + karpos)
 amphı́como |m.| Gênero de coleópteros.
@@ -8639,7 +8637,7 @@ amphyctiões |m.| pl. Ant. Representantes dos Estados gregos, que se reuniam par
 amphyctionia |f.| Reunião dos amphyctiões. Direito de sêr representado nessa assembleia. (Do gr. amphiktuon)
 amphyctiónio |adj.| Relativo aos amphyctiões.
 amplamente |adv.| Com largueza. De modo amplo.
-amplectivo |adj.| Diz-se, em botânica, do órgão que abrange115 outro. (Melhor se diria amplexivo). (Do lat. amplecti)
+amplectivo |adj.| Diz-se, em botânica, do órgão que abrange outro. (Melhor se diria amplexivo). (Do lat. amplecti)
 amplexicaule |adj.| Diz-se da parte da planta, que abraça o caule. (De amplexo + caule)
 amplexifloro |adj.| Que abraça a flôr, (falando-se de certos órgãos vegetaes). (De amplexo + flôr )
 amplexifólio |adj.| Diz-se das plantas, cujas fôlhas são amplexicaules.
@@ -8679,7 +8677,6 @@ amuado |adj.| Que tem amúo, que se afasta ou se retrai desgostoso. * Guardado o
 amuador |adj.| Que amua facilmente. Cf. Filinto, XIII, 263.
 amuamento |m.| Acto de amuar. Cf. Filinto, XX, 175.
 amuar |v. t.| Fazer que (alguém) tenha amúo. |V. i.| Tomar amúo; mostrar, pelo aspecto, gestos ou silêncio, que está escandalizado ou mal disposto. * Prov. trasm. Baixar de preço. (Cp. fr. moue) |v. p.| Tomar amúo; mostrar, pelo aspecto, gestos ou silêncio, que está escandalizado ou mal disposto. * Prov. trasm. Baixar de preço. (Cp. fr. moue)
-amygdalino
 amuganhar |v. t.| T. do Fundão. Prostrar com pancadas. Vencer numa contenda.
 amulatado |adj.| Que tem côr de mulato.
 amulatar-se |v. p.| Tomar a côr de mulato.
@@ -8723,7 +8720,7 @@ amygdalı́fero |adj.| Que apresenta partes, semelhantes a
 amêndoas. (Do lat. amygdala + ferre)
 amygdalina |f.| Substância, que se extrái das amêndoas
 amargas. (De amýgdala)
-amygdalino |adj.| Relativo a amêndoas. Feito com amêndoas. (De amýgdala)amygdalita
+amygdalino |adj.| Relativo a amêndoas. Feito com amêndoas. (De amýgdala)
 amygdalita |f.| Rocha, que contém seixos arredondados ou em fórma de amêndoa.
 amygdalite |f.| Inflammação nas amýgdalas.
 amygdaloide |m.| Pedra, que, dentro da própria substância, tem partes em fórma de amêndoa. (Do gr. amugdale + eidos)
@@ -8796,7 +8793,7 @@ anacardeáceas |f.| Famı́lia de plantas, que tem por typo o
 anacardo. (De anacardeáceo)
 anacardeáceo |adj.| Relativo ou semelhante ao anacardo.
 anacárdeas |f.| pl. O mesmo que anacardeáceas.
-anacardeiro |m.| Árvore oriental, que produz o anacardo.117
+anacardeiro |m.| Árvore oriental, que produz o anacardo.
 anacardina |f.| Conserva de anacardos. (De anacardino)
 anacardino |adj.| Relativo ao anacardo.
 anacardita |f.| O mesmo que anacardite.
@@ -8836,8 +8833,7 @@ anacolutia |f.| O mesmo que anacoluto.
 anacoluto |m.| Gram. Ellipse, em que se emprega um relativo, sem o seu antecente. (Gr. anakolouthos)
 anaconda |f.| Grande serpente da América do Sul, que chega
 a têr mais de dez metros de comprimento.
-anacoreta #,(co-rê)# |m.| O religioso ou penitente, que vive
-anaeróbio #,(na-e)# na solidão. Aquelle que vive insulado de relações sociaes. (Lat. anachoreta)
+anacoreta #,(co-rê)# |m.| O religioso ou penitente, que vive na solidão. Aquelle que vive insulado de relações sociaes. (Lat. anachoreta)
 anacoreticamente |adv.| Á maneira de anacoreta. De modo anacorético.
 anacorético |adj.| Relativo a anacoreta.
 anacoretismo |m.| Systema de vida, seguido pelos anacoretas.
@@ -8873,7 +8869,7 @@ anadose |f.| Distribuição dos elementos nutritivos na economia animal. (Gr. an
 anádromo |m.| Passagem de humor, das partes inferiores para as posteriores do organismo humano.
 anaduva |f.| (V. adua 2 )
 anadúvia |f.| Ant. (V. adua 2 )
-anaeróbio #,(na-e)# |adj.| Que póde viver e reproduzir-se fóra do contacto do ar ou do oxygênio livre. |M.| Microor-anaeroide, (na-e) ganismo, que se desenvolve nas fermentações do queijo, do leite e do álcool, e que não respira o ar ambiente, mas o oxygênio que extrai dessas fermentações. (Do gr. an priv. + aer + bios)
+anaeróbio #,(na-e)# |adj.| Que póde viver e reproduzir-se fóra do contacto do ar ou do oxygênio livre. |M.| Microorganismo, que se desenvolve nas fermentações do queijo, do leite e do álcool, e que não respira o ar ambiente, mas o oxygênio que extrai dessas fermentações. (Do gr. an priv. + aer + bios)
 anaeroide #,(na-e)# |m.| O mesmo ou melhor que |adj.| O mesmo ou melhor que
 aneroide. Diz-se de um barómetro de mostrador, em cuja caixa, de paredes metállicas, se fórma o vácuo. (Do gr. an priv. + aer + eidos)
 anafa |f.| Planta herbácea, da |fam.| das leguminosas.
@@ -8950,7 +8946,7 @@ anagrammatizar |v. i.| Fazer anagrammas.
 anágua |f.| Espécie de saia branca, ás vezes aberta ao lado, e que as mulheres usam sôbre a camisa. (Cast. enagua)
 anágua-de-vênus |f.| Arbusto ornamental, cujas flôres exhibem quási o feitio de uma pequenina saia branca.
 anaguar |v. t.| Prov. Inundar, cobrir de água. (Por enaguar, de en... + água)
-anaguel |m.| Prov. trasm. Taboleiro de cortiça, em que se deitam as tripas e outras miudezas dos porcos que se119 matam.
+anaguel |m.| Prov. trasm. Taboleiro de cortiça, em que se deitam as tripas e outras miudezas dos porcos que se matam.
 anagýris |m.| O mesmo que anagyro.
 anagyro |m.| Planta leguminosa, de casca e madeira fétidas, (anagýris fétida, Lin.) (Gr. anaguros)
 anaia |f.| Espécie de talisman entre as cabilas. Espécie de salvo-conducto. (Do ár.)
@@ -8990,7 +8986,6 @@ analisador |m.| Aquelle que analisa.
 analisar |v. t.| Fazer analise de.
 analisável |adj.| Que se póde analisar.
 análise |f.| Decomposição de um todo em partes. Exame de cada parte de um todo. Processo philosóphico, com que se sobe dos effeitos ás causas. A álgebra. (Gr. analusis)
-anamorfose
 analista |m.| Aquelle que escreve anais. (Do lat. annales)
 analista #,1 # |m.| O que analisa. O que é versado em |adj.| O que analisa. O que é versado em
 álgebra. (De anályse)
@@ -9030,7 +9025,7 @@ anamnese |f.| O mesmo que anamnesia.
 anamnesia |f.| Acto de recordar o que se finge esquecido. Reminiscência. Restabelecimento da memória. * Med. Informação sobre o comêço e a evolução de uma moléstia,
 até o momento da observação médica; história pregressa. (Do gr. ana + mnesis)
 anamnéstico |adj.| Que aviva a memória. (Gr. anamnestikos)
-anamorfose |f.| Imagem disforme, que, em certo ponto de vista, parece regular. Arte de desenhar essa imagem. Bot.anamorfótico Modificação ou degenerescência mórbida, que se dá em
+anamorfose |f.| Imagem disforme, que, em certo ponto de vista, parece regular. Arte de desenhar essa imagem. Bot. Modificação ou degenerescência mórbida, que se dá em
 algumas plantas. (Do gr. anamorphosis)
 anamorfótico |adj.| Relativo á anamorfose.
 anamorphose |f.| Imagem disforme, que, em certo ponto de vista, parece regular. Arte de desenhar essa imagem. Bot. Modificação ou degenerescência mórbida, que se dá em algumas plantas. (Do gr. anamorphosis)
@@ -9105,7 +9100,7 @@ anarquia |f.| Falta de govêrno, de chefe. Negação do princı́pio de autorida
 anárquico |adj.| Em que há anarquia. Que excita á anarquia. Desordenado, confuso.
 anarquismo |m.| Systema dos anarquistas.
 anarquista |m.| Sectário da anarquia.
-anarquizar |v. t.| Tornar anárquico. Excitar á desordem.121 Sublevar. (De anarchia)
+anarquizar |v. t.| Tornar anárquico. Excitar á desordem. Sublevar. (De anarchia)
 anarreia |f.| Affluência de humores ás regiões superiores do organismo humano.
 anarreico |adj.| Relativo á anarreia.
 anarrheia |f.| Affluência de humores ás regiões superiores do organismo humano.
@@ -9142,7 +9137,7 @@ anastrofia |f.| Inversão esplânchnica, em Cirurgia. (Cp. anástrophe)
 anástrophe |f.| Rhet. Inversão da ordem natural das palavras correlativas. (Gr. anastrophe)
 anastrophia |f.| Inversão esplânchnica, em Cirurgia. (Cp. anástrophe)
 anatar |v. t.| Tornar semelhante á nata. Cobrir de nata.
-anateirado |adj.| Em que há nateiro; que tem vaza de alluanavalhar vião: “Carcavelos, terrenos em parte anateirados...” Ferr. Lapa, Alm. do Lavrador, (1869), p. 16.
+anateirado |adj.| Em que há nateiro; que tem vaza de alluvião: “Carcavelos, terrenos em parte anateirados...” Ferr. Lapa, Alm. do Lavrador, (1869), p. 16.
 anátema |m.| Excommunhão. Maldicção. Reprovação. |Adj.| Excommungado; maldito. (Gr. anathema)
 anatematismo |m.| Acto solemne, que envolve anátema.
 anatematização |f.| Acto de anatematizar.
@@ -9178,7 +9173,7 @@ anatrı́ptico |adj.| Que serve para fricções.
 anátropa |f.| Náuseas, ânsias. (Gr. anatrope)
 anatropia |f.| Estado ou qualidade de anátropo.
 anátropo |adj.| Bot. Diz-se do óvulo vegetal que se encurva, de fórma que o micrópylo fica ao lado do hilo. (Do gr. anatrepein)
-anavalhar |v. t.| Dar fórma de navalha a. Ferir com aanaxagórea122 navalha.anciloblefaria |f.| Med. Juncção pathológica, mais ou menos
+anavalhar |v. t.| Dar fórma de navalha a. Ferir com a navalha.anciloblefaria |f.| Med. Juncção pathológica, mais ou menos
 anaxagórea |f.| Gênero de plantas anonáceas da Ásia e da
 América. (De Anaxágoras, |n. p.| )
 anaxatre |m.| Ant. O mesmo que ammonı́aco.
@@ -9250,7 +9245,7 @@ ancyloblepharia |f.| Med. Juncção pathológica, mais ou menos completa, das p�
 ancyloblépharo |adj.| Que tem ancyloblepharia. (Do gr.
 ankulos + blepharon)
 ancylóceras |f.| pl. Gênero fóssil de molluscos cephalópodes.
-ancylócero |m.| Gênero de insectos coleópteros. (Do gr.123
+ancylócero |m.| Gênero de insectos coleópteros. (Do gr.
 ankulos + keras)
 ancyloglosse |f.| Med. Falta de movimento na lı́ngua, pela extensão do ligamento. (Do gr. ankulos + glossa)
 ancyloide |adj.| Que tem fórma de colchete ou gancho. (Do gr. ankulos + eidos)
@@ -9285,7 +9280,6 @@ andaimo |m.| O mesmo que andaime.
 andaina |f.| Fileira. Conjunto de peças de vestuário. Conjunto de velas da embarcação. * Linha de meios, nas salinas. * Embarcação algarvia, para transporte de pesca, o mesmo que enviada. (De andar ?)
 andala |f.| Fôlha grande de palmeira, com que se cobrem cubatas.
 andalim |m.| Espécie de sarguça.
-andavaes
 andaluz |adj.| Relativo á Andaluzia. |M.| Homem natural da Andaluzia.
 andaluzita |f.| Mineral, composto de silicato de alumina, combinado com um silicato múltiplo de potassa, cal, magnésia, etc. (De Andaluzia, |n. p.| )
 andaluzite |f.| Mineral, composto de silicato de alumina, combinado com um silicato múltiplo de potassa, cal, magnésia, etc. (De Andaluzia, |n. p.| )
@@ -9309,7 +9303,7 @@ andarilho |m.| O mesmo que andadeiro. Aquelle que leva cartas ou notı́cias. An
 andarim |m.| Des. O mesmo que andarilho. Cf. Anat. Joc., 13.
 andarovel |m.| Ant. O mesmo que andrebello.
 andas |f.| pl. Pernas ou muletas de pau, que têm um estribo ou resalto, em que se apoiam os pés. Ant. Espécie de cama ou liteira, sóbre varaes. Varaes, em que se colloca a tumba. Charola. (Do lat. amites)
-andavaes |m.| pl. Prov. Esqueleto desconjuntado de animal, cuja carne foi devorada por cães ou lobos. (Colhido em Turquel)andavais
+andavaes |m.| pl. Prov. Esqueleto desconjuntado de animal, cuja carne foi devorada por cães ou lobos. (Colhido em Turquel)
 andavais |m.| pl. Prov. Esqueleto desconjuntado de animal, cuja carne foi devorada por cães ou lobos. (Colhido em Turquel)
 andeiro |adj.| Que anda bem.
 andejar |v. i.| Andar ao acaso; vaguear; sêr andejo.
@@ -9388,7 +9382,7 @@ androgenesia |f.| Sciência do desenvolvimento phýsico e moral da espécie huma
 androgenésico |adj.| Relativo á androgenesia.
 androgenia |f.| Sequência de descendentes varões. (Do gr.
 aner, andros + genos)
-androginário |adj.| Diz-se das flôres, dobradas pela transformação das duas espécies de órgãos sexuaes, sem que os125 tegumentos tenham sido alterados. (De andrógyno)
+androginário |adj.| Diz-se das flôres, dobradas pela transformação das duas espécies de órgãos sexuaes, sem que os tegumentos tenham sido alterados. (De andrógyno)
 androginia |f.| Qualidade do vegetal andrógino.
 androgı́nico |adj.| Relativo ou pertencente a uma flôr hermaphrodita. (De andrógyno)
 androginismo |m.| O mesmo que androginia.
@@ -9426,7 +9420,6 @@ androphobia |f.| Qualidade de andróphobo.
 andróphobo |adj.| Que tem repugnancia pelo sexo masculino. (Do gr. aner, andros + phobos) (Do gr. aner, andros + petalos)
 andróphoro |m.| Parte adherente dos filetes que sustentam
 as antheras da flôr. (Do gr. aner, andros + phero)
-anelado
 andropogão |m.| Planta, da |fam.| das gramı́neas. (Do gr.
 aner, andros + pogon)
 andropogónias |f.| pl. Tribo de gramı́neas, que tem por typo o andropogão.
@@ -9460,7 +9453,7 @@ aneiro |adj.| Dependente da maneira como correr o ano. Contingente, incerto. * D
 anejo |adj.| O mesmo que anelho.
 anel |m.| Cı́rculo. Qualquer substância de fórma circular. Pequeno arco, com que se enfeita o dedo. Elo. Cada uma das peças de uma corrente. Sêllo do anel. Espiral (de cabello). * Anel de Saturno, faixa circular, que rodeia êste planeta. * Agr. Medida de água, correspondente a oito pennas de água: a nascente mal dá três aneis de água. (Lat. anellus, |dem.| de anulus)
 anelação |f.| Respiração diffı́cil, curta. (Do lat. anhelatio)
-anelado |adj.| Que tem fórma de anel. Encaracolado: cabelloanelados anelado.
+anelado |adj.| Que tem fórma de anel. Encaracolado: cabello anelado.
 anelados |m.| pl. Zool. O mesmo que anélidos.
 aneladura |f.| Acto de anelar.
 anelante |adj.| Que anela. (Lat. anhelans)
@@ -9535,7 +9528,7 @@ anepı́grafo |adj.| Que não tem inscripção ou tı́tulo, (falandose de medal
 anepigraphia |f.| Falta ou desapparecimento de uma inscripção. Estado ou qualidade de anepı́grapho.
 anepı́grapho |adj.| Que não tem inscripção ou tı́tulo, (falando-se de medalhas e baixos-relêvos). (Do gr. anpriv. + epi + graphein)
 anepithymia |f.| Paralysia, que interrompe a communicação entre as vı́sceras abdominaes e o systema nervoso. Perda dos desejos sensuaes.
-anepitı́mia |f.| Paralysia, que interrompe a communicação127 entre as vı́sceras abdominaes e o systema nervoso. Perda dos desejos sensuaes.
+anepitı́mia |f.| Paralysia, que interrompe a communicação entre as vı́sceras abdominaes e o systema nervoso. Perda dos desejos sensuaes.
 anequim |m.| Espécie de peixe miúdo. Peixe plagióstomo, pardo-anegrado. * Bôbo do paço, em tempo de D. Fernando I. (De Annequim, |n. p.| )
 anerana |f.| Árvore da região do alto Amazonas.
 anereta #,(ne-rê)# |f.| Insecto colleóptero pentâmero. (Gr. anairetes)
@@ -9576,7 +9569,6 @@ anexação #,(csa)# |f.| Acto de anexar.
 anexar #,(csa)# |v. t.| Juntar, ligar. (Lat. annexare)
 anexidade #,(csi )# |f.| Ant. O mesmo que anexo, |m.| 
 anexim |m.| Dito sentencioso. Rifão; sentença popular. (Do
-anfibologicamente
 ár. an-nanxide)
 anexionismo #,(csi )# |m.| Theoria, segundo a qual se pretende que os pequenos Estados devem reunir-se aos grandes, seus vizinhos, sob pretexto de affinidade de raça, lı́ngua, etc. (Do lat. annexio)
 anexionista #,(csi )# |m.| Partidário de annexação de um paı́s, de um territorio, a outro.
@@ -9607,7 +9599,7 @@ anfibolı́fero |adj.| Que encerra anfı́bolo. (De amphibolo + lat. ferre)
 anfibolita |f.| Rocha, composta quási exclusivamente de anfı́bolo.
 anfı́bolo |m.| Substância mineral, composta de sı́lica, cal, magnésia e, ás vezes, óxydo de ferro e de manganés. (Gr. amphibolos)
 anfibologia |f.| Sentido ambı́guo. Disposição de palavras, que permitte mais de um sentido. (Do gr. amphibolos + logos)
-anfibologicamente |adv.| De modo anfibológico.anfibológico
+anfibologicamente |adv.| De modo anfibológico.
 anfibológico |adj.| Que encerra anfibologia. Ambı́guo.
 anfibologista |m.| Aquelle que escreve ou fala anfibologicamente.
 anfiboloide |adj.| Que tem anfı́bolo. (Do gr. amphibolos + eidos)
@@ -9676,7 +9668,7 @@ anfodiplopia |f.| Vı́cio da visão que apresenta os objectos duplicados em amb
 anfodonte |m.| Gênero de leguminosas.
 ânfora |f.| Vaso grande de duas asas, para lı́quidos, usado antigamente entre Gregos e Romanos. Hoje, vaso semelhante
 àquelle. Valva de alguns frutos, que se fendem na época da maturação. * Designação ant. do signo de Aquário. (Lat. amphora)
-anforal |adj.| Poét. Contido em ânfora.129
+anforal |adj.| Poét. Contido em ânfora.
 anforicidade |f.| Med. Existência do ruı́do anfórico dentro do peito.
 anfórico |adj.| Diz-se do som, que se ouve dentro do peito
 auscultado, pela semelhança com o som que se obtém, soprando para dentro de uma ânfora vazia. (De âmphora)
@@ -9716,7 +9708,6 @@ angelização |f.| Acto ou effeito de angelizar. Estado comparável ao dos anjos
 angelizar |v. t.| Comparar a anjo. (Do lat. angelus)
 angelogonia |f.| Theoria sôbre a origem e natureza dos anjos.
 angelografia |f.| O mesmo que angelologia.
-angiorraphia
 angelographia |f.| O mesmo que angelologia.
 angelolatria |f.| Culto prestado aos anjos. (Do gr. angelos + latreia)
 angelologia |f.| Tratado á cêrca dos anjos. Crença na existência e intervenção dos anjos. (Do gr. angelos + logos)
@@ -9760,7 +9751,7 @@ angiopiria |f.| Med. Febre inflammatória.
 angiopyria |f.| Med. Febre inflammatória.
 angiorrafia |f.| Med. Sutura ou anastomose dos vasos sanguı́neos. (Do gr. angeion + raphe)
 angiorragia |f.| Med. Fluxo de sangue por excesso de fôrça.
-angiorraphia |f.| Med. Sutura ou anastomose dos vasosangiorreia sanguı́neos. (Do gr. angeion + raphe)
+angiorraphia |f.| Med. Sutura ou anastomose dos vasos sanguı́neos. (Do gr. angeion + raphe)
 angiorreia |f.| Fluxo de sangue por fraqueza.
 angiorrhagia |f.| Med. Fluxo de sangue por excesso de fôrça.
 angiorrheia |f.| Fluxo de sangue por fraqueza.
@@ -9839,7 +9830,7 @@ angolas |m.| pl. Indı́genas africanos, que deram o seu nome
 á provı́ncia de Angola.
 angolense |adj.| Relativo a Angola. |M.| Habitante de Angola. O mesmo que quimbundo.
 angombe |m.| Ave africana.
-angóphora |f.| Gênero de plantas myrtáceas. (Do gr. angos + phoros)131
+angóphora |f.| Gênero de plantas myrtáceas. (Do gr. angos + phoros)
 ângora |m.| Diz-se dos gatos, coêlhos ou cabras, procedentes de Ângora, ou semelhantes a êstes pela finura e comprimento do pêlo. (De Ângora, |n. p.| ) |adj.| Diz-se dos gatos, coêlhos ou cabras, procedentes de Ângora, ou semelhantes a êstes pela finura e comprimento do pêlo. (De Ângora, |n. p.| )
 angoreta #,(gu-rê)# |f.| Prov. dur. Vasilha redonda ou achatada, feita de aduelas e arcos, como as pipas. (Cp. ancoreta)
 angosto #,(gôs)# |adj.| Ant. O mesmo que angusto. Cf. Rot. do Mar-Vermelho, 40.
@@ -9874,7 +9865,6 @@ anguı́pede #,(gu-i )# |adj.| Ant. Que tem pés de dragão. (Do lat. anguis + p
 anguirodente #,(ro)# |adj.| Que rói como a cobra? “...o remorso angui-rodente...” Filinto, IX, 270.
 anguirrodente #,(gu-i )# |adj.| Que rói como a cobra? “...o remorso angui-rodente...” Filinto, IX, 270.
 ânguis #,(gu-is)# |m.| Famı́lia zoológica, que estabelece, segundo Cuvier, a transição entre os sáurios e os ophı́dios. (Lat. anguis)
-angustioso
 anguite #,(gu-i )# |f.| Bras. do N. Espécie de angu.
 anguivı́feras #,(gu-i )# |f.| pl. Famı́lia de vı́boras, cujo corpo se parece com o das enguias. (Do lat. anguis + vipera)
 angulado |adj.| O mesmo que anguloso.
@@ -9915,7 +9905,7 @@ angusto + dente)
 angustifoliado |adj.| Que tem fôlhas estreitas. (Do lat.
 angustus + folium)
 angustı́mano |adj.| Que tem mãos estreitas. (Do lat. angustus + manus)
-angustioso |adj.| Que tem angústia. Que causa angústia.angustipene Que procede de angústia.
+angustioso |adj.| Que tem angústia. Que causa angústia. Que procede de angústia.
 angustipene |adj.| Que tem asas estreitas. (Do lat. angustus + penna)
 angustipenne |adj.| Que tem asas estreitas. (Do lat. angustus + penna)
 angustireme #,(rê)# |adj.| Diz-se dos insectos que têm as patas em fórma de remos estreitos. (De angusto + remo)
@@ -9991,8 +9981,7 @@ aniellar |v. t.| Esmaltar de niello.
 aniera |f.| Gênero de coleópteros.
 anigozantho |m.| Gênero de plantas irı́deas. (Do gr. anoigo + anthos)
 anigozanto |m.| Gênero de plantas irı́deas. (Do gr. anoigo + anthos)
-aniilar |v. t.| (e der.) O mesmo que aniquilar, etc. (Lat.
-annihilare)133
+aniilar |v. t.| (e der.) O mesmo que aniquilar, etc. (Lat. annihilare)
 anil #,1 # |m.| Substância que tinge de azul, extraı́da de algumas plantas leguminosas. (Do ár. annir )
 anil #,2 # |adj.| Relativo a mulher velha. (Lat. anilis)
 anilado #,1 # |adj.| Que tem côr de anil.
@@ -10028,8 +10017,7 @@ animalcular |adj.| Relativo a animálculos.
 animalculismo |m.| Systema dos que dizem que o embryão é produzido pelos animálculos espermáticos. (De animálculo)
 animalculista |m.| Aquelle que segue o animalculismo.
 animálculo |m.| Animal microscópico. (Dem. de animal )
-animalculovismo |m.| Systema physiológico, segundo o
-aningal qual o embryão animal é produzido pela juncção dos animálculos espermáticos e do óvulo da fêmea. (De animálculo + ovo)
+animalculovismo |m.| Systema physiológico, segundo o qual o embryão animal é produzido pela juncção dos animálculos espermáticos e do óvulo da fêmea. (De animálculo + ovo)
 animalculovista |m.| Sectário do animalculovismo.
 animalejo |m.| Pequeno animal. |Fam.| Pessôa estúpida.
 animalesco #,(lês)# |adj.| Relativo aos animaes. Que participa das qualidades delles.
@@ -10066,7 +10054,7 @@ anina |f.| (Corr. de anilha)
 aninar |v. t.| Fam. Embalar. * Náut. Rebater (a ponta da cavilha sôbre a arruela). (De nino por menino)
 aninga |f.| Bras. do N. Planta aroı́dea, de fruto comestı́vel.
 aningaı́ba |f.| Bras. O mesmo que aningauva.
-aningal |m.| Bras. Mato de aninga.aningapari
+aningal |m.| Bras. Mato de aninga.
 aningapari |f.| Planta melastomácea do Brasil, (melastoma parviflora, Lamk.).
 aningaúba |f.| O mesmo que aningaúva.
 aningaúva |f.| Planta aracea do Brasil, (philodendron arborescens). O mesmo que cipó-do-imbê.
@@ -10141,7 +10129,7 @@ anisulmina |f.| Producto chı́mico, cinzento, obtido pela acção da potassa s�
 anisuria |f.| Med. Desigualdade nos intervallos da emissão da urina. (Do gr. an priv. + isos + ouron)
 anisúrico |adj.| Diz-se de um ácido obtido pela acção do chloreto de anisylo sôbre o derivado argêntico do glysocollo.
 anisylo |m.| Chı́m. Rad. hypoth. do ácido anı́sico e outros.
-anivelar |v. t.| (e der.) (V. nivelar, etc.) Cf. Garrett,135 Helena, 91.
+anivelar |v. t.| (e der.) (V. nivelar, etc.) Cf. Garrett, Helena, 91.
 aniversariamente |adv.| Em dia certo de cada ano. (De anniversario)
 aniversariante |adj.| Neol. bras. Que aniversaria.
 aniversariar |v. i.| Neol. bras. Fazer aniversário, celebrar aniversário.
@@ -10176,7 +10164,6 @@ annesa |f.| Prov. minh. Anno agrı́cola ou económico.
 annexação #,(csa)# |f.| Acto de annexar.
 annexar #,(csa)# |v. t.| Juntar, ligar. (Lat. annexare)
 annexidade #,(csi )# |f.| Ant. O mesmo que annexo, |m.| 
-annualidade
 annexionismo #,(csi )# |m.| Theoria, segundo a qual se pretende que os pequenos Estados devem reunir-se aos grandes, seus vizinhos, sob pretexto de affinidade de raça, lı́ngua, etc. (Do lat. annexio)
 annexionista #,(csi )# |m.| Partidário de annexação de um paı́s, de um territorio, a outro.
 annexite #,(csi )# |f.| Med. Inflammação dos annexos do útero, (trompas e ovários).
@@ -10205,7 +10192,7 @@ annotino |adj.| Des. O mesmo que annual. (Lat. annotinus)
 ânnua |f.| Ant. Chamavam-se assim as cartas, em que se referiam os successos de um anno: “em uma ânnua da Companhia de Jesus, se refere...” Luz e Calor, 256. (De ânnuo)
 annual |adj.| Que dura um anno. Que succede uma vez por anno. * Quantia, que se paga annualmente; prestação
 annual. (Lat. annualis)
-annualidade |f.| Qualidade do que é annual. Pagamento, que se faz todos os annos.annualmente
+annualidade |f.| Qualidade do que é annual. Pagamento, que se faz todos os annos.
 annualmente |adv.| De modo annual. Todos os annos. Deanodontes |m.| pl. Molluscos de água doce, caracterizados
 anno a anno.
 annuário |m.| Publicação annual. (De anno)
@@ -10290,7 +10277,7 @@ anomaluro |m.| Mammı́fero roedor, de cauda anómala, encontrado em Fernando-P�
 anomanthódia |f.| Gênero de plantas rubiáceas.
 anomantódia |f.| Gênero de plantas rubiáceas.
 anomateca |f.| Gênero de plantas irı́deas. (Do gr. anomos + atheka)
-anomatheca |f.| Gênero de plantas irı́deas. (Do gr. anomos137 + atheka)
+anomatheca |f.| Gênero de plantas irı́deas. (Do gr. anomos + atheka)
 anomaza |f.| Gênero de plantas irı́deas.
 anómea |f.| Gênero de plantas leguminosas.
 anómia |f.| Mollusco bivalve, de concha irregular. (Do gr. anomos)
@@ -10323,8 +10310,7 @@ anonimamente |adv.| De modo anónimo.
 anonimato |m.| O mesmo que anonimado.
 anonı́mia |f.| Qualidade do que é anónimo.
 anónimo |m.| Aquelle que não assina o que escreve. |Adj.| Que não é assinado; que não declara o nome do autor:
-artigo anónimo. E diz-se da sociedade commercial, que não é representada por nome ou firma, mas por um tı́tulo que designa a sua natureza: Companhia Carris de Ferro.
-anorganoquı́mica (Gr. anonumos)
+artigo anónimo. E diz-se da sociedade commercial, que não é representada por nome ou firma, mas por um tı́tulo que designa a sua natureza: Companhia Carris de Ferro. (Gr. anonumos)
 anonymado |m.| Qualidade que é anónymo. Systema de escrever anonymamente.
 anonymamente |adv.| De modo anónymo.
 anonymato |m.| O mesmo que anonymado.
@@ -10363,7 +10349,7 @@ anorganognosia |f.| Hist. Nat. Conhecimento dos corpos inorgânicos.
 anorganografia |f.| P. us. O mesmo que Mineralogia.
 anorganographia |f.| P. us. O mesmo que Mineralogia.
 anorganologia |f.| P. us. O mesmo que Mineralogia.
-anorganoquı́mica |f.| Chı́mica inorgânica.anori
+anorganoquı́mica |f.| Chı́mica inorgânica.
 anori |m.| Bras. O macho do tracajá.
 anormal |adj.| Que está fóra da norma. Contrário ás regras; irregular. (De a priv. + normal )
 anormalidade |f.| Qualidade do que é anormal. * Aquillo que é anormal.
@@ -10440,7 +10426,7 @@ antanagoge |f.| Recriminação, com os mesmos argumentos que serviram ao accusad
 antanho |adv.| No anno próximo passado. Nos tempos passados. (Cast. antaño, do lat. ante + annum)
 antão |adv.| Pop. O mesmo que então.
 antapódose |f.| Gram. Membro de um perı́odo, correspondente a outro. (Gr. antapodosis)
-antar |v. t.| Preparar como pelle de anta.139
+antar |v. t.| Preparar como pelle de anta.
 antárctia |f.| Gênero de coleópteros.
 antárctico |adj.| Opposto a árctico. Relativo ao polo meridional ou ás regiões glaciaes do Sul. (Gr. antarktikos)
 antares |m.| Estrêlla da constellação do Escorpião. (Fr. antarès)
@@ -10472,7 +10458,6 @@ antebrachial #,(qui )# |adj.| Relativo ao antebraço.
 antebraço |m.| Parte do braço, entre o cotovelo e o pulso. (Do lat. ante + brachium)
 antebraquial |adj.| Relativo ao antebraço.
 antecalva |f.| Calva, na parte anterior da cabêça. (De ante + calva)
-anteflexão
 antecama |f.| Prov. beir. Pano, que, á frente da cama, cai desde a borda do catre até o chão, para ornato e para occultar o bacio, que habitualmente se colloca debaixo da cama. (De ante + cama)
 antecâmara |f.| Sala, que precede a principal. Sala de espera. Espaço anterior á câmara do navio. (De ante + câmara)
 antecanto |m.| Estribilho que se repete no princı́pio de cada estrophe.
@@ -10511,7 +10496,7 @@ absoluta, com a máscara e anteface de govêrno liberal...” Latino, Elogios Ac
 antefirma |f.| Palavras de cortesia, que precedem a firma de uma carta.
 antefixos |m.| pl. Ornatos, adoptados pela architectura grega, romana e etrusca, e que se collocavam verticalmente
 á frente das telhas, nas faces lateraes dos templos. (Lat. antefixa)
-anteflexão |f.| Deformidade do útero, caracterizada pela inclinação anterior do corpo delle sôbre o collo ou vice-versa.antéfora
+anteflexão |f.| Deformidade do útero, caracterizada pela inclinação anterior do corpo delle sôbre o collo ou vice-versa.
 antéfora |f.| Gênero de plantas gramı́neas.
 antefôsso |m.| Fôsso, em volta da esplanada.
 antegalha |f.| Náut. Tomadoiro, com que se amarra a vela, em occasião de temporal.
