@@ -6731,6 +6731,7 @@ almôço |m.| Primeira refeição do dia, menos abundante que o jantar, e que, g
 almocouvar |m.| Pastor, que, na guarda de um rebanho, tem posição immediatamente inferior á do maioral.
 almocóvar |m.| Ant. Cemitério de judeus. (Cp. almocave)
 almocrevar #,(cré)# |v. t.| Transportar em bêstas de almocreve. |V. i.| Exercer o offı́cio de almocreve.
+alocásia |f.| Gênero de plantas aroı́deas.
 almocrevaria |f.| Fórma preferı́vel a almocreveria. Cf. Herculano, Hist. de Port, IV, 418.
 almocreve |m.| Aquelle que tem por offı́cio conduzir bêstas de carga. Recoveiro. Carregador. (Do ár. almoqueri)
 almocreveria |f.| Ant. Direito, que os almocreves pagavam pelo exercı́cio da sua indústria. (De almocreve)
@@ -6765,7 +6766,7 @@ almojávena |f.| Espécie de belhó, de farinha e queijo. (Do
 almolina |f.| Jôgo antigo, espécie de cabra-cega. Cf. G. Vicente, I, 133.
 almôndega |f.| Bolo de carne picada, com ovos e outros
 adubos. (Do ár. al-bondoca)
-almonjava |f.| Ant. Iguaria de carneiro picado, com toicinhoda região, que hoje se chama Saboia. (Do lat. allobrox ) e outros temperos. (Corr. de almojâvena?)
+almonjava |f.| Ant. Iguaria de carneiro picado, com toicinho e outros temperos. (Corr. de almojâvena?)
 almoqueire |m.| Ant. O mesmo que almocreve.
 almorabitino |m.| Moéda moirisca. Cf. Herculano, Bobo, 128 e 165.
 almoravides |m.| pl. * Seita religiosa e, ao depois, também polı́tica, entre os Árabes. Últimos moiros, que dominaram na Espanha até á conquista de Granada pelos reis cathólicos. (Do ár. almorábit, ermida)
@@ -6802,7 +6803,7 @@ aló |adv.| Para barlavento: para a banda donde sopra o vento. (De a + ló)
 alobadado |adj.| Prov. trasm. Diz-se do céu, quando apresenta pequenas nuvens negras e pardas, prenúncio de neve.
 alóbroge |m.| O mesmo ou melhor que alóbrogo.
 alobrógico |adj.| Relativo aos alóbrogos; próprio de alóbrogo.
-alóbrogo |m.| Homem grosseiro, rústico. Pl. Povos antigosalocásia |f.| Gênero de plantas aroı́deas.
+alóbrogo |m.| Homem grosseiro, rústico. Pl. Povos antigos da região, que hoje se chama Saboia. (Do lat. allobrox )
 alócero |m.| Insecto coleóptero tetrâmero, originário do Brasil. (Do gr. allos + keras)
 alocinesia |f.| Med. Perturbação da sensibilidade, em que o doente move um dos membros, quando deseja mover outro. (Do gr. allos, outro, e kinesis, movimento)
 alocroito |m.| Mineral, que é uma das variedades da granada. (Do gr. allokroos)
