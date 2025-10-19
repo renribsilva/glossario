@@ -114,12 +114,23 @@ A5786 afermosentar v. t. Ant. O mesmo que aformosentar. (De fermoso)
 A5836 affectar v. t. Fingir. Têr disposição para offender. V. p.
 A5837 
 A5959 afidı́fagos m. pl. Insectos coleópteros da secção dos trı́me-
+A5974 afigurar v. t. Representar. Imaginar. Dar figura, fórma a.
+A5975 afinco m. Acto de afincar. Afêrro, pertinácia.
+A5976 afincoar v. t. e i. Pôr fincões.
+A6028 afincadamente adv. Com afinco.
+A6029 afinfar v. t. Gı́r. Dar, despedir (pancada). V. i. Bater. Chul. Têr cópula (um homem).
 A6080 aflição,1 f. Grande soffrimento. Atribulação. Tormento.
 A6081 
 A6203 forquilha a.
 A6326 afrutar v. i. Carregar-se de frutos. Frutificar. * V. t. Prov.
-A6327 
+A6327 agarrochar v. t. Picar com garrocha. Estimular, incitar.
 A6449 197.
+A6454 agapântia f. Insecto coleóptero tetrâmero. (Do gr. agapao + anthos)
+A6460 agapetas, (pê) f. pl. Virgens ou viúvas, que, nos primeiros tempos do Christianismo, faziam vida commum. (Gr. agapete)
+A6467 nhosa. Cf. Pant. de Aveiro, Itiner., 142, (2.ª ed.). (De agasalhar )
+A6468 
+A6516 mesmo que rêmora.
+A6517 
 A6570 commum. (Gr. agape)
 A6571 
 A6693 aggravar v. t. Tornar grave. Augmentar. Fazer aggravo a.
@@ -132,6 +143,11 @@ A7186 agriotı́mico adj. Relativo á agriotimia.
 A7309 Cf. Camillo, Caveira, 163.
 A7371 
 A7432 acquarella)
+A7471 águas-furtadas f. pl. O último andar de uma casa, quando
+A7497 aguerrear v. t. A*fazer á guerra; acostumar a ella.
+A7498 aguerrir v. t. Acostumar á guerra. Afazer ás lutas, aos trabalhos. (T. cast.)
+A7499 aguerrilhar v. t. Converter em guerrilha; formar guerrilhas de.
+A7500 aguerrimento m. Acto de aguerrir.
 A7553 curva, de metal, que tem, em vez de orifı́cio, um pequeno
 A7615 
 A7676 se cria no ailanto.
@@ -141,6 +157,13 @@ A7622 alabarca,1 m. Recebedor dos direitos de importação, entre
 A8045 alambicadamente adv. De modo alambicado.
 A8046 
 A8168 alar,2 v. i. Gı́r. Viver.
+A8172 alara f. Ant. Leque, com que os acólytos, nas festas de igreja, enxotavam as môscas da cabeça e da cara dos celebrantes. (B. lat. alare)
+A8173 alastrar v. t. Cobrir com lastro, lastrar. Cobrir, espalhando. Espalhar; derramar. Alargar gradualmente.
+A8174 alastramento m. Acto de alastrar.
+A8231 alastrado adj. Disposto como lastro. (De alastrar )
+A8232 alastrim m. Bras. O mesmo que varı́ola-mansa. (Cp. alastrar )
+A8233 
+A8475 
 A8289 albafora, (fô) f. Grande peixe, das costas de Portugal. O
 A8290 
 A8412 partes verdes. (De albino)
@@ -155,6 +178,11 @@ A9090
 A9151 alefanginas f. pl. Certas pı́lulas purgativas. (Talvez alter.
 A9274 Cf. Anat. Joc., I, 123.
 A9275 
+A9277 alento m. Hálito, respiração. Ânimo; esfôrço. Alimento.
+A9336 aletre m. Gênero de liliáceas.
+A9338 aletris m. Planta liliácea da América do Norte. (Do gr. aletris)
+A9339 aletria f. Massa de farı́nha em fios delgados, espécie de macarrão. (Do ár. al + itria)
+A9340 aletrieiro m. Fabricante de aletria.
 A9395 Principio. * Mús. Figura, que, na antiga notação, abran-
 A9518 decorativas, caracterizado por lavores multiformes.
 A9580 
