@@ -74,10 +74,13 @@ A3500 + kondulos)
 A3623 acorro m. O mesmo que soccorro. (De accorrer )
 A3624 
 A3746 acratópoto adj. Des. Que bebe vinho puro. (Do gr. akra-
+A3768 acrescente m. Acto de acrescentar. Acrescentamento.
+A3808 
 A3870 dade dos dedos. (Do gr. akron + kheir )
 A3871 
 A3993 de edificios. (Lat. acroterium)
-A4117 actinogênico adj.
+A4063 actinogênico adj. Que produz irradiação eléctrica,
+A4117 
 A4118 
 A4240 acurar v. t. Tratar com cuidado, com desvelo. (Lat. accu-
 A4363 verde. * Prov. Diz-se do vinho licoroso, que não excede a
