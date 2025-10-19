@@ -2369,7 +2369,7 @@ acrescentada |adj.| Prov. Diz-se da mulher grávida. (Colhido em Turquel) (De ac
 acrescentador |m.| O que acrescenta. |adj.| O que acrescenta.
 acrescentamento |m.| Acto ou effeito de acrescentar.
 acrescentar |v. t.| Tornar maior, aumentar. Dar mais grandeza, fôrça ou número a. (De accrescer )
-Acto de acrescentar. Acrescentamento. Pop. O mesmo que chinó.
+acrescente |m.| Acto de acrescentar. Acrescentamento. Pop. O mesmo que chinó.
 acrescento |m.| O mesmo que acrescentamento. Cf. Castilho, Avarento, 144.
 acrescer |v. i.| Ajuntar-se. Sobrevir. * |V. t.| Juntar. Aumentar. (Lat. accrescere)
 acrescido |m.| Aquillo que acresceu. Annexo, accessório. Dependência: “uma lei de Affonso III sobre os accrescidos dos rios.” Port. Mon. Hist., I, 149.
@@ -2393,8 +2393,7 @@ acridóphago |m.| O que se alimenta de gafanhotos. (Do gr.
 akris + phagein)
 acridótero |m.| Ave que come gafanhotos; gaivão. (Do gr.
 akris + therao)
-acrı́fico |adj.| Des. Que se tornou acre. Azêdo. Que tem
-acrescente |m.| mau humor. Cf. Anat. Joc., I, 358.
+acrı́fico |adj.| Des. Que se tornou acre. Azêdo. Que tem mau humor. Cf. Anat. Joc., I, 358.
 acrimancia |f.| Supposta arte de adivinhar, por meio do fogo. Cf. Castilho, Fastos, III, 311.
 acriminar |v. t.| O mesmo que criminar.
 acrimónia |f.| O mesmo que acridez. Azedume. Aspereza. (Lat. acrimonia)
@@ -2536,7 +2535,8 @@ actinodaphno |m.| Gênero de plantas laurı́neas.
 actinodendro |m.| Gênero de celenterados.
 actinodermo |m.| Espécie de cogumelo. (Do gr. aktin + derma)
 actı́nodo |m.| Gênero de plantas myrtáceas.
-actinóforo |m.| Gênero de insectos coleópteros pentámeros. (Do gr. aktin + phoros) Que produz irradiação eléctrica, (falando-se dos tubos do apparelho radiográphico). Cf. Vergı́lio Machado, Raios X. (Do gr. aktin + geneia)
+actinóforo |m.| Gênero de insectos coleópteros pentámeros. (Do gr. aktin + phoros)
+actinogênico |adj.| Que produz irradiação eléctrica, (falando-se dos tubos do apparelho radiográphico). Cf. Vergı́lio Machado, Raios X. (Do gr. aktin + geneia)
 actinoide |adj.| Semelhante á actı́nia.
 actinólitho |m.| Miner. O mesmo que actinoto. (Do gr.
 aktin + lithos)
@@ -2564,8 +2564,7 @@ activar |v. t.| Dar actividade a. Tornar activo. Dar impulso a.
 actividade |f.| Diligência. Faculdade de operar. (Lat. activitas)
 activo |adj.| Diligente, expedito. Que tem acção, que actua. Que opéra com energia. Ininterrupto. |Gram.| Que denota
 a acção de um verbo. (Lat. activus)
-acto |m.| O que se fez ou se póde fazer. Acção. Exame final em cada anno dos cursos de Universidade. Divisão de obra
-actinogênico |adj.| dramática. (Lat. actus)
+acto |m.| O que se fez ou se póde fazer. Acção. Exame final em cada anno dos cursos de Universidade. Divisão de obra dramática. (Lat. actus)
 actol |m.| Medicamento antiséptico de lactato de prata.
 actor |m.| Agente; o que pratica o acto. Aquelle que representa em theatro. (Lat. actor )
 actriz |f.| Mulher, que representa em theatro. (Fem. de
@@ -2719,13 +2718,14 @@ adai |f.| Planta, de que os Abexins fazem palitos para os dentes, (salvadora per
 adail |m.| Antigo cabo de guerra. Vedeta. Caudilho. (Do ár.
 ad-dalil )
 adalide |m.| Chefe militar, entre os antigos Moiros. Cf. Garrett, D. Branca, 72.
-adamado |adj.| Vestido com affectação ou com o cuidado próprio de dama. * Prov. Diz-se do vinho que não é verde. * Prov. Diz-se do vinho licoroso, que não excede a fôrça alcoólica de 15%.
+adamado |adj.| Vestido com affectação ou com o cuidado próprio de dama. * Prov. Diz-se do vinho que não é verde. * Prov. Diz-se do vinho licoroso, que não excede a
+addicionamento |m.| O mesmo que addicionação. fôrça alcoólica de 15%.
 adamanes |m.| pl. Atabales, usados na Índia.
-adamante |m.| Planta medicinal, crucı́fera. (Lat. adamas, adamantis) additio)
+adamante |m.| Planta medicinal, crucı́fera. (Lat. adamas, adamantis)
 addicionação |f.| Acto ou effeito de addicionar.
 addicionador |m.| O que addiciona. (De addicionar )
-addicional |adj.| Que se addiciona. Que accresce. |M.| Aquillo
-adamantino |adj.| Semelhante ao diamante; diamantino.que accresce ou se addiciona. (Lat. additio, additionis) (Lat. adamantinus)
+addicional |adj.| Que se addiciona. Que accresce. |M.| Aquillo que accresce ou se addiciona. (Lat. additio, additionis)
+adamantino |adj.| Semelhante ao diamante; diamantino. (Lat. adamantinus)
 adamar-se |v. p.| Enfeitar-se com o cuidado próprio de dama. Effeminar-se.
 adamascar |v. t.| Dar lavor ou côr de damasco a.
 adamásia |f.| Planta liliácea.
@@ -2766,7 +2766,7 @@ addenda |f.| Aquillo que se accrescenta ou se deve accrescentar no fim de um liv
 addensa-nuvens |adj.| Poét. Que accumula as nuvens.
 addensar |v. t.| Condensar. (Lat. addensare)
 addental |m.| Diz-se, em Anatomia, de uma das peças elementares de uma das vértebras cephálicas. |adj.| Diz-se, em Anatomia, de uma das peças elementares de uma das vértebras cephálicas.
-addição |f.| Acto ou effeito de addir. Somma. Parcella. Successo recente. Appêndice de uma construcção. (Lat.addicionamento |m.| O mesmo que addicionação.
+addição |f.| Acto ou effeito de addir. Somma. Parcella. Successo recente. Appêndice de uma construcção. (Lat. adamantis)
 addicionar |v. t.| Ajuntar. Accrescentar em nota ou commentário. (Do lat. additio, additionis)
 addicionável |adj.| Que se póde addicionar.
 addicto |adj.| Afeiçoado; dedicado. * |adj.| Adjunto. (Lat. addictus)
@@ -3209,7 +3209,8 @@ adornamento |m.| Acto de adornar1 .
 adornar #,1 # |v. t.| Pôr adôrno em. Aformosear. (Lat. adornare)
 adornar #,2 # |v. i.| (V. adernar )
 adôrno |m.| Enfeite, ornato, atavio. (De adornar )
-adortar |v. t.| Exhortar. Excitar, estimular. Cf. Rui Barbosa, Répl., 157. Heráld. Que está costas com costas, (falando-se de certas peças do escudo). (Fr. adossé)
+adortar |v. t.| Exhortar. Excitar, estimular. Cf. Rui Barbosa, Répl., 157.
+adossado |adj.| Heráld. Que está costas com costas, (falando-se de certas peças do escudo). (Fr. adossé)
 adotar |v. t.| Prov. trasm. O mesmo que dotar.
 adoutar |v. t.| (e der.) Ant. O mesmo que adoptar, etc.
 adova #,(dô)# |f.| Ant. Chamava-se casa da adova a sala livre,
@@ -3247,7 +3248,6 @@ adrogação #,(ro)# |f.| Acto de adrogar.
 adrogar #,(ro)# |v. t.| Adoptar, ou tomar por adopção, pessôa de maior idade. (Lat. adrogare)
 adscrever |v. t.| Addicionar ao que está escripto. Inscrever, registar. Cf. Castilho, Fastos, II, 489; III, 55.
 adscripção |f.| Additamento ao que se escreveu. (Lat. adscriptio)
-adossado |adj.| 
 adscriptı́cio |adj.| Dizia-se do colono, obrigado a viver e trabalhar em terra determinada. (De adscripto)
 adscripto |adj.| Aditado. Arrolado. (Do lat. adscriptus)
 adsperso |adj.| Bot. O mesmo que rajado. (Lat. adspersus)
@@ -3619,7 +3619,7 @@ aferimento |m.| O mesmo que aferição.
 aferir |v. t.| Conferir; cotejar, comparar. (Refl. de conferir ?)
 aferı́vel |adj.| Que se póde aferir: “medidas aferı́veis.” Bol. do Trab. Industr., LXXXII, 17.
 afectante |adj.| Que afecta ou finge o que não é.
-afectar |v. t.| Fingir. Têr disposição para offender. |V. p.| afermosear |v. t.| Ant. O mesmo que aformosear. (De Esmerar-se ridiculamente. (Do lat. affectare)
+afectar |v. t.| Fingir. Têr disposição para offender. |V. p.| Esmerar-se ridiculamente. (Do lat. affectare)
 afectativo |adj.| Des. Desejoso.
 afectivamente |adv.| De modo afectivo, com afecto.
 afectividade |f.| Faculdade, relativa aos sentimentos afectivos.
@@ -3656,7 +3656,9 @@ aferência |f.| Qualidade de aferente. Cf. Castilho, Fastos, I, 139.
 aferente |adj.| Que conduz, que leva. (Lat. afferens)
 aférese |f.| Gram. Suppressão de sýllaba ou letra no princı́pio de palavra: batina, por abbatina. (Do gr. aphairesis)
 afergulhar-se |v. t.| Prov. trasm. O mesmo que afarvar-se.
-aferição |f.| Acto ou effeito de aferir.afermosentar |v. t.| Ant. O mesmo que aformosentar. (De fermoso) fermoso)
+aferição |f.| Acto ou effeito de aferir.
+afermosear |v. t.| Ant. O mesmo que aformosear. (De fermoso)
+afermosentar |v. t.| Ant. O mesmo que aformosentar. (De fermoso)
 aferradamente |adv.| De modo aferrado.
 aferrado |adj.| Teimoso; obstinado. (De aferrar )
 aferrador |m.| Bras. Ave, o mesmo que ferrador ou araponga.

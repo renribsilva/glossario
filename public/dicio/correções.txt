@@ -84,7 +84,11 @@ A4117
 A4118 
 A4240 acurar v. t. Tratar com cuidado, com desvelo. (Lat. accu-
 A4363 verde. * Prov. Diz-se do vinho licoroso, que não excede a
-A4364 
+A4369 
+A4364 addicionamento m. O mesmo que addicionação.
+A4372 addicional adj. Que se addiciona. Que accresce. M. Aquillo que accresce ou se addiciona. (Lat. additio, additionis)
+A4373 adamantino adj. Semelhante ao diamante; diamantino.
+A4429 Successo recente. Appêndice de uma construcção. (Lat. adamantis)
 A4484 Fundão)
 A4607 custa dos elementos de uma glândula. (Do gr. aden +
 A4608 
@@ -93,6 +97,8 @@ A4853 adjectivar v. t. Acompanhar de adjectivo. Qualificar. To-
 A4915 
 A4976 adnato adj. Ligado a alguma coisa, de que parece fazer
 A5099 nare)
+A5104 adossado adj. Heráld. Que está costas com costas,
+A5161 
 A5162 
 A5223 aduchar v. t. Náut. Colhêr e enrolar (cabo e amarra) (De
 A5346 adversamente adv. De modo adverso.
@@ -101,6 +107,10 @@ A5469 adoptado em muitas povoações. (Do gr. aer + genes)
 A5592 aerotecnia, (a-e) f. Sciência, que trata do ar ou das suas
 A5593 
 A5715 afear v. t. Tornar feio. (Do ant. fêo==feio)
+A5732 afectar v. t. Fingir. Têr disposição para offender. V. p.
+A5784 aferição f. Acto ou effeito de aferir.
+A5785 afermosear v. t. Ant. O mesmo que aformosear. (De fermoso)
+A5786 afermosentar v. t. Ant. O mesmo que aformosentar. (De fermoso)
 A5836 affectar v. t. Fingir. Têr disposição para offender. V. p.
 A5837 
 A5959 afidı́fagos m. pl. Insectos coleópteros da secção dos trı́me-
