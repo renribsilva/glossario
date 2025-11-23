@@ -247,6 +247,14 @@ export function handleHomeState() {
 
     if (state.inputNorm !== undefined && state.inputNorm !== '') {
 
+      setTimeout(async () => {
+        const silabas = await fetchHifenizador(state.input)
+        setState (prev => ({
+          ...prev,
+          silaba: silabas.word.replace(/-/g, "·"),
+        }))
+      }, 400)
+
       if (state.inputNorm.length < 3) {
         setState (prev => ({
           ...prev,
@@ -328,11 +336,6 @@ export function handleHomeState() {
             isSugDisabled: false
           }))
         }
-        const silabas = await fetchHifenizador(state.input)
-        setState (prev => ({
-          ...prev,
-          silaba: silabas.word.replace(/-/g, "·"),
-        }))
       }
     }
   }
