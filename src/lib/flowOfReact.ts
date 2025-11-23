@@ -6,6 +6,7 @@ import { getSynonymsKeysData } from "./getSynonymData";
 import { initialFlowObject } from "./initialFlow";
 import { initialFlowType } from "../types";
 import { getDicioData } from "./getDicioData";
+import { parseWiktionaryPT } from "./wikcionarioAPI";
 
 export function handleHomeState() {
   
@@ -96,17 +97,26 @@ export function handleHomeState() {
   };
 
   const handlePalavrasClick = (tag: string) => {
-    if (tag === "dicionario")
-    setState(prev =>({
-      ...prev,
-      showSuggestion: false,
-      showDicio: true
-    }))
     if (tag === "palavras")
     setState(prev =>({
       ...prev,
       showSuggestion: true,
+      showDicio: false,
+      showWikcio: false
+    }))
+    if (tag === "wikcionario")
+    setState(prev =>({
+      ...prev,
+      showSuggestion: false,
+      showWikcio: true,
       showDicio: false
+    }))
+    if (tag === "dicionario")
+    setState(prev =>({
+      ...prev,
+      showSuggestion: false,
+      showWikcio: false,
+      showDicio: true
     }))
   }
 
@@ -360,7 +370,15 @@ export function handleHomeState() {
     setState (prev => ({
       ...prev,
       dicioData: dicioData
-    }))
+    }));
+
+    (async () => {
+      const wikcioData = await parseWiktionaryPT(state.inputRaw);
+      setState(prev => ({
+        ...prev,
+        wikcioData: wikcioData
+      }));
+    })();
 
     if (state.inputNorm === undefined || state.inputNorm === '') {
       setState (prev => ({

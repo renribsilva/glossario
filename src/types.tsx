@@ -67,9 +67,29 @@ export type initialFlowType = {
   esperar: boolean | null,
   lastHifenized: string | null
   showSuggestion: boolean;
+  showWikcio: boolean;
   showDicio: boolean;
-  dicioData: dicioData | null
+  wikcioData: WiktionaryPT | null
+  dicioData:  dicioData | null
 }
+
+export type Definicao = { 
+  def: string; 
+  ex: string[]; 
+};
+
+export type EntryParseado = {
+  props: Record<
+    string,
+    { definicoes?: Record<number, Definicao>; flex?: Record<string, string> }
+  >;
+  def?: Record<string, { definicoes?: Record<number, Definicao> }>;
+};
+
+export type WiktionaryPT = {
+  word: string;
+  result: Record<string, EntryParseado>;
+};
 
 export type dicioData = {
   verbete: string,
