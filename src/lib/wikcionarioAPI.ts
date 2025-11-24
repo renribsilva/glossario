@@ -1,26 +1,22 @@
-import { Definicao, EntryParseado } from "../types";
-
 function limparWikitexto(s: string): string {
   return s
-    .replace(/''+/g, "")
-    .replace(/\{\{[^|}]+\|pt\|([^}]+)\}\}/gi, "($1) ")
-    .replace(/\{\{[^}]+\}\}/g, "")
-    .replace(/\[\[(?:[^|\]]*\|)?([^\]]+)\]\]/g, "$1")
-    .replace(/<[^>]+>/g, "")
-    .replace(/\s+/g, " ")
-    .trim();
+    .replace(/''+/g, "") // Remove as ênfases ('' e '''')
+    .replace(/{{/g, "[")
+    .replace(/}}/g, "]")
+    .replace(/\]\]/g, "")
+    .replace(/\[\[/g, "")
+    .replace(/<[^>]+>/g, "") // Remove tags HTML
+    .replace(/\s+/g, " ") // Remove espaços extras
+    .trim(); // Remove espaços no começo e no final
 }
 
 export async function parseWiktionaryPT(word: string) {
-
-  if (word === null || word === undefined) {
-    return
-  }
+  if (!word) return;
 
   const url = "https://pt.wiktionary.org/w/api.php";
   const params = new URLSearchParams({
     action: "query",
-    titles: word,
+    titles: word.toLowerCase(),
     prop: "revisions",
     rvprop: "content",
     rvslots: "main",
@@ -31,7 +27,6 @@ export async function parseWiktionaryPT(word: string) {
   const res = await fetch(`${url}?${params.toString()}`);
   const data = await res.json();
   const pages = data.query.pages;
-
   const page = pages[Object.keys(pages)[0]];
 
   // Página inexistente
@@ -52,101 +47,163 @@ export async function parseWiktionaryPT(word: string) {
   }
 
   const wikitext: string = slot["*"];
-
+  
   const ptMatch = wikitext.match(/={{-pt-}}=(.*?)(?=={{-[a-z]{2}-}}=|$)/s);
   const ptSection = ptMatch ? ptMatch[1] : "";
   const lines = ptSection.split("\n").map(l => l.trim()).filter(Boolean);
-  console.log(lines)
+  // console.log(lines)
 
-  const result: Record<string, EntryParseado> = {};
-  let currentKey: string | null = null;
-  let ignoreBlock = false;
-  let currentProp: string | null = null;
-  let defCounter = 0;
-  let currentDef: Definicao | null = null;
+  // Objeto de resultado, cujas chaves são as linhas com '=='
+  const result: Record<string, Record<string, any>> = {};
 
-  const SECOES_IGNORAR = [
-    "pronúncia",
-    "{{pronúncia|pt}}",
-    "ligações externas",
-    "ligações",
-    "anagrama",
-    "anagramas",
-  ];
+  let Key: string | null = null;
+  let IKey: string | null = null;
+  let IIKey: string | null = null;
+  let IIIKey: string | null = null;
+  let IVKey: string | null = null;
+  let accKey: string = '';
+  let num: number = 1;
 
-  function deveIgnorarSecao(t: string) {
-    const lower = t.toLowerCase();
-
-    if (SECOES_IGNORAR.includes(lower)) return true;
-    if (lower.startsWith("categoria")) return true;
-
-    return false;
-  }
-
+  // Percorre as linhas e organiza as chaves e o conteúdo
   for (const line of lines) {
-    const nivel2 = line.match(/^==([^=].*?)==$/);
+    const nivel1 = line.match(/^==([^=].*?)==$/);
+    if (nivel1) {
+      // Encontrei uma chave de primeiro nível (==)
+      const title = nivel1[1].trim().toLowerCase();
+      
+      // Se já houver uma chave anterior, não precisa adicionar conteúdo
+      if (Key) {
+        result[Key] = result[Key] || {};
+      }
+
+      // Atualiza a chave atual
+      Key = limparWikitexto(title);
+
+      // Cria uma nova chave no result, mas com conteúdo vazio por enquanto
+      result[Key] = {};
+      IKey = null; // Reset para a subchave
+      continue;
+    }
+
+    const nivel2 = line.match(/^===([^=].*?)===$/);
     if (nivel2) {
-      const title = nivel2[1].trim().replace(/<[^>]*>/g, '');
+      // Encontrei uma subchave de terceiro nível (===)
+      IKey = nivel2[1].trim().toLowerCase();
 
-      // IGNORAR seção
-      if (deveIgnorarSecao(title)) {
-        currentKey = null;
-        ignoreBlock = true;
-        continue;
+      // Se a subchave já estiver presente, não precisa criar
+      if (!result[Key]) {
+        result[Key] = {}; // Cria chave principal caso não exista
       }
 
-      const norm = title.toLowerCase();
-      currentKey = norm;
-      result[currentKey] = { props: {} };
-
-      ignoreBlock = false;
-      currentProp = null;
-      defCounter = 0;
-      currentDef = null;
+      // Cria a subchave dentro da chave principal
+      result[Key][IKey] = {};
+      IKey = limparWikitexto(IKey); // Atualiza a subchave
       continue;
     }
 
-    if (/^===/.test(line)) {
-      ignoreBlock = true;
-      continue;
-    }
-
-    if (currentKey && !ignoreBlock) {
-      const trimmed = line.trim();
-      if (!trimmed) continue;
-
-      // Nova prop
-      if (trimmed.startsWith("{{")) {
-        // Props normais
-        currentProp = trimmed;
-        result[currentKey].props[currentProp] = { definicoes: {} };
-        defCounter = 0;
-        currentDef = null;
-      }
-      // Definição
-      else if (trimmed.startsWith("#") && !trimmed.startsWith("#*")) {
-        if (currentProp) {
-          defCounter++;
-          currentDef = { def: limparWikitexto(trimmed.slice(1).trim()), ex: [] };
-          result[currentKey].props[currentProp].definicoes[defCounter] = currentDef;
+    // Se encontrar qualquer outra linha (não == ou ===), ela é o conteúdo da chave ou subchave atual
+    if (Key) {
+      if (IKey) {
+        // Se a linha começar com '{{', trata-se de um template
+        if (line.startsWith("{{")) {
+          num = 1
+          IIKey = limparWikitexto(line.trim()); // Aqui, você usa o conteúdo como a chave de IIKey
+          if (!result[Key][IKey]) {
+            result[Key][IKey] = {}; // Se IKey não existe, cria
+          }          
+          // Agora inicializamos o IIKey corretamente
+          if (!result[Key][IKey][IIKey]) {
+            result[Key][IKey][IIKey] = {}; // Cria o array para o IIKey
+          }
+          continue; // Pula para a próxima iteração
+        }        
+        if (IIKey) {
+          if (!result[Key][IKey][IIKey]) {
+            result[Key][IKey][IIKey] = {};
+          }
+          if (!result[Key][IKey][IIKey][num]) {
+            result[Key][IKey][IIKey][num] = {};
+          }
+          if (line.startsWith("#") && !line.startsWith("#*")) {
+            IIIKey = limparWikitexto(line.slice(1).trim());
+            if (!result[Key][IKey][IIKey][num][IIIKey]) {
+              result[Key][IKey][IIKey][num][IIIKey] = []; // Inicializa como um array
+            }
+            continue
+          }
         }
-      }
-      // Exemplo
-      else if (trimmed.startsWith("#*")) {
-        if (currentDef) {
-          currentDef.ex.push(limparWikitexto(trimmed.slice(2).trim()));
+        if (IIIKey) {
+          if (!result[Key][IKey]) {
+            result[Key][IKey] = {}; // Inicializa como um objeto
+          }
+          if (!result[Key][IKey][IIKey]) {
+            result[Key][IKey][IIKey] = {}; // Inicializa como um objeto
+          }
+          if (!result[Key][IKey][IIKey][num]) {
+            result[Key][IKey][IIKey][num] = {}; // Inicializa como um objeto
+          }
+          if (!result[Key][IKey][IIKey][num][IIIKey]) {
+            result[Key][IKey][IIKey][num][IIIKey] = []; // Inicializa como um objeto
+          }
+          if (line.startsWith("#") && line.startsWith("#*")) {
+            IVKey = limparWikitexto(line.slice(2).trim());
+            if (!result[Key][IKey][IIKey][num][IIIKey]) {
+              result[Key][IKey][IIKey][num][IIIKey] = []; // Inicializa como um objeto
+            }
+            result[Key][IKey][IIKey][num][IIIKey].push(IVKey);
+          }
         }
-      }
-      // Outros → prop "others"
-      else {
-        const otherProp = "others";
-        if (!result[currentKey].props[otherProp]) {
-          result[currentKey].props[otherProp] = { definicoes: {} };
-          defCounter = 0;
+      } else if (!IKey) {
+        IKey = 'def'
+        IIKey = null;
+        if (line.startsWith("{{")) {
+          num = 1
+          IIKey = limparWikitexto(line.trim()); // Aqui, você usa o conteúdo como a chave de IIKey
+          if (!result[Key][IKey]) {
+            result[Key][IKey] = {}; // Se IKey não existe, cria
+          }          
+          // Agora inicializamos o IIKey corretamente
+          if (!result[Key][IKey][IIKey]) {
+            result[Key][IKey][IIKey] = {}; // Cria o array para o IIKey
+          }
+          continue; // Pula para a próxima iteração
+        }        
+        if (IIKey) {
+          if (!result[Key][IKey][IIKey]) {
+            result[Key][IKey][IIKey] = {};
+          }
+          if (!result[Key][IKey][IIKey][num]) {
+            result[Key][IKey][IIKey][num] = {};
+          }
+          if (line.startsWith("#") && !line.startsWith("#*")) {
+            IIIKey = limparWikitexto(line.slice(1).trim());
+            if (!result[Key][IKey][IIKey][num][IIIKey]) {
+              result[Key][IKey][IIKey][num][IIIKey] = []; // Inicializa como um array
+            }
+            continue
+          }
         }
-        defCounter++;
-        currentDef = { def: limparWikitexto(trimmed), ex: [] };
-        result[currentKey].props[otherProp].definicoes[defCounter] = currentDef;
+        if (IIIKey) {
+          if (!result[Key][IKey]) {
+            result[Key][IKey] = {}; // Inicializa como um objeto
+          }
+          if (!result[Key][IKey][IIKey]) {
+            result[Key][IKey][IIKey] = {}; // Inicializa como um objeto
+          }
+          if (!result[Key][IKey][IIKey][num]) {
+            result[Key][IKey][IIKey][num] = {}; // Inicializa como um objeto
+          }
+          if (!result[Key][IKey][IIKey][num][IIIKey]) {
+            result[Key][IKey][IIKey][num][IIIKey] = []; // Inicializa como um objeto
+          }
+          if (line.startsWith("#") && line.startsWith("#*")) {
+            IVKey = limparWikitexto(line.slice(2).trim());
+            if (!result[Key][IKey][IIKey][num][IIIKey]) {
+              result[Key][IKey][IIKey][num][IIIKey] = []; // Inicializa como um objeto
+            }
+            result[Key][IKey][IIKey][num][IIIKey].push(IVKey);
+          }
+        }
       }
     }
   }
@@ -156,4 +213,4 @@ export async function parseWiktionaryPT(word: string) {
 }
 
 // USO
-parseWiktionaryPT("ter");
+// parseWiktionaryPT("ser");
