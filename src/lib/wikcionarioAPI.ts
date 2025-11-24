@@ -12,6 +12,11 @@ function limparWikitexto(s: string): string {
 }
 
 export async function parseWiktionaryPT(word: string) {
+
+  if (word === null || word === undefined) {
+    return
+  }
+
   const url = "https://pt.wiktionary.org/w/api.php";
   const params = new URLSearchParams({
     action: "query",
@@ -81,7 +86,7 @@ export async function parseWiktionaryPT(word: string) {
   for (const line of lines) {
     const nivel2 = line.match(/^==([^=].*?)==$/);
     if (nivel2) {
-      const title = nivel2[1].trim();
+      const title = nivel2[1].trim().replace(/<[^>]*>/g, '');
 
       // IGNORAR seção
       if (deveIgnorarSecao(title)) {
@@ -91,7 +96,7 @@ export async function parseWiktionaryPT(word: string) {
       }
 
       const norm = title.toLowerCase();
-      currentKey = /etimologia/.test(norm) ? "etimologia" : norm;
+      currentKey = norm;
       result[currentKey] = { props: {} };
 
       ignoreBlock = false;
@@ -112,27 +117,6 @@ export async function parseWiktionaryPT(word: string) {
 
       // Nova prop
       if (trimmed.startsWith("{{")) {
-        
-        // Detecta flex.pt em substantivo
-        // if (currentKey === "substantivo" && trimmed.includes("flex.pt")) {
-        //   const flex: Record<string, string> = {};
-        //   const flexMatch = trimmed.match(/\{\{flex\.pt\|([^}]+)\}\}/);
-        //   if (flexMatch) {
-        //     flexMatch[1].split("|").forEach(part => {
-        //       const [k, v] = part.split("=");
-        //       if (k && v) {
-        //         const keyMap: Record<string, string> = { ms: "s", mp: "p", fs: "s", fp: "p" };
-        //         flex[keyMap[k.trim()]] = v.trim();
-        //       }
-        //     });
-        //   }
-        //   currentProp = "flex";
-        //   result[currentKey].props[currentProp] = flex;
-        //   defCounter = 0;
-        //   currentDef = null;
-        //   continue; // já criamos a prop flex
-        // }
-
         // Props normais
         currentProp = trimmed;
         result[currentKey].props[currentProp] = { definicoes: {} };
@@ -172,4 +156,4 @@ export async function parseWiktionaryPT(word: string) {
 }
 
 // USO
-parseWiktionaryPT("comprar");
+parseWiktionaryPT("ter");

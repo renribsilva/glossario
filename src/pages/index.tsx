@@ -115,7 +115,7 @@ export default function HomePage() {
                     {!state.wikcioData && (state.inputRaw === undefined || state.inputRaw === '') && (
                       <div>
                         <span>
-                          Aqui é mostrado o verbete da última palavra digitada, se houver
+                          Aqui é mostrado o verbete da última palavra digitada, se estiver disponível no wikcionário
                         </span>
                       </div>
                     )}
@@ -152,7 +152,7 @@ export default function HomePage() {
                                 .map(([propName, propData]) => (
                                   <div key={propName}>
                                     <div>
-                                      <strong>{classe}  </strong><strong>{propName}</strong>
+                                      <strong>{classe.replace(/{{/g,"").replace(/}}/g,"")}  </strong><strong>{propName.replace(/{{/g,"[").replace(/}}/g,"]")}</strong>
                                     </div>
                                     {Object.entries(propData.definicoes!).map(([num, def]) => (
                                       <div key={num}>

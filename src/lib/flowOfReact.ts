@@ -386,7 +386,8 @@ export function handleHomeState() {
         hasInput: false,
         showGlosaDef: false,
         isSugDisabled: true,
-        activeSug: null
+        activeSug: null,
+        wikcioData: null
       }))
     } else {
       setState (prev => ({
