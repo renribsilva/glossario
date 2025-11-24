@@ -51,6 +51,7 @@ export async function parseWiktionaryPT(word: string) {
   const ptMatch = wikitext.match(/={{-pt-}}=(.*?)(?=={{-[a-z]{2}-}}=|$)/s);
   const ptSection = ptMatch ? ptMatch[1] : "";
   const lines = ptSection.split("\n").map(l => l.trim()).filter(Boolean);
+  console.log(lines)
 
   const result: Record<string, EntryParseado> = {};
   let currentKey: string | null = null;
@@ -58,27 +59,6 @@ export async function parseWiktionaryPT(word: string) {
   let currentProp: string | null = null;
   let defCounter = 0;
   let currentDef: Definicao | null = null;
-
-  function extrairPropsString(line: string): string {
-    const parts: string[] = [];
-
-    // Remove e ignora {{tônico|...}}
-    line = line.replace(/\{\{tônico\|[^}]+\}\}/gi, "");
-
-    // Captura gramática {{gramática|vi}}
-    const gramMatch = line.match(/\{\{gramática\|([^}]+)\}\}/i);
-    if (gramMatch) {
-      parts.push(gramMatch[1].trim());
-    }
-
-    // Captura predicativo ''predicativo''
-    const predMatch = line.match(/''\s*predicativo\s*''/i);
-    if (predMatch) {
-      parts.push("pred");
-    }
-
-    return parts.join(". "); // concatena com ponto
-  }
 
   const SECOES_IGNORAR = [
     "pronúncia",
@@ -154,7 +134,7 @@ export async function parseWiktionaryPT(word: string) {
         // }
 
         // Props normais
-        currentProp = extrairPropsString(trimmed);
+        currentProp = trimmed;
         result[currentKey].props[currentProp] = { definicoes: {} };
         defCounter = 0;
         currentDef = null;
@@ -192,4 +172,4 @@ export async function parseWiktionaryPT(word: string) {
 }
 
 // USO
-parseWiktionaryPT("ter");
+parseWiktionaryPT("comprar");
