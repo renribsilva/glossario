@@ -79,16 +79,6 @@ export default function HomePage() {
             <div className={styles.textarea_button_title}>
               <div className={styles.palavras_button_title}>
                 <button
-                  className={`${styles.palavras_button_child} ${state.showWikcio ? styles.active : styles.inactive}`}
-                  onClick={() => handlePalavrasClick("wikcionario")}
-                  title="Wikcionário"
-                  // disabled={state.isSugDisabled}
-                >
-                  wikcionário
-                </button>
-              </div>
-              <div className={styles.palavras_button_title}>
-                <button
                   className={`${styles.palavras_button_child} ${state.showDicio ? styles.active : styles.inactive}`}
                   onClick={() => handlePalavrasClick("dicionario")}
                   title="Dicionário"
@@ -107,74 +97,7 @@ export default function HomePage() {
                   palavras
                 </button>
               </div>
-            </div> 
-            {state.showWikcio && (
-              <>
-                <div className={styles.dicio_box}>
-                  <div className={styles.dicio_plain}>
-                    {!state.wikcioData && (state.inputRaw === undefined || state.inputRaw === '') && (
-                      <div>
-                        <span>
-                          Aqui é mostrado o verbete da última palavra digitada, se estiver disponível no wikcionário
-                        </span>
-                      </div>
-                    )}
-                    {!state.wikcioData && (state.inputRaw !== undefined && state.inputRaw !== '') && (
-                      <div>
-                        <span>Nenhum verbete para </span>
-                        <span><i>{state.inputRaw}</i></span>
-                      </div>
-                    )}
-                    {state.wikcioData && (
-                      <div>
-                        <div className={styles.dicio_plain_title}>
-                          <span>Verbete de </span><i>{state.wikcioData.word}</i>
-                        </div>
-                        {Object.entries(state.wikcioData.result)
-                          .filter(([_, entry]) =>
-                            Object.entries(entry.props).some(
-                              ([propName, p]) =>  
-                                propName !== '' &&
-                                propName !== 'others' &&
-                                p.definicoes &&
-                                Object.keys(p.definicoes).length > 0
-                            )
-                          )
-                          .map(([classe, entry]) => (
-                            <div key={classe}>
-                              {Object.entries(entry.props)
-                                .filter(([propName, propData]) =>
-                                  propName !== '' &&
-                                  propName !== 'others' &&
-                                  propData.definicoes &&
-                                  Object.keys(propData.definicoes).length > 0
-                                )
-                                .map(([propName, propData]) => (
-                                  <div key={propName}>
-                                    <div>
-                                      <strong>{classe.replace(/{{/g,"").replace(/}}/g,"")}  </strong><strong>{propName.replace(/{{/g,"[").replace(/}}/g,"]")}</strong>
-                                    </div>
-                                    {Object.entries(propData.definicoes!).map(([num, def]) => (
-                                      <div key={num}>
-                                        <span>
-                                          <strong>{num})</strong> {def.def}
-                                        </span>
-                                        {def.ex.length > 0 && (
-                                          <span> (<i>"{def.ex[0]}" </i>)</span>
-                                        )}
-                                      </div>
-                                    ))}
-                                    <br />
-                                  </div>
-                                ))}
-                            </div>
-                          ))}
-                      </div>
-                    )}
-                  </div>
-                </div>
-              </>
-            )} 
+            </div>  
             {state.showDicio && (
               <>
                 <div className={styles.dicio_box}>
