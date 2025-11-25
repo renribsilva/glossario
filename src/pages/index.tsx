@@ -23,10 +23,10 @@ export default function HomePage() {
     handlePalavrasClick
   } = handleHomeState();
 
-  console.log("input:", state.input)
-  console.log("inputRaw:", state.inputRaw)
-  console.log("inputNorm:", state.inputNorm)
-  console.log("inputPrev:", state.inputPrevRaw)
+  // console.log("input:", state.input)
+  // console.log("inputRaw:", state.inputRaw)
+  // console.log("inputNorm:", state.inputNorm)
+  // console.log("inputPrev:", state.inputPrevRaw)
   // console.log("activeFlag:", state.activeFlag)
   // console.log("activeSug:", state.activeSug)
   // console.log("method:", state.method)
@@ -34,7 +34,7 @@ export default function HomePage() {
   // console.log(state.ptBRExtendedC)
   // console.log("Home:", state.inputRaw)
   // console.log("Wik: ", state.wikcioData)
-  console.log("Silaba: ", state.silaba ? (state.silaba).replace(/·/g,"") : null)
+  // console.log("Silaba: ", state.silaba ? (state.silaba).replace(/·/g,"") : null)
 
   const partes = state.dicioData?.definição 
   ? state.dicioData.definição
