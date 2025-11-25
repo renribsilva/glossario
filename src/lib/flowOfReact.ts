@@ -241,29 +241,31 @@ export function handleHomeState() {
     }, 2000)
   }, []);
 
+  const waitForSilabaMatch = async (input: string) => {
+    if (!input) return;
+    const delay = 800;
+
+    while (true) {
+      const silabas = await fetchHifenizador(input);
+      const formattedSilaba = silabas.word?.replace(/-/g, "·") ?? "";
+      setState(prev => ({
+        ...prev,
+        silaba: formattedSilaba,
+      }));
+      // interrompe quando silaba original, sem hífens, bater com input
+      if ((silabas.word?.replace(/-/g, "") ?? "") === input) {
+        console.log("Correspondência atingida:", formattedSilaba);
+        break;
+      }
+      await new Promise(res => setTimeout(res, delay));
+    }
+  };
+
   const processSugList = async () => {
 
-    if (state.inputNorm === '' || state.inputNorm === undefined) {
-      setState (prev => ({
-        ...prev,
-        isSugDisabled: true,
-        method: undefined,
-        activeFlag: null,
-        activeSug: null
-      }))
-    }
+    await waitForSilabaMatch(state.inputRaw);
 
     if (state.inputNorm !== undefined && state.inputNorm !== '') {
-
-      setTimeout(async () => {
-        const silabas = await fetchHifenizador(state.inputRaw !== '' ? state.inputRaw : state.inputPrevRaw)
-        if (silabas) {
-          setState (prev => ({
-            ...prev,
-            silaba: silabas.word?.replace(/-/g, "·"),
-          }))
-        }
-      }, 800)
 
       if (state.inputNorm.length < 3) {
         setState (prev => ({
