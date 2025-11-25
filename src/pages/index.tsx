@@ -154,14 +154,14 @@ export default function HomePage() {
                                             <span style={{ fontWeight: "bold" }}>{i + 1}) </span>
                                             <span>{def.trim()}</span>
                                             {exampleList.length > 0 && (
-                                              <span style={{ marginLeft: 6, color: "#555" }}>
-                                                (Ex:&nbsp;
+                                              <span style={{ marginLeft: 6, color: "#8b8b8bff" }}>
+                                                Ex:&nbsp;
                                                 {exampleList.map((ex, idx) => (
                                                   <span key={idx}>
-                                                    {ex.trim()}
+                                                    {ex.replace(/\s+/g, ' ').trim()}
                                                     {idx < exampleList.length - 1 ? "; " : ""}
                                                   </span>
-                                                ))})
+                                                ))}
                                               </span>
                                             )}
                                           </div>

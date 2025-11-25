@@ -12,6 +12,7 @@ export function parseWikiSections(lines: string[], word: string): wikcioData {
   let stack: wikcioData[] = [root];
   let currentWordKey: string | null = null;       // ex: 'ter, auxiliar'
   let currentDefKey: string | null = null;        // ex: 'acompanhado de verbo...'
+  let nextLineIsExample = false;
 
   for (let raw of lines) {
     const line = raw.trim();
@@ -73,11 +74,26 @@ export function parseWikiSections(lines: string[], word: string): wikcioData {
       continue;
     }
 
-    // linhas que começam com minúscula ou (qualquer coisa) minúscula são definições
-    const isDef = /^[a-zà-öø-ÿ]/.test(line) || /^\([^\)]*\)\s*[a-zà-öø-ÿ]/.test(line);
-    if (currentWordKey && isDef) {
+    const isDefColon = /:$/.test(line);
+    if (currentWordKey && isDefColon) {
       currentDefKey = line;
       contentObj[currentWordKey][currentDefKey] = [];
+      nextLineIsExample = true
+      continue;
+    }
+
+    // linhas que começam com minúscula ou (qualquer coisa) minúscula são definições
+    const isDef = /^[a-zà-öø-ÿ]/.test(line) || /^\([^\)]*\)\s*[a-zà-öø-ÿ]/.test(line);
+    if (currentWordKey && isDef && !nextLineIsExample) {
+      currentDefKey = line;
+      contentObj[currentWordKey][currentDefKey] = [];
+      continue;
+    } else if (currentWordKey && isDef && nextLineIsExample) {
+      if (!contentObj[currentWordKey][currentDefKey!]) {
+        contentObj[currentWordKey][currentDefKey!] = [];
+      }
+      contentObj[currentWordKey][currentDefKey].push(line);
+      nextLineIsExample = false
       continue;
     }
 
