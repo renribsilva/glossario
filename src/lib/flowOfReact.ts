@@ -4,8 +4,9 @@ import { getGlosaEntries, getGlosaData } from "./getGlosaData";
 import { getAnalogKeyData, getAnalogData } from "./getAnalogData";
 import { getSynonymsKeysData } from "./getSynonymData";
 import { initialFlowObject } from "./initialFlow";
-import { initialFlowType } from "../types";
+import { initialFlowType, WikcioResult } from "../types";
 import { getDicioData } from "./getDicioData";
+import { parseWiktionaryPT } from "./wikcionarioAPI";
 
 export function handleHomeState() {
   
@@ -69,44 +70,51 @@ export function handleHomeState() {
 
   const handleInputChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
     const fullText = e.target.value;
+
+    // Remove pontuação para palavras "válidas"
     const words = fullText
       .replace(/[!"#$%&'()*+,.ºª/:;¨´<=>?´@[\\\]^_`{|}~]+/g, "")
-      .split(/\s+/);
-    const raw = fullText.split(/\s+/).filter(word => word.trim() !== "")
-    const validWords = words.filter(word => word.trim() !== "");
-    // console.log(validWords[validWords?.length - 1])
-    if((validWords[validWords?.length - 1])?.trim().length >= 3 ) {
-      setState(prev => ({
-        ...prev,
-        input: (validWords[validWords.length - 1]).toLowerCase()
-      }))
-    }
+      .split(/\s+/)
+      .filter(word => word.trim() !== "");
 
-    let lastRaw = raw[raw.length - 1];
-    let prevLastRaw = raw[raw.length - 2];
-    // console.log("last:", lastRaw)
-    // console.log("last:", prevLastRaw)
-    setState(prev =>({
+    // Mantém todas as palavras "raw" (inclusive curtas)
+    const raw = fullText.split(/\s+/);
+    const lastRaw = raw[raw.length - 1] ?? "";
+    const prevLastRaw = raw[raw.length - 2] ?? "";
+
+    setState(prev => ({
       ...prev,
+      input: words[words.length - 1]?.trim().length >= 3 
+        ? words[words.length - 1].toLowerCase() 
+        : prev.input, // não atualiza se menor que 3
       inputRaw: lastRaw,
       inputPrevRaw: prevLastRaw,
-      inputNorm: ni(validWords[validWords.length - 1]),
+      inputNorm: words[words.length - 1] ? ni(words[words.length - 1]) : prev.inputNorm,
       inputFullText: fullText
-    }))
+    }));
   };
 
   const handlePalavrasClick = (tag: string) => {
-    if (tag === "dicionario")
-    setState(prev =>({
-      ...prev,
-      showSuggestion: false,
-      showDicio: true
-    }))
     if (tag === "palavras")
     setState(prev =>({
       ...prev,
       showSuggestion: true,
+      showDicio: false,
+      showWikcio: false
+    }))
+    if (tag === "wikcionario")
+    setState(prev =>({
+      ...prev,
+      showSuggestion: false,
+      showWikcio: true,
       showDicio: false
+    }))
+    if (tag === "dicionario")
+    setState(prev =>({
+      ...prev,
+      showSuggestion: false,
+      showWikcio: false,
+      showDicio: true
     }))
   }
 
@@ -247,6 +255,16 @@ export function handleHomeState() {
 
     if (state.inputNorm !== undefined && state.inputNorm !== '') {
 
+      setTimeout(async () => {
+        const silabas = await fetchHifenizador(state.inputRaw !== '' ? state.inputRaw : state.inputPrevRaw)
+        if (silabas) {
+          setState (prev => ({
+            ...prev,
+            silaba: silabas.word?.replace(/-/g, "·"),
+          }))
+        }
+      }, 800)
+
       if (state.inputNorm.length < 3) {
         setState (prev => ({
           ...prev,
@@ -328,11 +346,6 @@ export function handleHomeState() {
             isSugDisabled: false
           }))
         }
-        const silabas = await fetchHifenizador(state.input)
-        setState (prev => ({
-          ...prev,
-          silaba: silabas.word.replace(/-/g, "·"),
-        }))
       }
     }
   }
@@ -349,7 +362,7 @@ export function handleHomeState() {
         esperar: false,
       }))
     })();
-  }, [state.input, state.method, state.activeSug, state.flagGroup, state.activeFlag]);
+  }, [state.input, state.inputRaw, state.method, state.activeSug, state.flagGroup, state.activeFlag]);
 
   useEffect(() => {
 
@@ -357,7 +370,27 @@ export function handleHomeState() {
     setState (prev => ({
       ...prev,
       dicioData: dicioData
-    }))
+    }));
+
+    if (state.inputRaw !== '') {
+      (async () => {
+        const wikcioDataObj: WikcioResult | null = await parseWiktionaryPT(state.inputRaw);
+        setState(prev => ({
+          ...prev,
+          wikcioData: wikcioDataObj
+        }));
+      })();
+    }
+
+    if (state.inputRaw === '') {
+      (async () => {
+        const wikcioDataObj: WikcioResult | null = await parseWiktionaryPT(state.inputPrevRaw);
+        setState(prev => ({
+          ...prev,
+          wikcioData: wikcioDataObj
+        }));
+      })();
+    }
 
     if (state.inputNorm === undefined || state.inputNorm === '') {
       setState (prev => ({
@@ -365,7 +398,8 @@ export function handleHomeState() {
         hasInput: false,
         showGlosaDef: false,
         isSugDisabled: true,
-        activeSug: null
+        activeSug: null,
+        wikcioData: null
       }))
     } else {
       setState (prev => ({

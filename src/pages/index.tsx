@@ -23,14 +23,17 @@ export default function HomePage() {
     handlePalavrasClick
   } = handleHomeState();
 
-  // console.log("input:", state.input)
-  // console.log("inputNorm:", state.inputNorm)
+  console.log("input:", state.input)
+  console.log("inputRaw:", state.inputRaw)
+  console.log("inputNorm:", state.inputNorm)
   // console.log("activeFlag:", state.activeFlag)
   // console.log("activeSug:", state.activeSug)
   // console.log("method:", state.method)
   // console.log("isSugDisabled:", state.isSugDisabled)
   // console.log(state.ptBRExtendedC)
   // console.log("Home:", state.inputRaw)
+  // console.log("Wik: ", state.wikcioData)
+  console.log("Silaba: ", state.silaba ? (state.silaba).replace(/·/g,"") : null)
 
   const partes = state.dicioData?.definição 
   ? state.dicioData.definição
@@ -43,18 +46,14 @@ export default function HomePage() {
     <div className={styles.home}>
       <section className={styles.navbar}>
         <div className={styles.navbar_left}>
-          {state.inputNorm === undefined || state.inputNorm === '' ? (
+          {state.inputFullText === undefined || state.inputFullText === '' ? (
             <div>glos·sá·rio</div>
-          ) : (
-            (state.inputNorm.length < 3 || state.silaba?.replace(/·/g,"") !== state.input) ? (
-            <div>. . .</div>
           ) : (
             <>
               {state.silaba && (
                 <div>{state.silaba}</div>
               )}
             </>
-          )
           )}
         </div>
         <div className={styles.navbar_right}>
@@ -79,6 +78,16 @@ export default function HomePage() {
             <div className={styles.textarea_button_title}>
               <div className={styles.palavras_button_title}>
                 <button
+                  className={`${styles.palavras_button_child} ${state.showWikcio ? styles.active : styles.inactive}`}
+                  onClick={() => handlePalavrasClick("wikcionario")}
+                  title="Wikcionário"
+                  // disabled={state.isSugDisabled}
+                >
+                  wikcionário
+                </button>
+              </div>
+              <div className={styles.palavras_button_title}>
+                <button
                   className={`${styles.palavras_button_child} ${state.showDicio ? styles.active : styles.inactive}`}
                   onClick={() => handlePalavrasClick("dicionario")}
                   title="Dicionário"
@@ -98,6 +107,85 @@ export default function HomePage() {
                 </button>
               </div>
             </div>  
+            {state.showWikcio && (
+              <>
+                <div className={styles.dicio_box}>
+                  <div className={styles.dicio_plain}>
+                    {!state.wikcioData && (state.inputFullText === undefined || state.inputFullText === '') && (
+                      <div>
+                        <span>
+                          Aqui é mostrado o verbete da última palavra digitada, se houver
+                        </span>
+                      </div>
+                    )}
+                    {!state.wikcioData && (state.input !== undefined && state.input !== '') && (
+                      <div>
+                        <span>Nenhum verbete para </span>
+                        <span><i>{state.inputRaw}</i></span>
+                      </div>
+                    )}
+                    {state.wikcioData && state.wikcioData.ptSection && (
+                      <div>
+                        <div className={styles.dicio_plain_title}>
+                          <span>Verbete de </span>
+                          <i>{state.wikcioData.word}</i>
+                        </div>
+                        {state.wikcioData.ptSection.children
+                        .filter(child => child.title.toUpperCase() !== "PRONÚNCIA")
+                        .filter(child => child.title.toUpperCase() !== "LIGAÇÕES EXTERNAS")
+                        .filter(child => child.title.toUpperCase() !== "ANAGRAMA")
+                        .filter(child => child.title.toUpperCase() !== "ANAGRAMAS")
+                        .filter(child => child.title.toUpperCase() !== "VER TAMBÉM")
+                        .map((child, i) => (
+                          <div key={i}>
+                            <div><strong>{child.title.toUpperCase()}</strong></div>
+                            {/* Se content for objeto (definições) */}
+                            {child.content && !Array.isArray(child.content) && (
+                              <div>
+                                {Object.entries(child.content as Record<string, Record<string, string[]>>)
+                                  .map(([wordKey, defs]) => (
+                                    <div key={wordKey} style={{ marginLeft: 10 }}>
+                                      <strong>{wordKey.replace(/\(.*?\)/g, "").trim()}</strong>
+                                      {/* Para cada definição */}
+                                      {Object.entries(defs).map(([def, examples], i) => {
+                                        const exampleList = examples as string[];
+                                        return (
+                                          <div key={def} style={{ marginLeft: 10 }}>
+                                            <span style={{ fontWeight: "bold" }}>{i + 1}) </span>
+                                            <span>{def.trim()}</span>
+                                            {exampleList.length > 0 && (
+                                              <span style={{ marginLeft: 6, color: "#555" }}>
+                                                (Ex:&nbsp;
+                                                {exampleList.map((ex, idx) => (
+                                                  <span key={idx}>
+                                                    {ex.trim()}
+                                                    {idx < exampleList.length - 1 ? "; " : ""}
+                                                  </span>
+                                                ))})
+                                              </span>
+                                            )}
+                                          </div>
+                                        );
+                                      })}
+                                    </div>
+                                  ))}
+                              </div>
+                            )}
+                            {/* Se content for array vazio */}
+                            {child.content && Array.isArray(child.content) && child.content.length === 0 && (
+                              <span style={{ color: "#777" }}>— sem conteúdo —</span>
+                            )}
+                            {child.content && !Array.isArray(child.content) && Object.keys(child.content).length === 0 && (
+                              <span style={{ color: "#777" }}>— sem conteúdo —</span>
+                            )}
+                          </div>
+                        ))}
+                      </div>
+                    )}
+                  </div>
+                </div>
+              </>
+            )} 
             {state.showDicio && (
               <>
                 <div className={styles.dicio_box}>

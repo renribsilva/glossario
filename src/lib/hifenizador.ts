@@ -19,6 +19,8 @@ const allPatterns = Array.from(new Set([
 
 export function hifenizador(word: string, allPatterns: string[]) {
 
+  if (word === '' || word === undefined) return null
+
   let getWord = false
   let reconstructed = ''
   

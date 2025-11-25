@@ -26,6 +26,8 @@ export const initialFlowObject = {
   esperar: null,
   lastHifenized: null,
   showSuggestion: false,
-  showDicio: true,
+  showWikcio: true,
+  showDicio: false,
+  wikcioData: null,
   dicioData: null
 }

@@ -48,7 +48,7 @@ export function getDicioData(lastRaw: string, prevLastRaw?: string): dicioData |
     for (const [entrada, valor] of Object.entries(letraObj)) {
       const entradaArray = entrada.split(' ')
       if (entradaArray.length === 2 && prevLastRaw) {
-        console.log(`${prevLastRaw} ${lastRaw}`)
+        // console.log(`${prevLastRaw} ${lastRaw}`)
         if (ni(entrada) === ni(`${prevLastRaw} ${lastRaw}`))
           return {
             verbete: entrada, 

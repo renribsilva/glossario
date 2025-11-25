@@ -68,10 +68,24 @@ export type initialFlowType = {
   lastHifenized: string | null
   showSuggestion: boolean;
   showDicio: boolean;
-  dicioData: dicioData | null
+  showWikcio: boolean;
+  dicioData: dicioData | null;
+  wikcioData: WikcioResult | null
 }
 
 export type dicioData = {
   verbete: string,
   definição: string
 }
+
+export type wikcioData = {
+  level: number;
+  title: string;
+  content: string[] | Record<string, any>;
+  children: wikcioData[];
+}
+
+export type WikcioResult = {
+  word: string;
+  ptSection: wikcioData | null;
+};
