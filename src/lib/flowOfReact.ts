@@ -74,11 +74,12 @@ export function handleHomeState() {
     // Remove pontuação para palavras "válidas"
     const words = fullText
       .replace(/[!"#$%&'()*+,.ºª/:;¨´<=>?´@[\\\]^_`{|}~]+/g, "")
+      .toLowerCase()
       .split(/\s+/)
       .filter(word => word.trim() !== "");
 
     // Mantém todas as palavras "raw" (inclusive curtas)
-    const raw = fullText.split(/\s+/);
+    const raw = fullText.toLowerCase().split(/\s+/);
     const lastRaw = raw[raw.length - 1] ?? "";
     const prevLastRaw = raw[raw.length - 2] ?? "";
 
@@ -123,6 +124,7 @@ export function handleHomeState() {
     if (fullText.endsWith(" ") || fullText.endsWith(".") || e.key === "Enter") {
       const words = fullText
         .replace(/[!"#$%&'()*+,.ºª/:;¨´<=>?´@[\\\]^_`{|}~]+/g, "")
+        .toLowerCase()
         .split(/\s+/);
       const validWords = words.filter(word => word.trim() !== "");
       // console.log((validWords[validWords?.length - 1]))
@@ -243,7 +245,7 @@ export function handleHomeState() {
 
   const waitForSilabaMatch = async (input: string) => {
     if (!input) return;
-    const delay = 400;
+    const delay = 800;
 
     while (true) {
       const silabas = await fetchHifenizador(input);
