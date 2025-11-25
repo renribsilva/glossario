@@ -34,7 +34,7 @@ export default function HomePage() {
   // console.log(state.ptBRExtendedC)
   // console.log("Home:", state.inputRaw)
   // console.log("Wik: ", state.wikcioData)
-  // console.log("Silaba: ", state.silaba ? (state.silaba).replace(/·/g,"") : null)
+  console.log("Silaba: ", state.silaba ? (state.silaba).replace(/·/g,"") : null)
 
   const partes = state.dicioData?.definição 
   ? state.dicioData.definição
