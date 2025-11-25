@@ -243,19 +243,28 @@ export function handleHomeState() {
 
   const waitForSilabaMatch = async (input: string) => {
     if (!input) return;
-    const delay = 800;
+    const delay = 400;
 
     while (true) {
       const silabas = await fetchHifenizador(input);
       const formattedSilaba = silabas.word?.replace(/-/g, "·") ?? "";
+
       setState(prev => ({
         ...prev,
         silaba: formattedSilaba,
       }));
+
       // interrompe quando silaba original, sem hífens, bater com input
       if ((silabas.word?.replace(/-/g, "") ?? "") === input) {
         console.log("Correspondência atingida:", formattedSilaba);
-        break;
+        // chamada extra para garantir atualização final
+        const finalSilabas = await fetchHifenizador(input);
+        const finalFormatted = finalSilabas.word?.replace(/-/g, "·") ?? "";
+        setState(prev => ({
+          ...prev,
+          silaba: finalFormatted,
+        }));
+        break; // sai do loop
       }
       await new Promise(res => setTimeout(res, delay));
     }
