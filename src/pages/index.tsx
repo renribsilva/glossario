@@ -23,9 +23,10 @@ export default function HomePage() {
     handlePalavrasClick
   } = handleHomeState();
 
-  // console.log("input:", state.input)
-  // console.log("inputRaw:", state.inputRaw)
-  // console.log("inputNorm:", state.inputNorm)
+  console.log("input:", state.input)
+  console.log("inputRaw:", state.inputRaw)
+  console.log("inputNorm:", state.inputNorm)
+  console.log("inputPrev:", state.inputPrevRaw)
   // console.log("activeFlag:", state.activeFlag)
   // console.log("activeSug:", state.activeSug)
   // console.log("method:", state.method)
@@ -121,7 +122,7 @@ export default function HomePage() {
                     {!state.wikcioData && (state.input !== undefined && state.input !== '') && (
                       <div>
                         <span>Nenhum verbete para </span>
-                        <span><i>{state.inputRaw}</i></span>
+                        <span><i>{state.input}</i></span>
                       </div>
                     )}
                     {state.wikcioData && state.wikcioData.ptSection && (

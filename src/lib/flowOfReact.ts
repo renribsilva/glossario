@@ -274,7 +274,11 @@ export function handleHomeState() {
 
   const processSugList = async () => {
 
-    await waitForSilabaMatch(state.inputRaw);
+    if (state.inputRaw === '') {
+      await waitForSilabaMatch(state.inputPrevRaw);
+    } else {
+      await waitForSilabaMatch(state.inputRaw);
+    }
 
     if (state.inputNorm !== undefined && state.inputNorm !== '') {
 
