@@ -245,13 +245,13 @@ export function handleHomeState() {
           wikcioData: wikcioDataObj,
         }));
       // interrompe quando silaba original, sem hífens, bater com input
-      console.log({
-        inputLastNorm: state.inputLastNorm,
-        inputPrevNorm: state.inputPrevNorm,
-        original: input,
-        sanitizedInput: input.trim().toLowerCase(),
-        sanitizedFromAPI: wikcioDataObj?.word?.replace(/[.]/g, "").trim().toLowerCase(),
-      });
+      // console.log({
+      //   inputLastNorm: state.inputLastNorm,
+      //   inputPrevNorm: state.inputPrevNorm,
+      //   original: input,
+      //   sanitizedInput: input.trim().toLowerCase(),
+      //   sanitizedFromAPI: wikcioDataObj?.word?.replace(/[.]/g, "").trim().toLowerCase(),
+      // });
       if (!wikcioDataObj || (wikcioDataObj && !wikcioDataObj.word)) return
       if (wikcioDataObj.word.replace(/[.]/g, "").trim().toLowerCase() ?? "" === input.trim().toLowerCase()) {
         const wikcioDataObj: WikcioResult | null = await parseWiktionaryPT(input);
