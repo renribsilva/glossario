@@ -40,11 +40,9 @@ export type ExtendedWordMap = {
 };
 
 export type initialFlowType = {
-  input: string | undefined,
-  inputNorm: string | undefined,
-  inputRaw: string | undefined,
-  inputPrevRaw: string | undefined,
   inputFullText: string | undefined,
+  inputLastNorm: string | undefined,
+  inputPrevNorm: string | undefined,
   showGlosaDef: boolean,
   showAnalogDef: boolean,
   hasInput: boolean,
@@ -65,7 +63,6 @@ export type initialFlowType = {
   flagGroup: string,
   silaba: string | null,
   esperar: boolean | null,
-  lastHifenized: string | null
   showSuggestion: boolean;
   showDicio: boolean;
   showWikcio: boolean;

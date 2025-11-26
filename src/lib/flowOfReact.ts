@@ -11,7 +11,7 @@ import { parseWiktionaryPT } from "./wikcionarioAPI";
 export function handleHomeState() {
   
   const [state, setState] = useState<initialFlowType>(initialFlowObject)
-  const previousInputNorm = useRef<string | undefined>(undefined);
+  const previousInputLastNorm = useRef<string | undefined>(undefined);
   const ptExtendedCache = useRef<Record<string, any>>({});
   const hifenizadorCache = useRef<Record<string, string>>({});
 
@@ -49,49 +49,21 @@ export function handleHomeState() {
     return data;
   };
 
-  const fetchHifenizador = async (word: string): Promise<{ word: string }> => {
-    if (hifenizadorCache.current[word]) {
-      const cachedResult = hifenizadorCache.current[word];
-      setState(prev => ({
-        ...prev,
-        lastHifenized: ni(word)
-      }))
-      return { word: cachedResult };
-    }
-    const response = await fetch(`/api/loadHifenizador?word=${encodeURIComponent(word)}`);
-    const data = await response.json();
-    hifenizadorCache.current[word] = data.word;
-    setState(prev => ({
-      ...prev,
-      lastHifenized: ni(word)
-    }))
-    return data;
-  };
-
   const handleInputChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
-    const fullText = e.target.value;
-
-    // Remove pontuação para palavras "válidas"
-    const words = fullText
+    const fullText = e.currentTarget.value;
+     // Normalizado
+    const norm = fullText
       .replace(/[!"#$%&'()*+,.ºª/:;¨´<=>?´@[\\\]^_`{|}~]+/g, "")
       .toLowerCase()
       .split(/\s+/)
-      .filter(word => word.trim() !== "");
-
-    // Mantém todas as palavras "raw" (inclusive curtas)
-    const raw = fullText.toLowerCase().split(/\s+/);
-    const lastRaw = raw[raw.length - 1] ?? "";
-    const prevLastRaw = raw[raw.length - 2] ?? "";
+    const lastNorm = norm[norm.length - 1] ?? "";
+    const lastPrevNorm = norm[norm.length - 2] ?? "";
 
     setState(prev => ({
       ...prev,
-      input: words[words.length - 1]?.trim().length >= 3 
-        ? words[words.length - 1].toLowerCase() 
-        : prev.input, // não atualiza se menor que 3
-      inputRaw: lastRaw,
-      inputPrevRaw: prevLastRaw,
-      inputNorm: words[words.length - 1] ? ni(words[words.length - 1]) : prev.inputNorm,
-      inputFullText: fullText
+      inputFullText: fullText,
+      inputLastNorm: lastNorm,
+      inputPrevNorm: lastPrevNorm
     }));
   };
 
@@ -118,29 +90,6 @@ export function handleHomeState() {
       showDicio: true
     }))
   }
-
-  const handleKeyDown = (e: React.KeyboardEvent<HTMLTextAreaElement>) => {
-    const fullText = e.currentTarget.value;
-    if (fullText.endsWith(" ") || fullText.endsWith(".") || e.key === "Enter") {
-      const words = fullText
-        .replace(/[!"#$%&'()*+,.ºª/:;¨´<=>?´@[\\\]^_`{|}~]+/g, "")
-        .toLowerCase()
-        .split(/\s+/);
-      const validWords = words.filter(word => word.trim() !== "");
-      // console.log((validWords[validWords?.length - 1]))
-      if((validWords[validWords?.length - 1])?.trim().length >= 3 ) {
-        setState(prev => ({
-          ...prev,
-          input: (validWords[validWords.length - 1]).toLowerCase()
-        }))
-      }
-      setState(prev =>({
-        ...prev,
-        inputNorm: ni(validWords[validWords.length - 1]),
-        inputFullText: fullText,
-      }))
-    }
-  };
 
   const handleAnalogClick = (input: string) => {
     setState(prev =>({
@@ -232,33 +181,47 @@ export function handleHomeState() {
     }))
   };
 
-  useEffect(() => {
-    setTimeout(() => {
-      const fetchData = async () => {
-        const result = await fetchPTExtended("adv_adj_sub_Flags", "orla", "e", false);
-        // console.log(result);
-        return result;
-      };
-      void fetchData();
-    }, 2000)
-  }, []);
+  const fetchHifenizador = async (word: string): Promise<{ word: string }> => {
+    if (hifenizadorCache.current[word]) {
+      return { word: hifenizadorCache.current[word] };
+    }
+    const response = await fetch(`/api/loadHifenizador?word=${encodeURIComponent(word)}`);
+    const data = await response.json();
+    // validação
+    if (!data || typeof data.word !== "string") {
+      console.error("API retornou valor inválido:", data);
+      return { word: null }; // evita loop infinito
+    }
+    // grava no cache
+    hifenizadorCache.current[word] = data.word;
+    return { word: data.word };
+  };
 
   const waitForSilabaMatch = async (input: string) => {
-    if (!input) return;
+    if (!input || input === undefined) return
     const delay = 800;
-
     while (true) {
       const silabas = await fetchHifenizador(input);
+      if (!silabas.word) {
+        console.warn("Silaba retornou vazia para", input);
+        break; // ou await timeout
+      }
       const formattedSilaba = silabas.word?.replace(/-/g, "·") ?? "";
-
       setState(prev => ({
         ...prev,
         silaba: formattedSilaba,
       }));
-
       // interrompe quando silaba original, sem hífens, bater com input
-      if ((silabas.word?.replace(/-/g, "") ?? "") === input) {
-        console.log("Correspondência atingida:", formattedSilaba);
+      // console.log({
+      //   inputLastNorm: state.inputLastNorm,
+      //   inputPrevNorm: state.inputPrevNorm,
+      //   original: input,
+      //   rawFromAPI: formattedSilaba,
+      //   sanitizedInput: ni(input),
+      //   sanitizedFromAPI: ni(silabas.word?.replace(/-/g, "") ?? ""),
+      // });
+      if (silabas.word?.replace(/-/g, "") ?? "" === input) {
+        // console.log("Correspondência atingida:", formattedSilaba);
         // chamada extra para garantir atualização final
         const finalSilabas = await fetchHifenizador(input);
         const finalFormatted = finalSilabas.word?.replace(/-/g, "·") ?? "";
@@ -272,17 +235,48 @@ export function handleHomeState() {
     }
   };
 
+  const waitForWikcioMatch = async (input: string) => {
+    if (!input || input === undefined) return
+    const delay = 800;
+    while (true) {
+      const wikcioDataObj: WikcioResult | null = await parseWiktionaryPT(input);
+      setState(prev => ({
+          ...prev,
+          wikcioData: wikcioDataObj,
+        }));
+      // interrompe quando silaba original, sem hífens, bater com input
+      console.log({
+        inputLastNorm: state.inputLastNorm,
+        inputPrevNorm: state.inputPrevNorm,
+        original: input,
+        sanitizedInput: input.trim().toLowerCase(),
+        sanitizedFromAPI: wikcioDataObj?.word?.replace(/[.]/g, "").trim().toLowerCase(),
+      });
+      if (!wikcioDataObj || (wikcioDataObj && !wikcioDataObj.word)) return
+      if (wikcioDataObj.word.replace(/[.]/g, "").trim().toLowerCase() ?? "" === input.trim().toLowerCase()) {
+        const wikcioDataObj: WikcioResult | null = await parseWiktionaryPT(input);
+        setState(prev => ({
+          ...prev,
+          wikcioData: wikcioDataObj,
+        }));
+        break; // sai do loop
+      }
+      await new Promise(res => setTimeout(res, delay));
+    }
+  };
+
   const processSugList = async () => {
 
-    if (state.inputRaw === '') {
-      await waitForSilabaMatch(state.inputPrevRaw);
+    if (state.inputLastNorm === '') {
+      await waitForSilabaMatch(state.inputPrevNorm);
+      await waitForWikcioMatch(state.inputPrevNorm);
     } else {
-      await waitForSilabaMatch(state.inputRaw);
+      await waitForSilabaMatch(state.inputLastNorm);
+      await waitForWikcioMatch(state.inputLastNorm);
     }
+    if (state.inputLastNorm !== undefined && state.inputLastNorm !== '') {
 
-    if (state.inputNorm !== undefined && state.inputNorm !== '') {
-
-      if (state.inputNorm.length < 3) {
+      if (state.inputLastNorm.length < 3) {
         setState (prev => ({
           ...prev,
           isSugDisabled: true,
@@ -290,7 +284,7 @@ export function handleHomeState() {
           activeSug: null,
           esperar: false
         }))
-      } else if (state.inputNorm.length >= 3) {
+      } else if (state.inputLastNorm.length >= 3) {
 
         // console.log(state.method)
 
@@ -304,7 +298,7 @@ export function handleHomeState() {
             method: "e",
             activeSug: "e"
           }))
-          E = await fetchPTExtended(state.flagGroup, String(state.input), "e", state.activeFlag ? true : false);
+          E = await fetchPTExtended(state.flagGroup, String(state.inputLastNorm), "e", state.activeFlag ? true : false);
           setState (prev => ({
             ...prev,
             ptBRExtendedE: E,
@@ -318,7 +312,7 @@ export function handleHomeState() {
             method: "e",
             activeSug: "e"
           }))
-          E = await fetchPTExtended(state.flagGroup, String(state.input), "e", state.activeFlag ? true : false);
+          E = await fetchPTExtended(state.flagGroup, String(state.inputLastNorm), "e", state.activeFlag ? true : false);
           setState (prev => ({
             ...prev,
             ptBRExtendedE: E,
@@ -331,7 +325,7 @@ export function handleHomeState() {
             method: "s",
             activeSug: "s"
           }))
-          S = await fetchPTExtended(state.flagGroup, String(state.input), "s", state.activeFlag ? true : false);
+          S = await fetchPTExtended(state.flagGroup, String(state.inputLastNorm), "s", state.activeFlag ? true : false);
           setState (prev => ({
             ...prev,
             ptBRExtendedS: S,
@@ -344,7 +338,7 @@ export function handleHomeState() {
             method: "c",
             activeSug: "c"
           }))
-          C = await fetchPTExtended(state.flagGroup, String(state.input), "c", state.activeFlag ? true : false);
+          C = await fetchPTExtended(state.flagGroup, String(state.inputLastNorm), "c", state.activeFlag ? true : false);
           setState (prev => ({
             ...prev,
             ptBRExtendedC: C,
@@ -368,6 +362,17 @@ export function handleHomeState() {
   }
 
   useEffect(() => {
+    setTimeout(() => {
+      const fetchData = async () => {
+        const result = await fetchPTExtended("adv_adj_sub_Flags", "orla", "e", false);
+        // console.log(result);
+        return result;
+      };
+      void fetchData();
+    }, 2000)
+  }, []);
+
+  useEffect(() => {
     (async () => {
       setState (prev => ({
         ...prev,
@@ -379,37 +384,17 @@ export function handleHomeState() {
         esperar: false,
       }))
     })();
-  }, [state.input, state.inputRaw, state.method, state.activeSug, state.flagGroup, state.activeFlag]);
+  }, [state.inputFullText, state.method, state.activeSug, state.flagGroup, state.activeFlag]);
 
   useEffect(() => {
 
-    const dicioData = getDicioData(state.inputRaw, state.inputPrevRaw)
+    const dicioData = getDicioData(state.inputLastNorm, state.inputPrevNorm)
     setState (prev => ({
       ...prev,
       dicioData: dicioData
     }));
 
-    if (state.inputRaw !== '') {
-      (async () => {
-        const wikcioDataObj: WikcioResult | null = await parseWiktionaryPT(state.inputRaw);
-        setState(prev => ({
-          ...prev,
-          wikcioData: wikcioDataObj
-        }));
-      })();
-    }
-
-    if (state.inputRaw === '') {
-      (async () => {
-        const wikcioDataObj: WikcioResult | null = await parseWiktionaryPT(state.inputPrevRaw);
-        setState(prev => ({
-          ...prev,
-          wikcioData: wikcioDataObj
-        }));
-      })();
-    }
-
-    if (state.inputNorm === undefined || state.inputNorm === '') {
+    if (state.inputLastNorm === undefined || state.inputLastNorm === '') {
       setState (prev => ({
         ...prev,
         hasInput: false,
@@ -425,25 +410,25 @@ export function handleHomeState() {
       }))
     }
 
-    if (!state.inputNorm || state.inputNorm === previousInputNorm.current) {
+    if (!state.inputLastNorm || state.inputLastNorm === previousInputLastNorm.current) {
       return;
     }
 
-    previousInputNorm.current = state.inputNorm;
+    previousInputLastNorm.current = state.inputLastNorm;
 
     const timer = setTimeout(() => {
 
-      const entries = getGlosaEntries(state.inputNorm, state.inputFullText);
+      const entries = getGlosaEntries(ni(state.inputLastNorm), state.inputFullText);
       setState (prev => ({
         ...prev,
         glosaEntries: entries
       }))
-      const analog = getAnalogKeyData(ni(state.inputNorm));
+      const analog = getAnalogKeyData(ni(state.inputLastNorm));
       setState (prev => ({
         ...prev,
         analogKeyData: analog
       }))
-      const synonymKeyData = getSynonymsKeysData(ni(state.inputNorm));
+      const synonymKeyData = getSynonymsKeysData(ni(state.inputLastNorm));
       setState (prev => ({
         ...prev,
         synonymKeyData: synonymKeyData,
@@ -479,7 +464,7 @@ export function handleHomeState() {
 
     }, 300);
     return () => clearTimeout(timer);
-  }, [state.inputNorm, state.input, state.inputRaw]);
+  }, [state.inputFullText]);
 
   return {
     keys,
@@ -490,7 +475,6 @@ export function handleHomeState() {
     flags,
     setState,
     handleInputChange,
-    handleKeyDown,
     handleAnalogClick,
     handleSynonymClick,
     handleShowGlosaDef,

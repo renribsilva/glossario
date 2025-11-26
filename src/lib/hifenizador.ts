@@ -24,7 +24,7 @@ export function hifenizador(word: string, allPatterns: string[]) {
   let getWord = false
   let reconstructed = ''
   
-  const w1 = "." + word + ".";
+  const w1 = "." + word.toLowerCase() + ".";
   const matches: { pattern: string; start: number; end: number; rawPattern: string }[] = [];
   const array: (string | null)[] = [];
 
@@ -165,4 +165,4 @@ export function hifenizador(word: string, allPatterns: string[]) {
 }
 
 // Exemplo
-// hifenizador("compreender", allPatterns);
+// hifenizador("pôr", allPatterns);

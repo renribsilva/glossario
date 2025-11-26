@@ -13,7 +13,6 @@ export default function HomePage() {
     flags,
     state,
     handleInputChange,
-    handleKeyDown,
     handleAnalogClick,
     handleSynonymClick,
     handleShowGlosaDef,
@@ -23,18 +22,17 @@ export default function HomePage() {
     handlePalavrasClick
   } = handleHomeState();
 
-  // console.log("input:", state.input)
-  // console.log("inputRaw:", state.inputRaw)
-  // console.log("inputNorm:", state.inputNorm)
-  // console.log("inputPrev:", state.inputPrevRaw)
+  // console.log("inputFullText:", state.inputFullText)
+  // console.log("inputLastRaw:", state.inputLastNorm)
+  // console.log("inputLastPrevRaw:", state.inputPrevNorm)
+  // console.log("Silaba: ", state.silaba ? (state.silaba).replace(/·/g,"") : null)
   // console.log("activeFlag:", state.activeFlag)
   // console.log("activeSug:", state.activeSug)
   // console.log("method:", state.method)
   // console.log("isSugDisabled:", state.isSugDisabled)
   // console.log(state.ptBRExtendedC)
-  // console.log("Home:", state.inputRaw)
-  // console.log("Wik: ", state.wikcioData)
-  // console.log("Silaba: ", state.silaba ? (state.silaba).replace(/·/g,"") : null)
+  // console.log("Home:", state.inputLastRaw)
+  console.log("Wik: ", state.wikcioData)
 
   const partes = state.dicioData?.definição 
   ? state.dicioData.definição
@@ -69,7 +67,6 @@ export default function HomePage() {
               <textarea
                 className={styles.textarea}
                 onChange={handleInputChange}
-                onKeyDown={handleKeyDown}
                 placeholder="Digite o texto..."
                 spellCheck={false}
               />
@@ -119,10 +116,10 @@ export default function HomePage() {
                         </span>
                       </div>
                     )}
-                    {!state.wikcioData && (state.input !== undefined && state.input !== '') && (
+                    {(!state.wikcioData || !state.wikcioData.ptSection) && (state.inputLastNorm !== undefined && state.inputLastNorm !== '') && (
                       <div>
                         <span>Nenhum verbete para </span>
-                        <span><i>{state.input}</i></span>
+                        <span><i>{state.inputLastNorm}</i></span>
                       </div>
                     )}
                     {state.wikcioData && state.wikcioData.ptSection && (
@@ -191,17 +188,17 @@ export default function HomePage() {
               <>
                 <div className={styles.dicio_box}>
                   <div className={styles.dicio_plain}>
-                    {!partes && (state.inputRaw === undefined || state.inputRaw === '') && (
+                    {!partes && (state.inputFullText === undefined || state.inputFullText === '') && (
                       <div>
                         <span>
                           Aqui é mostrado o verbete da última palavra digitada, se houver
                         </span>
                       </div>
                     )}
-                    {!partes && (state.inputRaw !== undefined && state.inputRaw !== '') && (
+                    {!partes && (state.inputFullText !== undefined && state.inputFullText !== '') && (
                       <div>
                         <span>Nenhum verbete para </span>
-                        <span><i>{state.inputRaw}</i></span>
+                        <span><i>{state.inputLastNorm}</i></span>
                       </div>
                     )}
                     {partes && (
@@ -259,20 +256,20 @@ export default function HomePage() {
                           <div>aguarde...</div>
                         ) : (
                           <>
-                            {state.inputNorm && state.inputNorm.length < 3 && (
+                            {state.inputLastNorm && state.inputLastNorm.length < 3 && (
                               <div>
                                 Sugestões para termos com três letras ou mais
                               </div>
                             )}
-                            {(state.inputNorm === '' || state.inputNorm === undefined) && (
+                            {(state.inputLastNorm === '' || state.inputLastNorm === undefined) && (
                               <div>
                                 Digite o texto para ver palavras que contêm a última unidade digitada
                               </div>
                             )}
-                            {state.inputNorm && state.inputNorm.length >= 3 && state.activeSug === null && (
+                            {state.inputLastNorm && state.inputLastNorm.length >= 3 && state.activeSug === null && (
                               <div>Escolha uma forma de sugestão: s, c, e</div>
                             )}
-                            {state.inputNorm && state.inputNorm.length >= 3 && ["s", "c", "e"].map((type) => {
+                            {state.inputLastNorm && state.inputLastNorm.length >= 3 && ["s", "c", "e"].map((type) => {
                               const suggestions = {
                                 s: state.ptBRExtendedS,
                                 c: state.ptBRExtendedC,
@@ -292,7 +289,7 @@ export default function HomePage() {
                               return (
                                 <div key={type}>
                                   <span>Sem sugestões para {label} </span>
-                                  <i>{state.input}</i>
+                                  <i>{state.inputLastNorm}</i>
                                   {state.activeFlag !== null && (
                                     <span> na flag <i>{state.activeFlag}</i></span>
                                   )}
@@ -321,7 +318,7 @@ export default function HomePage() {
                     <div>Aqui são listados os grupos de sinônimos da última palavra digitada</div>
                   )} 
                   {state.hasInput && state.synonymKeyData.length === 0 && (
-                    <div>Não há sinônimos para a palavra: <i>{state.inputNorm}</i></div>
+                    <div>Não há sinônimos para a palavra: <i>{state.inputLastNorm}</i></div>
                   )}  
                   {state.hasInput && state.synonymKeyData && state.synonymKeyData.map((item, index) => {
                     const entriesString = item.entries.join(", ");
@@ -383,7 +380,7 @@ export default function HomePage() {
                   {state.hasInput && state.glosaEntries.length === 0 && (
                     <>
                       <div>Nenhuma glosa que contém:</div>
-                      <span><i>{state.inputNorm}</i></span>
+                      <span><i>{state.inputLastNorm}</i></span>
                     </>
                   )}
                 </div>
@@ -448,11 +445,11 @@ export default function HomePage() {
                 </div>
                 <div className={styles.shared_analog_div}>
                   <div className={styles.shared_analog_itens}>
-                    {!state.hasInput && state.inputNorm === "" && (
+                    {!state.hasInput && state.inputLastNorm === "" && (
                       <div>Aqui são listados os grupos analógicos para cada palavra digitada</div>
                     )}
                     {state.hasInput && state.analogKeyData === null && (
-                      <div>Não há grupos analógicos para a palavra: <i>{state.inputNorm}</i></div>
+                      <div>Não há grupos analógicos para a palavra: <i>{state.inputLastNorm}</i></div>
                     )}
                     {state.hasInput && state.analogKeyData && state.analogKeyData.length > 0 
                     && state.analogKeyData.map((item: string, index) => (
