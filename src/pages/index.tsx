@@ -32,7 +32,7 @@ export default function HomePage() {
   // console.log("isSugDisabled:", state.isSugDisabled)
   // console.log(state.ptBRExtendedC)
   // console.log("Home:", state.inputLastRaw)
-  // console.log("Wik: ", state.wikcioData)
+  console.log("Wik: ", state.wikcioData)
 
   const partes = state.dicioData?.definição 
   ? state.dicioData.definição

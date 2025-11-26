@@ -155,4 +155,4 @@ export async function parseWiktionaryPT(word: string): Promise<WikcioResult | nu
 }
 
 // Exemplo de uso
-// parseWiktionaryPT("abrir");
+// parseWiktionaryPT("esquecer");
