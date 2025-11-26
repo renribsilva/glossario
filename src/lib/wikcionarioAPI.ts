@@ -84,23 +84,34 @@ export function parseWikiSections(lines: string[], word: string): wikcioData {
 
     // linhas que começam com minúscula ou (qualquer coisa) minúscula são definições
     const isDef = /^[a-zà-öø-ÿ]/.test(line) || /^\([^\)]*\)\s*[a-zà-öø-ÿ]/.test(line);
-    if (currentWordKey && isDef && !nextLineIsExample) {
+    const isExample = /^[A-ZÀ-Ö]/.test(line);
+    if (currentWordKey) {
+      if (isDef && !nextLineIsExample) {
+        currentDefKey = line;
+        contentObj[currentWordKey][currentDefKey] = [];
+        continue;
+      } else if (isDef && nextLineIsExample) {
+        if (!contentObj[currentWordKey][currentDefKey!]) {
+          contentObj[currentWordKey][currentDefKey!] = [];
+        }
+        contentObj[currentWordKey][currentDefKey].push(line);
+        nextLineIsExample = false
+        continue;
+      }
+      if (currentDefKey && isExample) {
+        contentObj[currentWordKey][currentDefKey].push(line);
+        continue;
+      }
+    }
+    if (currentSection.title.toLowerCase() === 'etimologia') {
+      if (!currentWordKey) {
+        currentWordKey = word;
+      }
+      if (!contentObj[currentWordKey]) {
+        contentObj[currentWordKey] = {};
+      }
       currentDefKey = line;
       contentObj[currentWordKey][currentDefKey] = [];
-      continue;
-    } else if (currentWordKey && isDef && nextLineIsExample) {
-      if (!contentObj[currentWordKey][currentDefKey!]) {
-        contentObj[currentWordKey][currentDefKey!] = [];
-      }
-      contentObj[currentWordKey][currentDefKey].push(line);
-      nextLineIsExample = false
-      continue;
-    }
-
-    // linhas que começam com maiúscula são exemplos da definição anterior
-    const isExample = /^[A-ZÀ-Ö]/.test(line);
-    if (currentWordKey && currentDefKey && isExample) {
-      contentObj[currentWordKey][currentDefKey].push(line);
       continue;
     }
 
