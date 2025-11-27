@@ -54,8 +54,8 @@ export function parseWikiSections(lines: string[], word: string): wikcioData {
     const contentObj = currentSection.content as Record<string, Record<string, string[]>>;
 
     // 🔹 CORREÇÃO: detecção de palavra exata ou qualificada
-    const sanitizedLine = line.replace(/[\.\-]/g, '').toLowerCase();
-    const sanitizedWord = word.replace(/[\.\-]/g, '').toLowerCase();
+    const sanitizedLine = line.replace(/[.-:]/g, '').toLowerCase();
+    const sanitizedWord = word.replace(/[.-:]/g, '').toLowerCase();
 
     let wordMatch: RegExpMatchArray | null = null;
 
@@ -64,6 +64,8 @@ export function parseWikiSections(lines: string[], word: string): wikcioData {
     } else if (sanitizedLine.startsWith(sanitizedWord + ',')) {
       wordMatch = [sanitizedLine, sanitizedLine];
     } else if (sanitizedLine.startsWith(sanitizedWord + ' transitivo direto,')) {
+      wordMatch = [sanitizedLine, sanitizedLine];
+    } else if (sanitizedLine.startsWith(sanitizedWord + ' nota')) {
       wordMatch = [sanitizedLine, sanitizedLine];
     }
 
@@ -146,6 +148,7 @@ export async function parseWiktionaryPT(word: string): Promise<WikcioResult | nu
   if (!page.extract) return null;
 
   const lines = page.extract.split("\n").map(l => l.trim());
+  console.log(lines)
 
   const root = parseWikiSections(lines, word);
   const ptSection = root.children.find(s => s.title.toLowerCase() === "português") ?? null;
