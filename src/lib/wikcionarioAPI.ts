@@ -148,7 +148,7 @@ export async function parseWiktionaryPT(word: string): Promise<WikcioResult | nu
   if (!page.extract) return null;
 
   const lines = page.extract.split("\n").map(l => l.trim());
-  console.log(lines)
+  // console.log(lines)
 
   const root = parseWikiSections(lines, word);
   const ptSection = root.children.find(s => s.title.toLowerCase() === "português") ?? null;
